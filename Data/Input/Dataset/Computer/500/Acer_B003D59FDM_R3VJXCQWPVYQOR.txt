@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When it became time to replace my aging 17 '' monitor , I went in search for a budget monitor that had not been refurbished -LRB- which in the electronics world seems to be putting it in a new box -RRB- I searched many retail websites and many products before choosing this one at Amazon .</Tokens>
+		<POS>WRB PRP VBD NN TO VB PRP$ NN CD '' NN , PRP VBD IN NN IN DT NN NN WDT VBD RB VBN VBN -LRB- WDT IN DT NNS NN VBZ TO VB VBG PRP IN DT JJ NN -RRB- PRP VBD JJ JJ NNS CC JJ NNS IN VBG DT CD IN NNP .</POS>
+		<Lemma>when it become time to replace my aging 17 '' monitor , I go in search for a budget monitor that have not be refurbish -lrb- which in the electronics world seem to be put it in a new box -rrb- I search many retail website and many product before choose this one at Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Acer V173 monitor may be a budget monitor -LRB- under $ 100.00 with shipping -RRB- but it delivers consistent crisp graphics at 1280 x 1024 native resolution .</Tokens>
+		<POS>DT NNP NN NN MD VB DT NN NN -LRB- IN $ CD IN NN -RRB- CC PRP VBZ JJ JJ NNS IN CD CC CD JJ NN .</POS>
+		<Lemma>the Acer v173 monitor may be a budget monitor -lrb- under $ 100.00 with shipping -rrb- but it deliver consistent crisp graphic at 1280 x 1024 native resolution .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My wife , when seeing the monitor out of the box and in use said `` wow it looks like you could step into that picture -LRB- my wallpaper -RRB- and just walk off '' .</Tokens>
+		<POS>PRP$ NN , WRB VBG DT NN IN IN DT NN CC IN NN VBD `` VB PRP VBZ IN PRP MD VB IN DT NN -LRB- PRP$ NN -RRB- CC RB VB RP '' .</POS>
+		<Lemma>my wife , when see the monitor out of the box and in use say `` wow it look like you could step into that picture -lrb- my wallpaper -rrb- and just walk off '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only drawback with this monitor is that it does not provide a DVI port .</Tokens>
+		<POS>DT JJ NN IN DT NN VBZ IN PRP VBZ RB VB DT NNP NN .</POS>
+		<Lemma>the only drawback with this monitor be that it do not provide a DVI port .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>That would be a major draw back for some , but not for me .</Tokens>
+		<POS>DT MD VB DT JJ NN RB IN DT , CC RB IN PRP .</POS>
+		<Lemma>that would be a major draw back for some , but not for I .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 'm not a major gamer -LRB- although Comnmand & Conquer Red Alert 3 looks really great on this monitor -RRB- so the standard VGA plug did n't sway my decision .</Tokens>
+		<POS>PRP VBP RB DT JJ NN -LRB- IN NNP CC NNP NNP NNP CD VBZ RB JJ IN DT NN -RRB- IN DT JJ NNP NN VBD RB VB PRP$ NN .</POS>
+		<Lemma>I be not a major gamer -lrb- although Comnmand & Conquer Red Alert 3 look really great on this monitor -rrb- so the standard VGA plug do not sway my decision .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In a nutshell , this monitor filled my every day needs at an affordable price .</Tokens>
+		<POS>IN DT NN , DT NN VBD PRP$ DT NN VBZ IN DT JJ NN .</POS>
+		<Lemma>in a nutshell , this monitor fill my every day need at a affordable price .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I run a computer repair shop during the day and fill the monetary gap by working at a fast food joint at night .</Tokens>
+		<POS>PRP VBP DT NN NN NN IN DT NN CC VB DT JJ NN IN VBG IN DT JJ NN NN IN NN .</POS>
+		<Lemma>I run a computer repair shop during the day and fill the monetary gap by work at a fast food joint at night .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>While at the fast food joint I noticed that their monitors were -LRB- are you already guessing ? -RRB-</Tokens>
+		<POS>IN IN DT JJ NN NN PRP VBD IN PRP$ NNS VBD -LRB- VBP PRP RB VBG . -RRB-</POS>
+		<Lemma>while at the fast food joint I notice that they monitor be -lrb- be you already guess ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Acer V173 monitors .</Tokens>
+		<POS>NNP NN NNS .</POS>
+		<Lemma>Acer v173 monitor .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I guess if they purchased six of these monitors for their registers and drive thru they are good enough for me as well .</Tokens>
+		<POS>PRP VBP IN PRP VBD CD IN DT NNS IN PRP$ VBZ CC NN NN PRP VBP JJ RB IN PRP RB RB .</POS>
+		<Lemma>I guess if they purchase six of these monitor for they register and drive thru they be good enough for I as well .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The monitor comes with Acer 's eDisplay management software and the user 's manual .</Tokens>
+		<POS>DT NN VBZ IN NNP POS NNP NN NN CC DT NN POS NN .</POS>
+		<Lemma>the monitor come with Acer 's eDisplay management software and the user 's manual .</Lemma>
+	</Sentence>
+</Document>

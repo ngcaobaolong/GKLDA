@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I like Bob 's Red Mill cereals and I generally prefer the taste of whole-grain products .</Tokens>
+		<POS>PRP VBP NNP POS NNP NNP NNS CC PRP RB VBP DT NN IN JJ NNS .</POS>
+		<Lemma>I like Bob 's Red Mill cereal and I generally prefer the taste of whole-grain product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But this bread tastes bad .</Tokens>
+		<POS>CC DT NN NNS JJ .</POS>
+		<Lemma>but this bread taste bad .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I put a lot of jam on it but still could n't mask the bad taste .</Tokens>
+		<POS>PRP VBD DT NN IN NN IN PRP CC RB MD RB NN DT JJ NN .</POS>
+		<Lemma>I put a lot of jam on it but still could not mask the bad taste .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I give it two stars for the list of ingredients -- this might be the first time I ate bread made out of beans .</Tokens>
+		<POS>PRP VBP PRP CD NNS IN DT NN IN NNS : DT MD VB DT JJ NN PRP VBD NN VBN IN IN NNS .</POS>
+		<Lemma>I give it two star for the list of ingredient -- this might be the first time I eat bread make out of bean .</Lemma>
+	</Sentence>
+</Document>

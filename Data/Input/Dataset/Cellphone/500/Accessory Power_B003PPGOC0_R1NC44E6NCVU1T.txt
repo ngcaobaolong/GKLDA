@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>NOTE : I was using this device with an iPhone 4 I got this to replace an old El Cheapo knock-off of the Belkin adapter that you plug into the head phone jack to transmit to the radio .</Tokens>
+		<POS>VB : PRP VBD VBG DT NN IN DT NNP CD PRP VBD DT TO VB DT JJ NNP NNP NN IN DT NNP NN IN PRP VBP IN DT NN NN NN TO VB TO DT NN .</POS>
+		<Lemma>note : I be use this device with a iPhone 4 I get this to replace a old El Cheapo knock-off of the Belkin adapter that you plug into the head phone jack to transmit to the radio .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Honestly , I was much happier with El Cheapo .</Tokens>
+		<POS>RB , PRP VBD JJ JJR IN NNP NNP .</POS>
+		<Lemma>honestly , I be much happier with El Cheapo .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I think I paid about $ 10 for my old one and about $ 50 for this one .</Tokens>
+		<POS>PRP VBP PRP VBN RB $ CD IN PRP$ JJ CD CC RB $ CD IN DT CD .</POS>
+		<Lemma>I think I pay about $ 10 for my old one and about $ 50 for this one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So this thing does work , but the signal strength is incredibly weak .</Tokens>
+		<POS>RB DT NN VBZ VB , CC DT NN NN VBZ RB JJ .</POS>
+		<Lemma>so this thing do work , but the signal strength be incredibly weak .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>No matter what station I tuned it to the quality and volume of the music being transmitted was really weak .</Tokens>
+		<POS>DT NN WDT NN PRP VBD PRP TO DT NN CC NN IN DT NN VBG VBN VBD RB JJ .</POS>
+		<Lemma>no matter what station I tune it to the quality and volume of the music be transmit be really weak .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It almost always had a noticeable static hiss in the background .</Tokens>
+		<POS>PRP RB RB VBD DT JJ JJ NN IN DT NN .</POS>
+		<Lemma>it almost always have a noticeable static hiss in the background .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Seriously my old cheap one did a better job transmitting a stronger signal .</Tokens>
+		<POS>RB PRP$ JJ JJ NN VBD DT JJR NN VBG DT JJR NN .</POS>
+		<Lemma>seriously my old cheap one do a better job transmit a stronger signal .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Also , the USB charging ability can not be used while transmitting music because having it plugged into your phone causes an annoying screeching sound .</Tokens>
+		<POS>RB , DT JJ VBG NN MD RB VB VBN IN VBG NN IN VBG PRP VBD IN PRP$ NN VBZ DT JJ VBG NN .</POS>
+		<Lemma>also , the usb charge ability can not be use while transmit music because have it plug into you phone cause a annoying screech sound .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You can use it to charge your phone but not while listening to music .</Tokens>
+		<POS>PRP MD VB PRP TO VB PRP$ NN CC RB IN VBG TO NN .</POS>
+		<Lemma>you can use it to charge you phone but not while listen to music .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Lastly , the cigarette lighter plug got STUCK in my cigarette lighter jack .</Tokens>
+		<POS>RB , DT NN JJR NN VBD NNP IN PRP$ NN JJR NN .</POS>
+		<Lemma>lastly , the cigarette lighter plug get STUCK in my cigarette lighter jack .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I have a 2006 Subaru Outback and the damn thing literally got stuck in the jack .</Tokens>
+		<POS>PRP VBP DT CD NNP NNP CC DT JJ NN RB VBD VBN IN DT NN .</POS>
+		<Lemma>I have a 2006 Subaru Outback and the damn thing literally get stick in the jack .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I had to get pliers and a screwdriver to get it out and I nearly ripped the entire jack out of my car .</Tokens>
+		<POS>PRP VBD TO VB NNS CC DT NN TO VB PRP RP CC PRP RB VBD DT JJ NN IN IN PRP$ NN .</POS>
+		<Lemma>I have to get pliers and a screwdriver to get it out and I nearly rip the entire jack out of my car .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Because of this fact alone I wanted to give this thing negative stars .</Tokens>
+		<POS>IN IN DT NN RB PRP VBD TO VB DT NN JJ NNS .</POS>
+		<Lemma>because of this fact alone I want to give this thing negative star .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I do n't know if the product I got was just defective or if they are all the same , but based on my experience I would highly recommend staying away from this product .</Tokens>
+		<POS>PRP VBP RB VB IN DT NN PRP VBD VBD RB JJ CC IN PRP VBP PDT DT JJ , CC VBN IN PRP$ NN PRP MD RB VB VBG RB IN DT NN .</POS>
+		<Lemma>I do not know if the product I get be just defective or if they be all the same , but base on my experience I would highly recommend stay away from this product .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Save yourself some money and get the cheap one .</Tokens>
+		<POS>VB PRP DT NN CC VB DT JJ CD .</POS>
+		<Lemma>save yourself some money and get the cheap one .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Transmitting your music through the radio is always going to produce a mediocre quality sound so why spend a bunch or money on a fancy one when you can get one for 1\/5 the price ?</Tokens>
+		<POS>VBG PRP$ NN IN DT NN VBZ RB VBG TO VB DT JJ NN NN RB WRB VBP DT NN CC NN IN DT JJ CD WRB PRP MD VB CD IN CD DT NN .</POS>
+		<Lemma>transmit you music through the radio be always go to produce a mediocre quality sound so why spend a bunch or money on a fancy one when you can get one for 1\/5 the price ?</Lemma>
+	</Sentence>
+</Document>

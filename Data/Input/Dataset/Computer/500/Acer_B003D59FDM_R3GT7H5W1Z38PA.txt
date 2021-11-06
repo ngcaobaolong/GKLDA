@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My Husband loves his new monitor .</Tokens>
+		<POS>PRP$ NNP VBZ PRP$ JJ NN .</POS>
+		<Lemma>my Husband love he new monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>He was so excited when the package came and declared this as his best birthday ever .</Tokens>
+		<POS>PRP VBD RB VBN WRB DT NN VBD CC VBD DT IN PRP$ JJS NN RB .</POS>
+		<Lemma>he be so excite when the package come and declare this as he best birthday ever .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>He just turned 90 .</Tokens>
+		<POS>PRP RB VBD CD .</POS>
+		<Lemma>he just turn 90 .</Lemma>
+	</Sentence>
+</Document>

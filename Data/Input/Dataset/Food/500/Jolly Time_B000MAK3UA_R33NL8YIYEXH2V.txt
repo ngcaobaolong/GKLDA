@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this popcorn !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this popcorn !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not just because it is 100 calories , it just really good microwave popcorn .</Tokens>
+		<POS>RB RB IN PRP VBZ CD NNS , PRP RB RB JJ NN NN .</POS>
+		<Lemma>not just because it be 100 calorie , it just really good microwave popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It does n't have too much of that fake butter flavor or anything .</Tokens>
+		<POS>PRP VBZ RB VB RB JJ IN DT JJ NN NN CC NN .</POS>
+		<Lemma>it do not have too much of that fake butter flavor or anything .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have n't even had to salt it .</Tokens>
+		<POS>PRP VBP RB RB VBD TO NN PRP .</POS>
+		<Lemma>I have not even have to salt it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Maybe it is the small bag but it cooks perfectly and never burns .</Tokens>
+		<POS>RB PRP VBZ DT JJ NN CC PRP NNS RB CC RB NNS .</POS>
+		<Lemma>maybe it be the small bag but it cook perfectly and never burn .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am a junk food junkie and a late night snacker and I can eat a bag of this right before I go to sleep and I do n't feel guilty knowing it is only 100 calories .</Tokens>
+		<POS>PRP VBP DT NN NN NN CC DT JJ NN NN CC PRP MD VB DT NN IN DT NN IN PRP VBP TO VB CC PRP VBP RB VB JJ VBG PRP VBZ RB CD NNS .</POS>
+		<Lemma>I be a junk food junkie and a late night snacker and I can eat a bag of this right before I go to sleep and I do not feel guilty know it be only 100 calorie .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And 60 bags for under $ 24 delivered to my front door ??</Tokens>
+		<POS>CC CD NNS IN IN $ CD VBN TO PRP$ JJ NN IN</POS>
+		<Lemma>and 60 bag for under $ 24 deliver to my front door ??</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>How can you beat that ?</Tokens>
+		<POS>WRB MD PRP VB IN .</POS>
+		<Lemma>how can you beat that ?</Lemma>
+	</Sentence>
+</Document>

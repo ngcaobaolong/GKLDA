@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The flavor is fantastic -- not too spicy but certainly not bland .</Tokens>
+		<POS>DT NN VBZ JJ : RB RB JJ CC RB RB JJ .</POS>
+		<Lemma>the flavor be fantastic -- not too spicy but certainly not bland .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I generally do n't like eating soup and this seems a bit `` soupy '' because the spinach is pureed so much ; however , the taste makes up for that complaint .</Tokens>
+		<POS>PRP RB VBP RB VB VBG NN CC DT VBZ DT NN `` JJ '' IN DT NN VBZ VBN RB RB : RB , DT NN VBZ RP IN DT NN .</POS>
+		<Lemma>I generally do not like eat soup and this seem a bit `` soupy '' because the spinach be puree so much ; however , the taste make up for that complaint .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When the only food around town is unhealthy fast food , Kitchens of India 's products are a wonderful and healthy alternative to have stored away at the office .</Tokens>
+		<POS>WRB DT JJ NN IN NN VBZ JJ JJ NN , NNP IN NNP POS NNS VBP DT JJ CC JJ NN TO VB VBN RB IN DT NN .</POS>
+		<Lemma>when the only food around town be unhealthy fast food , Kitchens of India 's product be a wonderful and healthy alternative to have store away at the office .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The problem is , they do n't stay stored too long because they taste too good !</Tokens>
+		<POS>DT NN VBZ , PRP VBP RB VB VBN RB RB IN PRP VBP RB JJ .</POS>
+		<Lemma>the problem be , they do not stay store too long because they taste too good !</Lemma>
+	</Sentence>
+</Document>

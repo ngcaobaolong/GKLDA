@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Another great product from Acer !</Tokens>
+		<POS>DT JJ NN IN NNP .</POS>
+		<Lemma>another great product from Acer !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use to own an Acer Aspire laptop , which I recently sold to purchase my mac mini .</Tokens>
+		<POS>PRP VBP TO VB DT NNP NNP NN , WDT PRP RB VBD TO VB PRP$ NN NNS .</POS>
+		<Lemma>I use to own a Acer Aspire laptop , which I recently sell to purchase my mac minus .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am using this monitor with the mac mini and I love it .</Tokens>
+		<POS>PRP VBP VBG DT NN IN DT NN NNS CC PRP VBP PRP .</POS>
+		<Lemma>I be use this monitor with the mac minus and I love it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have had no problems and the quality is great .</Tokens>
+		<POS>PRP VBP VBN DT NNS CC DT NN VBZ JJ .</POS>
+		<Lemma>I have have no problem and the quality be great .</Lemma>
+	</Sentence>
+</Document>

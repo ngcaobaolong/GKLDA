@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I would consider myself a loyal CD and radio fan in the past , which has prevented me from buying any FM transmitters , especially since all of the people I know who have them always seem to have problems with frequency and connection .</Tokens>
+		<POS>PRP MD VB PRP DT JJ NN CC NN NN IN DT NN , WDT VBZ VBN PRP IN VBG DT NNP NNS , RB IN DT IN DT NNS PRP VBP WP VBP PRP RB VBP TO VB NNS IN NN CC NN .</POS>
+		<Lemma>I would consider myself a loyal cd and radio fan in the past , which have prevent I from buy any FM transmitter , especially since all of the people I know who have they always seem to have problem with frequency and connection .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I knew that if I were to buy one I would need to fork out some cash so I could at least have a good quality of music .</Tokens>
+		<POS>PRP VBD IN IN PRP VBD TO VB CD PRP MD VB TO NN IN DT NN IN PRP MD IN JJS VBP DT JJ NN IN NN .</POS>
+		<Lemma>I know that if I be to buy one I would need to fork out some cash so I could at least have a good quality of music .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This transmitter made me nervous , for a high school grad money is pretty tight so this purchase was a risk I was willing to take and am so so glad I did .</Tokens>
+		<POS>DT NN VBD PRP JJ , IN DT JJ NN NN NN VBZ RB JJ IN DT NN VBD DT NN PRP VBD JJ TO VB CC VBP RB RB JJ PRP VBD .</POS>
+		<Lemma>this transmitter make I nervous , for a high school grad money be pretty tight so this purchase be a risk I be willing to take and be so so glad I do .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For those of you hesitating because of the cost ask yourself these questions : Is sound quality important ?</Tokens>
+		<POS>IN DT IN PRP VBG IN IN DT NN VB PRP DT NNS : VBZ JJ NN JJ .</POS>
+		<Lemma>for those of you hesitate because of the cost ask yourself these question : be sound quality important ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Would you appreciate the neatness cordless provides ?</Tokens>
+		<POS>MD PRP VB DT NN NN VBZ .</POS>
+		<Lemma>would you appreciate the neatness cordless provide ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>-LRB- iPhone users -RRB- Do you frequently make calls on the road ?</Tokens>
+		<POS>-LRB- NNP NNS -RRB- VBP PRP RB VBP NNS IN DT NN .</POS>
+		<Lemma>-lrb- iPhone user -rrb- do you frequently make call on the road ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you answered all of these questions with a yes , stop reading this and buy it .</Tokens>
+		<POS>IN PRP VBD DT IN DT NNS IN DT RB , VB VBG DT CC VB PRP .</POS>
+		<Lemma>if you answer all of these question with a yes , stop read this and buy it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The only thing I can think of that could be changed is a beep that signals that bluetooth is connected to your device -LRB- freaks me out every time I get in the car -RRB- .</Tokens>
+		<POS>DT JJ NN PRP MD VB IN DT MD VB VBN VBZ DT NN WDT VBZ IN NN VBZ VBN TO PRP$ NN -LRB- NNS PRP IN DT NN PRP VBP IN DT NN -RRB- .</POS>
+		<Lemma>the only thing I can think of that could be change be a beep that signal that bluetooth be connect to you device -lrb- freak I out every time I get in the car -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Also , the songs have great sound quality overall , but for some reason some of the base is lost so just click up the base a couple notches and it is perfect .</Tokens>
+		<POS>RB , DT NNS VBP JJ JJ NN RB , CC IN DT NN DT IN DT NN VBZ VBN RB RB VB RP DT NN DT NN NNS CC PRP VBZ JJ .</POS>
+		<Lemma>also , the song have great sound quality overall , but for some reason some of the base be lose so just click up the base a couple notch and it be perfect .</Lemma>
+	</Sentence>
+</Document>

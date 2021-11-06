@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>RECEIVED THIS ITEM YESTERDAY FOR MY WIFE 'S IPHONE 4S .</Tokens>
+		<POS>VBN NNPS NNP NNP IN NNP NNP POS NNP NN .</POS>
+		<Lemma>receive THIS ITEM YESTERDAY for MY WIFE 's IPHONE 4 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>WORKS PERFECTLY SO FAR .</Tokens>
+		<POS>VBZ RB JJ RB .</POS>
+		<Lemma>work perfectly so far .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>WE 'RE IN AN AREA WHERE ALMOST EVERY STATION HAS GOT SOMETHING OR OTHER COMING THROUGH AND THIS TRANSMITTER HAS HAD VERY MINIMAL INTERFERENCE .</Tokens>
+		<POS>NNP NNP IN DT NN VBD NNP NNP NNP VBZ NNP NNP NN NNP NNP NNPS CC NNPS NNP VBZ NN RB JJ NN .</POS>
+		<Lemma>WE 'RE in a area where ALMOST EVERY STATION have GOT SOMETHING or OTHER COMING THROUGH and THIS TRANSMITTER have had very minimal interference .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>BLUETOOTH WORKS PERFECTLY AND CONNECTS IMMEDIATELY .</Tokens>
+		<POS>NNP VBZ RB CC VBZ RB .</POS>
+		<Lemma>BLUETOOTH work perfectly and connect immediately .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>VERY COOL TO BE ABLE TO LISTEN TO PANDORA , YOUTUBE , PODCASTS , ETC. .</Tokens>
+		<POS>RB JJ TO VB NNP TO NNP TO NNP , NNP , NNP , NNP .</POS>
+		<Lemma>very cool to be ABLE to LISTEN to PANDORA , YOUTUBE , PODCASTS , ETC. .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>WHILE IN THE CAR .</Tokens>
+		<POS>IN IN DT NN .</POS>
+		<Lemma>while in the car .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>USB PORTS ON UNIT ARE A NICE TOUCH .</Tokens>
+		<POS>JJ NNS IN NNP VBP DT JJ NN .</POS>
+		<Lemma>usb port on UNIT be a nice touch .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>COMES WITH SEVERAL DIFFERENT VARIETIES OF USB CABLES AS WELL WHICH WILL ACCOMMODATE MANY DIFFERENT PHONE TYPES AND ELECTRONICS .</Tokens>
+		<POS>VBZ IN CD JJ NNS IN JJ NNS JJ NNP WDT MD VB NN JJ NN NNS CC NNS .</POS>
+		<Lemma>come with several different variety of usb cable as WELL which will accommodate many different phone type and electronics .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>THREE YEAR WARRANTY -LRB- LIMITED OF COURSE -RRB- .</Tokens>
+		<POS>CD NNP NNP -LRB- NNP IN NNP -RRB- .</POS>
+		<Lemma>three YEAR WARRANTY -lrb- LIMITED of COURSE -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>ALL IN ALL COMPARED TO OTHER TRANSMITTERS WE HAVE TRIED IN THE PAST THIS ONE IS BY FAR THE BEST .</Tokens>
+		<POS>NN IN NN VBN TO NNP NNP NNP NNP VBD IN DT NN VBZ CD VBZ NNP RB DT NN .</POS>
+		<Lemma>all in all compare to OTHER TRANSMITTERS WE HAVE try in the past this one be BY far the best .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>OK .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>ok .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I 'M GOING TO TURN CAPS LOCK OFF NOW .</Tokens>
+		<POS>PRP VBP JJ TO VB NNS VB NN RB .</POS>
+		<Lemma>I be going to turn cap lock off now .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>-LRB- 4 stars for now until we 've had it a while ... -RRB-</Tokens>
+		<POS>-LRB- CD NNS IN RB IN PRP VBP VBD PRP DT NN : -RRB-</POS>
+		<Lemma>-lrb- 4 star for now until we have have it a while ... -rrb-</Lemma>
+	</Sentence>
+</Document>

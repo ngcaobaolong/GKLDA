@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread tastes great !</Tokens>
+		<POS>DT NN NNS JJ .</POS>
+		<Lemma>this bread taste great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its flavor and texture remind me of a an old world pumpernickle or rye .</Tokens>
+		<POS>PRP$ NN CC NN VBP PRP IN DT DT JJ NN NN CC NN .</POS>
+		<Lemma>its flavor and texture remind I of a a old world pumpernickle or rye .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Be careful ... it 's addicting .</Tokens>
+		<POS>VB JJ : PRP VBZ JJ .</POS>
+		<Lemma>be careful ... it be addicting .</Lemma>
+	</Sentence>
+</Document>

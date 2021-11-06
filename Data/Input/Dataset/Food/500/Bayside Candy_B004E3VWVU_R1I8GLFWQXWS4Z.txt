@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These nuts were shipped very fast .</Tokens>
+		<POS>DT NNS VBD VBN RB RB .</POS>
+		<Lemma>these nut be ship very fast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are fresh .</Tokens>
+		<POS>PRP VBP JJ .</POS>
+		<Lemma>they be fresh .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am roasting them for 15 minutes at 325 .</Tokens>
+		<POS>PRP VBP VBG PRP IN CD NNS IN CD .</POS>
+		<Lemma>I be roast they for 15 minute at 325 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>While still warm , I stirr in a little coconut oil and sprinkle with salt .</Tokens>
+		<POS>IN RB JJ , PRP VBP IN DT JJ NN NN CC VBP IN NN .</POS>
+		<Lemma>while still warm , I stirr in a little coconut oil and sprinkle with salt .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>VERY GOOD nuts .</Tokens>
+		<POS>RB JJ NNS .</POS>
+		<Lemma>very good nut .</Lemma>
+	</Sentence>
+</Document>

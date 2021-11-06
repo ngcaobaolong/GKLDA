@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had such high hopes for the camera .</Tokens>
+		<POS>PRP VBD JJ JJ NNS IN DT NN .</POS>
+		<Lemma>I have such high hope for the camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have used expensive Sony video camcorders and had a couple of digital Sony products which were very good .</Tokens>
+		<POS>PRP VBP VBN JJ NNP NN NNS CC VBD DT NN IN JJ NNP NNS WDT VBD RB JJ .</POS>
+		<Lemma>I have use expensive Sony video camcorder and have a couple of digital Sony product which be very good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It just shows you that even good companies will make a lemon sometimes .</Tokens>
+		<POS>PRP RB VBZ PRP IN RB JJ NNS MD VB DT JJ RB .</POS>
+		<Lemma>it just show you that even good company will make a lemon sometimes .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This camera feels like a cheap 49 dollar camera in you hand .</Tokens>
+		<POS>DT NN VBZ IN DT JJ CD NN NN IN PRP NN .</POS>
+		<Lemma>this camera feel like a cheap 49 dollar camera in you hand .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Acts like one too .</Tokens>
+		<POS>NNS IN CD RB .</POS>
+		<Lemma>act like one too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My wife 's $ 100 Nikon got superior shots to this camera .</Tokens>
+		<POS>PRP$ NN POS $ CD NNP VBD JJ NNS TO DT NN .</POS>
+		<Lemma>my wife 's $ 100 Nikon get superior shot to this camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In addition whenever I would use the zoom on the video , it would make a clicking noise from the motor on the video .</Tokens>
+		<POS>IN NN WRB PRP MD VB DT NN IN DT NN , PRP MD VB DT VBG NN IN DT NN IN DT NN .</POS>
+		<Lemma>in addition whenever I would use the zoom on the video , it would make a click noise from the motor on the video .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Not so cool unless you 're planning to edit out the video audio and just use music in the background .</Tokens>
+		<POS>RB RB JJ IN PRP VBP VBG TO VB RP DT NN NN CC RB VB NN IN DT NN .</POS>
+		<Lemma>not so cool unless you be plan to edit out the video audio and just use music in the background .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The only plus to the camera is that it 's small .</Tokens>
+		<POS>DT JJ NN TO DT NN VBZ IN PRP VBZ JJ .</POS>
+		<Lemma>the only plus to the camera be that it be small .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Hope that helps .</Tokens>
+		<POS>NNP WDT VBZ .</POS>
+		<Lemma>Hope that help .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I am returning this one to Bestbuy and have purchased a Canon ELPH 300HS which I am extremely happy with .</Tokens>
+		<POS>PRP VBP VBG DT CD TO NNP CC VB VBN DT NNP NNP NNP WDT PRP VBP RB JJ IN .</POS>
+		<Lemma>I be return this one to Bestbuy and have purchase a Canon ELPH 300HS which I be extremely happy with .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens> Canon PowerShot ELPH 300 HS 12.1 MP Digital Camera -LRB- Black -RRB- </Tokens>
+		<POS>NN NNP NNP NNP CD NN CD NN NNP NNP -LRB- NNP -RRB- IN</POS>
+		<Lemma> Canon PowerShot ELPH 300 h 12.1 mp Digital Camera -lrb- Black -rrb- </Lemma>
+	</Sentence>
+</Document>

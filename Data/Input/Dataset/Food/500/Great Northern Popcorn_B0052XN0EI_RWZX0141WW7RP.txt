@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is some of the highest quality popcorn we have ever had .</Tokens>
+		<POS>DT VBZ DT IN DT JJS NN NN PRP VBP RB VBN .</POS>
+		<Lemma>this be some of the highest quality popcorn we have ever have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is tender and the taste is wonderful .</Tokens>
+		<POS>PRP VBZ NN CC DT NN VBZ JJ .</POS>
+		<Lemma>it be tender and the taste be wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Only wish they made it in smaller bags , but I have large Tupperware , so no biggie .</Tokens>
+		<POS>RB NN PRP VBD PRP IN JJR NNS , CC PRP VBP JJ NNP , IN DT NN .</POS>
+		<Lemma>only wish they make it in smaller bag , but I have large Tupperware , so no biggie .</Lemma>
+	</Sentence>
+</Document>

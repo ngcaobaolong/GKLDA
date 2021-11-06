@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First , let me start by saying we love Bob 's Mill products .</Tokens>
+		<POS>RB , VB PRP VB IN VBG PRP VBP NNP POS NNP NNS .</POS>
+		<Lemma>first , let I start by say we love Bob 's Mill product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought this mix thinking it would be a whole grain bread , suitable for breakfast .</Tokens>
+		<POS>PRP VBD DT NN VBG PRP MD VB DT JJ NN NN , JJ IN NN .</POS>
+		<Lemma>I buy this mix think it would be a whole grain bread , suitable for breakfast .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The taste is more like ` rye ' bread , and not at all what I was expecting .</Tokens>
+		<POS>DT NN VBZ RBR IN `` NN '' NN , CC RB IN DT WP PRP VBD VBG .</POS>
+		<Lemma>the taste be more like ` rye ' bread , and not at all what I be expect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It might be fine for sandwiches , if you like rye bread , but we do n't .</Tokens>
+		<POS>PRP MD VB JJ IN NNS , IN PRP IN NN NN , CC PRP VBP RB .</POS>
+		<Lemma>it might be fine for sandwich , if you like rye bread , but we do not .</Lemma>
+	</Sentence>
+</Document>

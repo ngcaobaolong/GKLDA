@@ -1,0 +1,267 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera for my wife who wanted to get back into photography .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ NN WP VBD TO VB RB IN NN .</POS>
+		<Lemma>I buy this camera for my wife who want to get back into photography .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We have a couple of point an shoots , one of which -LRB- an old Casio EXLIM 6 MP -RRB- does a very good job but she wanted to kick up the quality a notch .</Tokens>
+		<POS>PRP VBP DT NN IN NN DT NNS , CD IN WDT -LRB- DT JJ NNP NNP CD NN -RRB- VBZ DT RB JJ NN CC PRP VBD TO VB RP DT NN DT NN .</POS>
+		<Lemma>we have a couple of point a shoot , one of which -lrb- a old Casio EXLIM 6 mp -rrb- do a very good job but she want to kick up the quality a notch .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We looked at the Nikon D3100 14.2 MP Digital SLR Camera with 18-55mm f\/3 .5 -5.6 AF-S DX VR Nikkor Zoom Lens and a bridge camera Canon G12 10MP Digital Camera with 5x Optical Image Stabilized Zoom and 2.8 inch Vari-Angle LCD and if I understood it correctly the Nikon cameras use the same APS-C sensor .</Tokens>
+		<POS>PRP VBD IN DT NN NNP NNP CD NNP NNP NNP NN IN JJ NN CD CD NN NN NN NNP NNP NNP NN CC DT NN NN NN NNP NNP NNP NNP NNP IN NN NNP NN VBD NN CC CD NN NNP NNS NN CC IN PRP VBD PRP RB DT NNP NNS VBP DT JJ NN NN .</POS>
+		<Lemma>we look at the Nikon D3100 14.2 MP Digital SLR camera with 18-55mm f\/3 .5 -5.6 af-s dx vr Nikkor Zoom Lens and a bridge camera Canon G12 10MP Digital Camera with 5x Optical image stabilize zoom and 2.8 inch Vari-Angle lcd and if I understand it correctly the Nikon camera use the same aps-c sensor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But we also wanted to take some video and this camera with the translucent mirror does a really good job of that .</Tokens>
+		<POS>CC PRP RB VBD TO VB DT NN CC DT NN IN DT JJ NN VBZ DT RB JJ NN IN DT .</POS>
+		<Lemma>but we also want to take some video and this camera with the translucent mirror do a really good job of that .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And the Cannon 's photos were n't even as good as the old Casio .</Tokens>
+		<POS>CC DT NNP POS NNS VBD RB RB IN JJ IN DT JJ NNP .</POS>
+		<Lemma>and the Cannon 's photo be not even as good as the old Casio .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>-LRB- must be the software , as the sensor should have been better . -RRB-</Tokens>
+		<POS>-LRB- MD VB DT NN , IN DT NN MD VB VBN JJR . -RRB-</POS>
+		<Lemma>-lrb- must be the software , as the sensor should have be better . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I leave the camera in the super automatic mode .</Tokens>
+		<POS>PRP VBP DT NN IN DT JJ JJ NN .</POS>
+		<Lemma>I leave the camera in the super automatic mode .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>And on a vacation trip in Florida we had been looking for White Egrets all day and then I saw one by the road .</Tokens>
+		<POS>CC IN DT NN NN IN NNP PRP VBD VBN VBG IN NNP NNPS DT NN CC RB PRP VBD CD IN DT NN .</POS>
+		<Lemma>and on a vacation trip in Florida we have be look for White Egrets all day and then I see one by the road .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>We stopped the car , I grabbed the camera , turned it on , flipped the lens cap off and shot from the hip while jumping out of the car .</Tokens>
+		<POS>PRP VBD DT NN , PRP VBD DT NN , VBD PRP IN , VBD DT NN NN RB CC VBN IN DT NN IN VBG RB IN DT NN .</POS>
+		<Lemma>we stop the car , I grab the camera , turn it on , flip the lens cap off and shoot from the hip while jump out of the car .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I got the shot !</Tokens>
+		<POS>PRP VBD DT NN .</POS>
+		<Lemma>I get the shot !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>In fact I got 2 reasonable and 1 great shot even before I got the view finder to my eye .</Tokens>
+		<POS>IN NN PRP VBD CD JJ CC CD JJ NN RB IN PRP VBD DT NN NN TO PRP$ NN .</POS>
+		<Lemma>in fact I get 2 reasonable and 1 great shot even before I get the view finder to my eye .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It 's that fast at focus and shooting .</Tokens>
+		<POS>PRP VBZ DT JJ IN NN CC NN .</POS>
+		<Lemma>it be that fast at focus and shooting .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I bought an external microphone , -LRB- Sony ECM-CG50BP Shotgun Microphone -RRB- and that has helped the sound pickup for video .</Tokens>
+		<POS>PRP VBD DT JJ NN , -LRB- NNP NN NNP NNP -RRB- CC DT VBZ VBN DT JJ NN IN NN .</POS>
+		<Lemma>I buy a external microphone , -lrb- Sony ecm-cg50bp Shotgun Microphone -rrb- and that have help the sound pickup for video .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Still though I left the camera in auto focus mode and you can hear the lens moving as we moved around in our chairs .</Tokens>
+		<POS>RB IN PRP VBD DT NN IN NN NN NN CC PRP MD VB DT NN VBG IN PRP VBD RB IN PRP$ NNS .</POS>
+		<Lemma>still though I leave the camera in auto focus mode and you can hear the lens move as we move around in we chair .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I should have turned that off .</Tokens>
+		<POS>PRP MD VB VBN DT RP .</POS>
+		<Lemma>I should have turn that off .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>You also have to turn off image stabilization or the sensor heats up and you only get 9 minutes of video .</Tokens>
+		<POS>PRP RB VBP TO VB RP NN NN CC DT NN VBZ RP CC PRP RB VBP CD NNS IN NN .</POS>
+		<Lemma>you also have to turn off image stabilization or the sensor heat up and you only get 9 minute of video .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>We had been warned that the translucent mirror would cost us about 1 f-stop .</Tokens>
+		<POS>PRP VBD VBN VBN IN DT JJ NN MD VB PRP IN CD NN .</POS>
+		<Lemma>we have be warn that the translucent mirror would cost we about 1 f-stop .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>In practice that has n't been an issue .</Tokens>
+		<POS>IN NN WDT VBZ RB VBN DT NN .</POS>
+		<Lemma>in practice that have not be a issue .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>We take mostly daylight shots and there is more than enough light for the sensor .</Tokens>
+		<POS>PRP VBP RB NN NNS CC EX VBZ JJR IN JJ NN IN DT NN .</POS>
+		<Lemma>we take mostly daylight shot and there be more than enough light for the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>And you can get the camera to take a series of 6 photos no flash and blend them to get a single lowlight shot .</Tokens>
+		<POS>CC PRP MD VB DT NN TO VB DT NN IN CD NNS DT NN CC VB PRP TO VB DT JJ NN NN .</POS>
+		<Lemma>and you can get the camera to take a series of 6 photo no flash and blend they to get a single lowlight shot .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>It 's really cool to watch the camera do this but it works really well .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB DT NN VBP DT CC PRP VBZ RB RB .</POS>
+		<Lemma>it be really cool to watch the camera do this but it work really well .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I 've only played around with the panorama mode but it works really well .</Tokens>
+		<POS>PRP VBP RB VBN IN IN DT NN NN CC PRP VBZ RB RB .</POS>
+		<Lemma>I have only play around with the panorama mode but it work really well .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I even took a series of my wife against the waves on the beach and even with the water moving behind her it blended them correctly .</Tokens>
+		<POS>PRP RB VBD DT NN IN PRP$ NN IN DT NNS IN DT NN CC RB IN DT NN VBG IN PRP$ PRP JJ PRP RB .</POS>
+		<Lemma>I even take a series of my wife against the wave on the beach and even with the water move behind she it blended they correctly .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I shot fast , as I pressed the shutter as fast as I could and panned the camera , but still it 's pretty amazing that it knew what to do .</Tokens>
+		<POS>PRP VBD RB , IN PRP VBD DT NN IN JJ IN PRP MD CC VBD DT NN , CC RB PRP VBZ RB JJ IN PRP VBD WP TO VB .</POS>
+		<Lemma>I shoot fast , as I press the shutter as fast as I could and pan the camera , but still it be pretty amazing that it know what to do .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>We got the kit lens Sony 18-55mm f\/3 .5 -5.6 SAM DT Standard Zoom Lens for Sony Alpha Digital SLR Cameras with the camera and with the two lens deal picked up the Sony 55-200mm f\/4 -5.6 SAM DT Telephoto Zoom Lens for Sony Alpha Digital SLR Cameras for another hundred .</Tokens>
+		<POS>PRP VBD DT NN NN NN NNP JJ NN CD CD NNP NNP NNP NNP NNP IN NNP NNP NNP NNP NNPS NN IN DT NN CC IN DT CD NN NN VBD RP DT NN NNP JJ NN CD NNP NNP NNP NNP NNP IN NNP NNP NNP NNP NNPS NN IN DT CD .</POS>
+		<Lemma>we get the kit lens Sony 18-55mm f\/3 .5 -5.6 SAM DT Standard Zoom Lens for Sony Alpha Digital SLR Cameras with the camera and with the two lens deal pick up the Sony 55-200mm f\/4 -5.6 SAM DT Telephoto Zoom Lens for Sony Alpha Digital SLR Cameras for another hundred .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>That 's not my recommendation .</Tokens>
+		<POS>DT VBZ RB PRP$ NN .</POS>
+		<Lemma>that be not my recommendation .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>If I had it to do over I 'd skip both of those lens and get just Sony SAL18250 Alpha DT 18-250mm f\/3 .5 -6.3 High Magnification Zoom Lens w\/Lens Hood Cons : -RRB- The translucent mirror costs you about 1 f-stop . -RRB-</Tokens>
+		<POS>IN PRP VBD PRP TO VB IN PRP MD VB DT IN DT NN CC VB RB JJ NNP NNP NNP NNP NNP NN CD CD JJ NN NN NNP NNP NNP VBD NNS : -RRB- DT JJ NN NNS PRP IN CD NN . -RRB-</POS>
+		<Lemma>if I have it to do over I would skip both of those lens and get just Sony SAL18250 Alpha DT 18-250mm f\/3 .5 -6.3 high magnification zoom Lens w\/Lens Hood con : -rrb- the translucent mirror cost you about 1 f-stop . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>The 18-55 kit lens , skip it , get just the frame and the Sony SAL18250 Alpha DT 18-250mm f\/3 .5 -6.3 High Magnification Zoom Lens w\/Lens Hood lens .</Tokens>
+		<POS>DT CD NN NN , VB PRP , VB RB DT NN CC DT NN NNP NNP NNP NNP NNP NN CD CD JJ NN NN NNP NNP NNP NN NN .</POS>
+		<Lemma>the 18-55 kit lens , skip it , get just the frame and the Sony SAL18250 Alpha DT 18-250mm f\/3 .5 -6.3 high magnification zoom Lens w\/Lens Hood lens .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>You wo n't have to swap lens except if you buy a portrait lens or a big telephoto .</Tokens>
+		<POS>PRP MD RB VB TO VB NN IN IN PRP VBP DT NN NN CC DT JJ NN .</POS>
+		<Lemma>you will not have to swap lens except if you buy a portrait lens or a big telephoto .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Look for a lens and camera deal it should cut the cost by at least a hundred dollars or more . -RRB-</Tokens>
+		<POS>VB IN DT NN CC NN VBP PRP MD VB DT NN IN IN JJS DT CD NNS CC JJR . -RRB-</POS>
+		<Lemma>look for a lens and camera deal it should cut the cost by at least a hundred dollar or more . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>When its in movie mode and your time runs out , it stops without beeping or any indication that your time is up . -RRB-</Tokens>
+		<POS>WRB PRP$ IN NN NN CC PRP$ NN VBZ RP , PRP VBZ IN VBG CC DT NN WDT PRP$ NN VBZ RB . -RRB-</POS>
+		<Lemma>when its in movie mode and you time run out , it stop without beep or any indication that you time be up . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>The built in microphone is average to poor .</Tokens>
+		<POS>DT VBN IN NN VBZ JJ TO JJ .</POS>
+		<Lemma>the build in microphone be average to poor .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Pros : -RRB- Great point and shoot . -RRB-</Tokens>
+		<POS>NNS : -RRB- JJ NN CC NN . -RRB-</POS>
+		<Lemma>pro : -rrb- great point and shoot . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>Good Video : I made a 29 minute video of my dad talking about his youth .</Tokens>
+		<POS>JJ NNP : PRP VBD DT CD NN NN IN PRP$ NN VBG IN PRP$ NN .</POS>
+		<Lemma>good Video : I make a 29 minute video of my dad talk about he youth .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>It came out great .</Tokens>
+		<POS>PRP VBD RP JJ .</POS>
+		<Lemma>it come out great .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>-LRB- Especially with the external microphone . -RRB- -RRB-</Tokens>
+		<POS>-LRB- RB IN DT JJ NN . -RRB- -RRB-</POS>
+		<Lemma>-lrb- especially with the external microphone . -rrb- -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>It 's fast at warming up and focusing .</Tokens>
+		<POS>PRP VBZ RB IN VBG RP CC VBG .</POS>
+		<Lemma>it be fast at warm up and focus .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>Did I mention fast ?</Tokens>
+		<POS>VBD PRP VB RB .</POS>
+		<Lemma>do I mention fast ?</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>You can get 7fps if you set the burst mode on which means sports photos there is a better chance of you getting lucky and getting just that shot with the ball etc. .</Tokens>
+		<POS>PRP MD VB NNS IN PRP VBP DT NN NN IN WDT VBZ NNS NNS EX VBZ DT JJR NN IN PRP VBG JJ CC VBG RB DT VBN IN DT NN NN .</POS>
+		<Lemma>you can get 7fp if you set the burst mode on which mean sport photo there be a better chance of you get lucky and get just that shoot with the ball etc. .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>It was way faster than the Nikon at focusing and shooting .</Tokens>
+		<POS>PRP VBD NN RBR IN DT NNP IN VBG CC VBG .</POS>
+		<Lemma>it be way faster than the Nikon at focus and shoot .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>-LRB- In store test . -RRB- -RRB-</Tokens>
+		<POS>-LRB- IN NN NN . -RRB- -RRB-</POS>
+		<Lemma>-lrb- in store test . -rrb- -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>The smile feature actually works .</Tokens>
+		<POS>DT NN NN RB VBZ .</POS>
+		<Lemma>the smile feature actually work .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>It 's great for those portraits of girls .</Tokens>
+		<POS>PRP VBZ JJ IN DT NNS IN NNS .</POS>
+		<Lemma>it be great for those portrait of girl .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>You know they always tell you how terrible they look and how you should n't take that photo , but when they actually smile the photos are beautiful .</Tokens>
+		<POS>PRP VBP PRP RB VBP PRP WRB JJ PRP VBP CC WRB PRP MD RB VB DT NN , CC WRB PRP RB VBP DT NNS VBP JJ .</POS>
+		<Lemma>you know they always tell you how terrible they look and how you should not take that photo , but when they actually smile the photo be beautiful .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>Just turn on this mode and let the camera shoot until you get shooed away .</Tokens>
+		<POS>RB VB RP DT NN CC VB DT NN NN IN PRP VBP VBN RB .</POS>
+		<Lemma>just turn on this mode and let the camera shoot until you get shoo away .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>You 'll have the shot you wanted among those . -RRB-</Tokens>
+		<POS>PRP MD VB DT NN PRP VBD IN DT . -RRB-</POS>
+		<Lemma>you 'll have the shot you want among those . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>No GPS sensor to drain your battery . -RRB-</Tokens>
+		<POS>DT NN NN TO VB PRP$ NN . -RRB-</POS>
+		<Lemma>no gp sensor to drain you battery . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>Image stabilization is in the camera body not the lens , which means your old Minolta AF lens which work , get the benefit . -RRB-</Tokens>
+		<POS>NN NN VBZ IN DT NN NN RB DT NN , WDT VBZ PRP$ JJ NNP NNP NN WDT VBP , VBP DT NN . -RRB-</POS>
+		<Lemma>image stabilization be in the camera body not the lens , which mean you old Minolta AF lens which work , get the benefit . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Pretty easy to use mode\/function selection .</Tokens>
+		<POS>NNP JJ TO VB NN NN .</POS>
+		<Lemma>Pretty easy to use mode\/function selection .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>It is a computer inside the camera after all .</Tokens>
+		<POS>PRP VBZ DT NN IN DT NN IN DT .</POS>
+		<Lemma>it be a computer inside the camera after all .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>But with the large display you can easily read it . -RRB-</Tokens>
+		<POS>CC IN DT JJ NN PRP MD RB VB PRP . -RRB-</POS>
+		<Lemma>but with the large display you can easily read it . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>You can fold the monitor with the screen against the body so it does n't get scratched in transport .</Tokens>
+		<POS>PRP MD VB DT NN IN DT NN IN DT NN IN PRP VBZ RB VB VBN IN NN .</POS>
+		<Lemma>you can fold the monitor with the screen against the body so it do not get scratch in transport .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>-LRB- Or you can shoot around a corner or over the edge of a bridge and still see the view . -RRB-</Tokens>
+		<POS>-LRB- CC PRP MD VB IN DT NN CC IN DT NN IN DT NN CC RB VB DT NN . -RRB-</POS>
+		<Lemma>-lrb- or you can shoot around a corner or over the edge of a bridge and still see the view . -rrb-</Lemma>
+	</Sentence>
+</Document>

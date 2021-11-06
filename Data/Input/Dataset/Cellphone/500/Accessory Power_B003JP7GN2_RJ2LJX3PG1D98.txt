@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>With the kind of technology we have today , it 's really convenient to have something that is able to charge almost anything .</Tokens>
+		<POS>IN DT NN IN NN PRP VBP NN , PRP VBZ RB JJ TO VB NN WDT VBZ JJ TO VB RB NN .</POS>
+		<Lemma>with the kind of technology we have today , it be really convenient to have something that be able to charge almost anything .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I usually carry my iphone and ipad with me everywhere and it sucks seeing that you have about 5 % left of battery life .</Tokens>
+		<POS>PRP RB VBP PRP$ NN CC NN IN PRP RB CC PRP VBZ VBG IN PRP VBP IN CD NN NN IN NN NN .</POS>
+		<Lemma>I usually carry my iphone and ipad with I everywhere and it suck see that you have about 5 % left of battery life .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Thankfully , there 's a charger that can be stashed in your purse that can charge anything almost anywhere .</Tokens>
+		<POS>RB , EX VBZ DT NN WDT MD VB VBN IN PRP$ NN WDT MD VB NN RB RB .</POS>
+		<Lemma>thankfully , there be a charger that can be stash in you purse that can charge anything almost anywhere .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only complaint I have about this product was the fact that it does n't lock when it 's being used as a car charger .</Tokens>
+		<POS>DT JJ NN PRP VBP IN DT NN VBD DT NN IN PRP VBZ RB VB WRB PRP VBZ VBG VBN IN DT NN NN .</POS>
+		<Lemma>the only complaint I have about this product be the fact that it do not lock when it be be use as a car charger .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Other than that , there 's really no complaint here .</Tokens>
+		<POS>JJ IN DT , EX VBZ RB DT NN RB .</POS>
+		<Lemma>other than that , there be really no complaint here .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+</Document>

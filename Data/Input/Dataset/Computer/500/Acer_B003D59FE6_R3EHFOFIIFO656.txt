@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this as a second display .</Tokens>
+		<POS>VBN DT IN DT JJ NN .</POS>
+		<Lemma>buy this as a second display .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is super sharp and looks awesome .</Tokens>
+		<POS>PRP VBZ JJ JJ CC VBZ JJ .</POS>
+		<Lemma>it be super sharp and look awesome .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No stuck pixels .</Tokens>
+		<POS>DT VBD NNS .</POS>
+		<Lemma>no stick pixel .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The base is pretty solid , tilts from front to back .</Tokens>
+		<POS>DT NN VBZ RB JJ , VBZ IN NN TO RB .</POS>
+		<Lemma>the base be pretty solid , tilt from front to back .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Could n't be happier with it .</Tokens>
+		<POS>MD RB VB JJR IN PRP .</POS>
+		<Lemma>could not be happier with it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Definitely worth the modest price</Tokens>
+		<POS>RB IN DT JJ NN</POS>
+		<Lemma>definitely worth the modest price</Lemma>
+	</Sentence>
+</Document>

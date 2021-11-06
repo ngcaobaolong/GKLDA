@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>THE UNIT IS VERY FAST THE HYPERTREADING SPEEDS THINGS UP P4 SOMETIMES OVERHEATS BUT THE MACHINE IS FANTASTIC -LRB- ... -RRB-</Tokens>
+		<POS>DT NNP VBZ RB JJ DT NN NN VBZ RP NN NNS VBZ NNP DT NN VBZ NNP -LRB- : -RRB-</POS>
+		<Lemma>the UNIT be very fast the hypertreading speed thing up p4 sometime overheat BUT the machine be FANTASTIC -lrb- ... -rrb-</Lemma>
+	</Sentence>
+</Document>

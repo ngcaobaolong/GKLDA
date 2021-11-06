@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This organic popcorn was well priced and popped great !</Tokens>
+		<POS>DT JJ NN VBD RB VBN CC VBN JJ .</POS>
+		<Lemma>this organic popcorn be well price and pop great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My kids eat a lot of popcorn so having organic popcorn available is great !</Tokens>
+		<POS>PRP$ NNS VBP DT NN IN NN RB VBG JJ NN JJ VBZ JJ .</POS>
+		<Lemma>my kid eat a lot of popcorn so have organic popcorn available be great !</Lemma>
+	</Sentence>
+</Document>

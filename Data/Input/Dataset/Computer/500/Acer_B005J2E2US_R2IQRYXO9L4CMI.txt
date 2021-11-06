@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm a college student on campus all day long and this works great for me .</Tokens>
+		<POS>PRP VBP DT NN NN IN NN DT NN RB CC DT VBZ JJ IN PRP .</POS>
+		<Lemma>I be a college student on campus all day long and this work great for I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've had it for a few days .</Tokens>
+		<POS>PRP VBP VBD PRP IN DT JJ NNS .</POS>
+		<Lemma>I have have it for a few day .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Size : happy medium , the 11 inch screen is great !</Tokens>
+		<POS>NN : JJ NN , DT CD NN NN VBZ JJ .</POS>
+		<Lemma>size : happy medium , the 11 inch screen be great !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's not too small and it 's just the right side to sit on those fold up chair-desk things , and it fits very nicely in my backpack , does n't weigh a lot or slow me down .</Tokens>
+		<POS>PRP VBZ RB RB JJ CC PRP VBZ RB DT JJ NN TO VB IN DT JJ IN JJ NNS , CC PRP VBZ RB RB IN PRP$ NN , VBZ RB VB DT NN CC VB PRP RP .</POS>
+		<Lemma>it be not too small and it be just the right side to sit on those fold up chair-desk thing , and it fit very nicely in my backpack , do not weigh a lot or slow I down .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Performance : Could n't ask for more !</Tokens>
+		<POS>NNP : MD RB VB IN JJR .</POS>
+		<Lemma>Performance : could not ask for more !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It seems to perform really well with the 2GB ram and the dual processor .</Tokens>
+		<POS>PRP VBZ TO VB RB RB IN DT NN NN CC DT JJ NN .</POS>
+		<Lemma>it seem to perform really well with the 2gb ram and the dual processor .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>No complaints !</Tokens>
+		<POS>DT NNS .</POS>
+		<Lemma>no complaint !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Runs multiple applications just fine at the same time .</Tokens>
+		<POS>VBZ JJ NNS RB JJ IN DT JJ NN .</POS>
+		<Lemma>run multiple application just fine at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I use it sometimes at laptop stations with a large LCD monitor so the VGA port is super useful .</Tokens>
+		<POS>PRP VBP PRP RB IN NN NNS IN DT JJ NNS VBP IN DT NNP NN VBZ JJ JJ .</POS>
+		<Lemma>I use it sometimes at laptop station with a large lcd monitor so the VGA port be super useful .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The graphics processor can give great resolution on a much larger screen with no problem !</Tokens>
+		<POS>DT NNS NN MD VB JJ NN IN DT JJ JJR NN IN DT NN .</POS>
+		<Lemma>the graphic processor can give great resolution on a much larger screen with no problem !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Look : I like the ripple on the top !</Tokens>
+		<POS>VB : PRP VBP DT NN IN DT JJ .</POS>
+		<Lemma>look : I like the ripple on the top !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Battery life : My favorite part of this computer ... it goes forever !</Tokens>
+		<POS>NN NN : PRP$ JJ NN IN DT NN : PRP VBZ RB .</POS>
+		<Lemma>battery life : my favorite part of this computer ... it go forever !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Right now it 's after 2 p.m. in the afternoon and I have been using it since 9 this morning on campus , running applications and wifi .</Tokens>
+		<POS>RB RB PRP VBZ IN CD NN IN DT NN CC PRP VBP VBN VBG PRP IN CD DT NN IN NN , VBG NNS CC NNS .</POS>
+		<Lemma>right now it be after 2 p.m. in the afternoon and I have be use it since 9 this morning on campus , run application and wifus .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It 's had two or three ten minute breaks with the lid closed and it is sitting at 32 % with 2 hours and 34 min remaining .</Tokens>
+		<POS>PRP VBZ VBD CD CC CD CD NN NNS IN DT NN VBD CC PRP VBZ VBG IN CD NN IN CD NNS CC CD NN VBG .</POS>
+		<Lemma>it be have two or three ten minute break with the lid close and it be sit at 32 % with 2 hour and 34 min remain .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Beautiful !</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>beautiful !</Lemma>
+	</Sentence>
+</Document>

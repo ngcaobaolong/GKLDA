@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Almost a month ago , I bought a New Chevrolet Silverado .</Tokens>
+		<POS>RB DT NN RB , PRP VBD DT NNP NNP NNP .</POS>
+		<Lemma>almost a month ago , I buy a New Chevrolet Silverado .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It came with an AM\/FM Radio .</Tokens>
+		<POS>PRP VBD IN DT NNP NNP .</POS>
+		<Lemma>it come with a AM\/FM Radio .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No CD PLayer , No Aux .</Tokens>
+		<POS>DT NN NN , DT NN .</POS>
+		<Lemma>no cd player , no aux .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>input .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>input .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was looking at some money to replace the radio .</Tokens>
+		<POS>PRP VBD VBG IN DT NN TO VB DT NN .</POS>
+		<Lemma>I be look at some money to replace the radio .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Now enter the Go groove flexsmart .</Tokens>
+		<POS>RB VB DT NNP NN NN .</POS>
+		<Lemma>now enter the Go groove flexsmart .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This has solved that problem , Somewhat .</Tokens>
+		<POS>DT VBZ VBN IN NN , RB .</POS>
+		<Lemma>this have solve that problem , somewhat .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It worked instantly with my MP3 player the first time I used it .</Tokens>
+		<POS>PRP VBD RB IN PRP$ NN NN DT JJ NN PRP VBD PRP .</POS>
+		<Lemma>it work instantly with my mp3 player the first time I use it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I was very satisfied with the sound at that time and plan on connecting it to a Satellite Radio that is , if I can get it to keep working .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NN IN DT NN CC NN IN VBG PRP TO DT NNP NNP WDT VBZ , IN PRP MD VB PRP TO VB VBG .</POS>
+		<Lemma>I be very satisfied with the sound at that time and plan on connect it to a Satellite Radio that be , if I can get it to keep work .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>For some reason , it switched on the FM from 100.2 to 100.6 or 7 .</Tokens>
+		<POS>IN DT NN , PRP VBD IN DT NNP IN CD TO CD CC CD .</POS>
+		<Lemma>for some reason , it switch on the FM from 100.2 to 100.6 or 7 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I changed to a more heavy duty audio cable .</Tokens>
+		<POS>PRP VBD TO DT RBR JJ NN NN NN .</POS>
+		<Lemma>I change to a more heavy duty audio cable .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I like it when it works , but lately I am getting static sometimes .</Tokens>
+		<POS>PRP VBP PRP WRB PRP VBZ , CC RB PRP VBP VBG JJ RB .</POS>
+		<Lemma>I like it when it work , but lately I be get static sometimes .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Yesterday afternoon was no different .</Tokens>
+		<POS>NN NN VBD RB JJ .</POS>
+		<Lemma>yesterday afternoon be no different .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I had to pull over and fine tune it and even then it wasnt as good as it was when I first got it .</Tokens>
+		<POS>PRP VBD TO VB RP CC JJ NN PRP CC RB RB PRP NN IN JJ IN PRP VBD WRB PRP RB VBD PRP .</POS>
+		<Lemma>I have to pull over and fine tune it and even then it wasnt as good as it be when I first get it .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The bluetooth doesnt work too good on this , but I already have a motorola unit for that so I do not care about that end of it .</Tokens>
+		<POS>DT NN NN NN RB JJ IN DT , CC PRP RB VBP DT NN NN IN DT IN PRP VBP RB VB IN DT NN IN PRP .</POS>
+		<Lemma>the bluetooth doesnt work too good on this , but I already have a motorolum unit for that so I do not care about that end of it .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>So This had me believeing I will wind up having to put a Costly radio in this truck after all .</Tokens>
+		<POS>RB DT VBD PRP VBG PRP MD VB RP VBG TO VB DT JJ NN IN DT NN IN DT .</POS>
+		<Lemma>so this have I believee I will wind up have to put a costly radio in this truck after all .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I emailed the Mfg and they were super in their response to me !!</Tokens>
+		<POS>PRP VBD DT NNP CC PRP VBD JJ IN PRP$ NN TO PRP IN</POS>
+		<Lemma>I email the Mfg and they be super in they response to I !!</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Very hyelpful with different frequencies to try and I would up on the other end of the dial so to speak but have a clear signal and I am back in business !!</Tokens>
+		<POS>RB JJ IN JJ NNS TO VB CC PRP MD RB IN DT JJ NN IN DT NN RB TO VB CC VB DT JJ NN CC PRP VBP RB IN NN IN</POS>
+		<Lemma>very hyelpful with different frequency to try and I would up on the other end of the dial so to speak but have a clear signal and I be back in business !!</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>This is a good product and a Great company behind it !!</Tokens>
+		<POS>DT VBZ DT JJ NN CC DT JJ NN IN PRP IN</POS>
+		<Lemma>this be a good product and a great company behind it !!</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I reccomend it !!</Tokens>
+		<POS>PRP VBP PRP IN</POS>
+		<Lemma>I reccomend it !!</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I went from a 19 '' full screen to this .</Tokens>
+		<POS>PRP VBD IN DT CD '' JJ NN TO DT .</POS>
+		<Lemma>I go from a 19 '' full screen to this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>While this is definitely wider -LRB- by a lot -RRB- , the height is about the same so at first it does n't seem like a lot more screen real estate .</Tokens>
+		<POS>IN DT VBZ RB JJR -LRB- IN DT NN -RRB- , DT NN VBZ IN DT JJ RB IN JJ PRP VBZ RB VB IN DT NN JJR NN JJ NN .</POS>
+		<Lemma>while this be definitely wider -lrb- by a lot -rrb- , the height be about the same so at first it do not seem like a lot more screen real estate .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you have never used a 24 '' before and are afraid it will look too massive , do n't worry .</Tokens>
+		<POS>IN PRP VBP RB VBN DT CD '' IN CC VBP JJ PRP MD VB RB JJ , VBP RB VB .</POS>
+		<Lemma>if you have never use a 24 '' before and be afraid it will look too massive , do not worry .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I had the same fears , but it looks pretty nice sitting on my desk , not too big but big enough to make people a little envious .</Tokens>
+		<POS>PRP VBD DT JJ NNS , CC PRP VBZ RB JJ VBG IN PRP$ NN , RB RB JJ CC JJ RB TO VB NNS DT JJ JJ .</POS>
+		<Lemma>I have the same fear , but it look pretty nice sit on my desk , not too big but big enough to make people a little envious .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The colors are pretty good right out of the box .</Tokens>
+		<POS>DT NNS VBP RB JJ NN IN IN DT NN .</POS>
+		<Lemma>the color be pretty good right out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It could use a little tweaking , but it 's not so bad that I ca n't enjoy it the way it is .</Tokens>
+		<POS>PRP MD VB DT JJ NN , CC PRP VBZ RB RB JJ IN PRP MD RB VB PRP DT NN PRP VBZ .</POS>
+		<Lemma>it could use a little tweaking , but it be not so bad that I can not enjoy it the way it be .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I like the base , I wish it had a mount option , but since there is n't one , I am glad it 's not bad looking .</Tokens>
+		<POS>PRP VBP DT NN , PRP VBP PRP VBD DT VBP NN , CC IN EX VBZ RB CD , PRP VBP JJ PRP VBZ RB JJ VBG .</POS>
+		<Lemma>I like the base , I wish it have a mount option , but since there be not one , I be glad it be not bad look .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I ca n't comment on the speaker , because I never will use it .</Tokens>
+		<POS>PRP MD RB VB IN DT NN , IN PRP RB MD VB PRP .</POS>
+		<Lemma>I can not comment on the speaker , because I never will use it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The menu options are a little weird to use at first , but they are fairly simple and easy to get used to .</Tokens>
+		<POS>DT NN NNS VBP DT JJ JJ TO VB IN RB , CC PRP VBP RB JJ CC JJ TO VB VBN TO .</POS>
+		<Lemma>the menu option be a little weird to use at first , but they be fairly simple and easy to get use to .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The screen is nice and bright , and mine had no dead pixels on delivery .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ , CC NN VBD DT JJ NNS IN NN .</POS>
+		<Lemma>the screen be nice and bright , and mine have no dead pixel on delivery .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Amazon packaging was a little iffy like already mentioned , but acer did a nice job of keeping my new baby safe .</Tokens>
+		<POS>NNP NN VBD DT JJ JJ IN RB VBN , CC NN VBD DT JJ NN IN VBG PRP$ JJ NN JJ .</POS>
+		<Lemma>Amazon packaging be a little iffy like already mention , but acer do a nice job of keep my new baby safe .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I really do n't see any cons with this monitor , so far I love it !</Tokens>
+		<POS>PRP RB VBP RB VB DT NNS IN DT NN , RB RB PRP VBP PRP .</POS>
+		<Lemma>I really do not see any con with this monitor , so far I love it !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>BTW , I did n't see that it mentioned it when I bought it , but it comes with an HDMI cable .</Tokens>
+		<POS>NNP , PRP VBD RB VB IN PRP VBD PRP WRB PRP VBD PRP , CC PRP VBZ IN DT NN NN .</POS>
+		<Lemma>BTW , I do not see that it mention it when I buy it , but it come with a hdmus cable .</Lemma>
+	</Sentence>
+</Document>

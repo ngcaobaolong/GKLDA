@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been following this camera since it was announced back in January and so far have been using it for about a month and i was also doing heavy testing on entry level dslrs like nikon d3100 and sonys and all i can say is the fujifilm destroyed them in all to the point were there was n't even competition .</Tokens>
+		<POS>PRP VBP VBN VBG DT NN IN PRP VBD VBN RB IN NNP CC RB RB VBP VBN VBG PRP IN IN DT NN CC FW VBD RB VBG JJ NN IN NN NN VBZ IN NN NN CC NNS CC DT FW MD VB VBZ DT NN VBD PRP IN DT TO DT NN VBD EX VBD RB RB NN .</POS>
+		<Lemma>I have be follow this camera since it be announce back in January and so far have be use it for about a month and i be also do heavy testing on entry level dslr like nikon d3100 and sony and all i can say be the fujifilm destroy they in all to the point be there be not even competition .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You also get fujinon optics which are some of the best in the world and not to mention the build quality is on par with 800 dollar dslrs but this camera should be at the top of your list if your getting into photography and entry level dslrs dont come with crap anyways so its not even worth it .</Tokens>
+		<POS>PRP RB VBP JJ NNS WDT VBP DT IN DT JJS IN DT NN CC RB TO VB DT VB NN VBZ IN NN IN CD NN NNS CC DT NN MD VB IN DT NN IN PRP$ NN IN PRP$ VBG IN NN CC NN NN VBZ JJ VBN IN NN RB RB PRP$ RB RB IN PRP .</POS>
+		<Lemma>you also get fujinon optics which be some of the best in the world and not to mention the build quality be on par with 800 dollar dslr but this camera should be at the top of you list if you get into photography and entry level dslr dont come with crap anyways so its not even worth it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The heat problem has been fixed with the firmware so do not hesitate to buy this camera and dont listen to the haterrrsssssssss !</Tokens>
+		<POS>DT NN NN VBZ VBN VBN IN DT NN RB VBP RB VB TO VB DT NN CC NN VBP TO DT NN .</POS>
+		<Lemma>the heat problem have be fix with the firmware so do not hesitate to buy this camera and dont listen to the haterrrsssssssss !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>: -RRB-</Tokens>
+		<POS>: -RRB-</POS>
+		<Lemma>: -rrb-</Lemma>
+	</Sentence>
+</Document>

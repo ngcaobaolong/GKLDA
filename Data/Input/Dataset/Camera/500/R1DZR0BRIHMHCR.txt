@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received my Foscam F18918W in less than 1 week , even though I chose the free shipping option on Amazon .</Tokens>
+		<POS>PRP VBD PRP$ NNP NN IN JJR IN CD NN , RB IN PRP VBD DT JJ NN NN IN NNP .</POS>
+		<Lemma>I receive my Foscam f18918w in less than 1 week , even though I choose the free shipping option on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I know absolutely nothing about networking , but I was able to get my camera up and running in a couple hours -LRB- I had to use the instructions on the disc -RRB- .</Tokens>
+		<POS>PRP VBP RB NN IN NN , CC PRP VBD JJ TO VB PRP$ NN RB CC VBG IN DT NN NNS -LRB- PRP VBD TO VB DT NNS IN DT NN -RRB- .</POS>
+		<Lemma>I know absolutely nothing about networking , but I be able to get my camera up and run in a couple hour -lrb- I have to use the instruction on the disc -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>All in all I am very satisfied with the camera .</Tokens>
+		<POS>DT IN DT PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>all in all I be very satisfied with the camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have it set on motion detection in my living room so that it watches the door and the tv .</Tokens>
+		<POS>PRP VBP PRP VBN IN NN NN IN PRP$ NN NN IN IN PRP VBZ DT NN CC DT NN .</POS>
+		<Lemma>I have it set on motion detection in my living room so that it watch the door and the tv .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I also have it set up to automatically send emails when motion is detected , which come to my phone within about 10 seconds .</Tokens>
+		<POS>PRP RB VBP PRP VBN RP TO RB VB NNS WRB NN VBZ VBN , WDT VBP TO PRP$ NN IN IN CD NNS .</POS>
+		<Lemma>I also have it set up to automatically send email when motion be detect , which come to my phone within about 10 seconds .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have only had the camera set up for two days and still have some small bugs to work out that I am hoping someone can help with .</Tokens>
+		<POS>PRP VBP RB VBD DT NN VBD RP IN CD NNS CC RB VBP DT JJ NNS TO VB RP IN PRP VBP VBG NN MD VB IN .</POS>
+		<Lemma>I have only have the camera set up for two day and still have some small bug to work out that I be hope someone can help with .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>One issuse I am having is with the schedule feature for the motion detection .</Tokens>
+		<POS>CD NN PRP VBP VBG VBZ IN DT NN NN IN DT NN NN .</POS>
+		<Lemma>one issuse I be have be with the schedule feature for the motion detection .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If I leave the house when the camera is not set on the schedule , then I want to turn it on .</Tokens>
+		<POS>IN PRP VBP DT NN WRB DT NN VBZ RB VBN IN DT NN , RB PRP VBP TO VB PRP IN .</POS>
+		<Lemma>if I leave the house when the camera be not set on the schedule , then I want to turn it on .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>To do this , I simple uncheck the schedule box .</Tokens>
+		<POS>TO VB DT , PRP JJ NN DT NN NN .</POS>
+		<Lemma>to do this , I simple uncheck the schedule box .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The problem is when I turn the schedule back on , I have lost my previous schedule and have to redo it .</Tokens>
+		<POS>DT NN VBZ WRB PRP VBP DT NN RB IN , PRP VBP VBN PRP$ JJ NN CC VBP TO VB PRP .</POS>
+		<Lemma>the problem be when I turn the schedule back on , I have lose my previous schedule and have to redo it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would be grateful if anyone had a solution to this .</Tokens>
+		<POS>PRP MD VB JJ IN NN VBD DT NN TO DT .</POS>
+		<Lemma>I would be grateful if anyone have a solution to this .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Also , I have had no luck in getting the app on my HTC Hero to work and have not even attempted to figure out how to access it on the internet .</Tokens>
+		<POS>RB , PRP VBP VBN DT NN IN VBG DT NN IN PRP$ NNP NN TO VB CC VB RB RB VBN TO VB RP WRB TO VB PRP IN DT NN .</POS>
+		<Lemma>also , I have have no luck in get the app on my HTC hero to work and have not even attempt to figure out how to access it on the internet .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Other than that , it works great and is better than having an alarm as it usually takes 10-15 AT LEAST for the police to be notified when an alarm goes off , but I will know in 10 seconds if anyone comes into my house .</Tokens>
+		<POS>JJ IN DT , PRP VBZ JJ CC VBZ JJR IN VBG DT NN IN PRP RB VBZ CD IN NNP IN DT NN TO VB VBN WRB DT NN VBZ RB , CC PRP MD VB IN CD NNS IN NN VBZ IN PRP$ NN .</POS>
+		<Lemma>other than that , it work great and be better than have a alarm as it usually take 10-15 at LEAST for the police to be notify when a alarm go off , but I will know in 10 seconds if anyone come into my house .</Lemma>
+	</Sentence>
+</Document>

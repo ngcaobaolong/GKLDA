@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excelente Camara , excelentes funciones .</Tokens>
+		<POS>NNP NNP , VBZ NNS .</POS>
+		<Lemma>Excelente Camara , excelente funcione .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Apta especialmente para tomar fotos bajo el agua !!!</Tokens>
+		<POS>NNP FW FW FW FW FW FW FW FW</POS>
+		<Lemma>Apta especialmente para tomar fotos bajo el agua !!!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Camara muy funcional y praacute;ctica bajo el agua .</Tokens>
+		<POS>NNP JJ JJ NN NN NN NN FW .</POS>
+		<Lemma>Camara muy funcional y praacute;ctica bajo el agua .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No es recomendada como camara convencional .</Tokens>
+		<POS>DT NN NN NN NN NN .</POS>
+		<Lemma>no e recomendada como camara convencional .</Lemma>
+	</Sentence>
+</Document>

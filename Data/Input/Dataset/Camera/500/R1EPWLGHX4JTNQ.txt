@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was really impressed how small it was .</Tokens>
+		<POS>PRP VBD RB JJ WRB JJ PRP VBD .</POS>
+		<Lemma>I be really impressed how small it be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Feels good in the hands , great video quality .</Tokens>
+		<POS>VBZ JJ IN DT NNS , JJ JJ NN .</POS>
+		<Lemma>feel good in the hand , great video quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We have a Flip HD Ultra and I would say that the Sony Bloggie blows it out the water .</Tokens>
+		<POS>PRP VBP DT NN NN NNP CC PRP MD VB IN DT NNP NN NNS PRP IN DT NN .</POS>
+		<Lemma>we have a flip hd Ultra and I would say that the Sony bloggie blow it out the water .</Lemma>
+	</Sentence>
+</Document>

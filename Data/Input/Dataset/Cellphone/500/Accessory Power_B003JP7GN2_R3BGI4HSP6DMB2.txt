@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>You get what you pay for -LRB- or less -RRB- with this item .</Tokens>
+		<POS>PRP VBP WP PRP VBP IN -LRB- CC JJR -RRB- IN DT NN .</POS>
+		<Lemma>you get what you pay for -lrb- or less -rrb- with this item .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I used it once to plug into a wall jack and then once to charge via the AA option .</Tokens>
+		<POS>PRP VBD PRP RB TO VB IN DT NN NN CC RB RB TO VB IN DT NN NN .</POS>
+		<Lemma>I use it once to plug into a wall jack and then once to charge via the aa option .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The AA option may have maintained the charge in my phone but surely did not charge my phone .</Tokens>
+		<POS>DT NN NN MD VB VBN DT NN IN PRP$ NN CC RB VBD RB VB PRP$ NN .</POS>
+		<Lemma>the aa option may have maintain the charge in my phone but surely do not charge my phone .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I found that after using the charger the second time that the USB cable did not seem to maintain a connection within itself .</Tokens>
+		<POS>PRP VBD IN IN VBG DT NN DT JJ NN IN DT JJ NN VBD RB VB TO VB DT NN IN PRP .</POS>
+		<Lemma>I find that after use the charger the second time that the usb cable do not seem to maintain a connection within itself .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I used another cable and it seamed to work .</Tokens>
+		<POS>PRP VBD DT NN CC PRP VBD TO VB .</POS>
+		<Lemma>I use another cable and it seam to work .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am not too impressed with the product and have not even used the 9V or 12V option .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT NN CC VBP RB RB VBN DT NN CC NN NN .</POS>
+		<Lemma>I be not too impressed with the product and have not even use the 9v or 12v option .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It may be one defunct cable but I feel that this product is sub-standard .</Tokens>
+		<POS>PRP MD VB CD JJ NN CC PRP VBP IN DT NN VBZ JJ .</POS>
+		<Lemma>it may be one defunct cable but I feel that this product be sub-standard .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I hope to see what others find in regards to this product .</Tokens>
+		<POS>PRP VBP TO VB WP NNS VBP IN VBZ TO DT NN .</POS>
+		<Lemma>I hope to see what other find in regard to this product .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>5-23-12 I have used the 9v option and it seems to as well just maintain the charge .</Tokens>
+		<POS>NN PRP VBP VBN DT NN NN CC PRP VBZ TO RB RB RB VB DT NN .</POS>
+		<Lemma>5-23-12 I have use the 9v option and it seem to as well just maintain the charge .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I am quite impressed with the customer service of Accessory Genie as they were quite proactive in making sure that I was\/am completely satisfied with my product .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN NN IN NNP NNP IN PRP VBD RB JJ IN VBG JJ IN PRP VBP RB VBN IN PRP$ NN .</POS>
+		<Lemma>I be quite impressed with the customer service of Accessory Genie as they be quite proactive in make sure that I was\/am completely satisfy with my product .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Great job Accessory Genie !!</Tokens>
+		<POS>JJ NN NNP NNP IN</POS>
+		<Lemma>great job Accessory Genie !!</Lemma>
+	</Sentence>
+</Document>

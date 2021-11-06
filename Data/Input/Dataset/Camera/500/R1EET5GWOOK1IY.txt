@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After reading all of the reviews for this camera I proceeded with caution in purchasing it for our trip to Mexico last week .</Tokens>
+		<POS>IN VBG DT IN DT NNS IN DT NN PRP VBD IN NN IN VBG PRP IN PRP$ NN TO NNP JJ NN .</POS>
+		<Lemma>after read all of the review for this camera I proceed with caution in purchase it for we trip to Mexico last week .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It seems as though there are many lemons when it comes to this model of camera and I got one of them .</Tokens>
+		<POS>PRP VBZ IN IN EX VBP JJ NNS WRB PRP VBZ TO DT NN IN NN CC PRP VBD CD IN PRP .</POS>
+		<Lemma>it seem as though there be many lemon when it come to this model of camera and I get one of they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had the water seeping in as described by other reviewers and it did continue to work properly after drying out the compartment and batteries .</Tokens>
+		<POS>PRP VBD DT NN VBG IN IN VBN IN JJ NNS CC PRP VBD VB TO VB RB IN VBG RP DT NN CC NNS .</POS>
+		<Lemma>I have the water seep in as describe by other reviewer and it do continue to work properly after dry out the compartment and battery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , my biggest complaint about this camera is fogging .</Tokens>
+		<POS>RB , PRP$ JJS NN IN DT NN VBZ VBG .</POS>
+		<Lemma>however , my biggest complaint about this camera be fog .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I missed so many amazing pictures because the lens would fog so badly .</Tokens>
+		<POS>PRP VBD RB JJ JJ NNS IN DT NN MD VB RB RB .</POS>
+		<Lemma>I miss so many amazing picture because the lens would fog so badly .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It would normally take about ten to fifteen minutes to correct itself if it did at all .</Tokens>
+		<POS>PRP MD RB VB RB CD TO CD NNS TO VB PRP IN PRP VBD IN DT .</POS>
+		<Lemma>it would normally take about ten to fifteen minute to correct itself if it do at all .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>By that point the turtles , fish and canons were long gone .</Tokens>
+		<POS>IN DT NN DT NNS , NN CC NNS VBD JJ VBN .</POS>
+		<Lemma>by that point the turtle , fish and canon be long go .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 'm so disappointed and plan to toss this in the trash and get something new .</Tokens>
+		<POS>PRP VBP RB JJ CC NN TO VB DT IN DT NN CC VB NN JJ .</POS>
+		<Lemma>I be so disappointed and plan to toss this in the trash and get something new .</Lemma>
+	</Sentence>
+</Document>

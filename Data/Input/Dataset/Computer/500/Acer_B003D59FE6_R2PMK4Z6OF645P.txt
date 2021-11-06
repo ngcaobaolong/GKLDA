@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A good , reasonably priced monitor with hard-to-find 4:3 aspect ratio .</Tokens>
+		<POS>DT JJ , RB VBN NN IN JJ CD NN NN .</POS>
+		<Lemma>a good , reasonably price monitor with hard-to-find 4:3 aspect ratio .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>On sale from Tiger Direct $ 119.98 incl shipping .</Tokens>
+		<POS>IN NN IN NNP NNP $ CD NN NN .</POS>
+		<Lemma>on sale from Tiger Direct $ 119.98 incl shipping .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Replaced the blown 17 '' CRT on my semi-retired Dell Dimension LR1000 .</Tokens>
+		<POS>VBN DT VBN CD '' NNP IN PRP$ JJ NNP NNP NNP .</POS>
+		<Lemma>replace the blow 17 '' CRT on my semi-retired Dell Dimension LR1000 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Had concerns about O\/S compatiblity but Win ME loaded a driver without the install disc or internet .</Tokens>
+		<POS>VBD NNS IN NN NN CC NNP NNP VBD DT NN IN DT VBP NN CC NN .</POS>
+		<Lemma>have concern about o\/s compatiblity but Win ME load a driver without the install disc or internet .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Performance with Photoshop 5.0 -LRB- sharpness , resolution , color rendition , brighntess , contrast -RRB- very good in my amateur opinion .</Tokens>
+		<POS>NNP IN NNP CD -LRB- NN , NN , NN NN , NN , NN -RRB- RB JJ IN PRP$ JJ NN .</POS>
+		<Lemma>Performance with Photoshop 5.0 -lrb- sharpness , resolution , color rendition , brighntess , contrast -rrb- very good in my amateur opinion .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Would recommend to anyone looking for a reasonably priced 4:3 monitor .</Tokens>
+		<POS>MD VB TO NN VBG IN DT RB VBN CD NN .</POS>
+		<Lemma>would recommend to anyone look for a reasonably price 4:3 monitor .</Lemma>
+	</Sentence>
+</Document>

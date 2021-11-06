@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Info : People think that this device can change the sound quality of their crappy sound systems .</Tokens>
+		<POS>NN : NNS VBP IN DT NN MD VB DT JJ NN IN PRP$ JJ NN NNS .</POS>
+		<Lemma>info : people think that this device can change the sound quality of they crappy sound system .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It can not .</Tokens>
+		<POS>PRP MD RB .</POS>
+		<Lemma>it can not .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you have good speakers , this product will be good .</Tokens>
+		<POS>IN PRP VBP JJ NNS , DT NN MD VB JJ .</POS>
+		<Lemma>if you have good speaker , this product will be good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It will not improve bass levels , or do anything out of the ordinary except play the music you want , and have people talk to you via bluetooth .</Tokens>
+		<POS>PRP MD RB VB NN NNS , CC VB NN IN IN DT JJ IN VB DT NN PRP VBP , CC VBP NNS VB TO PRP IN NN .</POS>
+		<Lemma>it will not improve bass level , or do anything out of the ordinary except play the music you want , and have people talk to you via bluetooth .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Pros : Clarity , Microphone quality is good , simplicity , great product .</Tokens>
+		<POS>NNS : NN , NN NN VBZ JJ , NN , JJ NN .</POS>
+		<Lemma>pro : clarity , microphone quality be good , simplicity , great product .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Cons : Nothing really except maybe the bendable neck may be a tad too stiff but it does n't really matter once you set it in place .</Tokens>
+		<POS>NNS : NN RB IN RB DT JJ NN MD VB DT NN RB JJ CC PRP VBZ RB RB VB RB PRP VBP PRP IN NN .</POS>
+		<Lemma>con : nothing really except maybe the bendable neck may be a tad too stiff but it do not really matter once you set it in place .</Lemma>
+	</Sentence>
+</Document>

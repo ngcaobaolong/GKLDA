@@ -1,0 +1,92 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was a bit leery of this one after reading some of the reviews but I am glad now that I went ahead and got it .</Tokens>
+		<POS>PRP VBD DT NN JJ IN DT CD IN VBG DT IN DT NNS CC PRP VBP JJ RB IN PRP VBD RB CC VBD PRP .</POS>
+		<Lemma>I be a bit leery of this one after read some of the review but I be glad now that I go ahead and get it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I will go ahead and start wit the cons since they wo n't take long .</Tokens>
+		<POS>PRP MD VB RB CC VB NN DT NNS IN PRP MD RB VB RB .</POS>
+		<Lemma>I will go ahead and start wit the con since they will not take long .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First , the cover for the `` AA '' cell compartment is pretty flimsy and I have no doubt I will eventually break it .</Tokens>
+		<POS>RB , DT NN IN DT `` NN '' NN NN VBZ RB JJ CC PRP VBP DT NN PRP MD RB VB PRP .</POS>
+		<Lemma>first , the cover for the `` aa '' cell compartment be pretty flimsy and I have no doubt I will eventually break it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It wo n't make the product stop working though and as long as I am careful when opening and closing it , I think it should last a satisfactorily long time .</Tokens>
+		<POS>PRP MD RB VB DT NN VB VBG RB CC RB RB IN PRP VBP JJ WRB VBG CC VBG PRP , PRP VBP PRP MD VB DT RB JJ NN .</POS>
+		<Lemma>it will not make the product stop work though and as long as I be careful when open and close it , I think it should last a satisfactorily long time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The parts that ` flip out ' meaning the wall plug electrodes and the barrel for the car cigarette lighter socket are on a decent hinge as long as you are n't always in a hurry or a person who is naturally rough on things .</Tokens>
+		<POS>DT NNS WDT `` VBP RP '' VBG DT NN NN NNS CC DT NN IN DT NN NN JJR NN VBP IN DT JJ NN RB RB IN PRP VBP RB RB IN DT NN CC DT NN WP VBZ RB JJ IN NNS .</POS>
+		<Lemma>the part that ` flip out ' mean the wall plug electrode and the barrel for the car cigarette lighter socket be on a decent hinge as long as you be not always in a hurry or a person who be naturally rough on thing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>With normal use they should last a good long time , certainly longer than $ 10 worth of usage .</Tokens>
+		<POS>IN JJ NN PRP MD VB DT JJ JJ NN , RB JJR IN $ CD NN IN NN .</POS>
+		<Lemma>with normal use they should last a good long time , certainly longer than $ 10 worth of usage .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Now the Pros : It can put a charge into both my phone and my Kindle Fire , at the same time .</Tokens>
+		<POS>RB DT NNS : PRP MD VB DT NN IN CC PRP$ NN CC PRP$ NNP NNP , IN DT JJ NN .</POS>
+		<Lemma>now the pro : it can put a charge into both my phone and my Kindle Fire , at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The charge is going to be the best when you take the power from the wall current but that is in the book for both my phone and my Kindle Fire so that is not the fault of the charger .</Tokens>
+		<POS>DT NN VBZ VBG TO VB DT JJS WRB PRP VBP DT NN IN DT NN JJ CC DT VBZ IN DT NN IN DT PRP$ NN CC PRP$ NNP NNP IN DT VBZ RB DT NN IN DT NN .</POS>
+		<Lemma>the charge be go to be the best when you take the power from the wall current but that be in the book for both my phone and my Kindle Fire so that be not the fault of the charger .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I can still keep both running with all of the following , the cigarette lighter socket in any vehicle , a 9 volt battery , two `` AA '' sized batteries and finally , though I added this myself , solar power .</Tokens>
+		<POS>PRP MD RB VB DT VBG IN DT IN DT VBG , DT NN JJR NN IN DT NN , DT CD NN NN , CD `` NN '' VBN NNS CC RB , IN PRP VBD DT PRP , JJ NN .</POS>
+		<Lemma>I can still keep both run with all of the follow , the cigarette lighter socket in any vehicle , a 9 volt battery , two `` aa '' size battery and finally , though I add this myself , solar power .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I bought two small solar panels that will produce the voltage & current of two `` AA '' cells and when used in conjunction with this charger and two NiMh , rechargeable , AA cells -LRB- this is called for as the `` hack '' to convert this sort of thing to solar in the manual that came with the solar panels -RRB- will charge one or the other device and keep them running as long as the sun is out .</Tokens>
+		<POS>PRP VBD CD JJ JJ NNS WDT MD VB DT NN CC NN IN CD `` NN '' NNS CC WRB VBN IN NN IN DT NN CC CD NN , JJ , NN NNS -LRB- DT VBZ VBN IN IN DT `` NN '' TO VB DT NN IN NN TO JJ IN DT NN WDT VBD IN DT JJ NNS -RRB- MD VB CD CC DT JJ NN CC VB PRP VBG RB RB IN DT NN VBZ RB .</POS>
+		<Lemma>I buy two small solar panel that will produce the voltage & current of two `` aa '' cell and when use in conjunction with this charger and two nimh , rechargeable , aa cell -lrb- this be call for as the `` hack '' to convert this sort of thing to solar in the manual that come with the solar panel -rrb- will charge one or the other device and keep they run as long as the sun be out .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I am not able to find them on Amazon or I would link them , the panels were bought at a science fair for my nephews of all places .</Tokens>
+		<POS>PRP VBP RB JJ TO VB PRP IN NNP CC PRP MD VB PRP , DT NNS VBD VBN IN DT NN NN IN PRP$ NNS IN DT NNS .</POS>
+		<Lemma>I be not able to find they on Amazon or I would link they , the panel be buy at a science fair for my nephew of all place .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>They do work to keep the devices charged p though and that makes this little charger one of the best little devices in my emergency kit as well .</Tokens>
+		<POS>PRP VBP VB TO VB DT NNS VBD NN IN CC IN VBZ DT JJ NN CD IN DT JJS JJ NNS IN PRP$ NN NN RB RB .</POS>
+		<Lemma>they do work to keep the device charge p though and that make this little charger one of the best little device in my emergency kit as well .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I read in some of the reviews that they are saying the provided USB cable will only work to charge whatever it is you are charging and it will not transfer data .</Tokens>
+		<POS>PRP VBP IN DT IN DT NNS IN PRP VBP VBG DT VBN JJ NN MD RB VB TO VB WDT PRP VBZ PRP VBP VBG CC PRP MD RB VB NNS .</POS>
+		<Lemma>I read in some of the review that they be say the provide usb cable will only work to charge whatever it be you be charge and it will not transfer datum .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I must have gotten the special deal because mine will do both and frankly I have n't the foggiest as to how a cable would know the difference between electricity that is charging the device and electricity that is data moving through it .</Tokens>
+		<POS>PRP MD VB VBN DT JJ NN IN NN MD VB DT CC RB PRP VBP RB DT JJS IN TO WRB DT NN MD VB DT NN IN NN WDT VBZ VBG DT NN CC NN WDT VBZ NNS VBG IN PRP .</POS>
+		<Lemma>I must have get the special deal because mine will do both and frankly I have not the foggiest as to how a cable would know the difference between electricity that be charge the device and electricity that be datum move through it .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Maybe I am wrong though and I am certainly not trying to start anything here .</Tokens>
+		<POS>RB PRP VBP JJ IN CC PRP VBP RB RB VBG TO VB NN RB .</POS>
+		<Lemma>maybe I be wrong though and I be certainly not try to start anything here .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I just think that it is worth saying that the included USB cable will transfer data between any two devices that it is compatible with , so one has to have a micro USB port and the other must have a regular USB port .</Tokens>
+		<POS>PRP RB VBP IN PRP VBZ JJ VBG IN DT VBN JJ NN MD VB NNS IN DT CD NNS IN PRP VBZ JJ IN , IN CD VBZ TO VB DT JJ JJ NN CC DT JJ MD VB DT JJ JJ NN .</POS>
+		<Lemma>I just think that it be worth say that the include usb cable will transfer datum between any two device that it be compatible with , so one have to have a micro usb port and the other must have a regular usb port .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>In closing , this is n't a perfect five since it is n't as well made as it could be , but it is darn close .</Tokens>
+		<POS>IN NN , DT VBZ RB DT JJ CD IN PRP VBZ RB RB RB VBN IN PRP MD VB , CC PRP VBZ JJ NN .</POS>
+		<Lemma>in closing , this be not a perfect five since it be not as well make as it could be , but it be darn close .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Four stars is where I put it though if I were able it would get an easy 4.5 stars .</Tokens>
+		<POS>CD NNS VBZ WRB PRP VBP PRP IN IN PRP VBD JJ PRP MD VB DT JJ CD NNS .</POS>
+		<Lemma>four star be where I put it though if I be able it would get a easy 4.5 star .</Lemma>
+	</Sentence>
+</Document>

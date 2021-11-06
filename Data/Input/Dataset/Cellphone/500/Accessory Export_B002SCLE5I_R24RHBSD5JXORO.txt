@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If I had to bet on it I 'd say these do n't work .</Tokens>
+		<POS>IN PRP VBD TO VB IN PRP PRP MD VB DT VBP RB VB .</POS>
+		<Lemma>if I have to bet on it I would say these do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However for the price of a cigar I 'm willing to take the gamble .</Tokens>
+		<POS>RB IN DT NN IN DT NN PRP VBP JJ TO VB DT NN .</POS>
+		<Lemma>however for the price of a cigar I be willing to take the gamble .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't expect a significant improvement ; a small one will do .</Tokens>
+		<POS>PRP VBP RB VB DT JJ NN : DT JJ CD MD VB .</POS>
+		<Lemma>I do not expect a significant improvement ; a small one will do .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In a particular location , I need a weak signal vs. getting no signal ; if it accomplishes that it will be a win .</Tokens>
+		<POS>IN DT JJ NN , PRP VBP DT JJ NN IN VBG DT NN : IN PRP VBZ IN PRP MD VB DT VB .</POS>
+		<Lemma>in a particular location , I need a weak signal vs. get no signal ; if it accomplish that it will be a win .</Lemma>
+	</Sentence>
+</Document>

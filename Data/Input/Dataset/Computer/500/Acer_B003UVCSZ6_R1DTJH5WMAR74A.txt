@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am a system builder .</Tokens>
+		<POS>PRP VBP DT NN NN .</POS>
+		<Lemma>I be a system builder .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love challenge and was never disappointed with any Acer product .</Tokens>
+		<POS>PRP VBP NN CC VBD RB VBN IN DT NNP NN .</POS>
+		<Lemma>I love challenge and be never disappoint with any Acer product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After I read all reviews about this monitor I decided to find out about the angle issue people are talking about .</Tokens>
+		<POS>IN PRP VBP DT NNS IN DT NN PRP VBD TO VB RP IN DT NN NN NNS VBP VBG RB .</POS>
+		<Lemma>after I read all review about this monitor I decide to find out about the angle issue people be talk about .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I bought one from the local market for a very cheap price .</Tokens>
+		<POS>PRP VBD CD IN DT JJ NN IN DT RB JJ NN .</POS>
+		<Lemma>I buy one from the local market for a very cheap price .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The monitor has a beautiful design but the screen is fixed on one angle and do n't move !</Tokens>
+		<POS>DT NN VBZ DT JJ NN CC DT NN VBZ VBN IN CD NN CC VBP RB VB .</POS>
+		<Lemma>the monitor have a beautiful design but the screen be fix on one angle and do not move !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So I removed the stand and there was the solution : Beneath the hinges that move the screen to different angle was one little screw on each side to prevent the screen from moving during the shipping .</Tokens>
+		<POS>IN PRP VBD DT NN CC EX VBD DT NN : IN DT NNS WDT VBP DT NN TO JJ NN VBD CD JJ NN IN DT NN TO VB DT NN IN VBG IN DT NN .</POS>
+		<Lemma>so I remove the stand and there be the solution : beneath the hinge that move the screen to different angle be one little screw on each side to prevent the screen from move during the shipping .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I removed them and the problem was solved .</Tokens>
+		<POS>PRP VBD PRP CC DT NN VBD VBN .</POS>
+		<Lemma>I remove they and the problem be solve .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The monitor works perfectly with beautiful resolutions .</Tokens>
+		<POS>DT NN VBZ RB IN JJ NNS .</POS>
+		<Lemma>the monitor work perfectly with beautiful resolution .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>In my opinion this monitor is worse 3 times the price I paid .</Tokens>
+		<POS>IN PRP$ NN DT NN VBZ JJR CD NNS DT NN PRP VBD .</POS>
+		<Lemma>in my opinion this monitor be worse 3 time the price I pay .</Lemma>
+	</Sentence>
+</Document>

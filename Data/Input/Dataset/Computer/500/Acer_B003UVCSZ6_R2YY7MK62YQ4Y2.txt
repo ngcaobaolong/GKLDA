@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is one capable monitor .</Tokens>
+		<POS>DT VBZ CD JJ NN .</POS>
+		<Lemma>this be one capable monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was only a minute or two to connect it to PC .</Tokens>
+		<POS>PRP VBD RB DT NN CC CD TO VB PRP TO NN .</POS>
+		<Lemma>it be only a minute or two to connect it to pc .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Plug & play recognized it and PC was back in action within seconds .</Tokens>
+		<POS>NN CC NN VBD PRP CC NN VBD RB IN NN IN NNS .</POS>
+		<Lemma>plug & play recognize it and pc be back in action within seconds .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Quality of picture excellent .</Tokens>
+		<POS>NNP IN NN JJ .</POS>
+		<Lemma>Quality of picture excellent .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>if you figure the display ratio corectly , you will have no problems with picture or view area .</Tokens>
+		<POS>IN PRP VBP DT NN NN RB , PRP MD VB DT NNS IN NN CC NN NN .</POS>
+		<Lemma>if you figure the display ratio corectly , you will have no problem with picture or view area .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is a great monitor for all average end user .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN DT JJ NN NN .</POS>
+		<Lemma>it be a great monitor for all average end user .</Lemma>
+	</Sentence>
+</Document>

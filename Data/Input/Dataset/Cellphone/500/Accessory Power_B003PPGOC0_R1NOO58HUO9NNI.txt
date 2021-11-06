@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was adament about getting this as a gift for my brother on Christmas .</Tokens>
+		<POS>PRP VBD JJ IN VBG DT IN DT NN IN PRP$ NN IN NNP .</POS>
+		<Lemma>I be adament about get this as a gift for my brother on Christmas .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I live in the tri-state area .</Tokens>
+		<POS>PRP VBP IN DT JJ NN .</POS>
+		<Lemma>I live in the tri-state area .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Considering this really works on FM band transmitting bluetooth signal from the phone or ipod , the sound quality is pretty impressive .</Tokens>
+		<POS>VBG DT RB VBZ IN NNP NN VBG JJ NN IN DT NN CC NN , DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>consider this really work on FM band transmit bluetooth signal from the phone or ipod , the sound quality be pretty impressive .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Quality is as if you connected your device wired to the car stereo</Tokens>
+		<POS>NNP VBZ IN IN PRP JJ PRP$ NN VBD TO DT NN NN</POS>
+		<Lemma>Quality be as if you connected you device wire to the car stereo</Lemma>
+	</Sentence>
+</Document>

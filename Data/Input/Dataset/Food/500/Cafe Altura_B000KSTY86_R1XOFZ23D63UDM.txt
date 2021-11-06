@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Cafe Altura Organic Peruvian Dark Coffee Beans ; My only question about this coffee is : Why does anyone buy any other coffee ?</Tokens>
+		<POS>NNP NNP NNP JJ JJ NNP NNPS : PRP$ JJ NN IN DT NN VBZ : WRB VBZ NN VB DT JJ NN .</POS>
+		<Lemma>Cafe Altura Organic peruvian dark Coffee Beans ; my only question about this coffee be : why do anyone buy any other coffee ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Well , no I do have another : If it is coffee , what should we call the other so called coffees ?</Tokens>
+		<POS>RB , DT PRP VBP VB DT : IN PRP VBZ NN , WP MD PRP VB DT JJ RB VBN NNS .</POS>
+		<Lemma>well , no I do have another : if it be coffee , what should we call the other so call coffee ?</Lemma>
+	</Sentence>
+</Document>

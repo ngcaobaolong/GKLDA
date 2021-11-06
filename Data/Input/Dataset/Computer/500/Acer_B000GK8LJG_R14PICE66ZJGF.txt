@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm buying this for my X61 laptop .</Tokens>
+		<POS>PRP VBP VBG DT IN PRP$ NN NN .</POS>
+		<Lemma>I be buy this for my x61 laptop .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It definitely beats the thinkpad screen in the brightness , contrast and picture quality .</Tokens>
+		<POS>PRP RB VBZ DT JJ NN IN DT NN , NN CC NN NN .</POS>
+		<Lemma>it definitely beat the thinkpad screen in the brightness , contrast and picture quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The color is vivid and the pictures are very sharp .</Tokens>
+		<POS>DT NN VBZ JJ CC DT NNS VBP RB JJ .</POS>
+		<Lemma>the color be vivid and the picture be very sharp .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great monitor !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great monitor !</Lemma>
+	</Sentence>
+</Document>

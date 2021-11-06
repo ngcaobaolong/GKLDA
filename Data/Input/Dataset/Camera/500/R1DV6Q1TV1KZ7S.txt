@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this camera in March .</Tokens>
+		<POS>PRP VBD DT NN IN NNP .</POS>
+		<Lemma>I purchase this camera in March .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>In May appproximately one-third of the time the camera refused to focus when I attempted to take a picture .</Tokens>
+		<POS>IN NNP RB NN IN DT NN DT NN VBD TO VB WRB PRP VBD TO VB DT NN .</POS>
+		<Lemma>in May appproximately one-third of the time the camera refuse to focus when I attempt to take a picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After turning it off and on a number of times , it would eventually focus .</Tokens>
+		<POS>IN VBG PRP RP CC IN DT NN IN NNS , PRP MD RB VB .</POS>
+		<Lemma>after turn it off and on a number of time , it would eventually focus .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Canon support center had me restore the camera to factory de-fault settings .</Tokens>
+		<POS>DT NNP NN NN VBD PRP VB DT NN TO NN NN NNS .</POS>
+		<Lemma>the Canon support center have I restore the camera to factory de-fault setting .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>After another 15 photos , it refused to focus again .</Tokens>
+		<POS>IN DT CD NNS , PRP VBD TO VB RB .</POS>
+		<Lemma>after another 15 photo , it refuse to focus again .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>By this time my 90 days were up so it was not returnable .</Tokens>
+		<POS>IN DT NN PRP$ CD NNS VBD RB RB PRP VBD RB JJ .</POS>
+		<Lemma>by this time my 90 day be up so it be not returnable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I now have to send it to Virginia to see if I have to pay to have it repaired .</Tokens>
+		<POS>PRP RB VBP TO VB PRP TO NNP TO VB IN PRP VBP TO VB TO VB PRP VBN .</POS>
+		<Lemma>I now have to send it to Virginia to see if I have to pay to have it repair .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The Canon support center did not have a clue what was wrong with it .</Tokens>
+		<POS>DT NNP NN NN VBD RB VB DT NN WP VBD JJ IN PRP .</POS>
+		<Lemma>the Canon support center do not have a clue what be wrong with it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I told a saleman at Best Buy what was happening and he immediately diagnosed it as an Auto Fovus Servo issue .</Tokens>
+		<POS>PRP VBD DT NN IN JJS VB WP VBD VBG CC PRP RB VBD PRP IN DT NN NNP NNP NN .</POS>
+		<Lemma>I tell a saleman at best buy what be happen and he immediately diagnose it as a auto Fovus Servo issue .</Lemma>
+	</Sentence>
+</Document>

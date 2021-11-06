@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you 're looking for an inexpensive flatpanel and are n't concerned with Picture quality , this monitor is for you .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN CC VBP RB VBN IN NNP NN , DT NN VBZ IN PRP .</POS>
+		<Lemma>if you be look for a inexpensive flatpanel and be not concern with Picture quality , this monitor be for you .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Acer keeps the price very low .</Tokens>
+		<POS>NNP VBZ DT NN RB JJ .</POS>
+		<Lemma>Acer keep the price very low .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The design is simple and attractive , but the color representation lacks zest .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ , CC DT NN NN VBZ NN .</POS>
+		<Lemma>the design be simple and attractive , but the color representation lack zest .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've had this monitor now for 6 months and it does everything I need it to for basic business operations .</Tokens>
+		<POS>PRP VBP VBD DT NN RB IN CD NNS CC PRP VBZ NN PRP VBP PRP TO IN JJ NN NNS .</POS>
+		<Lemma>I have have this monitor now for 6 month and it do everything I need it to for basic business operation .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Out of the box the colors are a bit dark and upon increasing the brightness , the white gets VERY white .</Tokens>
+		<POS>IN IN DT NN DT NNS VBP DT NN JJ CC IN VBG DT NN , DT JJ VBZ RB JJ .</POS>
+		<Lemma>out of the box the color be a bit dark and upon increase the brightness , the white get very white .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Colors are drabby and not true to shade .</Tokens>
+		<POS>NNS VBP JJ CC RB JJ TO NN .</POS>
+		<Lemma>color be drabby and not true to shade .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I do n't recommend this monitor for anyone interested in graphics\/home photos .</Tokens>
+		<POS>PRP VBP RB VB DT NN IN NN JJ IN NN NNS .</POS>
+		<Lemma>I do not recommend this monitor for anyone interested in graphics\/home photo .</Lemma>
+	</Sentence>
+</Document>

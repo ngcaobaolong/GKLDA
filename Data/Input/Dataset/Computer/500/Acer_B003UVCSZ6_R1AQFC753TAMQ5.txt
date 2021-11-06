@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The LED display makes this monitor very bright .</Tokens>
+		<POS>DT VBN NN VBZ DT NN RB JJ .</POS>
+		<Lemma>the lead display make this monitor very bright .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a good size to work with at 1600x900 resolution .</Tokens>
+		<POS>PRP VBZ DT JJ NN TO VB IN IN CD NN .</POS>
+		<Lemma>it be a good size to work with at 1600x900 resolution .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The monitor itself is very slim and fits easily on my narrow desk .</Tokens>
+		<POS>DT NN PRP VBZ RB JJ CC VBZ RB IN PRP$ JJ NN .</POS>
+		<Lemma>the monitor itself be very slim and fit easily on my narrow desk .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would buy it again if I needed a monitor .</Tokens>
+		<POS>PRP MD VB PRP RB IN PRP VBD DT NN .</POS>
+		<Lemma>I would buy it again if I need a monitor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Cons : The base seems a little flimsy .</Tokens>
+		<POS>NNS : DT NN VBZ DT JJ JJ .</POS>
+		<Lemma>con : the base seem a little flimsy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It has one screw holding it in on both parts .</Tokens>
+		<POS>PRP VBZ CD NN VBG PRP IN IN DT NNS .</POS>
+		<Lemma>it have one screw hold it in on both part .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>As long as I do n't need to be moving it frequently , it should be fine .</Tokens>
+		<POS>RB RB IN PRP VBP RB VB TO VB VBG PRP RB , PRP MD VB JJ .</POS>
+		<Lemma>as long as I do not need to be move it frequently , it should be fine .</Lemma>
+	</Sentence>
+</Document>

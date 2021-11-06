@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A bit on the expensive side -LRB- for me -RRB- , but this camera really delivers .</Tokens>
+		<POS>DT NN IN DT JJ NN -LRB- IN PRP -RRB- , CC DT NN RB VBZ .</POS>
+		<Lemma>a bit on the expensive side -lrb- for I -rrb- , but this camera really deliver .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's hard to imagine doing much better .</Tokens>
+		<POS>PRP VBZ JJ TO VB VBG RB JJR .</POS>
+		<Lemma>it be hard to imagine do much better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use this camera for web videography , and the quality of the HD video it produces speaks well for the camera 's optics and electonics .</Tokens>
+		<POS>PRP VBP DT NN IN NN NN , CC DT NN IN DT NN NN PRP VBZ VBZ RB IN DT NN POS NNS CC NNS .</POS>
+		<Lemma>I use this camera for web videography , and the quality of the hd video it produce speak well for the camera 's optics and electonic .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've shot about 6 hours of video so far , and I 'm very pleased .</Tokens>
+		<POS>PRP VBP VBN RB CD NNS IN NN RB RB , CC PRP VBP RB JJ .</POS>
+		<Lemma>I have shoot about 6 hour of video so far , and I be very pleased .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I recommend an external microphone for any all interviewing work , and this camera will accomodate one through its `` mic '' jack .</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT CC DT VBG NN , CC DT NN MD VB CD IN PRP$ `` JJ '' NN .</POS>
+		<Lemma>I recommend a external microphone for any all interview work , and this camera will accomodate one through its `` mic '' jack .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>That 's the main reason I bought it instead of a less-expensive , purely consumer-grade camera .</Tokens>
+		<POS>DT VBZ DT JJ NN PRP VBD PRP RB IN DT JJ , RB JJ NN .</POS>
+		<Lemma>that be the main reason I buy it instead of a less-expensive , purely consumer-grade camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The camera is light , small , and portable -- great for ` field work ' covering public gatherings .</Tokens>
+		<POS>DT NN VBZ JJ , JJ , CC JJ : JJ IN `` NN NN '' VBG JJ NNS .</POS>
+		<Lemma>the camera be light , small , and portable -- great for ` field work ' cover public gathering .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>They 're costly , but I also recommend one of the longer-life batteries for the camera unless you know you need less than 1 hour of video on every shoot .</Tokens>
+		<POS>PRP VBP JJ , CC PRP RB VBP CD IN DT JJ NNS IN DT NN IN PRP VBP PRP VB JJR IN CD NN IN NN IN DT NN .</POS>
+		<Lemma>they be costly , but I also recommend one of the longer-life battery for the camera unless you know you need less than 1 hour of video on every shoot .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>All in all , I 'm very pleased , and if I had it to do over , I 'd go right back to this very same camera .</Tokens>
+		<POS>DT IN DT , PRP VBP RB JJ , CC IN PRP VBD PRP TO VB RP , PRP MD VB RB RB TO DT RB JJ NN .</POS>
+		<Lemma>all in all , I be very pleased , and if I have it to do over , I would go right back to this very same camera .</Lemma>
+	</Sentence>
+</Document>

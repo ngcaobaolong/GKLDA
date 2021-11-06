@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My new flatscreen monitor is wonderful !</Tokens>
+		<POS>PRP$ JJ NNS NN VBZ JJ .</POS>
+		<Lemma>my new flatscreen monitor be wonderful !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The shipping was in a timely manner and you ca n't beat free shipping .</Tokens>
+		<POS>DT NN VBD IN DT JJ NN CC PRP MD RB VB JJ NN .</POS>
+		<Lemma>the shipping be in a timely manner and you can not beat free shipping .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The screen is large enough for my home office use and you ca n't beat the price .</Tokens>
+		<POS>DT NN VBZ JJ RB IN PRP$ NN NN NN CC PRP MD RB VB DT NN .</POS>
+		<Lemma>the screen be large enough for my home office use and you can not beat the price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was just upgrading to a flat screen monitor and this was completely compatible with my Dell computer .</Tokens>
+		<POS>PRP VBD RB VBG TO DT JJ NN NN CC DT VBD RB JJ IN PRP$ NNP NN .</POS>
+		<Lemma>I be just upgrade to a flat screen monitor and this be completely compatible with my Dell computer .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Had no problems setting up .</Tokens>
+		<POS>VBD DT NNS VBG RP .</POS>
+		<Lemma>have no problem set up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Would definitely recommend using their screen resolution settings that the manufacturer recommends .</Tokens>
+		<POS>MD RB VB VBG PRP$ NN NN NNS IN DT NN VBZ .</POS>
+		<Lemma>would definitely recommend use they screen resolution setting that the manufacturer recommend .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Makes the picture much better .</Tokens>
+		<POS>VBZ DT NN RB RBR .</POS>
+		<Lemma>make the picture much better .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Ca n't beat this product for this price !</Tokens>
+		<POS>MD RB VB DT NN IN DT NN .</POS>
+		<Lemma>can not beat this product for this price !</Lemma>
+	</Sentence>
+</Document>

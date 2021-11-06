@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was using the D3100 , which is a nice camera ; I gave it to my daughter along with the 18-105mm that came as a package with the D7000 .</Tokens>
+		<POS>PRP VBD VBG DT NN , WDT VBZ DT JJ NN : PRP VBD PRP TO PRP$ NN IN IN DT NN WDT VBD IN DT NN IN DT NN .</POS>
+		<Lemma>I be use the d3100 , which be a nice camera ; I give it to my daughter along with the 18-105mm that come as a package with the d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The 7000 is great .</Tokens>
+		<POS>DT CD VBZ JJ .</POS>
+		<Lemma>the 7000 be great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I mostly use it with my Nikkor 70-200mm taking picture of birds and landscapes .</Tokens>
+		<POS>PRP RB VBP PRP IN PRP$ NNP JJ VBG NN IN NNS CC NNS .</POS>
+		<Lemma>I mostly use it with my Nikkor 70-200mm take picture of bird and landscape .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I like the option of taking pictures in the RAW mode and being able to edit on the camera .</Tokens>
+		<POS>PRP VBP DT NN IN VBG NNS IN DT NN NN CC VBG JJ TO VB IN DT NN .</POS>
+		<Lemma>I like the option of take picture in the raw mode and be able to edit on the camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am new at this but am leaning quickly ; I recently retired so I have plenty of time to to run the camera through its paces .</Tokens>
+		<POS>PRP VBP JJ IN DT CC VBP VBG RB : PRP RB VBD IN PRP VBP NN IN NN TO TO VB DT NN IN PRP$ NNS .</POS>
+		<Lemma>I be new at this but be lean quickly ; I recently retire so I have plenty of time to to run the camera through its pace .</Lemma>
+	</Sentence>
+</Document>

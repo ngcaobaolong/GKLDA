@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We tried these because of my daughters interest in all things Doctor Who , and as most fans of the show know , the Fourth Doctor always had them .</Tokens>
+		<POS>PRP VBD DT IN IN PRP$ NNS NN IN DT NNS NNP WP , CC IN JJS NNS IN DT NN VB , DT JJ NN RB VBD PRP .</POS>
+		<Lemma>we try these because of my daughter interest in all thing Doctor who , and as most fan of the show know , the fourth doctor always have they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Living in the states , you ca n't buy them here , so when I found them on Amazon , I jumped at getting them .</Tokens>
+		<POS>VBG IN DT NNS , PRP MD RB VB PRP RB , RB WRB PRP VBD PRP IN NNP , PRP VBD IN VBG PRP .</POS>
+		<Lemma>live in the state , you can not buy they here , so when I find they on Amazon , I jump at get they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We were n't disappointed , they are different from any jelly type candy we 've eaten .</Tokens>
+		<POS>PRP VBD RB VBN , PRP VBP JJ IN DT NN NN NN PRP VBP VBN .</POS>
+		<Lemma>we be not disappoint , they be different from any jelly type candy we have eat .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They are a little grainy in texture but softer than any gum candy , and the flavors are natural .</Tokens>
+		<POS>PRP VBP DT JJ JJ IN NN CC JJR IN DT NN NN , CC DT NNS VBP JJ .</POS>
+		<Lemma>they be a little grainy in texture but softer than any gum candy , and the flavor be natural .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is the only brand -LRB- Bassett 's -RRB- we have tried , and they are supposed to be the best .</Tokens>
+		<POS>DT VBZ DT JJ NN -LRB- NNP POS -RRB- PRP VBP VBN , CC PRP VBP VBN TO VB DT JJS .</POS>
+		<Lemma>this be the only brand -lrb- Bassett 's -rrb- we have try , and they be suppose to be the best .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The shipping is a bit pricey because they 're imported , so if you order , order several bags while your at it .</Tokens>
+		<POS>DT NN VBZ DT NN JJ IN PRP VBP VBN , RB IN PRP NN , NN JJ NNS IN PRP$ IN PRP .</POS>
+		<Lemma>the shipping be a bit pricey because they be import , so if you order , order several bag while you at it .</Lemma>
+	</Sentence>
+</Document>

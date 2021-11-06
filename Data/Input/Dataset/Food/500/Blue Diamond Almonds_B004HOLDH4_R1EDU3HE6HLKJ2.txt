@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great fresh product if you like roasted almonds .</Tokens>
+		<POS>JJ JJ NN IN PRP IN JJ NNS .</POS>
+		<Lemma>great fresh product if you like roasted almond .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No more frustrating attempt to buy some that match these in the grocery store .</Tokens>
+		<POS>DT RBR JJ NN TO VB DT WDT VBP DT IN DT NN NN .</POS>
+		<Lemma>no more frustrating attempt to buy some that match these in the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Free shipping and come to your home .</Tokens>
+		<POS>NNP NN CC VB TO PRP$ NN .</POS>
+		<Lemma>Free shipping and come to you home .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great for snacks .</Tokens>
+		<POS>NNP IN NNS .</POS>
+		<Lemma>Great for snack .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>!</Tokens>
+		<POS>.</POS>
+		<Lemma>!</Lemma>
+	</Sentence>
+</Document>

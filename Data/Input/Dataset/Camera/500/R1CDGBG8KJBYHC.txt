@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>1 star for sending the item to me fast but it was n't in a proper packaging , not sure if that 's the reason I could n't get it work .</Tokens>
+		<POS>CD NN IN VBG DT NN TO PRP JJ CC PRP VBD RB IN DT JJ NN , RB JJ IN DT VBZ DT NN PRP MD RB VB PRP VB .</POS>
+		<Lemma>1 star for send the item to I fast but it be not in a proper packaging , not sure if that be the reason I could not get it work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When plugged in , my computer did n't detect any new software and the camcorder would not turn on at all , even after initital charging .</Tokens>
+		<POS>WRB VBN IN , PRP$ NN VBD RB VB DT JJ NN CC DT NN MD RB VB RP IN DT , RB IN JJ NN .</POS>
+		<Lemma>when plug in , my computer do not detect any new software and the camcorder would not turn on at all , even after initital charging .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I received my refund but only for the item and returned shipping , not for the original shipping .</Tokens>
+		<POS>PRP VBD PRP$ NN CC RB IN DT NN CC VBD NN , RB IN DT JJ NN .</POS>
+		<Lemma>I receive my refund but only for the item and return shipping , not for the original shipping .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thumbs down .</Tokens>
+		<POS>NNS RB .</POS>
+		<Lemma>thumb down .</Lemma>
+	</Sentence>
+</Document>

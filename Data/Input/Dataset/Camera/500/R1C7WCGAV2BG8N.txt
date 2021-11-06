@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Nothing in the promo suggested this was battery-powered video camera .</Tokens>
+		<POS>NN IN DT NN VBD DT VBD JJ NN NN .</POS>
+		<Lemma>nothing in the promo suggest this be battery-powered video camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I just assumed it was .</Tokens>
+		<POS>PRP RB VBD PRP VBD .</POS>
+		<Lemma>I just assume it be .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens> You 've got to be plugged into the wall to use this camera .</Tokens>
+		<POS>NNP PRP VBP VBN TO VB VBN IN DT NN TO VB DT NN .</POS>
+		<Lemma> you have get to be plug into the wall to use this camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I plan to make a battery back , 4 C cells should last about 1.5-2 hours , depending on how much pan-and-tilt my son uses .</Tokens>
+		<POS>PRP VBP TO VB DT NN RB , CD NN NNS MD VB IN CD NNS , VBG IN WRB JJ NN PRP$ NN VBZ .</POS>
+		<Lemma>I plan to make a battery back , 4 c cell should last about 1.5-2 hour , depend on how much pan-and-tilt my son use .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My real stumbling block is WiFi access .</Tokens>
+		<POS>PRP$ JJ VBG NN VBZ NNP NN .</POS>
+		<Lemma>my real stumble block be WiFi access .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Have n't been able to make that work .</Tokens>
+		<POS>VBP RB VBN JJ TO VB DT NN .</POS>
+		<Lemma>have not be able to make that work .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Wired access was simple to set-up and working well .</Tokens>
+		<POS>JJ NN VBD JJ TO NN CC VBG RB .</POS>
+		<Lemma>wired access be simple to set-up and work well .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>From IE9 , sound and controls are all working fine .</Tokens>
+		<POS>IN NN , NN CC NNS VBP DT VBG NN .</POS>
+		<Lemma>from ie9 , sound and control be all work fine .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>From Chrome , I ca n't get the sound to work .</Tokens>
+		<POS>IN NNP , PRP MD RB VB DT NN TO VB .</POS>
+		<Lemma>from Chrome , I can not get the sound to work .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But the method for setting WiFi access has me either manually enter or select from the networks available .</Tokens>
+		<POS>CC DT NN IN VBG NNS NN VBZ PRP CC RB VB CC VB IN DT NNS JJ .</POS>
+		<Lemma>but the method for set wifus access have I either manually enter or select from the network available .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 'm a nut on security , but even when I turned off all the WiFi security , I could n't get this camera to work on WiFi .</Tokens>
+		<POS>PRP VBP DT NN IN NN , CC RB WRB PRP VBD RP DT DT NNP NN , PRP MD RB VB DT NN TO VB IN NNS .</POS>
+		<Lemma>I be a nut on security , but even when I turn off all the WiFi security , I could not get this camera to work on wifus .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Still de-bugging at this point .</Tokens>
+		<POS>RB NN IN DT NN .</POS>
+		<Lemma>still de-bugging at this point .</Lemma>
+	</Sentence>
+</Document>

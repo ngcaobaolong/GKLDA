@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The product does not charge an iPad or iPhone , Ithas a cable that fits them , but it does not charge them .</Tokens>
+		<POS>DT NN VBZ RB VB DT NN CC NNP , NNP DT NN WDT VBZ PRP , CC PRP VBZ RB VB PRP .</POS>
+		<Lemma>the product do not charge a ipad or iPhone , Ithas a cable that fit they , but it do not charge they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is also too large for a travel item , and it is poorly build .</Tokens>
+		<POS>PRP VBZ RB RB JJ IN DT NN NN , CC PRP VBZ RB VB .</POS>
+		<Lemma>it be also too large for a travel item , and it be poorly build .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do n't buy .</Tokens>
+		<POS>VBP RB VB .</POS>
+		<Lemma>do not buy .</Lemma>
+	</Sentence>
+</Document>

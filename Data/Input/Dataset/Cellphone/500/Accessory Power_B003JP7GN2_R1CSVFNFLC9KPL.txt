@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i do not understand y they would put a charger out that really does not charge well at all .</Tokens>
+		<POS>LS VBP RB VB NN PRP MD VB DT NN IN IN RB VBZ RB VB RB IN DT .</POS>
+		<Lemma>i do not understand y they would put a charger out that really do not charge well at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i think it was going to be useful until i found out it charges really sllllooooowwwww .</Tokens>
+		<POS>LS VB PRP VBD VBG TO VB JJ IN FW VBN IN PRP VBZ RB NN .</POS>
+		<Lemma>i think it be go to be useful until i find out it charge really sllllooooowwwww .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>so i keep it in the car in case i really need to charge my devices .</Tokens>
+		<POS>RB FW VB PRP IN DT NN IN NN FW RB VB TO VB PRP$ NNS .</POS>
+		<Lemma>so i keep it in the car in case i really need to charge my device .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>there has to be a faster charging multi charging compact plug .</Tokens>
+		<POS>RB VBZ TO VB DT RBR VBG NNS VBG JJ NN .</POS>
+		<Lemma>there have to be a faster charge multus charge compact plug .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>only thing is u wont know till u get it home cause it dont say</Tokens>
+		<POS>RB NN VBZ FW FW VBP IN NN VB PRP RB VBP PRP JJ VBP</POS>
+		<Lemma>only thing be u wont know till u get it home cause it dont say</Lemma>
+	</Sentence>
+</Document>

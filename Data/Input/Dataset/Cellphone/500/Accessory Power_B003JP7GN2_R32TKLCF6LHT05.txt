@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had left my nook color charger in a hotel room , so I was looking for an inexpensive replacement .</Tokens>
+		<POS>PRP VBD VBN PRP$ JJ NN NN IN DT NN NN , IN PRP VBD VBG IN DT JJ NN .</POS>
+		<Lemma>I have leave my nook color charger in a hotel room , so I be look for a inexpensive replacement .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The cord that came with this charger did n't fit my nook color , but luckily I had an extra cord fom my car charger , so now it can work .</Tokens>
+		<POS>DT NN WDT VBD IN DT NN VBD RB VB PRP$ JJ NN , CC RB PRP VBD DT JJ NN NN PRP$ NN NN , RB RB PRP MD VB .</POS>
+		<Lemma>the cord that come with this charger do not fit my nook color , but luckily I have a extra cord fom my car charger , so now it can work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There was also a strong burning plastic smell the first few weeks I was using it .</Tokens>
+		<POS>EX VBD RB DT JJ NN NN VBP DT JJ JJ NNS PRP VBD VBG PRP .</POS>
+		<Lemma>there be also a strong burning plastic smell the first few week I be use it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now I just have to remember to bring the cord in my car when I am on the go .</Tokens>
+		<POS>RB PRP RB VBP TO VB TO VB DT NN IN PRP$ NN WRB PRP VBP IN DT NN .</POS>
+		<Lemma>now I just have to remember to bring the cord in my car when I be on the go .</Lemma>
+	</Sentence>
+</Document>

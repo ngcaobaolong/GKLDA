@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the second monitor I have purchased .</Tokens>
+		<POS>DT VBZ DT JJ NN PRP VBP VBN .</POS>
+		<Lemma>this be the second monitor I have purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The first is an Asus 23 '' 1080p display which I purchased for $ 170 , which I am using to compare this monitor to .</Tokens>
+		<POS>DT JJ VBZ DT NNP CD '' JJ NN WDT PRP VBD IN $ CD , WDT PRP VBP VBG TO VB DT NN TO .</POS>
+		<Lemma>the first be a Asus 23 '' 1080p display which I purchase for $ 170 , which I be use to compare this monitor to .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For $ 120 , this monitor is very difficult to beat .</Tokens>
+		<POS>IN $ CD , DT NN VBZ RB JJ TO VB .</POS>
+		<Lemma>for $ 120 , this monitor be very difficult to beat .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is a 20 '' 1600x900 screen , and comes with a power adapter -LRB- my Asus plugs directly into an AC wall socket -RRB- a 6 foot VGA cable , and a 6 foot DVI cable , along with user 's manual .</Tokens>
+		<POS>PRP VBZ DT CD '' CD NN , CC VBZ IN DT NN NN -LRB- PRP$ NN VBZ RB IN DT NN NN NN -RRB- DT CD NN NNP NN , CC DT CD NN NNP NN , IN IN NN POS NN .</POS>
+		<Lemma>it be a 20 '' 1600x900 screen , and come with a power adapter -lrb- my asus plug directly into a ac wall socket -rrb- a 6 foot VGA cable , and a 6 foot DVI cable , along with user 's manual .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Note that this screen is NOT HDMI compatible , despite an HDMI cable apparently being a commonly purchased item along with this monitor .</Tokens>
+		<POS>VB IN DT NN VBZ NNP NNP JJ , IN DT NN NN RB VBG DT RB VBN NN IN IN DT NN .</POS>
+		<Lemma>note that this screen be NOT HDMI compatible , despite a hdmus cable apparently be a commonly purchase item along with this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The various video\/audio connections plug into the back panel horizontally , which I actually prefer to the Asus , which has them plug in vertically .</Tokens>
+		<POS>DT JJ NN NNS VBP IN DT JJ NN RB , WDT PRP RB VBP TO DT NNP , WDT VBZ PRP VB IN RB .</POS>
+		<Lemma>the various video\/audio connection plug into the back panel horizontally , which I actually prefer to the Asus , which have they plug in vertically .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This makes it harder for cables to be removed in the future .</Tokens>
+		<POS>DT VBZ PRP RBR IN NNS TO VB VBN IN DT NN .</POS>
+		<Lemma>this make it harder for cable to be remove in the future .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This monitor however has no such problems .</Tokens>
+		<POS>DT NN RB VBZ DT JJ NNS .</POS>
+		<Lemma>this monitor however have no such problem .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Now on to image quality .</Tokens>
+		<POS>RB IN TO NN NN .</POS>
+		<Lemma>now on to image quality .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It is definitely a bit inferior to my Asus , but I feel the incredibly reasonable price justifies that .</Tokens>
+		<POS>PRP VBZ RB DT NN JJ TO PRP$ NNP , CC PRP VBP DT RB JJ NN VBZ IN .</POS>
+		<Lemma>it be definitely a bit inferior to my Asus , but I feel the incredibly reasonable price justify that .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The main difference is that the screen has slightly shallower colors and a bit weaker contrast .</Tokens>
+		<POS>DT JJ NN VBZ IN DT NN VBZ RB JJR NNS CC DT NN JJR NN .</POS>
+		<Lemma>the main difference be that the screen have slightly shallower color and a bit weaker contrast .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>However , this does not make it a poor screen at all , and if you are using this as your primary monitor , you likely wo n't even care .</Tokens>
+		<POS>RB , DT VBZ RB VB PRP DT JJ NN IN DT , CC IN PRP VBP VBG DT IN PRP$ JJ NN , PRP RB MD RB RB VB .</POS>
+		<Lemma>however , this do not make it a poor screen at all , and if you be use this as you primary monitor , you likely will not even care .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It is fine for its purpose , so really not complaints here .</Tokens>
+		<POS>PRP VBZ JJ IN PRP$ NN , RB RB RB NNS RB .</POS>
+		<Lemma>it be fine for its purpose , so really not complaint here .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The only other comment I have is on the calibration buttons .</Tokens>
+		<POS>DT JJ JJ NN PRP VBP VBZ IN DT NN NNS .</POS>
+		<Lemma>the only other comment I have be on the calibration button .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>There are 5 of them underneath the monitor , unlabeled .</Tokens>
+		<POS>EX VBP CD IN PRP IN DT NN , JJ .</POS>
+		<Lemma>there be 5 of they underneath the monitor , unlabeled .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Though navigating the menus is awkward at first , you learn to read the screen which shows the functions , so it really is not difficult to understand .</Tokens>
+		<POS>IN VBG DT NNS VBZ JJ IN RB , PRP VBP TO VB DT NN WDT VBZ DT NNS , IN PRP RB VBZ RB JJ TO VB .</POS>
+		<Lemma>though navigate the menu be awkward at first , you learn to read the screen which show the function , so it really be not difficult to understand .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>They are also nice and responsive .</Tokens>
+		<POS>PRP VBP RB JJ CC JJ .</POS>
+		<Lemma>they be also nice and responsive .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>My Asus ' buttons are labeled , but they have faint colors on black and are hard to see , and are less responsive .</Tokens>
+		<POS>PRP$ NNP POS NNS VBP VBN , CC PRP VBP JJ NNS IN JJ CC VBP JJ TO VB , CC VBP RBR JJ .</POS>
+		<Lemma>my Asus ' button be label , but they have faint color on black and be hard to see , and be less responsive .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>All in all , the monitor functions well , has good but not great image quality , and has a good menu system as well .</Tokens>
+		<POS>DT IN DT , DT NN VBZ RB , VBZ JJ CC RB JJ NN NN , CC VBZ DT JJ NN NN RB RB .</POS>
+		<Lemma>all in all , the monitor function well , have good but not great image quality , and have a good menu system as well .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>For the 20 '' category , this monitor is very impressive .</Tokens>
+		<POS>IN DT CD '' NN , DT NN VBZ RB JJ .</POS>
+		<Lemma>for the 20 '' category , this monitor be very impressive .</Lemma>
+	</Sentence>
+</Document>

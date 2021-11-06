@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>before i buy this monitor I make the mistake of buying a used one in e-bay .</Tokens>
+		<POS>IN FW VB DT NN PRP VBP DT NN IN VBG DT VBN CD IN NN .</POS>
+		<Lemma>before i buy this monitor I make the mistake of buy a use one in e-bay .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Lets just say I am still figting with the seller to this day for a refund ... ... ... I love this monitor , it was package so nice and it come with manuals and all the 3 cables .</Tokens>
+		<POS>VBZ RB VB PRP VBP RB VBG IN DT NN TO DT NN IN DT NN : : : PRP VBP DT NN , PRP VBD NN RB JJ CC PRP VB IN NNS CC PDT DT CD NNS .</POS>
+		<Lemma>let just say I be still figt with the seller to this day for a refund ... ... ... I love this monitor , it be package so nice and it come with manual and all the 3 cable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I can listen to my music again ... ... .</Tokens>
+		<POS>PRP MD VB TO PRP$ NN RB : : .</POS>
+		<Lemma>I can listen to my music again ... ... .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>thanks a million .</Tokens>
+		<POS>NNS DT CD .</POS>
+		<Lemma>thanks a million .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am a happy buyer for once .</Tokens>
+		<POS>PRP VBP DT JJ NN IN RB .</POS>
+		<Lemma>I be a happy buyer for once .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Easy to install a piece of cake .</Tokens>
+		<POS>NNP TO VB DT NN IN NN .</POS>
+		<Lemma>Easy to install a piece of cake .</Lemma>
+	</Sentence>
+</Document>

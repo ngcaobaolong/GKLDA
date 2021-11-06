@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this for my boyfriend for Christmas and he loves it !</Tokens>
+		<POS>PRP VBD DT IN PRP$ NN IN NNP CC PRP VBZ PRP .</POS>
+		<Lemma>I purchase this for my boyfriend for Christmas and he love it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has good sound quality and very easy to use .</Tokens>
+		<POS>PRP VBZ JJ JJ NN CC RB JJ TO VB .</POS>
+		<Lemma>it have good sound quality and very easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Its a good hands free device .</Tokens>
+		<POS>PRP$ DT JJ NNS JJ NN .</POS>
+		<Lemma>its a good hand free device .</Lemma>
+	</Sentence>
+</Document>

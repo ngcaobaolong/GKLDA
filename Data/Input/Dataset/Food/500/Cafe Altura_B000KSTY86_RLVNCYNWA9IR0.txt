@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My wife and I ordered this coffee several times until July 2011 when the batches started tasting bitter .</Tokens>
+		<POS>PRP$ NN CC PRP VBD DT NN JJ NNS IN NNP CD WRB DT NNS VBD NN JJ .</POS>
+		<Lemma>my wife and I order this coffee several time until July 2011 when the batch start tasting bitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We really enjoy dark roasts with strong , robust flavors in the morning , so when I saw this coffee , we decided to try it out .</Tokens>
+		<POS>PRP RB VBP JJ NNS IN JJ , JJ NNS IN DT NN , RB WRB PRP VBD DT NN , PRP VBD TO VB PRP RP .</POS>
+		<Lemma>we really enjoy dark roast with strong , robust flavor in the morning , so when I see this coffee , we decide to try it out .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Some initial bags were quite good but got somewhat bitter as new bags were delivered monthly .</Tokens>
+		<POS>DT JJ NNS VBD RB JJ CC VBD RB JJ IN JJ NNS VBD VBN RB .</POS>
+		<Lemma>some initial bag be quite good but get somewhat bitter as new bag be deliver monthly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We stopped delivery after a really bitter batch .</Tokens>
+		<POS>PRP VBD NN IN DT RB JJ NN .</POS>
+		<Lemma>we stop delivery after a really bitter batch .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We now drink an expresso roast from Costco\/Kirkland\/Starbucks .</Tokens>
+		<POS>PRP RB VBP DT NN NN IN NNPS .</POS>
+		<Lemma>we now drink a expresso roast from Costco\/Kirkland\/Starbucks .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Three stars for good initial bags , but got inconsistant roasts down the line later .</Tokens>
+		<POS>CD NNS IN JJ JJ NNS , CC VBD JJ NNS IN DT NN RB .</POS>
+		<Lemma>three star for good initial bag , but get inconsistant roast down the line later .</Lemma>
+	</Sentence>
+</Document>

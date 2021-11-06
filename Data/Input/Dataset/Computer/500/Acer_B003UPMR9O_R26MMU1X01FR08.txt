@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor work perfectly we purchsed it for someone who was having trouble reading on a smaller monitor .</Tokens>
+		<POS>DT NN NN RB PRP VBD PRP IN NN WP VBD VBG NN VBG IN DT JJR NN .</POS>
+		<Lemma>this monitor work perfectly we purchse it for someone who be have trouble read on a smaller monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>once we set this one up for larger icons and text he no longer had any problems reading and working with other systems .</Tokens>
+		<POS>RB PRP VBD DT CD RP IN JJR NNS CC NN PRP RB RBR VBD DT NNS NN CC VBG IN JJ NNS .</POS>
+		<Lemma>once we set this one up for larger icon and text he no longer have any problem reading and work with other system .</Lemma>
+	</Sentence>
+</Document>

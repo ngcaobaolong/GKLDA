@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used this camera for the first time while I was on vacation in Prague .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN IN PRP VBD IN NN IN NNP .</POS>
+		<Lemma>I use this camera for the first time while I be on vacation in Prague .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The quality of the pictures taken outdoors are as good or better than you would expect from a camera with a lens this size .</Tokens>
+		<POS>DT NN IN DT NNS VBN NNS VBP RB JJ CC JJR IN PRP MD VB IN DT NN IN DT NN DT NN .</POS>
+		<Lemma>the quality of the picture take outdoors be as good or better than you would expect from a camera with a lens this size .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They images are more than adequate for Facebook and printing 4x6s .</Tokens>
+		<POS>PRP NNS VBP RBR IN JJ IN NNP CC VBG NNS .</POS>
+		<Lemma>they image be more than adequate for Facebook and print 4x6 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Photos taken in lower light conditions are grainy but not any more so than I would expect .</Tokens>
+		<POS>NNS VBN IN JJR JJ NNS VBP JJ CC RB DT RBR RB IN PRP MD VB .</POS>
+		<Lemma>photo take in lower light condition be grainy but not any more so than I would expect .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This review would have been 4 stars if it were not for one single problem .</Tokens>
+		<POS>DT NN MD VB VBN CD NNS IN PRP VBD RB IN CD JJ NN .</POS>
+		<Lemma>this review would have be 4 star if it be not for one single problem .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The camera ships without a charger but does include what looks like a micro USB cable .</Tokens>
+		<POS>DT NN NNS IN DT NN CC VBZ VB WP VBZ IN DT JJ JJ NN .</POS>
+		<Lemma>the camera ship without a charger but do include what look like a micro usb cable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The included cable is actually NOT a micro USB cable but a proprietary Sony cable that looks like micro USB .</Tokens>
+		<POS>DT VBN NN VBZ RB RB DT JJ JJ NN CC DT JJ NNP NN WDT VBZ IN JJ JJ .</POS>
+		<Lemma>the include cable be actually not a micro usb cable but a proprietary Sony cable that look like micro usb .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Having brought only a mini and micro USB to charge everything else I own I was unable to charge the camera .</Tokens>
+		<POS>VBG VBN RB DT NN CC JJ JJ TO VB NN RB PRP VBP PRP VBD JJ TO VB DT NN .</POS>
+		<Lemma>have bring only a minus and micro usb to charge everything else I own I be unable to charge the camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I spent three hours scouting the tourist areas of Prague for a means to charge this camera .</Tokens>
+		<POS>PRP VBD CD NNS VBG DT NN NNS IN NNP IN DT NN TO VB DT NN .</POS>
+		<Lemma>I spend three hour scout the tourist area of Prague for a means to charge this camera .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I finally gave up and paid twice retail for another camera to use for the remainder of my trip .</Tokens>
+		<POS>PRP RB VBD RP CC VBD RB JJ IN DT NN TO VB IN DT NN IN PRP$ NN .</POS>
+		<Lemma>I finally give up and pay twice retail for another camera to use for the remainder of my trip .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>When I returned home I bought a universal battery charger .</Tokens>
+		<POS>WRB PRP VBD NN PRP VBD DT JJ NN NN .</POS>
+		<Lemma>when I return home I buy a universal battery charger .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I must have figured I had plenty of micro USB cables and tossed the cable that came in the box .</Tokens>
+		<POS>PRP MD VB VBN PRP VBD NN IN JJ JJ NNS CC VBD DT NN WDT VBD IN DT NN .</POS>
+		<Lemma>I must have figure I have plenty of micro usb cable and toss the cable that come in the box .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If I travel with this camera again I will bring a pocket full of charged Sony 'N' batteries .</Tokens>
+		<POS>IN PRP VBP IN DT NN RB PRP MD VB DT NN JJ IN VBN NNP NNP NNS .</POS>
+		<Lemma>if I travel with this camera again I will bring a pocket full of charge Sony 'N' battery .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I ca n't begin to understand why Sony would do something like this .</Tokens>
+		<POS>PRP MD RB VB TO VB WRB NNP MD VB NN IN DT .</POS>
+		<Lemma>I can not begin to understand why Sony would do something like this .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I thought they would have learned their lesson with the Sony memory stick saga .</Tokens>
+		<POS>PRP VBD PRP MD VB VBN PRP$ NN IN DT NNP NN NN NN .</POS>
+		<Lemma>I think they would have learn they lesson with the Sony memory stick saga .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>They have taken another pretty good product a degraded it by making it inconvenient and\/or expensive to use .</Tokens>
+		<POS>PRP VBP VBN DT RB JJ NN DT VBN PRP IN VBG PRP JJ CC JJ TO VB .</POS>
+		<Lemma>they have take another pretty good product a degrade it by make it inconvenient and\/or expensive to use .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Rick Culleton CEO DiscountElectronics.com</Tokens>
+		<POS>NNP NNP NNP NNP</POS>
+		<Lemma>Rick Culleton CEO DiscountElectronics.com</Lemma>
+	</Sentence>
+</Document>

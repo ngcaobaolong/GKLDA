@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I bought this product , it was more expensive than the similar products .</Tokens>
+		<POS>WRB PRP VBD DT NN , PRP VBD RBR JJ IN DT JJ NNS .</POS>
+		<Lemma>when I buy this product , it be more expensive than the similar product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I thought it would be fast and all .</Tokens>
+		<POS>PRP VBD PRP MD VB JJ CC DT .</POS>
+		<Lemma>I think it would be fast and all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you open a word file , it takes 1-2 minutes .</Tokens>
+		<POS>IN PRP VBP DT NN NN , PRP VBZ CD NNS .</POS>
+		<Lemma>if you open a word file , it take 1-2 minute .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I guess that pretty much explains everything .</Tokens>
+		<POS>PRP VBP IN RB JJ VBZ NN .</POS>
+		<Lemma>I guess that pretty much explain everything .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Do not waste your money !</Tokens>
+		<POS>VBP RB VB PRP$ NN .</POS>
+		<Lemma>do not waste you money !</Lemma>
+	</Sentence>
+</Document>

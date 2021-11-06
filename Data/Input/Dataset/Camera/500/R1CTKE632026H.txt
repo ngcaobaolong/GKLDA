@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The E-5 takes incredible shots , it 's built solid -LRB- you can feel it the moment you pick it up -RRB- , and i love the weather sealing .</Tokens>
+		<POS>DT NN VBZ JJ NNS , PRP VBZ VBN JJ -LRB- PRP MD VB PRP DT NN PRP VBP PRP RP -RRB- , CC FW VBP DT NN VBG .</POS>
+		<Lemma>the e-5 take incredible shot , it be build solid -lrb- you can feel it the moment you pick it up -rrb- , and i love the weather seal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If you want a dslr that takes sharp photos and will put up with whatever weather mother nature throws your way , you ca n't go wrong with the E-5 .</Tokens>
+		<POS>IN PRP VBP DT NN WDT VBZ JJ NNS CC MD VB RP IN WDT NN NN NN VBZ PRP$ NN , PRP MD RB VB JJ IN DT NN .</POS>
+		<Lemma>if you want a dslr that take sharp photo and will put up with whatever weather mother nature throw you way , you can not go wrong with the e-5 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pairs great with the Zuiko 12-60 SWD .</Tokens>
+		<POS>NNP JJ IN DT NNP CD NNP .</POS>
+		<Lemma>Pairs great with the Zuiko 12-60 SWD .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I do n't know what it was about this bread mix , but it did n't seem to agree with my stomach .</Tokens>
+		<POS>PRP VBP RB VB WP PRP VBD IN DT NN NN , CC PRP VBD RB VB TO VB IN PRP$ NN .</POS>
+		<Lemma>I do not know what it be about this bread mix , but it do not seem to agree with my stomach .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's very nutty and smells like a rye bread , but I could only eat about half of the loaf - then had to throw the rest away .</Tokens>
+		<POS>PRP VBZ RB JJ CC VBZ IN DT NN NN , CC PRP MD RB VB IN NN IN DT NN : RB VBD TO VB DT NN RB .</POS>
+		<Lemma>it be very nutty and smell like a rye bread , but I could only eat about half of the loaf - then have to throw the rest away .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wish there were more options for whole grain gluten-free bread mixes .</Tokens>
+		<POS>PRP VBP EX VBD JJR NNS IN JJ NN JJ NN VBZ .</POS>
+		<Lemma>I wish there be more option for whole grain gluten-free bread mix .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For now I 'll be sticking with Pamela 's .</Tokens>
+		<POS>IN RB PRP MD VB VBG IN NNP POS .</POS>
+		<Lemma>for now I 'll be stick with Pamela 's .</Lemma>
+	</Sentence>
+</Document>

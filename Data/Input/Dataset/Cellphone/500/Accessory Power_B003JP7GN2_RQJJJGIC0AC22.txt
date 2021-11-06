@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been looking for an iPhone charger that would work with AA batteries for times that I 'm away from a wall outlet , such as camping .</Tokens>
+		<POS>PRP VBP VBN VBG IN DT NNP NN WDT MD VB IN NN NNS IN NNS IN PRP VBP RB IN DT NN NN , JJ IN NN .</POS>
+		<Lemma>I have be look for a iPhone charger that would work with aa battery for time that I be away from a wall outlet , such as camping .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Most of the cheaper products are highly unreliable .</Tokens>
+		<POS>JJS IN DT JJR NNS VBP RB JJ .</POS>
+		<Lemma>most of the cheaper product be highly unreliable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This product not only consistently works with AA batteries , but also charges from a 9V battery .</Tokens>
+		<POS>DT NN RB RB RB VBZ IN NN NNS , CC RB VBZ IN DT NN NN .</POS>
+		<Lemma>this product not only consistently work with aa battery , but also charge from a 9v battery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I can now travel with one charger and charge in the car , hotel room , and on the trail .</Tokens>
+		<POS>PRP MD RB VB IN CD NN CC NN IN DT NN , NN NN , CC IN DT NN .</POS>
+		<Lemma>I can now travel with one charger and charge in the car , hotel room , and on the trail .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>A little bulky but worth it for its reliability .</Tokens>
+		<POS>DT JJ JJ CC JJ PRP IN PRP$ NN .</POS>
+		<Lemma>a little bulky but worth it for its reliability .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have used it with both my iPhone 3GS and my wife 's 4G .</Tokens>
+		<POS>PRP VBP VBN PRP IN DT PRP$ NNP NN CC PRP$ NN POS NN .</POS>
+		<Lemma>I have use it with both my iPhone 3g and my wife 's 4g .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Highly recommended .</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+</Document>

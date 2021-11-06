@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I order my x10 two days ago .</Tokens>
+		<POS>PRP VBP PRP$ NN CD NNS RB .</POS>
+		<Lemma>I order my x10 two day ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It arrived with the dreaded bad sensor .</Tokens>
+		<POS>PRP VBD IN DT JJ JJ NN .</POS>
+		<Lemma>it arrive with the dreaded bad sensor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Serial number 14AXXX .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>serial number 14axxx .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am returning tomorrow .</Tokens>
+		<POS>PRP VBP VBG NN .</POS>
+		<Lemma>I be return tomorrow .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>600 $ is a pretty penny for a defective product .</Tokens>
+		<POS>CD $ VBZ DT RB NN IN DT JJ NN .</POS>
+		<Lemma>600 $ be a pretty penny for a defective product .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>New sensors according to the customer service representative I just spoke with will not be available until Sept. .</Tokens>
+		<POS>NNP NNS VBG TO DT NN NN NN PRP RB VBD IN MD RB VB JJ IN NNP .</POS>
+		<Lemma>New sensor accord to the customer service representative I just speak with will not be available until Sept. .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Pity .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>pity .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Such a pretty camera ...</Tokens>
+		<POS>PDT DT RB NN :</POS>
+		<Lemma>such a pretty camera ...</Lemma>
+	</Sentence>
+</Document>

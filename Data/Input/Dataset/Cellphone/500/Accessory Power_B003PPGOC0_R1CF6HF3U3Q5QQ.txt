@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love this device .</Tokens>
+		<POS>NN DT NN .</POS>
+		<Lemma>love this device .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to use and although I purchased this purely for music listening , I find myself using the hands-free calling feature all the time .</Tokens>
+		<POS>NNP TO VB CC IN PRP VBD DT RB IN NN NN , PRP VBP PRP VBG DT JJ VBG NN PDT DT NN .</POS>
+		<Lemma>Easy to use and although I purchase this purely for music listening , I find myself use the hands-free call feature all the time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And with the phone-ring\/radio-mute feature , there are no more missed calls while air-drumming to Rush .</Tokens>
+		<POS>CC IN DT JJ NN , EX VBP RB RBR VBN NNS IN JJ TO VB .</POS>
+		<Lemma>and with the phone-ring\/radio-mute feature , there be no more miss call while air-drumming to rush .</Lemma>
+	</Sentence>
+</Document>

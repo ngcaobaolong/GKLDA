@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I first made this bread -LRB- <a href="http://www.amazon.com/gp/product/B000KELHPS/ref=cm_cr_asin_lnk/184-7955431-5239934"> Bob 's Red Mill Gluten-Free Whole Grain Bread Mix , 20-Ounce Units -LRB- Pack of 4 -RRB- </a> -RRB- in my bread machine for a friend who is on a gluten-free diet .</Tokens>
+		<POS>PRP RB VBD DT NN -LRB- NN NNP POS NNP NNP NNP NNP NNP NNP NNP , NN NNS -LRB- NN IN CD -RRB- NN -RRB- IN PRP$ NN NN IN DT NN WP VBZ IN DT JJ NN .</POS>
+		<Lemma>I first make this bread -lrb- <a href="http://www.amazon.com/gp/product/b000kelhps/ref=cm_cr_asin_lnk/184-7955431-5239934"> Bob 's Red Mill Gluten-Free Whole Grain Bread Mix , 20-ounce unit -lrb- pack of 4 -rrb- </a> -rrb- in my bread machine for a friend who be on a gluten-free diet .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I liked it so much that I now regularly make it for dinner parties , in preference to `` normal '' whole wheat bread - and receive rave reviews .</Tokens>
+		<POS>PRP VBD PRP RB RB IN PRP RB RB VB PRP IN NN NNS , IN NN TO `` JJ '' JJ NN NN : CC VB VB NNS .</POS>
+		<Lemma>I like it so much that I now regularly make it for dinner party , in preference to `` normal '' whole wheat bread - and receive rave review .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Thoroughly recommended !</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>thoroughly recommend !</Lemma>
+	</Sentence>
+</Document>

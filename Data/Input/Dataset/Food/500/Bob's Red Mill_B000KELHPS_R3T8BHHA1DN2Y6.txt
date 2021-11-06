@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens><a href="http://www.amazon.com/gp/product/B000KELHPS/ref=cm_cr_asin_lnk/192-1367207-6683257"> Bob 's Red Mill Gluten-Free Whole Grain Bread Mix , 20-Ounce Units -LRB- Pack of 4 -RRB- </a> I love the taste and texture of this bread .</Tokens>
+		<POS>NN NNP POS NNP NNP NNP NNP NNP NNP NNP , NN NNS -LRB- NN IN CD -RRB- NN PRP VBP DT NN CC NN IN DT NN .</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b000kelhps/ref=cm_cr_asin_lnk/192-1367207-6683257"> Bob 's Red Mill Gluten-Free Whole Grain Bread Mix , 20-ounce unit -lrb- pack of 4 -rrb- </a> I love the taste and texture of this bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have even signed up for regular delivery of a case of this bread mix as it is the best gluten free bread I can bake at home or buy in the store .</Tokens>
+		<POS>PRP VBP RB VBN RP IN JJ NN IN DT NN IN DT NN NN IN PRP VBZ DT JJS NN JJ NN PRP MD VB IN NN CC VB IN DT NN .</POS>
+		<Lemma>I have even sign up for regular delivery of a case of this bread mix as it be the best gluten free bread I can bake at home or buy in the store .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It makes great toast , toasted cheese sandwiches , etc. but sandwiches are a bit crumbly .</Tokens>
+		<POS>PRP VBZ JJ NN , VBN NN NNS , FW CC NNS VBP DT NN JJ .</POS>
+		<Lemma>it make great toast , toast cheese sandwich , etc. but sandwich be a bit crumbly .</Lemma>
+	</Sentence>
+</Document>

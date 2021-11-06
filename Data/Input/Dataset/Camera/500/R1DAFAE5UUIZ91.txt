@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Canan SX40 -LRB- that I owned -RRB- has major AF motor noise -LRB- hissing sound -RRB- when zooming in or out - a deal breaker .</Tokens>
+		<POS>DT NNP NN -LRB- IN PRP VBD -RRB- VBZ JJ NN NN NN -LRB- VBG NN -RRB- WRB VBG IN CC IN : DT NN NN .</POS>
+		<Lemma>the Canan sx40 -lrb- that I own -rrb- have major af motor noise -lrb- hiss sound -rrb- when zoom in or out - a deal breaker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After ~ 10 years using more than -RRB- 10 various point-and-shoot cameras only from Canon , this time I am switching to Panasonic FZ150 which has much better auto-focus -LRB- speed and accuracy -RRB- , and better picture quality -LRB- dark noise , maintain edges , depth , and dark level -RRB- ...</Tokens>
+		<POS>IN NN CD NNS VBG JJR IN -RRB- CD JJ NN NNS RB IN NNP , DT NN PRP VBP VBG TO NNP NN WDT VBZ RB JJR NN -LRB- NN CC NN -RRB- , CC JJR NN NN -LRB- JJ NN , VBP NNS , NN , CC JJ NN -RRB- :</POS>
+		<Lemma>after ~ 10 year use more than -rrb- 10 various point-and-shoot camera only from Canon , this time I be switch to Panasonic fz150 which have much better auto-focus -lrb- speed and accuracy -rrb- , and better picture quality -lrb- dark noise , maintain edge , depth , and dark level -rrb- ...</Lemma>
+	</Sentence>
+</Document>

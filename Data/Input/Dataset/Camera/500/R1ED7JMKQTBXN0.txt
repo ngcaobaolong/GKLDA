@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just got my X100 and I 'm thrilled at the purchase .</Tokens>
+		<POS>RB VBD PRP$ NN CC PRP VBP VBN IN DT NN .</POS>
+		<Lemma>just get my x100 and I be thrill at the purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Some of the reviews have mentioned that the performance of the camera is slow , but I do n't really find that to be the case at all .</Tokens>
+		<POS>DT IN DT NNS VBP VBN IN DT NN IN DT NN VBZ JJ , CC PRP VBP RB RB VB IN TO VB DT NN IN DT .</POS>
+		<Lemma>some of the review have mention that the performance of the camera be slow , but I do not really find that to be the case at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's very quick scrolling through and selecting menu items -LRB- the menu 's could be better organized -RRB- .</Tokens>
+		<POS>PRP VBZ RB JJ VBG IN CC VBG NN NNS -LRB- DT NN POS MD VB JJR VBN -RRB- .</POS>
+		<Lemma>it be very quick scroll through and select menu item -lrb- the menu 's could be better organize -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Like all contrast detection focusing system there are some instances in lower light where it hunts for the proper focus , but it 's no worse than any other contrast detection focusing camera that I 've experienced .</Tokens>
+		<POS>IN DT NN NN VBG NN EX VBP DT NNS IN JJR NN WRB PRP VBZ IN DT JJ NN , CC PRP VBZ DT JJR IN DT JJ NN NN VBG NN IN PRP VBP VBN .</POS>
+		<Lemma>like all contrast detection focus system there be some instance in lower light where it hunt for the proper focus , but it be no worse than any other contrast detection focus camera that I have experience .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It can take about 4 seconds to save a raw file , but jpeg images are so good you 'll rarely want to shoot in raw format .</Tokens>
+		<POS>PRP MD VB RB CD NNS TO VB DT JJ NN , CC NN NNS VBP RB JJ PRP MD RB VB TO VB IN JJ NN .</POS>
+		<Lemma>it can take about 4 seconds to save a raw file , but jpeg image be so good you 'll rarely want to shoot in raw format .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The hybrid view finder is fantastic with information overlayed on the optical viewfinder when in optical mode , while switching to electronic viewfinder mode allows you to preview depth of field and see the effects of film modes , WB , etc. .</Tokens>
+		<POS>DT NN NN NN VBZ JJ IN NN VBN IN DT JJ NN WRB IN JJ NN , IN VBG TO JJ NN NN VBZ PRP TO NN NN IN NN CC VB DT NNS IN NN NNS , NNP , FW .</POS>
+		<Lemma>the hybrid view finder be fantastic with information overlay on the optical viewfinder when in optical mode , while switch to electronic viewfinder mode allow you to preview depth of field and see the effect of film mode , WB , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The Image quality is where the X100 really shines .</Tokens>
+		<POS>DT NN NN VBZ WRB DT NN RB VBZ .</POS>
+		<Lemma>the image quality be where the x100 really shine .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The images in both JPEG and RAW format are incredible and the low light performance is beyond belief .</Tokens>
+		<POS>DT NNS IN CC NN CC NN NN VBP JJ CC DT JJ NN NN VBZ IN NN .</POS>
+		<Lemma>the image in both jpeg and raw format be incredible and the low light performance be beyond belief .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Images exhibit very little noise through ISO 3200 are and more than usable at ISO 6400 and even ISO 12800 .</Tokens>
+		<POS>NNS VBP RB JJ NN IN NN CD VBP CC JJR IN JJ IN NN CD CC RB NN CD .</POS>
+		<Lemma>image exhibit very little noise through iso 3200 be and more than usable at iso 6400 and even iso 12800 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The auto white balance works very well and the camera renders very accurate colors .</Tokens>
+		<POS>DT NN JJ NN VBZ RB RB CC DT NN VBZ RB JJ NNS .</POS>
+		<Lemma>the auto white balance work very well and the camera render very accurate color .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The film simulation modes do a very good job at simulating fuji provia , astia , and velvia films as far as their color rendition .</Tokens>
+		<POS>DT NN NN NNS VBP DT RB JJ NN IN VBG NNS NN , NN , CC NN NNS IN RB IN PRP$ NN NN .</POS>
+		<Lemma>the film simulation mode do a very good job at simulate fujus provium , astium , and velvium film as far as they color rendition .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The cost is also mentioned as a detriment in many reviews , and , while the camera is expensive , I think it 's worth the cost given it 's image quality and low light performance .</Tokens>
+		<POS>DT NN VBZ RB VBN IN DT NN IN JJ NNS , CC , IN DT NN VBZ JJ , PRP VBP PRP VBZ JJ DT NN VBN PRP VBZ NN NN CC JJ JJ NN .</POS>
+		<Lemma>the cost be also mention as a detriment in many review , and , while the camera be expensive , I think it be worth the cost give it be image quality and low light performance .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Other Interchangeable lens cameras such as the Panasonic GF2 and Olympus E-PL2 start to approach the price of the X100 when you add in things like a fast pancake lens and electronic viewfinder .</Tokens>
+		<POS>JJ JJ NN NNS JJ IN DT NNP NN CC NNP NN NN TO VB DT NN IN DT NN WRB PRP VBP IN NNS IN DT JJ NN NN CC JJ NN .</POS>
+		<Lemma>other interchangeable lens camera such as the Panasonic gf2 and Olympus e-pl2 start to approach the price of the x100 when you add in thing like a fast pancake lens and electronic viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>For example the E-PL2 , which I think is probably the closest competitor in terms of image quality outside of a full DSLR , with a 17mm 2.8 lens and electronic viewfinder will run you about $ 1050 .</Tokens>
+		<POS>IN NN DT NN , WDT PRP VBP VBZ RB DT JJS NN IN NNS IN NN NN IN IN DT JJ NN , IN DT JJ CD NN CC JJ NN MD VB PRP IN $ CD .</POS>
+		<Lemma>for example the e-pl2 , which I think be probably the closest competitor in term of image quality outside of a full dslr , with a 17mm 2.8 lens and electronic viewfinder will run you about $ 1050 .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>A pansonic GF2 will be cheaper at about $ 850 with 14mm 2.5 lens and electronic viewfinder , but the image quality and low light performance is no where near that of the fuji x100 .</Tokens>
+		<POS>DT JJ NN MD VB JJR IN RB $ CD IN CD CD NN CC JJ NN , CC DT NN NN CC JJ JJ NN VBZ DT WRB IN DT IN DT NN NN .</POS>
+		<Lemma>a pansonic gf2 will be cheaper at about $ 850 with 14mm 2.5 lens and electronic viewfinder , but the image quality and low light performance be no where near that of the fujus x100 .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Yes you 'll get the flexibility of being able to change lenses with these other cameras , but they do n't measure up to the X100 in image quality .</Tokens>
+		<POS>UH PRP MD VB DT NN IN VBG JJ TO VB NNS IN DT JJ NNS , CC PRP VBP RB VB RP TO DT NN IN NN NN .</POS>
+		<Lemma>yes you 'll get the flexibility of be able to change lens with these other camera , but they do not measure up to the x100 in image quality .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The X100 is not for everyone ; it 's certainly not for beginners .</Tokens>
+		<POS>DT NN VBZ RB IN NN : PRP VBZ RB RB IN NNS .</POS>
+		<Lemma>the x100 be not for everyone ; it be certainly not for beginner .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>it 's probably more likely going to be a second camera in the arsenal of an advanced amateur or pro that already owns a DSLR system .</Tokens>
+		<POS>PRP VBZ RB RBR JJ VBG TO VB DT JJ NN IN DT NN IN DT JJ JJ CC JJ IN RB VBZ DT NN NN .</POS>
+		<Lemma>it be probably more likely go to be a second camera in the arsenal of a advanced amateur or pro that already own a dslr system .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>But all-in-all it lives up to the hype , produces fantastic images , and is worth the high price in my estimation .</Tokens>
+		<POS>CC RB PRP VBZ RP TO DT NN , VBZ JJ NNS , CC VBZ JJ DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>but all-in-all it live up to the hype , produce fantastic image , and be worth the high price in my estimation .</Lemma>
+	</Sentence>
+</Document>

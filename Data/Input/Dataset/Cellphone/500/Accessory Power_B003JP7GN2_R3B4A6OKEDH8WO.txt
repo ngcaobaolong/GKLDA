@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really like this charger and the people I 've shown it to want one .</Tokens>
+		<POS>PRP RB IN DT NN CC DT NNS PRP VBP VBN PRP TO VB CD .</POS>
+		<Lemma>I really like this charger and the people I have show it to want one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did n't get to use it until this past week and it works great .</Tokens>
+		<POS>PRP VBD RB VB TO VB PRP IN DT JJ NN CC PRP VBZ JJ .</POS>
+		<Lemma>I do not get to use it until this past week and it work great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have an Android tablet and used the T4M car charger on a long road trip for work .</Tokens>
+		<POS>PRP VBP DT JJ NN CC VBD DT NN NN NN IN DT JJ NN NN IN NN .</POS>
+		<Lemma>I have a android tablet and use the t4m car charger on a long road trip for work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It seems to charge a lot faster than the charger it came with .</Tokens>
+		<POS>PRP VBZ TO VB DT NN JJR IN DT NN PRP VBD IN .</POS>
+		<Lemma>it seem to charge a lot faster than the charger it come with .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have an LG cell phone , it chargers that .</Tokens>
+		<POS>PRP VBP DT NN NN NN , PRP VBZ IN .</POS>
+		<Lemma>I have a lg cell phone , it charger that .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I recently bought one of those electronic cigarettes which are only charged by using a USB port .</Tokens>
+		<POS>PRP RB VBD CD IN DT JJ NNS WDT VBP RB VBN IN VBG DT JJ NN .</POS>
+		<Lemma>I recently buy one of those electronic cigarette which be only charge by use a usb port .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The Trans4M charges it in half the time .</Tokens>
+		<POS>DT NN VBZ PRP IN PDT DT NN .</POS>
+		<Lemma>the trans4m charge it in half the time .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I just thought of another use , my sons playstation controllers , now I have to by another charger .</Tokens>
+		<POS>PRP RB VBD IN DT NN , PRP$ NNS NN NNS , RB PRP VBP TO IN DT NN .</POS>
+		<Lemma>I just think of another use , my son playstation controller , now I have to by another charger .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have not used the battery backups yet but it 's nice to know I have them .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NNS RB CC PRP VBZ JJ TO VB PRP VBP PRP .</POS>
+		<Lemma>I have not use the battery backup yet but it be nice to know I have they .</Lemma>
+	</Sentence>
+</Document>

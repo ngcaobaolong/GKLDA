@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This little Camera is best in its league , well reviewed , full HD , amazing pictures .</Tokens>
+		<POS>DT JJ NN VBZ RB IN PRP$ NN , RB VBN , JJ NN , JJ NNS .</POS>
+		<Lemma>this little camera be best in its league , well review , full hd , amazing picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I needed a small portable camera next to my SLR and this was my choice .</Tokens>
+		<POS>PRP VBD DT JJ JJ NN IN TO PRP$ NN CC DT VBD PRP$ NN .</POS>
+		<Lemma>I need a small portable camera next to my slr and this be my choice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Recommended to anyone who is looking for stunning picture and HD video recording with amazing quality .</Tokens>
+		<POS>VBN TO NN WP VBZ VBG IN JJ NN CC NN NN NN IN JJ NN .</POS>
+		<Lemma>recommend to anyone who be look for stunning picture and hd video recording with amazing quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Service was prompt , and arrived on time .</Tokens>
+		<POS>NNP VBD JJ , CC VBD IN NN .</POS>
+		<Lemma>Service be prompt , and arrive on time .</Lemma>
+	</Sentence>
+</Document>

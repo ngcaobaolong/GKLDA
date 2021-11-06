@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As a nurse who hits the ground running early every morning on work days , I always seemed to struggle finding a quick breakfast that would stay with me until lunch time .</Tokens>
+		<POS>IN DT NN WP VBZ DT NN VBG RB DT NN IN NN NNS , PRP RB VBD TO VB VBG DT JJ NN WDT MD VB IN PRP IN NN NN .</POS>
+		<Lemma>as a nurse who hit the ground run early every morning on work day , I always seem to struggle find a quick breakfast that would stay with I until lunch time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This does the job !</Tokens>
+		<POS>DT VBZ DT NN .</POS>
+		<Lemma>this do the job !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've been having it with almond milk .</Tokens>
+		<POS>PRP VBP VBN VBG PRP IN NN NN .</POS>
+		<Lemma>I have be have it with almond milk .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Yes , on it 's own it is rather bland but it is still a five star in my book .</Tokens>
+		<POS>UH , IN PRP VBZ JJ PRP VBZ RB JJ CC PRP VBZ RB DT CD NN IN PRP$ NN .</POS>
+		<Lemma>yes , on it be own it be rather bland but it be still a five star in my book .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is a workhorse quick breakfast and I am such a believer on the benefits of sprouted grains .</Tokens>
+		<POS>PRP VBZ DT NN JJ NN CC PRP VBP JJ DT NN IN DT NNS IN VBN NNS .</POS>
+		<Lemma>it be a workhorse quick breakfast and I be such a believer on the benefit of sprout grain .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am looking forward to trying the other varieties .</Tokens>
+		<POS>PRP VBP VBG RB TO VBG DT JJ NNS .</POS>
+		<Lemma>I be look forward to try the other variety .</Lemma>
+	</Sentence>
+</Document>

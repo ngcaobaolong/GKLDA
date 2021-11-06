@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I needed 6 of these , and Ordered them Friday night , they arrived Monday morning ... thats with standard shipping .</Tokens>
+		<POS>PRP VBD CD IN DT , CC VBD PRP NNP NN , PRP VBD NNP NN : NNS IN JJ NN .</POS>
+		<Lemma>I need 6 of these , and order they Friday night , they arrive Monday morning ... that with standard shipping .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They just work great .</Tokens>
+		<POS>PRP RB VBP JJ .</POS>
+		<Lemma>they just work great .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There is nothing to say but LOVE IT !!!</Tokens>
+		<POS>EX VBZ NN TO VB CC VB PRP NN</POS>
+		<Lemma>there be nothing to say but love it !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The product was on time and it was worth the price I paid for it</Tokens>
+		<POS>DT NN VBD IN NN CC PRP VBD JJ DT NN PRP VBD IN PRP</POS>
+		<Lemma>the product be on time and it be worth the price I pay for it</Lemma>
+	</Sentence>
+</Document>

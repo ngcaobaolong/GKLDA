@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is light and fluffy and super healthy .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ CC JJ JJ .</POS>
+		<Lemma>this popcorn be light and fluffy and super healthy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I seldom have more than 2-3 old maids per batch , and that is awesome .</Tokens>
+		<POS>PRP RB VBP RBR IN CD JJ NNS IN NN , CC DT VBZ JJ .</POS>
+		<Lemma>I seldom have more than 2-3 old maid per batch , and that be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Why genetically modify perfection ?</Tokens>
+		<POS>WRB RB VB NN .</POS>
+		<Lemma>why genetically modify perfection ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I pop this in my Stir Crazy <a href="http://www.amazon.com/gp/product/B00004RC6R/ref=cm_cr_asin_lnk/189-3306417-1722007"> West Bend 82306 Stir Crazy 6-Quart Electric Popcorn Popper </a> , using uber-healthy organic coconut oil and maybe not-as-healthy <a href="http://www.amazon.com/gp/product/B005OTXEVE/ref=cm_cr_asin_lnk/189-3306417-1722007"> Flavacol Gourmet Popcorn Flavoring -LRB- Gold Medal 35 Oz .</Tokens>
+		<POS>PRP VBP DT IN PRP$ NNP NNP NNP NNP NNP CD VB NNP NNP NNP NNP NNP NN , VBG JJ JJ NN NN CC RB JJ NN NNP NNP NNP NNP -LRB- NNP NN CD NNP .</POS>
+		<Lemma>I pop this in my Stir Crazy <a href="http://www.amazon.com/gp/product/B00004RC6R/ref=cm_cr_asin_lnk/189-3306417-1722007"> West Bend 82306 stir Crazy 6-Quart Electric Popcorn Popper </a> , use uber-healthy organic coconut oil and maybe not-as-healthy <a href="http://www.amazon.com/gp/product/b005otxeve/ref=cm_cr_asin_lnk/189-3306417-1722007"> Flavacol Gourmet Popcorn Flavoring -lrb- Gold medal 35 Oz .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Size -RRB- </a> .</Tokens>
+		<POS>NN -RRB- NN .</POS>
+		<Lemma>size -rrb- </a> .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You can NOT tell the difference from FRESH -LRB- not garbage bag pre-popped -RRB- movie theater popcorn .</Tokens>
+		<POS>PRP MD RB VB DT NN IN JJ -LRB- RB NN NN JJ -RRB- NN NN NN .</POS>
+		<Lemma>you can not tell the difference from fresh -lrb- not garbage bag pre-popped -rrb- movie theater popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It is amazing .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Coconut oil is what the theaters use , although I doubt it is the organic , expeller pressed pure stuff .</Tokens>
+		<POS>NNP NN VBZ WP DT NNS VBP , IN PRP VBP PRP VBZ DT JJ , JJ VBN JJ NN .</POS>
+		<Lemma>Coconut oil be what the theater use , although I doubt it be the organic , expeller press pure stuff .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Either way , this popcorn is fabulous !</Tokens>
+		<POS>DT NN , DT NN VBZ JJ .</POS>
+		<Lemma>either way , this popcorn be fabulous !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And one bag has lasted us a couple of months ... we eat a TON of popcorn in my house .</Tokens>
+		<POS>CC CD NN VBZ VBN PRP DT NN IN NNS : PRP VBP DT NN IN NN IN PRP$ NN .</POS>
+		<Lemma>and one bag have last we a couple of month ... we eat a ton of popcorn in my house .</Lemma>
+	</Sentence>
+</Document>

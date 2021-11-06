@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I bought this , I told several people I had and they only had kudos for me .</Tokens>
+		<POS>WRB PRP VBD DT , PRP VBD JJ NNS PRP VBD CC PRP RB VBD NNS IN PRP .</POS>
+		<Lemma>when I buy this , I tell several people I have and they only have kudos for I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a great purchase for anyone in need of a camera , and , from what I 've seen , it HAS GOT to be one of the better digital handheld cameras out there on the budget market .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NN IN NN IN DT NN , CC , IN WP PRP VBP VBN , PRP VBZ NN TO VB CD IN DT JJR JJ JJ NNS IN RB IN DT NN NN .</POS>
+		<Lemma>this be a great purchase for anyone in need of a camera , and , from what I have see , it have got to be one of the better digital handheld camera out there on the budget market .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Buy this , and you 'll be happy with nearly every single shot that comes out of it .</Tokens>
+		<POS>VB DT , CC PRP MD VB JJ IN RB DT JJ NN WDT VBZ IN IN PRP .</POS>
+		<Lemma>buy this , and you 'll be happy with nearly every single shot that come out of it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>NOTE : I bought a memory extension , so that may be why the capabilities are at 100 % and no less .</Tokens>
+		<POS>VB : PRP VBD DT NN NN , RB IN MD VB WRB DT NNS VBP IN CD NN CC RB RBR .</POS>
+		<Lemma>note : I buy a memory extension , so that may be why the capability be at 100 % and no less .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This will be one of your better camera purchases , and if you attempt to print out the photos at a facility , they appear crisper than any photos I 've ever seen coming out of a camera that costs less than $ 700 .</Tokens>
+		<POS>DT MD VB CD IN PRP$ JJR NN NNS , CC IN PRP VBP TO VB RP DT NNS IN DT NN , PRP VBP JJR IN DT NNS PRP VBP RB VBN VBG IN IN DT NN WDT VBZ JJR IN $ CD .</POS>
+		<Lemma>this will be one of you better camera purchase , and if you attempt to print out the photo at a facility , they appear crisper than any photo I have ever see come out of a camera that cost less than $ 700 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>DEFINITELY RECOMMENDED .</Tokens>
+		<POS>NNP NNP .</POS>
+		<Lemma>DEFINITELY RECOMMENDED .</Lemma>
+	</Sentence>
+</Document>

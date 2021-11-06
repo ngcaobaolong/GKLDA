@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very happy with this screen .</Tokens>
+		<POS>RB JJ IN DT NN .</POS>
+		<Lemma>very happy with this screen .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Bright clear easy to read .</Tokens>
+		<POS>JJ JJ JJ TO VB .</POS>
+		<Lemma>bright clear easy to read .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also secure in knowing if any problems do arise , Amazon will be there to back me .</Tokens>
+		<POS>RB JJ IN VBG IN DT NNS VBP VB , NNP MD VB RB TO VB PRP .</POS>
+		<Lemma>also secure in know if any problem do arise , Amazon will be there to back I .</Lemma>
+	</Sentence>
+</Document>

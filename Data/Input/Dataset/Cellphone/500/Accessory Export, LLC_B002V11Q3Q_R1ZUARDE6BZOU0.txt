@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The plugs fit perfectly snug .</Tokens>
+		<POS>DT NNS VBP RB JJ .</POS>
+		<Lemma>the plug fit perfectly snug .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It charges and syncs the phone perfectly .</Tokens>
+		<POS>PRP VBZ CC VBZ DT NN RB .</POS>
+		<Lemma>it charge and sync the phone perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's perfectly cheap .</Tokens>
+		<POS>PRP VBZ RB JJ .</POS>
+		<Lemma>it be perfectly cheap .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ca n't imagine what 's going on with the people who gave it 1 star .</Tokens>
+		<POS>PRP MD RB VB WP VBZ VBG RP IN DT NNS WP VBD PRP CD NN .</POS>
+		<Lemma>I can not imagine what be go on with the people who give it 1 star .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For $ 3.00 I do n't expect much , but I feel I got a lot .</Tokens>
+		<POS>IN $ CD PRP VBP RB VB JJ , CC PRP VBP PRP VBD DT NN .</POS>
+		<Lemma>for $ 3.00 I do not expect much , but I feel I get a lot .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's a cable for a $ 550 phone , delivered to my house for $ 3.00 .</Tokens>
+		<POS>PRP VBZ DT NN IN DT $ CD NN , VBN TO PRP$ NN IN $ CD .</POS>
+		<Lemma>it be a cable for a $ 550 phone , deliver to my house for $ 3.00 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Did I mention it works perfectly ?</Tokens>
+		<POS>VBD PRP VB PRP VBZ RB .</POS>
+		<Lemma>do I mention it work perfectly ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Well , it does .</Tokens>
+		<POS>RB , PRP VBZ .</POS>
+		<Lemma>well , it do .</Lemma>
+	</Sentence>
+</Document>

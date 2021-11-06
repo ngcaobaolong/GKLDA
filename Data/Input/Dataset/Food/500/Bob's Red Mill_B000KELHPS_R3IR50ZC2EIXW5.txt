@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love that this mix comes with everything you need , even the yeast .</Tokens>
+		<POS>PRP VBP IN DT NN VBZ IN NN PRP VBP , RB DT NN .</POS>
+		<Lemma>I love that this mix come with everything you need , even the yeast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love how easy it is to make and I do n't need 20 ingredients to make a loaf of bread .</Tokens>
+		<POS>PRP VBP WRB JJ PRP VBZ TO VB CC PRP VBP RB VB CD NNS TO VB DT NN IN NN .</POS>
+		<Lemma>I love how easy it be to make and I do not need 20 ingredient to make a loaf of bread .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I recently have gone gluten and milk free for my health and have been dying for a big plump piece of bread that does n't taste like it was made out of sawdust .</Tokens>
+		<POS>PRP RB VBP VBN NN CC NN JJ IN PRP$ NN CC VBP VBN VBG IN DT JJ JJ NN IN NN WDT VBZ RB VB IN PRP VBD VBN IN IN NN .</POS>
+		<Lemma>I recently have go gluten and milk free for my health and have be die for a big plump piece of bread that do not taste like it be make out of sawdust .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This loaf is large and tastes great .</Tokens>
+		<POS>DT NN VBZ JJ CC NNS JJ .</POS>
+		<Lemma>this loaf be large and taste great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is the closest thing I have had to regular bread in months .</Tokens>
+		<POS>PRP VBZ DT JJS NN PRP VBP VBN TO JJ NN IN NNS .</POS>
+		<Lemma>it be the closest thing I have have to regular bread in month .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I will try some of the other suggestions to make it hold together a little better for sandwiches , but it still holds together better than some of the other gluten free recipes I have tried .</Tokens>
+		<POS>PRP MD VB DT IN DT JJ NNS TO VB PRP VB RP DT JJ JJR IN NNS , CC PRP RB VBZ RB JJR IN DT IN DT JJ NN JJ NNS PRP VBP VBN .</POS>
+		<Lemma>I will try some of the other suggestion to make it hold together a little better for sandwich , but it still hold together better than some of the other gluten free recipe I have try .</Lemma>
+	</Sentence>
+</Document>

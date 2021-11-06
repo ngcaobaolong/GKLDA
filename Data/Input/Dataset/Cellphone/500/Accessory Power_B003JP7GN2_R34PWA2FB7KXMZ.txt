@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am not really happy with this charger .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT NN .</POS>
+		<Lemma>I be not really happy with this charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The AA batteries hardly charge anything and the 9V just gets hot and sustains the cell phone .</Tokens>
+		<POS>DT NN NNS RB VBP NN CC DT NN RB VBZ JJ CC VBZ DT NN NN .</POS>
+		<Lemma>the aa battery hardly charge anything and the 9v just get hot and sustain the cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The wall charger works as well as the car charger , but the reason I picked this up was for the battery charging system .</Tokens>
+		<POS>DT NN NN VBZ RB RB IN DT NN NN , CC DT NN PRP VBD DT RP VBD IN DT NN VBG NN .</POS>
+		<Lemma>the wall charger work as well as the car charger , but the reason I pick this up be for the battery charge system .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For $ 20 , it was not worth it to me .</Tokens>
+		<POS>IN $ CD , PRP VBD RB JJ PRP TO PRP .</POS>
+		<Lemma>for $ 20 , it be not worth it to I .</Lemma>
+	</Sentence>
+</Document>

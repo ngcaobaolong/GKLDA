@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just needed an extra monitor and this was great .</Tokens>
+		<POS>PRP RB VBD DT JJ NN CC DT VBD JJ .</POS>
+		<Lemma>I just need a extra monitor and this be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No dead pixels out of the box and working well .</Tokens>
+		<POS>DT JJ NNS IN IN DT NN CC VBG RB .</POS>
+		<Lemma>no dead pixel out of the box and work well .</Lemma>
+	</Sentence>
+</Document>

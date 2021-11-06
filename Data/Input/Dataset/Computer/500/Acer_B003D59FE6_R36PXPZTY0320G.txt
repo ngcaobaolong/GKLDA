@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We are running anumber of these monitors which we bought because they are reliable but inexpensive .</Tokens>
+		<POS>PRP VBP VBG NN IN DT NNS WDT PRP VBD IN PRP VBP JJ CC JJ .</POS>
+		<Lemma>we be run anumber of these monitor which we buy because they be reliable but inexpensive .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We have had no problems with any of them .</Tokens>
+		<POS>PRP VBP VBN DT NNS IN DT IN PRP .</POS>
+		<Lemma>we have have no problem with any of they .</Lemma>
+	</Sentence>
+</Document>

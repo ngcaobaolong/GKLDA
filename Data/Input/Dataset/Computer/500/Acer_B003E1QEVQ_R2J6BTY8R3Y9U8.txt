@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this monitor for several months and I 'm very happy with it .</Tokens>
+		<POS>PRP VBP VBD DT NN IN JJ NNS CC PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>I have have this monitor for several month and I be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have it next to a widescreen monitor and this display is much clearer and easier to read than the widescreen , regardless of application .</Tokens>
+		<POS>PRP VBP PRP JJ TO DT JJ NN CC DT NN VBZ JJ JJR CC JJR TO VB IN DT NN , RB IN NN .</POS>
+		<Lemma>I have it next to a widescreen monitor and this display be much clearer and easier to read than the widescreen , regardless of application .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm actually purchasing a second one .</Tokens>
+		<POS>PRP VBP RB VBG DT JJ CD .</POS>
+		<Lemma>I be actually purchase a second one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Be aware , however , that the speakers are generally useless .</Tokens>
+		<POS>VB JJ , RB , IN DT NNS VBP RB JJ .</POS>
+		<Lemma>be aware , however , that the speaker be generally useless .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Even with all volume controls maxed out , usually the sound is barely audible .</Tokens>
+		<POS>RB IN DT NN VBZ VBN RP , RB DT NN VBZ RB JJ .</POS>
+		<Lemma>even with all volume control max out , usually the sound be barely audible .</Lemma>
+	</Sentence>
+</Document>

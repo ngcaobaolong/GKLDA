@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered this monitor wondering if this was what I was looking for in a monitor when it finally arrived I was delighted .</Tokens>
+		<POS>PRP VBD DT NN VBG IN DT VBD WP PRP VBD VBG IN IN DT NN WRB PRP RB VBD PRP VBD JJ .</POS>
+		<Lemma>I order this monitor wonder if this be what I be look for in a monitor when it finally arrive I be delighted .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was just like it shows ultra thin and very bright .</Tokens>
+		<POS>PRP VBD RB IN PRP VBZ NN JJ CC RB JJ .</POS>
+		<Lemma>it be just like it show ultra thin and very bright .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I especially like the power button , you cant see it in the images of the product but its actually a bright blue led located on the bottom right corner of the screen .</Tokens>
+		<POS>PRP RB IN DT NN NN , PRP VBP VB PRP IN DT NNS IN DT NN CC PRP$ RB DT JJ JJ VBD JJ IN DT JJ JJ NN IN DT NN .</POS>
+		<Lemma>I especially like the power button , you cant see it in the image of the product but its actually a bright blue lead located on the bottom right corner of the screen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The glossy finish is very nice and I have n't noticed a bit of scratching so far .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ CC PRP VBP RB VBN DT NN IN VBG RB RB .</POS>
+		<Lemma>the glossy finish be very nice and I have not notice a bit of scratch so far .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I would definitely suggest this monitor if your getting it as an eyefinity set up , especially since it comes with vesa 100x100 mounting pattern if I 'm not mistaken which would be very good .</Tokens>
+		<POS>PRP MD RB VB DT NN IN PRP$ VBG PRP IN DT NN VBD RP , RB IN PRP VBZ IN NN CD VBG NN IN PRP VBP RB JJ WDT MD VB RB JJ .</POS>
+		<Lemma>I would definitely suggest this monitor if you get it as a eyefinity set up , especially since it come with vesa 100x100 mount pattern if I be not mistaken which would be very good .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Also the weight of the monitor is unbelievable , super light which is very good if you plan on mounting it on an arm or something of a similar type .</Tokens>
+		<POS>RB DT NN IN DT NN VBZ JJ , JJ NN WDT VBZ RB JJ IN PRP VBP IN VBG PRP IN DT NN CC NN IN DT JJ NN .</POS>
+		<Lemma>also the weight of the monitor be unbelievable , super light which be very good if you plan on mount it on a arm or something of a similar type .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And finally the amazing price normally monitors like this will cost you an arm a leg and maybe another , but for its price I would definitely suggest buying the Acer S201HL bd 20 '' monitor .</Tokens>
+		<POS>CC RB DT JJ NN RB VBZ IN DT MD VB PRP DT NN DT NN CC RB DT , CC IN PRP$ NN PRP MD RB VB VBG DT NNP NN NN CD '' NN .</POS>
+		<Lemma>and finally the amazing price normally monitor like this will cost you a arm a leg and maybe another , but for its price I would definitely suggest buy the Acer s201hl bd 20 '' monitor .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great camera !</Tokens>
+		<POS>DT VBZ DT JJ NN .</POS>
+		<Lemma>this be a great camera !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would recommend this camera to anyone who is looking for really increadable HD video .</Tokens>
+		<POS>PRP MD VB DT NN TO NN WP VBZ VBG IN RB JJ NN NN .</POS>
+		<Lemma>I would recommend this camera to anyone who be look for really increadable hd video .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This thing takes awesome video .</Tokens>
+		<POS>DT NN VBZ JJ NN .</POS>
+		<Lemma>this thing take awesome video .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great qaulity pictures , very detailed video .</Tokens>
+		<POS>JJ NN NNS , RB JJ NN .</POS>
+		<Lemma>great qaulity picture , very detailed video .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Close up video is amazing .</Tokens>
+		<POS>VB RP NN VBZ JJ .</POS>
+		<Lemma>close up video be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>From now on I will buy only Canon cameras !!</Tokens>
+		<POS>IN RB IN PRP MD VB RB NNP NNS IN</POS>
+		<Lemma>from now on I will buy only Canon camera !!</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>With the qaulity of the video you are getting with this camera you are stealing it at this price .</Tokens>
+		<POS>IN DT NN IN DT NN PRP VBP VBG IN DT NN PRP VBP VBG PRP IN DT NN .</POS>
+		<Lemma>with the qaulity of the video you be get with this camera you be steal it at this price .</Lemma>
+	</Sentence>
+</Document>

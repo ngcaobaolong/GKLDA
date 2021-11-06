@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I enjoy a cup of spoon size shredded wheat topped with Ezekial 4:9 smothered with thin natural yogurt almost every morning .</Tokens>
+		<POS>PRP VBP DT NN IN NN NN VBD NN VBN IN JJ CD VBN IN JJ JJ NN RB DT NN .</POS>
+		<Lemma>I enjoy a cup of spoon size shred wheat top with ezekial 4:9 smother with thin natural yogurt almost every morning .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It really gets my day started right .</Tokens>
+		<POS>PRP RB VBZ PRP$ NN VBD RB .</POS>
+		<Lemma>it really get my day start right .</Lemma>
+	</Sentence>
+</Document>

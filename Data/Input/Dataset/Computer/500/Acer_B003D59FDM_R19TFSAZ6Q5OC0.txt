@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I own an old emachines CRT monitor that I scored for 25 dollars as a close out item at Office Depot about 5 years back .</Tokens>
+		<POS>PRP VBP DT JJ NNS NNP NN IN PRP VBD IN CD NNS IN DT JJ IN NN IN NNP NNP IN CD NNS RB .</POS>
+		<Lemma>I own a old emachine CRT monitor that I score for 25 dollar as a close out item at Office Depot about 5 year back .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Reading the Amazon description made me think that this would be a good upgrade for less than a hundred bucks .</Tokens>
+		<POS>VBG DT NNP NN VBD PRP VB IN DT MD VB DT JJ NN IN JJR IN DT CD NNS .</POS>
+		<Lemma>read the Amazon description make I think that this would be a good upgrade for less than a hundred buck .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Wrong .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>wrong .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The display was bright and washed out , and text was blurred .</Tokens>
+		<POS>DT NN VBD JJ CC VBN RP , CC NN VBD VBN .</POS>
+		<Lemma>the display be bright and wash out , and text be blur .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Yes I know enough to fenagle all of the controls to try and get a better resolution .</Tokens>
+		<POS>UH PRP VBP RB TO VB DT IN DT NNS TO VB CC VB DT JJR NN .</POS>
+		<Lemma>yes I know enough to fenagle all of the control to try and get a better resolution .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But nothing matched my old monitor 's clarity .</Tokens>
+		<POS>CC NN VBD PRP$ JJ NN POS NN .</POS>
+		<Lemma>but nothing match my old monitor 's clarity .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And Amazon charged me 15 dollars -LRB- shipping -RRB- for the return .</Tokens>
+		<POS>CC NNP VBD PRP CD NNS -LRB- NN -RRB- IN DT NN .</POS>
+		<Lemma>and Amazon charge I 15 dollar -lrb- shipping -rrb- for the return .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Sorry Amazon , I ca n't afford 15 dollars a pop to experiment with descriptions .</Tokens>
+		<POS>JJ NNP , PRP MD RB VB CD NNS DT NN TO NN IN NNS .</POS>
+		<Lemma>sorry Amazon , I can not afford 15 dollar a pop to experiment with description .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Its back to the brick and mortar stores for some technology items .</Tokens>
+		<POS>PRP$ NN TO DT NN CC JJ NNS IN DT NN NNS .</POS>
+		<Lemma>its back to the brick and mortar store for some technology item .</Lemma>
+	</Sentence>
+</Document>

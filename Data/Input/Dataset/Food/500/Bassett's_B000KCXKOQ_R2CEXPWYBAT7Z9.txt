@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>But I love them too .</Tokens>
+		<POS>CC PRP VBP PRP RB .</POS>
+		<Lemma>but I love they too .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Actually , I think the first time I had seen these candies on Doctor who , I was hooked .</Tokens>
+		<POS>RB , PRP VBP DT JJ NN PRP VBD VBN DT NNS IN NN WP , PRP VBD JJ .</POS>
+		<Lemma>actually , I think the first time I have see these candy on doctor who , I be hooked .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Fortunately there 's a Scottish import shop in town where I can get them at $ 5 a bag .</Tokens>
+		<POS>RB EX VBZ DT JJ NN NN IN NN WRB PRP MD VB PRP IN $ CD DT NN .</POS>
+		<Lemma>fortunately there be a scottish import shop in town where I can get they at $ 5 a bag .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unfortunately though , they never have enough in and I 'm addicted to jelly babies so while they cost a bit more at Amazon , this is a nice back-up source for the wee jelly babies .</Tokens>
+		<POS>RB RB , PRP RB VBP RB IN CC PRP VBP VBN TO VB NNS RB IN PRP VBP DT NN RBR IN NNP , DT VBZ DT JJ JJ NN IN DT NN NN NNS .</POS>
+		<Lemma>unfortunately though , they never have enough in and I be addict to jelly baby so while they cost a bit more at Amazon , this be a nice back-up source for the wee jelly baby .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Four stars for the jelly babies , but only three stars for the price hich could be just a little bit lower , a little bit better .</Tokens>
+		<POS>CD NNS IN DT NN NNS , CC RB CD NNS IN DT NN NN MD VB RB DT JJ NN JJR , DT JJ NN RBR .</POS>
+		<Lemma>four star for the jelly baby , but only three star for the price hich could be just a little bit lower , a little bit better .</Lemma>
+	</Sentence>
+</Document>

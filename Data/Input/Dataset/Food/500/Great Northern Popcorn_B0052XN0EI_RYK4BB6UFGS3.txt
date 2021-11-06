@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the best popcorn ; everyone in our family loves it .</Tokens>
+		<POS>DT VBZ DT JJS NN : NN IN PRP$ NN VBZ PRP .</POS>
+		<Lemma>this be the best popcorn ; everyone in we family love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I just ordered the 50 pound bag because my kids do not want to be without it .</Tokens>
+		<POS>PRP RB VBD DT CD NN NN IN PRP$ NNS VBP RB VB TO VB IN PRP .</POS>
+		<Lemma>I just order the 50 pound bag because my kid do not want to be without it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The kernels are big , fluffy and delicious !</Tokens>
+		<POS>DT NNS VBP JJ , JJ CC JJ .</POS>
+		<Lemma>the kernel be big , fluffy and delicious !</Lemma>
+	</Sentence>
+</Document>

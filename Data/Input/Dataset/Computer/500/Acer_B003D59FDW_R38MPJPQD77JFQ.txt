@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really like this monitor .</Tokens>
+		<POS>PRP RB IN DT NN .</POS>
+		<Lemma>I really like this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only reason i did n't give it 5 stars is I wish it were a bit higher or could be adjusted .</Tokens>
+		<POS>DT JJ NN FW VBD RB VB PRP CD NNS VBZ PRP VBP PRP VBD DT NN JJR CC MD VB VBN .</POS>
+		<Lemma>the only reason i do not give it 5 star be I wish it be a bit higher or could be adjust .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had to stand it up on a book to make it so I did n't have to look down .</Tokens>
+		<POS>PRP VBD TO VB PRP RP IN DT NN TO VB PRP IN PRP VBD RB VB TO VB RP .</POS>
+		<Lemma>I have to stand it up on a book to make it so I do not have to look down .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Once I did that all was good .</Tokens>
+		<POS>RB PRP VBD IN DT VBD JJ .</POS>
+		<Lemma>once I do that all be good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great buy !</Tokens>
+		<POS>NNP VB .</POS>
+		<Lemma>Great buy !</Lemma>
+	</Sentence>
+</Document>

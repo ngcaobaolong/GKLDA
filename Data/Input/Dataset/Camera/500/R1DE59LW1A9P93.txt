@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We have already purchased an anybook reader and the girls love it .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NN CC DT NNS VBP PRP .</POS>
+		<Lemma>we have already purchase a anybook reader and the girl love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We are purchasing a second one so each girl can listen to different stories .</Tokens>
+		<POS>PRP VBP VBG DT JJ CD IN DT NN MD VB TO JJ NNS .</POS>
+		<Lemma>we be purchase a second one so each girl can listen to different story .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We are thousands of miles away and they love hearing our voices .</Tokens>
+		<POS>PRP VBP NNS IN NNS RB CC PRP VBP VBG PRP$ NNS .</POS>
+		<Lemma>we be thousand of mile away and they love hear we voice .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It comes with additional stickers with sound and pictures as well .</Tokens>
+		<POS>PRP VBZ IN JJ NNS IN NN CC NNS RB RB .</POS>
+		<Lemma>it come with additional sticker with sound and picture as well .</Lemma>
+	</Sentence>
+</Document>

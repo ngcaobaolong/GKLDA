@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Had a dinosaur monitor that was replaced with this one .</Tokens>
+		<POS>VBD DT NN NN WDT VBD VBN IN DT CD .</POS>
+		<Lemma>have a dinosaur monitor that be replace with this one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Love it !</Tokens>
+		<POS>NN PRP .</POS>
+		<Lemma>love it !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Picture quality - good , built in speakers - more than adequate .</Tokens>
+		<POS>NNP NN : JJ , VBN IN NNS : JJR IN JJ .</POS>
+		<Lemma>Picture quality - good , build in speaker - more than adequate .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For the price this is a winner .</Tokens>
+		<POS>IN DT NN DT VBZ DT NN .</POS>
+		<Lemma>for the price this be a winner .</Lemma>
+	</Sentence>
+</Document>

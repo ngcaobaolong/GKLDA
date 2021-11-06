@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was thrilled with the way this bread looked - tall with a nice crust and soft bread-like texture !</Tokens>
+		<POS>PRP VBD VBN IN DT NN DT NN VBD : JJ IN DT JJ NN CC JJ JJ NN .</POS>
+		<Lemma>I be thrill with the way this bread look - tall with a nice crust and soft bread-like texture !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , I missed that there was Caraway and Onion powder in it so was slightly disappointed that it could n't really be used for things like PBJ or French Toast .</Tokens>
+		<POS>RB , PRP VBD IN EX VBD NNP CC NNP NN IN PRP RB VBD RB JJ IN PRP MD RB RB VB VBN IN NNS IN NN CC JJ NN .</POS>
+		<Lemma>however , I miss that there be Caraway and Onion powder in it so be slightly disappointed that it could not really be use for thing like pbj or french toast .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wish Bob 's would make a whole-grain bread mix without the savory flavors .</Tokens>
+		<POS>PRP VBP NNP POS MD VB DT JJ NN NN IN DT JJ NNS .</POS>
+		<Lemma>I wish Bob 's would make a whole-grain bread mix without the savory flavor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It did make a great Reuben sandwich though !</Tokens>
+		<POS>PRP VBD VB DT JJ NNP NN IN .</POS>
+		<Lemma>it do make a great Reuben sandwich though !</Lemma>
+	</Sentence>
+</Document>

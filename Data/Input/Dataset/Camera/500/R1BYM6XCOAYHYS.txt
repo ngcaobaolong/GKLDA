@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought my E-5 in June 2011 , and have had time to become familiar with its major strengths and weaknesses .</Tokens>
+		<POS>PRP VBD PRP$ NN IN NNP CD , CC VBP VBN NN TO VB JJ IN PRP$ JJ NNS CC NNS .</POS>
+		<Lemma>I buy my e-5 in June 2011 , and have have time to become familiar with its major strength and weakness .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I still own an E-3 , which I bought when it first came out , but have not used it since I acquired the newer camera .</Tokens>
+		<POS>PRP RB VBP DT NN , WDT PRP VBD WRB PRP RB VBD RP , CC VBP RB VBN PRP IN PRP VBD DT JJR NN .</POS>
+		<Lemma>I still own a e-3 , which I buy when it first come out , but have not use it since I acquire the newer camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The E-5 produces noticeably sharper , more detailed images than the E-3 - this has been noted by many reviewers and users , and I agree .</Tokens>
+		<POS>DT NN VBZ RB JJR , RBR JJ NNS IN DT NN : DT VBZ VBN VBN IN JJ NNS CC NNS , CC PRP VBP .</POS>
+		<Lemma>the e-5 produce noticeably sharper , more detailed image than the e-3 - this have be note by many reviewer and user , and I agree .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , the E-5 's sensor is unacceptably noisy .</Tokens>
+		<POS>RB , DT NN POS NN VBZ RB JJ .</POS>
+		<Lemma>however , the e-5 's sensor be unacceptably noisy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>At ISO 100 , noise is not discernible , but luminance noise first appears at ISO 160 and becomes increasingly more noticeable thereafter .</Tokens>
+		<POS>IN NN CD , NN VBZ RB JJ , CC NN NN RB VBZ IN NN CD CC VBZ RB RBR JJ RB .</POS>
+		<Lemma>at iso 100 , noise be not discernible , but luminance noise first appear at iso 160 and become increasingly more noticeable thereafter .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In RAW , the noise at low ISOs is actually rather slight , but when RAW images are converted to JPEGs it is conspicuous , and ugly .</Tokens>
+		<POS>IN NN , DT NN IN JJ NNS VBZ RB RB JJ , CC WRB NN NNS VBP VBN TO VB PRP VBZ JJ , CC JJ .</POS>
+		<Lemma>in raw , the noise at low iso be actually rather slight , but when raw image be convert to jpeg it be conspicuous , and ugly .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It can be minimized to acceptable levels by reducing luminance noise in RAW and then , in Adobe Elements -LRB- I 'm using Version 9 -RRB- , despeckling before doing any final sharpening .</Tokens>
+		<POS>PRP MD VB VBN TO JJ NNS IN VBG NN NN IN NN CC RB , IN NNP NNS -LRB- PRP VBP VBG NNP CD -RRB- , VBG IN VBG DT JJ VBG .</POS>
+		<Lemma>it can be minimize to acceptable level by reduce luminance noise in raw and then , in Adobe element -lrb- I be use Version 9 -rrb- , despeckle before do any final sharpen .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Without despeckling , noise will still be present .</Tokens>
+		<POS>IN VBG , NN MD RB VB JJ .</POS>
+		<Lemma>without despeckle , noise will still be present .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>While this method will control noise successfully up to about ISO 1600 , it adds time to the editing process , and I find it tedious and annoying .</Tokens>
+		<POS>IN DT NN MD VB NN RB RB TO IN NN CD , PRP VBZ NN TO DT NN NN , CC PRP VBP PRP JJ CC JJ .</POS>
+		<Lemma>while this method will control noise successfully up to about iso 1600 , it add time to the editing process , and I find it tedious and annoying .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I believe the E-5 's luminance noise below ISO 300 or so is worse than the E-3 's , and completely unacceptable for a camera costing $ 1600 or so .</Tokens>
+		<POS>PRP VBP DT NN POS NN NN IN NN CD CC RB VBZ JJR IN DT NN POS , CC RB JJ IN DT NN VBG $ CD CC RB .</POS>
+		<Lemma>I believe the e-5 's luminance noise below iso 300 or so be worse than the e-3 's , and completely unacceptable for a camera cost $ 1600 or so .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 've seen photos taken at ISO 800 from recent Canon Rebels which are completely noise-free with no NR editing needed , and these cameras cost half of what the Olympus costs .</Tokens>
+		<POS>PRP VBP VBN NNS VBN IN NN CD IN JJ NNP NNPS WDT VBP RB JJ IN DT NN NN VBN , CC DT NNS VBD NN IN WP DT NNP NNS .</POS>
+		<Lemma>I have see photo take at iso 800 from recent Canon Rebels which be completely noise-free with no nr editing need , and these camera cost half of what the Olympus cost .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Furthermore , the need to apply noise reduction compromises the sharpness and detail of the RAW images , albeit just slightly if NR is applied carefully .</Tokens>
+		<POS>RB , DT NN TO VB NN NN VBZ DT NN CC NN IN DT NN NNS , IN RB RB IN NN VBZ VBN RB .</POS>
+		<Lemma>furthermore , the need to apply noise reduction compromise the sharpness and detail of the raw image , albeit just slightly if nr be apply carefully .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Still , the degree of luminance noise in JPEG conversion at ISO 200 - which , by the way , is -LRB- according to dpreview.com -RRB- the E-5 's `` true '' lowest ISO setting -LRB- ISOs lower than this are extensions , and if used will supposedly result in reduced dynamic range - frankly , I 'm not wholly convinced that this is noticeable -RRB- is simply unacceptable to me .</Tokens>
+		<POS>RB , DT NN IN NN NN IN NNP NN IN NN CD : WDT , IN DT NN , VBZ -LRB- VBG TO NNP -RRB- DT NN POS `` JJ '' JJS NN NN -LRB- NNS JJR IN DT VBP NNS , CC IN VBN MD RB VB IN VBN JJ NN : RB , PRP VBP RB RB JJ IN DT VBZ JJ -RRB- VBZ RB JJ TO PRP .</POS>
+		<Lemma>still , the degree of luminance noise in JPEG conversion at iso 200 - which , by the way , be -lrb- accord to dpreview.com -rrb- the e-5 's `` true '' lowest iso setting -lrb- iso lower than this be extension , and if use will supposedly result in reduce dynamic range - frankly , I be not wholly convinced that this be noticeable -rrb- be simply unacceptable to I .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I originally chose to purchase an Olympus -LRB- an E-300 -RRB- some years ago over DSLRs offered by the competition because only Olympus DSLRs had self-cleaning sensors at that time , and the prospect of manual sensor cleaning was distasteful to me .</Tokens>
+		<POS>PRP RB VBD TO VB DT NNP -LRB- DT NN -RRB- DT NNS RB IN NNS VBN IN DT NN IN RB NNP NNP VBD JJ NNS IN DT NN , CC DT NN IN JJ NN NN VBD JJ TO PRP .</POS>
+		<Lemma>I originally choose to purchase a Olympus -lrb- a e-300 -rrb- some year ago over dslr offer by the competition because only Olympus DSLRs have self-cleaning sensor at that time , and the prospect of manual sensor cleaning be distasteful to I .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The purchase of the E-300 inevitably led to the purchase of Zuiko and other lenses that would work with the four thirds system , and when the E-3 came out - and , later , the E-5 - I was too heavily invested in Olympus\/Zuiko lenses to consider buying Nikon , Canon , or other camera -LRB- Pentax , by the way , makes fine cameras as well -RRB- .</Tokens>
+		<POS>DT NN IN DT NN RB VBD TO DT NN IN NNP CC JJ NNS WDT MD VB IN DT CD NNS NN , CC WRB DT NN VBD RP : CC , RB , DT NN : PRP VBD RB RB VBN IN JJ NNS TO VB VBG NNP , NNP , CC JJ NN -LRB- NNP , IN DT NN , VBZ JJ NNS RB RB -RRB- .</POS>
+		<Lemma>the purchase of the e-300 inevitably lead to the purchase of Zuiko and other lens that would work with the four third system , and when the e-3 come out - and , later , the e-5 - I be too heavily invest in olympus\/zuiko lens to consider buy Nikon , Canon , or other camera -lrb- Pentax , by the way , make fine camera as well -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The E-5 is only for those who are , like me , too heavily invested in four thirds lenses to buy anything from manufacturers other than Olympus .</Tokens>
+		<POS>DT NN VBZ RB IN DT WP VBP , IN PRP , RB RB VBN IN CD NNS NNS TO VB NN IN NNS JJ IN NNP .</POS>
+		<Lemma>the e-5 be only for those who be , like I , too heavily invest in four third lens to buy anything from manufacturer other than Olympus .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Everyone else in the market for a new DSLR should look elsewhere .</Tokens>
+		<POS>NN RB IN DT NN IN DT JJ NN MD VB RB .</POS>
+		<Lemma>everyone else in the market for a new dslr should look elsewhere .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very happy with this unit .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be very happy with this unit .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does everything I expected it to do .</Tokens>
+		<POS>PRP VBZ NN PRP VBD PRP TO VB .</POS>
+		<Lemma>it do everything I expect it to do .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am using it with a Motorola Droid .</Tokens>
+		<POS>PRP VBP VBG PRP IN DT NNP NNP .</POS>
+		<Lemma>I be use it with a Motorola Droid .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The features I love are : o Bluetooth audio o Auto-find an open\/good frequency o Call quality is better than I expected What I wish were better are : o Better sound quality when charging my phone -LRB- alternator\/revving noise - 1999 Toyota Camry -RRB- Note : This may not be the unit 's fault , it may very well be related to my car 's electrical system .</Tokens>
+		<POS>DT NNS PRP VBP VBP : NN NN NN NN NN DT JJ NN NN VB NN VBZ JJR IN PRP VBD WP PRP VBP VBD JJR VBP : NN RBR JJ NN WRB VBG PRP$ NN -LRB- VBG NN : CD NNP NNP -RRB- NN : DT MD RB VB DT NN POS NN , PRP MD RB RB VB VBN TO PRP$ NN POS JJ NN .</POS>
+		<Lemma>the feature I love be : o bluetooth audio o auto-find a open\/good frequency o call quality be better than I expect what I wish be better be : o better sound quality when charge my phone -lrb- alternator\/revving noise - 1999 Toyota Camry -rrb- note : this may not be the unit 's fault , it may very well be relate to my car 's electrical system .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I had better performance -LRB- but still some noise -RRB- in a rented Hyundai .</Tokens>
+		<POS>PRP VBD JJR NN -LRB- CC RB DT NN -RRB- IN DT VBN NNP .</POS>
+		<Lemma>I have better performance -lrb- but still some noise -rrb- in a rent Hyundai .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Also , I noticed that when I place my phone on my lap , the whining sound is significantly reduced ... is this a grounding issue ?</Tokens>
+		<POS>RB , PRP VBD IN WRB PRP VBP PRP$ NN IN PRP$ NN , DT VBG NN VBZ RB VBN : VBZ DT DT VBG NN .</POS>
+		<Lemma>also , I notice that when I place my phone on my lap , the whine sound be significantly reduce ... be this a ground issue ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>o Remembering the volume setting .</Tokens>
+		<POS>NN VBG DT NN NN .</POS>
+		<Lemma>o remember the volume setting .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The volume can be attenuated from 0-30 , default is 20 and it goes back to 20 every time it is powered on .</Tokens>
+		<POS>DT NN MD VB VBN IN CD , NN VBZ CD CC PRP VBZ RB TO CD DT NN PRP VBZ VBN IN .</POS>
+		<Lemma>the volume can be attenuate from 0-30 , default be 20 and it go back to 20 every time it be power on .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>All in all , I would recommend this to anyone .</Tokens>
+		<POS>DT IN DT , PRP MD VB DT TO NN .</POS>
+		<Lemma>all in all , I would recommend this to anyone .</Lemma>
+	</Sentence>
+</Document>

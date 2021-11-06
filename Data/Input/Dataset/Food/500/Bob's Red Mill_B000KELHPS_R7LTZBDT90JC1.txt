@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been gluten free for years .</Tokens>
+		<POS>PRP VBP VBN VBN JJ IN NNS .</POS>
+		<Lemma>I have be gluten free for year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>All the GF breads available are starchy and gooey but not this .</Tokens>
+		<POS>PDT DT NN NNS JJ VBP JJ CC JJ CC RB DT .</POS>
+		<Lemma>all the gf bread available be starchy and gooey but not this .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has a wonderful texture and savory flavor , but you can still put butter and honey on it for sweet treat .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC JJ NN , CC PRP MD RB VB NN CC NN IN PRP IN JJ NN .</POS>
+		<Lemma>it have a wonderful texture and savory flavor , but you can still put butter and honey on it for sweet treat .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have turned many of my friends on to it that are not on a GF diet but simply love the taste .</Tokens>
+		<POS>PRP VBP VBN JJ IN PRP$ NNS IN TO PRP WDT VBP RB IN DT NN NN CC RB VB DT NN .</POS>
+		<Lemma>I have turn many of my friend on to it that be not on a gf diet but simply love the taste .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However just like some of the other reviews state , if you do n't like caraway you may not like this .</Tokens>
+		<POS>RB RB IN DT IN DT JJ NNS NN , IN PRP VBP RB VB NN PRP MD RB VB DT .</POS>
+		<Lemma>however just like some of the other review state , if you do not like caraway you may not like this .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Funny though , I never liked caraway but I love this bread .</Tokens>
+		<POS>JJ IN , PRP RB VBD NN CC PRP VBP DT NN .</POS>
+		<Lemma>funny though , I never like caraway but I love this bread .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This is the best price I have seen and I use the automatic delivery option to save even more money !</Tokens>
+		<POS>DT VBZ DT JJS NN PRP VBP VBN CC PRP VBP DT JJ NN NN TO VB RB JJR NN .</POS>
+		<Lemma>this be the best price I have see and I use the automatic delivery option to save even more money !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I usually buy popcorn in bulk from our grocery store .</Tokens>
+		<POS>PRP RB VBP NN IN NN IN PRP$ NN NN .</POS>
+		<Lemma>I usually buy popcorn in bulk from we grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It pops better than the grocery stores variety .</Tokens>
+		<POS>PRP VBZ JJR IN DT NN NNS NN .</POS>
+		<Lemma>it pop better than the grocery store variety .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I ca n't tell if tastes better than the grocery store variety , but it pops larger than that variety .</Tokens>
+		<POS>PRP MD RB VB IN NNS JJR IN DT NN NN NN , CC PRP VBZ JJR IN DT NN .</POS>
+		<Lemma>I can not tell if taste better than the grocery store variety , but it pop larger than that variety .</Lemma>
+	</Sentence>
+</Document>

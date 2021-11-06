@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I LOVE this mix !!</Tokens>
+		<POS>PRP VBP DT NN NN</POS>
+		<Lemma>I love this mix !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use a bread machine that has a gluten free setting , but I pull the dough out right before the baking mode , and with GF floured hands , gently shape the dough into three loaves .</Tokens>
+		<POS>PRP VBP DT NN NN WDT VBZ DT NN JJ NN , CC PRP VBP DT NN RB RB IN DT VBG NN , CC IN NN JJ NNS , RB VB DT NN IN CD NNS .</POS>
+		<Lemma>I use a bread machine that have a gluten free setting , but I pull the dough out right before the bake mode , and with gf floured hand , gently shape the dough into three loaf .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I dust the top of them and make two scores on top of each and bake in a 350 oven for about 30 minutes .</Tokens>
+		<POS>PRP NN DT NN IN PRP CC VB CD NNS IN NN IN DT CC VB IN DT CD NN IN IN CD NNS .</POS>
+		<Lemma>I dust the top of they and make two score on top of each and bake in a 350 oven for about 30 minute .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They look and taste just like the artisan bread loaves I made before I became gluten intolerant .</Tokens>
+		<POS>PRP VBP CC VBP RB IN DT NN NN VBZ PRP VBD IN PRP VBD NN JJ .</POS>
+		<Lemma>they look and taste just like the artisan bread loave I make before I become gluten intolerant .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They are fantastic !!!</Tokens>
+		<POS>PRP VBP JJ IN</POS>
+		<Lemma>they be fantastic !!!</Lemma>
+	</Sentence>
+</Document>

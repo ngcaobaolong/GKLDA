@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There is no optical zoom for this camera , but it 's good enough for this low price and waterproof .</Tokens>
+		<POS>EX VBZ DT JJ NN IN DT NN , CC PRP VBZ JJ RB IN DT JJ NN CC JJ .</POS>
+		<Lemma>there be no optical zoom for this camera , but it be good enough for this low price and waterproof .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I took it to Myrtle Beach for my vacation and it performed with no problems .</Tokens>
+		<POS>PRP VBD PRP TO NNP NNP IN PRP$ NN CC PRP VBD IN DT NNS .</POS>
+		<Lemma>I take it to Myrtle Beach for my vacation and it perform with no problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The pictures taken under water from pool and beach are good .</Tokens>
+		<POS>DT NNS VBN IN NN IN NN CC NN VBP JJ .</POS>
+		<Lemma>the picture take under water from pool and beach be good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is a good investment for memories to your families under water with this low price camera .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN NNS TO PRP$ NNS IN NN IN DT JJ NN NN .</POS>
+		<Lemma>it be a good investment for memory to you family under water with this low price camera .</Lemma>
+	</Sentence>
+</Document>

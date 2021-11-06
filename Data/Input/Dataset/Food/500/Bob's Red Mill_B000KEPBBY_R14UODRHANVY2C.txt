@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am so glad I purchased this soup mix .</Tokens>
+		<POS>PRP VBP RB JJ PRP VBD DT NN NN .</POS>
+		<Lemma>I be so glad I purchase this soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>In these economical days , you need all the assistance you can find .</Tokens>
+		<POS>IN DT JJ NNS , PRP VBP PDT DT NN PRP MD VB .</POS>
+		<Lemma>in these economical day , you need all the assistance you can find .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This soup mix is really great in making soups and casserols .</Tokens>
+		<POS>DT NN NN VBZ RB JJ IN VBG NNS CC NNS .</POS>
+		<Lemma>this soup mix be really great in make soup and casserol .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I just make a simple stock , pour this mix into the stock , let it simmer per package instructions , add whatever vegtables I want , simmer until they are tender , then add some precooked meat and serve .</Tokens>
+		<POS>PRP RB VBP DT JJ NN , VBP DT NN IN DT NN , VB PRP VB IN NN NNS , VBP WDT NNS PRP VBP , VBP IN PRP VBP NN , RB VB DT JJ NN CC VB .</POS>
+		<Lemma>I just make a simple stock , pour this mix into the stock , let it simmer per package instruction , add whatever vegtable I want , simmer until they be tender , then add some precooked meat and serve .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I can really stretch my food budget using these mixes .</Tokens>
+		<POS>PRP MD RB VB PRP$ NN NN VBG DT VBZ .</POS>
+		<Lemma>I can really stretch my food budget use these mix .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They really do add a delicious , homemade and healthy touch to your meals .</Tokens>
+		<POS>PRP RB VBP VB DT JJ , JJ CC JJ NN TO PRP$ NNS .</POS>
+		<Lemma>they really do add a delicious , homemade and healthy touch to you meal .</Lemma>
+	</Sentence>
+</Document>

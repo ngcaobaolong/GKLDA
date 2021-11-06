@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a 2nd choice for me .</Tokens>
+		<POS>DT VBD DT JJ NN IN PRP .</POS>
+		<Lemma>this be a 2nd choice for I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wanted the 100 calorie kettle corn which I had purchased previously , but you no longer offered it .</Tokens>
+		<POS>PRP VBD DT CD NN NN NN WDT PRP VBD VBN RB , CC PRP RB RB VBD PRP .</POS>
+		<Lemma>I want the 100 calorie kettle corn which I have purchase previously , but you no longer offer it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is ok for a 2nd choice , but I would much prefer the kettle corn .</Tokens>
+		<POS>DT VBZ NN IN DT JJ NN , CC PRP MD RB VB DT NN NN .</POS>
+		<Lemma>this be ok for a 2nd choice , but I would much prefer the kettle corn .</Lemma>
+	</Sentence>
+</Document>

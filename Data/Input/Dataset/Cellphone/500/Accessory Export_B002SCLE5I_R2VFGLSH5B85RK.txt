@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>what the product promised , it surely delivered .</Tokens>
+		<POS>WP DT NN VBD , PRP RB VBD .</POS>
+		<Lemma>what the product promise , it surely deliver .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For some reason , our house is `` too thick '' for the wireless signal to penetrate .</Tokens>
+		<POS>IN DT NN , PRP$ NN VBZ `` RB JJ '' IN DT JJ NN TO VB .</POS>
+		<Lemma>for some reason , we house be `` too thick '' for the wireless signal to penetrate .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This product helped boost the bars where I do not have to be outside anymore to get a strong signal .</Tokens>
+		<POS>DT NN VBD VB DT NNS WRB PRP VBP RB VB TO VB JJ RB TO VB DT JJ NN .</POS>
+		<Lemma>this product help boost the bar where I do not have to be outside anymore to get a strong signal .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It also have helped reduced drop calls and interference .</Tokens>
+		<POS>PRP RB VBP VBN VBN NN NNS CC NN .</POS>
+		<Lemma>it also have help reduce drop call and interference .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am sold !</Tokens>
+		<POS>PRP VBP VBN .</POS>
+		<Lemma>I be sell !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It was my biggest frustration before , but not anymore .</Tokens>
+		<POS>PRP VBD PRP$ JJS NN RB , CC RB RB .</POS>
+		<Lemma>it be my biggest frustration before , but not anymore .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>However , my husband is complaining that on his cell phone , it did bad than good .</Tokens>
+		<POS>RB , PRP$ NN VBZ VBG IN IN PRP$ NN NN , PRP VBD JJ IN JJ .</POS>
+		<Lemma>however , my husband be complain that on he cell phone , it do bad than good .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>He just does not know how to work the signal , hard to change his ways ! '</Tokens>
+		<POS>PRP RB VBZ RB VB WRB TO VB DT NN , JJ TO VB PRP$ NNS . ''</POS>
+		<Lemma>he just do not know how to work the signal , hard to change he way ! '</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>\* LOL \* I need to help him to figure it out . '</Tokens>
+		<POS>SYM NNP SYM PRP VBP TO VB PRP TO VB PRP RP . ''</POS>
+		<Lemma>\* LOL \* I need to help he to figure it out . '</Lemma>
+	</Sentence>
+</Document>

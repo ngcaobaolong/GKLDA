@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera is awesome ... had the early model 10mp .</Tokens>
+		<POS>DT NN VBZ JJ : VBD DT JJ NN CD .</POS>
+		<Lemma>the camera be awesome ... have the early model 10mp .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This also was a great camera but got stolen .</Tokens>
+		<POS>DT RB VBD DT JJ NN CC VBD VBN .</POS>
+		<Lemma>this also be a great camera but get steal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The outdoor pictures are great .</Tokens>
+		<POS>DT JJ NNS VBP JJ .</POS>
+		<Lemma>the outdoor picture be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However the indoor pictures need more work .</Tokens>
+		<POS>RB DT JJ NNS VBP JJR NN .</POS>
+		<Lemma>however the indoor picture need more work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Still working on how to perfect them .</Tokens>
+		<POS>RB VBG IN WRB TO JJ PRP .</POS>
+		<Lemma>still work on how to perfect they .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But for the price and what you get ... you can not beat it .</Tokens>
+		<POS>CC IN DT NN CC WP PRP VBP : PRP MD RB VB PRP .</POS>
+		<Lemma>but for the price and what you get ... you can not beat it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would buy another Fuji and I have already recommended it to a fried who also purchased it .</Tokens>
+		<POS>PRP MD VB DT NNP CC PRP VBP RB VBN PRP TO DT VBN WP RB VBD PRP .</POS>
+		<Lemma>I would buy another Fuji and I have already recommend it to a fry who also purchase it .</Lemma>
+	</Sentence>
+</Document>

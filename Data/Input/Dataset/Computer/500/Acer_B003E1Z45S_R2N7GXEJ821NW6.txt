@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Good screens , just no speakers built in .</Tokens>
+		<POS>JJ NNS , RB DT NNS VBN IN .</POS>
+		<Lemma>good screen , just no speaker build in .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Pretty disappointed by that , but the money I saved I can get a nice set of speakers .</Tokens>
+		<POS>NNP VBN IN DT , CC DT NN PRP VBD PRP MD VB DT JJ NN IN NNS .</POS>
+		<Lemma>Pretty disappoint by that , but the money I save I can get a nice set of speaker .</Lemma>
+	</Sentence>
+</Document>

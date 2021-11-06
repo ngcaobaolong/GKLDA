@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The bad : It 's very salty , greasy feeling and a bit too mushy .</Tokens>
+		<POS>DT JJ : PRP VBZ RB JJ , JJ NN CC DT NN RB JJ .</POS>
+		<Lemma>the bad : it be very salty , greasy feeling and a bit too mushy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Definitely over cooked to death .</Tokens>
+		<POS>RB IN VBN TO NN .</POS>
+		<Lemma>definitely over cook to death .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The good : It 's great if you add some water and\/or milk and spinach then puree into a spinach and cheese soup or take some of the spinach bits out and fold it into some sour cream or yogurt + mayo blend and make it into a dip .</Tokens>
+		<POS>DT JJ : PRP VBZ JJ IN PRP VBP DT NN CC NN CC NN RB VBP IN DT NN CC NN NN CC VB DT IN DT NN NNS IN CC VB PRP IN DT JJ NN CC NN CC NN VB CC VB PRP IN DT NN .</POS>
+		<Lemma>the good : it be great if you add some water and\/or milk and spinach then puree into a spinach and cheese soup or take some of the spinach bit out and fold it into some sour cream or yogurt + mayo blend and make it into a dip .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Adding some fresh cilantro does wonders to perk up this product .</Tokens>
+		<POS>VBG DT JJ NN VBZ NNS TO JJ IN DT NN .</POS>
+		<Lemma>add some fresh cilantro do wonder to perk up this product .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are definitely my on-the-bike choice for food .</Tokens>
+		<POS>DT VBP RB PRP$ JJ NN IN NN .</POS>
+		<Lemma>these be definitely my on-the-bike choice for food .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I ca n't stomach the taste or texture of Clif and other nutrition bars , but I love these waffles .</Tokens>
+		<POS>PRP MD RB VB DT NN CC NN IN NNP CC JJ NN NNS , CC PRP VBP DT NNS .</POS>
+		<Lemma>I can not stomach the taste or texture of Clif and other nutrition bar , but I love these waffle .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'd eat them even while not on my bike , whereas I 'd only eat a Clif bar if I was close to starving to death .</Tokens>
+		<POS>PRP MD VB PRP RB IN RB IN PRP$ NN , IN PRP MD RB VB DT NNP NN IN PRP VBD JJ TO VBG TO NN .</POS>
+		<Lemma>I would eat they even while not on my bike , whereas I would only eat a Clif bar if I be close to starve to death .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Plus they 're organic !</Tokens>
+		<POS>CC PRP VBP JJ .</POS>
+		<Lemma>plus they be organic !</Lemma>
+	</Sentence>
+</Document>

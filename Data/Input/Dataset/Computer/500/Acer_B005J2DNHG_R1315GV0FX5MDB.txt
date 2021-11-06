@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product , but unfortunately by the second day the computer started making a buzzing sound .</Tokens>
+		<POS>JJ NN , CC RB IN DT JJ NN DT NN VBD VBG DT VBG NN .</POS>
+		<Lemma>great product , but unfortunately by the second day the computer start make a buzz sound .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It buzzes off and on now .</Tokens>
+		<POS>PRP VBZ RP CC IN RB .</POS>
+		<Lemma>it buzz off and on now .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When I looked up Why does my computer buzz ?</Tokens>
+		<POS>WRB PRP VBD RP WRB VBZ PRP$ NN NN .</POS>
+		<Lemma>when I look up why do my computer buzz ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Google\/Yahoo responses said a glitch with the fan .</Tokens>
+		<POS>DT NNP NNS VBD DT NN IN DT NN .</POS>
+		<Lemma>the Google\/Yahoo response say a glitch with the fan .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So I still need to take the notebook to the store for a free repair .</Tokens>
+		<POS>IN PRP RB VBP TO VB DT NN TO DT NN IN DT JJ NN .</POS>
+		<Lemma>so I still need to take the notebook to the store for a free repair .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Aside from the buzz the computer is great .</Tokens>
+		<POS>RB IN DT NN DT NN VBZ JJ .</POS>
+		<Lemma>aside from the buzz the computer be great .</Lemma>
+	</Sentence>
+</Document>

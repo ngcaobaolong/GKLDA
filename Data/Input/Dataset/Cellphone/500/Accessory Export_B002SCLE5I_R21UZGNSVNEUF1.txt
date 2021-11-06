@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this item and it was suppose to be 10 in the pack and my pack had only three and cant get in touch with anyone , i would like to have my other 7 antennas please and u might have a satisfied customer .</Tokens>
+		<POS>PRP VBD DT NN CC PRP VBD VB TO VB CD IN DT NN CC PRP$ NN VBD RB CD CC NN VBP IN NN IN NN , FW MD VB TO VB PRP$ JJ CD NNS VB CC VB MD VB DT JJ NN .</POS>
+		<Lemma>I purchase this item and it be suppose to be 10 in the pack and my pack have only three and cant get in touch with anyone , i would like to have my other 7 antenna please and u might have a satisfied customer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I know mistakes happen but i cant get in touch with anyone to let them know whats wrong <a href="http://www.amazon.com/gp/product/B002SCLE5I/ref=cm_cr_asin_lnk/176-4422020-3473165"> 10 Pack of Universal Generation X Cell Phone Antenna Booster Signal Enhancers </a></Tokens>
+		<POS>PRP VBP NNS VB CC FW FW VB IN NN IN NN TO VB PRP VB NNS JJ NN CD NN IN NNP NNP NNP NNP NNP NNP NNP NNP NNS VBP</POS>
+		<Lemma>I know mistake happen but i cant get in touch with anyone to let they know what wrong <a href="http://www.amazon.com/gp/product/b002scle5i/ref=cm_cr_asin_lnk/176-4422020-3473165"> 10 pack of Universal Generation X Cell Phone Antenna Booster Signal enhancer </a></Lemma>
+	</Sentence>
+</Document>

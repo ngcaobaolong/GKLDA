@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Easy to set up , the instructions are very direct .</Tokens>
+		<POS>NNP TO VB RP , DT NNS VBP RB JJ .</POS>
+		<Lemma>Easy to set up , the instruction be very direct .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Sound quality is good aside from some static every so often -LRB- but this could be due to the radio stations in the area -RRB- .</Tokens>
+		<POS>JJ NN VBZ JJ RB IN DT JJ DT RB RB -LRB- CC DT MD VB JJ TO DT NN NNS IN DT NN -RRB- .</POS>
+		<Lemma>sound quality be good aside from some static every so often -lrb- but this could be due to the radio station in the area -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For calls , the volume on my car has to be turned way up -LRB- like 4 times as loud as I set it for the regular radio -RRB- but it 's still good .</Tokens>
+		<POS>IN NNS , DT NN IN PRP$ NN VBZ TO VB VBN NN IN -LRB- IN CD NNS IN JJ IN PRP VBP PRP IN DT JJ NN -RRB- CC PRP VBZ RB JJ .</POS>
+		<Lemma>for call , the volume on my car have to be turn way up -lrb- like 4 time as loud as I set it for the regular radio -rrb- but it be still good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Same amount of static that I usually get with a bluetooth receiver but again , could be due to the radio or the phone reception .</Tokens>
+		<POS>JJ NN IN JJ IN PRP RB VBP IN DT NN NN CC RB , MD VB JJ TO DT NN CC DT NN NN .</POS>
+		<Lemma>same amount of static that I usually get with a bluetooth receiver but again , could be due to the radio or the phone reception .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Music quality is good too .</Tokens>
+		<POS>NN NN VBZ JJ RB .</POS>
+		<Lemma>music quality be good too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall , I really like the product and the fact that it has external controls that are easy to use .</Tokens>
+		<POS>RB , PRP RB IN DT NN CC DT NN IN PRP VBZ JJ NNS WDT VBP JJ TO VB .</POS>
+		<Lemma>overall , I really like the product and the fact that it have external control that be easy to use .</Lemma>
+	</Sentence>
+</Document>

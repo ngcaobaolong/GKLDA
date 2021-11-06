@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is by far my favorite gluten-free bread , and I have tried many !</Tokens>
+		<POS>DT VBZ IN RB PRP$ JJ JJ NN , CC PRP VBP VBN JJ .</POS>
+		<Lemma>this be by far my favorite gluten-free bread , and I have try many !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It holds together so well -LRB- many GF breads are crumbly and fall apart easily -RRB- and makes great toast or sandwiches .</Tokens>
+		<POS>PRP VBZ RB RB RB -LRB- JJ NN NNS VBP RB CC VB RB RB -RRB- CC VBZ JJ NN CC NNS .</POS>
+		<Lemma>it hold together so well -lrb- many gf bread be crumbly and fall apart easily -rrb- and make great toast or sandwich .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has a savory flavor that is unique , and it is now the only GF bread I will buy .</Tokens>
+		<POS>PRP VBZ DT JJ NN WDT VBZ JJ , CC PRP VBZ RB DT JJ NN NN PRP MD VB .</POS>
+		<Lemma>it have a savory flavor that be unique , and it be now the only gf bread I will buy .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These screens work great and are an excellent value for what you get .</Tokens>
+		<POS>DT NNS VBP JJ CC VBP DT JJ NN IN WP PRP VBP .</POS>
+		<Lemma>these screen work great and be a excellent value for what you get .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great for everyday use .</Tokens>
+		<POS>NNP IN JJ NN .</POS>
+		<Lemma>Great for everyday use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We use them in a school for everyday tasks so for the price they make great monitors for the students .</Tokens>
+		<POS>PRP VBP PRP IN DT NN IN JJ NNS RB IN DT NN PRP VBP JJ NNS IN DT NNS .</POS>
+		<Lemma>we use they in a school for everyday task so for the price they make great monitor for the student .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I thought this would be a cool little gadget , 3 ways to charge my droid phone !</Tokens>
+		<POS>PRP VBD DT MD VB DT JJ JJ NN , CD NNS TO VB PRP$ NN NN .</POS>
+		<Lemma>I think this would be a cool little gadget , 3 way to charge my droid phone !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It worked great for about 45 days , then .</Tokens>
+		<POS>PRP VBD JJ IN IN CD NNS , RB .</POS>
+		<Lemma>it work great for about 45 day , then .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>nothing .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>nothing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Replaced the cable , tried switching the usb port on the bottom to the other one , still nothing .</Tokens>
+		<POS>VBN DT NN , VBD VBG DT NN NN IN DT NN TO DT JJ CD , RB NN .</POS>
+		<Lemma>replace the cable , try switch the usb port on the bottom to the other one , still nothing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I had only ever used it in my house , there have been no surges or anything that could explain the failure other than an item that just went bad .</Tokens>
+		<POS>PRP VBD RB RB VBN PRP IN PRP$ NN , EX VBP VBN DT VBZ CC NN WDT MD VB DT NN JJ IN DT NN WDT RB VBD JJ .</POS>
+		<Lemma>I have only ever use it in my house , there have be no surge or anything that could explain the failure other than a item that just go bad .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Not a huge loss since it was pretty inexpensive -LRB- 10 dollars ? -RRB-</Tokens>
+		<POS>RB DT JJ NN IN PRP VBD RB JJ -LRB- CD NNS . -RRB-</POS>
+		<Lemma>not a huge loss since it be pretty inexpensive -lrb- 10 dollar ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>, but I just wanted to warn anyone else out there ... the craftsmanship on my unit was definitely poor .</Tokens>
+		<POS>, CC PRP RB VBD TO VB NN RB IN RB : DT NN IN PRP$ NN VBD RB JJ .</POS>
+		<Lemma>, but I just want to warn anyone else out there ... the craftsmanship on my unit be definitely poor .</Lemma>
+	</Sentence>
+</Document>

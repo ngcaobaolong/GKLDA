@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I BOUGHT THIS FOR A VACATION IN FLORIDA .</Tokens>
+		<POS>PRP VBD NNS IN DT NNP IN NNP .</POS>
+		<Lemma>I buy this for a VACATION in FLORIDA .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>NOT ONLY WAS IT A GREAT PRICE BUT IT TOOK EXCELLENT PICTURES .</Tokens>
+		<POS>NNP NNP VBD PRP DT JJ NN NNP NNP VBD JJ NNS .</POS>
+		<Lemma>NOT ONLY be it a great price BUT IT take excellent picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>THE SCREEN IS BIG ENOUGH WHERE YOU CAN SEE WHAT YOU ARE LOOKING AT AND THE ZOOM IS A LOT FARTHER THAN EXPECTED .</Tokens>
+		<POS>DT NN VBZ NNP NNP VBD PRP NNP VBP WDT PRP VBP VBG IN CC DT NN VBZ DT NNP NNP NNP NNP .</POS>
+		<Lemma>the screen be BIG ENOUGH where you CAN see what you be look at and the zoom be a LOT FARTHER THAN EXPECTED .</Lemma>
+	</Sentence>
+</Document>

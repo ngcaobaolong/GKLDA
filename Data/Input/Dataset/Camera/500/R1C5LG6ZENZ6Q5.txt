@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very good camera , very solid build and weather proof .</Tokens>
+		<POS>RB JJ NN , RB JJ VB CC VB NN .</POS>
+		<Lemma>very good camera , very solid build and weather proof .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Good ergonomics fit my hand nicely , good button layout easy to reach when shooting .</Tokens>
+		<POS>JJ NNS VBP PRP$ NN RB , JJ NN NN JJ TO VB WRB NN .</POS>
+		<Lemma>good ergonomics fit my hand nicely , good button layout easy to reach when shooting .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Image quality is excellent , I 've had it for about a month , shot a wedding last week with it .</Tokens>
+		<POS>NN NN VBZ JJ , PRP VBP VBD PRP IN IN DT NN , VBD DT NN JJ NN IN PRP .</POS>
+		<Lemma>image quality be excellent , I have have it for about a month , shoot a wedding last week with it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Was very pleased with the quality and color of the images .</Tokens>
+		<POS>VBD RB JJ IN DT NN CC NN IN DT NNS .</POS>
+		<Lemma>be very pleased with the quality and color of the image .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very good in low light situations with out flash .</Tokens>
+		<POS>RB JJ IN JJ JJ NNS IN JJ NN .</POS>
+		<Lemma>very good in low light situation with out flash .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Did some test shots at ISO 3200 , they look like shot I them at ISO 400 very little noise .</Tokens>
+		<POS>VBD DT NN NNS IN NN CD , PRP VBP IN NN PRP PRP IN NN CD RB JJ NN .</POS>
+		<Lemma>do some test shot at iso 3200 , they look like shot I they at iso 400 very little noise .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Great camera , upgraded from K10 , well worth the money .</Tokens>
+		<POS>JJ NN , VBN IN NN , RB IN DT NN .</POS>
+		<Lemma>great camera , upgrade from k10 , well worth the money .</Lemma>
+	</Sentence>
+</Document>

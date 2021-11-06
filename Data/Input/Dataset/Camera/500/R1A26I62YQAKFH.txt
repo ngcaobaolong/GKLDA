@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ladies and gentleman , if you have been waiting to buy your first or add to you photo equipment , do yourself a favor and purchase this outstanding camera .</Tokens>
+		<POS>NNP CC NN , IN PRP VBP VBN VBG TO VB PRP$ JJ CC VB TO PRP JJ NN , VBP PRP DT NN CC NN DT JJ NN .</POS>
+		<Lemma>Ladies and gentleman , if you have be wait to buy you first or add to you photo equipment , do yourself a favor and purchase this outstanding camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nikon truly hit a home run with this amazing unit .</Tokens>
+		<POS>NNP RB VBD DT NN NN IN DT JJ NN .</POS>
+		<Lemma>Nikon truly hit a home run with this amazing unit .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Given its price to performance capability , in my humble opinion , nothing come close .</Tokens>
+		<POS>VBN PRP$ NN TO NN NN , IN PRP$ JJ NN , NN VBP RB .</POS>
+		<Lemma>give its price to performance capability , in my humble opinion , nothing come close .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As for its performance and usage , there are plenty of great site to read and such , thus I will leave that to you to research .</Tokens>
+		<POS>IN IN PRP$ NN CC NN , EX VBP NN IN JJ NN TO VB CC JJ , RB PRP MD VB DT TO PRP TO NN .</POS>
+		<Lemma>as for its performance and usage , there be plenty of great site to read and such , thus I will leave that to you to research .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And once you do , I have a strong feeling you will get one .</Tokens>
+		<POS>CC RB PRP VBP , PRP VBP DT JJ NN PRP MD VB CD .</POS>
+		<Lemma>and once you do , I have a strong feeling you will get one .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Just be paitent in getting one ... it is a hot seller .</Tokens>
+		<POS>RB VB JJ IN VBG CD : PRP VBZ DT JJ NN .</POS>
+		<Lemma>just be paitent in get one ... it be a hot seller .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In the mean time , I would recommend getting the other goodies to go with it : 35mm Dx 1.8 , 50mm 1.4 G , 18-200MM , 12-24mm , a cool macro lens by Raynox -LRB- DCR-250 -RRB- , a GPS unit ; some good quality Hoya UV CPL filters -LRB- HD one 's if you can do it -RRB- ; nice flash -LRB- SB-400 -RRB- ; and lastly a nice Kata bag to go with it call .</Tokens>
+		<POS>IN DT JJ NN , PRP MD VB VBG DT JJ NNS TO VB IN PRP : CD NN CD , CD CD NN , NN , NN , DT JJ NN NN IN NN -LRB- NN -RRB- , DT NNP NN : DT JJ NN NNP NN CC NNP NNS -LRB- NN CD POS IN PRP MD VB PRP -RRB- : JJ NN -LRB- NN -RRB- : CC RB DT JJ NNP NN TO VB IN PRP VB .</POS>
+		<Lemma>in the mean time , I would recommend get the other goody to go with it : 35mm dx 1.8 , 50mm 1.4 g , 18-200mm , 12-24mm , a cool macro lens by raynox -lrb- dcr-250 -rrb- , a GPS unit ; some good quality Hoya uv CPL filter -lrb- hd one 's if you can do it -rrb- ; nice flash -lrb- sb-400 -rrb- ; and lastly a nice Kata bag to go with it call .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>After , that is what I did while I waited .</Tokens>
+		<POS>IN , DT VBZ WP PRP VBD IN PRP VBD .</POS>
+		<Lemma>after , that be what I do while I wait .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Happy shopping my fellow hobbits ... cheers .</Tokens>
+		<POS>JJ NN PRP$ JJ NNS : NNS .</POS>
+		<Lemma>happy shopping my fellow hobbit ... cheer .</Lemma>
+	</Sentence>
+</Document>

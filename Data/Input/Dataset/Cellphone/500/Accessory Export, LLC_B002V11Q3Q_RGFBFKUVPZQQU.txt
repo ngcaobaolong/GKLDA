@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This item is great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this item be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a short little extension cord -LRB- which is great -RRB- and it functions well .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN NN -LRB- WDT VBZ JJ -RRB- CC PRP VBZ RB .</POS>
+		<Lemma>it be a short little extension cord -lrb- which be great -rrb- and it function well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have my Android connected to my PC at work to access my Pandora and to charge my phone .</Tokens>
+		<POS>PRP VBP PRP$ JJ VBN TO PRP$ NN IN NN TO NN PRP$ NNP CC TO VB PRP$ NN .</POS>
+		<Lemma>I have my android connect to my pc at work to access my Pandora and to charge my phone .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend it !</Tokens>
+		<POS>PRP MD VB PRP .</POS>
+		<Lemma>I would recommend it !</Lemma>
+	</Sentence>
+</Document>

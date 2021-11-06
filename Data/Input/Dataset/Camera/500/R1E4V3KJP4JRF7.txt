@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use this camera while paddling outrigger canoes , snorkeling , and for video taping swimmers in the pool .</Tokens>
+		<POS>PRP VBP DT NN IN VBG NN NNS , NN , CC IN NN VBG NNS IN DT NN .</POS>
+		<Lemma>I use this camera while paddle outrigger canoe , snorkeling , and for video tape swimmer in the pool .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera is great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this camera be great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Good : Takes great still pics in daylight .</Tokens>
+		<POS>JJ : VBZ JJ RB NNS IN NN .</POS>
+		<Lemma>good : take great still pic in daylight .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Color , focus , clarity are all really quite good .</Tokens>
+		<POS>NNP , NN , NN VBP DT RB RB JJ .</POS>
+		<Lemma>Color , focus , clarity be all really quite good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Others have mentioned poor battery life , but I am closing in on 300 pictures and 60 minutes of video and I am only on my second set of batteries after more than 6 months of use .</Tokens>
+		<POS>NNS VBP VBN JJ NN NN , CC PRP VBP VBG IN IN CD NNS CC CD NNS IN NN CC PRP VBP RB IN PRP$ JJ NN IN NNS IN JJR IN CD NNS IN NN .</POS>
+		<Lemma>other have mention poor battery life , but I be close in on 300 picture and 60 minute of video and I be only on my second set of battery after more than 6 month of use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You just need to turn it off when you are not shooting pics .</Tokens>
+		<POS>PRP RB VBP TO VB PRP RP WRB PRP VBP RB JJ NNS .</POS>
+		<Lemma>you just need to turn it off when you be not shooting pic .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>-LRB- this is n't your I phone -RRB- This is the 3rd waterproof camera I have used , and this is the first model that has n't leaked .</Tokens>
+		<POS>-LRB- DT VBZ RB PRP$ PRP NN -RRB- DT VBZ DT JJ JJ NN PRP VBP VBN , CC DT VBZ DT JJ NN WDT VBZ RB VBN .</POS>
+		<Lemma>-lrb- this be not you I phone -rrb- this be the 3rd waterproof camera I have use , and this be the first model that have not leak .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Just be careful with sand .</Tokens>
+		<POS>RB VB JJ IN NN .</POS>
+		<Lemma>just be careful with sand .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The bad : There is a long delay between depressing the button and the shutter , so not too hot for getting action shots .</Tokens>
+		<POS>DT JJ : EX VBZ DT JJ NN IN VBG DT NN CC DT NN , RB RB RB JJ IN VBG NN NNS .</POS>
+		<Lemma>the bad : there be a long delay between depress the button and the shutter , so not too hot for get action shot .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>There is an even longer delay between taking one pic and waiting for it to reset for the next pic , even with a fast memory chip .</Tokens>
+		<POS>EX VBZ DT RB JJR NN IN VBG CD NN CC VBG IN PRP TO VB IN DT JJ NN , RB IN DT JJ NN NN .</POS>
+		<Lemma>there be a even longer delay between take one pic and wait for it to reset for the next pic , even with a fast memory chip .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>You do need to hold it still while shooting pics , otherwise they will blur .</Tokens>
+		<POS>PRP VBP VB TO VB PRP RB IN VBG NNS , RB PRP MD VB .</POS>
+		<Lemma>you do need to hold it still while shoot pic , otherwise they will blur .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>In low light conditions the pics become very grainy -LRB- the flash overcomes this issue for nearby objects -RRB- The video is not stabilized so it can be very jumpy if you move the camera at all .</Tokens>
+		<POS>IN JJ JJ NNS DT NNS VBP RB JJ -LRB- DT NN VBZ DT NN IN JJ NNS -RRB- DT NN VBZ RB VBN IN PRP MD VB RB JJ IN PRP VBP DT NN IN DT .</POS>
+		<Lemma>in low light condition the pic become very grainy -lrb- the flash overcome this issue for nearby object -rrb- the video be not stabilize so it can be very jumpy if you move the camera at all .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>During video shooting it does n't seem to readjust the exposure as the light changes .</Tokens>
+		<POS>IN NN NN PRP VBZ RB VB TO VB DT NN IN DT JJ NNS .</POS>
+		<Lemma>during video shooting it do not seem to readjust the exposure as the light change .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Over all I am quite pleased with this camera .</Tokens>
+		<POS>IN DT PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>over all I be quite pleased with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The pictures can be quite stunningly beautiful .</Tokens>
+		<POS>DT NNS MD VB RB RB JJ .</POS>
+		<Lemma>the picture can be quite stunningly beautiful .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The price ca n't be beat .</Tokens>
+		<POS>DT NN MD RB VB VBN .</POS>
+		<Lemma>the price can not be beat .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It is easy to use even wearing gloves .</Tokens>
+		<POS>PRP VBZ JJ TO VB RB VBG NNS .</POS>
+		<Lemma>it be easy to use even wear glove .</Lemma>
+	</Sentence>
+</Document>

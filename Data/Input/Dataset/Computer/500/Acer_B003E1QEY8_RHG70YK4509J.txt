@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My new Acer monitor came beautifully packaged and in perfect condition .</Tokens>
+		<POS>PRP$ JJ NNP NN VBD RB VBN CC IN JJ NN .</POS>
+		<Lemma>my new Acer monitor come beautifully package and in perfect condition .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like the way it looks ... plan to purchase Acer space saver desktop to go with it .</Tokens>
+		<POS>PRP VBP DT NN PRP VBZ : NN TO VB NNP NN NN NN TO VB IN PRP .</POS>
+		<Lemma>I like the way it look ... plan to purchase Acer space saver desktop to go with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very happy with the purchase !</Tokens>
+		<POS>RB JJ IN DT NN .</POS>
+		<Lemma>very happy with the purchase !</Lemma>
+	</Sentence>
+</Document>

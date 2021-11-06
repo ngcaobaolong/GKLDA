@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Awesome device works flawlessly on my iphone 4 ... I didnt have to configure anything , i just turned on the bluetooth on my iphone 4 and BAM my phone all by itself found the FlexSmart and music play begins .</Tokens>
+		<POS>JJ NN VBZ RB IN PRP$ NN CD : PRP VBP VBP TO VB NN , FW RB VBN RP DT NN IN PRP$ NN CD CC NNP PRP$ NN DT IN PRP VBD DT NNP CC NN VBP VBZ .</POS>
+		<Lemma>awesome device work flawlessly on my iphone 4 ... I didnt have to configure anything , i just turn on the bluetooth on my iphone 4 and BAM my phone all by itself find the FlexSmart and music play begin .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This device should actually work with any cellphone , ipod , ipad , iphone , that has bluetooth built in .</Tokens>
+		<POS>DT NN MD RB VB IN DT NN , NN , NN , NN , WDT VBZ NN VBN IN .</POS>
+		<Lemma>this device should actually work with any cellphone , ipod , ipad , iphone , that have bluetooth build in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It even charges my iphone 4 -LRB- an iphone 4 plug aint provided , you gotta use your own -RRB- .</Tokens>
+		<POS>PRP RB VBZ PRP$ NN CD -LRB- DT NN CD NN NN VBN , PRP VBP VB PRP$ JJ -RRB- .</POS>
+		<Lemma>it even charge my iphone 4 -lrb- a iphone 4 plug aint provide , you gotta use you own -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've experienced ZERO static or interference while listening to my podcasts , streaming videos , streaming music , watching movies , playing games , ect .</Tokens>
+		<POS>PRP VBP VBN NNP JJ CC NN IN VBG TO PRP$ NNS , NN NNS , NN NN , VBG NNS , VBG NNS , NN .</POS>
+		<Lemma>I have experience ZERO static or interference while listen to my podcast , streaming video , streaming music , watch movie , play game , ect .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Oh yeah , Angry Birds , Skyforce Reloaded , Plants VS Zombies sounds awesome blasting in the car .</Tokens>
+		<POS>UH RB , NNP NNP , NNP NNP , NNP NNP NNP VBZ JJ VBG IN DT NN .</POS>
+		<Lemma>oh yeah , Angry Birds , Skyforce Reloaded , Plants VS Zombies sound awesome blast in the car .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>like you are console gaming right in your car .</Tokens>
+		<POS>IN PRP VBP JJ NN NN IN PRP$ NN .</POS>
+		<Lemma>like you be console gaming right in you car .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Buy this thing now if you need streaming music in the car .</Tokens>
+		<POS>VB DT NN RB IN PRP VBP NN NN IN DT NN .</POS>
+		<Lemma>buy this thing now if you need streaming music in the car .</Lemma>
+	</Sentence>
+</Document>

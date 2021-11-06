@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am a teacher who types a lot at home and this monitor has made it much eaaier - it is much clearer than any I have ever had and is somehow easier on my eyes too .</Tokens>
+		<POS>PRP VBP DT NN WP NNS DT NN IN NN CC DT NN VBZ VBN PRP JJ NN : PRP VBZ JJ JJR IN DT PRP VBP RB VBN CC VBZ RB JJR IN PRP$ NNS RB .</POS>
+		<Lemma>I be a teacher who type a lot at home and this monitor have make it much eaaier - it be much clearer than any I have ever have and be somehow easier on my eye too .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It hooked right up to my Windows 7 system and it is the perfect size for my desk - plenty big enough .</Tokens>
+		<POS>PRP VBD RB RB TO PRP$ NNP CD NN CC PRP VBZ DT JJ NN IN PRP$ NN : RB JJ RB .</POS>
+		<Lemma>it hook right up to my Windows 7 system and it be the perfect size for my desk - plenty big enough .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Thinking of ordering another for my other home computer as soon as funds allow .</Tokens>
+		<POS>VBG IN VBG DT IN PRP$ JJ NN NN RB RB IN NNS VBP .</POS>
+		<Lemma>think of order another for my other home computer as soon as fund allow .</Lemma>
+	</Sentence>
+</Document>

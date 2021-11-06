@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Within the first week of having it , the monitor stopped working unless plugged into the docking station .</Tokens>
+		<POS>IN DT JJ NN IN VBG PRP , DT NN VBD VBG IN VBN IN DT NN NN .</POS>
+		<Lemma>within the first week of have it , the monitor stop work unless plug into the docking station .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Plus , sometimes the screen just turns a solid blue and the sound stops working .</Tokens>
+		<POS>NN , RB DT NN RB VBZ DT JJ JJ CC DT JJ NNS VBG .</POS>
+		<Lemma>plus , sometimes the screen just turn a solid blue and the sound stop work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I filled out the online form for Levana 's customer service .</Tokens>
+		<POS>PRP VBD RP DT JJ NN IN NNP POS NN NN .</POS>
+		<Lemma>I fill out the online form for Levana 's customer service .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No response .</Tokens>
+		<POS>DT NN .</POS>
+		<Lemma>no response .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I then tried calling .</Tokens>
+		<POS>PRP RB VBD VBG .</POS>
+		<Lemma>I then try call .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No answer , no voicemail .</Tokens>
+		<POS>DT NN , DT NN .</POS>
+		<Lemma>no answer , no voicemail .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Called again and was put through to voicemail .</Tokens>
+		<POS>VBN RB CC VBD VBN IN TO NN .</POS>
+		<Lemma>call again and be put through to voicemail .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I finally reached someone after that , and long story short -- I have to pay for the shipping labels to exchange the unit .</Tokens>
+		<POS>PRP RB VBD NN IN DT , CC RB NN JJ : PRP VBP TO VB IN DT NN VBZ TO VB DT NN .</POS>
+		<Lemma>I finally reach someone after that , and long story short -- I have to pay for the shipping label to exchange the unit .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So disappointed .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>so disappointed .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Bad product .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>bad product .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Bad customer service .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>bad customer service .</Lemma>
+	</Sentence>
+</Document>

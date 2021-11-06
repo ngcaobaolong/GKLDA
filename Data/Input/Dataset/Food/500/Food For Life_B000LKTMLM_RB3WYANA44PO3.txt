@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ezekiel 4:9 Original cereal is crunchy , like Grape Nuts , but it has a nicer flavor .</Tokens>
+		<POS>NNP CD JJ NN VBZ JJ , IN NN NNS , CC PRP VBZ DT JJR NN .</POS>
+		<Lemma>Ezekiel 4:9 original cereal be crunchy , like grape nut , but it have a nicer flavor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nuttier .</Tokens>
+		<POS>JJR .</POS>
+		<Lemma>nuttier .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pretty wholesome too .</Tokens>
+		<POS>NNP JJ RB .</POS>
+		<Lemma>Pretty wholesome too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's my favorite right now .</Tokens>
+		<POS>PRP VBZ PRP$ JJ NN RB .</POS>
+		<Lemma>it be my favorite right now .</Lemma>
+	</Sentence>
+</Document>

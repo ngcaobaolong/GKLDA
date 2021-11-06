@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It 's my very first SLR - and at the beginning I was kind of concerned how to handle such a big and heavy camera .</Tokens>
+		<POS>PRP VBZ PRP$ RB JJ NN : CC IN DT NN PRP VBD NN IN JJ WRB TO VB PDT DT JJ CC JJ NN .</POS>
+		<Lemma>it be my very first slr - and at the beginning I be kind of concerned how to handle such a big and heavy camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought it after several month of comparing similar items .</Tokens>
+		<POS>PRP VBD PRP IN JJ NN IN VBG JJ NNS .</POS>
+		<Lemma>I buy it after several month of compare similar item .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Now I 've taken some pictures with it - and it 's great !</Tokens>
+		<POS>RB PRP VBP VBN DT NNS IN PRP : CC PRP VBZ JJ .</POS>
+		<Lemma>now I have take some picture with it - and it be great !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The handling is easy , the pictures are great and I 'm getting used to carry a big fotobag with me .</Tokens>
+		<POS>DT NN VBZ JJ , DT NNS VBP JJ CC PRP VBP VBG VBN TO VB DT JJ NN IN PRP .</POS>
+		<Lemma>the handling be easy , the picture be great and I be get use to carry a big fotobag with I .</Lemma>
+	</Sentence>
+</Document>

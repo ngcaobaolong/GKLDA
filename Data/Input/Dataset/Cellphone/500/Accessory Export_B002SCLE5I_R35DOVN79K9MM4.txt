@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These do not work .</Tokens>
+		<POS>DT VBP RB VB .</POS>
+		<Lemma>these do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Tried everything and put them in any position .</Tokens>
+		<POS>VBD NN CC VBD PRP IN DT NN .</POS>
+		<Lemma>try everything and put they in any position .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Followed the instructions to the letter .</Tokens>
+		<POS>VBN DT NNS TO DT NN .</POS>
+		<Lemma>follow the instruction to the letter .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Did not even get an extra bar .</Tokens>
+		<POS>VBD RB RB VB DT JJ NN .</POS>
+		<Lemma>do not even get a extra bar .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Do n't buy these .</Tokens>
+		<POS>VBP RB VB DT .</POS>
+		<Lemma>do not buy these .</Lemma>
+	</Sentence>
+</Document>

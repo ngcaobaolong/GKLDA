@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love the taste of this hearty bread which is reminiscent of old world Rye bread with seeds and Pumpernickel - along with chopped nuts .</Tokens>
+		<POS>PRP VBP DT NN IN DT JJ NN WDT VBZ JJ IN JJ NN NNP NN IN NNS CC NNP : IN IN VBN NNS .</POS>
+		<Lemma>I love the taste of this hearty bread which be reminiscent of old world Rye bread with seed and Pumpernickel - along with chop nut .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A thick slice of this whole grain bread is a very filling meal .</Tokens>
+		<POS>DT JJ NN IN DT JJ NN NN VBZ DT RB VBG NN .</POS>
+		<Lemma>a thick slice of this whole grain bread be a very fill meal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This bread is also crumbly even when frozen and the only reason I do not give it five stars .</Tokens>
+		<POS>DT NN VBZ RB RB RB WRB VBN CC DT JJ NN PRP VBP RB VB PRP CD NNS .</POS>
+		<Lemma>this bread be also crumbly even when freeze and the only reason I do not give it five star .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>positives : \* hearty , whole grain -LRB- it is hard to find gluten-free products that are n't like white flour -RRB- \* great texture - airy enough while still being substantial \* bakes up great \* easy to make -LRB- there is n't even any kneading -RRB- negatives : \* caraway seeds - I like caraway seeds but this mix both 1 .</Tokens>
+		<POS>NNS : SYM JJ , JJ NN -LRB- PRP VBZ JJ TO VB JJ NNS WDT VBP RB VB JJ NN -RRB- SYM JJ NN : JJ JJ IN RB VBG JJ SYM VBZ RP JJ SYM JJ TO VB -LRB- EX VBZ RB RB DT NN -RRB- NNS : SYM NN NNS : PRP VBP NN NNS CC DT NN CC CD .</POS>
+		<Lemma>positive : \* hearty , whole grain -lrb- it be hard to find gluten-free product that be not like white flour -rrb- \* great texture - airy enough while still be substantial \* bake up great \* easy to make -lrb- there be not even any kneading -rrb- negative : \* caraway seed - I like caraway seed but this mix both 1 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>has too many caraway seeds and 2 .</Tokens>
+		<POS>VBZ RB JJ NN NNS CC CD .</POS>
+		<Lemma>have too many caraway seed and 2 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>the caraway seeds give it a very distinctive flavor that lowers the diversity of uses for this bread ; E.g. I would not use this for French toast , many different kinds of sandwiches , toast with anything sweet on it \* pretty high fat content for bread , although it is mostly pretty good fat without the caraway seeds I would say this is the best gluten-free bread , but with them I am simply not going to buy it again .</Tokens>
+		<POS>DT NN NNS VBP PRP DT RB JJ NN WDT VBZ DT NN IN NNS IN DT NN : NNP PRP MD RB VB DT IN JJ NN , JJ JJ NNS IN NNS , NN IN NN JJ IN PRP SYM RB JJ JJ NN IN NN , IN PRP VBZ RB RB JJ NN IN DT NN NNS PRP MD VB DT VBZ DT JJS JJ NN , CC IN PRP PRP VBP RB RB VBG TO VB PRP RB .</POS>
+		<Lemma>the caraway seed give it a very distinctive flavor that lower the diversity of use for this bread ; E.g. I would not use this for french toast , many different kind of sandwich , toast with anything sweet on it \* pretty high fat content for bread , although it be mostly pretty good fat without the caraway seed I would say this be the best gluten-free bread , but with they I be simply not go to buy it again .</Lemma>
+	</Sentence>
+</Document>

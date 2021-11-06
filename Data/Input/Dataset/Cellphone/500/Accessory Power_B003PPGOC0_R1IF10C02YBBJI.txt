@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Iphone 4s seems to be compatible on one level with this device .</Tokens>
+		<POS>DT NNP NNS VBZ TO VB JJ IN CD NN IN DT NN .</POS>
+		<Lemma>the Iphone 4 seem to be compatible on one level with this device .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The music plays fine and the podcasts play fine from my phone .</Tokens>
+		<POS>DT NN VBZ JJ CC DT NNS VBP NN IN PRP$ NN .</POS>
+		<Lemma>the music play fine and the podcast play fine from my phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I like the automatic finding of radio stations .</Tokens>
+		<POS>PRP VBP DT JJ NN IN NN NNS .</POS>
+		<Lemma>I like the automatic finding of radio station .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What I do n't like : hands-free calling with the Iphone 4s .</Tokens>
+		<POS>WP PRP VBP RB VB : JJ VBG IN DT NNP NNS .</POS>
+		<Lemma>what I do not like : hands-free call with the Iphone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm not sure of this being a function of the new Iphone and new bluetooth chip -LRB- my BlueAnt will do the same thing -RRB- , but my Iphone 4s will only do the hands-free for one or two calls .</Tokens>
+		<POS>PRP VBP RB JJ IN DT VBG DT NN IN DT JJ NNP CC JJ JJ NN -LRB- PRP$ NNP MD VB DT JJ NN -RRB- , CC PRP$ NNP NNS MD RB VB DT NN IN CD CC CD NNS .</POS>
+		<Lemma>I be not sure of this be a function of the new Iphone and new bluetooth chip -lrb- my BlueAnt will do the same thing -rrb- , but my Iphone 4 will only do the hands-free for one or two call .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It then becomes impossible to make calls using the GoGroove as the device automatically switches to speaker -LRB- and trust me I 've tried to fix this in every way possible , short of a voodoo ritual -RRB- I just thought people should know ; good for the iphone 4s with music\/podcasts .</Tokens>
+		<POS>PRP RB VBZ JJ TO VB NNS VBG DT NNP IN DT NN RB VBZ TO NN -LRB- CC NN PRP PRP VBP VBN TO VB DT IN DT NN JJ , JJ IN DT NN NN -RRB- PRP RB VBD NNS MD VB : JJ IN DT NN NNS IN NNS .</POS>
+		<Lemma>it then become impossible to make call use the GoGroove as the device automatically switch to speaker -lrb- and trust I I have try to fix this in every way possible , short of a voodoo ritual -rrb- I just think people should know ; good for the iphone 4 with music\/podcasts .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Virtually non-functional for hands-free calling with the Iphone 4s .</Tokens>
+		<POS>RB JJ IN JJ VBG IN DT NNP NNS .</POS>
+		<Lemma>virtually non-functional for hands-free call with the Iphone 4 .</Lemma>
+	</Sentence>
+</Document>

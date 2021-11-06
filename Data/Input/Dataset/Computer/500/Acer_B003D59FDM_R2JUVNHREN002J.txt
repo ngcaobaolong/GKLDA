@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor to replace an old deep TV style monitor .</Tokens>
+		<POS>PRP VBD DT NN TO VB DT JJ JJ NN NN NN .</POS>
+		<Lemma>I buy this monitor to replace a old deep tv style monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a good monitor at a good price .</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>this be a good monitor at a good price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I simply un-boxed it , plugged it in and it did what it was supposed to , which sometimes is a surprise now days .</Tokens>
+		<POS>PRP RB VBD PRP , VBD PRP IN CC PRP VBD WP PRP VBD VBN TO , WDT RB VBZ DT NN RB NNS .</POS>
+		<Lemma>I simply un-box it , plug it in and it do what it be suppose to , which sometimes be a surprise now day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is a good desk top size , has a good base that allows you to adjust the tilt fairly easy and has a clear sharp screen .</Tokens>
+		<POS>PRP VBZ DT JJ NN JJ NN , VBZ DT JJ NN WDT VBZ PRP TO VB DT NN RB JJ CC VBZ DT JJ JJ NN .</POS>
+		<Lemma>it be a good desk top size , have a good base that allow you to adjust the tilt fairly easy and have a clear sharp screen .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It stands from desktop to top 15 inches high by 14.5 inches wide and from the face of the monitor -LRB- screen -RRB- to back of the base it mounts to , is about 5 inches .</Tokens>
+		<POS>PRP VBZ IN NN TO JJ CD NNS JJ IN CD NNS JJ CC IN DT NN IN DT NN -LRB- NN -RRB- TO VB IN DT NN PRP VBZ TO , VBZ IN CD NNS .</POS>
+		<Lemma>it stand from desktop to top 15 inch high by 14.5 inch wide and from the face of the monitor -lrb- screen -rrb- to back of the base it mount to , be about 5 inch .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would certainly buy another if I needed one .</Tokens>
+		<POS>PRP MD RB VB DT IN PRP VBD CD .</POS>
+		<Lemma>I would certainly buy another if I need one .</Lemma>
+	</Sentence>
+</Document>

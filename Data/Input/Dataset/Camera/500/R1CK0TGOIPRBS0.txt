@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The installation manual is so small and written in broken english its nearly usless You can get support for a fee 49.95 or free email support that is totaly usless , whoever does there email support also writes in broken english and can not read your emails , i have 20 or more emails back and forth with them to prove it .</Tokens>
+		<POS>DT NN NN VBZ RB JJ CC VBN IN JJ JJ PRP$ RB JJ PRP MD VB NN IN DT NN CD CC JJ NN NN WDT VBZ RB JJ , WP VBZ RB JJ NN RB VBZ IN JJ JJ CC MD RB VB PRP$ NNS , FW VBP CD CC JJR NNS RB CC RB IN PRP TO VB PRP .</POS>
+		<Lemma>the installation manual be so small and write in broken english its nearly usless you can get support for a fee 49.95 or free email support that be totaly usless , whoever do there email support also write in broken english and can not read you email , i have 20 or more email back and forth with they to prove it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>they repeat the same information in every email , never addressing the problems .</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT NN , RB VBG DT NNS .</POS>
+		<Lemma>they repeat the same information in every email , never address the problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The seller i bought from could provide zero support and liked to return calls at odd hours somtimes 10:00 pm .</Tokens>
+		<POS>DT NN FW VBN IN MD VB CD NN CC VBD TO VB NNS IN JJ NNS VBZ CD NN .</POS>
+		<Lemma>the seller i buy from could provide zero support and like to return call at odd hour somtime 10:00 pm .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>usless !</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>usless !</Lemma>
+	</Sentence>
+</Document>

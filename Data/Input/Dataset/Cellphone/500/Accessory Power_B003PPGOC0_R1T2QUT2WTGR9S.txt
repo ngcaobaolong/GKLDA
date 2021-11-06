@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I bought my 2011 Altima I was happy to see the stock radio had an aux in port .</Tokens>
+		<POS>WRB PRP VBD PRP$ CD NNP PRP VBD JJ TO VB DT NN NN VBD DT NN IN NN .</POS>
+		<Lemma>when I buy my 2011 Altima I be happy to see the stock radio have a aux in port .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I figured that would hold me until I can come up with some money to put a real stereo in it .</Tokens>
+		<POS>PRP VBD DT MD VB PRP IN PRP MD VB RP IN DT NN TO VB DT JJ NN IN PRP .</POS>
+		<Lemma>I figure that would hold I until I can come up with some money to put a real stereo in it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Unfortunately anything connected to the aux port sounds horrible .</Tokens>
+		<POS>RB NN JJ TO DT NN NN VBZ JJ .</POS>
+		<Lemma>unfortunately anything connected to the aux port sound horrible .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I saw on Nissan forums of others complaining of the same thing .</Tokens>
+		<POS>PRP VBD IN NNP NNS IN NNS VBG IN DT JJ NN .</POS>
+		<Lemma>I see on Nissan forum of other complain of the same thing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My friend had a X2 and let me borrow it and I could n't believe how much better the sound was from my MP3 player going through the radio .</Tokens>
+		<POS>PRP$ NN VBD DT NN CC VB PRP VB PRP CC PRP MD RB VB WRB JJ JJR DT NN VBD IN PRP$ NN NN VBG IN DT NN .</POS>
+		<Lemma>my friend have a x2 and let I borrow it and I could not believe how much better the sound be from my mp3 player go through the radio .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I use a Sony Walkman MP3 player and use a 1\/8 mini cord to connect it to the X2 .</Tokens>
+		<POS>PRP VBP DT NNP NNP NN NN CC VB DT CD NNS NN TO VB PRP TO DT NN .</POS>
+		<Lemma>I use a Sony Walkman mp3 player and use a 1\/8 minus cord to connect it to the x2 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>As a bonus , I connect the the Walkman USB charging cable to the X2 and it charges my Walkman too .</Tokens>
+		<POS>IN DT NN , PRP VBP DT DT NNP JJ VBG NN TO DT NN CC PRP VBZ PRP$ NNP RB .</POS>
+		<Lemma>as a bonus , I connect the the Walkman usb charge cable to the x2 and it charge my Walkman too .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The hardest part was finding an available FM station that is available for my entire commute , but that is not a shortcoming of the X2 .</Tokens>
+		<POS>DT JJS NN VBD VBG DT JJ NN NN WDT VBZ JJ IN PRP$ JJ NN , CC DT VBZ RB DT NN IN DT NN .</POS>
+		<Lemma>the hardest part be find a available fm station that be available for my entire commute , but that be not a shortcoming of the x2 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Very happy not to be stuck listening to the radio .</Tokens>
+		<POS>RB JJ RB TO VB VBN VBG TO DT NN .</POS>
+		<Lemma>very happy not to be stick listen to the radio .</Lemma>
+	</Sentence>
+</Document>

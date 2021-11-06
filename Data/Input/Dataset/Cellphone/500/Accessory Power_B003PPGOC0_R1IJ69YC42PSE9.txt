@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What can I say ?</Tokens>
+		<POS>WDT MD PRP VB .</POS>
+		<Lemma>what can I say ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works like a charm , easy to use and customize .</Tokens>
+		<POS>NNP IN DT NN , JJ TO VB CC VB .</POS>
+		<Lemma>Works like a charm , easy to use and customize .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A must better experience than I imagined and just look at the reviews .</Tokens>
+		<POS>DT MD RB VB IN PRP VBD CC RB VB IN DT NNS .</POS>
+		<Lemma>a must better experience than I imagine and just look at the review .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The other products can not compare .</Tokens>
+		<POS>DT JJ NNS MD RB VB .</POS>
+		<Lemma>the other product can not compare .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I did only have it for maybe 2 weeks so I 'm not sure about the durability , but so far there 's been no complaints .</Tokens>
+		<POS>PRP VBD RB VB PRP IN RB CD NNS IN PRP VBP RB JJ IN DT NN , CC RB RB EX VBZ VBN DT NNS .</POS>
+		<Lemma>I do only have it for maybe 2 week so I be not sure about the durability , but so far there be be no complaint .</Lemma>
+	</Sentence>
+</Document>

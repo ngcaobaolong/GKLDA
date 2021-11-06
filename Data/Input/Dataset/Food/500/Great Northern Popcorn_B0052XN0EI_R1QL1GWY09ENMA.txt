@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought an air popper at walmart for cheap and needed some popcorn kernels .</Tokens>
+		<POS>PRP VBD DT NN NN IN NN IN JJ CC VBD DT NN NNS .</POS>
+		<Lemma>I buy a air popper at walmart for cheap and need some popcorn kernel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I originally brought walmarts 2 or 3 pound bag of popcorn kernels , but I go thought popcorn like water , so I decided to buy a larger bag .</Tokens>
+		<POS>PRP RB VBD NNS CD CC CD NN NN IN NN NNS , CC PRP VBP VBN NN IN NN , IN PRP VBD TO VB DT JJR NN .</POS>
+		<Lemma>I originally bring walmart 2 or 3 pound bag of popcorn kernel , but I go think popcorn like water , so I decide to buy a larger bag .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I get about 95 % popcorn popage with this brand .</Tokens>
+		<POS>PRP VBP IN CD NN NN NN IN DT NN .</POS>
+		<Lemma>I get about 95 % popcorn popage with this brand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>T</Tokens>
+		<POS>NN</POS>
+		<Lemma>t</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I searched for these after watching some Tom Baker Doctor Who streaming on Netflix .</Tokens>
+		<POS>PRP VBD IN DT IN VBG DT NNP NNP NNP WP NN IN NNP .</POS>
+		<Lemma>I search for these after watch some Tom Baker Doctor who streaming on Netflix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When purchasing them please understand that these are made with animal products -LRB- bovine gelatin -RRB- .</Tokens>
+		<POS>WRB VBG PRP VB VB IN DT VBP VBN IN NN NNS -LRB- JJ NN -RRB- .</POS>
+		<Lemma>when purchase they please understand that these be make with animal product -lrb- bovine gelatin -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This does not bother me , but could cause others to go into a tizzy .</Tokens>
+		<POS>DT VBZ RB VB PRP , CC MD VB NNS TO VB IN DT NN .</POS>
+		<Lemma>this do not bother I , but could cause other to go into a tizzy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In regards to texture , think more like a Circus Peanut crossed with a jelly bean .</Tokens>
+		<POS>IN VBZ TO NN , VB JJR IN DT NNP NNP VBD IN DT NN NN .</POS>
+		<Lemma>in regard to texture , think more like a Circus Peanut cross with a jelly bean .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is not a gummi bear , do not expect a smooth texture .</Tokens>
+		<POS>PRP VBZ RB DT NN NN , VBP RB VB DT JJ NN .</POS>
+		<Lemma>it be not a gummus bear , do not expect a smooth texture .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The flavors are good and these are not overly sweet .</Tokens>
+		<POS>DT NNS VBP JJ CC DT VBP RB RB JJ .</POS>
+		<Lemma>the flavor be good and these be not overly sweet .</Lemma>
+	</Sentence>
+</Document>

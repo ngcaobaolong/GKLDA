@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Red lentils -LRB- Masoor Dal in an Indian grocery -RRB- can be hard to find outside of specialty stores , and Bob 's are fresh , clean , and tasty .</Tokens>
+		<POS>NNP NNS -LRB- NNP NNP IN DT JJ NN -RRB- MD VB JJ TO VB JJ IN NN NNS , CC NNP POS VBP JJ , JJ , CC JJ .</POS>
+		<Lemma>Red lentil -lrb- Masoor Dal in a indian grocery -rrb- can be hard to find outside of specialty store , and Bob 's be fresh , clean , and tasty .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They make delicious soups with an earthy flavor and great texture .</Tokens>
+		<POS>PRP VBP JJ NNS IN DT JJ NN CC JJ NN .</POS>
+		<Lemma>they make delicious soup with a earthy flavor and great texture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My favorite recipe is made in the slow cooker with onion , celery , tumeric , coriander , and cumin .</Tokens>
+		<POS>PRP$ JJ NN VBZ VBN IN DT JJ NN IN NN , NN , JJ , NN , CC NN .</POS>
+		<Lemma>my favorite recipe be make in the slow cooker with onion , celery , tumeric , coriander , and cumin .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is so simple and easy but I ca n't stop eating it !</Tokens>
+		<POS>PRP VBZ RB JJ CC JJ CC PRP MD RB VB VBG PRP .</POS>
+		<Lemma>it be so simple and easy but I can not stop eat it !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They are also good cooked with rice as is common in the Middle East and India .</Tokens>
+		<POS>PRP VBP RB JJ VBN IN NN IN VBZ JJ IN DT NNP NNP CC NNP .</POS>
+		<Lemma>they be also good cook with rice as be common in the Middle East and India .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Some people seem confused about the desired consistency of red lentils .</Tokens>
+		<POS>DT NNS VBP VBN IN DT VBN NN IN JJ NNS .</POS>
+		<Lemma>some people seem confuse about the desire consistency of red lentil .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Unlike the brown or green lentils that most of us are used to , red lentils have had their husks removed .</Tokens>
+		<POS>IN DT JJ CC JJ NNS IN JJS IN PRP VBP VBN TO , JJ NNS VBP VBN PRP$ NNS VBN .</POS>
+		<Lemma>unlike the brown or green lentil that most of we be use to , red lentil have have they husk remove .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is why they cook so quickly .</Tokens>
+		<POS>DT VBZ WRB PRP VBP RB RB .</POS>
+		<Lemma>this be why they cook so quickly .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This also means that THEY WILL NATURALLY DISINTIGRATE INTO A PUREE .</Tokens>
+		<POS>DT RB VBZ IN NNP MD RB VB IN DT NN .</POS>
+		<Lemma>this also mean that THEY will naturally disintigrate into a puree .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you do n't like this `` mushy '' texture , then you should probably stick to lentils that still have their seed coats .</Tokens>
+		<POS>IN PRP VBP RB VB DT `` JJ '' NN , RB PRP MD RB VB TO NNS WDT RB VBP PRP$ NN NNS .</POS>
+		<Lemma>if you do not like this `` mushy '' texture , then you should probably stick to lentil that still have they seed coat .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>All lentils are a great health food with lots of vitamins and fiber and huge amounts of iron and protein , making them especially important for vegetarians .</Tokens>
+		<POS>DT NNS VBP DT JJ NN NN IN NNS IN NNS CC NN CC JJ NNS IN NN CC NN , VBG PRP RB JJ IN NNS .</POS>
+		<Lemma>all lentil be a great health food with lot of vitamin and fiber and huge amount of iron and protein , make they especially important for vegetarian .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I would give Bob 's 5 stars if they were organic .</Tokens>
+		<POS>PRP MD VB NNP POS CD NNS IN PRP VBD JJ .</POS>
+		<Lemma>I would give Bob 's 5 star if they be organic .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I 'm also a little puzzled about 27 oz being chosen as a unit size .</Tokens>
+		<POS>PRP VBP RB DT JJ VBD IN CD NN VBG VBN IN DT NN NN .</POS>
+		<Lemma>I be also a little puzzle about 27 oz be choose as a unit size .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>But you ca n't argue with super saver shipping !</Tokens>
+		<POS>CC PRP MD RB VB IN JJ NN NN .</POS>
+		<Lemma>but you can not argue with super saver shipping !</Lemma>
+	</Sentence>
+</Document>

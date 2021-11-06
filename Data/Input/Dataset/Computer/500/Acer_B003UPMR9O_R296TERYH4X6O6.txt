@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had to return cuz It was too big .</Tokens>
+		<POS>PRP VBD TO VB NN PRP VBD RB JJ .</POS>
+		<Lemma>I have to return cuz it be too big .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I never thought I would say that but yes it was too big .</Tokens>
+		<POS>PRP RB VBD PRP MD VB IN CC UH PRP VBD RB JJ .</POS>
+		<Lemma>I never think I would say that but yes it be too big .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But awesome monitor and quality .</Tokens>
+		<POS>CC JJ NN CC NN .</POS>
+		<Lemma>but awesome monitor and quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So if u are looking for something BIG go for it , u will have the right product .</Tokens>
+		<POS>RB IN NN VBP VBG IN NN NNP VB IN PRP , FW MD VB DT JJ NN .</POS>
+		<Lemma>so if u be look for something BIG go for it , u will have the right product .</Lemma>
+	</Sentence>
+</Document>

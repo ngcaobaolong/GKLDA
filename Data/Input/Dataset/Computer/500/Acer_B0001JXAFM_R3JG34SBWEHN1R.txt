@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Overall , I like the system features and performance .</Tokens>
+		<POS>RB , PRP VBP DT NN VBZ CC NN .</POS>
+		<Lemma>overall , I like the system feature and performance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love that it is a tablet - it is so much more convenient than a regular laptop .</Tokens>
+		<POS>PRP VBP IN PRP VBZ DT NN : PRP VBZ RB RB RBR JJ IN DT JJ NN .</POS>
+		<Lemma>I love that it be a tablet - it be so much more convenient than a regular laptop .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There is one very annoying problem with this model though : the keyboard is `` sticky '' - meaning , despite this tablet is brand new and just arrived , when I press and release a key on the keyboard it acts as if I kept it pressed , continuing to type the same character again and again .</Tokens>
+		<POS>EX VBZ CD RB JJ NN IN DT NN IN : DT NN VBZ `` JJ '' : NN , IN DT NN VBZ NN JJ CC RB VBN , WRB PRP VBP CC VBP DT NN IN DT NN PRP VBZ IN IN PRP VBD PRP VBD , VBG TO NN DT JJ NN RB CC RB .</POS>
+		<Lemma>there be one very annoying problem with this model though : the keyboard be `` sticky '' - meaning , despite this tablet be brand new and just arrive , when I press and release a key on the keyboard it act as if I keep it press , continue to type the same character again and again .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Sometimes , when I compose an email and press the `` DEL '' key to delete a character - ooops !</Tokens>
+		<POS>RB , WRB PRP VBP DT NN CC NN DT `` NN '' NN TO VB DT NN : NNS .</POS>
+		<Lemma>sometimes , when I compose a email and press the `` del '' key to delete a character - ooop !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>- it deletes half of the email .</Tokens>
+		<POS>: PRP VBZ NN IN DT NN .</POS>
+		<Lemma>- it delete half of the email .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Unfortunately , this problem happens way too often , a few times per day .</Tokens>
+		<POS>RB , DT NN VBZ NN RB RB , DT JJ NNS IN NN .</POS>
+		<Lemma>unfortunately , this problem happen way too often , a few time per day .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I did not expect this behavior from a new computer .</Tokens>
+		<POS>PRP VBD RB VB DT NN IN DT JJ NN .</POS>
+		<Lemma>I do not expect this behavior from a new computer .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera in October and have used it multiple times on the two cruises that we have taken .</Tokens>
+		<POS>PRP VBD DT NN IN NNP CC VBP VBN PRP JJ NNS IN DT CD NNS IN PRP VBP VBN .</POS>
+		<Lemma>I buy this camera in October and have use it multiple time on the two cruise that we have take .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wanted a camera that was waterproof to take with me snorkeling or tubing .</Tokens>
+		<POS>PRP VBD DT NN WDT VBD JJ TO VB IN PRP VBG CC NN .</POS>
+		<Lemma>I want a camera that be waterproof to take with I snorkele or tubing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My snorkeling pictures turned out great .</Tokens>
+		<POS>PRP$ JJ NNS VBD RP JJ .</POS>
+		<Lemma>my snorkeling picture turn out great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Considering the currents were up and the water was n't as clear as normal , the pictures are clear and you can see some of the detail in the coral .</Tokens>
+		<POS>VBG DT NNS VBD RB CC DT NN VBD RB IN JJ IN JJ , DT NNS VBP JJ CC PRP MD VB DT IN DT NN IN DT NN .</POS>
+		<Lemma>consider the current be up and the water be not as clear as normal , the picture be clear and you can see some of the detail in the coral .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We took the camera out into the water at various beaches and the pictures were clear .</Tokens>
+		<POS>PRP VBD DT NN RP IN DT NN IN JJ NNS CC DT NNS VBD JJ .</POS>
+		<Lemma>we take the camera out into the water at various beach and the picture be clear .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The edges of some of the items were a little sharp , but other than that I really have had no real complaints .</Tokens>
+		<POS>DT NNS IN DT IN DT NNS VBD DT JJ JJ , CC JJ IN IN PRP RB VBP VBN DT JJ NNS .</POS>
+		<Lemma>the edge of some of the item be a little sharp , but other than that I really have have no real complaint .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>We took pictures during cave tubing using the flash and I was shocked at how good some of the pictures were .</Tokens>
+		<POS>PRP VBD NNS IN NN NN VBG DT NN CC PRP VBD VBN IN WRB JJ DT IN DT NNS VBD .</POS>
+		<Lemma>we take picture during cave tubing use the flash and I be shock at how good some of the picture be .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The camera got soaked in mud while doing an offroad xtrails adventure , and still took great pictures .</Tokens>
+		<POS>DT NN VBD VBN IN NN IN VBG DT JJ NNS NN , CC RB VBD JJ NNS .</POS>
+		<Lemma>the camera get soak in mud while do a offroad xtrail adventure , and still take great picture .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My only real complaint is the screen .</Tokens>
+		<POS>PRP$ JJ JJ NN VBZ DT NN .</POS>
+		<Lemma>my only real complaint be the screen .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>You ca n't tell what you are taking pictures of half of the time .</Tokens>
+		<POS>PRP MD RB VB WP PRP VBP VBG NNS IN NN IN DT NN .</POS>
+		<Lemma>you can not tell what you be take picture of half of the time .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>In sunlight or underwater , it is hard to see the screen .</Tokens>
+		<POS>IN NN CC JJ , PRP VBZ JJ TO VB DT NN .</POS>
+		<Lemma>in sunlight or underwater , it be hard to see the screen .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The camera is not the best point and shoot I own .</Tokens>
+		<POS>DT NN VBZ RB DT JJS NN CC NN PRP VBP .</POS>
+		<Lemma>the camera be not the best point and shoot I own .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I would definitely use my DSLR or one of my other point and shoots for normal picture taking , but it really exceeded my expectations for an underwater camera .</Tokens>
+		<POS>PRP MD RB VB PRP$ NN CC CD IN PRP$ JJ NN CC VBZ IN JJ NN VBG , CC PRP RB VBD PRP$ NNS IN DT JJ NN .</POS>
+		<Lemma>I would definitely use my dslr or one of my other point and shoot for normal picture take , but it really exceed my expectation for a underwater camera .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The camera was an awesome deal !</Tokens>
+		<POS>DT NN VBD DT JJ NN .</POS>
+		<Lemma>the camera be a awesome deal !</Lemma>
+	</Sentence>
+</Document>

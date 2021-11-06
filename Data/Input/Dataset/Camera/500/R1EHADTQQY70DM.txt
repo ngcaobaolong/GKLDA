@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very picky about my point and shoot cameras .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP$ NN CC VB NNS .</POS>
+		<Lemma>I be very picky about my point and shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They have to be easy to use and have a long battery life .</Tokens>
+		<POS>PRP VBP TO VB JJ TO VB CC VB DT JJ NN NN .</POS>
+		<Lemma>they have to be easy to use and have a long battery life .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This camera is AMAZING .</Tokens>
+		<POS>DT NN VBZ NNP .</POS>
+		<Lemma>this camera be AMAZING .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The pictures come out beautiful .</Tokens>
+		<POS>DT NNS VBP RP JJ .</POS>
+		<Lemma>the picture come out beautiful .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The buttons are easy to figure out and there are two separate buttons for snapping pictures or taking video .</Tokens>
+		<POS>DT NNS VBP JJ TO VB RP CC EX VBP CD JJ NNS IN VBG NNS CC VBG NN .</POS>
+		<Lemma>the button be easy to figure out and there be two separate button for snap picture or take video .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No more messing around trying to figure out what setting to use for a video and having to go back and change it to take a picture .</Tokens>
+		<POS>DT RBR VBG IN VBG TO VB RP WP VBG TO VB IN DT NN CC VBG TO VB RB CC VB PRP TO VB DT NN .</POS>
+		<Lemma>no more mess around try to figure out what set to use for a video and have to go back and change it to take a picture .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The camera is small too so it does n't take up alot of room in a purse and easily fits in a pocket .</Tokens>
+		<POS>DT NN VBZ JJ RB RB PRP VBZ RB VB RP NNS IN NN IN DT NN CC RB VBZ IN DT NN .</POS>
+		<Lemma>the camera be small too so it do not take up alot of room in a purse and easily fit in a pocket .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I love this camera !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this camera !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Oh , the panorama shots are so easy to do and come out very impressive !</Tokens>
+		<POS>UH , DT NN NNS VBP RB JJ TO VB CC VB RP RB JJ .</POS>
+		<Lemma>oh , the panorama shot be so easy to do and come out very impressive !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I bought it at Sam 's Club for $ 108 and it came with the case , a 4G SD card , strap and charger .</Tokens>
+		<POS>PRP VBD PRP IN NNP POS NNP IN $ CD CC PRP VBD IN DT NN , DT NN NN NN , NN CC NN .</POS>
+		<Lemma>I buy it at Sam 's Club for $ 108 and it come with the case , a 4g sd card , strap and charger .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Great deal .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great deal .</Lemma>
+	</Sentence>
+</Document>

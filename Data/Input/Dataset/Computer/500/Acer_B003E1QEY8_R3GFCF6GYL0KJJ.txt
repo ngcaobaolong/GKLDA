@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really like this Monitor .</Tokens>
+		<POS>PRP RB IN DT NNP .</POS>
+		<Lemma>I really like this Monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was very easy to install and it works just perfectly .</Tokens>
+		<POS>PRP VBD RB JJ TO VB CC PRP VBZ RB RB .</POS>
+		<Lemma>it be very easy to install and it work just perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I like the size of it and I love the stand .</Tokens>
+		<POS>PRP VBP DT NN IN PRP CC PRP VBP DT NN .</POS>
+		<Lemma>I like the size of it and I love the stand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have an Acer computer so I wanted an Acer Monitor because I found that the products from the same company seem to do much better then another product from another company .</Tokens>
+		<POS>PRP VBP DT NNP NN IN PRP VBD DT NNP NNP IN PRP VBD IN DT NNS IN DT JJ NN VBP TO VB RB JJR RB DT NN IN DT NN .</POS>
+		<Lemma>I have a Acer computer so I want a Acer Monitor because I find that the product from the same company seem to do much better then another product from another company .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The picture is bright and clear and the sound quality is great .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ CC DT JJ NN VBZ JJ .</POS>
+		<Lemma>the picture be bright and clear and the sound quality be great .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I recommend this product highly .</Tokens>
+		<POS>PRP VBP DT NN RB .</POS>
+		<Lemma>I recommend this product highly .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The price was excellent and it was packaged very well .</Tokens>
+		<POS>DT NN VBD JJ CC PRP VBD VBN RB RB .</POS>
+		<Lemma>the price be excellent and it be package very well .</Lemma>
+	</Sentence>
+</Document>

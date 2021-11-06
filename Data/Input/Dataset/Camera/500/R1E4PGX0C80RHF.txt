@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera is light weight , and you would think because its so tiny the quality would fall short ... wrong !</Tokens>
+		<POS>DT NN VBZ JJ NN , CC PRP MD VB IN PRP$ RB JJ DT NN MD VB JJ : JJ .</POS>
+		<Lemma>the camera be light weight , and you would think because its so tiny the quality would fall short ... wrong !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The picture quality is AMAZING !!!</Tokens>
+		<POS>DT NN NN VBZ NNP CD</POS>
+		<Lemma>the picture quality be AMAZING !!!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Comes with a built in memory so you dont necessarily have to get the extra memory card , although I would get them anyways .</Tokens>
+		<POS>VBZ IN DT VBN IN NN IN PRP VBP RB VB TO VB DT JJ NN NN , IN PRP MD VB PRP RB .</POS>
+		<Lemma>come with a build in memory so you dont necessarily have to get the extra memory card , although I would get they anyways .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The 2 memory slots are awesome .</Tokens>
+		<POS>DT CD NN NNS VBP JJ .</POS>
+		<Lemma>the 2 memory slot be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Oh you can connect directly to HDMI supported monitor , excellent for video production .</Tokens>
+		<POS>UH PRP MD VB RB TO NN VBD NN , JJ IN NN NN .</POS>
+		<Lemma>oh you can connect directly to hdmus support monitor , excellent for video production .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My previous camera was the Canon XL1 HD , this is by far way better ... i know crazy right .</Tokens>
+		<POS>PRP$ JJ NN VBD DT NNP NN NN , DT VBZ IN RB RB JJR : FW VBP JJ NN .</POS>
+		<Lemma>my previous camera be the Canon xl1 hd , this be by far way better ... i know crazy right .</Lemma>
+	</Sentence>
+</Document>

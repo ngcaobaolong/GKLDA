@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Crisp display , fast turn on result .</Tokens>
+		<POS>NNP NN , JJ NN IN NN .</POS>
+		<Lemma>Crisp display , fast turn on result .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very low energy consumption is another big plus .</Tokens>
+		<POS>RB JJ NN NN VBZ DT JJ NN .</POS>
+		<Lemma>very low energy consumption be another big plus .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I found no bleed through of light around edges of screen casing as some other reviewers noted .</Tokens>
+		<POS>PRP VBD DT VB IN IN JJ IN NNS IN NN NN IN DT JJ NNS VBD .</POS>
+		<Lemma>I find no bleed through of light around edge of screen casing as some other reviewer note .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Overall a nice product , no negative aspects noted .</Tokens>
+		<POS>RB DT JJ NN , DT JJ NNS VBD .</POS>
+		<Lemma>overall a nice product , no negative aspect note .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I heard about this through a friend of work who swore by it .</Tokens>
+		<POS>PRP VBD IN DT IN DT NN IN NN WP VBD IN PRP .</POS>
+		<Lemma>I hear about this through a friend of work who swear by it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had tried other FM transmitters and none of them was remotely useable in the LA area .</Tokens>
+		<POS>PRP VBD VBN JJ NNP NNS CC NN IN PRP VBD RB JJ IN DT NNP NN .</POS>
+		<Lemma>I have try other FM transmitter and none of they be remotely useable in the LA area .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This one works pretty well -LRB- there is some static , but not to the point of distraction -RRB- and it links to my iphone via bluetooth quite solidly .</Tokens>
+		<POS>DT CD VBZ RB RB -LRB- EX VBZ DT JJ , CC RB TO DT NN IN NN -RRB- CC PRP VBZ TO PRP$ NN IN NN RB RB .</POS>
+		<Lemma>this one work pretty well -lrb- there be some static , but not to the point of distraction -rrb- and it link to my iphone via bluetooth quite solidly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For those of you who have aux inputs to your car steroe you can forgoe the FM conversion and associated noise .</Tokens>
+		<POS>IN DT IN PRP WP VBP FW NNS TO PRP$ NN VB PRP MD VB DT NNP NN CC VBN NN .</POS>
+		<Lemma>for those of you who have aux input to you car steroe you can forgoe the FM conversion and associate noise .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This does a reasonable job for a fraction of the cost of replacing the existing car stereo .</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT NN IN DT NN IN VBG DT VBG NN NN .</POS>
+		<Lemma>this do a reasonable job for a fraction of the cost of replace the exist car stereo .</Lemma>
+	</Sentence>
+</Document>

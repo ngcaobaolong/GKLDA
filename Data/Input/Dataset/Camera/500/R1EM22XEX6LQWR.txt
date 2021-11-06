@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Hey guys and gal , Wow !</Tokens>
+		<POS>UH NNS CC NN , UH .</POS>
+		<Lemma>hey guy and gal , wow !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What an amazing little number we have here .</Tokens>
+		<POS>WDT DT JJ JJ NN PRP VBP RB .</POS>
+		<Lemma>what a amazing little number we have here .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not only stylish , it really packs a photographic punch .</Tokens>
+		<POS>RB RB JJ , PRP RB VBZ DT JJ NN .</POS>
+		<Lemma>not only stylish , it really pack a photographic punch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The feel of the body is just sexy .</Tokens>
+		<POS>DT NN IN DT NN VBZ RB JJ .</POS>
+		<Lemma>the feel of the body be just sexy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Fujinon 23mm lens quality is right up there with my Zeiss primes .</Tokens>
+		<POS>DT NNP CD NN NN VBZ RB RB RB IN PRP$ NNP VBZ .</POS>
+		<Lemma>the Fujinon 23mm lens quality be right up there with my Zeiss prime .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>RAW quality is superb but the jpeg is not half bad either .</Tokens>
+		<POS>NN NN VBZ JJ CC DT NN VBZ RB JJ JJ CC .</POS>
+		<Lemma>raw quality be superb but the jpeg be not half bad either .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The color is just amazing and I really mean amazing .</Tokens>
+		<POS>DT NN VBZ RB JJ CC PRP RB VB JJ .</POS>
+		<Lemma>the color be just amazing and I really mean amazing .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Bokeh is buttery .</Tokens>
+		<POS>NNP VBZ JJ .</POS>
+		<Lemma>Bokeh be buttery .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I must say that the best thing I like about this camera is ISO performance .</Tokens>
+		<POS>PRP MD VB IN DT JJS NN PRP VBP IN DT NN VBZ NN NN .</POS>
+		<Lemma>I must say that the best thing I like about this camera be iso performance .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I can shoot up into 1600 with no light and its clear of noise .</Tokens>
+		<POS>PRP MD VB RP IN CD IN DT NN CC PRP$ JJ IN NN .</POS>
+		<Lemma>I can shoot up into 1600 with no light and its clear of noise .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Like I said , amazing little number we have here .</Tokens>
+		<POS>IN PRP VBD , JJ JJ NN PRP VBP RB .</POS>
+		<Lemma>like I say , amazing little number we have here .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>My `` but '' concerns the fact that I just found 3 large pieces of dust in OVF .</Tokens>
+		<POS>PRP$ `` CC '' VBZ DT NN IN PRP RB VBD CD JJ NNS IN NN IN NNP .</POS>
+		<Lemma>my `` but '' concern the fact that I just find 3 large piece of dust in OVF .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>One is actually causing some problems for me when I look into the viewfinder .</Tokens>
+		<POS>CD VBZ RB VBG DT NNS IN PRP WRB PRP VBP IN DT NN .</POS>
+		<Lemma>one be actually cause some problem for I when I look into the viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It was not there when I bought the camera so that must mean we have a bad seal somewhere .</Tokens>
+		<POS>PRP VBD RB RB WRB PRP VBD DT NN IN IN MD VB PRP VBP DT JJ NN RB .</POS>
+		<Lemma>it be not there when I buy the camera so that must mean we have a bad seal somewhere .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Yes the write speed is a little slower but I just shot a wedding and did n't skip a beat .</Tokens>
+		<POS>RB DT VB NN VBZ DT JJ JJR CC PRP RB VBD DT NN CC VBD RB VB DT NN .</POS>
+		<Lemma>yes the write speed be a little slower but I just shoot a wedding and do not skip a beat .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Guess I have to make the decision to send it back to Amazon for a refund or back to Fuji for repair .</Tokens>
+		<POS>NN PRP VBP TO VB DT NN TO VB PRP RB TO NNP IN DT NN CC RB TO NNP IN NN .</POS>
+		<Lemma>guess I have to make the decision to send it back to Amazon for a refund or back to Fuji for repair .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I must say that there is a learning curve to this camera but man is it rewarding when you get it .</Tokens>
+		<POS>PRP MD VB IN EX VBZ DT NN NN TO DT NN CC NN VBZ PRP JJ WRB PRP VBP PRP .</POS>
+		<Lemma>I must say that there be a learning curve to this camera but man be it rewarding when you get it .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>You should really read the booklet to discover the perks and limitations .</Tokens>
+		<POS>PRP MD RB VB DT NN TO VB DT NNS CC NNS .</POS>
+		<Lemma>you should really read the booklet to discover the perk and limitation .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The feel is very different than shooting away with my DSLR .</Tokens>
+		<POS>DT NN VBZ RB JJ IN VBG RB IN PRP$ NN .</POS>
+		<Lemma>the feel be very different than shoot away with my dslr .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>What I am finding is that I am now settling down into my shots and finding the perspective that best reflects the mood and situation of the photo .</Tokens>
+		<POS>WP PRP VBP NN VBZ IN PRP VBP RB VBG RP IN PRP$ NNS CC VBG DT NN WDT JJS VBZ DT NN CC NN IN DT NN .</POS>
+		<Lemma>what I be finding be that I be now settle down into my shot and find the perspective that best reflect the mood and situation of the photo .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The fact that you are almost anonymous just makes the mood of the picture really flow .</Tokens>
+		<POS>DT NN IN PRP VBP RB JJ RB VBZ DT NN IN DT NN RB NN .</POS>
+		<Lemma>the fact that you be almost anonymous just make the mood of the picture really flow .</Lemma>
+	</Sentence>
+</Document>

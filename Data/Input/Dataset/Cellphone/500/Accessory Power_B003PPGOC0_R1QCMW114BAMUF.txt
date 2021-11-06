@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this because of the option for bluetooth and that it can charge your phone as well .</Tokens>
+		<POS>PRP VBD DT IN IN DT NN IN NN CC IN PRP MD VB PRP$ NN RB RB .</POS>
+		<Lemma>I buy this because of the option for bluetooth and that it can charge you phone as well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The charging option worked great , in fact I think it charged it really well .</Tokens>
+		<POS>DT VBG NN VBD JJ , IN NN PRP VBP PRP VBD PRP RB RB .</POS>
+		<Lemma>the charge option work great , in fact I think it charge it really well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The fm transmitter function , not as great .</Tokens>
+		<POS>DT NN NN NN , RB IN JJ .</POS>
+		<Lemma>the fm transmitter function , not as great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It will automatically take you to a channel that it can transmit on , but it kept bringing me to channels that I could n't get on the radio .</Tokens>
+		<POS>PRP MD RB VB PRP TO DT NN IN PRP MD VB IN , CC PRP VBD VBG PRP TO NNS IN PRP MD RB VB IN DT NN .</POS>
+		<Lemma>it will automatically take you to a channel that it can transmit on , but it keep bring I to channel that I could not get on the radio .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For instance , it would take me to 107.3 , but I could only get 107.2 and 107.4 on my radio .</Tokens>
+		<POS>IN NN , PRP MD VB PRP TO CD , CC PRP MD RB VB CD CC CD IN PRP$ NN .</POS>
+		<Lemma>for instance , it would take I to 107.3 , but I could only get 107.2 and 107.4 on my radio .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So I would manually change it on my GOgroove , but I could barely hear my Pandora when I tried that .</Tokens>
+		<POS>IN PRP MD RB VB PRP IN PRP$ NN , CC PRP MD RB VB PRP$ NNP WRB PRP VBD IN .</POS>
+		<Lemma>so I would manually change it on my gogroove , but I could barely hear my Pandora when I try that .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I went out of town , on the way there I had to constantly change the transmission , but on the way back I never had to change it .</Tokens>
+		<POS>WRB PRP VBD IN IN NN , IN DT NN RB PRP VBD TO RB VB DT NN , CC IN DT NN RB PRP RB VBD TO VB PRP .</POS>
+		<Lemma>when I go out of town , on the way there I have to constantly change the transmission , but on the way back I never have to change it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Another thing that bothered me was that if it was on but my pandora was n't playing , then I could hear static through the speakers .</Tokens>
+		<POS>DT NN WDT VBD PRP VBD IN IN PRP VBD IN CC PRP$ NN VBD RB VBG , RB PRP MD VB JJ IN DT NNS .</POS>
+		<Lemma>another thing that bother I be that if it be on but my pandora be not play , then I could hear static through the speaker .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Also sometimes the receptions was n't very good .</Tokens>
+		<POS>RB RB DT NNS VBD RB RB JJ .</POS>
+		<Lemma>also sometimes the reception be not very good .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I was very disappointed because of all the great reviews .</Tokens>
+		<POS>PRP VBD RB JJ IN IN PDT DT JJ NNS .</POS>
+		<Lemma>I be very disappointed because of all the great review .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Bottom line : about 20 % of the time it worked perfectly .</Tokens>
+		<POS>NN NN : IN CD NN IN DT NN PRP VBD RB .</POS>
+		<Lemma>bottom line : about 20 % of the time it work perfectly .</Lemma>
+	</Sentence>
+</Document>

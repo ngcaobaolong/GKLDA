@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have bought one of these and I 'm very disappointed , the quality of the manufacturer packaging and cables is very poor , but the worst came when power on and find dead pixels -LRB- that makes me doubt about A Grade LCD screens -RRB- , I have no time to return or RMA this thing , but surely I would never buy again an Acer monitor , this never happened to me with Samsung , Viewsonic or even the cheap AOC LCD monitors , I learned the lesson and you was warned .</Tokens>
+		<POS>PRP VBP VBN CD IN DT CC PRP VBP RB JJ , DT NN IN DT NN NN CC NNS VBZ RB JJ , CC DT JJS VBD WRB NN IN CC VB JJ NNS -LRB- WDT VBZ PRP VB IN DT NNP NNS NNS -RRB- , PRP VBP DT NN TO VB CC VB DT NN , CC RB PRP MD RB VB RB DT NNP NN , DT RB VBN TO PRP IN NNP , NNP CC RB DT JJ NNP NNS NNS , PRP VBD DT NN CC PRP VBD VBN .</POS>
+		<Lemma>I have buy one of these and I be very disappointed , the quality of the manufacturer packaging and cable be very poor , but the worst come when power on and find dead pixel -lrb- that make I doubt about a Grade lcd screen -rrb- , I have no time to return or rma this thing , but surely I would never buy again a Acer monitor , this never happen to I with Samsung , Viewsonic or even the cheap AOC lcd monitor , I learn the lesson and you be warn .</Lemma>
+	</Sentence>
+</Document>

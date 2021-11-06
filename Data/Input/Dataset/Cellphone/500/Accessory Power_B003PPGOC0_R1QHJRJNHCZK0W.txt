@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Every other FM transmitter I 've had produces a lot of static noise and is not really useable at all .</Tokens>
+		<POS>DT JJ NNP NN PRP VBP VBD VBZ DT NN IN JJ NN CC VBZ RB RB JJ IN DT .</POS>
+		<Lemma>every other FM transmitter I have have produce a lot of static noise and be not really useable at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one works perfectly clear .</Tokens>
+		<POS>DT CD VBZ RB JJ .</POS>
+		<Lemma>this one work perfectly clear .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The ability to charge and connect via bluetooth is awesome as well .</Tokens>
+		<POS>DT NN TO VB CC VB IN NN VBZ JJ RB RB .</POS>
+		<Lemma>the ability to charge and connect via bluetooth be awesome as well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I highly recommend this to anyone looking to play music but does n't have an AUX or tape deck .</Tokens>
+		<POS>PRP RB VB DT TO NN VBG TO VB NN CC VBZ RB VB DT NNP CC NN NN .</POS>
+		<Lemma>I highly recommend this to anyone look to play music but do not have a AUX or tape deck .</Lemma>
+	</Sentence>
+</Document>

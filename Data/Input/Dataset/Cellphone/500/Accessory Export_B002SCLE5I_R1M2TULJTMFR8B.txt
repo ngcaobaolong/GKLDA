@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered this item because I have poor signal for my Sprint phone -LRB- HTC Evo -RRB- in my apartment .</Tokens>
+		<POS>PRP VBD DT NN IN PRP VBP JJ NN IN PRP$ NNP NN -LRB- NNP NNP -RRB- IN PRP$ NN .</POS>
+		<Lemma>I order this item because I have poor signal for my Sprint phone -lrb- HTC Evo -rrb- in my apartment .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>At best I had 2 tiny bars .</Tokens>
+		<POS>IN JJS PRP VBD CD JJ NNS .</POS>
+		<Lemma>at best I have 2 tiny bar .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After I installed this item it boosted up to 4 and sometimes 5 bars .</Tokens>
+		<POS>IN PRP VBD DT NN PRP VBD RP TO CD CC RB CD NNS .</POS>
+		<Lemma>after I install this item it boost up to 4 and sometimes 5 bar .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This item has worked better than I expected since I paid less than 3 bucks for it .</Tokens>
+		<POS>DT NN VBZ VBN JJR IN PRP VBD IN PRP VBD JJR IN CD NNS IN PRP .</POS>
+		<Lemma>this item have work better than I expect since I pay less than 3 buck for it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am extremely satisfied with this and would recommend it to anyone with signal issues .</Tokens>
+		<POS>PRP VBP RB VBN IN DT CC MD VB PRP TO NN IN NN NNS .</POS>
+		<Lemma>I be extremely satisfy with this and would recommend it to anyone with signal issue .</Lemma>
+	</Sentence>
+</Document>

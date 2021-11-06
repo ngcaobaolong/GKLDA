@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I made my soup with four cups of low sodium chicken broth , one cup of the mix , some chopped onion and carrots , and a sprinkle of salt-free garlic-herb seasoning .</Tokens>
+		<POS>PRP VBD PRP$ NN IN CD NNS IN JJ NN NN NN , CD NN IN DT NN , DT VBN NN CC NNS , CC DT VBP IN JJ NN NN .</POS>
+		<Lemma>I make my soup with four cup of low sodium chicken broth , one cup of the mix , some chop onion and carrot , and a sprinkle of salt-free garlic-herb seasoning .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was delicious , and VERY filling - a meal all by itself !</Tokens>
+		<POS>PRP VBD JJ , CC RB VBG : DT NN DT IN PRP .</POS>
+		<Lemma>it be delicious , and very fill - a meal all by itself !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Next time I make it I wo n't add anything extra , just to see how it tastes that way .</Tokens>
+		<POS>JJ NN PRP VBP PRP PRP MD RB VB NN JJ , RB TO VB WRB PRP VBZ DT NN .</POS>
+		<Lemma>next time I make it I will not add anything extra , just to see how it taste that way .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>\* As it was , I kept adding water and ate on one pot of soup for four days ... -LRB- `` Pease porrige hot , Pease porrige cold ... '' -RRB- Another reviewer mentioned that the soup was very thick when mixed four to one as recommended , and that is very true .</Tokens>
+		<POS>SYM IN PRP VBD , PRP VBD VBG NN CC VBD IN CD NN IN NN IN CD NNS : -LRB- `` NN NN JJ , JJ NN NN : '' -RRB- DT NN VBD IN DT NN VBD RB JJ WRB JJ CD TO CD IN VBN , CC DT VBZ RB JJ .</POS>
+		<Lemma>\* as it be , I keep add water and eat on one pot of soup for four day ... -lrb- `` pea porrige hot , pease porrige cold ... '' -rrb- another reviewer mention that the soup be very thick when mixed four to one as recommend , and that be very true .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It could be eight to one and still make a nice soup ... I highly recommend it however you cook it !</Tokens>
+		<POS>PRP MD VB CD TO CD CC RB VB DT JJ NN : PRP RB VB PRP RB PRP VBP PRP .</POS>
+		<Lemma>it could be eight to one and still make a nice soup ... I highly recommend it however you cook it !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>\* I returned to lower the rating from five stars to three .</Tokens>
+		<POS>SYM PRP VBD TO VB DT NN IN CD NNS TO CD .</POS>
+		<Lemma>\* I return to lower the rating from five star to three .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I tried making the soup with just water and chopped onions , carrots and celery -LRB- no spices or broth -RRB- , there was no rich flavor whatsoever .</Tokens>
+		<POS>WRB PRP VBD VBG DT NN IN RB NN CC VBN NNS , NNS CC NN -LRB- DT NNS CC NN -RRB- , EX VBD DT JJ NN RB .</POS>
+		<Lemma>when I try make the soup with just water and chop onion , carrot and celery -lrb- no spice or broth -rrb- , there be no rich flavor whatsoever .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This mix does have a wholesome mix of beans , peas and lentils , but it does not contain any spices or flavorings to make it a true soup mix .</Tokens>
+		<POS>DT NN VBZ VB DT JJ NN IN NNS , NNS CC NNS , CC PRP VBZ RB VB DT NNS CC NNS TO VB PRP DT JJ NN NN .</POS>
+		<Lemma>this mix do have a wholesome mix of bean , pea and lentil , but it do not contain any spice or flavoring to make it a true soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It should be called `` Bob 's Red Mill Veggie Mix to Add to Your Own Soup . ''</Tokens>
+		<POS>PRP MD VB VBN `` NNP POS NNP NNP NNP NNP TO VB TO PRP$ NNP NNP . ''</POS>
+		<Lemma>it should be call `` Bob 's Red Mill Veggie Mix to add to you Own Soup . ''</Lemma>
+	</Sentence>
+</Document>

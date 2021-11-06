@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I spent several months researching bridge cameras , I decided to give the HS20EXR a shot being aware of the need to update the firmware and sub-par video capabilities .</Tokens>
+		<POS>PRP VBD JJ NNS VBG NN NNS , PRP VBD TO VB DT NN DT NN VBG JJ IN DT NN TO VB DT NN CC JJ NN NNS .</POS>
+		<Lemma>I spend several month research bridge camera , I decide to give the hs20exr a shot be aware of the need to update the firmware and sub-par video capability .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Before taking even one picture I updated the firmware -LRB- which took all of 5 minutes -RRB- and have not received one error message and lets face it , while video shooting is nice , a digital camera 's prime feature is taking pictures , not videos .</Tokens>
+		<POS>IN VBG RB CD NN PRP VBD DT NN -LRB- WDT VBD DT IN CD NNS -RRB- CC VBP RB VBN CD NN NN CC VBZ NN PRP , IN NN NN VBZ JJ , DT JJ NN POS JJ NN VBZ VBG NNS , RB NNS .</POS>
+		<Lemma>before take even one picture I update the firmware -lrb- which take all of 5 minute -rrb- and have not receive one error message and let face it , while video shooting be nice , a digital camera 's prime feature be take picture , not video .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wanted to wait a couple of days with playing with the camera in various settings and with various features before I wrote this review to be as honest as possible .</Tokens>
+		<POS>PRP VBD TO VB DT NN IN NNS IN VBG IN DT NN IN JJ NNS CC IN JJ NNS IN PRP VBD DT NN TO VB IN JJ IN JJ .</POS>
+		<Lemma>I want to wait a couple of day with play with the camera in various setting and with various feature before I write this review to be as honest as possible .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The camera 's macro capability is one of the best I 've seen , the EXR Auto mode makes this camera beginner friendly while offering an abundance of manual controls for the more experienced user , and the manual zoom seems to be smoother than most reviews lead me to believe .</Tokens>
+		<POS>DT NN POS NN NN VBZ CD IN DT JJS PRP VBP VBN , DT NNP NN NN VBZ DT NN NN JJ IN VBG DT NN IN JJ NNS IN DT RBR JJ NN , CC DT JJ NN VBZ TO VB JJR IN JJS NNS VBP PRP TO VB .</POS>
+		<Lemma>the camera 's macro capability be one of the best I have see , the EXR auto mode make this camera beginner friendly while offer a abundance of manual control for the more experienced user , and the manual zoom seem to be smoother than most review lead I to believe .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I would consider myself an intermediate user so I tend to use the EXR mode to try and capture the best possible shot , and no matter the condition it does not fail .</Tokens>
+		<POS>PRP MD VB PRP DT JJ NN IN PRP VBP TO VB DT NN NN TO VB CC VB DT JJS JJ NN , CC DT NN DT NN PRP VBZ RB VB .</POS>
+		<Lemma>I would consider myself a intermediate user so I tend to use the exr mode to try and capture the best possible shot , and no matter the condition it do not fail .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>However , when I feel like learning more features there are several manual modes to control , all features or only certain parts such as shutter speed .</Tokens>
+		<POS>RB , WRB PRP VBP IN VBG JJR NNS EX VBP JJ JJ NNS TO VB , DT NNS CC RB JJ NNS JJ IN JJR NN .</POS>
+		<Lemma>however , when I feel like learn more feature there be several manual mode to control , all feature or only certain part such as shutter speed .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The menu buttons around the camera back the menu pages a breeze to navigate and I would have to say this is possibly the friendliest menu I 've experienced .</Tokens>
+		<POS>DT NN NNS IN DT NN RB DT NN NNS DT NN TO VB CC PRP MD VB TO VB DT VBZ RB DT JJS NN PRP VBP VBN .</POS>
+		<Lemma>the menu button around the camera back the menu page a breeze to navigate and I would have to say this be possibly the friendliest menu I have experience .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The only two negatives I have experienced with the camera are the battery drain and the focusing .</Tokens>
+		<POS>DT JJ CD NNS PRP VBP VBN IN DT NN VBP DT NN NN CC DT VBG .</POS>
+		<Lemma>the only two negative I have experience with the camera be the battery drain and the focus .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The batteries I used lasted only about 350 pictures and they were fresh out of the package .</Tokens>
+		<POS>DT NNS PRP VBD VBN RB IN CD NNS CC PRP VBD JJ IN IN DT NN .</POS>
+		<Lemma>the battery I use last only about 350 picture and they be fresh out of the package .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>However , those were alkaline which I know are the last thing to use in a camera but having forgotten the rechargeable ones at home , they were a quick buy to get me through an Aquarium trip .</Tokens>
+		<POS>RB , DT VBD NN WDT PRP VBP VBP DT JJ NN TO VB IN DT NN CC VBG VBN DT JJ NNS IN NN , PRP VBD DT JJ NN TO VB PRP IN DT NN NN .</POS>
+		<Lemma>however , those be alkaline which I know be the last thing to use in a camera but have forget the rechargeable one at home , they be a quick buy to get I through a aquarium trip .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The other problem I experienced with this camera is it seems to take forever to focus and I would say about a quarter or so of the time it would not be able to focus on the subject -LRB- throughout all ranges of zoom -RRB- .</Tokens>
+		<POS>DT JJ NN PRP VBD IN DT NN VBZ PRP VBZ TO VB RB TO VB CC PRP MD VB IN DT NN CC RB IN DT NN PRP MD RB VB JJ TO VB IN DT NN -LRB- IN DT NNS IN NN -RRB- .</POS>
+		<Lemma>the other problem I experience with this camera be it seem to take forever to focus and I would say about a quarter or so of the time it would not be able to focus on the subject -lrb- throughout all range of zoom -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I know it was a bit lengthy , but this camera has a lot to offer .</Tokens>
+		<POS>PRP VBP PRP VBD DT NN JJ , CC DT NN VBZ DT NN TO VB .</POS>
+		<Lemma>I know it be a bit lengthy , but this camera have a lot to offer .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Two final notes , do n't buy this camera , use it for a day and expect to know it inside and out .</Tokens>
+		<POS>CD JJ NNS , VBP RB VB DT NN , VBP PRP IN DT NN CC VBP TO VB PRP IN CC IN .</POS>
+		<Lemma>two final note , do not buy this camera , use it for a day and expect to know it inside and out .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Also , I have read about people complaining about the write speed , I currently am using a class 6 and the speed is plenty quick .</Tokens>
+		<POS>RB , PRP VBP VBN IN NNS VBG IN DT VB NN , PRP RB VBP VBG DT NN CD CC DT NN VBZ JJ JJ .</POS>
+		<Lemma>also , I have read about people complain about the write speed , I currently be use a class 6 and the speed be plenty quick .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Coupled with the camera 's internal cache , this allows for being able to quickly take succesive shots .</Tokens>
+		<POS>VBN IN DT NN POS JJ NN , DT VBZ IN VBG JJ TO RB VB JJ NNS .</POS>
+		<Lemma>couple with the camera 's internal cache , this allow for be able to quickly take succesive shot .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It takes getting used to , reading of the manual , and trial and error with the various settings .</Tokens>
+		<POS>PRP VBZ VBG VBN TO , NN IN DT NN , CC NN CC NN IN DT JJ NNS .</POS>
+		<Lemma>it take get use to , reading of the manual , and trial and error with the various setting .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>As long as you are n't expecting a DSLR but something mighty close and are primarily interested in photos , this camera will not disappoint !</Tokens>
+		<POS>RB RB IN PRP VBP RB VBG DT NN CC NN RB JJ CC VBP RB JJ IN NNS , DT NN MD RB VB .</POS>
+		<Lemma>as long as you be not expect a dslr but something mighty close and be primarily interested in photo , this camera will not disappoint !</Lemma>
+	</Sentence>
+</Document>

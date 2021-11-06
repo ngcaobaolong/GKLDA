@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are buying this cam from Amazon , then check the price on the mfg website .</Tokens>
+		<POS>IN PRP VBP VBG DT NN IN NNP , RB VB DT NN IN DT NN NN .</POS>
+		<Lemma>if you be buy this cam from Amazon , then check the price on the mfg website .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Right now the price is 99 on their website and the setup\/installation fees is only 39 $ compared to 59 $ they charge when you are buying from Amazon .</Tokens>
+		<POS>RB RB DT NN VBZ CD IN PRP$ NN CC DT NN NNS VBZ RB CD $ VBN TO CD $ PRP VBP WRB PRP VBP VBG IN NNP .</POS>
+		<Lemma>right now the price be 99 on they website and the setup\/installation fee be only 39 $ compare to 59 $ they charge when you be buy from Amazon .</Lemma>
+	</Sentence>
+</Document>

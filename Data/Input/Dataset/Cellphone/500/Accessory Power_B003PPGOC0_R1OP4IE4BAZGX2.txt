@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is amazing to say the least .</Tokens>
+		<POS>DT NN VBZ JJ TO VB DT JJS .</POS>
+		<Lemma>this product be amazing to say the least .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It can play my music , take my calls , and charge my phone very easily .</Tokens>
+		<POS>PRP MD VB PRP$ NN , VB PRP$ NNS , CC VB PRP$ NN RB RB .</POS>
+		<Lemma>it can play my music , take my call , and charge my phone very easily .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My best purchase for my car ever .</Tokens>
+		<POS>PRP$ JJS NN IN PRP$ NN RB .</POS>
+		<Lemma>my best purchase for my car ever .</Lemma>
+	</Sentence>
+</Document>

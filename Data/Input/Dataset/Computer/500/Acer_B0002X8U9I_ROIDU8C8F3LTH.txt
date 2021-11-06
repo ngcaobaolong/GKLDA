@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this unit last year , from jandr ... This machine is like a super computer .</Tokens>
+		<POS>PRP VBD DT NN JJ NN , IN NN : DT NN VBZ IN DT JJ NN .</POS>
+		<Lemma>I purchase this unit last year , from jandr ... this machine be like a super computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you are lucky enough to get a hold of this unit ... bravo ... This is a laptop desktop computer replacement .</Tokens>
+		<POS>IN PRP VBP JJ JJ TO VB DT NN IN DT NN : NN : DT VBZ DT NN NN NN NN .</POS>
+		<Lemma>if you be lucky enough to get a hold of this unit ... bravo ... this be a laptop desktop computer replacement .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Yes there are different grades of processers , from celeron d. .</Tokens>
+		<POS>RB EX VBP JJ NNS IN NNS , IN NN NN .</POS>
+		<Lemma>yes there be different grade of processer , from celeron d. .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>good but not for serious gaming , but good , to pentium 4 great at everything .</Tokens>
+		<POS>JJ CC RB IN JJ NN , CC JJ , TO VB CD JJ IN NN .</POS>
+		<Lemma>good but not for serious gaming , but good , to pentium 4 great at everything .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>the screen resolution of the acer is 1280 by 1024 .</Tokens>
+		<POS>DT NN NN IN DT NN VBZ CD IN CD .</POS>
+		<Lemma>the screen resolution of the acer be 1280 by 1024 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>.128 dedicated nvidia getforce fxgo 5700 memory interface , and so much more ... What can i say i own this machine .4 star rating .</Tokens>
+		<POS>CD JJ NN NN NN CD NN NN , CC RB RB RBR : WP MD FW VBP FW VB DT NN CD NN NN .</POS>
+		<Lemma>.128 dedicated nvidium getforce fxgo 5700 memory interface , and so much more ... what can i say i own this machine .4 star rating .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>instead of 5 .</Tokens>
+		<POS>RB IN CD .</POS>
+		<Lemma>instead of 5 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The machine runs warm ... all else is great ... recommended 12\/09\/05 Thank you stewart l.</Tokens>
+		<POS>DT NN VBZ JJ : DT RB VBZ JJ : VBN CD VB PRP VBP IN</POS>
+		<Lemma>the machine run warm ... all else be great ... recommend 12\/09\/05 thank you stewart l.</Lemma>
+	</Sentence>
+</Document>

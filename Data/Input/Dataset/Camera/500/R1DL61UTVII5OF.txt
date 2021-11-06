@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great pocket camcorder with very good hd picture quality .</Tokens>
+		<POS>JJ NN NN IN RB JJ NN NN NN .</POS>
+		<Lemma>great pocket camcorder with very good hd picture quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>the battery life is awsome .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>the battery life be awsome .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>the botom line you dont have to go around carrying a bulky camcorder wich is 4 times more expensive to get hd quality video clips .</Tokens>
+		<POS>DT NN NN PRP VBP VBP TO VB IN VBG DT JJ NN NN VBZ CD NNS RBR JJ TO VB JJ NN NN NNS .</POS>
+		<Lemma>the botom line you dont have to go around carry a bulky camcorder wich be 4 time more expensive to get hd quality video clip .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>thanks amazon for superb service .</Tokens>
+		<POS>NNS VBP IN JJ NN .</POS>
+		<Lemma>thanks amazon for superb service .</Lemma>
+	</Sentence>
+</Document>

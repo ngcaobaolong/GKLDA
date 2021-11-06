@@ -1,0 +1,92 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Let me start by stating this : I am an informed shopper .</Tokens>
+		<POS>VB PRP VB IN VBG DT : PRP VBP DT VBN NN .</POS>
+		<Lemma>let I start by state this : I be a inform shopper .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I read reviews , view youtube videos , and research and compare specs on all electronics I buy .</Tokens>
+		<POS>PRP VBP NNS , NN NN NNS , CC NN CC VB NNS IN DT NNS PRP VBP .</POS>
+		<Lemma>I read review , view youtube video , and research and compare spec on all electronics I buy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That being said , I was confident this netbook would be the best option for me .</Tokens>
+		<POS>DT VBG VBD , PRP VBD JJ DT NN MD VB DT JJS NN IN PRP .</POS>
+		<Lemma>that be say , I be confident this netbook would be the best option for I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And I was dead right .</Tokens>
+		<POS>CC PRP VBD JJ NN .</POS>
+		<Lemma>and I be dead right .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The 722-0473 is a high performer for it 's class .</Tokens>
+		<POS>DT CD VBZ DT JJ NN IN PRP VBZ NN .</POS>
+		<Lemma>the 722-0473 be a high performer for it be class .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Windows 7 Premium , -LRB- not starter -RRB- 2 GB ram -LRB- as opposed to 1 GB -RRB- , an 11.6 inch screen , and a 100 % full size keyboard put this machine in a class of it 's own , as I could not find any other netbook in this price range with specs as good as this one .</Tokens>
+		<POS>NNP CD NNP , -LRB- RB JJ -RRB- CD NN NN -LRB- IN VBN TO CD NN -RRB- , DT CD NN NN , CC DT CD NN JJ NN NN VBD DT NN IN DT NN IN PRP VBZ JJ , IN PRP MD RB VB DT JJ NN IN DT NN NN IN NNS IN JJ IN DT CD .</POS>
+		<Lemma>Windows 7 Premium , -lrb- not starter -rrb- 2 gb ram -lrb- as oppose to 1 gb -rrb- , a 11.6 inch screen , and a 100 % full size keyboard put this machine in a class of it be own , as I could not find any other netbook in this price range with spec as good as this one .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm upgrading to 4 GB ram so I can do some better multi-tasking .</Tokens>
+		<POS>PRP VBP VBG TO CD NN NN IN PRP MD VB DT JJR NN .</POS>
+		<Lemma>I be upgrade to 4 gb ram so I can do some better multi-tasking .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is a youtube video on how to install the ram on this netbook , and it 's a breeze .</Tokens>
+		<POS>EX VBZ DT NN NN IN WRB TO VB DT NN IN DT NN , CC PRP VBZ DT NN .</POS>
+		<Lemma>there be a youtube video on how to install the ram on this netbook , and it be a breeze .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>4 GB ram would run 20 bucks or so .</Tokens>
+		<POS>LS NN NN MD VB CD NNS CC RB .</POS>
+		<Lemma>4 gb ram would run 20 buck or so .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I read a review from someone on here who said if you are on the fence , go with this one .</Tokens>
+		<POS>PRP VBP DT NN IN NN IN RB WP VBD IN PRP VBP IN DT NN , VB IN DT CD .</POS>
+		<Lemma>I read a review from someone on here who say if you be on the fence , go with this one .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I have to agree .</Tokens>
+		<POS>PRP VBP TO VB .</POS>
+		<Lemma>I have to agree .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It 's not overly loaded with bloatware , set-up is a breeze , the battery life is AMAZING , it 's light and portable , yet not cramped like the 10 inch netbooks .</Tokens>
+		<POS>PRP VBZ RB RB VBN IN NN , NN VBZ DT NN , DT NN NN VBZ NNP , PRP VBZ JJ CC JJ , RB RB VBN IN DT CD NN NNS .</POS>
+		<Lemma>it be not overly load with bloatware , set-up be a breeze , the battery life be AMAZING , it be light and portable , yet not cramp like the 10 inch netbook .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The only negative thing I will say is this ... I was n't very fond of the ripple effect , however it 's growing on me .</Tokens>
+		<POS>DT JJ JJ NN PRP MD VB VBZ DT : PRP VBD RB RB JJ IN DT NN NN , RB PRP VBZ VBG IN PRP .</POS>
+		<Lemma>the only negative thing I will say be this ... I be not very fond of the ripple effect , however it be grow on I .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>And the casing is a fingerprint catcher .</Tokens>
+		<POS>CC DT NN VBZ DT NN NN .</POS>
+		<Lemma>and the casing be a fingerprint catcher .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>But what netbook\/laptop isnt ?</Tokens>
+		<POS>CC WP JJ NN .</POS>
+		<Lemma>but what netbook\/laptop isnt ?</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I just wish manufacturers would realize consumers hate the glossy finish for that reason .</Tokens>
+		<POS>PRP RB VBP NNS MD VB NNS VB DT JJ NN IN DT NN .</POS>
+		<Lemma>I just wish manufacturer would realize consumer hate the glossy finish for that reason .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>10\/10 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>10\/10 .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Absolutely love it .</Tokens>
+		<POS>RB VBP PRP .</POS>
+		<Lemma>absolutely love it .</Lemma>
+	</Sentence>
+</Document>

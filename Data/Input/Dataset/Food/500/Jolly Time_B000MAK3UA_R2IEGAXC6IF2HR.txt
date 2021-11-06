@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Not the tastiest popcorn .</Tokens>
+		<POS>RB DT JJS NN .</POS>
+		<Lemma>not the tastiest popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not very salty and not buttery at all .</Tokens>
+		<POS>RB RB JJ CC RB VB IN DT .</POS>
+		<Lemma>not very salty and not buttery at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But it does pop up nicely and you get a lot of popcorn for 100 calories .</Tokens>
+		<POS>CC PRP VBZ VB RP RB CC PRP VBP DT NN IN NN IN CD NNS .</POS>
+		<Lemma>but it do pop up nicely and you get a lot of popcorn for 100 calorie .</Lemma>
+	</Sentence>
+</Document>

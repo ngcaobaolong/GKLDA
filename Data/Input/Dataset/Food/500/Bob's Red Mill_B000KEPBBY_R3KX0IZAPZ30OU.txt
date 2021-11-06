@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was n't sure what to expect , but this is a simple mixture of split peas , lentils , and pasta .</Tokens>
+		<POS>PRP VBD RB JJ WP TO VB , CC DT VBZ DT JJ NN IN NN NNS , NNS , CC NN .</POS>
+		<Lemma>I be not sure what to expect , but this be a simple mixture of split pea , lentil , and pasta .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There are no spices , no dried vegetables , or anything else , so you will need to add a number of things to it to make soup , or a decent-tasting meal .</Tokens>
+		<POS>EX VBP DT NNS , DT VBD NNS , CC NN RB , IN PRP MD VB TO VB DT NN IN NNS TO PRP TO VB NN , CC DT JJ NN .</POS>
+		<Lemma>there be no spice , no dry vegetable , or anything else , so you will need to add a number of thing to it to make soup , or a decent-tasting meal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That being said , it 's great .</Tokens>
+		<POS>DT VBG VBD , PRP VBZ JJ .</POS>
+		<Lemma>that be say , it be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I did n't expect that I would keep using it but it 's become a staple in my kitchen .</Tokens>
+		<POS>PRP VBD RB VB IN PRP MD VB VBG PRP CC PRP VBZ VBN DT NN IN PRP$ NN .</POS>
+		<Lemma>I do not expect that I would keep use it but it be become a staple in my kitchen .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My housekeeper \/ cleaner buys it , boils it and prepares it as a side dish -LRB- bean salad -RRB- .</Tokens>
+		<POS>PRP$ NN : JJR VBZ PRP , VBZ PRP CC VBZ PRP IN DT NN NN -LRB- NN NN -RRB- .</POS>
+		<Lemma>my housekeeper \/ cleaner buy it , boil it and prepare it as a side dish -lrb- bean salad -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I prefer to add it to my rice pilaf , to make it a complete source of protein .</Tokens>
+		<POS>PRP VBP TO VB PRP TO PRP$ NN NN , TO VB PRP DT JJ NN IN NN .</POS>
+		<Lemma>I prefer to add it to my rice pilaf , to make it a complete source of protein .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you do make soup with it , I would definitely add lots of veggies , potatoes , and chicken if you 're not vegetarian .</Tokens>
+		<POS>IN PRP VBP VB NN IN PRP , PRP MD RB VB NNS IN NNS , NNS , CC NN IN PRP VBP RB JJ .</POS>
+		<Lemma>if you do make soup with it , I would definitely add lot of veggy , potato , and chicken if you be not vegetarian .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is not just for vegetarians .</Tokens>
+		<POS>DT VBZ RB RB IN NNS .</POS>
+		<Lemma>this be not just for vegetarian .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It 's actually great for people who are cooking meals for mixed vegetarian\/non-vegetarian families .</Tokens>
+		<POS>PRP VBZ RB JJ IN NNS WP VBP JJ NNS IN JJ JJ NNS .</POS>
+		<Lemma>it be actually great for people who be cooking meal for mixed vegetarian\/non-vegetarian family .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Hope you try it and like it .</Tokens>
+		<POS>NNP PRP VBP PRP CC IN PRP .</POS>
+		<Lemma>Hope you try it and like it .</Lemma>
+	</Sentence>
+</Document>

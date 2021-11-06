@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought a bag of this for my new stovetop spinning popcorn maker .</Tokens>
+		<POS>PRP VBD DT NN IN DT IN PRP$ JJ NN VBG NN NN .</POS>
+		<Lemma>I buy a bag of this for my new stovetop spin popcorn maker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It comes out very fluffy and full when popped .</Tokens>
+		<POS>PRP VBZ RP RB JJ CC JJ WRB VBN .</POS>
+		<Lemma>it come out very fluffy and full when pop .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is very good quality popcorn with 99 % of all kernel 's popped .</Tokens>
+		<POS>PRP VBZ RB JJ NN NN IN CD NN IN DT NN POS VBN .</POS>
+		<Lemma>it be very good quality popcorn with 99 % of all kernel 's pop .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The one downside is that it is not in a re-sealable bag .</Tokens>
+		<POS>DT CD NN VBZ IN PRP VBZ RB IN DT JJ NN .</POS>
+		<Lemma>the one downside be that it be not in a re-sealable bag .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So I bought an OXO sealed storage container to store it and it works great , keeping my popcorn kernel 's fresh .</Tokens>
+		<POS>IN PRP VBD DT NNP VBD NN NN TO VB PRP CC PRP VBZ JJ , VBG PRP$ NN NN POS JJ .</POS>
+		<Lemma>so I buy a OXO seal storage container to store it and it work great , keep my popcorn kernel 's fresh .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great monitor .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Some fussing with drivers because there was n't a native wide-screen driver in my XP .</Tokens>
+		<POS>DT VBG IN NNS IN EX VBD RB DT JJ JJ NN IN PRP$ NN .</POS>
+		<Lemma>some fuss with driver because there be not a native wide-screen driver in my xp .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Once I got it set up right , it was a stable and good-looking monitor .</Tokens>
+		<POS>RB PRP VBD PRP VBD RP RB , PRP VBD DT JJ CC JJ NN .</POS>
+		<Lemma>once I get it set up right , it be a stable and good-looking monitor .</Lemma>
+	</Sentence>
+</Document>

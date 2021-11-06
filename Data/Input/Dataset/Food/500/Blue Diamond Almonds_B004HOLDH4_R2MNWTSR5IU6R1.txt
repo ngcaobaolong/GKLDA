@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These almonds had an unbelievable amount of salt on them .</Tokens>
+		<POS>DT NNS VBD DT JJ NN IN NN IN PRP .</POS>
+		<Lemma>these almond have a unbelievable amount of salt on they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love salt but this was over the top .</Tokens>
+		<POS>PRP VBP NN CC DT VBD IN DT NN .</POS>
+		<Lemma>I love salt but this be over the top .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've bought this brand from other stores and they have never been this salty .</Tokens>
+		<POS>PRP VBP VBN DT NN IN JJ NNS CC PRP VBP RB VBN DT NN .</POS>
+		<Lemma>I have buy this brand from other store and they have never be this salty .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Maybe the machine went wacko when processing these .</Tokens>
+		<POS>RB DT NN VBD RB WRB VBG DT .</POS>
+		<Lemma>maybe the machine go wacko when process these .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>???</Tokens>
+		<POS>IN</POS>
+		<Lemma>???</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I ca n't eat these unless I take the time to try and wipe off the salt , which talks forever !!</Tokens>
+		<POS>PRP MD RB VB DT IN PRP VBP DT NN TO VB CC VB RP DT NN , WDT VBZ RB RB</POS>
+		<Lemma>I can not eat these unless I take the time to try and wipe off the salt , which talk forever !!</Lemma>
+	</Sentence>
+</Document>

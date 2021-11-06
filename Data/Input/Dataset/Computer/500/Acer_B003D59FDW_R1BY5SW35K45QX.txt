@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had order -LRB- 2 -RRB- monitors before this one .</Tokens>
+		<POS>PRP VBD NN -LRB- CD -RRB- VBZ IN DT CD .</POS>
+		<Lemma>I have order -lrb- 2 -rrb- monitor before this one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The screen is large .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the screen be large .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No too big for a small work area .</Tokens>
+		<POS>DT RB JJ IN DT JJ NN NN .</POS>
+		<Lemma>no too big for a small work area .</Lemma>
+	</Sentence>
+</Document>

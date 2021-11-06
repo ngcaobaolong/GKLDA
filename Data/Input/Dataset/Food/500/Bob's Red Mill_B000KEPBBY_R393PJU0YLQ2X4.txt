@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I feel as long as I have this soup in my cabinet I always have a good meal quick .</Tokens>
+		<POS>PRP VBP RB RB IN PRP VBP DT NN IN PRP$ NN PRP RB VBP DT JJ NN JJ .</POS>
+		<Lemma>I feel as long as I have this soup in my cabinet I always have a good meal quick .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I sometimes chop onions and carrots and add it to the soup .</Tokens>
+		<POS>PRP RB VBP NNS CC NNS CC VB PRP TO DT NN .</POS>
+		<Lemma>I sometimes chop onion and carrot and add it to the soup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You can also add shredded chicken at the end .</Tokens>
+		<POS>PRP MD RB VB JJ NN IN DT NN .</POS>
+		<Lemma>you can also add shredded chicken at the end .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Delicious !!</Tokens>
+		<POS>NNP IN</POS>
+		<Lemma>Delicious !!</Lemma>
+	</Sentence>
+</Document>

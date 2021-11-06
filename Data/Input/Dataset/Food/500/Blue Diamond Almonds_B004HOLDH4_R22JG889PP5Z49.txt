@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love the portability and taste of this snack .</Tokens>
+		<POS>PRP VBP DT NN CC NN IN DT NN .</POS>
+		<Lemma>I love the portability and taste of this snack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wish the caloric and sodium count was less , But the protein count is perfect .</Tokens>
+		<POS>PRP VBP DT JJ CC NN NN VBD RBR , CC DT NN NN VBZ JJ .</POS>
+		<Lemma>I wish the caloric and sodium count be less , but the protein count be perfect .</Lemma>
+	</Sentence>
+</Document>

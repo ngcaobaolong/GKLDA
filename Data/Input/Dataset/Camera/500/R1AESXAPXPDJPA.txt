@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The first one we got kept crashing and freezing .</Tokens>
+		<POS>DT JJ CD PRP VBD VBN VBG CC NN .</POS>
+		<Lemma>the first one we get keep crash and freezing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Holding the on\/off button seemed to reset it , until it just died .</Tokens>
+		<POS>VBG DT JJ NN VBD TO VB PRP , IN PRP RB VBD .</POS>
+		<Lemma>hold the on\/off button seem to reset it , until it just die .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The hidden reset button in the tripod hole did n't bring it back to life .</Tokens>
+		<POS>DT JJ NN NN IN DT NN NN VBD RB VB PRP RB TO NN .</POS>
+		<Lemma>the hidden reset button in the tripod hole do not bring it back to life .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Returned to Amazon and got a replacement .</Tokens>
+		<POS>VBN TO NNP CC VBD DT NN .</POS>
+		<Lemma>return to Amazon and get a replacement .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The second one seemed to work fine - first films seemed to work fine , but now two days later we 've noticed the play -LRB- top left -RRB- and + -LRB- top middle -RRB- buttons do n't work : I ca n't play videos ; ca n't zoom in ; ca n't delete videos .</Tokens>
+		<POS>DT JJ CD VBD TO VB JJ : JJ NNS VBD TO VB JJ , CC RB CD NNS RB PRP VBP VBN DT NN -LRB- JJ NN -RRB- CC CC -LRB- JJ NN -RRB- NNS VBP RB VB : PRP MD RB VB NNS : MD RB VB IN : MD RB VB NNS .</POS>
+		<Lemma>the second one seem to work fine - first film seem to work fine , but now two day later we have notice the play -lrb- top left -rrb- and + -lrb- top middle -rrb- button do not work : I can not play video ; can not zoom in ; can not delete video .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>As long as it keeps taking videos I guess I 'll return it when I get back from vacation .</Tokens>
+		<POS>RB RB IN PRP VBZ VBG NNS PRP VBP PRP MD VB PRP WRB PRP VBP RB IN NN .</POS>
+		<Lemma>as long as it keep take video I guess I 'll return it when I get back from vacation .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I do n't know whether to go for a refund or replacement : have I just been unlucky , or are there serious issues with this model\/batch ?</Tokens>
+		<POS>PRP VBP RB VB IN TO VB IN DT NN CC NN : VB PRP RB VBN JJ , CC VBP EX JJ NNS IN DT NN .</POS>
+		<Lemma>I do not know whether to go for a refund or replacement : have I just be unlucky , or be there serious issue with this model\/batch ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Quality of videos is great , but the two I have had so far simply do n't work properly .</Tokens>
+		<POS>NNP IN NNS VBZ JJ , CC DT CD PRP VBP VBN RB RB RB VB RB VB RB .</POS>
+		<Lemma>Quality of video be great , but the two I have have so far simply do not work properly .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Based on my experience so far I would not recommend this .</Tokens>
+		<POS>VBN IN PRP$ NN RB RB PRP MD RB VB DT .</POS>
+		<Lemma>base on my experience so far I would not recommend this .</Lemma>
+	</Sentence>
+</Document>

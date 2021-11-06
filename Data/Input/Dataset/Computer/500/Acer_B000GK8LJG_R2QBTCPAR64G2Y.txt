@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this is my first flat screne monitor so i dont have much to base it off of but in my opinion its awesome .</Tokens>
+		<POS>DT VBZ PRP$ JJ JJ NN NN RB FW FW VBP JJ TO VB PRP IN IN CC IN PRP$ NN PRP$ JJ .</POS>
+		<Lemma>this be my first flat screne monitor so i dont have much to base it off of but in my opinion its awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>the quality is amazing and the shipping was almost overnight even though i asked for standard</Tokens>
+		<POS>DT NN VBZ JJ CC DT NN VBD RB JJ RB IN FW VBD IN NN</POS>
+		<Lemma>the quality be amazing and the shipping be almost overnight even though i ask for standard</Lemma>
+	</Sentence>
+</Document>

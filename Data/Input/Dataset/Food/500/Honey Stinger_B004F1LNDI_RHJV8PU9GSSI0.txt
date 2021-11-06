@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are great for a mobile breakfast or to throw in a gym bag for quick after workout snack and they taste great .</Tokens>
+		<POS>DT VBP JJ IN DT JJ NN CC TO VB RP DT NN NN IN JJ IN NN NN CC PRP VBP JJ .</POS>
+		<Lemma>these be great for a mobile breakfast or to throw in a gym bag for quick after workout snack and they taste great .</Lemma>
+	</Sentence>
+</Document>

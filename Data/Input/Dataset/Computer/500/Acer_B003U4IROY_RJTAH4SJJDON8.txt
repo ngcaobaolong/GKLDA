@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had this monitor for about 3 months now , and have had no problems in spite of having it dropped on the ground -LRB- still packed in the box -RRB- on the way out of the store .</Tokens>
+		<POS>PRP VBP VBN DT NN IN IN CD NNS RB , CC VBP VBN DT NNS IN NN IN VBG PRP VBD IN DT NN -LRB- RB VBN IN DT NN -RRB- IN DT NN IN IN DT NN .</POS>
+		<Lemma>I have have this monitor for about 3 month now , and have have no problem in spite of have it drop on the ground -lrb- still pack in the box -rrb- on the way out of the store .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There were no dead pixels or other image defects .</Tokens>
+		<POS>EX VBD DT JJ NNS CC JJ NN NNS .</POS>
+		<Lemma>there be no dead pixel or other image defect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have used this monitor with both the DVI and VGA connectors and both provide good quality video and images .</Tokens>
+		<POS>PRP VBP VBN DT NN IN CC DT NNP CC NNP NNS CC DT VBP JJ NN NN CC NNS .</POS>
+		<Lemma>I have use this monitor with both the DVI and VGA connector and both provide good quality video and image .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am using this with an nVidia Quadro graphics card which was bought at the same time .</Tokens>
+		<POS>PRP VBP VBG DT IN DT NNP NNP NNS NN WDT VBD VBN IN DT JJ NN .</POS>
+		<Lemma>I be use this with a nVidia Quadro graphic card which be buy at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have played Batman : Arkham City , Battle Stations : Midway and Sniper : Ghost Warrior and the monitor displays great gaming graphics .</Tokens>
+		<POS>PRP VBP VBN NNP : NNP NNP , NNP NNPS : NNP CC NNP : NN NNP CC DT NN VBZ JJ NN NNS .</POS>
+		<Lemma>I have play Batman : Arkham City , Battle Stations : Midway and Sniper : ghost Warrior and the monitor display great gaming graphic .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have also watched high definition video -LRB- Blu-Ray quality -RRB- with an outstanding picture quality .</Tokens>
+		<POS>PRP VBP RB VBN JJ NN NN -LRB- JJ NN -RRB- IN DT JJ NN NN .</POS>
+		<Lemma>I have also watch high definition video -lrb- blu-ray quality -rrb- with a outstanding picture quality .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Not only would I recommend this monitor , but I am going to buy another to replace the 22 '' Soyo I use for my second monitor on my extended desktop .</Tokens>
+		<POS>RB RB MD PRP VB DT NN , CC PRP VBP VBG TO VB DT TO VB DT CD '' NNP PRP VBP IN PRP$ JJ NN IN PRP$ JJ NN .</POS>
+		<Lemma>not only would I recommend this monitor , but I be go to buy another to replace the 22 '' Soyo I use for my second monitor on my extended desktop .</Lemma>
+	</Sentence>
+</Document>

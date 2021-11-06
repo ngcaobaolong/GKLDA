@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great picture and colors for a good price but has one bad pixel .</Tokens>
+		<POS>JJ NN CC NNS IN DT JJ NN CC VBZ CD JJ NN .</POS>
+		<Lemma>great picture and color for a good price but have one bad pixel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Maybe this is my luck .</Tokens>
+		<POS>RB DT VBZ PRP$ NN .</POS>
+		<Lemma>maybe this be my luck .</Lemma>
+	</Sentence>
+</Document>

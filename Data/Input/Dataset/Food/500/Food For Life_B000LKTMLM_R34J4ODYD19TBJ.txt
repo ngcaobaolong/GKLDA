@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Eaten cold , this no-sugar-added cereal has a crunchy texture and a pleasantly sweet , subtle flavor , like a more sophisticated twist on Grape-Nuts .</Tokens>
+		<POS>VBN JJ , DT JJ NN VBZ DT JJ NN CC DT RB JJ , JJ NN , IN DT RBR JJ NN IN NNP .</POS>
+		<Lemma>eat cold , this no-sugar-added cereal have a crunchy texture and a pleasantly sweet , subtle flavor , like a more sophisticated twist on Grape-Nuts .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But it 's when this cereal is served hot that it really shines .</Tokens>
+		<POS>CC PRP VBZ WRB DT NN VBZ VBN JJ IN PRP RB VBZ .</POS>
+		<Lemma>but it be when this cereal be serve hot that it really shine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In addition to packing far more flavor than oatmeal , it also has the perfect consistency for cooking ; somehow , it never seems to stick to the bottom of the pot .</Tokens>
+		<POS>IN NN TO NN RB RBR NN IN NN , PRP RB VBZ DT JJ NN IN NN : RB , PRP RB VBZ TO VB TO DT NN IN DT NN .</POS>
+		<Lemma>in addition to packing far more flavor than oatmeal , it also have the perfect consistency for cooking ; somehow , it never seem to stick to the bottom of the pot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And it takes just a few minutes .</Tokens>
+		<POS>CC PRP VBZ RB DT JJ NNS .</POS>
+		<Lemma>and it take just a few minute .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Every person I 've ever served this to has been impressed .</Tokens>
+		<POS>DT NN PRP VBP RB VBN DT TO VBZ VBN VBN .</POS>
+		<Lemma>every person I have ever serve this to have be impress .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>`` This is the most delicious oatmeal I 've ever tasted , '' they say .</Tokens>
+		<POS>`` DT VBZ DT RBS JJ NN PRP VBP RB VBN , '' PRP VBP .</POS>
+		<Lemma>`` this be the most delicious oatmeal I have ever taste , '' they say .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There 's no need for any sweetener , though raisins and sliced banana are always a welcome addition .</Tokens>
+		<POS>EX VBZ DT NN IN DT NN , IN NNS CC VBN NN VBP RB DT JJ NN .</POS>
+		<Lemma>there be no need for any sweetener , though raisin and slice banana be always a welcome addition .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Chopped walnuts are also great for adding protein and some extra crunch .</Tokens>
+		<POS>VBN NNS VBP RB JJ IN VBG NN CC DT JJ NN .</POS>
+		<Lemma>chop walnut be also great for add protein and some extra crunch .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I like all of Ezekiel 4:9 's cereal varieties about equally well , and would pick any of them over any other kind of cereal .</Tokens>
+		<POS>PRP VBP DT IN NNP CD POS NN NNS IN RB RB , CC MD VB DT IN PRP IN DT JJ NN IN NN .</POS>
+		<Lemma>I like all of Ezekiel 4:9 's cereal variety about equally well , and would pick any of they over any other kind of cereal .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And Amazon 's prices beat those at my local grocery store .</Tokens>
+		<POS>CC NNP POS NNS VB DT IN PRP$ JJ NN NN .</POS>
+		<Lemma>and Amazon 's price beat those at my local grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's a great way to stock up on a truly amazing breakfast food .</Tokens>
+		<POS>PRP VBZ DT JJ NN TO VB RP IN DT RB JJ NN NN .</POS>
+		<Lemma>it be a great way to stock up on a truly amazing breakfast food .</Lemma>
+	</Sentence>
+</Document>

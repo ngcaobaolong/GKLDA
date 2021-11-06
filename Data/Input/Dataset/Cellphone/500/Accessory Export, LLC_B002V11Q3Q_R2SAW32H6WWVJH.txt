@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i bought 2 and both didnt work my screen flickers and will not work with pc either will not except my phone very bad choice ...</Tokens>
+		<POS>LS VBD CD CC DT JJ NN PRP$ NN NNS CC MD RB VB IN NN CC MD RB VB PRP$ NN RB JJ NN :</POS>
+		<Lemma>i buy 2 and both didnt work my screen flicker and will not work with pc either will not except my phone very bad choice ...</Lemma>
+	</Sentence>
+</Document>

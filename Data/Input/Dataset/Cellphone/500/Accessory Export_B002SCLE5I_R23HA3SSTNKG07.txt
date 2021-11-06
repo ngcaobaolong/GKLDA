@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wow this is a miracle i went from 0 bars to 7 max and i have the virgen mobile optimus v even out in the middle of the desert 1000 of miles from the nearest tower i get a maxed out signal this is truly a miracle come to past htnak you god !!!</Tokens>
+		<POS>UH DT VBZ DT NN FW VBD IN CD NNS TO CD NN CC FW VBP DT JJ JJ NN LS RB IN IN DT NN IN DT NN CD IN NNS IN DT JJS NN FW VB DT VBN RP NN DT VBZ RB DT NN VBN TO JJ NN PRP NN NN</POS>
+		<Lemma>wow this be a miracle i go from 0 bar to 7 max and i have the virgen mobile optimus v even out in the middle of the desert 1000 of mile from the nearest tower i get a max out signal this be truly a miracle come to past htnak you god !!!</Lemma>
+	</Sentence>
+</Document>

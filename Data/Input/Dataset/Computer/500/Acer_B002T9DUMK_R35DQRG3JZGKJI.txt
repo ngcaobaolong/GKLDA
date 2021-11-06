@@ -1,0 +1,177 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pros : Accurate colors Low power consumption Slim Sturdy aluminum base ; very easy to attach Even backlighting ; very little bleed -LRB- if any at all -RRB- Bright No bad pixels 2 HDMI inputs Small power supply Comes with an HDMI cable Inputs are in the base Cons : Menu controls take some time getting used Off center mounting does cause slight sagging Only 1 speaker -LRB- non-issue for me though - did n't even listen to them -RRB- I find the Acer software tools for tweaking colors and such ... odd Took a lot of time , resources , and patience to calibrate Usual deficiencies of TN panels which I wo n't rehash No direct input buttons ; have to dive into the menus to change inputs Stated 68 % color gamut Inputs are in the base Shipping packaging had me worried This is my first home LCD and is replacing a 17 inch CRT ; I still have it and will dual-display them to compare side by side .</Tokens>
+		<POS>NNS : JJ NNS JJ NN NN NNP NNP NN NN : RB JJ TO VB RB NN : RB JJ VB -LRB- IN DT IN DT -RRB- JJ DT JJ NNS CD NN NNS JJ NN NN VBZ IN DT NN NN NNS VBP IN DT NN NNS : NN NNS VBP DT NN VBG VBN IN NN VBG VBZ VB JJ VBG RB CD NN -LRB- JJ IN PRP IN : VBD RB RB VB TO PRP -RRB- PRP VBP DT NNP NN NNS IN NN NNS CC JJ : JJ VBD DT NN IN NN , NNS , CC NN TO VB JJ NNS IN NN NNS WDT PRP MD RB VB DT JJ NN NNS : VB TO NN IN DT NNS TO VB NNS VBN CD NN NN NN NNS VBP IN DT NN NN NN VBD PRP JJ DT VBZ PRP$ JJ NN NNS CC VBZ VBG DT CD NN NNP : PRP RB VBP PRP CC MD VB PRP TO VB NN IN NN .</POS>
+		<Lemma>pro : accurate color low power consumption Slim Sturdy aluminum base ; very easy to attach even backlighting ; very little bleed -lrb- if any at all -rrb- bright no bad pixel 2 hdmus input small power supply come with a hdmus cable input be in the base con : menu control take some time get use off center mount do cause slight sag only 1 speaker -lrb- non-issue for I though - do not even listen to they -rrb- I find the Acer software tool for tweaking color and such ... odd take a lot of time , resource , and patience to calibrate usual deficiency of tn panel which I will not rehash no direct input button ; have to dive into the menu to change input state 68 % color gamut input be in the base shipping packaging have I worried this be my first home lcd and be replace a 17 inch CRT ; I still have it and will dual-display they to compare side by side .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Also , I have n't had a chance to do any gaming yet but if there 's anything out of the ordinary I 'll post an update .</Tokens>
+		<POS>RB , PRP VBP RB VBD DT NN TO VB DT NN RB CC IN EX VBZ NN IN IN DT JJ PRP MD VB DT VBP .</POS>
+		<Lemma>also , I have not have a chance to do any gaming yet but if there be anything out of the ordinary I 'll post a update .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm still in the process of fine tuning because I started calibrating with my old card -LRB- Nvidia 6800 GS via analog -RRB- and then got a new card -LRB- AMD 5870 via HDMI -RRB- but this is basically what I have experienced : I do n't find the LED indicators distracting ; very simple and effective , almost elegant .</Tokens>
+		<POS>PRP VBP RB IN DT NN IN JJ NN IN PRP VBD VBG IN PRP$ JJ NN -LRB- NNP CD NN IN NN -RRB- CC RB VBD DT JJ NN -LRB- NNP CD IN NN -RRB- CC DT VBZ RB WP PRP VBP VBN : PRP VBP RB VB DT NNP NNS VBG : RB JJ CC JJ , RB JJ .</POS>
+		<Lemma>I be still in the process of fine tuning because I start calibrate with my old card -lrb- Nvidia 6800 g via analog -rrb- and then get a new card -lrb- AMD 5870 via hdmus -rrb- but this be basically what I have experience : I do not find the LED indicator distract ; very simple and effective , almost elegant .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Inputs - you 'll either love or hate the placement -LRB- they are in the base facing outward , not down -RRB- but I bought an HDMI port saver from Monoprice .</Tokens>
+		<POS>NNS : PRP MD RB VB CC VB DT NN -LRB- PRP VBP IN DT NN VBG JJ , RB RB -RRB- CC PRP VBD DT NN NN NN IN NNP .</POS>
+		<Lemma>input - you 'll either love or hate the placement -lrb- they be in the base face outward , not down -rrb- but I buy a hdmus port saver from Monoprice .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's basically a 90 degree adapter ; worked perfectly for this input configuration .</Tokens>
+		<POS>PRP VBZ RB DT CD NN NN : VBD RB IN DT NN NN .</POS>
+		<Lemma>it be basically a 90 degree adapter ; work perfectly for this input configuration .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I can push the display as far back as possible with no worry about bending the cable .</Tokens>
+		<POS>PRP MD VB DT NN IN RB RB IN JJ IN DT NN IN VBG DT NN .</POS>
+		<Lemma>I can push the display as far back as possible with no worry about bend the cable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The power supply is very small , which is nice .</Tokens>
+		<POS>DT NN NN VBZ RB JJ , WDT VBZ JJ .</POS>
+		<Lemma>the power supply be very small , which be nice .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>You really have put some time in to get this monitor looking its best .</Tokens>
+		<POS>PRP RB VBP VBN DT NN IN TO VB DT NN VBG PRP$ JJS .</POS>
+		<Lemma>you really have put some time in to get this monitor look its best .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Out of the box the colors appeared a little washed out .</Tokens>
+		<POS>IN IN DT NN DT NNS VBD DT JJ VBN RP .</POS>
+		<Lemma>out of the box the color appear a little wash out .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So I first calibrated by eye then used video calibration discs and color filters with just the display 's controls to get it looking its best .</Tokens>
+		<POS>IN PRP RB VBN IN NN RB VBD JJ NN NNS CC NN NNS IN RB DT NN POS NNS TO VB PRP VBG PRP$ JJS .</POS>
+		<Lemma>so I first calibrate by eye then use video calibration disc and color filter with just the display 's control to get it look its best .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>At first I adjusted RGB levels in the `` user '' mode for color temperature but actually preferred the warm -LRB- D6500 -RRB- preset after I A-B them ; white looked more white .</Tokens>
+		<POS>IN JJ PRP JJ NN NNS IN DT `` NN '' NN IN NN NN CC RB VBN DT JJ -LRB- CD -RRB- JJ IN PRP VBP PRP : JJ VBD RBR JJ .</POS>
+		<Lemma>at first I adjusted rgb level in the `` user '' mode for color temperature but actually prefer the warm -lrb- d6500 -rrb- preset after I a-b they ; white look more white .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>-LRB- I think this monitor 's D6500 setting is accurate but I do n't know for sure . -RRB-</Tokens>
+		<POS>-LRB- PRP VBP DT NN POS CD NN VBZ JJ CC PRP VBP RB VB IN JJ . -RRB-</POS>
+		<Lemma>-lrb- I think this monitor 's d6500 setting be accurate but I do not know for sure . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I then used a combination of the AMD Catalyst controls -LRB- side note , Nvidia software is better -RRB- , the Acer software , and even some Windows 7 tools .</Tokens>
+		<POS>PRP RB VBD DT NN IN DT NNP NNP NNS -LRB- NN NN , NNP NN VBZ RBR -RRB- , DT NNP NN , CC RB DT NNP CD NNS .</POS>
+		<Lemma>I then use a combination of the AMD Catalyst control -lrb- side note , Nvidia software be better -rrb- , the Acer software , and even some Windows 7 tool .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Try to get the gamma set correctly first and then tweak from there .</Tokens>
+		<POS>VB TO VB DT NN NN RB RB CC RB VB IN EX .</POS>
+		<Lemma>try to get the gamma set correctly first and then tweak from there .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Rinse and repeat .</Tokens>
+		<POS>NNP CC NN .</POS>
+		<Lemma>Rinse and repeat .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>To me the brightness and contrast controls on the monitor did n't seem to have as much of an effect as they do on my other displays -LRB- HD or otherwise -RRB- ; perhaps due to the white LED backlighting ?</Tokens>
+		<POS>TO PRP DT NN CC NN NNS IN DT NN VBD RB VB TO VB RB JJ IN DT NN IN PRP VBP IN PRP$ JJ NNS -LRB- NN CC RB -RRB- : RB JJ TO DT JJ NN NN .</POS>
+		<Lemma>to I the brightness and contrast control on the monitor do not seem to have as much of a effect as they do on my other display -lrb- hd or otherwise -rrb- ; perhaps due to the white led backlighting ?</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>After all that , I think the monitor looks good .</Tokens>
+		<POS>IN DT IN , PRP VBP DT NN VBZ JJ .</POS>
+		<Lemma>after all that , I think the monitor look good .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>My initial observation of seeing washed out colors when I first hooked it up , using right-out-of-the-box settings , was gone .</Tokens>
+		<POS>PRP$ JJ NN IN VBG VBN IN NNS WRB PRP RB VBD PRP RP , VBG JJ NNS , VBD VBN .</POS>
+		<Lemma>my initial observation of see wash out color when I first hook it up , use right-out-of-the-box setting , be go .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I used a couple of Blurays to check out colors etc. and everything seemed fine .</Tokens>
+		<POS>PRP VBD DT NN IN NNS TO VB RP NNS FW CC NN VBD NN .</POS>
+		<Lemma>I use a couple of bluray to check out color etc. and everything seem fine .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I think they key is adjust as much as you can using the monitor controls -LRB- or do n't and just use 50 % settings or default settings -RRB- and then adjust using software .</Tokens>
+		<POS>PRP VBP PRP JJ VBZ VBP RB JJ IN PRP MD VBG DT NN NNS -LRB- CC VBP RB CC RB VB CD NN NNS CC NN NNS -RRB- CC RB VBP VBG NN .</POS>
+		<Lemma>I think they key be adjust as much as you can use the monitor control -lrb- or do not and just use 50 % setting or default setting -rrb- and then adjust use software .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I seemed to have better results with software-based tweaks .</Tokens>
+		<POS>PRP VBD TO VB JJR NNS IN JJ NNS .</POS>
+		<Lemma>I seem to have better result with software-based tweak .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>It 's not `` perfect '' since I 'm not a professional calibrator and thus ca n't test it with a colorimeter , etc. but it looks good to me .</Tokens>
+		<POS>PRP VBZ RB `` JJ '' IN PRP VBP RB DT JJ NN CC RB MD RB VB PRP IN DT NN , FW CC PRP VBZ JJ TO PRP .</POS>
+		<Lemma>it be not `` perfect '' since I be not a professional calibrator and thus can not test it with a colorimeter , etc. but it look good to I .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Others with better calibration skills may have a different opinion so YMMV .</Tokens>
+		<POS>NNS IN JJR NN NNS MD VB DT JJ NN IN NN .</POS>
+		<Lemma>other with better calibration skill may have a different opinion so ymmv .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>But all things considered I like this monitor .</Tokens>
+		<POS>CC DT NNS VBN PRP IN DT NN .</POS>
+		<Lemma>but all thing consider I like this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Other stuff : The preset modes -LRB- standard , text , movie , etc. -RRB- just pump up the contrast and saturation to varying degrees .</Tokens>
+		<POS>JJ NN : DT JJ NNS -LRB- NN , NN , NN , NN -RRB- RB VB RP DT NN CC NN TO VBG NNS .</POS>
+		<Lemma>other stuff : the preset mode -lrb- standard , text , movie , etc. -rrb- just pump up the contrast and saturation to vary degree .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Some may find them effective but I will likely never use them .</Tokens>
+		<POS>DT MD VB PRP JJ CC PRP MD RB RB VB PRP .</POS>
+		<Lemma>some may find they effective but I will likely never use they .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Not sure if the lower than average color gamut is noticeable to me ; I guess I 'll find out when I A-B with my CRT ; not really doing any `` serious '' photo\/video editing so it might not matter .</Tokens>
+		<POS>RB JJ IN DT JJR IN JJ NN NN VBZ JJ TO PRP : PRP VBP PRP MD VB RP WRB PRP VBP IN PRP$ NNP : RB RB VBG DT `` JJ '' NN NN IN PRP MD RB VB .</POS>
+		<Lemma>not sure if the lower than average color gamut be noticeable to I ; I guess I 'll find out when I a-b with my CRT ; not really do any `` serious '' photo\/video editing so it might not matter .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>When hooking up via HDMI , my desktop was too large -LRB- icons off the screen , etc. -RRB- .</Tokens>
+		<POS>WRB VBG RP IN NNP , PRP$ NN VBD RB JJ -LRB- NNS IN DT NN , NN -RRB- .</POS>
+		<Lemma>when hook up via HDMI , my desktop be too large -lrb- icon off the screen , etc. -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>I finally figured out that AMD software allows for multiple color space settings with this monitor -LRB- I saw four choices -RRB- .</Tokens>
+		<POS>PRP RB VBD RP IN NNP NN VBZ IN JJ NN NN NNS IN DT NN -LRB- PRP VBD CD NNS -RRB- .</POS>
+		<Lemma>I finally figure out that AMD software allow for multiple color space setting with this monitor -lrb- I see four choice -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>I think I chose the 4:4:2 PC Standard and it fixed the problem .</Tokens>
+		<POS>PRP VBP PRP VBD DT CD NN NNP CC PRP VBD DT NN .</POS>
+		<Lemma>I think I choose the 4:4:2 pc Standard and it fix the problem .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Amazon shipped the monitor double boxed ; however the outer box was much larger and they only used large pieces of rolled\/folded brown paper as filler .</Tokens>
+		<POS>NNP VBD DT NN JJ VBN : RB DT JJ NN VBD RB JJR CC PRP RB VBD JJ NNS IN JJ JJ NN IN NN .</POS>
+		<Lemma>Amazon ship the monitor double box ; however the outer box be much larger and they only use large piece of rolled\/folded brown paper as filler .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>No peanuts or other additional packing material .</Tokens>
+		<POS>DT NNS CC JJ JJ NN NN .</POS>
+		<Lemma>no peanut or other additional packing material .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Thus the monitor box inside had lots of space to bounce around during shipment .</Tokens>
+		<POS>RB DT NN NN IN VBD NNS IN NN TO VB RP IN NN .</POS>
+		<Lemma>thus the monitor box inside have lot of space to bounce around during shipment .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>Thankfully Acer packed it well .</Tokens>
+		<POS>RB NNP VBD PRP RB .</POS>
+		<Lemma>thankfully Acer pack it well .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>However , nothing appeared damaged and the monitor is working fine .</Tokens>
+		<POS>RB , NN VBD JJ CC DT NN VBZ VBG NN .</POS>
+		<Lemma>however , nothing appear damaged and the monitor be work fine .</Lemma>
+	</Sentence>
+</Document>

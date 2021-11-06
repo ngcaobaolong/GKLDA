@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera does it all in all kinds of places .</Tokens>
+		<POS>DT NN VBZ PRP DT IN DT NNS IN NNS .</POS>
+		<Lemma>this camera do it all in all kind of place .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No complaints what so ever .</Tokens>
+		<POS>DT NNS WDT RB RB .</POS>
+		<Lemma>no complaint what so ever .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Perfect pictures underwater in a pool with all kinds of tricks and setting to take awesome pics .</Tokens>
+		<POS>NNP NNS JJ IN DT NN IN DT NNS IN NNS CC VBG TO VB JJ NNS .</POS>
+		<Lemma>Perfect picture underwater in a pool with all kind of trick and set to take awesome pic .</Lemma>
+	</Sentence>
+</Document>

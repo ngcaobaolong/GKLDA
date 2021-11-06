@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love this mix .</Tokens>
+		<POS>NN DT NN .</POS>
+		<Lemma>love this mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I just add a little salt during preparation .</Tokens>
+		<POS>PRP RB VBP DT JJ NN IN NN .</POS>
+		<Lemma>I just add a little salt during preparation .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sure you can add more ingrediants but when I do n't feel like fussing all day in the kitchen this is excellent as packaged .</Tokens>
+		<POS>RB PRP MD VB JJR NNS CC WRB PRP VBP RB VB IN VBG DT NN IN DT NN DT VBZ JJ IN VBN .</POS>
+		<Lemma>sure you can add more ingrediant but when I do not feel like fuss all day in the kitchen this be excellent as package .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The leftovers are excellent for a quick meal the next day .</Tokens>
+		<POS>DT NNS VBP JJ IN DT JJ NN DT JJ NN .</POS>
+		<Lemma>the leftovers be excellent for a quick meal the next day .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only thing I had to get over was its appearance after preparing it straight from the package .</Tokens>
+		<POS>DT JJ NN PRP VBD TO VB RP VBD PRP$ NN IN VBG PRP RB IN DT NN .</POS>
+		<Lemma>the only thing I have to get over be its appearance after prepare it straight from the package .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I was n't expecting it to look so green -LRB- foolish thinking when it has green peas -RRB- .</Tokens>
+		<POS>PRP VBD RB VBG PRP TO VB RB JJ -LRB- JJ NN WRB PRP VBZ JJ NNS -RRB- .</POS>
+		<Lemma>I be not expect it to look so green -lrb- foolish thinking when it have green pea -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Once I tasted it though , it was FANTASTIC !</Tokens>
+		<POS>RB PRP VBD PRP RB , PRP VBD NNP .</POS>
+		<Lemma>once I taste it though , it be FANTASTIC !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Will continue to purchase this excellent mix !!</Tokens>
+		<POS>MD VB TO VB DT JJ NN IN</POS>
+		<Lemma>will continue to purchase this excellent mix !!</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I must have this in the house at all times !!!</Tokens>
+		<POS>PRP MD VB DT IN DT NN IN DT NNS VBP</POS>
+		<Lemma>I must have this in the house at all time !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love that I know it is only 1 weight watcher point .</Tokens>
+		<POS>PRP VBP IN PRP VBP PRP VBZ RB CD NN NN NN .</POS>
+		<Lemma>I love that I know it be only 1 weight watcher point .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is just the right serving size and tastes fantastic !</Tokens>
+		<POS>PRP VBZ RB DT JJ VBG NN CC NNS JJ .</POS>
+		<Lemma>it be just the right serve size and taste fantastic !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Get it !</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>get it !</Lemma>
+	</Sentence>
+</Document>

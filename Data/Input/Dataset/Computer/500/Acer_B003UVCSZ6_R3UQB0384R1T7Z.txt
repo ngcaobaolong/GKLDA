@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for an upgrade on a monitor .</Tokens>
+		<POS>PRP VBD VBG IN DT NN IN DT NN .</POS>
+		<Lemma>I be look for a upgrade on a monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I got a new pc so I wanted a nice size monitor for it without busting me in price .</Tokens>
+		<POS>PRP VBD DT JJ NN IN PRP VBD DT JJ NN NN IN PRP IN VBG PRP IN NN .</POS>
+		<Lemma>I get a new pc so I want a nice size monitor for it without bust I in price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I came across the acer read some of the reviews andi was a little skeptical , but the price was right .</Tokens>
+		<POS>IN PRP VBD IN DT NN VBD DT IN DT NNS NN VBD DT JJ JJ , CC DT NN VBD RB .</POS>
+		<Lemma>so I come across the acer read some of the review andus be a little skeptical , but the price be right .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Hooked it worked like a charm , great picture , bright colors and very light weight .</Tokens>
+		<POS>VBD PRP VBD IN DT NN , JJ NN , JJ NNS CC RB JJ NN .</POS>
+		<Lemma>hook it work like a charm , great picture , bright color and very light weight .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm very satisfied with it especially for he price .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP RB IN PRP NN .</POS>
+		<Lemma>I be very satisfied with it especially for he price .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Did not have a ring around it like other reviews stated .</Tokens>
+		<POS>VBD RB VB DT NN IN PRP IN JJ NNS VBN .</POS>
+		<Lemma>do not have a ring around it like other review state .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Good monitor for the price .</Tokens>
+		<POS>JJ NN IN DT NN .</POS>
+		<Lemma>good monitor for the price .</Lemma>
+	</Sentence>
+</Document>

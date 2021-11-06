@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was worried if I would be able to get this set up to view over the internet because I kinda stumble my way around routers and virtual servers and the like , but I found if you follow the directions -LRB- that are in tiny font !! -RRB-</Tokens>
+		<POS>PRP VBD VBN IN PRP MD VB JJ TO VB DT VBN RP TO VB IN DT NN IN PRP VBP VB PRP$ NN IN NNS CC JJ NNS CC DT JJ , CC PRP VBD IN PRP VBP DT NNS -LRB- WDT VBP IN JJ NN NN -RRB-</POS>
+		<Lemma>I be worry if I would be able to get this set up to view over the internet because I kinda stumble my way around router and virtual server and the like , but I find if you follow the direction -lrb- that be in tiny font !! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was able to get it done with only a few hiccups ... mostly just having to double check all the setting I put in .</Tokens>
+		<POS>PRP VBD JJ TO VB PRP VBN IN RB DT JJ NNS : RB RB VBG TO JJ NN PDT DT NN PRP VBD RP .</POS>
+		<Lemma>I be able to get it do with only a few hiccup ... mostly just have to double check all the setting I put in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I also watched a few videos on you tube explaining how to do it and that helped .</Tokens>
+		<POS>PRP RB VBD DT JJ NNS IN PRP NN VBG WRB TO VB PRP CC IN VBN .</POS>
+		<Lemma>I also watch a few video on you tube explain how to do it and that help .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The picture is very good and has no problem lighting up our living room at night .</Tokens>
+		<POS>DT NN VBZ RB JJ CC VBZ DT NN VBG RP PRP$ VBG NN IN NN .</POS>
+		<Lemma>the picture be very good and have no problem light up we live room at night .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I think for the price it is pretty amazing to be able to watch over you house any where in the world with a internet connection ... able to pan it up and down and sideways and even listen .</Tokens>
+		<POS>PRP VBP IN DT NN PRP VBZ RB JJ TO VB JJ TO VB IN PRP VBP DT WRB IN DT NN IN DT NN NN : JJ TO VB PRP RB CC RB CC RB CC RB VB .</POS>
+		<Lemma>I think for the price it be pretty amazing to be able to watch over you house any where in the world with a internet connection ... able to pan it up and down and sideways and even listen .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>There are a lot more feature 's I have not delved into yet .</Tokens>
+		<POS>EX VBP DT NN JJR NN POS PRP VBP RB VBN IN RB .</POS>
+		<Lemma>there be a lot more feature 's I have not delve into yet .</Lemma>
+	</Sentence>
+</Document>

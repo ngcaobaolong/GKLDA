@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Basic monitor is what I needed , good monitor is what I got .</Tokens>
+		<POS>JJ NN VBZ WP PRP VBD , JJ NN VBZ WP PRP VBD .</POS>
+		<Lemma>basic monitor be what I need , good monitor be what I get .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This monitor is clear and always ready for action !</Tokens>
+		<POS>DT NN VBZ JJ CC RB JJ IN NN .</POS>
+		<Lemma>this monitor be clear and always ready for action !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,132 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just got the S100 and still playing with it .</Tokens>
+		<POS>RB VBD DT NN CC RB VBG IN PRP .</POS>
+		<Lemma>just get the s100 and still play with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Picture quality and camera function seems fine to this point .</Tokens>
+		<POS>NNP NN CC NN NN VBZ JJ TO DT NN .</POS>
+		<Lemma>Picture quality and camera function seem fine to this point .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , you can not post process the pictures in Photoshop .</Tokens>
+		<POS>RB , PRP MD RB VB NN DT NNS IN NNP .</POS>
+		<Lemma>however , you can not post process the picture in Photoshop .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am using CS 5 and process most of my shots in camera raw .</Tokens>
+		<POS>PRP VBP VBG NNP CD CC NN JJS IN PRP$ NNS IN NN JJ .</POS>
+		<Lemma>I be use CS 5 and process most of my shot in camera raw .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Adobe has not yet added the S100 to their camera file .</Tokens>
+		<POS>NNP VBZ RB RB VBD DT NN TO PRP$ NN NN .</POS>
+		<Lemma>Adobe have not yet add the s100 to they camera file .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You can not process raw or JPEG images in CS 5 at all .</Tokens>
+		<POS>PRP MD RB VB JJ CC NN NNS IN NNP CD IN DT .</POS>
+		<Lemma>you can not process raw or jpeg image in CS 5 at all .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I assume that means you ca n't process in lower versions of Photoshop as well .</Tokens>
+		<POS>PRP VBP DT VBZ PRP MD RB VB IN JJR NNS IN NNP RB RB .</POS>
+		<Lemma>I assume that mean you can not process in lower version of Photoshop as well .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Hopefully , Adobe will update the Camera Raw processor soon and include the S100 .</Tokens>
+		<POS>RB , NNP MD VB DT NNP NN NN RB CC VBP DT NN .</POS>
+		<Lemma>hopefully , Adobe will update the Camera raw processor soon and include the s100 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>By the way , the Canon processing software included with the camera is LAME .</Tokens>
+		<POS>IN DT NN , DT NNP NN NN VBD IN DT NN VBZ NNP .</POS>
+		<Lemma>by the way , the Canon processing software include with the camera be LAME .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Edit 12\/21\/11 : As several comments point out , the recent release of Raw 6.6 now allows processing of raw files in CS 5 .</Tokens>
+		<POS>VB CD : IN JJ NNS VBP RP , DT JJ NN IN NN CD RB VBZ NN IN JJ NNS IN NNP CD .</POS>
+		<Lemma>edit 12\/21\/11 : as several comment point out , the recent release of raw 6.6 now allow processing of raw file in CS 5 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Turns out my inability to process Jpegs was due to my card reader .</Tokens>
+		<POS>VBZ RP PRP$ NN TO VB NNP VBD JJ TO PRP$ NN NN .</POS>
+		<Lemma>turn out my inability to process Jpegs be due to my card reader .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>My older card reader would not read the new SD 8GB card .</Tokens>
+		<POS>PRP$ JJR NN NN MD RB VB DT JJ NN NN NN .</POS>
+		<Lemma>my older card reader would not read the new sd 8gb card .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>My SLR 's use CF and this is my first SD card camera .</Tokens>
+		<POS>PRP$ NN POS NN NN CC DT VBZ PRP$ JJ NN NN NN .</POS>
+		<Lemma>my slr 's use cf and this be my first sd card camera .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>An new card reader solved the problem .</Tokens>
+		<POS>DT JJ NN NN VBD DT NN .</POS>
+		<Lemma>a new card reader solve the problem .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Been using the camera now for few weeks .</Tokens>
+		<POS>VBN VBG DT NN RB IN JJ NNS .</POS>
+		<Lemma>be use the camera now for few week .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Lots of functions , many of which I 'll never use .</Tokens>
+		<POS>NNS IN NNS , JJ IN WDT PRP MD RB VB .</POS>
+		<Lemma>lot of function , many of which I 'll never use .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Picture quality is very good -LRB- but not excellent -RRB- .</Tokens>
+		<POS>NNP NN VBZ RB JJ -LRB- CC RB JJ -RRB- .</POS>
+		<Lemma>Picture quality be very good -lrb- but not excellent -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Color quality very good .</Tokens>
+		<POS>NNP NN RB JJ .</POS>
+		<Lemma>Color quality very good .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Sharpness , good .</Tokens>
+		<POS>NN , JJ .</POS>
+		<Lemma>sharpness , good .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Speed , very good .</Tokens>
+		<POS>NN , RB JJ .</POS>
+		<Lemma>speed , very good .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Low light very good .</Tokens>
+		<POS>JJ JJ RB JJ .</POS>
+		<Lemma>low light very good .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Noise , good to very good .</Tokens>
+		<POS>NN , JJ TO RB JJ .</POS>
+		<Lemma>noise , good to very good .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Video , have not used much .</Tokens>
+		<POS>NNP , VBP RB VBN JJ .</POS>
+		<Lemma>Video , have not use much .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I upgraded my rating from 3 to 4 stars .</Tokens>
+		<POS>PRP VBD PRP$ NN IN CD TO CD NNS .</POS>
+		<Lemma>I upgrade my rating from 3 to 4 star .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Still not sure the camera is worth the extra money .</Tokens>
+		<POS>RB RB JJ DT NN VBZ IN DT JJ NN .</POS>
+		<Lemma>still not sure the camera be worth the extra money .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Compare to the S95 while it is still available before you buy .</Tokens>
+		<POS>VB TO DT NN IN PRP VBZ RB JJ IN PRP VBP .</POS>
+		<Lemma>compare to the s95 while it be still available before you buy .</Lemma>
+	</Sentence>
+</Document>

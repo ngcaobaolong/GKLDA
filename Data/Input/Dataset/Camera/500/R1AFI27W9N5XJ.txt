@@ -1,0 +1,142 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I start the review of this excellent camera with a request for correction on the lens nomenclature .</Tokens>
+		<POS>PRP VBP DT NN IN DT JJ NN IN DT NN IN NN IN DT NN NN .</POS>
+		<Lemma>I start the review of this excellent camera with a request for correction on the lens nomenclature .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Lens is Carl Zeiss Vario-Sonnar T , which is a Carl Zeiss Professional grade lens , and not Vario Tessar Lens as indicated on Amazon .</Tokens>
+		<POS>DT NNP VBZ NNP NNP NNP NN , WDT VBZ DT NNP NNP NNP NN NN , CC RB NNP NNP NNP IN VBN IN NNP .</POS>
+		<Lemma>the Lens be Carl Zeiss Vario-Sonnar t , which be a Carl Zeiss Professional grade lens , and not Vario Tessar Lens as indicate on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I want Amazon to note and c orrect this serious error .</Tokens>
+		<POS>PRP VBP NNP TO VB CC NN NN DT JJ NN .</POS>
+		<Lemma>I want Amazon to note and c orrect this serious error .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have bought the camera and there is an errata correction sheet enclosed that indicates this correction .</Tokens>
+		<POS>PRP VBP VBN DT NN CC EX VBZ DT NNS NN NN VBD IN VBZ DT NN .</POS>
+		<Lemma>I have buy the camera and there be a erratum correction sheet enclose that indicate this correction .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have been an amateur photographer for the last 30 years .</Tokens>
+		<POS>PRP VBP VBN DT JJ NNP IN DT JJ CD NNS .</POS>
+		<Lemma>I have be a amateur photographer for the last 30 year .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have never wanted to buy DSLR due to bulkiness and prohibitive costs to have zoom range upto 30X .</Tokens>
+		<POS>PRP VBP RB VBN TO VB NNP JJ TO NN CC JJ NNS TO VB NN NN NN NN .</POS>
+		<Lemma>I have never want to buy DSLR due to bulkiness and prohibitive cost to have zoom range upto 30x .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I also wanted a camera that captures good still pictures as well as be capable of HDMI P. This does it all .</Tokens>
+		<POS>PRP RB VBD DT NN WDT VBZ JJ RB NNS RB RB IN VB JJ IN NNP NNP NNP VBZ PRP DT .</POS>
+		<Lemma>I also want a camera that capture good still picture as well as be capable of HDMI P. This do it all .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I like nature and wildlife photography without having to use a tripod .</Tokens>
+		<POS>PRP VBP NN CC NN NN IN VBG TO VB DT NN .</POS>
+		<Lemma>I like nature and wildlife photography without have to use a tripod .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This camera meets my requirement with 30X optical zoom , Video upto HDMI 60P , various modes such as smart panorama .</Tokens>
+		<POS>DT NN VBZ PRP$ NN IN NN JJ NN , NNP NNP NNP NNP , JJ NNS JJ IN JJ NN .</POS>
+		<Lemma>this camera meet my requirement with 30x optical zoom , Video upto HDMI 60P , various mode such as smart panorama .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Also the camera can take stills in various formats .</Tokens>
+		<POS>RB DT NN MD VB NNS IN JJ NNS .</POS>
+		<Lemma>also the camera can take still in various format .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I have used a 32 GB , Sandisk SDHC extreme III card -LRB- Class 10 + -RRB- to ensure adequate memory capacity with speed .</Tokens>
+		<POS>PRP VBP VBN DT CD NN , NNP NNP JJ NNP NN -LRB- NN CD CC -RRB- TO VB JJ NN NN IN NN .</POS>
+		<Lemma>I have use a 32 gb , Sandisk SDHC extreme III card -lrb- class 10 + -rrb- to ensure adequate memory capacity with speed .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I am truly amazed at the shake free pictures that I get at 30X zoom made possible by optical shake correction .</Tokens>
+		<POS>PRP VBP RB VBN IN DT NN JJ NNS IN PRP VBP IN NNP NN VBD JJ IN JJ NN NN .</POS>
+		<Lemma>I be truly amaze at the shake free picture that I get at 30X zoom make possible by optical shake correction .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I recently took a shot of a pigeon on top of a ledge about 40 feet away with 30X zoom .</Tokens>
+		<POS>PRP RB VBD DT NN IN DT NN IN NN IN DT NN IN CD NNS RB IN NN NN .</POS>
+		<Lemma>I recently take a shot of a pigeon on top of a ledge about 40 foot away with 30x zoom .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I am able to see the toe nail of the pigeon clearly .</Tokens>
+		<POS>PRP VBP JJ TO VB DT NN NN IN DT NN RB .</POS>
+		<Lemma>I be able to see the toe nail of the pigeon clearly .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The videos are excellent due to high frame rate .</Tokens>
+		<POS>DT NNS VBP JJ JJ TO JJ NN NN .</POS>
+		<Lemma>the video be excellent due to high frame rate .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>In my view the camera captures true color .</Tokens>
+		<POS>IN PRP$ NN DT NN VBZ JJ NN .</POS>
+		<Lemma>in my view the camera capture true color .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I am making this statement with my visual perception without extensive laboratory tests .</Tokens>
+		<POS>PRP VBP VBG DT NN IN PRP$ JJ NN IN JJ NN NNS .</POS>
+		<Lemma>I be make this statement with my visual perception without extensive laboratory test .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>As I capture shots on the move and not into any artistic photography this camera suits me very well and I am convinced that I do n't need a DSLR .</Tokens>
+		<POS>IN PRP VBP NNS IN DT NN CC RB IN DT JJ NN DT NN NNS PRP RB RB CC PRP VBP VBN IN PRP VBP RB VB DT NN .</POS>
+		<Lemma>as I capture shot on the move and not into any artistic photography this camera suit I very well and I be convince that I do not need a dslr .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The GPS with Compass is very good helping me capture location data .</Tokens>
+		<POS>DT NN IN NN VBZ RB JJ VBG PRP VB NN NNS .</POS>
+		<Lemma>the gp with compass be very good help I capture location datum .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I just used the GPS function to automatically set the time of the Camera clock and direction of view .</Tokens>
+		<POS>PRP RB VBD DT NN NN TO RB VB DT NN IN DT NNP NN CC NN IN NN .</POS>
+		<Lemma>I just use the gp function to automatically set the time of the Camera clock and direction of view .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The camera battery life is good though with GPS On there is 25 % exrtra drain .</Tokens>
+		<POS>DT NN NN NN VBZ JJ IN IN NN IN EX VBZ CD NN NN NN .</POS>
+		<Lemma>the camera battery life be good though with gp on there be 25 % exrtra drain .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I have bought a spare battery with charger to address this issue .</Tokens>
+		<POS>PRP VBP VBN DT JJ NN IN NN TO VB DT NN .</POS>
+		<Lemma>I have buy a spare battery with charger to address this issue .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>This has excellent stereo microphones right on top with a wind noise cancellation option .</Tokens>
+		<POS>DT VBZ JJ NN NNS RB IN JJ IN DT NN NN NN NN .</POS>
+		<Lemma>this have excellent stereo microphone right on top with a wind noise cancellation option .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I am yet to test this feature in high wind conditions .</Tokens>
+		<POS>PRP VBP RB TO VB DT NN IN JJ NN NNS .</POS>
+		<Lemma>I be yet to test this feature in high wind condition .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>At the moment I am assuming that it is going to be good .</Tokens>
+		<POS>IN DT NN PRP VBP VBG IN PRP VBZ VBG TO VB JJ .</POS>
+		<Lemma>at the moment I be assume that it be go to be good .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I strongly recommend this camera .</Tokens>
+		<POS>PRP RB VB DT NN .</POS>
+		<Lemma>I strongly recommend this camera .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I did consider , Olympus , Canon and Nikon before buying this one as it has all the features that I want .</Tokens>
+		<POS>PRP VBD VB , NNP , NNP CC NNP IN VBG DT CD IN PRP VBZ PDT DT NNS IN PRP VBP .</POS>
+		<Lemma>I do consider , Olympus , Canon and Nikon before buy this one as it have all the feature that I want .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>HNS</Tokens>
+		<POS>NNS</POS>
+		<Lemma>hn</Lemma>
+	</Sentence>
+</Document>

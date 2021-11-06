@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor worked properly as a plug-and-play , and the picture quality is good .</Tokens>
+		<POS>DT NN VBD RB IN DT JJ , CC DT NN NN VBZ JJ .</POS>
+		<Lemma>the monitor work properly as a plug-and-play , and the picture quality be good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , there is a small but noticeable defect on the screen , which appears as a somewhat darkened area -LRB- most noticeable with the blue desktop background -RRB- .</Tokens>
+		<POS>RB , EX VBZ DT JJ CC JJ NN IN DT NN , WDT VBZ IN DT RB JJ NN -LRB- RBS JJ IN DT JJ NN NN -RRB- .</POS>
+		<Lemma>however , there be a small but noticeable defect on the screen , which appear as a somewhat darkened area -lrb- most noticeable with the blue desktop background -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's aggravating to have this problem with a new monitor , but I decided to live with it rather than go through the hassle of returning it .</Tokens>
+		<POS>PRP VBZ VBG TO VB DT NN IN DT JJ NN , CC PRP VBD TO VB IN PRP RB IN VB IN DT NN IN VBG PRP .</POS>
+		<Lemma>it be aggravate to have this problem with a new monitor , but I decide to live with it rather than go through the hassle of return it .</Lemma>
+	</Sentence>
+</Document>

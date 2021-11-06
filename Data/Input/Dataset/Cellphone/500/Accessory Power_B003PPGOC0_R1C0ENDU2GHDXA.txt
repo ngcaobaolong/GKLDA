@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just received the Go Groove FlexSMART X2 and had it set up in literally just minutes !</Tokens>
+		<POS>RB VBN DT NNP NNP NNP NN CC VBD PRP VBD RP IN RB RB NNS .</POS>
+		<Lemma>just receive the Go Groove FlexSMART x2 and have it set up in literally just minute !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great sound quality !</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>great sound quality !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The best transmitter I 've had !</Tokens>
+		<POS>DT JJS NN PRP VBP VBD .</POS>
+		<Lemma>the best transmitter I have have !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Bluetooth makes it a plus and hands free phone a double plus !</Tokens>
+		<POS>NNP VBZ PRP DT NN CC NNS JJ NN DT JJ CC .</POS>
+		<Lemma>Bluetooth make it a plus and hand free phone a double plus !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The quality of the hands free is amazing as well !</Tokens>
+		<POS>DT NN IN DT NNS JJ VBZ JJ RB RB .</POS>
+		<Lemma>the quality of the hand free be amazing as well !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The only problem I have is that I have to `` pair '' it each time I get in the car .</Tokens>
+		<POS>DT JJ NN PRP VBP VBZ IN PRP VBP TO `` NN '' PRP DT NN PRP VBP IN DT NN .</POS>
+		<Lemma>the only problem I have be that I have to `` pair '' it each time I get in the car .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 've read it 's supposed to automatically re `` pair '' but that 's not happening for me .</Tokens>
+		<POS>PRP VBP VBN PRP VBZ VBN TO RB VB `` NN '' CC DT VBZ RB VBG IN PRP .</POS>
+		<Lemma>I have read it be suppose to automatically re `` pair '' but that be not happen for I .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Any suggestions anyone who has one ?</Tokens>
+		<POS>DT NNS NN WP VBZ CD .</POS>
+		<Lemma>any suggestion anyone who have one ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Accessory `` Genie '' ?</Tokens>
+		<POS>NN `` NNP '' .</POS>
+		<Lemma>accessory `` Genie '' ?</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use a dual monitor workstation -LRB- normally both 24 '' -RRB- for web development and video production .</Tokens>
+		<POS>PRP VBP DT JJ NN NN -LRB- RB DT CD '' -RRB- IN NN NN CC NN NN .</POS>
+		<Lemma>I use a dual monitor workstation -lrb- normally both 24 '' -rrb- for web development and video production .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>One of my monitors recently went south -LRB- quit working -RRB- , and I went looking for a replacement .</Tokens>
+		<POS>CD IN PRP$ NNS RB VBD RB -LRB- VBN VBG -RRB- , CC PRP VBD VBG IN DT NN .</POS>
+		<Lemma>one of my monitor recently go south -lrb- quit work -rrb- , and I go look for a replacement .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Though this monitor is only a 23 '' , the reviews were good and I 've always had good luck with Acer products .</Tokens>
+		<POS>IN DT NN VBZ RB DT CD '' , DT NNS VBD JJ CC PRP VBP RB VBN JJ NN IN NN NNS .</POS>
+		<Lemma>though this monitor be only a 23 '' , the review be good and I have always have good luck with acer product .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm glad I went with it , it actually exceeds my ViewSonic for color , brightness , and pixel quality .</Tokens>
+		<POS>PRP VBP JJ PRP VBD IN PRP , PRP RB VBZ PRP$ NNP IN NN , NN , CC NN NN .</POS>
+		<Lemma>I be glad I go with it , it actually exceed my ViewSonic for color , brightness , and pixel quality .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In fact , my 24 '' Viewsonic has now been moved to second monitor position and this Acer is now the primary .</Tokens>
+		<POS>IN NN , PRP$ CD '' NNP VBZ RB VBN VBN TO JJ NN NN CC DT NNP VBZ RB DT JJ .</POS>
+		<Lemma>in fact , my 24 '' Viewsonic have now be move to second monitor position and this Acer be now the primary .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Though it does n't have quite the screen real estate , it 's an excellent monitor and crystal clear at a resolution of 1920x1080 .</Tokens>
+		<POS>IN PRP VBZ RB VB RB DT NN JJ NN , PRP VBZ DT JJ NN CC NN JJ IN DT NN IN CD .</POS>
+		<Lemma>though it do not have quite the screen real estate , it be a excellent monitor and crystal clear at a resolution of 1920x1080 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Very happy with the monitor and the price ...</Tokens>
+		<POS>RB JJ IN DT NN CC DT NN :</POS>
+		<Lemma>very happy with the monitor and the price ...</Lemma>
+	</Sentence>
+</Document>

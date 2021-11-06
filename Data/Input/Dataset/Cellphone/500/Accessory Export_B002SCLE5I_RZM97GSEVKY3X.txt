@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this antenna based on the already low rating due to some mixed reviews saying it works .</Tokens>
+		<POS>PRP VBD DT NN VBN IN DT RB JJ NN JJ TO DT JJ NNS VBG PRP VBZ .</POS>
+		<Lemma>I purchase this antenna base on the already low rating due to some mixed review say it work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I received a pack of multiple Universal Generation X Cell phone Antenna 's as I read the instructions it says if you have the space to put two than you can .</Tokens>
+		<POS>PRP VBD DT NN IN JJ JJ NN NN NN NN NNP POS IN PRP VBP DT NNS PRP VBZ IN PRP VBP DT NN TO VB CD IN PRP MD .</POS>
+		<Lemma>I receive a pack of multiple universal generation x cell phone Antenna 's as I read the instruction it say if you have the space to put two than you can .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First I tried it with one antenna and NO improvement , then tried it with two still NO improvement and I even had space for three so I added and third , guess what , NO improvment .</Tokens>
+		<POS>RB PRP VBD PRP IN CD NN CC NN NN , RB VBD PRP IN CD RB NN NN CC PRP RB VBD NN IN CD IN PRP VBD CC JJ , VB WP , NN NN .</POS>
+		<Lemma>first I try it with one antenna and no improvement , then try it with two still no improvement and I even have space for three so I add and third , guess what , no improvment .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am not completely sure if these antenna 's are the offical antenna 's they seem kind of bootleg and I must admit I have literally seen studies showing they boost signal , but that is if you purchase the offical Universal Generation X Cell phone antenna .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT NN POS VBP DT JJ NN POS PRP VBP NN IN NN CC PRP MD VB PRP VBP RB VBN NNS VBG PRP VBP NN , CC DT VBZ IN PRP VBP DT JJ JJ NN NN NN NN NN .</POS>
+		<Lemma>I be not completely sure if these antenna 's be the offical antenna 's they seem kind of bootleg and I must admit I have literally see study show they boost signal , but that be if you purchase the offical universal generation x cell phone antenna .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>As my mother always told me '' You get what you pay for !! ''</Tokens>
+		<POS>IN PRP$ NN RB VBD PRP '' PRP VBP WP PRP VBP IN NN ''</POS>
+		<Lemma>as my mother always tell I '' you get what you pay for !! ''</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The price is not a steal but a true indicator that this deal is TOO GOOD TO BE TRUE .</Tokens>
+		<POS>DT NN VBZ RB DT VB CC DT JJ NN IN DT NN VBZ RB JJ TO VB JJ .</POS>
+		<Lemma>the price be not a steal but a true indicator that this deal be too good to be true .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I againt these antenna 's DO NOT WORK AT ALL !!!!!!!!</Tokens>
+		<POS>PRP VBP DT NN POS NNP NNP VBP IN NN CD</POS>
+		<Lemma>I againt these antenna 's DO NOT work at all !!!!!!!!</Lemma>
+	</Sentence>
+</Document>

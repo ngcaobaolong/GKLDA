@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My Dell Streak needed more power than any normal USB car adapter could give me .</Tokens>
+		<POS>PRP$ NNP NNP VBD JJR NN IN DT JJ JJ NN NN MD VB PRP .</POS>
+		<Lemma>my Dell Streak need more power than any normal usb car adapter could give I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This did the trick and gave me more choices in how to power\/charge device .</Tokens>
+		<POS>DT VBD DT NN CC VBD PRP RBR NNS IN WRB TO VB NN .</POS>
+		<Lemma>this do the trick and give I more choice in how to power\/charge device .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The options to use two different types of regular batteries is AWESOME .</Tokens>
+		<POS>DT NNS TO VB CD JJ NNS IN JJ NNS VBZ NNP .</POS>
+		<Lemma>the option to use two different type of regular battery be AWESOME .</Lemma>
+	</Sentence>
+</Document>

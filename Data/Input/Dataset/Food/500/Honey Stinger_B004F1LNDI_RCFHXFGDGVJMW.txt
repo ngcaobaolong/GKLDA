@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Stinger Waffles taste great and have been a life saver more than once when I 've `` bonked '' on a long ride or hike .</Tokens>
+		<POS>DT NNP NNP NN JJ CC VBP VBN DT NN NN JJR IN RB WRB PRP VBP `` VBN '' IN DT JJ NN CC NN .</POS>
+		<Lemma>the Stinger Waffles taste great and have be a life saver more than once when I have `` bonk '' on a long ride or hike .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like the vanilla ones a little better , but both taste great .</Tokens>
+		<POS>PRP VBP DT NN NNS DT JJ JJR , CC DT NN JJ .</POS>
+		<Lemma>I like the vanilla one a little better , but both taste great .</Lemma>
+	</Sentence>
+</Document>

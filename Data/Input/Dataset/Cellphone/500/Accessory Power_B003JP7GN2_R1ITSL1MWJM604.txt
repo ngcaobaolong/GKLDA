@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We took our new charger camping with us .</Tokens>
+		<POS>PRP VBD PRP$ JJ NN NN IN PRP .</POS>
+		<Lemma>we take we new charger camping with we .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was great to have many options .</Tokens>
+		<POS>PRP VBD JJ TO VB JJ NNS .</POS>
+		<Lemma>it be great to have many option .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When using batteries it basically maintains the charge you have , it will not fill the charge .</Tokens>
+		<POS>WRB VBG NNS PRP RB VBZ DT NN PRP VBP , PRP MD RB VB DT NN .</POS>
+		<Lemma>when use battery it basically maintain the charge you have , it will not fill the charge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But when charging in the car it will charge 2 phones together completely using only 1 charging port !</Tokens>
+		<POS>CC WRB VBG IN DT NN PRP MD VB CD NNS RB RB VBG RB CD VBG NN .</POS>
+		<Lemma>but when charge in the car it will charge 2 phone together completely use only 1 charge port !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The picture shows an HDMI port ... the Monitor does not ship with one .</Tokens>
+		<POS>DT NN VBZ DT NN NN : DT NNP VBZ RB VB IN CD .</POS>
+		<Lemma>the picture show a hdmus port ... the Monitor do not ship with one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Pretty shady i must say .</Tokens>
+		<POS>NNP JJ FW MD VB .</POS>
+		<Lemma>Pretty shady i must say .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>False advertising anyone ?</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>false advertising anyone ?</Lemma>
+	</Sentence>
+</Document>

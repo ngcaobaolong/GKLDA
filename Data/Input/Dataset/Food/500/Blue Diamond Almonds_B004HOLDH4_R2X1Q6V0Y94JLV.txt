@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I need to watch my sodium - but I 'm not really a fan of salty foods in the first place .</Tokens>
+		<POS>PRP VBP TO VB PRP$ NN : CC PRP VBP RB RB DT NN IN JJ NNS IN DT JJ NN .</POS>
+		<Lemma>I need to watch my sodium - but I be not really a fan of salty food in the first place .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These almonds are perfect , at half the salt .</Tokens>
+		<POS>DT NNS VBP JJ , IN PDT DT NN .</POS>
+		<Lemma>these almond be perfect , at half the salt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would prefer them over the regular salted almonds any day !</Tokens>
+		<POS>PRP MD VB PRP IN DT JJ JJ NNS DT NN .</POS>
+		<Lemma>I would prefer they over the regular salted almond any day !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have no idea why anyone would want to put MORE salt on these delicious nuts .</Tokens>
+		<POS>PRP VBP DT NN WRB NN MD VB TO VB JJR NN IN DT JJ NNS .</POS>
+		<Lemma>I have no idea why anyone would want to put more salt on these delicious nut .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The three-count 16-ounce bags -LRB- with Prime shipping -RRB- pop on and off of Amazon - buy them when they are available .</Tokens>
+		<POS>DT JJ JJ NNS -LRB- IN NNP NN -RRB- NN IN CC IN IN NNP : VB PRP WRB PRP VBP JJ .</POS>
+		<Lemma>the three-count 16-ounce bag -lrb- with Prime shipping -rrb- pop on and off of Amazon - buy they when they be available .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Otherwise you must buy the six-pack of small cans , at a higher price per ounce .</Tokens>
+		<POS>RB PRP MD VB DT NN IN JJ NNS , IN DT JJR NN IN NN .</POS>
+		<Lemma>otherwise you must buy the six-pack of small can , at a higher price per ounce .</Lemma>
+	</Sentence>
+</Document>

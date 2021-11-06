@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A great buy , good looking monitor .</Tokens>
+		<POS>DT JJ NN , JJ VBG NN .</POS>
+		<Lemma>a great buy , good look monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However I had to buy speakers separate .</Tokens>
+		<POS>RB PRP VBD TO VB NNS JJ .</POS>
+		<Lemma>however I have to buy speaker separate .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Was not aware I had too ?</Tokens>
+		<POS>VBD RB JJ PRP VBD RB .</POS>
+		<Lemma>be not aware I have too ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Tried to get in touch with a person @ Amazon over 30 trys .</Tokens>
+		<POS>VBD TO VB IN NN IN DT NN IN NNP IN CD NNS .</POS>
+		<Lemma>try to get in touch with a person @ Amazon over 30 try .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Gave up and bought the speakers elsewhere .</Tokens>
+		<POS>VBD RP CC VBD DT NNS RB .</POS>
+		<Lemma>give up and buy the speaker elsewhere .</Lemma>
+	</Sentence>
+</Document>

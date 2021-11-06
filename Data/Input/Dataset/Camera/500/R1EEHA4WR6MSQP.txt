@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Camera was a gift for my daughter , she was thrilled .</Tokens>
+		<POS>NN VBD DT NN IN PRP$ NN , PRP VBD VBN .</POS>
+		<Lemma>camera be a gift for my daughter , she be thrill .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy enough to use right out of the box , charged it up , popped in an SD card and started taking pictures .</Tokens>
+		<POS>NNP RB TO VB JJ IN IN DT NN , VBD PRP RP , VBN IN DT NN NN CC VBD VBG NNS .</POS>
+		<Lemma>Easy enough to use right out of the box , charge it up , pop in a sd card and start take picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great optical zoom .</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>great optical zoom .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was a little disappointed in the color , as the soft rubber part does not match the body of the camera exactly .</Tokens>
+		<POS>PRP VBD DT JJ JJ IN DT NN , IN DT JJ NN NN VBZ RB VB DT NN IN DT NN RB .</POS>
+		<Lemma>I be a little disappointed in the color , as the soft rubber part do not match the body of the camera exactly .</Lemma>
+	</Sentence>
+</Document>

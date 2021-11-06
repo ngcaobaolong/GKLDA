@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'd had one similar to this in my old phone and it did improve my reception by a bar so i thought i 'd buy this and improve my new phone .</Tokens>
+		<POS>PRP MD VBD CD JJ TO DT IN PRP$ JJ NN CC PRP VBD VB PRP$ NN IN DT NN RB FW VBD FW MD VB DT CC VB PRP$ JJ NN .</POS>
+		<Lemma>I would have one similar to this in my old phone and it do improve my reception by a bar so i think i would buy this and improve my new phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Unfortunately for me this did n't do anything for my reception problems .</Tokens>
+		<POS>RB IN PRP DT VBD RB VB NN IN PRP$ NN NNS .</POS>
+		<Lemma>unfortunately for I this do not do anything for my reception problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do n't know if the product was too different from the original one had or if its my new phone but a definite failure for me this time round : \/</Tokens>
+		<POS>VBP RB VB IN DT NN VBD RB JJ IN DT JJ CD VBD CC IN PRP$ PRP$ JJ NN CC DT JJ NN IN PRP DT NN NN : :</POS>
+		<Lemma>do not know if the product be too different from the original one have or if its my new phone but a definite failure for I this time round : \/</Lemma>
+	</Sentence>
+</Document>

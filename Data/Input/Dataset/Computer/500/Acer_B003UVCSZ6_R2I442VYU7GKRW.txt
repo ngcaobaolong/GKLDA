@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First off let me say that some reviews on this monitor that state that it does n't tilt ... are wrong .</Tokens>
+		<POS>RB IN VB PRP VB IN DT NNS IN DT NN WDT VBP IN PRP VBZ RB VB : VBP JJ .</POS>
+		<Lemma>first off let I say that some review on this monitor that state that it do not tilt ... be wrong .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This monitor does have a tilting stand .</Tokens>
+		<POS>DT NN VBZ VB DT VBG NN .</POS>
+		<Lemma>this monitor do have a tilt stand .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Remove the stand from the screen and there are two 8mm nuts you need to loosen so it can tilt .</Tokens>
+		<POS>VB DT NN IN DT NN CC EX VBP CD JJ NNS PRP VBP TO VB IN PRP MD VB .</POS>
+		<Lemma>remove the stand from the screen and there be two 8mm nut you need to loosen so it can tilt .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But overall this is a awesome monitor and a awesome price .</Tokens>
+		<POS>CC RB DT VBZ DT JJ NN CC DT JJ NN .</POS>
+		<Lemma>but overall this be a awesome monitor and a awesome price .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>5 stars .</Tokens>
+		<POS>CD NNS .</POS>
+		<Lemma>5 star .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>PROS : Slim .</Tokens>
+		<POS>NNS : NNP .</POS>
+		<Lemma>pro : Slim .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Picture quality is 9\/10 !</Tokens>
+		<POS>NNP NN VBZ CD .</POS>
+		<Lemma>Picture quality be 9\/10 !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Stylish .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>stylish .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Big enough to have two windows next to each other -LRB- usually Chrome and iTunes for me -RRB- .</Tokens>
+		<POS>NNP RB TO VB CD NNS JJ TO DT JJ -LRB- RB NNP CC NNP IN PRP -RRB- .</POS>
+		<Lemma>Big enough to have two window next to each other -lrb- usually Chrome and iTunes for I -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>CONS : IMPORTANT : Mine came with a horrible leak on the screen 's corners , BUT it does n't show when my computer is on , only when the monitor is on but the computer is n't .</Tokens>
+		<POS>NNS : JJ : NNP VBD IN DT JJ NN IN DT NN POS NNS , NNP PRP VBZ RB VB WRB PRP$ NN VBZ IN , RB WRB DT NN VBZ IN CC DT NN VBZ RB .</POS>
+		<Lemma>con : important : Mine come with a horrible leak on the screen 's corner , BUT it do not show when my computer be on , only when the monitor be on but the computer be not .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The menu for brightness , etc. is sort of half-a \*\* .</Tokens>
+		<POS>DT NN IN NN , FW VBZ NN IN JJ SYM .</POS>
+		<Lemma>the menu for brightness , etc. be sort of half-a \*\* .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>All in all , a great monitor for my Mac Mini !</Tokens>
+		<POS>DT IN DT , DT JJ NN IN PRP$ NNP NNP .</POS>
+		<Lemma>all in all , a great monitor for my Mac Mini !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Goes great with my Audioengine A2 speakers .</Tokens>
+		<POS>VBZ JJ IN PRP$ NN NN NNS .</POS>
+		<Lemma>go great with my audioengine a2 speaker .</Lemma>
+	</Sentence>
+</Document>

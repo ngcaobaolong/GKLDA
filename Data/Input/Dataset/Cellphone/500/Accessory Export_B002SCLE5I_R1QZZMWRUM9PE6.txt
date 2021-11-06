@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I live in a large apartment complex and can never get any bars inside my apartment .</Tokens>
+		<POS>PRP VBP IN DT JJ NN NN CC MD RB VB DT NNS IN PRP$ NN .</POS>
+		<Lemma>I live in a large apartment complex and can never get any bar inside my apartment .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The instructions said that where there is never a signal , we ca n't expect any bars , I read and followed instructions for the cell boosters , put in 5 and now I can get up to 4 bars right here inside of my apt .</Tokens>
+		<POS>DT NNS VBD IN WRB EX VBZ RB DT NN , PRP MD RB VB DT NNS , PRP VBP CC VBD NNS IN DT NN NNS , VBN IN CD CC RB PRP MD VB RP TO CD NNS RB RB IN IN PRP$ JJ .</POS>
+		<Lemma>the instruction say that where there be never a signal , we can not expect any bar , I read and follow instruction for the cell booster , put in 5 and now I can get up to 4 bar right here inside of my apt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I placed 2 on the back of my battery and 3 on the inside of the phone back .</Tokens>
+		<POS>PRP VBD CD IN DT NN IN PRP$ NN CC CD IN DT NN IN DT NN RB .</POS>
+		<Lemma>I place 2 on the back of my battery and 3 on the inside of the phone back .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In an emergency I used to have to run outside in the freezing cold to try to get even one bar .</Tokens>
+		<POS>IN DT NN PRP VBD TO VB TO VB JJ IN DT NN NN TO VB TO VB RB CD NN .</POS>
+		<Lemma>in a emergency I use to have to run outside in the freezing cold to try to get even one bar .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I ordered them but did n't really think they would help much but this is beyond my greatest expectation .</Tokens>
+		<POS>PRP VBD PRP CC VBD RB RB VB PRP MD VB RB CC DT VBZ IN PRP$ JJS NN .</POS>
+		<Lemma>I order they but do not really think they would help much but this be beyond my greatest expectation .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 'm not saying these are miraculous but have solved my terrible reception problem .</Tokens>
+		<POS>PRP VBP RB VBG DT VBP JJ CC VBP VBN PRP$ JJ NN NN .</POS>
+		<Lemma>I be not say these be miraculous but have solve my terrible reception problem .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There are times still when I have no bars but all I need to do is move around a bit until I get some .</Tokens>
+		<POS>EX VBP NNS RB WRB PRP VBP DT NNS CC DT PRP VBP TO VB VBZ VB IN DT NN IN PRP VBP DT .</POS>
+		<Lemma>there be time still when I have no bar but all I need to do be move around a bit until I get some .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Even having to do that , my reception is 99 % better .</Tokens>
+		<POS>RB VBG TO VB DT , PRP$ NN VBZ CD NN JJR .</POS>
+		<Lemma>even have to do that , my reception be 99 % better .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Maybe they do n't work for some people , or people are n't following the directions perfectly .</Tokens>
+		<POS>RB PRP VBP RB VB IN DT NNS , CC NNS VBP RB VBG DT NNS RB .</POS>
+		<Lemma>maybe they do not work for some people , or people be not follow the direction perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>All I know is that they work great for me and I 'm totally satisfied for $ 2.60 !</Tokens>
+		<POS>DT PRP VBP VBZ IN PRP VBP JJ IN PRP CC PRP VBP RB VBN IN $ CD .</POS>
+		<Lemma>all I know be that they work great for I and I be totally satisfy for $ 2.60 !</Lemma>
+	</Sentence>
+</Document>

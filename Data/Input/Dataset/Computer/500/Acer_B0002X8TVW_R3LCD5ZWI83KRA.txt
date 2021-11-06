@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a good value for the money , and it is a pleasure to see 19 inch monitors become affordable .</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT NN , CC PRP VBZ DT NN TO VB CD NN NNS VBP JJ .</POS>
+		<Lemma>this be a good value for the money , and it be a pleasure to see 19 inch monitor become affordable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This unit works very well for both wordprocessing applications , graphics , and animation\/dvd applications .</Tokens>
+		<POS>DT NN VBZ RB RB IN DT VBG NNS , NNS , CC NN NNS .</POS>
+		<Lemma>this unit work very well for both wordprocess application , graphic , and animation\/dvd application .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use mine primarily for wordprocessing and viewing scanned TIFF documents , and it works very well for these applications .</Tokens>
+		<POS>PRP VBP PRP RB IN VBG CC VBG VBN NN NNS , CC PRP VBZ RB RB IN DT NNS .</POS>
+		<Lemma>I use mine primarily for wordprocess and view scan tiff document , and it work very well for these application .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As far as definition is concerned , the viewing of scanned TIFF documents is really the acid test , because some of these scanned documents involve pretty small text .</Tokens>
+		<POS>IN RB IN NN VBZ VBN , DT NN IN VBN NN NNS VBZ RB DT NN NN , IN DT IN DT VBN NNS VBP RB JJ NN .</POS>
+		<Lemma>as far as definition be concern , the viewing of scan tiff document be really the acid test , because some of these scan document involve pretty small text .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This unit handles this challenge more than satisfactorily .</Tokens>
+		<POS>DT NN VBZ DT NN RBR IN RB .</POS>
+		<Lemma>this unit handle this challenge more than satisfactorily .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This monitor has a nice bright screen , good contrast and definition , and an overall pleasing-to-the-eye presentation .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ NN , JJ NN CC NN , CC DT JJ JJ NN .</POS>
+		<Lemma>this monitor have a nice bright screen , good contrast and definition , and a overall pleasing-to-the-eye presentation .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The hardware is pretty basic , but not badly done .</Tokens>
+		<POS>DT NN VBZ RB JJ , CC RB RB VBN .</POS>
+		<Lemma>the hardware be pretty basic , but not badly do .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The monitor is housed in a black impact plastic casing and stand to match .</Tokens>
+		<POS>DT NN VBZ VBN IN DT JJ NN NN NN CC VB TO VB .</POS>
+		<Lemma>the monitor be house in a black impact plastic casing and stand to match .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The stand does not have the height and swivel capabilities that some of the other copeting monitors have .</Tokens>
+		<POS>DT NN VBZ RB VB DT NN CC NN NNS IN DT IN DT JJ NN NNS VBP .</POS>
+		<Lemma>the stand do not have the height and swivel capability that some of the other copeting monitor have .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>There are no speakers .</Tokens>
+		<POS>EX VBP DT NNS .</POS>
+		<Lemma>there be no speaker .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This is a basic , no-frills , but very good monitor that does the job well .</Tokens>
+		<POS>DT VBZ DT JJ , JJ , CC RB JJ NN WDT VBZ DT NN RB .</POS>
+		<Lemma>this be a basic , no-frills , but very good monitor that do the job well .</Lemma>
+	</Sentence>
+</Document>

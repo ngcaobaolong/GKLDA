@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just needed a cheap monitor to replace my broken one .</Tokens>
+		<POS>PRP RB VBD DT JJ NN TO VB PRP$ JJ CD .</POS>
+		<Lemma>I just need a cheap monitor to replace my broken one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did n't expect much for the money , but the monitor is GREAT !</Tokens>
+		<POS>PRP VBD RB VB JJ IN DT NN , CC DT NN VBZ JJ .</POS>
+		<Lemma>I do not expect much for the money , but the monitor be great !</Lemma>
+	</Sentence>
+</Document>

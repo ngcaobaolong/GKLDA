@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This works better than any other fm transmitter I have tried however it still does not meet my sound quality expectations .</Tokens>
+		<POS>DT VBZ JJR IN DT JJ NN NN PRP VBP VBN RB PRP RB VBZ RB VB PRP$ JJ NN NNS .</POS>
+		<Lemma>this work better than any other fm transmitter I have try however it still do not meet my sound quality expectation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The music sounds just `` ok '' .</Tokens>
+		<POS>DT NN VBZ RB `` VB '' .</POS>
+		<Lemma>the music sound just `` ok '' .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Phone call quality is good .</Tokens>
+		<POS>NN JJ NN VBZ JJ .</POS>
+		<Lemma>phone call quality be good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It has a slight `` tinny '' sound to the music .</Tokens>
+		<POS>PRP VBZ DT JJ `` JJ '' NN TO DT NN .</POS>
+		<Lemma>it have a slight `` tinny '' sound to the music .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The product serves a purpose so I will keep it .</Tokens>
+		<POS>DT NN VBZ DT NN IN PRP MD VB PRP .</POS>
+		<Lemma>the product serve a purpose so I will keep it .</Lemma>
+	</Sentence>
+</Document>

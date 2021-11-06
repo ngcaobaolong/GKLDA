@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>one of the best products on the market i love it so well i bought several more for my friends and fsmily</Tokens>
+		<POS>CD IN DT JJS NNS IN DT NN FW VBP PRP RB RB FW VBD JJ RBR IN PRP$ NNS CC RB</POS>
+		<Lemma>one of the best product on the market i love it so well i buy several more for my friend and fsmily</Lemma>
+	</Sentence>
+</Document>

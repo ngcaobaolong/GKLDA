@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>WOW !!!!</Tokens>
+		<POS>NNP CD</POS>
+		<Lemma>WOW !!!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This sleek looking monitor is absolutely awesome !!</Tokens>
+		<POS>DT JJ VBG NN VBZ RB JJ IN</POS>
+		<Lemma>this sleek look monitor be absolutely awesome !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Everything appears larger than life !!!</Tokens>
+		<POS>NN VBZ JJR IN NN CD</POS>
+		<Lemma>everything appear larger than life !!!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This Wonderful product was easy to unbox and install !!</Tokens>
+		<POS>DT JJ NN VBD JJ TO NN CC VB NN</POS>
+		<Lemma>this wonderful product be easy to unbox and install !!</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Thuumbs up to ACER widescreen ULTRA Slim monitor .</Tokens>
+		<POS>NNS IN TO NNP JJ NNP NNP NN .</POS>
+		<Lemma>thuumb up to ACER widescreen ULTRA Slim monitor .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm extremely pleased with the performance of this product .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN IN DT NN .</POS>
+		<Lemma>I be extremely pleased with the performance of this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is simple to use , works crystal clear and now I can speak and drive .</Tokens>
+		<POS>PRP VBZ JJ TO VB , VBZ NN JJ CC RB PRP MD VB CC VB .</POS>
+		<Lemma>it be simple to use , work crystal clear and now I can speak and drive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I highly recommend this .</Tokens>
+		<POS>PRP RB VB DT .</POS>
+		<Lemma>I highly recommend this .</Lemma>
+	</Sentence>
+</Document>

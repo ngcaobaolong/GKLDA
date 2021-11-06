@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I usually cook soup from scratch and rarely use canned or dry soup .</Tokens>
+		<POS>PRP RB VBP NN IN NN CC RB NN VBD CC JJ NN .</POS>
+		<Lemma>I usually cook soup from scratch and rarely use can or dry soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , sometimes in the dead winter or cool spring , I long for a bowl of hot soup but too lazy to drive out and shop for fresh ingridients .</Tokens>
+		<POS>RB , RB IN DT JJ NN CC JJ NN , PRP RB IN DT NN IN JJ NN CC RB JJ TO VB RP CC NN IN JJ NNS .</POS>
+		<Lemma>however , sometimes in the dead winter or cool spring , I long for a bowl of hot soup but too lazy to drive out and shop for fresh ingridient .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After reading great reviews about the Bob 's Red Mill soup mix , I decided to try it for those special occasions .</Tokens>
+		<POS>IN VBG JJ NNS IN DT NNP POS NNP NNP NN NN , PRP VBD TO VB PRP IN DT JJ NNS .</POS>
+		<Lemma>after read great review about the Bob 's Red Mill soup mix , I decide to try it for those special occasion .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The reviews were all true .</Tokens>
+		<POS>DT NNS VBD DT JJ .</POS>
+		<Lemma>the review be all true .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The soup mix is easy to use , delicious , fullfilling , and nutritious .</Tokens>
+		<POS>DT NN NN VBZ JJ TO VB , JJ , NN , CC JJ .</POS>
+		<Lemma>the soup mix be easy to use , delicious , fullfilling , and nutritious .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I sautee some onions and garlic which are constant stables in my pantry .</Tokens>
+		<POS>PRP VBP DT NNS CC NN WDT VBP JJ NNS IN PRP$ NN .</POS>
+		<Lemma>I sautee some onion and garlic which be constant stable in my pantry .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I have leftover baked ham , I would freeze them and use the in this soup .</Tokens>
+		<POS>WRB PRP VBP JJR JJ NN , PRP MD VB PRP CC VB DT IN DT NN .</POS>
+		<Lemma>when I have leftover baked ham , I would freeze they and use the in this soup .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Then I add water and the soup mix , bring to a boil , cover and turn off the stove .</Tokens>
+		<POS>RB PRP VBP NN CC DT NN NN , VB TO DT NN , NN CC VB RP DT NN .</POS>
+		<Lemma>then I add water and the soup mix , bring to a boil , cover and turn off the stove .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>After a while or overnight , turn on the stove and stir the pot once in a while to prevent sticking .</Tokens>
+		<POS>IN DT NN CC JJ , VB RP DT NN CC VB DT NN RB IN DT NN TO VB NN .</POS>
+		<Lemma>after a while or overnight , turn on the stove and stir the pot once in a while to prevent sticking .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Cook until desired consistency .</Tokens>
+		<POS>NNP IN VBN NN .</POS>
+		<Lemma>Cook until desire consistency .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I only add pepper , but some people may prefer to salt the soup .</Tokens>
+		<POS>PRP RB VBP NN , CC DT NNS MD VB TO NN DT NN .</POS>
+		<Lemma>I only add pepper , but some people may prefer to salt the soup .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>One reviewer online suggested making a larger portion and freeze leftover to save cooking time .</Tokens>
+		<POS>CD NN NN VBD VBG DT JJR NN CC NN JJR TO VB JJ NN .</POS>
+		<Lemma>one reviewer online suggest make a larger portion and freeze leftover to save cooking time .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I tried it and found the leftover as good as a new pot once reheated on stove .</Tokens>
+		<POS>PRP VBD PRP CC VBD DT NN IN JJ IN DT JJ NN RB VBN IN NN .</POS>
+		<Lemma>I try it and find the leftover as good as a new pot once reheat on stove .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Try this soup with bread or any meal .</Tokens>
+		<POS>VB DT NN IN NN CC DT NN .</POS>
+		<Lemma>try this soup with bread or any meal .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Delicious !</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Delicious !</Lemma>
+	</Sentence>
+</Document>

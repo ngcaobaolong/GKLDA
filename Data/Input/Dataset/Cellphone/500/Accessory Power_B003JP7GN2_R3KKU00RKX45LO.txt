@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this product to serve as a multi-purpose charger for my Droid Incredible , and my husband 's I-Phone .</Tokens>
+		<POS>PRP VBD DT NN TO VB IN DT JJ NN IN PRP$ NNP JJ , CC PRP$ NN POS NN .</POS>
+		<Lemma>I purchase this product to serve as a multi-purpose charger for my Droid incredible , and my husband 's i-phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We were both tired of having to drag around multiple chargers\/USB cables in the car , to work , road trips , etc. .</Tokens>
+		<POS>PRP VBD DT JJ IN VBG TO VB RP JJ NN NNS IN DT NN , TO VB , NN NNS , FW .</POS>
+		<Lemma>we be both tired of have to drag around multiple chargers\/usb cable in the car , to work , road trip , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love the fact that we just use this one device for everything .</Tokens>
+		<POS>PRP VBP DT NN IN PRP RB VBP DT CD NN IN NN .</POS>
+		<Lemma>I love the fact that we just use this one device for everything .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We use it in the car , and we can both charge our phones at the same time .</Tokens>
+		<POS>PRP VBP PRP IN DT NN , CC PRP MD CC VB PRP$ NNS IN DT JJ NN .</POS>
+		<Lemma>we use it in the car , and we can both charge we phone at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Then I unplug from the car , bring it to work , and plug it into the wall outlet at work .</Tokens>
+		<POS>RB PRP VBP IN DT NN , VB PRP TO VB , CC VB PRP IN DT NN NN IN NN .</POS>
+		<Lemma>then I unplug from the car , bring it to work , and plug it into the wall outlet at work .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I can take it home and we can both plug in our devices there as well .</Tokens>
+		<POS>PRP MD VB PRP NN CC PRP MD DT NN IN PRP$ NNS RB RB RB .</POS>
+		<Lemma>I can take it home and we can both plug in we device there as well .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I also love the fact that you can put in batteries and charge on the plane or wherever , if needed ... though to be honest we have n't tested that feature yet .</Tokens>
+		<POS>PRP RB VBP DT NN IN PRP MD VB IN NNS CC NN IN DT NN CC WRB , IN VBN : IN TO VB JJ PRP VBP RB VBN IN NN RB .</POS>
+		<Lemma>I also love the fact that you can put in battery and charge on the plane or wherever , if need ... though to be honest we have not test that feature yet .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Overall , we are very pleased with the product .</Tokens>
+		<POS>RB , PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>overall , we be very pleased with the product .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I do have to warn that when the I-phone is inside a protective silicone case , the charger wo n't fit .</Tokens>
+		<POS>PRP VBP VB TO VB IN WRB DT NN VBZ IN DT JJ NN NN , DT NN MD RB VB .</POS>
+		<Lemma>I do have to warn that when the i-phone be inside a protective silicone case , the charger will not fit .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It is only compatible if we removes the case ... a little annoying .</Tokens>
+		<POS>PRP VBZ RB JJ IN PRP VBZ DT NN : DT JJ JJ .</POS>
+		<Lemma>it be only compatible if we remove the case ... a little annoying .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This might not be true of all I-phone cases , but my husband has a rather bulky one .</Tokens>
+		<POS>DT MD RB VB JJ IN DT JJ NNS , CC PRP$ NN VBZ DT RB JJ CD .</POS>
+		<Lemma>this might not be true of all i-phone case , but my husband have a rather bulky one .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The Droid on the other hand ... I can plug in easily without removing the case .</Tokens>
+		<POS>DT NN IN DT JJ NN : PRP MD VB IN RB IN VBG DT NN .</POS>
+		<Lemma>the droid on the other hand ... I can plug in easily without remove the case .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Would buy again !</Tokens>
+		<POS>MD VB RB .</POS>
+		<Lemma>would buy again !</Lemma>
+	</Sentence>
+</Document>

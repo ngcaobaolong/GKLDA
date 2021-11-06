@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camcorder less than a year ago .</Tokens>
+		<POS>PRP VBD DT NN RBR IN DT NN RB .</POS>
+		<Lemma>I buy this camcorder less than a year ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I used it about a dozen times and then is just stopped working .</Tokens>
+		<POS>PRP VBD PRP IN DT NN NNS CC RB VBZ RB VBN VBG .</POS>
+		<Lemma>I use it about a dozen time and then be just stop work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Fortunately it was still under warranty but getting warranty service was HORRIBLE .</Tokens>
+		<POS>RB PRP VBD RB IN NN CC VBG NN NN VBD NNP .</POS>
+		<Lemma>fortunately it be still under warranty but get warranty service be HORRIBLE .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It took 3 phone calls during which I was asked to verify the same 20 pieces of information EVERY TIME and costing me well over an hour on the phone .</Tokens>
+		<POS>PRP VBD CD NN NNS IN WDT PRP VBD VBN TO VB DT JJ CD NNS IN NN NNP NNP CC VBG PRP RB IN DT NN IN DT NN .</POS>
+		<Lemma>it take 3 phone call during which I be ask to verify the same 20 piece of information EVERY TIME and cost I well over a hour on the phone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is AFTER I was given a `` case number '' which , I 'm sure , was linked to all of the information that I had given them several times already .</Tokens>
+		<POS>DT VBZ IN PRP VBD VBN DT `` NN NN '' WDT , PRP VBP JJ , VBD VBN TO DT IN DT NN IN PRP VBD VBN PRP JJ NNS RB .</POS>
+		<Lemma>this be after I be give a `` case number '' which , I be sure , be link to all of the information that I have give they several time already .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Because I started on the phone they would n't generate the RMA info on email but insisted that I called back .</Tokens>
+		<POS>IN PRP VBD IN DT NN PRP MD RB VB DT NNP NN IN NN CC VBD IN PRP VBD RB .</POS>
+		<Lemma>because I start on the phone they would not generate the RMA info on email but insist that I call back .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Then they said I was to call them when I send the unit back .</Tokens>
+		<POS>RB PRP VBD PRP VBD TO VB PRP WRB PRP VBP DT NN RB .</POS>
+		<Lemma>then they say I be to call they when I send the unit back .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I refuse .</Tokens>
+		<POS>PRP VBP .</POS>
+		<Lemma>I refuse .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>What a waste of time and money .</Tokens>
+		<POS>WP DT NN IN NN CC NN .</POS>
+		<Lemma>what a waste of time and money .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is the last Flip product I will buy .</Tokens>
+		<POS>DT VBZ DT JJ NN NN PRP MD VB .</POS>
+		<Lemma>this be the last flip product I will buy .</Lemma>
+	</Sentence>
+</Document>

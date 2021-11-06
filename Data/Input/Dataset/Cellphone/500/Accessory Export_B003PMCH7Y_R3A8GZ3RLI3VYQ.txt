@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works as good as a more expensive or OEM or VW branded car charger .</Tokens>
+		<POS>NNP IN JJ IN DT RBR JJ CC NN CC NNP VBD NN NN .</POS>
+		<Lemma>Works as good as a more expensive or oem or VW brand car charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No sense paying a lot for this item .</Tokens>
+		<POS>DT NN VBG DT NN IN DT NN .</POS>
+		<Lemma>no sense pay a lot for this item .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Nice to have Nikon D7000 , I used this camera to take picture in Death Valley after 2 weeks I purchased .</Tokens>
+		<POS>JJ TO VB NNP NNP , PRP VBD DT NN TO VB NN IN NNP NNP IN CD NNS PRP VBD .</POS>
+		<Lemma>nice to have Nikon D7000 , I use this camera to take picture in Death Valley after 2 week I purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My friend said the picture 's quality was awesome</Tokens>
+		<POS>PRP$ NN VBD DT NN POS NN VBD JJ</POS>
+		<Lemma>my friend say the picture 's quality be awesome</Lemma>
+	</Sentence>
+</Document>

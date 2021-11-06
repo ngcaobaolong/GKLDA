@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Canon A1200 because I wanted a small point and shoot that I could take everywhere with me .</Tokens>
+		<POS>PRP VBD DT NNP NN IN PRP VBD DT JJ NN CC VB IN PRP MD VB RB IN PRP .</POS>
+		<Lemma>I buy the Canon a1200 because I want a small point and shoot that I could take everywhere with I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Other selling points were the optical viewfinder which I do n't really use much , as well as the AA batteries .</Tokens>
+		<POS>JJ NN NNS VBD DT JJ NN WDT PRP VBP RB RB VB RB , RB RB IN DT NN NNS .</POS>
+		<Lemma>other selling point be the optical viewfinder which I do not really use much , as well as the aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use Sanyo Eneloops in this camera and they work great .</Tokens>
+		<POS>PRP VBP NNP NNP IN DT NN CC PRP VBP JJ .</POS>
+		<Lemma>I use Sanyo Eneloops in this camera and they work great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't know how many pictures I can take with them on a single charge because I end up recharging them before they die completely .</Tokens>
+		<POS>PRP VBP RB VB WRB JJ NNS PRP MD VB IN PRP IN DT JJ NN IN PRP VBP RP VBG PRP IN PRP VBP RB .</POS>
+		<Lemma>I do not know how many picture I can take with they on a single charge because I end up recharge they before they die completely .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The biggest surprise for me has been how well this camera does in low lighting .</Tokens>
+		<POS>DT JJS NN IN PRP VBZ VBN WRB RB DT NN VBZ IN JJ NN .</POS>
+		<Lemma>the biggest surprise for I have be how well this camera do in low lighting .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have sometimes had trouble with getting good exposures in the dim lighting in my house but not with this camera .</Tokens>
+		<POS>PRP VBP RB VBN NN IN VBG JJ NNS IN DT JJ NN IN PRP$ NN CC RB IN DT NN .</POS>
+		<Lemma>I have sometimes have trouble with get good exposure in the dim lighting in my house but not with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The sensor seems to be tuned for low light performance and it is a consistent performer for birthday parties or just taking snapshots of my kids .</Tokens>
+		<POS>DT NN VBZ TO VB VBN IN JJ JJ NN CC PRP VBZ DT JJ NN IN NN NNS CC RB VBG NNS IN PRP$ NNS .</POS>
+		<Lemma>the sensor seem to be tune for low light performance and it be a consistent performer for birthday party or just take snapshot of my kid .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I uploaded a few of the artistic shots I 've made with this camera and I can say that the A1200 has exceeded all of my expectations for a point and shoot camera at this price range .</Tokens>
+		<POS>PRP VBD DT JJ IN DT JJ NNS PRP VBP VBN IN DT NN CC PRP MD VB IN DT NN VBZ VBN DT IN PRP$ NNS IN DT NN CC VB NN IN DT NN NN .</POS>
+		<Lemma>I upload a few of the artistic shot I have make with this camera and I can say that the a1200 have exceed all of my expectation for a point and shoot camera at this price range .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is a great performer and with a little effort it will take great images .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC IN DT JJ NN PRP MD VB JJ NNS .</POS>
+		<Lemma>it be a great performer and with a little effort it will take great image .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I 've messed around with some of the preset options and they help a little bit , but the auto setting works well if you do n't want to fiddle with things .</Tokens>
+		<POS>PRP VBP VBN RP IN DT IN DT JJ NNS CC PRP VBP DT JJ NN , CC DT NN NN VBZ RB IN PRP VBP RB VB TO NN IN NNS .</POS>
+		<Lemma>I have mess around with some of the preset option and they help a little bit , but the auto setting work well if you do not want to fiddle with thing .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Also , the Discreet Mode is great !</Tokens>
+		<POS>RB , DT NNP NNP VBZ JJ .</POS>
+		<Lemma>also , the Discreet Mode be great !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I accidentally took a picture with auto-flash and interrupted a speaker , so now I always use this mode to disable the focus light and flash when needed .</Tokens>
+		<POS>PRP RB VBD DT NN IN NN CC VBD DT NN , RB RB PRP RB VBP DT NN TO VB DT NN NN CC NN WRB VBN .</POS>
+		<Lemma>I accidentally take a picture with auto-flash and interrupt a speaker , so now I always use this mode to disable the focus light and flash when need .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>On a final note , I bought a Lowepro Volta case and it 's a perfect fit , though there is no room for spare batteries .</Tokens>
+		<POS>IN DT JJ NN , PRP VBD DT NNP NNP NN CC PRP VBZ DT JJ NN , IN EX VBZ DT NN IN JJ NNS .</POS>
+		<Lemma>on a final note , I buy a Lowepro Volta case and it be a perfect fit , though there be no room for spare battery .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I just wanted a slim package that I can fit in my pocket .</Tokens>
+		<POS>PRP RB VBD DT JJ NN IN PRP MD VB IN PRP$ NN .</POS>
+		<Lemma>I just want a slim package that I can fit in my pocket .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It 's a bit bulky but not an inconvenience .</Tokens>
+		<POS>PRP VBZ DT NN JJ CC RB DT NN .</POS>
+		<Lemma>it be a bit bulky but not a inconvenience .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I highly recommend this camera if you are on a budget and want a solid performer at the hundred dollar price range .</Tokens>
+		<POS>PRP RB VB DT NN IN PRP VBP IN DT NN CC VBP DT JJ NN IN DT CD NN NN NN .</POS>
+		<Lemma>I highly recommend this camera if you be on a budget and want a solid performer at the hundred dollar price range .</Lemma>
+	</Sentence>
+</Document>

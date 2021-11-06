@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Overall , this is an excellent netbook .</Tokens>
+		<POS>RB , DT VBZ DT JJ NN .</POS>
+		<Lemma>overall , this be a excellent netbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The 11.6 inch screen and the full size keyboard are worth the slight increase in weight this has over some 10.2 screen netbooks .</Tokens>
+		<POS>DT CD NN NN CC DT JJ NN NN VBP IN DT JJ NN IN NN DT VBZ IN DT CD NN NNS .</POS>
+		<Lemma>the 11.6 inch screen and the full size keyboard be worth the slight increase in weight this have over some 10.2 screen netbook .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's AMD C-60 processor really helps with graphical tasks ; web pages are snappier than my older N270 Atom based netbook .</Tokens>
+		<POS>PRP VBZ NNP NNP NN RB VBZ IN JJ NNS : NN NNS VBP JJR IN PRP$ JJR NN NN VBN NN .</POS>
+		<Lemma>it be AMD C-60 processor really help with graphical task ; web page be snappier than my older n270 atom base netbook .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>720p offline video files play great decently -LRB- avi , wmv , etc. .</Tokens>
+		<POS>JJ JJ NN NNS VBP JJ RB -LRB- NN , NN , FW .</POS>
+		<Lemma>720p offline video file play great decently -lrb- avus , wmv , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>. -RRB-</Tokens>
+		<POS>. -RRB-</POS>
+		<Lemma>. -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 've had issues getting Netflix HD videos to play on it -LRB- Silverlight-based -RRB- , however Netflix non-HD works fine .</Tokens>
+		<POS>PRP VBP VBD NNS VBG NNP NNP NNS TO VB IN PRP -LRB- JJ -RRB- , RB NNP JJ NNS NN .</POS>
+		<Lemma>I have have issue get Netflix HD video to play on it -lrb- silverlight-based -rrb- , however Netflix non-hd work fine .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The same goes for iTunes video content ; the SD versions play fine , but the HD versions stutter -LRB- probably due to the aggressive compression they use which requires serious CPU power - Apple itself says you need a 2.0 Dual Core processor , which this Netbook definitely does n't have -RRB- .</Tokens>
+		<POS>DT JJ VBZ IN NNP NN NN : DT NN NNS VBP JJ , CC DT NN NNS NN -LRB- RB JJ TO DT JJ NN PRP VBP WDT VBZ JJ NNP NN : NNP PRP VBZ PRP VBP DT CD JJ NN NN , WDT DT NN RB VBZ RB VB -RRB- .</POS>
+		<Lemma>the same go for iTunes video content ; the sd version play fine , but the hd version stutter -lrb- probably due to the aggressive compression they use which require serious CPU power - Apple itself say you need a 2.0 dual core processor , which this netbook definitely do not have -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This netbook also comes with 2 Gigs of RAM and Windows 7 Home Premium , which is a real perk over the 1 gig of RAM and Windows Starter editions some netbooks still come with .</Tokens>
+		<POS>DT NN RB VBZ IN CD NNS IN NNP CC NNP CD NNP NNP , WDT VBZ DT JJ JJ IN DT CD NN IN NNP CC NNP NNP NNS DT NNS RB VBP IN .</POS>
+		<Lemma>this netbook also come with 2 gig of RAM and Windows 7 Home Premium , which be a real perk over the 1 gig of RAM and Windows Starter edition some netbook still come with .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Office Starters is a nice touch ; the ads are small , and for basic document editing , it does the trick fairly nicely .</Tokens>
+		<POS>NNP NNPS VBZ DT JJ NN : DT NNS VBP JJ , CC IN JJ NN NN , PRP VBZ DT NN RB RB .</POS>
+		<Lemma>Office Starters be a nice touch ; the ad be small , and for basic document editing , it do the trick fairly nicely .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The spacious 320 GB hard disk is also a welcome upgrade over what is often 160-250 GB .</Tokens>
+		<POS>DT JJ CD NN JJ NN VBZ RB DT JJ NN IN WP VBZ RB JJ NN .</POS>
+		<Lemma>the spacious 320 gb hard disk be also a welcome upgrade over what be often 160-250 gb .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I would say , keep your expectations a bit in check .</Tokens>
+		<POS>PRP MD VB , VB PRP$ NNS DT NN IN NN .</POS>
+		<Lemma>I would say , keep you expectation a bit in check .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The Radeon graphics are nice , but most semi-modern games still get between 15 - 20 FPS on it .</Tokens>
+		<POS>DT NNP NNS VBP JJ , CC JJS JJ NNS RB VBP IN CD : CD NN IN PRP .</POS>
+		<Lemma>the Radeon graphic be nice , but most semi-modern game still get between 15 - 20 fp on it .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>That 's certainly better than what a baseline Atom CPU can do , but its still kind of a close , but no cigar situation for 3D gaming .</Tokens>
+		<POS>DT VBZ RB JJR IN WP DT NN NNP NNP MD VB , CC PRP$ RB NN IN DT RB , CC DT NN NN IN NN NN .</POS>
+		<Lemma>that be certainly better than what a baseline Atom CPU can do , but its still kind of a close , but no cigar situation for 3d gaming .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>And as stated above , some HD video sources wo n't play well .</Tokens>
+		<POS>CC IN VBN IN , DT NN NN NNS MD RB VB RB .</POS>
+		<Lemma>and as state above , some hd video source will not play well .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Taking that into consideration though , the nice screen , full-size keyboard , and snappy non-gaming performance -LRB- relative to other netbooks -RRB- , makes this a good purchase , particularly if you can find it for $ 200 like I did .</Tokens>
+		<POS>VBG DT IN NN RB , DT JJ NN , JJ NN , CC JJ JJ NN -LRB- JJ TO JJ NNS -RRB- , VBZ DT DT JJ NN , RB IN PRP MD VB PRP IN $ CD IN PRP VBD .</POS>
+		<Lemma>take that into consideration though , the nice screen , full-size keyboard , and snappy non-gaming performance -lrb- relative to other netbook -rrb- , make this a good purchase , particularly if you can find it for $ 200 like I do .</Lemma>
+	</Sentence>
+</Document>

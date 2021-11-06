@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased the SL 980 Sealife Video Light last year prior to a Tahiti diving trip in March .</Tokens>
+		<POS>VBN DT NN CD NNP NNP NNP JJ NN RB TO DT NNP NN NN IN NNP .</POS>
+		<Lemma>purchase the sl 980 Sealife Video Light last year prior to a Tahiti diving trip in March .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The light worked once at about 60 feet for a minute of filming .</Tokens>
+		<POS>DT JJ VBD RB IN RB CD NNS IN DT NN IN VBG .</POS>
+		<Lemma>the light work once at about 60 foot for a minute of film .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Turned light off until I wanted to use it again and the light would not turn back on .</Tokens>
+		<POS>VBN NN IN IN PRP VBD TO VB PRP RB CC DT NN MD RB VB RP IN .</POS>
+		<Lemma>turn light off until I want to use it again and the light would not turn back on .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Once back in the boat and after removing and reinstalling battery compartment the light worked again .</Tokens>
+		<POS>RB RB IN DT NN CC IN VBG CC VBG NN NN DT JJ VBD RB .</POS>
+		<Lemma>once back in the boat and after remove and reinstall battery compartment the light work again .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Same thing happend on the next dive .</Tokens>
+		<POS>JJ NN NN IN DT JJ NN .</POS>
+		<Lemma>same thing happend on the next dive .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Received a replacement Video light once I returned from the trip .</Tokens>
+		<POS>VBN DT NN NNP NN IN PRP VBD IN DT NN .</POS>
+		<Lemma>receive a replacement Video light once I return from the trip .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Took my next dive trip to the Caribbean this February with the new light and the same thing happened again .</Tokens>
+		<POS>VBD PRP$ JJ NN NN TO DT NNP DT NNP IN DT JJ NN CC DT JJ NN VBD RB .</POS>
+		<Lemma>take my next dive trip to the Caribbean this February with the new light and the same thing happen again .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Light worked one time while down under pressure up to 70 feet then would not turn back on when needed .</Tokens>
+		<POS>JJ VBD CD NN IN RB IN NN IN TO CD NNS RB MD RB VB RP IN WRB VBN .</POS>
+		<Lemma>light work one time while down under pressure up to 70 foot then would not turn back on when need .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Once back in the boat and battery case removed and reinstalled the light did turn on but could not be turned back off .</Tokens>
+		<POS>RB RB IN DT NN CC NN NN VBD CC VBD DT NN VBD VB RP CC MD RB VB VBN RB RB .</POS>
+		<Lemma>once back in the boat and battery case remove and reinstall the light do turn on but could not be turn back off .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>After a couple of days the light worked properly again .</Tokens>
+		<POS>IN DT NN IN NNS DT JJ VBD RB RB .</POS>
+		<Lemma>after a couple of day the light work properly again .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Soooo Disappointing !!!</Tokens>
+		<POS>NNP JJ NN</POS>
+		<Lemma>Soooo disappointing !!!</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Now I have send back this light and wait for a replacement .</Tokens>
+		<POS>RB PRP VBP VB RB DT NN CC VB IN DT NN .</POS>
+		<Lemma>now I have send back this light and wait for a replacement .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>There never seems to be an answer as to why this is happening and since I live in Colorado there is no way to test the new one prior to going on my next annual trip .</Tokens>
+		<POS>EX RB VBZ TO VB DT NN IN TO WRB DT VBZ VBG CC IN PRP VBP IN NNP EX VBZ DT NN TO VB DT JJ CD JJ TO VBG IN PRP$ JJ JJ NN .</POS>
+		<Lemma>there never seem to be a answer as to why this be happen and since I live in Colorado there be no way to test the new one prior to go on my next annual trip .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cable does provide data sync for my Droid though transfer rates appear much slower than with original cable .</Tokens>
+		<POS>DT NN VBZ VB NNS NN IN PRP$ NN IN NN NNS VBP RB JJR IN IN JJ NN .</POS>
+		<Lemma>this cable do provide datum sync for my droid though transfer rate appear much slower than with original cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This cable will not recharge your Droid .</Tokens>
+		<POS>DT NN MD RB VB PRP$ NN .</POS>
+		<Lemma>this cable will not recharge you droid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Even when attached directly to outlet recharger , it recharged Droid less than 10 % in 24 hours .</Tokens>
+		<POS>RB WRB VBN RB TO NN NN , PRP VBD NNP JJR IN CD NN IN CD NNS .</POS>
+		<Lemma>even when attach directly to outlet recharger , it recharge Droid less than 10 % in 24 hour .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ca n't recommend this product .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>I can not recommend this product .</Lemma>
+	</Sentence>
+</Document>

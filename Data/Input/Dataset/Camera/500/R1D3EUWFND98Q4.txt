@@ -1,0 +1,122 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My wife is expecting twins shortly so we wanted to set up an IP camera so that family -LRB- 4000 miles away -RRB- can see the babies anytime they want .</Tokens>
+		<POS>PRP$ NN VBZ VBG NNS RB IN PRP VBD TO VB RP DT NNP NN IN IN NN -LRB- CD NNS RB -RRB- MD VB DT NNS RB PRP VBP .</POS>
+		<Lemma>my wife be expect twin shortly so we want to set up a IP camera so that family -lrb- 4000 mile away -rrb- can see the baby anytime they want .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I researched lots of IP cameras -LRB- this being my first purchase of one -RRB- and decided to take a shot at the Loftek CXS 2200 .</Tokens>
+		<POS>PRP VBD NNS IN NNP NNS -LRB- DT VBG PRP$ JJ NN IN CD -RRB- CC VBD TO VB DT NN IN DT NNP NNP CD .</POS>
+		<Lemma>I research lot of IP camera -lrb- this be my first purchase of one -rrb- and decide to take a shot at the Loftek CXS 2200 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is actually my second unit as the first one was faulty .</Tokens>
+		<POS>DT VBZ RB PRP$ JJ NN IN DT JJ NN VBD JJ .</POS>
+		<Lemma>this be actually my second unit as the first one be faulty .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I contacted Loftek directly and they were VERY helpful .</Tokens>
+		<POS>PRP VBD NNP RB CC PRP VBD RB JJ .</POS>
+		<Lemma>I contact Loftek directly and they be very helpful .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I had quite a good email exchange with them and each time I sent one I had a reply within 24 hours -LRB- and usually by the time I woke up the next day -RRB- .</Tokens>
+		<POS>PRP VBD RB DT JJ NN NN IN PRP CC DT NN PRP VBD CD PRP VBD DT NN IN CD NNS -LRB- CC RB IN DT NN PRP VBD RP DT JJ NN -RRB- .</POS>
+		<Lemma>I have quite a good email exchange with they and each time I send one I have a reply within 24 hour -lrb- and usually by the time I wake up the next day -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They confirmed that it was faulty and asked me to mail it back to them .</Tokens>
+		<POS>PRP VBD IN PRP VBD JJ CC VBD PRP TO VB PRP RB TO PRP .</POS>
+		<Lemma>they confirm that it be faulty and ask I to mail it back to they .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>As soon as I provided them with a tracking number for the return of the unit they shipped out a new one straight away and they also refunded my shipping costs - fantastic !</Tokens>
+		<POS>RB RB IN PRP VBD PRP IN DT NN NN IN DT NN IN DT NN PRP VBD RP DT JJ CD RB RB CC PRP RB VBD PRP$ NN NNS : JJ .</POS>
+		<Lemma>as soon as I provide they with a tracking number for the return of the unit they ship out a new one straight away and they also refund my shipping cost - fantastic !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's always a shame when products fail , but when it does happen it 's nice to have good customer service to back it up .</Tokens>
+		<POS>PRP VBZ RB DT NN WRB NNS VBP , CC WRB PRP VBZ VB PRP VBZ JJ TO VB JJ NN NN TO VB PRP RP .</POS>
+		<Lemma>it be always a shame when product fail , but when it do happen it be nice to have good customer service to back it up .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Anyway ... on to the camera .</Tokens>
+		<POS>RB : IN TO DT NN .</POS>
+		<Lemma>anyway ... on to the camera .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It 's pretty easy to set up - it comes with some useful setup software and the Quickstart guide is decent but there are more detailed instructions online if you want them .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB RP : PRP VBZ IN DT JJ NN NN CC DT NNP NN VBZ JJ CC EX VBP RBR JJ NNS NN IN PRP VBP PRP .</POS>
+		<Lemma>it be pretty easy to set up - it come with some useful setup software and the Quickstart guide be decent but there be more detailed instruction online if you want they .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>You connect via wired Ethernet to start with and then set up the wireless connection .</Tokens>
+		<POS>PRP VBP IN VBN NN TO VB IN CC RB VBD RP DT JJ NN .</POS>
+		<Lemma>you connect via wire ethernet to start with and then set up the wireless connection .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>One word of warning - the MAC address that the setup software tells you is the MAC address of the WIRED Ethernet , not the wireless connection .</Tokens>
+		<POS>CD NN IN NN : DT NNP NN IN DT NN NN VBZ PRP VBZ DT NNP NN IN DT NNP NNP , RB DT JJ NN .</POS>
+		<Lemma>one word of warning - the MAC address that the setup software tell you be the MAC address of the WIRED Ethernet , not the wireless connection .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If you have MAC filtering on your router like me , the easiest thing to do is temporarily disable it , connect the camera wirelessly , find out the wireless MAC and then add that to the router filter list .</Tokens>
+		<POS>IN PRP VBP NNP VBG IN PRP$ NN IN PRP , DT JJS NN TO VB VBZ RB VB PRP , VB DT NN RB , VB RP DT JJ NNP CC RB VB IN TO DT NN NN NN .</POS>
+		<Lemma>if you have MAC filter on you router like I , the easiest thing to do be temporarily disable it , connect the camera wirelessly , find out the wireless MAC and then add that to the router filter list .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>After setting up port forwarding on my router , family can now view the camera anytime they want .</Tokens>
+		<POS>IN VBG RP NN NN IN PRP$ NN , NN MD RB VB DT NN RB PRP VBP .</POS>
+		<Lemma>after set up port forwarding on my router , family can now view the camera anytime they want .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Rather usefully , each camera comes with a unique DDNS name so you can just give that out to potential users instead of an IP address .</Tokens>
+		<POS>RB RB , DT NN VBZ IN DT JJ NN NN IN PRP MD RB VB DT IN TO JJ NNS RB IN DT NNP NN .</POS>
+		<Lemma>rather usefully , each camera come with a unique ddn name so you can just give that out to potential user instead of a IP address .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The camera itself produces a good , clear image , although the daytime colors are a little washed out and slightly mis-colored -LRB- although that 's completely normal for a night-vision-capable camera like this -RRB- .</Tokens>
+		<POS>DT NN PRP VBZ DT JJ , JJ NN , IN DT JJ NNS VBP DT JJ VBN RP CC RB JJ -LRB- IN DT VBZ RB JJ IN DT JJ NN IN DT -RRB- .</POS>
+		<Lemma>the camera itself produce a good , clear image , although the daytime color be a little wash out and slightly mis-colored -lrb- although that be completely normal for a night-vision-capable camera like this -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The night vision is excellent and , aside from losing the color -LRB- again , completely normal -RRB- it 's just as good as daytime for items within around 20 ft of the lens .</Tokens>
+		<POS>DT NN NN VBZ JJ CC , RB IN VBG DT NN -LRB- RB , RB JJ -RRB- PRP VBZ RB RB JJ IN JJ IN NNS IN IN CD NN IN DT NN .</POS>
+		<Lemma>the night vision be excellent and , aside from lose the color -lrb- again , completely normal -rrb- it be just as good as daytime for item within around 20 ft of the lens .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The IR LEDs are n't visably bright at all which is great for not disturbing sleeping subjects !</Tokens>
+		<POS>DT NNP NNS VBP RB RB JJ IN DT WDT VBZ JJ IN RB JJ VBG NNS .</POS>
+		<Lemma>the IR led be not visably bright at all which be great for not disturbing sleep subject !</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The pan and tilt is really good too - fantastic range of motion and very easy to control .</Tokens>
+		<POS>DT NN CC NN VBZ RB JJ RB : JJ NN IN NN CC RB JJ TO VB .</POS>
+		<Lemma>the pan and tilt be really good too - fantastic range of motion and very easy to control .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Lastly , the configuration software is very easy to use and the user set up is nice - you can set up Admin users -LRB- full control -RRB- , Operators -LRB- who can move the camera but ca n't control the set up of the device -RRB- and Visitors -LRB- who can view but not move the camera -RRB- .</Tokens>
+		<POS>RB , DT NN NN VBZ RB JJ TO VB CC DT NN VBD RP VBZ JJ : PRP MD VB RP NNP NNS -LRB- JJ NN -RRB- , NNP -LRB- WP MD VB DT NN CC MD RB VB DT VBN IN IN DT NN -RRB- CC NNS -LRB- WP MD VB CC RB VB DT NN -RRB- .</POS>
+		<Lemma>lastly , the configuration software be very easy to use and the user set up be nice - you can set up Admin user -lrb- full control -rrb- , Operators -lrb- who can move the camera but can not control the set up of the device -rrb- and visitor -lrb- who can view but not move the camera -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The only issue I 've found is that a plug-in is used to view through Internet Explorer .</Tokens>
+		<POS>DT JJ NN PRP VBP VBN VBZ IN DT JJ VBZ VBN TO VB IN NN NNP .</POS>
+		<Lemma>the only issue I have find be that a plug-in be use to view through internet Explorer .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I have 64-bit Win 7 and the plug-in kept crashing my machine .</Tokens>
+		<POS>PRP VBP JJ NN CD CC DT JJ VBD VBG PRP$ NN .</POS>
+		<Lemma>I have 64-bit win 7 and the plug-in keep crash my machine .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>However , my father used 32-bit with no issues and we view it using Google Chrome -LRB- which does n't require a plug-in and nor do Firefox or Safari -RRB- and have no problems .</Tokens>
+		<POS>RB , PRP$ NN VBD JJ IN DT NNS CC PRP VBP PRP VBG NNP NNP -LRB- WDT VBZ RB VB DT JJ CC CC VBP NNP CC NNP -RRB- CC VBP DT NNS .</POS>
+		<Lemma>however , my father use 32-bit with no issue and we view it use Google Chrome -lrb- which do not require a plug-in and nor do Firefox or Safari -rrb- and have no problem .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>In short , it 's a nice little camera that produces a good image and it seems to be backed up by great customer service - thanks Loftek !</Tokens>
+		<POS>IN JJ , PRP VBZ DT JJ JJ NN WDT VBZ DT JJ NN CC PRP VBZ TO VB VBN RP IN JJ NN NN : NNS NNP .</POS>
+		<Lemma>in short , it be a nice little camera that produce a good image and it seem to be back up by great customer service - thanks Loftek !</Lemma>
+	</Sentence>
+</Document>

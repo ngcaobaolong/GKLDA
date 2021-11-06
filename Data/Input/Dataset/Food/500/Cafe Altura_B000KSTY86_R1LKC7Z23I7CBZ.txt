@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This coffee is the best I 've found so far and I LOVE that it 's organic .</Tokens>
+		<POS>DT NN VBZ DT JJS PRP VBP VBN RB RB CC PRP VBP IN PRP VBZ JJ .</POS>
+		<Lemma>this coffee be the best I have find so far and I love that it be organic .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was using Major Dickason from Peet 's Coffee , but this is less expensive AND organic and just as good or maybe even better .</Tokens>
+		<POS>PRP VBD VBG JJ NN IN NNP POS NNP , CC DT VBZ RBR JJ CC JJ CC RB RB JJ CC RB RB RBR .</POS>
+		<Lemma>I be use major dickason from Peet 's Coffee , but this be less expensive and organic and just as good or maybe even better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I got it to use with the <a href="http://www.amazon.com/gp/product/B000GXZ2GS/ref=cm_cr_asin_lnk/182-1417758-7904112"> Aerobie 80R08 AeroPress Coffee and Espresso Maker </a> and it 's perfect .</Tokens>
+		<POS>PRP VBD PRP TO VB IN DT NN NN CD NNP NNP CC NNP NNP NN CC PRP VBZ JJ .</POS>
+		<Lemma>I get it to use with the <a href="http://www.amazon.com/gp/product/b000gxz2gs/ref=cm_cr_asin_lnk/182-1417758-7904112"> aerobie 80r08 AeroPress Coffee and Espresso Maker </a> and it be perfect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was going to give my boyfriend a sample to convince him to switch from Peet 's but I was afraid of running out .</Tokens>
+		<POS>PRP VBD VBG TO VB PRP$ NN DT NN TO VB PRP TO VB IN NNP POS CC PRP VBD JJ IN VBG RP .</POS>
+		<Lemma>I be go to give my boyfriend a sample to convince he to switch from Peet 's but I be afraid of run out .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>2 pounds is a lot of coffee but apparently I go through more than two pounds of coffee in a month !</Tokens>
+		<POS>CD NNS VBZ DT NN IN NN CC RB PRP VBP IN JJR IN CD NNS IN NN IN DT NN .</POS>
+		<Lemma>2 pound be a lot of coffee but apparently I go through more than two pound of coffee in a month !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I should mention that I ONLY make coffee with the AeroPress , and they say that coffee made that way is smoother , so while I have compared this coffee to other coffees made the same way I do n't know how it 'd be in , say , a drip coffee maker .</Tokens>
+		<POS>PRP MD VB IN PRP RB VBP NN IN DT NNP , CC PRP VBP IN NN VBD DT NN VBZ JJR , RB IN PRP VBP VBN DT NN TO JJ NNS VBD DT JJ NN PRP VBP RB VB WRB PRP MD VB IN , VB , DT NN NN NN .</POS>
+		<Lemma>I should mention that I only make coffee with the AeroPress , and they say that coffee make that way be smoother , so while I have compare this coffee to other coffee make the same way I do not know how it would be in , say , a drip coffee maker .</Lemma>
+	</Sentence>
+</Document>

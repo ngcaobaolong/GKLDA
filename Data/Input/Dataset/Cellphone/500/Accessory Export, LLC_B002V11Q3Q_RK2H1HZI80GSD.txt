@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Cables arrived earlier then promised .</Tokens>
+		<POS>NNS VBD RBR RB VBN .</POS>
+		<Lemma>cable arrive earlier then promise .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Both cables work perfectly for both charging and data transfer .</Tokens>
+		<POS>DT NNS VBP RB IN DT VBG CC NNS NN .</POS>
+		<Lemma>both cable work perfectly for both charge and datum transfer .</Lemma>
+	</Sentence>
+</Document>

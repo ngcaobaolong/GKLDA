@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really wanted to like this product and there are plenty of reasons to like it .</Tokens>
+		<POS>PRP RB VBD TO VB DT NN CC EX VBP NN IN NNS TO VB PRP .</POS>
+		<Lemma>I really want to like this product and there be plenty of reason to like it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It started turning itself off intermittently 6 weeks after I purchased it and then two months after purchase it will no longer turn on at all .</Tokens>
+		<POS>PRP VBD VBG PRP RP RB CD NNS IN PRP VBD PRP CC RB CD NNS IN NN PRP MD RB RB VB RP IN DT .</POS>
+		<Lemma>it start turn itself off intermittently 6 week after I purchase it and then two month after purchase it will no longer turn on at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I contacted the company and they wanted me to pay to ship it there , wait for their analysis and a replacement .</Tokens>
+		<POS>PRP VBD DT NN CC PRP VBD PRP TO VB TO VB PRP RB , VB IN PRP$ NN CC DT NN .</POS>
+		<Lemma>I contact the company and they want I to pay to ship it there , wait for they analysis and a replacement .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For 40 dollars more I just bought a whole new stereo with a separate microphone as people complained I sounded distant with this product .</Tokens>
+		<POS>IN CD NNS RBR PRP RB VBD DT JJ JJ NN IN DT JJ NN IN NNS VBD PRP VBD JJ IN DT NN .</POS>
+		<Lemma>for 40 dollar more I just buy a whole new stereo with a separate microphone as people complain I sound distant with this product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Worked as described when it worked .</Tokens>
+		<POS>VBN IN VBN WRB PRP VBD .</POS>
+		<Lemma>work as describe when it work .</Lemma>
+	</Sentence>
+</Document>

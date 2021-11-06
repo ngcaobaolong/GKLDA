@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am totally impressed with the images you can create with this power pact , feature friendly little camera .</Tokens>
+		<POS>PRP VBP RB VBN IN DT NNS PRP MD VB IN DT NN NN , NN JJ JJ NN .</POS>
+		<Lemma>I be totally impress with the image you can create with this power pact , feature friendly little camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Now my camera of choice even over my SLR .</Tokens>
+		<POS>RB PRP$ NN IN NN RB IN PRP$ NN .</POS>
+		<Lemma>now my camera of choice even over my slr .</Lemma>
+	</Sentence>
+</Document>

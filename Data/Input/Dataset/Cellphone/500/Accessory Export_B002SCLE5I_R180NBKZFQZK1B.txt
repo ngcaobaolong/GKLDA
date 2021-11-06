@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are okay .</Tokens>
+		<POS>DT VBP JJ .</POS>
+		<Lemma>these be okay .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When you are in a service area they do add one to two bars , but if its a weak service area there is n't much help .</Tokens>
+		<POS>WRB PRP VBP IN DT NN NN PRP VBP VB CD TO CD NNS , CC IN PRP$ DT JJ NN NN EX VBZ RB JJ NN .</POS>
+		<Lemma>when you be in a service area they do add one to two bar , but if its a weak service area there be not much help .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just remember it can not amplify a signal that is n't there , it does n't make one , and you will be satisfied .</Tokens>
+		<POS>RB VB PRP MD RB VB DT NN WDT VBZ RB RB , PRP VBZ RB VB CD , CC PRP MD VB VBN .</POS>
+		<Lemma>just remember it can not amplify a signal that be not there , it do not make one , and you will be satisfy .</Lemma>
+	</Sentence>
+</Document>

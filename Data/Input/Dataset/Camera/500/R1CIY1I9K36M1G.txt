@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this camera after previously owning a Canon SX30 that struggled focusing .</Tokens>
+		<POS>PRP VBD DT NN IN RB VBG DT NNP NN WDT VBD VBG .</POS>
+		<Lemma>I purchase this camera after previously own a Canon sx30 that struggle focus .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As an amateur nature photographer , it was frustrating to miss so many shots , even though I realize smaller subjects like birds present quite a challenge for these cameras .</Tokens>
+		<POS>IN DT JJ NN NNP , PRP VBD VBG TO VB RB JJ NNS , RB IN PRP VBP JJR NNS IN NNS JJ RB DT NN IN DT NNS .</POS>
+		<Lemma>as a amateur nature photographer , it be frustrate to miss so many shot , even though I realize smaller subject like bird present quite a challenge for these camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Because I 'm hiking through varying lighting conditions , I run the risk of missing my fleeting subjects entirely if I stop to change settings , so an excellent auto mode is a must .</Tokens>
+		<POS>IN PRP VBP VBG IN VBG NN NNS , PRP VBP DT NN IN VBG PRP$ JJ NNS RB IN PRP VBP TO VB NNS , RB DT JJ NN NN VBZ DT MD .</POS>
+		<Lemma>because I be hike through vary lighting condition , I run the risk of miss my fleeting subject entirely if I stop to change setting , so a excellent auto mode be a must .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Here are some observations after about 1000 shots with the HX100V .</Tokens>
+		<POS>RB VBP DT NNS IN IN CD NNS IN DT NN .</POS>
+		<Lemma>here be some observation after about 1000 shot with the hx100v .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>- I 'm missing far fewer shots now , as long as I stick with the default `` Multi '' focus setting ; the other AF options are less reliable , especially in low light .</Tokens>
+		<POS>: PRP VBP VBG RB JJR NNS RB , RB RB IN PRP VBP IN DT NN `` NNP '' NN NN : DT JJ NN NNS VBP RBR JJ , RB IN JJ NN .</POS>
+		<Lemma>- I be miss far fewer shot now , as long as I stick with the default `` Multi '' focus setting ; the other af option be less reliable , especially in low light .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>One frustrating thing about zoom shots with this camera is you have to be at least 7 feet away for the camera to focus .</Tokens>
+		<POS>CD JJ NN IN NN NNS IN DT NN VBZ PRP VBP TO VB IN JJS CD NNS RB IN DT NN TO VB .</POS>
+		<Lemma>one frustrating thing about zoom shot with this camera be you have to be at least 7 foot away for the camera to focus .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm noticing the need to step back a few feet as I 'm trying to get closeups of butterflies .</Tokens>
+		<POS>PRP VBP VBG DT NN TO VB RB DT JJ NNS IN PRP VBP VBG TO VB NNS IN NNS .</POS>
+		<Lemma>I be notice the need to step back a few foot as I be try to get closeup of butterfly .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>With the Canon , I could be 4 feet away with 35x zoom and still get the shot .</Tokens>
+		<POS>IN DT NNP , PRP MD VB CD NNS RB IN NN NN CC RB VB DT NN .</POS>
+		<Lemma>with the Canon , I could be 4 foot away with 35x zoom and still get the shot .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>- Auto Exposure\/Color : Rarely a concern with the Canon , the HX100 is hit or miss .</Tokens>
+		<POS>: NN NN : RB DT NN IN DT NNP , DT NN VBZ VBN CC VB .</POS>
+		<Lemma>- auto exposure\/color : rarely a concern with the Canon , the hx100 be hit or miss .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>50 % of the time I get an absolutely beautiful exposure with brilliant color , the other half yields overexposed\/underexposed shots with either oversaturated or undersaturated colors .</Tokens>
+		<POS>CD NN IN DT NN PRP VBP DT RB JJ NN IN JJ NN , DT JJ NN NNS VBN NNS IN CC JJ CC JJ NNS .</POS>
+		<Lemma>50 % of the time I get a absolutely beautiful exposure with brilliant color , the other half yield overexposed\/underexposed shot with either oversaturated or undersaturated color .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Refocusing once will generally clear the overexposures .</Tokens>
+		<POS>VBG RB MD RB VB DT NNS .</POS>
+		<Lemma>refocus once will generally clear the overexposure .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>- One feature that deserves special attention is Backlight Correction HDR , which lets me expose for a sky while still giving me color and detail in the foreground , and brings out leaves in shadow when focusing on a high contrast flower .</Tokens>
+		<POS>: CD NN WDT VBZ JJ NN VBZ NNP NNP NNP , WDT VBZ PRP VB IN DT NN IN RB VBG PRP NN CC NN IN DT NN , CC VBZ RP VBZ IN NN WRB VBG IN DT JJ NN NN .</POS>
+		<Lemma>- one feature that deserve special attention be Backlight Correction HDR , which let I expose for a sky while still give I color and detail in the foreground , and bring out leave in shadow when focus on a high contrast flower .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>- Sony really cut corners with this viewfinder .</Tokens>
+		<POS>: NNP RB VBD NNS IN DT NN .</POS>
+		<Lemma>- Sony really cut corner with this viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Not only is it small , but the design is such that there is n't any breathing room for my eye area , so oils and perspiration quickly cloud my vision on a hot day .</Tokens>
+		<POS>RB RB VBZ PRP JJ , CC DT NN VBZ JJ IN EX VBZ RB DT NN NN IN PRP$ NN NN , RB NNS CC NN RB VB PRP$ NN IN DT JJ NN .</POS>
+		<Lemma>not only be it small , but the design be such that there be not any breathing room for my eye area , so oils and perspiration quickly cloud my vision on a hot day .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>- Sharp closeups are easy ; the camera will focus with the lens just an inch or two away , no Macro mode needed .</Tokens>
+		<POS>: JJ NNS VBP JJ : DT NN MD VB IN DT NN RB DT NN CC CD RB , DT NNP NN VBN .</POS>
+		<Lemma>- sharp closeup be easy ; the camera will focus with the lens just a inch or two away , no Macro mode need .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>This camera was obviously designed with versatility in mind .</Tokens>
+		<POS>DT NN VBD RB VBN IN NN IN NN .</POS>
+		<Lemma>this camera be obviously design with versatility in mind .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Is it the best camera for wildlife ?</Tokens>
+		<POS>VBZ PRP DT JJS NN IN NN .</POS>
+		<Lemma>be it the best camera for wildlife ?</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Probably not .</Tokens>
+		<POS>RB RB .</POS>
+		<Lemma>probably not .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>But it is a very good performer overall , with decent image quality and a feature set that puts it near the top of the megazoom class even when considering its weaknesses .</Tokens>
+		<POS>CC PRP VBZ DT RB JJ NN RB , IN JJ NN NN CC DT NN VBD IN VBZ PRP IN DT NN IN DT NN NN RB WRB VBG PRP$ NNS .</POS>
+		<Lemma>but it be a very good performer overall , with decent image quality and a feature set that put it near the top of the megazoom class even when consider its weakness .</Lemma>
+	</Sentence>
+</Document>

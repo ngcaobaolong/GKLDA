@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great little versatile power source for your portable USB devices .</Tokens>
+		<POS>DT VBZ DT JJ JJ JJ NN NN IN PRP$ JJ JJ NNS .</POS>
+		<Lemma>this be a great little versatile power source for you portable usb device .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>From outlet or from battery .</Tokens>
+		<POS>IN NN CC IN NN .</POS>
+		<Lemma>from outlet or from battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Convenient if you travel and ca n't use a car charger ...</Tokens>
+		<POS>JJ IN PRP VBP CC MD RB VB DT NN NN :</POS>
+		<Lemma>convenient if you travel and can not use a car charger ...</Lemma>
+	</Sentence>
+</Document>

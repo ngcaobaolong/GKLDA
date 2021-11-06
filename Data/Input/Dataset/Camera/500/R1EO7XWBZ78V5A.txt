@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had shopped Camera Stores and other places .</Tokens>
+		<POS>PRP VBD VBN NNP NNPS CC JJ NNS .</POS>
+		<Lemma>I have shop Camera Stores and other place .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I could not duplicate the product nor the price .</Tokens>
+		<POS>PRP MD RB VB DT NN CC DT NN .</POS>
+		<Lemma>I could not duplicate the product nor the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am very happy with the purchase and the performance .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN CC DT NN .</POS>
+		<Lemma>I be very happy with the purchase and the performance .</Lemma>
+	</Sentence>
+</Document>

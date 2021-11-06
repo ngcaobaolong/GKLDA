@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This Droid usb cable is perfect plus the part that plugs into the phone is a little wider than most which is good because it keeps the plug from moving left and right too much like others which can damage the connector .</Tokens>
+		<POS>DT NN NN NN VBZ JJ IN DT NN WDT VBZ IN DT NN VBZ DT JJ JJR IN JJS WDT VBZ JJ IN PRP VBZ DT NN IN VBG JJ CC JJ RB RB IN NNS WDT MD VB DT NN .</POS>
+		<Lemma>this droid usb cable be perfect plus the part that plug into the phone be a little wider than most which be good because it keep the plug from move left and right too much like other which can damage the connector .</Lemma>
+	</Sentence>
+</Document>

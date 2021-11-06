@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It 's hard to find small monitors these days -LRB- unless you go in the mini range -RRB- .</Tokens>
+		<POS>PRP VBZ JJ TO VB JJ NNS DT NNS -LRB- IN PRP VBP IN DT JJ NN -RRB- .</POS>
+		<Lemma>it be hard to find small monitor these day -lrb- unless you go in the mini range -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I needed a monitor for a <a href="http://www.amazon.com/gp/product/B004XUJYAA/ref=cm_cr_asin_lnk/186-7433426-9447059"> CIB K808AV500G H. 264 8 CH Network Security Surveillance DVR Recording System 500GB .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN NN NN NN CD CD NN NNP NNP NNP NNP NNP NNP NNP .</POS>
+		<Lemma>I need a monitor for a <a href="http://www.amazon.com/gp/product/b004xujyaa/ref=cm_cr_asin_lnk/186-7433426-9447059"> cib k808av500g h. 264 8 ch Network Security Surveillance DVR Recording System 500GB .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens></a> and this one fit the bill .</Tokens>
+		<POS>NN CC DT CD NN DT NN .</POS>
+		<Lemma></a> and this one fit the bill .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It works well , the contrast and brightness needed to be tweaked a little but otherwise it was fine .</Tokens>
+		<POS>PRP VBZ RB , DT NN CC NN VBD TO VB VBN DT JJ CC RB PRP VBD JJ .</POS>
+		<Lemma>it work well , the contrast and brightness need to be tweak a little but otherwise it be fine .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very lightweight .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very lightweight .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you 're looking for a 17 inch monitor you know what you are in for , and this one is great .</Tokens>
+		<POS>IN PRP VBP VBG IN DT CD NN NN PRP VBP WP PRP VBP IN IN , CC DT CD VBZ JJ .</POS>
+		<Lemma>if you be look for a 17 inch monitor you know what you be in for , and this one be great .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you 're a regular Joe looking for a monitor for his PC , you should go with a 21.5 '' for $ 10 more .</Tokens>
+		<POS>IN PRP VBP DT JJ NNP VBG IN DT NN IN PRP$ NN , PRP MD VB IN DT CD '' IN $ CD JJR .</POS>
+		<Lemma>if you be a regular Joe look for a monitor for he pc , you should go with a 21.5 '' for $ 10 more .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sony Cyber-Shot DSC-HX100V 16.2 MP Exmor R CMOS Digital Still Camera with Carl Zeiss Vario-Tessar 30x Optical Zoom Lens and Full HD 1080 Video I loved this very good product , the seller fulfilled all recommend it .</Tokens>
+		<POS>NNP NNP NN CD NN NN NN NNP NNP RB NN IN NNP NNP NNP NNP NNP NNP NNP CC JJ NN CD NNP PRP VBD DT RB JJ NN , DT NN VBD DT VB PRP .</POS>
+		<Lemma>Sony Cyber-Shot dsc-hx100v 16.2 mp exmor r CMOS Digital still camera with Carl Zeiss Vario-Tessar 30x Optical Zoom Lens and full hd 1080 Video I love this very good product , the seller fulfil all recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I get no problems and packed</Tokens>
+		<POS>PRP VBP DT NNS CC VBD</POS>
+		<Lemma>I get no problem and pack</Lemma>
+	</Sentence>
+</Document>

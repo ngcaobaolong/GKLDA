@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is by far the best camera I 've owned and getting away from SLR has been wonderful .</Tokens>
+		<POS>DT VBZ IN RB DT JJS NN PRP VBP VBN CC VBG RB IN NNP VBZ VBN JJ .</POS>
+		<Lemma>this be by far the best camera I have own and get away from SLR have be wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera takes great still 's I can get shots of the craters on the moon and honey bee 's in flight .</Tokens>
+		<POS>DT NN VBZ JJ RB POS PRP MD VB NNS IN DT NNS IN DT NN CC NN NN POS IN NN .</POS>
+		<Lemma>the camera take great still 's I can get shot of the crater on the moon and honey bee 's in flight .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The HD movies are fantastic 15min with a 2gig card and although the users manual is lengthy with a couple of filters just go out and play with it .</Tokens>
+		<POS>DT NN NNS VBP JJ JJ IN DT JJ NN CC IN DT NNS NN VBZ JJ IN DT NN IN NNS RB VBP RP CC VB IN PRP .</POS>
+		<Lemma>the hd movie be fantastic 15min with a 2gig card and although the user manual be lengthy with a couple of filter just go out and play with it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>1000 + shots on a 2gig card , I ` ld suggest an extra battery .</Tokens>
+		<POS>CD CC NNS IN DT JJ NN , PRP `` VBD VBP DT JJ NN .</POS>
+		<Lemma>1000 + shot on a 2gig card , I ` ld suggest a extra battery .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>but 300 shots is easy out of one .</Tokens>
+		<POS>CC CD NNS VBZ JJ IN IN CD .</POS>
+		<Lemma>but 300 shot be easy out of one .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The curry tastes decent but is not great .</Tokens>
+		<POS>DT VB NNS JJ CC VBZ RB JJ .</POS>
+		<Lemma>the curry taste decent but be not great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nothing special compared to the local brands you get in the stores .</Tokens>
+		<POS>NN JJ VBN TO DT JJ NNS PRP VBP IN DT NNS .</POS>
+		<Lemma>nothing special compare to the local brand you get in the store .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Buy this only if you like your stuff delivered to your door .</Tokens>
+		<POS>VB DT RB IN PRP IN PRP$ NN VBN TO PRP$ NN .</POS>
+		<Lemma>buy this only if you like you stuff deliver to you door .</Lemma>
+	</Sentence>
+</Document>

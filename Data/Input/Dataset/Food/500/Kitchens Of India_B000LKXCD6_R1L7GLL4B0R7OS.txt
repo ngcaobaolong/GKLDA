@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It seems like they are starting to use the same masala in a variety of substances that it renders it indistinguishable from the other items .</Tokens>
+		<POS>PRP VBZ IN PRP VBP VBG TO VB DT JJ NN IN DT NN IN NNS IN PRP VBZ PRP JJ IN DT JJ NNS .</POS>
+		<Lemma>it seem like they be start to use the same masalum in a variety of substance that it render it indistinguishable from the other item .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>this is a common problem in restaurants outside of india .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NNS IN IN NN .</POS>
+		<Lemma>this be a common problem in restaurant outside of indium .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>also , the fat content is unbelievable .</Tokens>
+		<POS>RB , DT JJ NN VBZ JJ .</POS>
+		<Lemma>also , the fat content be unbelievable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>P. S : the fat is not from the paneer -LRB- \/ cottage cheese -RRB- .</Tokens>
+		<POS>NNP NN : DT NN VBZ RB IN DT NN -LRB- : NN NN -RRB- .</POS>
+		<Lemma>P. s : the fat be not from the paneer -lrb- \/ cottage cheese -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>it 's oil</Tokens>
+		<POS>PRP VBZ NN</POS>
+		<Lemma>it be oil</Lemma>
+	</Sentence>
+</Document>

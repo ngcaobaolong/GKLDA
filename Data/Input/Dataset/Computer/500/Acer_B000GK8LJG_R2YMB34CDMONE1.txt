@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The picture is sharp and bright .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ .</POS>
+		<Lemma>the picture be sharp and bright .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Perfect in my book .</Tokens>
+		<POS>NNP IN PRP$ NN .</POS>
+		<Lemma>Perfect in my book .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My wife would like to raise the screen on the stand to be higher but I find it at the perfect height .</Tokens>
+		<POS>PRP$ NN MD VB TO VB DT NN IN DT NN TO VB JJR CC PRP VBP PRP IN DT JJ NN .</POS>
+		<Lemma>my wife would like to raise the screen on the stand to be higher but I find it at the perfect height .</Lemma>
+	</Sentence>
+</Document>

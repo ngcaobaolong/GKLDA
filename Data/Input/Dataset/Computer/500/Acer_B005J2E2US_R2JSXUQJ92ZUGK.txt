@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love the size of this computer !!</Tokens>
+		<POS>PRP VBP DT NN IN DT NN NN</POS>
+		<Lemma>I love the size of this computer !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is perfect for school , and I ca n't wait to use it .</Tokens>
+		<POS>PRP VBZ JJ IN NN , CC PRP MD RB VB TO VB PRP .</POS>
+		<Lemma>it be perfect for school , and I can not wait to use it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Any student looking for a small laptop to carry back and forth to school instead of their `` monster '' size laptop , this is the computer for you .</Tokens>
+		<POS>DT NN VBG IN DT JJ NN TO VB RB CC RB TO NN RB IN PRP$ `` NN '' NN NN , DT VBZ DT NN IN PRP .</POS>
+		<Lemma>any student look for a small laptop to carry back and forth to school instead of they `` monster '' size laptop , this be the computer for you .</Lemma>
+	</Sentence>
+</Document>

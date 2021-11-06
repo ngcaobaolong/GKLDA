@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Has a deep flavorful taste w \/ bright overtones .</Tokens>
+		<POS>VBZ DT JJ JJ NN NN : JJ NNS .</POS>
+		<Lemma>have a deep flavorful taste w \/ bright overtone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You get a heady aromatic smell as you grind the beans and it transports the earthy dark roast without the bitterness .</Tokens>
+		<POS>PRP VBP DT JJ JJ NN IN PRP VBP DT NNS CC PRP VBZ DT JJ JJ NN IN DT NN .</POS>
+		<Lemma>you get a heady aromatic smell as you grind the bean and it transport the earthy dark roast without the bitterness .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's a great morning coffee</Tokens>
+		<POS>PRP VBZ DT JJ NN NN</POS>
+		<Lemma>it be a great morning coffee</Lemma>
+	</Sentence>
+</Document>

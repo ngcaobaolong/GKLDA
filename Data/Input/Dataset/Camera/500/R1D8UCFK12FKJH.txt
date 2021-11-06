@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I like the camera .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I like the camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has good video-with a noise issue in audio .</Tokens>
+		<POS>PRP VBZ JJ NN DT NN NN IN NN .</POS>
+		<Lemma>it have good video-with a noise issue in audio .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The video is an improvement as you can use the lens back and forth , unlike stationary earlier version .</Tokens>
+		<POS>DT NN VBZ DT NN IN PRP MD VB DT NN RB CC RB , IN JJ JJR NN .</POS>
+		<Lemma>the video be a improvement as you can use the lens back and forth , unlike stationary earlier version .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The flash is placed bad as when you hold camera it pops up where finger is .</Tokens>
+		<POS>DT NN VBZ VBN JJ IN WRB PRP VBP NN PRP VBZ RP WRB NN VBZ .</POS>
+		<Lemma>the flash be place bad as when you hold camera it pop up where finger be .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The camera has great clarity in it 's images .</Tokens>
+		<POS>DT NN VBZ JJ NN IN PRP VBZ NNS .</POS>
+		<Lemma>the camera have great clarity in it be image .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The kit has a cheesy camera bag with nylon fibers sticking out of it .</Tokens>
+		<POS>DT NN VBZ DT JJ NN NN IN NN NNS VBG IN IN PRP .</POS>
+		<Lemma>the kit have a cheesy camera bag with nylon fiber stick out of it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The 4 Gig camera card is n't anything to pine for .</Tokens>
+		<POS>DT CD NNP NN NN VBZ RB NN TO VB IN .</POS>
+		<Lemma>the 4 Gig camera card be not anything to pine for .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It fills up rather quickly .</Tokens>
+		<POS>PRP VBZ RP RB RB .</POS>
+		<Lemma>it fill up rather quickly .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This version uses another kind of processor and it eats the battery life more than the 95 version .</Tokens>
+		<POS>DT NN VBZ DT NN IN NN CC PRP VBZ DT NN NN JJR IN DT CD NN .</POS>
+		<Lemma>this version use another kind of processor and it eat the battery life more than the 95 version .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I love the camera , the kit is just a cheap grouping of things that I would have bought separately .</Tokens>
+		<POS>PRP VBP DT NN , DT NN VBZ RB DT JJ NN IN NNS IN PRP MD VB VBN RB .</POS>
+		<Lemma>I love the camera , the kit be just a cheap grouping of thing that I would have buy separately .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>As a follow up the digi-pack camera case that goes on your belt-fell apart in one week , and I almost lost the camera .</Tokens>
+		<POS>IN DT VB RP DT JJ NN NN WDT VBZ IN PRP$ NN RB IN CD NN , CC PRP RB VBD DT NN .</POS>
+		<Lemma>as a follow up the digi-pack camera case that go on you belt-fell apart in one week , and I almost lose the camera .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I let the company know-and they are sending another lousy-made case .</Tokens>
+		<POS>PRP VBP DT NN JJ PRP VBP VBG DT JJ NN .</POS>
+		<Lemma>I let the company know-and they be send another lousy-made case .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>BUY THIS CAMERA SOLO .</Tokens>
+		<POS>VB NNP NNP NNP .</POS>
+		<Lemma>buy THIS CAMERA SOLO .</Lemma>
+	</Sentence>
+</Document>

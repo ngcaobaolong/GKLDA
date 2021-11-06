@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've waited too long to get this !</Tokens>
+		<POS>PRP VBP VBD RB JJ TO VB DT .</POS>
+		<Lemma>I have wait too long to get this !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's exactly what I needed .</Tokens>
+		<POS>PRP VBZ RB WP PRP VBD .</POS>
+		<Lemma>it be exactly what I need .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have an iPhone 4 and it works perfect with it .</Tokens>
+		<POS>PRP VBP DT NNP CD CC PRP VBZ JJ IN PRP .</POS>
+		<Lemma>I have a iPhone 4 and it work perfect with it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was constantly griping before that I did n't have a controller to work the music from my iPhone without picking up the thing and scrolling through my music -LRB- while driving -RRB- .</Tokens>
+		<POS>PRP VBD RB VBG IN IN PRP VBD RB VB DT NN TO VB DT NN IN PRP$ NNP IN VBG RP DT NN CC VBG IN PRP$ NN -LRB- IN VBG -RRB- .</POS>
+		<Lemma>I be constantly gripe before that I do not have a controller to work the music from my iPhone without pick up the thing and scroll through my music -lrb- while drive -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Now I just push a button !</Tokens>
+		<POS>RB PRP RB VBP DT NN .</POS>
+		<Lemma>now I just push a button !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And I love that you can bend the neck to the right position .</Tokens>
+		<POS>CC PRP VBP IN PRP MD VB DT NN TO DT JJ NN .</POS>
+		<Lemma>and I love that you can bend the neck to the right position .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The sound quality is great on the music and the calls .</Tokens>
+		<POS>DT JJ NN VBZ JJ IN DT NN CC DT NNS .</POS>
+		<Lemma>the sound quality be great on the music and the call .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The only negative is that you have to turn the radio volume up when on a call and turn it back down when going back to music .</Tokens>
+		<POS>DT JJ JJ VBZ IN PRP VBP TO VB DT NN NN RB WRB IN DT NN CC VB PRP RB RB WRB VBG RB TO NN .</POS>
+		<Lemma>the only negative be that you have to turn the radio volume up when on a call and turn it back down when go back to music .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Overall , it 's great !</Tokens>
+		<POS>RB , PRP VBZ JJ .</POS>
+		<Lemma>overall , it be great !</Lemma>
+	</Sentence>
+</Document>

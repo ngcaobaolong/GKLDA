@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This whole grain bread mix by Bob 's Red Mill is simply amazing .</Tokens>
+		<POS>DT JJ NN NN NN IN NNP POS NNP NNP VBZ RB JJ .</POS>
+		<Lemma>this whole grain bread mix by Bob 's Red Mill be simply amazing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As a general rule , I never make gluten-free bread as it 's simply unappealing after it 's been out of the over for more than an hour .</Tokens>
+		<POS>IN DT JJ NN , PRP RB VBP JJ NN IN PRP VBZ RB JJ IN PRP VBZ VBN IN IN DT JJ IN JJR IN DT NN .</POS>
+		<Lemma>as a general rule , I never make gluten-free bread as it be simply unappealing after it be be out of the over for more than a hour .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For similar reasons I never buy it at the store -- it 's gummy and not worth the bother .</Tokens>
+		<POS>IN JJ NNS PRP RB VBP PRP IN DT NN : PRP VBZ NN CC RB JJ DT VB .</POS>
+		<Lemma>for similar reason I never buy it at the store -- it be gummy and not worth the bother .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , this bread mix actually tastes like bread , and for someone avoiding wheat and other gluten containing grains it 's a godsend .</Tokens>
+		<POS>RB , DT NN NN RB VBZ IN NN , CC IN NN VBG NN CC JJ NN VBG NNS PRP VBZ DT NN .</POS>
+		<Lemma>however , this bread mix actually taste like bread , and for someone avoid wheat and other gluten contain grain it be a godsend .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I agree with other reviewers that it has a strong flavor , akin to German rye breads or the like .</Tokens>
+		<POS>PRP VBP IN JJ NNS IN PRP VBZ DT JJ NN , JJ TO JJ NN NNS CC DT JJ .</POS>
+		<Lemma>I agree with other reviewer that it have a strong flavor , akin to german rye bread or the like .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I certainly would n't want to eat it all the time , but it 's fantastic to have a `` real '' sandwich every once in awhile .</Tokens>
+		<POS>PRP RB MD RB VB TO VB PRP PDT DT NN , CC PRP VBZ JJ TO VB DT `` JJ '' NN DT RB IN RB .</POS>
+		<Lemma>I certainly would not want to eat it all the time , but it be fantastic to have a `` real '' sandwich every once in awhile .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And for the reviewer complaining about buckwheat containing gluten , that is simply wrong .</Tokens>
+		<POS>CC IN DT NN VBG IN NN VBG NN , WDT VBZ RB JJ .</POS>
+		<Lemma>and for the reviewer complain about buckwheat contain gluten , that be simply wrong .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Buckwheat , along with rice and corn , are approved for those with celiac disease .</Tokens>
+		<POS>NNP , IN IN NN CC NN , VBP VBN IN DT IN JJ NN .</POS>
+		<Lemma>Buckwheat , along with rice and corn , be approve for those with celiac disease .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you have a reaction to buckwheat , it 's not because of gluten .</Tokens>
+		<POS>IN PRP VBP DT NN TO NN , PRP VBZ RB IN IN NN .</POS>
+		<Lemma>if you have a reaction to buckwheat , it be not because of gluten .</Lemma>
+	</Sentence>
+</Document>

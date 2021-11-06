@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>all i have to say is be very aware when buying this product .</Tokens>
+		<POS>DT FW VBP TO VB VBZ VB RB JJ WRB VBG DT NN .</POS>
+		<Lemma>all i have to say be be very aware when buy this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i bought one brand new in nov. 2011 .</Tokens>
+		<POS>LS VBD CD NN JJ IN JJ CD .</POS>
+		<Lemma>i buy one brand new in nov. 2011 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>three months later it just died for no reason .</Tokens>
+		<POS>CD NNS RB PRP RB VBD IN DT NN .</POS>
+		<Lemma>three month later it just die for no reason .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>i did my research and found out that it is common for this brand to die for no reason .</Tokens>
+		<POS>LS VBD PRP$ NN CC VBN IN IN PRP VBZ JJ IN DT NN TO VB IN DT NN .</POS>
+		<Lemma>i do my research and find out that it be common for this brand to die for no reason .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>lots of people had the same problem .</Tokens>
+		<POS>NNS IN NNS VBD DT JJ NN .</POS>
+		<Lemma>lot of people have the same problem .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>it would have costed me more money to fix it then to buy a new one .</Tokens>
+		<POS>PRP MD VB VBN PRP JJR NN TO VB PRP RB TO VB DT JJ CD .</POS>
+		<Lemma>it would have cost I more money to fix it then to buy a new one .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>i was upset cause i was out of three hundred dollars and now i had to buy a new one after only three months of usage .</Tokens>
+		<POS>LS VBD JJ NN FW VBD IN IN CD CD NNS CC RB FW VBD TO VB DT JJ CD IN RB CD NNS IN NN .</POS>
+		<Lemma>i be upset cause i be out of three hundred dollar and now i have to buy a new one after only three month of usage .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>i never damaged my comp .</Tokens>
+		<POS>LS RB VBN PRP$ NN .</POS>
+		<Lemma>i never damage my comp .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>and had an excellent anti-virus on my comp .</Tokens>
+		<POS>CC VBD DT JJ NNS IN PRP$ NN .</POS>
+		<Lemma>and have a excellent anti-virus on my comp .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>apparently this brand is known for dying for no cause at all according to acer costomer service and other buyers .</Tokens>
+		<POS>RB DT NN VBZ VBN IN VBG IN DT NN IN DT VBG TO NN NN NN CC JJ NNS .</POS>
+		<Lemma>apparently this brand be know for die for no cause at all accord to acer costomer service and other buyer .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>i decided to buy a comp .</Tokens>
+		<POS>LS VBD TO VB DT NN .</POS>
+		<Lemma>i decide to buy a comp .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>that would last ... so i bought an apple ibook .</Tokens>
+		<POS>WDT MD VB : RB FW VBD DT NN NN .</POS>
+		<Lemma>that would last ... so i buy a apple ibook .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>make sure if you buy this product -LRB- acer -RRB- you also buy insurance of some sort for it .</Tokens>
+		<POS>VB JJ IN PRP VBP DT NN -LRB- NN -RRB- PRP RB VBP NN IN DT NN IN PRP .</POS>
+		<Lemma>make sure if you buy this product -lrb- acer -rrb- you also buy insurance of some sort for it .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>i was not happy at all with acer , you would think with all this new tecnology they would make a long life comp ...</Tokens>
+		<POS>LS VBD RB JJ IN DT IN NN , PRP MD VB IN PDT DT JJ NN PRP MD VB DT JJ NN NN :</POS>
+		<Lemma>i be not happy at all with acer , you would think with all this new tecnology they would make a long life comp ...</Lemma>
+	</Sentence>
+</Document>

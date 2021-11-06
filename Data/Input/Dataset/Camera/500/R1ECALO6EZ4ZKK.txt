@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It 's a tough little camera that has survived a few drops .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN WDT VBZ VBN DT JJ NNS .</POS>
+		<Lemma>it be a tough little camera that have survive a few drop .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You 'll need to pack an additional battery if you are going on an all-day excursion .</Tokens>
+		<POS>PRP MD VB TO VB DT JJ NN IN PRP VBP VBG IN DT JJ NN .</POS>
+		<Lemma>you 'll need to pack a additional battery if you be go on a all-day excursion .</Lemma>
+	</Sentence>
+</Document>

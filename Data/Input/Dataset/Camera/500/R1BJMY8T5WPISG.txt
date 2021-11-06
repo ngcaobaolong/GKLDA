@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I chose this for my 8 year old - the cost was right so that if she ended up breaking it , I would n't feel too bad .</Tokens>
+		<POS>PRP VBD DT IN PRP$ CD NN JJ : DT NN VBD RB RB IN IN PRP VBD RP VBG PRP , PRP MD RB VB RB JJ .</POS>
+		<Lemma>I choose this for my 8 year old - the cost be right so that if she end up break it , I would not feel too bad .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera takes great pictures , is small and lightweight , and it is very easy to use .</Tokens>
+		<POS>DT NN VBZ JJ NNS , VBZ JJ CC JJ , CC PRP VBZ RB JJ TO VB .</POS>
+		<Lemma>the camera take great picture , be small and lightweight , and it be very easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>She was up and using it within minutes of charging the battery .</Tokens>
+		<POS>PRP VBD RB CC VBG PRP IN NNS IN VBG DT NN .</POS>
+		<Lemma>she be up and use it within minute of charge the battery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The images were decent , LCD crisp and clean , operation fast , and we were happy with the quality of the videos .</Tokens>
+		<POS>DT NNS VBD JJ , NNS JJ CC JJ , NN RB , CC PRP VBD JJ IN DT NN IN DT NNS .</POS>
+		<Lemma>the image be decent , lcd crisp and clean , operation fast , and we be happy with the quality of the video .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In all , this was the perfect inexpensive yet decent camera to carry around and capture family memories -LRB- or let the 8 year old explore macros and portraits -RRB- .</Tokens>
+		<POS>IN DT , DT VBD DT JJ JJ RB JJ NN TO VB RP CC NN NN NNS -LRB- CC VB DT CD NN JJ VB NNS CC NNS -RRB- .</POS>
+		<Lemma>in all , this be the perfect inexpensive yet decent camera to carry around and capture family memory -lrb- or let the 8 year old explore macro and portrait -rrb- .</Lemma>
+	</Sentence>
+</Document>

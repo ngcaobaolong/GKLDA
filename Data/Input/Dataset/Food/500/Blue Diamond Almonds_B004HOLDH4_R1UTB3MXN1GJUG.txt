@@ -1,0 +1,162 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Diamond Almonds Almonds are a good source of magnesium .</Tokens>
+		<POS>NNP NNP NNPS VBP DT JJ NN IN NN .</POS>
+		<Lemma>Diamond Almonds Almonds be a good source of magnesium .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>One ounce contain approximately 20 % of the RDA for an adult recommended dietary allowance -LRB- RDA -RRB- Recommended Dietary Allowance -LRB- RDA -RRB- the amounts of selected nutrients considered adequate to meet the known nutrient needs of healthy people .</Tokens>
+		<POS>CD NN VBP RB CD NN IN DT NNP IN DT JJ VBN JJ NN -LRB- NN -RRB- VBN NNP NNP -LRB- NNP -RRB- DT NNS IN VBN NNS VBN JJ TO VB DT JJ NN NNS IN JJ NNS .</POS>
+		<Lemma>one ounce contain approximately 20 % of the RDA for a adult recommend dietary allowance -lrb- rda -rrb- recommend Dietary Allowance -lrb- RDA -rrb- the amount of select nutrient consider adequate to meet the known nutrient need of healthy people .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The RDA is based on scientific knowledge and has been presented by a committee of the Food and Nutrition Board -LRB- FNB -RRB- of the National Academy of Sciences -LRB- NAS -RRB- .</Tokens>
+		<POS>DT NNP VBZ VBN IN JJ NN CC VBZ VBN VBN IN DT NN IN DT NNP CC NNP NNP -LRB- NNP -RRB- IN DT NNP NNP IN NNPS -LRB- NNP -RRB- .</POS>
+		<Lemma>the RDA be base on scientific knowledge and have be present by a committee of the Food and Nutrition Board -lrb- FNB -rrb- of the National Academy of Sciences -lrb- NAS -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Canadian equivalent is the Recommended Nutrient Intakes .</Tokens>
+		<POS>DT JJ NN VBZ DT NNP NNP NNPS .</POS>
+		<Lemma>the canadian equivalent be the Recommended Nutrient Intakes .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>RDA is generally accepted throughout the world as a valid source of information .</Tokens>
+		<POS>NNP VBZ RB VBN IN DT NN IN DT JJ NN IN NN .</POS>
+		<Lemma>RDA be generally accept throughout the world as a valid source of information .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>At least 40 different nations have as well as organizations have published standards similar to the RDA .</Tokens>
+		<POS>IN JJS CD JJ NNS VBP RB RB IN NNS VBP VBN NNS JJ TO DT NNP .</POS>
+		<Lemma>at least 40 different nation have as well as organization have publish standard similar to the RDA .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Magnesium is the fourth most abundant mineral in the body and is essential to good health .</Tokens>
+		<POS>NN VBZ DT JJ RBS JJ NN IN DT NN CC VBZ JJ TO JJ NN .</POS>
+		<Lemma>magnesium be the fourth most abundant mineral in the body and be essential to good health .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Approximately 50 % of total body magnesium is found in bone .</Tokens>
+		<POS>RB CD NN IN JJ NN NN VBZ VBN IN NN .</POS>
+		<Lemma>approximately 50 % of total body magnesium be find in bone .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The other half is found predominantly inside cells of body tissues and organs .</Tokens>
+		<POS>DT JJ NN VBZ VBN RB IN NNS IN NN NNS CC NNS .</POS>
+		<Lemma>the other half be find predominantly inside cell of body tissue and organ .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Only 1 % of magnesium is found in blood , but the body works very hard to keep blood levels of magnesium constant .</Tokens>
+		<POS>RB CD NN IN NN VBZ VBN IN NN , CC DT NN VBZ RB JJ TO VB NN NNS IN NN NN .</POS>
+		<Lemma>only 1 % of magnesium be find in blood , but the body work very hard to keep blood level of magnesium constant .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Magnesium is needed for more than 300 biochemical reactions in the body .</Tokens>
+		<POS>NN VBZ VBN IN JJR IN CD JJ NNS IN DT NN .</POS>
+		<Lemma>magnesium be need for more than 300 biochemical reaction in the body .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It helps maintain normal muscle and nerve function , keeps heart rhythm steady , supports a healthy immune system , and keeps bones strong .</Tokens>
+		<POS>PRP VBZ VB JJ NN CC NN NN , VBZ NN NN JJ , VBZ DT JJ JJ NN , CC VBZ NNS JJ .</POS>
+		<Lemma>it help maintain normal muscle and nerve function , keep heart rhythm steady , support a healthy immune system , and keep bone strong .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Magnesium also helps regulate blood sugar levels , promotes normal blood pressure , and is known to be involved in energy metabolism and protein synthesis .</Tokens>
+		<POS>NN RB VBZ VB NN NN NNS , VBZ JJ NN NN , CC VBZ VBN TO VB VBN IN NN NN CC NN NN .</POS>
+		<Lemma>magnesium also help regulate blood sugar level , promote normal blood pressure , and be know to be involve in energy metabolism and protein synthesis .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>There is an increased interest in the role of magnesium in preventing and managing disorders such as hypertension , cardiovascular disease , and diabetes .</Tokens>
+		<POS>EX VBZ DT VBN NN IN DT NN IN NN IN VBG CC VBG NNS JJ IN NN , JJ NN , CC NN .</POS>
+		<Lemma>there be a increase interest in the role of magnesium in prevent and manage disorder such as hypertension , cardiovascular disease , and diabetes .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Dietary magnesium is absorbed in the small intestines .</Tokens>
+		<POS>JJ NN VBZ VBN IN DT JJ NNS .</POS>
+		<Lemma>dietary magnesium be absorb in the small intestine .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Are you taking enough magnesium in the diet ?</Tokens>
+		<POS>VBP PRP VBG JJ NN IN DT NN .</POS>
+		<Lemma>be you take enough magnesium in the diet ?</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The recommended daily allowance is 300mgs\/day for men , 350mgs for women .</Tokens>
+		<POS>DT VBN JJ NN VBZ JJ IN NNS , NNS IN NNS .</POS>
+		<Lemma>the recommend daily allowance be 300mgs\/day for man , 350mg for woman .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Magnesium is extremely safe by mouth - too much simply causes diarrhea .</Tokens>
+		<POS>NN VBZ RB JJ IN NN : RB RB RB VBZ NN .</POS>
+		<Lemma>magnesium be extremely safe by mouth - too much simply cause diarrhea .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Try increasing the amount of magnesium you take by mouth until it causes diarrhea , then reduce the dose slightly so it does not .</Tokens>
+		<POS>VB VBG DT NN IN NN PRP VBP IN NN IN PRP VBZ NN , RB VB DT NN RB IN PRP VBZ RB .</POS>
+		<Lemma>try increase the amount of magnesium you take by mouth until it cause diarrhea , then reduce the dose slightly so it do not .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>This is called taking magnesium to bowel tolerance -LRB- just like using vitamin C to bowel tolerance .</Tokens>
+		<POS>DT VBZ VBN VBG NN TO NN NN -LRB- RB IN VBG NN NN TO NN NN .</POS>
+		<Lemma>this be call take magnesium to bowel tolerance -lrb- just like use vitamin c to bowel tolerance .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Almonds are a good source of Fiber .</Tokens>
+		<POS>NNS VBP DT JJ NN IN NNP .</POS>
+		<Lemma>almond be a good source of Fiber .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>One ounce contains approximately 12 % of the RDA for an adult .</Tokens>
+		<POS>CD NN VBZ RB CD NN IN DT NNP IN DT NN .</POS>
+		<Lemma>one ounce contain approximately 12 % of the RDA for a adult .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>So , in summary , Almonds are a very healthy snack , so what 's left to say ?</Tokens>
+		<POS>RB , IN NN , NNP VBP DT RB JJ NN , RB WP VBZ VBN TO VB .</POS>
+		<Lemma>so , in summary , Almonds be a very healthy snack , so what be leave to say ?</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Two things : 1st be cautious about `` bowel tolerance '' or `` happy bowels '' if you prefer .</Tokens>
+		<POS>CD NNS : CD VB JJ IN `` NN NN '' CC `` JJ NNS '' IN PRP VBP .</POS>
+		<Lemma>two thing : 1st be cautious about `` bowel tolerance '' or `` happy bowels '' if you prefer .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>2nd Taste .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>2nd taste .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I realize that taste is a personal thing .</Tokens>
+		<POS>PRP VBP IN NN VBZ DT JJ NN .</POS>
+		<Lemma>I realize that taste be a personal thing .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>That 's why they make chocolate , strawberry , and vanilla .</Tokens>
+		<POS>DT VBZ WRB PRP VBP NN , NN , CC NN .</POS>
+		<Lemma>that be why they make chocolate , strawberry , and vanilla .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Here 's my current favorites '' 1st Blue Diamond Dark mint dark chocolate -LRB- reminds me of the chocolate mint Girl Scout Cookies with less sugar -RRB- .</Tokens>
+		<POS>RB POS PRP$ JJ NNS '' CD NNP NNP JJ NN JJ NN -LRB- VBZ PRP IN DT NN NN NNP NNP NNPS IN JJR NN -RRB- .</POS>
+		<Lemma>here 's my current favorite '' 1st Blue Diamond dark mint dark chocolate -lrb- remind I of the chocolate mint Girl Scout Cookies with less sugar -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>2nd Blue diamond Dark Chocolate Oven Roasted 3rd Blue diamond Blue Butter Toffee 4thd Blue Diamond Almonds Bold Habanero BBQ -LRB- reminds me of BBQ potato chips again with less sugar -RRB- .</Tokens>
+		<POS>JJ JJ NN JJ NNP NNP NNP VBD NNP NN NNP NN NNP VBD NNP NNP NNP JJ NNP NNP -LRB- VBZ PRP IN NNP NN NNS RB IN JJR NN -RRB- .</POS>
+		<Lemma>2nd blue diamond dark Chocolate Oven Roasted 3rd Blue diamond Blue butter Toffee 4thd Blue Diamond Almonds bold Habanero BBQ -lrb- remind I of BBQ potato chip again with less sugar -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>5th Bold Blazin Buffalo Wing 6th Blue Diamond Almonds Cinnamon Brown Sugar 7th Blue Diamond Almonds Lime ` n Chili 8th Blue Diamond Almonds Smokehouse 9th Bold Wasabi & Soy Sauce But that 's just me : you might have a completely different take on these flavors .</Tokens>
+		<POS>JJ JJ NNP NNP NN JJ JJ NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP `` NN NNP JJ NNP NNP NNP NNP JJ JJ NNP CC NNP NNP CC DT VBZ RB PRP : PRP MD VB DT RB JJ NN IN DT NNS .</POS>
+		<Lemma>5th bold Blazin Buffalo wing 6th blue Diamond Almonds Cinnamon Brown Sugar 7th Blue Diamond Almonds Lime ` n Chili 8th Blue Diamond Almonds Smokehouse 9th bold Wasabi & Soy Sauce but that be just I : you might have a completely different take on these flavor .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>4th and 5th are very close .</Tokens>
+		<POS>JJ CC JJ VBP RB RB .</POS>
+		<Lemma>4th and 5th be very close .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Gunner May , 2012</Tokens>
+		<POS>NN NNP , CD</POS>
+		<Lemma>gunner May , 2012</Lemma>
+	</Sentence>
+</Document>

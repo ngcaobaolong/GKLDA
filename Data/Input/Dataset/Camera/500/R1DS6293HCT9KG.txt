@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just got this camera a couple of days ago , and still learning it .</Tokens>
+		<POS>RB VBD DT NN DT NN IN NNS RB , CC RB VBG PRP .</POS>
+		<Lemma>just get this camera a couple of day ago , and still learn it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Biggest reason for buying this is that I had great experience with our Fujifilm s9000 .</Tokens>
+		<POS>JJS NN IN VBG DT VBZ IN PRP VBD JJ NN IN PRP$ NNP NN .</POS>
+		<Lemma>biggest reason for buy this be that I have great experience with we Fujifilm s9000 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But that camera is just too big to lug around .</Tokens>
+		<POS>CC DT NN VBZ RB RB JJ TO VB RP .</POS>
+		<Lemma>but that camera be just too big to lug around .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Love the zoom !</Tokens>
+		<POS>NN DT NN .</POS>
+		<Lemma>love the zoom !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The quality of the pics are great and my wife loves to use the panorama mode -LRB- it is much better than our S9000 when it comes to that -RRB- .</Tokens>
+		<POS>DT NN IN DT NNS VBP JJ CC PRP$ NN VBZ TO VB DT NN NN -LRB- PRP VBZ RB JJR IN PRP$ NN WRB PRP VBZ TO IN -RRB- .</POS>
+		<Lemma>the quality of the pic be great and my wife love to use the panorama mode -lrb- it be much better than we s9000 when it come to that -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is easier to use and the feel and size are just alright .</Tokens>
+		<POS>PRP VBZ JJR TO VB CC DT NN CC NN VBP RB JJ .</POS>
+		<Lemma>it be easier to use and the feel and size be just alright .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But not everything is great , the camera casing is somewhat fragile , so careful with all those dropping and banging around .</Tokens>
+		<POS>CC RB NN VBZ JJ , DT NN NN VBZ RB JJ , RB JJ IN PDT DT VBG CC VBG RP .</POS>
+		<Lemma>but not everything be great , the camera casing be somewhat fragile , so careful with all those drop and bang around .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>And just like one of the reviews here , why in the world did they put the sd card slot along with the battery slots ?</Tokens>
+		<POS>CC RB IN CD IN DT NNS RB , WRB IN DT NN VBD PRP VBD DT NN NN NN IN IN DT NN NNS .</POS>
+		<Lemma>and just like one of the review here , why in the world do they put the sd card slot along with the battery slot ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>so if you wanna take the sd card , the batteries pop out and have to reset the dates and the like again .</Tokens>
+		<POS>RB IN PRP VBP VB DT NN NN , DT NNS VBP RP CC VBP TO VB DT NNS CC DT JJ RB .</POS>
+		<Lemma>so if you wanna take the sd card , the battery pop out and have to reset the date and the like again .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The box also does not provide usb cable , gotta buy your own .</Tokens>
+		<POS>DT NN RB VBZ RB VB NN NN , NN VB PRP$ JJ .</POS>
+		<Lemma>the box also do not provide usb cable , gotta buy you own .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>and lastly , it is too easy to rotate the mode dial by accident .</Tokens>
+		<POS>CC RB , PRP VBZ RB JJ TO VB DT NN NN IN NN .</POS>
+		<Lemma>and lastly , it be too easy to rotate the mode dial by accident .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>it just rotates even if you push it lightly , thereby upsetting the mode you wanted while shooting .</Tokens>
+		<POS>PRP RB VBZ RB IN PRP VBP PRP RB , RB VBG DT NN PRP VBD IN NN .</POS>
+		<Lemma>it just rotate even if you push it lightly , thereby upset the mode you want while shooting .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>but all in all , it is a great camera for pros and non-pros alike ... so long as you dont expect it to do what cameras that are a ton more expensive .</Tokens>
+		<POS>CC DT IN DT , PRP VBZ DT JJ NN IN NNS CC JJ RB : RB RB IN PRP VBP VB PRP TO VB WP NNS WDT VBP DT NN RBR JJ .</POS>
+		<Lemma>but all in all , it be a great camera for pro and non-pros alike ... so long as you dont expect it to do what camera that be a ton more expensive .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>you get what you pay for with this camera , with a few great extras ... add : ive been using the camera for a couple of weeks now , i was kinda disappointed with it .</Tokens>
+		<POS>PRP VBP WP PRP VBP IN IN DT NN , IN DT JJ JJ NNS : VB : RB VBN VBG DT NN IN DT NN IN NNS RB , FW VBD NN JJ IN PRP .</POS>
+		<Lemma>you get what you pay for with this camera , with a few great extra ... add : ive be use the camera for a couple of week now , i be kinda disappointed with it .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>its terrible indoors or when light is low .</Tokens>
+		<POS>PRP$ JJ RB CC WRB NN VBZ JJ .</POS>
+		<Lemma>its terrible indoors or when light be low .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>the zoom is terrible on low light .</Tokens>
+		<POS>DT NN VBZ JJ IN JJ NN .</POS>
+		<Lemma>the zoom be terrible on low light .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>it is still great when outdoors , but once inside an auditorium with dim lights , the picture suck big time !</Tokens>
+		<POS>PRP VBZ RB JJ WRB RB , CC RB IN DT NN IN JJ NNS , DT NN NN JJ NN .</POS>
+		<Lemma>it be still great when outdoors , but once inside a auditorium with dim light , the picture suck big time !</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>ive tinkered with all the different functionalities , but low level light still gives it a hard time .</Tokens>
+		<POS>JJ VBN IN PDT DT JJ NNS , CC JJ NN NN RB VBZ PRP DT JJ NN .</POS>
+		<Lemma>ive tinker with all the different functionality , but low level light still give it a hard time .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>the dial still bothers me , and the anti-shake is a joke ...</Tokens>
+		<POS>DT NN RB VBZ PRP , CC DT NN VBZ DT NN :</POS>
+		<Lemma>the dial still bother I , and the anti-shake be a joke ...</Lemma>
+	</Sentence>
+</Document>

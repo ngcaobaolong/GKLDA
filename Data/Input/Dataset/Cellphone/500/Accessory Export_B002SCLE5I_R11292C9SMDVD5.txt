@@ -1,0 +1,92 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have the ` Generation 4 plus ' , which I can not find on here , but assume that the Generation X is an upgrade from that ?</Tokens>
+		<POS>PRP VBP DT `` NN CD CC '' , WDT PRP MD RB VB IN RB , CC VB IN DT NN NN VBZ DT NN IN DT .</POS>
+		<Lemma>I have the ` generation 4 plus ' , which I can not find on here , but assume that the generation x be a upgrade from that ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Point is that I have T-Mobile , which has pretty poor reception in many areas of the country .</Tokens>
+		<POS>NN VBZ IN PRP VBP NNP , WDT VBZ RB JJ NN IN JJ NNS IN DT NN .</POS>
+		<Lemma>point be that I have T-Mobile , which have pretty poor reception in many area of the country .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Inside my home is bad , and the bathroom in particular is where I lose the most reception .</Tokens>
+		<POS>IN PRP$ NN VBZ JJ , CC DT NN IN JJ VBZ WRB PRP VBP DT JJS NN .</POS>
+		<Lemma>inside my home be bad , and the bathroom in particular be where I lose the most reception .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Btw .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>btw .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I take it into the bathroom just like everyone else does , so do n't judge me ; 0 -RRB- I used a pair of sharped-tipped tweezers to take off the backing so I did n't get the oils from my fingers on the adhesive , and then applied it to a clean surface facing the right direction .</Tokens>
+		<POS>PRP VBP PRP IN DT NN RB IN NN RB VBZ , RB VBP RB VB PRP : CD -RRB- PRP VBD DT NN IN JJ NNS TO VB RP DT NN IN PRP VBD RB VB DT NNS IN PRP$ NNS IN DT JJ , CC RB VBD PRP TO DT JJ NN VBG DT JJ NN .</POS>
+		<Lemma>I take it into the bathroom just like everyone else do , so do not judge I ; 0 -rrb- I use a pair of sharped-tipped tweezers to take off the backing so I do not get the oils from my finger on the adhesive , and then apply it to a clean surface face the right direction .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There should be a little diagram behind your battery that shows the direction of your internal antenna already in your phone .</Tokens>
+		<POS>EX MD VB DT JJ NN IN PRP$ NN IN VBZ DT NN IN PRP$ JJ NN RB IN PRP$ NN .</POS>
+		<Lemma>there should be a little diagram behind you battery that show the direction of you internal antenna already in you phone .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Finally , I turned my phone on , went to the problem areas of my home .</Tokens>
+		<POS>RB , PRP VBD PRP$ NN IN , VBD TO DT NN NNS IN PRP$ NN .</POS>
+		<Lemma>finally , I turn my phone on , go to the problem area of my home .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>and viola !</Tokens>
+		<POS>CC NN .</POS>
+		<Lemma>and viola !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It made a huge difference for me .</Tokens>
+		<POS>PRP VBD DT JJ NN IN PRP .</POS>
+		<Lemma>it make a huge difference for I .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>A phone call from the bathroom actually went through , and there was no break up at all .</Tokens>
+		<POS>DT NN NN IN DT NN RB VBD IN , CC EX VBD DT NN RP IN DT .</POS>
+		<Lemma>a phone call from the bathroom actually go through , and there be no break up at all .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The sound was awesome .</Tokens>
+		<POS>DT NN VBD JJ .</POS>
+		<Lemma>the sound be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I was shocked actually .</Tokens>
+		<POS>PRP VBD VBN RB .</POS>
+		<Lemma>I be shock actually .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>So , it does work at least for me .</Tokens>
+		<POS>RB , PRP VBZ VB IN JJS IN PRP .</POS>
+		<Lemma>so , it do work at least for I .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I would have between 1 and 2 bars in the problem areas .</Tokens>
+		<POS>PRP MD VB IN CD CC CD NNS IN DT NN NNS .</POS>
+		<Lemma>I would have between 1 and 2 bar in the problem area .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>And it gave me between 1 to 2 extra , which can make all the difference in the world apparently .</Tokens>
+		<POS>CC PRP VBD PRP IN CD TO CD JJ , WDT MD VB PDT DT NN IN DT NN RB .</POS>
+		<Lemma>and it give I between 1 to 2 extra , which can make all the difference in the world apparently .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I 'm looking forward to a much less frustrating experience with T-Mobile .</Tokens>
+		<POS>PRP VBP VBG RB TO DT RB JJR JJ NN IN NNP .</POS>
+		<Lemma>I be look forward to a much less frustrating experience with T-Mobile .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is just what I needed .</Tokens>
+		<POS>DT NN VBZ RB WP PRP VBD .</POS>
+		<Lemma>this product be just what I need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I eat it 10-15 minutes before I run and it gives me just the right amount of energy to kick it up a notch in my workouts -LRB- without feeling like you are going to crash with consuming a sugar product -RRB- .</Tokens>
+		<POS>PRP VBP PRP CD NNS IN PRP VBP CC PRP VBZ PRP RB DT JJ NN IN NN TO VB PRP RP DT NN IN PRP$ NNS -LRB- IN VBG IN PRP VBP VBG TO VB IN VBG DT NN NN -RRB- .</POS>
+		<Lemma>I eat it 10-15 minute before I run and it give I just the right amount of energy to kick it up a notch in my workout -lrb- without feel like you be go to crash with consume a sugar product -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was sent ontime , well wrapped , and is just what I was looking for .</Tokens>
+		<POS>PRP VBD VBN RB , RB VBN , CC VBZ RB WP PRP VBD VBG IN .</POS>
+		<Lemma>it be send ontime , well wrap , and be just what I be look for .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I will order this again .</Tokens>
+		<POS>PRP MD VB DT RB .</POS>
+		<Lemma>I will order this again .</Lemma>
+	</Sentence>
+</Document>

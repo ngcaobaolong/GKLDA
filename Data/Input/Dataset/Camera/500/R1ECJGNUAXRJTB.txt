@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Levana Clear-Vu digital baby monitor does exactly what it says it does , and it does it well .</Tokens>
+		<POS>DT NNP NNP JJ NN NN VBZ RB WP PRP VBZ PRP VBZ , CC PRP VBZ PRP RB .</POS>
+		<Lemma>the Levana Clear-Vu digital baby monitor do exactly what it say it do , and it do it well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It sets up easily and transmits a clear picture in both light and dark .</Tokens>
+		<POS>PRP VBZ RP RB CC VBZ DT JJ NN IN CC JJ CC JJ .</POS>
+		<Lemma>it set up easily and transmit a clear picture in both light and dark .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's a cute little unit that is attractive and easy to use .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN WDT VBZ JJ CC JJ TO VB .</POS>
+		<Lemma>it be a cute little unit that be attractive and easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The nightlight feature is pretty and soothing .</Tokens>
+		<POS>DT JJ NN VBZ RB CC JJ .</POS>
+		<Lemma>the nightlight feature be pretty and soothing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However ... i feel it is lacking in a few features , and could use a few basic design adjustments .</Tokens>
+		<POS>RB : FW VBP PRP VBZ VBG IN DT JJ NNS , CC MD VB DT JJ JJ NN NNS .</POS>
+		<Lemma>however ... i feel it be lack in a few feature , and could use a few basic design adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>First , the quietest sound level that it will adjust to is still VERY loud .</Tokens>
+		<POS>RB , DT JJS JJ NN IN PRP MD VB TO VBZ RB RB JJ .</POS>
+		<Lemma>first , the quietest sound level that it will adjust to be still very loud .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I do n't need to hear EVERY SINGLE breath that my baby takes , i just want to know when she 's crying .</Tokens>
+		<POS>PRP VBP RB VB TO VB NNP JJ NN WDT PRP$ NN VBZ , FW RB VB TO VB WRB PRP VBZ VBG .</POS>
+		<Lemma>I do not need to hear EVERY single breath that my baby take , i just want to know when she be cry .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Second , the switch for turning the video on and off is very tricky to do at 2am in the dark .</Tokens>
+		<POS>RB , DT NN IN VBG DT NN IN CC IN VBZ RB JJ TO VB IN CD IN DT NN .</POS>
+		<Lemma>second , the switch for turn the video on and off be very tricky to do at 2am in the dark .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It would be far easier if it had a push button on the front of the unit than the slide click on the side .</Tokens>
+		<POS>PRP MD VB RB JJR IN PRP VBD DT NN NN IN DT NN IN DT NN IN DT NN VB IN DT NN .</POS>
+		<Lemma>it would be far easier if it have a push button on the front of the unit than the slide click on the side .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It 's such a pain that i 've taken to just sleeping with the unit tucked into my hand so that i do n't have to fumble around in the dark to turn on the video .</Tokens>
+		<POS>PRP VBZ JJ DT NN WDT FW VBP VBN TO RB VBG IN DT NN VBD IN PRP$ NN IN IN FW VBP RB VB TO VB RP IN DT JJ TO VB RP DT NN .</POS>
+		<Lemma>it be such a pain that i have take to just sleep with the unit tuck into my hand so that i do not have to fumble around in the dark to turn on the video .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Third , the switches on the camera are all on the bottom of the unit so that once you have it mounted in it 's holder on the wall it 's extreme ; y difficult to change the settings .</Tokens>
+		<POS>NNP , DT NNS IN DT NN VBP DT IN DT NN IN DT NN IN IN RB PRP VBP PRP VBN IN PRP VBZ NN IN DT NN PRP VBZ JJ : NN JJ TO VB DT NNS .</POS>
+		<Lemma>Third , the switch on the camera be all on the bottom of the unit so that once you have it mount in it be holder on the wall it be extreme ; y difficult to change the setting .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Fourth , and probably THE most annoying is that the monitor unit has no stand other than the charging unit .</Tokens>
+		<POS>JJ , CC RB DT RBS JJ VBZ IN DT NN NN VBZ DT NN JJ IN DT VBG NN .</POS>
+		<Lemma>fourth , and probably the most annoying be that the monitor unit have no stand other than the charge unit .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It needs a belt clip and\/or pop-out stand like the other Levana models have .</Tokens>
+		<POS>PRP VBZ DT NN NN CC JJ NN IN DT JJ NNP NNS VBP .</POS>
+		<Lemma>it need a belt clip and\/or pop-out stand like the other Levana model have .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Additionally , I would like to purchase another charging base , but can not find one anywhere , not on Amazon and not on the Levana website .</Tokens>
+		<POS>RB , PRP MD VB TO VB DT VBG NN , CC MD RB VB CD RB , RB IN NNP CC RB IN DT NNP NN .</POS>
+		<Lemma>additionally , I would like to purchase another charge base , but can not find one anywhere , not on Amazon and not on the Levana website .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>You 'd think they 'd be more than willing to give you more things to spend your money on .</Tokens>
+		<POS>PRP MD VB PRP MD VB JJR IN JJ TO VB PRP RBR NNS TO VB PRP$ NN IN .</POS>
+		<Lemma>you would think they would be more than willing to give you more thing to spend you money on .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>But maybe I 'm nit-picking , because honestly , it 's a very nice product that i will keep and continue to use .</Tokens>
+		<POS>CC RB PRP VBP JJ , IN RB , PRP VBZ DT RB JJ NN WDT FW MD VB CC VB TO VB .</POS>
+		<Lemma>but maybe I be nit-picking , because honestly , it be a very nice product that i will keep and continue to use .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>But if I had to pick a `` perfect '' monitor , this would not be it .</Tokens>
+		<POS>CC IN PRP VBD TO VB DT `` JJ '' NN , DT MD RB VB PRP .</POS>
+		<Lemma>but if I have to pick a `` perfect '' monitor , this would not be it .</Lemma>
+	</Sentence>
+</Document>

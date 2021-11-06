@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We bought 5 of these monitors .</Tokens>
+		<POS>PRP VBD CD IN DT NNS .</POS>
+		<Lemma>we buy 5 of these monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Acer has come a long way in terms of design and quality .</Tokens>
+		<POS>NNP VBZ VBN DT JJ NN IN NNS IN NN CC NN .</POS>
+		<Lemma>Acer have come a long way in term of design and quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The screen is crystal clear and bright .</Tokens>
+		<POS>DT NN VBZ JJ JJ CC JJ .</POS>
+		<Lemma>the screen be crystal clear and bright .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This was surprising since the monitors were on sale for $ 89 .</Tokens>
+		<POS>DT VBD JJ IN DT NNS VBD IN NN IN $ CD .</POS>
+		<Lemma>this be surprising since the monitor be on sale for $ 89 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We are delighted .</Tokens>
+		<POS>PRP VBP JJ .</POS>
+		<Lemma>we be delighted .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Amazon prime is excellent and shipping was fast with pristine boxes .</Tokens>
+		<POS>NNP JJ VBZ JJ CC NN VBD RB IN JJ NNS .</POS>
+		<Lemma>Amazon prime be excellent and shipping be fast with pristine box .</Lemma>
+	</Sentence>
+</Document>

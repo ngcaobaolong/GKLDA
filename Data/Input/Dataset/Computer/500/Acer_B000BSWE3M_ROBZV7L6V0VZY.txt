@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>notice a dead pixel in the center of screen everything else was great ca n't beat the price returned and reordered another one hope it has no dead pixels on screen had to pay higher price to reorder</Tokens>
+		<POS>VB DT JJ NN IN DT NN IN NN NN RB VBD JJ MD RB VB DT NN VBD CC VBD DT CD NN PRP VBZ DT JJ NNS IN NN VBD TO VB JJR NN TO VB</POS>
+		<Lemma>notice a dead pixel in the center of screen everything else be great can not beat the price return and reorder another one hope it have no dead pixel on screen have to pay higher price to reorder</Lemma>
+	</Sentence>
+</Document>

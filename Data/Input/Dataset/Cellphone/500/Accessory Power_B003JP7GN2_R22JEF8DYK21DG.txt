@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This thing was great .</Tokens>
+		<POS>DT NN VBD JJ .</POS>
+		<Lemma>this thing be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It worked just like it says it does and was handy on big outings .</Tokens>
+		<POS>PRP VBD RB IN PRP VBZ PRP VBZ CC VBD JJ IN JJ NNS .</POS>
+		<Lemma>it work just like it say it do and be handy on big outing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I got it in late April 2011 and it started falling apart in June and its now Aug 4 , 2011 and its broke .</Tokens>
+		<POS>PRP VBD PRP IN JJ NNP CD CC PRP VBD VBG RB IN NNP CC PRP$ RB NNP CD , CD CC PRP$ VBD .</POS>
+		<Lemma>I get it in late April 2011 and it start fall apart in June and its now Aug 4 , 2011 and its break .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was n't even hard on it and did NOT use it as my primary car\/wall charger .</Tokens>
+		<POS>PRP VBD RB RB JJ IN PRP CC VBD NNP VB PRP IN PRP$ JJ NN NN .</POS>
+		<Lemma>I be not even hard on it and do NOT use it as my primary car\/wall charger .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The design is great the quality is BAD !!!!</Tokens>
+		<POS>DT NN VBZ JJ DT NN VBZ JJ IN</POS>
+		<Lemma>the design be great the quality be bad !!!!</Lemma>
+	</Sentence>
+</Document>

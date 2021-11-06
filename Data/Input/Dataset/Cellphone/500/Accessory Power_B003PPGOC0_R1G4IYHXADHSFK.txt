@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great little gadget if you dont have a Aux plug-in for your car stereo .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN IN PRP VBP VB DT NNP JJ IN PRP$ NN NN .</POS>
+		<Lemma>this be a great little gadget if you dont have a Aux plug-in for you car stereo .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The sound quality is pretty good for the price .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ IN DT NN .</POS>
+		<Lemma>the sound quality be pretty good for the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This was more than my expectations : -RRB-</Tokens>
+		<POS>DT VBD JJR IN PRP$ NNS : -RRB-</POS>
+		<Lemma>this be more than my expectation : -rrb-</Lemma>
+	</Sentence>
+</Document>

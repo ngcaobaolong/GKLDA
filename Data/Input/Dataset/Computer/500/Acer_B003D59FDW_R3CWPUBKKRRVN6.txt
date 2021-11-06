@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A bit bulkier than a lot of people like .</Tokens>
+		<POS>DT NN JJR IN DT NN IN NNS IN .</POS>
+		<Lemma>a bit bulkier than a lot of people like .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For $ 110 seems to be a really good monitor .</Tokens>
+		<POS>IN $ CD VBZ TO VB DT RB JJ NN .</POS>
+		<Lemma>for $ 110 seem to be a really good monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Have had it for two days , it plugged right in and worked - no problems yet .</Tokens>
+		<POS>NNP VBD PRP IN CD NNS , PRP VBD NN IN CC VBD : DT NNS RB .</POS>
+		<Lemma>Have have it for two day , it plug right in and work - no problem yet .</Lemma>
+	</Sentence>
+</Document>

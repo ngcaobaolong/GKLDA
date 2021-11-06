@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Taste fine .</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>taste fine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to digest during workouts .</Tokens>
+		<POS>NNP TO VB IN NNS .</POS>
+		<Lemma>Easy to digest during workout .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My big complaint is that they are thin and crumbly .</Tokens>
+		<POS>PRP$ JJ NN VBZ IN PRP VBP JJ CC RB .</POS>
+		<Lemma>my big complaint be that they be thin and crumbly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>How do you carry these with you during your workouts ?</Tokens>
+		<POS>WRB VBP PRP VB DT IN PRP IN PRP$ NNS .</POS>
+		<Lemma>how do you carry these with you during you workout ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If I put it in my pocket , it crumbles into pieces and is real hard to eat .</Tokens>
+		<POS>IN PRP VBP PRP IN PRP$ NN , PRP VBZ IN NNS CC VBZ JJ JJ TO VB .</POS>
+		<Lemma>if I put it in my pocket , it crumble into piece and be real hard to eat .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I much prefer Honey Stinger energy bars because they do n't fall apart before I can eat them .</Tokens>
+		<POS>PRP RB VBP NNP NNP NN NNS IN PRP VBP RB VB RB IN PRP MD VB PRP .</POS>
+		<Lemma>I much prefer Honey Stinger energy bar because they do not fall apart before I can eat they .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Also the price is kind of expensive .</Tokens>
+		<POS>RB DT NN VBZ NN IN JJ .</POS>
+		<Lemma>also the price be kind of expensive .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>250 calorie Clif bars cost about a dollar each at my local supermarket .</Tokens>
+		<POS>CD NN NNP NNS VBD IN DT NN DT IN PRP$ JJ NN .</POS>
+		<Lemma>250 calorie Clif bar cost about a dollar each at my local supermarket .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>These waffles only have 160 calories for a dollar , so you wind up paying a lot more for the same amount of energy intake -LRB- assuming you 're trying to eat the same number of calories per hour during your workouts -RRB- .</Tokens>
+		<POS>DT NNS RB VBP CD NNS IN DT NN , RB PRP VBP RP VBG DT NN RBR IN DT JJ NN IN NN NN -LRB- VBG PRP VBP VBG TO VB DT JJ NN IN NNS IN NN IN PRP$ NNS -RRB- .</POS>
+		<Lemma>these waffle only have 160 calorie for a dollar , so you wind up pay a lot more for the same amount of energy intake -lrb- assume you be try to eat the same number of calorie per hour during you workout -rrb- .</Lemma>
+	</Sentence>
+</Document>

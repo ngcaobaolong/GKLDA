@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Even though I have n't quite figured out all the wonders of this camera , the weekend I purchased it I took fabulous pictures at my niece 's wedding .</Tokens>
+		<POS>RB IN PRP VBP RB RB VBD RP PDT DT NNS IN DT NN , DT NN PRP VBD PRP PRP VBD JJ NNS IN PRP$ NN POS NN .</POS>
+		<Lemma>even though I have not quite figure out all the wonder of this camera , the weekend I purchase it I take fabulous picture at my niece 's wedding .</Lemma>
+	</Sentence>
+</Document>

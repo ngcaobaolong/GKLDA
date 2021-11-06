@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My sister discovered these not too long ago and raved about them , and finally this morning I ate one for breakfast before a sprint triathlon .</Tokens>
+		<POS>PRP$ NN VBD DT RB RB JJ RB CC VBD IN PRP , CC RB DT NN PRP VBD CD IN NN IN DT NN NN .</POS>
+		<Lemma>my sister discover these not too long ago and rave about they , and finally this morning I eat one for breakfast before a sprint triathlon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>YUM YUM YUM .</Tokens>
+		<POS>NN NN NN .</POS>
+		<Lemma>yum yum yum .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>By the lightness of the package I would 've thought it was a piece of cardboard , but no , it 's a flat waffle-shaped piece of heaven .</Tokens>
+		<POS>IN DT NN IN DT NN PRP MD VB VBN PRP VBD DT NN IN NN , CC DT , PRP VBZ DT JJ JJ NN IN NN .</POS>
+		<Lemma>by the lightness of the package I would have think it be a piece of cardboard , but no , it be a flat waffle-shaped piece of heaven .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's really the first non-gross food geared toward working out I have come across .</Tokens>
+		<POS>PRP VBZ RB DT JJ JJ NN VBD IN VBG RP PRP VBP VBN RP .</POS>
+		<Lemma>it be really the first non-gross food gear toward work out I have come across .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Excuse me while I buy out Amazon 's entire supply .</Tokens>
+		<POS>VB PRP IN PRP VBP RP NNP POS JJ NN .</POS>
+		<Lemma>excuse I while I buy out Amazon 's entire supply .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>FRICKIN DELICIOUS .</Tokens>
+		<POS>NNP NNPS .</POS>
+		<Lemma>FRICKIN DELICIOUS .</Lemma>
+	</Sentence>
+</Document>

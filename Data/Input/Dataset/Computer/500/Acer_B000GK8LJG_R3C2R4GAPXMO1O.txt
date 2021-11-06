@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great picture , very easy to set up , packaged well to protect product .</Tokens>
+		<POS>JJ NN , RB JJ TO VB RP , VBN RB TO VB NN .</POS>
+		<Lemma>great picture , very easy to set up , package well to protect product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am very glad to have bought this .</Tokens>
+		<POS>PRP VBP RB JJ TO VB VBN DT .</POS>
+		<Lemma>I be very glad to have buy this .</Lemma>
+	</Sentence>
+</Document>

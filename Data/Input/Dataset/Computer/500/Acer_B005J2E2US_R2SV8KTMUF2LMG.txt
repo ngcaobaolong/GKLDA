@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The operation with the increased memory option was flawless with the Windows 7 Home Professional instaled otherwise other netbooks with Windows 7 Starter doesnt allow , and nobody mention this .</Tokens>
+		<POS>DT NN IN DT VBN NN NN VBD JJ IN DT NNP CD NNP NNP VBD RB JJ NNS IN NNP CD NNP NN VB , CC NN NN DT .</POS>
+		<Lemma>the operation with the increase memory option be flawless with the Windows 7 Home Professional instale otherwise other netbook with Windows 7 Starter doesnt allow , and nobody mention this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a plus with this netbook , the increased size of 1.6 inches means better and clear view of webpages and woks made in Office .</Tokens>
+		<POS>DT VBZ DT CC IN DT NN , DT VBN NN IN CD NNS VBZ JJR CC JJ NN IN NNS CC NNS VBN IN NNP .</POS>
+		<Lemma>this be a plus with this netbook , the increase size of 1.6 inch mean better and clear view of webpage and wok make in Office .</Lemma>
+	</Sentence>
+</Document>

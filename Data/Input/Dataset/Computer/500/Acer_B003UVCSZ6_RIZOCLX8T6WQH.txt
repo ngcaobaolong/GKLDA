@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I picked 3 of these up at micro center for 89 $ a piece .</Tokens>
+		<POS>PRP VBD CD IN DT RB IN JJ NN IN CD $ DT NN .</POS>
+		<Lemma>I pick 3 of these up at micro center for 89 $ a piece .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I hooked these up to my desktop at home I work my helpdesk job remotley at home several days of the week .</Tokens>
+		<POS>PRP VBD DT IN TO PRP$ NN IN NN PRP VBP PRP$ JJ NN NN IN NN JJ NNS IN DT NN .</POS>
+		<Lemma>I hook these up to my desktop at home I work my helpdesk job remotley at home several day of the week .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is nice having 3 monitors to have multiple apps open at once .</Tokens>
+		<POS>PRP VBZ JJ VBG CD NNS TO VB JJ NNS JJ IN RB .</POS>
+		<Lemma>it be nice have 3 monitor to have multiple app open at once .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>These monitors are great and extremly affordable A +</Tokens>
+		<POS>DT NNS VBP JJ CC RB JJ NN CC</POS>
+		<Lemma>these monitor be great and extremly affordable a +</Lemma>
+	</Sentence>
+</Document>

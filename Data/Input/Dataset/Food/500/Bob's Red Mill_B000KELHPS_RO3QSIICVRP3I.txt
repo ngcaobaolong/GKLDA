@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great hearty , gluten free bread .</Tokens>
+		<POS>DT VBZ DT JJ JJ , JJ JJ NN .</POS>
+		<Lemma>this be a great hearty , gluten free bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's been my favorite of all mixes that I 've tried , as well as the pre-sliced frozen types as well .</Tokens>
+		<POS>PRP VBZ VBN PRP$ NN IN DT VBZ IN PRP VBP VBN , RB RB IN DT JJ JJ NNS RB RB .</POS>
+		<Lemma>it be be my favorite of all mix that I have try , as well as the pre-sliced frozen type as well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's actually a GF bread that my friends who do n't eat GF can actually enjoy it .</Tokens>
+		<POS>PRP VBZ RB DT NN NN WDT PRP$ NNS WP VBP RB VB NN MD RB VB PRP .</POS>
+		<Lemma>it be actually a gf bread that my friend who do not eat gf can actually enjoy it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They are just impressed by the fact that I make my own bread !</Tokens>
+		<POS>PRP VBP RB VBN IN DT NN IN PRP VBP PRP$ JJ NN .</POS>
+		<Lemma>they be just impress by the fact that I make my own bread !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Definitely would recommend this , it is cheaper here than in the store as well .</Tokens>
+		<POS>RB MD VB DT , PRP VBZ JJR RB IN IN DT NN RB RB .</POS>
+		<Lemma>definitely would recommend this , it be cheaper here than in the store as well .</Lemma>
+	</Sentence>
+</Document>

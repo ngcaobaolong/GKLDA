@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent camera , excellent pictures , excellent design , easy to use , almost professional , I am very happy with my purchase .</Tokens>
+		<POS>JJ NN , JJ NNS , JJ NN , JJ TO VB , RB JJ , PRP VBP RB JJ IN PRP$ NN .</POS>
+		<Lemma>excellent camera , excellent picture , excellent design , easy to use , almost professional , I be very happy with my purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>this was what I expected</Tokens>
+		<POS>DT VBD WP PRP VBD</POS>
+		<Lemma>this be what I expect</Lemma>
+	</Sentence>
+</Document>

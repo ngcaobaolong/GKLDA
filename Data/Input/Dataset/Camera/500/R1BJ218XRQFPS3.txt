@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used a D5000 for about 6 months after which I got my D7000 .</Tokens>
+		<POS>PRP VBD DT NN IN RB CD NNS IN WDT PRP VBD PRP$ NN .</POS>
+		<Lemma>I use a d5000 for about 6 month after which I get my d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a class apart from the D5000 .</Tokens>
+		<POS>PRP VBZ DT NN RB IN DT NN .</POS>
+		<Lemma>it be a class apart from the d5000 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Many of the casual shots I took on the D5000 were somewhat manual , but the D7000 does everything so perfectly that you can shoot in Auto and not feel a difference .</Tokens>
+		<POS>JJ IN DT JJ NNS PRP VBD IN DT NN VBD RB JJ , CC DT NN VBZ NN RB RB IN PRP MD VB IN NN CC RB VB DT NN .</POS>
+		<Lemma>many of the casual shot I take on the d5000 be somewhat manual , but the d7000 do everything so perfectly that you can shoot in auto and not feel a difference .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Auto-WB settings -LRB- keep warm -RRB- is an absolute favorite of mine , since I no longer have to fine-tune my WB into a step warmer than the environment .</Tokens>
+		<POS>DT NN NNS -LRB- VB JJ -RRB- VBZ DT JJ NN IN NN , IN PRP DT JJR VBP TO VB PRP$ NN IN DT NN JJR IN DT NN .</POS>
+		<Lemma>the auto-wb setting -lrb- keep warm -rrb- be a absolute favorite of mine , since I no longer have to fine-tune my wb into a step warmer than the environment .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The pentamirror viewfinder is a lot brighter than the pentaprism mirror found on the D5000 .</Tokens>
+		<POS>DT NN NN VBZ DT NN RBR IN DT NN NN VBN IN DT NN .</POS>
+		<Lemma>the pentamirror viewfinder be a lot brighter than the pentaprism mirror find on the d5000 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And the rubber grip is solid .</Tokens>
+		<POS>CC DT NN NN VBZ JJ .</POS>
+		<Lemma>and the rubber grip be solid .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It feels right .</Tokens>
+		<POS>PRP VBZ RB .</POS>
+		<Lemma>it feel right .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I can confidently hold it vertically with just 1-finger below the rubber grip .</Tokens>
+		<POS>PRP MD RB VB PRP RB IN RB NN IN DT NN NN .</POS>
+		<Lemma>I can confidently hold it vertically with just 1-finger below the rubber grip .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Low light pictures are a joy .</Tokens>
+		<POS>JJ JJ NNS VBP DT NN .</POS>
+		<Lemma>low light picture be a joy .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I can shoot upto ISO-1600 confidently , whereas it was only ISO-400 in the D5000 world .</Tokens>
+		<POS>PRP MD VB NN NN RB , IN PRP VBD RB NN IN DT NN NN .</POS>
+		<Lemma>I can shoot upto iso-1600 confidently , whereas it be only iso-400 in the d5000 world .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I have had no qualms shooting with the D7000 in rain , confident that the magnesium covering will keep the internals dry .</Tokens>
+		<POS>PRP VBP VBN DT NNS VBG IN DT NN IN NN , JJ IN DT NN VBG MD VB DT NNS JJ .</POS>
+		<Lemma>I have have no qualm shoot with the d7000 in rain , confident that the magnesium cover will keep the internal dry .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>And they did .</Tokens>
+		<POS>CC PRP VBD .</POS>
+		<Lemma>and they do .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I have had some bad spills over the camera -LRB- rain , sea water , some black tea -RRB- , but nothing seems to have fazed it .</Tokens>
+		<POS>PRP VBP VBD DT JJ NNS IN DT NN -LRB- NN , NN NN , DT JJ NN -RRB- , CC NN VBZ TO VB VBN PRP .</POS>
+		<Lemma>I have have some bad spill over the camera -lrb- rain , sea water , some black tea -rrb- , but nothing seem to have faze it .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The virtual horizon is a nice addition , making sure that I do n't have to rely on my tripod 's level to make sure that the horizon is horizontal .</Tokens>
+		<POS>DT JJ NN VBZ DT JJ NN , VBG JJ IN PRP VBP RB VB TO VB IN PRP$ NN POS NN TO VB JJ IN DT NN VBZ JJ .</POS>
+		<Lemma>the virtual horizon be a nice addition , make sure that I do not have to rely on my tripod 's level to make sure that the horizon be horizontal .</Lemma>
+	</Sentence>
+</Document>

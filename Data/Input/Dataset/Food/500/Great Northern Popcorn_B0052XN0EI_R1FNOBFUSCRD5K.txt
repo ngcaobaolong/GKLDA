@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is excellent popcorn !</Tokens>
+		<POS>DT VBZ JJ NN .</POS>
+		<Lemma>this be excellent popcorn !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The kernels pop up huge and fluffy .</Tokens>
+		<POS>DT NNS VBP RP JJ CC JJ .</POS>
+		<Lemma>the kernel pop up huge and fluffy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>All the kernels pop .</Tokens>
+		<POS>PDT DT NNS NN .</POS>
+		<Lemma>all the kernel pop .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Excellent value .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>excellent value .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We 'll reorder .</Tokens>
+		<POS>PRP MD VB .</POS>
+		<Lemma>we 'll reorder .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thank you so much !</Tokens>
+		<POS>VB PRP RB RB .</POS>
+		<Lemma>thank you so much !</Lemma>
+	</Sentence>
+</Document>

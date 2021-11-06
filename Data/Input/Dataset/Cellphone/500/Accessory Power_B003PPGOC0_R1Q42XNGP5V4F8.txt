@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for something to play Pandora from my HTC Incredible 2 phone onto my car stereo and came across this device on Amazon 's Today 's Deals .</Tokens>
+		<POS>PRP VBD VBG IN NN TO VB NNP IN PRP$ NNP JJ CD NN IN PRP$ NN NN CC VBD IN DT NN IN NNP POS NN POS NNS .</POS>
+		<Lemma>I be look for something to play Pandora from my HTC incredible 2 phone onto my car stereo and come across this device on Amazon 's today 's deal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I went through most of the reviews which I have to say seemed mostly positive but was skeptical about the item so I waited a few days before deciding on ordering which made me miss out on the lower price BTW .</Tokens>
+		<POS>PRP VBD IN JJS IN DT NNS WDT PRP VBP TO VB VBD RB JJ CC VBD JJ IN DT NN IN PRP VBD DT JJ NNS IN VBG IN VBG WDT VBD PRP VB RP IN DT JJR NN NN .</POS>
+		<Lemma>I go through most of the review which I have to say seem mostly positive but be skeptical about the item so I wait a few day before decide on order which make I miss out on the lower price btw .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>By the time I ordered the FlexSmart 2 it was back to regular price which was about $ 15.00 more .</Tokens>
+		<POS>IN DT NN PRP VBD DT NN CD PRP VBD RB TO JJ NN WDT VBD IN $ CD JJR .</POS>
+		<Lemma>by the time I order the flexsmart 2 it be back to regular price which be about $ 15.00 more .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I received it today and went to my car to try it out .</Tokens>
+		<POS>PRP VBD PRP NN CC VBD TO PRP$ NN TO VB PRP RP .</POS>
+		<Lemma>I receive it today and go to my car to try it out .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>To my surprise , the FlexSmart 2 was very easy to snap together and program .</Tokens>
+		<POS>TO PRP$ NN , DT NNP CD VBD RB JJ TO VB RB CC NN .</POS>
+		<Lemma>to my surprise , the FlexSmart 2 be very easy to snap together and program .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Took me literally just a couple minutes .</Tokens>
+		<POS>VBD PRP RB RB DT NN NNS .</POS>
+		<Lemma>take I literally just a couple minute .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Once the music started on Pandora , I was able to listen to it on my car stereo and it sounded pretty good .</Tokens>
+		<POS>RB DT NN VBD IN NNP , PRP VBD JJ TO VB TO PRP IN PRP$ NN NN CC PRP VBD RB JJ .</POS>
+		<Lemma>once the music start on Pandora , I be able to listen to it on my car stereo and it sound pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Also , we made a phone call using the Bluetooth and we were able to speak clearly through the car stereo .</Tokens>
+		<POS>RB , PRP VBD DT NN NN VBG DT NNP CC PRP VBD JJ TO VB RB IN DT NN NN .</POS>
+		<Lemma>also , we make a phone call use the Bluetooth and we be able to speak clearly through the car stereo .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I think that this item does what it 's supposed to do and I would recommend it .</Tokens>
+		<POS>PRP VBP IN DT NN VBZ WP PRP VBZ VBN TO VB CC PRP MD VB PRP .</POS>
+		<Lemma>I think that this item do what it be suppose to do and I would recommend it .</Lemma>
+	</Sentence>
+</Document>

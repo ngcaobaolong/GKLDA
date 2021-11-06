@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got it over a week ago and have been using it casually since .</Tokens>
+		<POS>PRP VBD PRP IN DT NN RB CC VBP VBN VBG PRP RB IN .</POS>
+		<Lemma>I get it over a week ago and have be use it casually since .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a really great product , clean sound coming through bluetooth to speakers .</Tokens>
+		<POS>DT VBZ DT RB JJ NN , JJ NN VBG IN NN TO NNS .</POS>
+		<Lemma>this be a really great product , clean sound come through bluetooth to speaker .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A big thing that this one is capable of and my old transmitter could n't is to add gain to the audio , which then reduces the amount of volume I need to put on the stereo of the car -LRB- and less of that buzzing noise -RRB- .</Tokens>
+		<POS>DT JJ NN IN DT CD VBZ JJ IN CC PRP$ JJ NN MD RB VBZ TO VB NN TO DT NN , WDT RB VBZ DT NN IN NN PRP VBP TO VB IN DT NN IN DT NN -LRB- CC JJR IN DT VBG NN -RRB- .</POS>
+		<Lemma>a big thing that this one be capable of and my old transmitter could not be to add gain to the audio , which then reduce the amount of volume I need to put on the stereo of the car -lrb- and less of that buzz noise -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only problem I have with it is that it cuts the sound once in a while .</Tokens>
+		<POS>DT JJ NN PRP VBP IN PRP VBZ IN PRP VBZ DT NN RB IN DT NN .</POS>
+		<Lemma>the only problem I have with it be that it cut the sound once in a while .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I wonder if its the device itself or my iPhone , because so far it happens only when music and the GPS was on .</Tokens>
+		<POS>PRP VBP IN PRP$ DT NN PRP CC PRP$ NNP , IN RB RB PRP VBZ RB WRB NN CC DT NNP VBD IN .</POS>
+		<Lemma>I wonder if its the device itself or my iPhone , because so far it happen only when music and the GPS be on .</Lemma>
+	</Sentence>
+</Document>

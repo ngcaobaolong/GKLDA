@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Was hesitant to purchase after prior products used .</Tokens>
+		<POS>VBD JJ TO VB IN JJ NNS VBN .</POS>
+		<Lemma>be hesitant to purchase after prior product use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After reading reviews here I purchased this unit and I am EXTREMELY happy with it so far .</Tokens>
+		<POS>IN VBG NNS RB PRP VBD DT NN CC PRP VBP RB JJ IN PRP RB RB .</POS>
+		<Lemma>after read review here I purchase this unit and I be extremely happy with it so far .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I may have to change freaks 2 clicks throughout the state of Michigan , parts of Ohio and Indiana .</Tokens>
+		<POS>PRP MD VB TO VB NNS CD NNS IN DT NN IN NNP , NNS IN NNP CC NNP .</POS>
+		<Lemma>I may have to change freak 2 click throughout the state of Michigan , part of Ohio and Indiana .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't see where others say sound is tinny with no bass , I see no problems at all on my applications .</Tokens>
+		<POS>PRP VBP RB VB WRB NNS VBP NN VBZ JJ IN DT NN , PRP VBP DT NNS IN DT IN PRP$ NNS .</POS>
+		<Lemma>I do not see where other say sound be tinny with no bass , I see no problem at all on my application .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I just leave volume on unit at 20 , turn volume on phone all the way up and stereo at normal volume .</Tokens>
+		<POS>PRP RB VBP NN IN NN IN CD , VB NN IN NN PDT DT NN RB CC NN IN JJ NN .</POS>
+		<Lemma>I just leave volume on unit at 20 , turn volume on phone all the way up and stereo at normal volume .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Sounds great , but people on other end of call sometimes say they have trouble hearing conversation .</Tokens>
+		<POS>VBZ JJ , CC NNS IN JJ NN IN NN RB VBP PRP VBP NN VBG NN .</POS>
+		<Lemma>sound great , but people on other end of call sometimes say they have trouble hear conversation .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you 're thinking of buying I say do n't hesitate !</Tokens>
+		<POS>IN PRP VBP VBG IN VBG PRP VBP VBP RB VB .</POS>
+		<Lemma>if you be think of buy I say do not hesitate !</Lemma>
+	</Sentence>
+</Document>

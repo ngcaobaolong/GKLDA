@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It fits smaller hands and lighter than A77 , but the grip is a little bit close to the lens .</Tokens>
+		<POS>PRP VBZ JJR NNS CC JJR IN NN , CC DT NN VBZ DT JJ NN JJ TO DT NN .</POS>
+		<Lemma>it fit smaller hand and lighter than a77 , but the grip be a little bit close to the lens .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>EVF is great , I do almost everything using EVF including adjusting menu settings and preview photos .</Tokens>
+		<POS>NN VBZ JJ , PRP VBP RB NN VBG NN VBG VBG NN NNS CC NN NNS .</POS>
+		<Lemma>evf be great , I do almost everything use evf include adjust menu setting and preview photo .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Focusing is super fast and the depth of field can be clearly seen .</Tokens>
+		<POS>VBG VBZ JJ JJ CC DT NN IN NN MD VB RB VBN .</POS>
+		<Lemma>focus be super fast and the depth of field can be clearly see .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I just think 24MP is too big ... my 16G card fills up quickly especially in raw + jpg mode .</Tokens>
+		<POS>PRP RB VBP NN VBZ RB JJ : PRP$ NN NN VBZ RP RB RB IN JJ CC NN NN .</POS>
+		<Lemma>I just think 24mp be too big ... my 16g card fill up quickly especially in raw + jpg mode .</Lemma>
+	</Sentence>
+</Document>

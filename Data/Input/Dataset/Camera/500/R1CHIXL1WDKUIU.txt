@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Had this camera about a month now .</Tokens>
+		<POS>VBD DT NN IN DT NN RB .</POS>
+		<Lemma>have this camera about a month now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It takes good pictures for its size .</Tokens>
+		<POS>PRP VBZ JJ NNS IN PRP$ NN .</POS>
+		<Lemma>it take good picture for its size .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very light , easy to carry and seems well made .</Tokens>
+		<POS>RB JJ , JJ TO VB CC VBZ RB VBN .</POS>
+		<Lemma>very light , easy to carry and seem well make .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The rechargeable battery is a huge plus .</Tokens>
+		<POS>DT JJ NN VBZ DT JJ NN .</POS>
+		<Lemma>the rechargeable battery be a huge plus .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The battery last a very long time .</Tokens>
+		<POS>DT NN VB DT RB JJ NN .</POS>
+		<Lemma>the battery last a very long time .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall I found nothing bad about this camera and would recommend .</Tokens>
+		<POS>JJ PRP VBD NN JJ IN DT NN CC MD VB .</POS>
+		<Lemma>overall I find nothing bad about this camera and would recommend .</Lemma>
+	</Sentence>
+</Document>

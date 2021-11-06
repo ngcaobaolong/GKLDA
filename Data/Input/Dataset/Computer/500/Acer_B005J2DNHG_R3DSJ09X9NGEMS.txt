@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Not a very sturdy device - you have to handle with care .</Tokens>
+		<POS>RB DT RB JJ NN : PRP VBP TO VB IN NN .</POS>
+		<Lemma>not a very sturdy device - you have to handle with care .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We have had to send our 's back for service twice now due to issues with the video display .</Tokens>
+		<POS>PRP VBP VBN TO VB PRP$ POS RB IN NN RB RB JJ TO NNS IN DT NN NN .</POS>
+		<Lemma>we have have to send we 's back for service twice now due to issue with the video display .</Lemma>
+	</Sentence>
+</Document>

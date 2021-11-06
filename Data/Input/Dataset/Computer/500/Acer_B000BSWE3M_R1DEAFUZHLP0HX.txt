@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm only using this monitor as a television -LRB- google for VB50HRTV -RRB- , so the picture quality is more than adaquate for the job in my case .</Tokens>
+		<POS>PRP VBP RB VBG DT NN IN DT NN -LRB- NN IN NN -RRB- , IN DT NN NN VBZ JJR IN NN IN DT NN IN PRP$ NN .</POS>
+		<Lemma>I be only use this monitor as a television -lrb- google for vb50hrtv -rrb- , so the picture quality be more than adaquate for the job in my case .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , as a general purpose PC monitor , I would like to at least see a DVI input .</Tokens>
+		<POS>RB , IN DT JJ NN NN NN , PRP MD VB TO IN JJS VB DT NNP NN .</POS>
+		<Lemma>however , as a general purpose pc monitor , I would like to at least see a DVI input .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So , as long as a VGA connection is good enough for your needs , this monitor is an excellent value !!</Tokens>
+		<POS>RB , RB RB IN DT NNP NN VBZ JJ RB IN PRP$ NNS , DT NN VBZ DT JJ NN IN</POS>
+		<Lemma>so , as long as a VGA connection be good enough for you need , this monitor be a excellent value !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And combined with the VB50HRTV tuner and some medium grade speakers , this is by far the cheapest 19 '' LCD TV I could find .</Tokens>
+		<POS>CC VBN IN DT NN NN CC DT NN NN NNS , DT VBZ IN RB DT JJS CD '' NNS NN PRP MD VB .</POS>
+		<Lemma>and combine with the vb50hrtv tuner and some medium grade speaker , this be by far the cheapest 19 '' lcd tv I could find .</Lemma>
+	</Sentence>
+</Document>

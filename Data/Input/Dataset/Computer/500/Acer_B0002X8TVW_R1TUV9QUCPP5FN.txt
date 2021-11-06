@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is easy to set up , and performs well .</Tokens>
+		<POS>DT NN VBZ JJ TO VB RP , CC VBZ RB .</POS>
+		<Lemma>this monitor be easy to set up , and perform well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The settings were a little difficult to adjust .</Tokens>
+		<POS>DT NNS VBD DT JJ JJ TO VB .</POS>
+		<Lemma>the setting be a little difficult to adjust .</Lemma>
+	</Sentence>
+</Document>

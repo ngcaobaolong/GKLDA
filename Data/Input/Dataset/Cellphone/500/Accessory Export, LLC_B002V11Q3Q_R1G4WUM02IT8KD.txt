@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cord does exactly what it claims to do .</Tokens>
+		<POS>DT NN VBZ RB WP PRP VBZ TO VB .</POS>
+		<Lemma>this cord do exactly what it claim to do .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>One side used to go into my MotoDroid , and now it goes into my Thunderbolt .</Tokens>
+		<POS>CD NN VBN TO VB IN PRP$ NNP , CC RB PRP VBZ IN PRP$ NN .</POS>
+		<Lemma>one side use to go into my MotoDroid , and now it go into my thunderbolt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The other side plugs into my computer , laptop , or USB converter to charge or transfer .</Tokens>
+		<POS>DT JJ NN VBZ IN PRP$ NN , NN , CC JJ NN TO VB CC VB .</POS>
+		<Lemma>the other side plug into my computer , laptop , or usb converter to charge or transfer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I did n't expect anymore than that , nor did I get any more than that .</Tokens>
+		<POS>PRP VBD RB VB RB IN DT , CC VBD PRP VB DT JJR IN DT .</POS>
+		<Lemma>I do not expect anymore than that , nor do I get any more than that .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was a little on the expensive side since with some savvy shopping I have found these for -LRB- $ 1 but I needed it when I bought it and it has worked fine for me every since .</Tokens>
+		<POS>PRP VBD DT JJ IN DT JJ NN IN IN DT JJ NN PRP VBP VBN DT IN -LRB- $ CD CC PRP VBD PRP WRB PRP VBD PRP CC PRP VBZ VBN NN IN PRP DT IN .</POS>
+		<Lemma>it be a little on the expensive side since with some savvy shopping I have find these for -lrb- $ 1 but I need it when I buy it and it have work fine for I every since .</Lemma>
+	</Sentence>
+</Document>

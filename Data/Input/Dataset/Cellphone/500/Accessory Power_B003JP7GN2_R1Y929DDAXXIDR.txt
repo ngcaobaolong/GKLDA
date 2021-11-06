@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It was OK while it lasted , albeit a bit wobbly when plugged in -LRB- did n't readily always want to stay plugged in -- took some adjusting to ensure it was snug enough to charge -RRB- , but I could live with that .</Tokens>
+		<POS>PRP VBD JJ IN PRP VBD , IN DT NN JJ WRB VBN IN -LRB- VBD RB RB RB VBP TO VB VBN IN : VBD DT VBG TO VB PRP VBD JJ JJ TO VB -RRB- , CC PRP MD VB IN DT .</POS>
+		<Lemma>it be ok while it last , albeit a bit wobbly when plug in -lrb- do not readily always want to stay plug in -- take some adjust to ensure it be snug enough to charge -rrb- , but I could live with that .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It successfully charged my Sprint smartphones , Kindle , and other USB-corded items and was an appreciated backup-recharging unit .</Tokens>
+		<POS>PRP RB VBD PRP$ NNP NNS , NNP , CC JJ JJ NNS CC VBD DT VBN JJ NN .</POS>
+		<Lemma>it successfully charge my Sprint smartphone , Kindle , and other usb-corded item and be a appreciate backup-recharging unit .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>BUT - after a couple month 's use - one of the AC plus legs just flat broke off , so now the unit is useless .</Tokens>
+		<POS>SYM : IN DT JJ NN POS NN : CD IN DT NN CC NNS RB JJ VBD RP , RB RB DT NN VBZ JJ .</POS>
+		<Lemma>but - after a couple month 's use - one of the ac plus leg just flat break off , so now the unit be useless .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>At almost $ 15 cost - it 's too expensive to last so little .</Tokens>
+		<POS>IN RB $ CD NN : PRP VBZ RB JJ TO VB RB JJ .</POS>
+		<Lemma>at almost $ 15 cost - it be too expensive to last so little .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The concept is good , but implementation is too flimsy .</Tokens>
+		<POS>DT NN VBZ JJ , CC NN VBZ RB JJ .</POS>
+		<Lemma>the concept be good , but implementation be too flimsy .</Lemma>
+	</Sentence>
+</Document>

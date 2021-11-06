@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a really compact little unit for all the charging options it has .</Tokens>
+		<POS>DT VBZ DT RB JJ JJ NN IN PDT DT VBG NNS PRP VBZ .</POS>
+		<Lemma>this be a really compact little unit for all the charge option it have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If you are looking for an all-in-one charger for your Blackberry , Droid , Ipod or whatever ... then look no further .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN IN PRP$ NNP , NNP , NNP CC WDT : RB VB DT RB .</POS>
+		<Lemma>if you be look for a all-in-one charger for you Blackberry , Droid , Ipod or whatever ... then look no further .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It even has an adapter for Europe .</Tokens>
+		<POS>PRP RB VBZ DT NN IN NNP .</POS>
+		<Lemma>it even have a adapter for Europe .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The all in one charger I had before had a retractable chord built in , which was nice , but it made the unit quite a bit larger .</Tokens>
+		<POS>DT DT IN CD NN PRP VBD RB VBD DT JJ NN VBN IN , WDT VBD JJ , CC PRP VBD DT NN RB DT NN JJR .</POS>
+		<Lemma>the all in one charger I have before have a retractable chord build in , which be nice , but it make the unit quite a bit larger .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am very happy with this purchase .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be very happy with this purchase .</Lemma>
+	</Sentence>
+</Document>

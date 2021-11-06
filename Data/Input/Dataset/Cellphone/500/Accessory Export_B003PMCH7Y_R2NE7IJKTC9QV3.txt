@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had bought an inexpensive car charger from Amazon before for my G1 and it was good , so I knew I wanted one from Amazon for my myTouch Slide .</Tokens>
+		<POS>PRP VBD VBN DT JJ NN NN IN NNP IN IN PRP$ NN CC PRP VBD JJ , IN PRP VBD PRP VBD CD IN NNP IN PRP$ NNP NNP .</POS>
+		<Lemma>I have buy a inexpensive car charger from Amazon before for my g1 and it be good , so I know I want one from Amazon for my myTouch Slide .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought 2 wall chargers , this car charger , and also a retractable car charger all for less -LRB- including shipping -RRB- than the price of ONE car charger from T-Mobile .</Tokens>
+		<POS>PRP VBD CD NN NNS , DT NN NN , CC RB DT JJ NN NN DT IN JJR -LRB- VBG NN -RRB- IN DT NN IN CD NN NN IN NNP .</POS>
+		<Lemma>I buy 2 wall charger , this car charger , and also a retractable car charger all for less -lrb- include shipping -rrb- than the price of one car charger from T-Mobile .</Lemma>
+	</Sentence>
+</Document>

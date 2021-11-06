@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Best NetBook I 've owned thus far .</Tokens>
+		<POS>JJS NN PRP VBP VBN RB RB .</POS>
+		<Lemma>best netbook I have own thus far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Once I upgraded the RAM memory to 4GB , the A0722-473 smokes any other NetBook I 've owned .</Tokens>
+		<POS>RB PRP VBD DT NNP NN TO NN , DT NN VBZ DT JJ NNP PRP VBP VBN .</POS>
+		<Lemma>once I upgrade the RAM memory to 4gb , the a0722-473 smoke any other NetBook I have own .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's much faster than my old Asus with the N570 processor and it 's better than the new N2600 cpu NetBooks since it can take up to 4GB of Ram .</Tokens>
+		<POS>PRP VBZ JJ JJR IN PRP$ JJ NN IN DT NN NN CC PRP VBZ JJR IN DT JJ NN NN NNS IN PRP MD VB RP TO NN IN NNP .</POS>
+		<Lemma>it be much faster than my old asus with the n570 processor and it be better than the new n2600 cpu netbook since it can take up to 4gb of Ram .</Lemma>
+	</Sentence>
+</Document>

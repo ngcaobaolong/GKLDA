@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This device is a very good idea , I just leave it on , and leave the radio tuned to the station that the device is set to , and never have to touch anything , when i start the car my phone automatically connects to this transmitter .</Tokens>
+		<POS>DT NN VBZ DT RB JJ NN , PRP RB VBP PRP IN , CC VB DT NN VBN TO DT NN IN DT NN VBZ VBN TO , CC RB VBP TO VB NN , WRB FW VB DT NN PRP$ NN RB VBZ TO DT NN .</POS>
+		<Lemma>this device be a very good idea , I just leave it on , and leave the radio tune to the station that the device be set to , and never have to touch anything , when i start the car my phone automatically connect to this transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The call quality seems very good so far -LRB- to be fair I have only had 2 phone calls no more than a minute each -RRB- .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ RB RB -LRB- TO VB JJ PRP VBP RB VBN CD NN VBZ DT JJR IN DT NN DT -RRB- .</POS>
+		<Lemma>the call quality seem very good so far -lrb- to be fair I have only have 2 phone call no more than a minute each -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The quality of the device seems ok , I am not worried about it breaking , but it would be nice if it were made of a sturdier material .</Tokens>
+		<POS>DT NN IN DT NN VBZ NN , PRP VBP RB VBN IN PRP VBG , CC PRP MD VB JJ IN PRP VBD VBN IN DT JJR NN .</POS>
+		<Lemma>the quality of the device seem ok , I be not worry about it break , but it would be nice if it be make of a sturdier material .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My only real complaint is that I had a lot of trouble finding a radio station that did n't give me static while listening to music through the transmitter .</Tokens>
+		<POS>PRP$ JJ JJ NN VBZ IN PRP VBD DT NN IN NN VBG DT NN NN WDT VBD RB VB PRP JJ IN VBG TO NN IN DT NN .</POS>
+		<Lemma>my only real complaint be that I have a lot of trouble find a radio station that do not give I static while listen to music through the transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The feature that automatically finds you a station is useless , it kept telling me to use stations with even numbers -LRB- eg 85.6 -RRB- which do not exist in America .</Tokens>
+		<POS>DT NN WDT RB VBZ PRP DT NN VBZ JJ , PRP VBD VBG PRP TO VB NNS IN RB NNS -LRB- FW CD -RRB- WDT VBP RB VB IN NNP .</POS>
+		<Lemma>the feature that automatically find you a station be useless , it keep tell I to use station with even number -lrb- eg 85.6 -rrb- which do not exist in America .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Once I found a station that worked well -LRB- which took about half an hour of flipping through every radio station -RRB- the sound quality is very good , calls are very clear and music sounds better than I expected , not quite as good as a CD does , but better than my tape deck adapter sounded .</Tokens>
+		<POS>RB PRP VBD DT NN WDT VBD RB -LRB- WDT VBD RB PDT DT NN IN VBG IN DT NN NN -RRB- DT JJ NN VBZ RB JJ , NNS VBP RB JJ CC NN VBZ JJR IN PRP VBD , RB RB IN JJ IN DT NN VBZ , CC JJR IN PRP$ NN NN NN VBD .</POS>
+		<Lemma>once I find a station that work well -lrb- which take about half a hour of flip through every radio station -rrb- the sound quality be very good , call be very clear and music sound better than I expect , not quite as good as a cd do , but better than my tape deck adapter sound .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It does not bother me , but you should know that bluetooth does not transmit very deep bass , so if you are expecting a ton of bass in your music , you will have to plug you phone\/ipod into the input with the included wire .</Tokens>
+		<POS>PRP VBZ RB VB PRP , CC PRP MD VB IN NN VBZ RB VB RB JJ NN , RB IN PRP VBP VBG DT NN IN NN IN PRP$ NN , PRP MD VB TO VB PRP VB IN DT NN IN DT VBN NN .</POS>
+		<Lemma>it do not bother I , but you should know that bluetooth do not transmit very deep bass , so if you be expect a ton of bass in you music , you will have to plug you phone\/ipod into the input with the include wire .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For 45 dollars , you are not going to find anything better than this , I would suggest buying it if you want a fully wireless solution for an older car without integrated Bluetooth or an AUX port to plug your phone\/ipod directly into .</Tokens>
+		<POS>IN CD NNS , PRP VBP RB VBG TO VB NN JJR IN DT , PRP MD VB VBG PRP IN PRP VBP DT RB JJ NN IN DT JJR NN IN VBN NNP CC DT NNP NN TO VB PRP$ NN RB IN .</POS>
+		<Lemma>for 45 dollar , you be not go to find anything better than this , I would suggest buy it if you want a fully wireless solution for a older car without integrate Bluetooth or a AUX port to plug you phone\/ipod directly into .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So far I am very happy I bought it .</Tokens>
+		<POS>RB RB PRP VBP RB JJ PRP VBD PRP .</POS>
+		<Lemma>so far I be very happy I buy it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It is also nice that it will charge your phone with a usb cable -LRB- included -RRB-</Tokens>
+		<POS>PRP VBZ RB JJ IN PRP MD VB PRP$ NN IN DT NN NN -LRB- VBN -RRB-</POS>
+		<Lemma>it be also nice that it will charge you phone with a usb cable -lrb- include -rrb-</Lemma>
+	</Sentence>
+</Document>

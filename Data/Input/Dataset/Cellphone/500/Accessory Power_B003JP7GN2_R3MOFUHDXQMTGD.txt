@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>NEW -RRB- I purchased this charger so that I could use this when I traveled back and forth between my homes in Fl and N Y. I purchased this last May but I never got around to using it until now in December .</Tokens>
+		<POS>NNP -RRB- PRP VBD DT NN IN IN PRP MD VB DT WRB PRP VBD RB CC RB IN PRP$ NNS IN NN CC NN NNP PRP VBD DT JJ NNP CC PRP RB VBD IN TO VBG PRP IN RB IN NNP .</POS>
+		<Lemma>NEW -rrb- I purchase this charger so that I could use this when I travel back and forth between my home in fl and n Y. I purchase this last May but I never get around to use it until now in December .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Since the time period was so long since I purchased it I felt it was inappropriate to return it so late .</Tokens>
+		<POS>IN DT NN NN VBD RB RB IN PRP VBD PRP PRP VBD PRP VBD JJ TO VB PRP RB RB .</POS>
+		<Lemma>since the time period be so long since I purchase it I feel it be inappropriate to return it so late .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I tried using it but it was not sending any `` Juice '' to the other end that was pluged into my equipment .</Tokens>
+		<POS>PRP VBD VBG PRP CC PRP VBD RB VBG DT `` NN '' TO DT JJ NN WDT VBD VBN IN PRP$ NN .</POS>
+		<Lemma>I try use it but it be not send any `` juice '' to the other end that be pluge into my equipment .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I know that it was working where you could plug it into my car because the red light was on , but when I went to plug in my Ipad or Iphone the message came on that said not charging .</Tokens>
+		<POS>PRP VBP IN PRP VBD VBG WRB PRP MD VB PRP IN PRP$ NN IN DT JJ NN VBD IN , CC WRB PRP VBD TO VB IN PRP$ NNP CC NNP DT NN VBD IN DT VBD RB VBG .</POS>
+		<Lemma>I know that it be work where you could plug it into my car because the red light be on , but when I go to plug in my Ipad or Iphone the message come on that say not charge .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The same was with my other sprint phone .</Tokens>
+		<POS>DT JJ VBD IN PRP$ JJ NN NN .</POS>
+		<Lemma>the same be with my other sprint phone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I had to go out and purchase another charger from Radio Shack .</Tokens>
+		<POS>PRP VBD TO VB RP CC NN DT NN IN NNP NNP .</POS>
+		<Lemma>I have to go out and purchase another charger from Radio Shack .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This is a piece of junk .</Tokens>
+		<POS>DT VBZ DT NN IN NN .</POS>
+		<Lemma>this be a piece of junk .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Save your money .</Tokens>
+		<POS>VB PRP$ NN .</POS>
+		<Lemma>save you money .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have never before written a review on line , but I thought that this deserved it .</Tokens>
+		<POS>PRP VBP RB IN VBN DT NN IN NN , CC PRP VBD IN DT VBD PRP .</POS>
+		<Lemma>I have never before write a review on line , but I think that this deserve it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Marcia ,</Tokens>
+		<POS>NNP ,</POS>
+		<Lemma>Marcia ,</Lemma>
+	</Sentence>
+</Document>

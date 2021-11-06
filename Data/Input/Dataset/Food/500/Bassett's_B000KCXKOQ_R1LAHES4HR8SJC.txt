@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The gellatin is from beef , not goat , which I think explains the texture of them .</Tokens>
+		<POS>DT NN VBZ IN NN , RB NN , WDT PRP VBP VBZ DT NN IN PRP .</POS>
+		<Lemma>the gellatin be from beef , not goat , which I think explain the texture of they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are chewy , more of a soft candy , and there is some grit to them .</Tokens>
+		<POS>PRP VBP JJ , JJR IN DT JJ NN , CC EX VBZ DT NN TO PRP .</POS>
+		<Lemma>they be chewy , more of a soft candy , and there be some grit to they .</Lemma>
+	</Sentence>
+</Document>

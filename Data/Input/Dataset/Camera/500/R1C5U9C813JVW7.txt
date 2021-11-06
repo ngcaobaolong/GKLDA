@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased one of these Foscam FI8918W IP cameras to integrate into our amateur radio weather balloon launch in August 2011 -LRB- it went to 85,000 feet back via balloon parachute -RRB- .</Tokens>
+		<POS>PRP VBD CD IN DT NNP NNP NNP NNS TO VB IN PRP$ JJ NN NN NN NN IN NNP CD -LRB- PRP VBD TO CD NNS CC RB IN NN CC NN -RRB- .</POS>
+		<Lemma>I purchase one of these Foscam FI8918W IP camera to integrate into we amateur radio weather balloon launch in August 2011 -lrb- it go to 85,000 foot back via balloon parachute -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>GOOD POINTS : installation on a Windows machine is very easy , the ability to steer\/point it is GREAT , the video quality is very good , streaming video from it is easy , and the control interface works well .</Tokens>
+		<POS>JJ NNS : NN IN DT NNP NN VBZ RB JJ , DT NN TO VB PRP VBZ JJ , DT JJ NN VBZ RB JJ , NN NN IN PRP VBZ JJ , CC DT NN NN VBZ RB .</POS>
+		<Lemma>good point : installation on a Windows machine be very easy , the ability to steer\/point it be great , the video quality be very good , streaming video from it be easy , and the control interface work well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>NEEDS IMPROVEMENT POINTS : the focus is a little touchy , if you are running on batteries -LRB- as we were -RRB- , it takes ONLY +5 VDC for power -LRB- anything else will let the magic smoke out -RRB- , and the IR LEDs are on by default -LRB- these are only needed in the dark , which for us , was just another battery drain -RRB- .</Tokens>
+		<POS>VBZ NNP NNP : DT NN VBZ DT JJ JJ , IN PRP VBP VBG IN NNS -LRB- IN PRP VBD -RRB- , PRP VBZ RB CD NN IN NN -LRB- NN RB MD VB DT JJ NN IN -RRB- , CC DT NNP NNS VBP IN IN NN -LRB- DT VBP RB VBN IN DT JJ , WDT IN PRP , VBD RB DT NN NN -RRB- .</POS>
+		<Lemma>need IMPROVEMENT POINTS : the focus be a little touchy , if you be run on battery -lrb- as we be -rrb- , it take only +5 vdc for power -lrb- anything else will let the magic smoke out -rrb- , and the IR led be on by default -lrb- these be only need in the dark , which for we , be just another battery drain -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ended up buying a 2nd camera after the first one experienced a destructive collision with the ground upon return to earth -LRB- certainly NOT a knock against the camera !! -RRB-</Tokens>
+		<POS>PRP VBD RP VBG DT JJ NN IN DT JJ CD VBD DT JJ NN IN DT NN IN NN TO NN -LRB- RB RB DT VB IN DT NN NN -RRB-</POS>
+		<Lemma>I end up buy a 2nd camera after the first one experience a destructive collision with the ground upon return to earth -lrb- certainly not a knock against the camera !! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would HIGHLY recommend this camera if you are looking for a good , reliable , easy-to-use , well-functioning IP camera .</Tokens>
+		<POS>PRP MD RB VB DT NN IN PRP VBP VBG IN DT JJ , JJ , JJ , CC JJ NNP NN .</POS>
+		<Lemma>I would highly recommend this camera if you be look for a good , reliable , easy-to-use , well-functioning IP camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It is a good buy for the money .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>it be a good buy for the money .</Lemma>
+	</Sentence>
+</Document>

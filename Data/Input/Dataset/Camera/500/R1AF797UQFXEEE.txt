@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am moving up from the G12 to the G1X to get the larger sensor , but now the G12 is available for under $ 400 , it is a tremendous deal .</Tokens>
+		<POS>PRP VBP VBG RP IN DT NN TO DT NN TO VB DT JJR NN , CC RB DT NN VBZ JJ IN IN $ CD , PRP VBZ DT JJ NN .</POS>
+		<Lemma>I be move up from the g12 to the g1x to get the larger sensor , but now the g12 be available for under $ 400 , it be a tremendous deal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I never found any problems with mine .</Tokens>
+		<POS>PRP RB VBD DT NNS IN NN .</POS>
+		<Lemma>I never find any problem with mine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Beautiful images .</Tokens>
+		<POS>JJ NNS .</POS>
+		<Lemma>beautiful image .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very reliable .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very reliable .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Surprisingly good in low light , especially if you keep the ISO down to 400 or so and work around this with the other settings .</Tokens>
+		<POS>RB JJ IN JJ NN , RB IN PRP VBP DT NN IN TO CD CC RB CC VB IN DT IN DT JJ NNS .</POS>
+		<Lemma>surprisingly good in low light , especially if you keep the iso down to 400 or so and work around this with the other setting .</Lemma>
+	</Sentence>
+</Document>

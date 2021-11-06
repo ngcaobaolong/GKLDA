@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just got this charger and started using it for the iPhone 4 .</Tokens>
+		<POS>PRP RB VBD DT NN CC VBD VBG PRP IN DT NNP CD .</POS>
+		<Lemma>I just get this charger and start use it for the iPhone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So far I here is what I have tried : 1 -RRB- Plugged it into the wall and I could charge two phones , iPhone4 and Blackberry 8100 2 -RRB- Put in two brand new Duracell Coppertops and plugged in iPhone .</Tokens>
+		<POS>RB RB PRP RB VBZ WP PRP VBP VBN : LS -RRB- VBD PRP IN DT NN CC PRP MD VB CD NNS , NN CC NNP CD LS -RRB- VB IN CD NN JJ NNP NNPS CC VBD IN NNP .</POS>
+		<Lemma>so far I here be what I have try : 1 -rrb- plug it into the wall and I could charge two phone , iphone4 and Blackberry 8100 2 -rrb- put in two brand new Duracell Coppertops and plug in iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After about a few mins of charging , I got the message on my iPhone that it could not charge using this accessory .</Tokens>
+		<POS>IN IN DT JJ NNS IN VBG , PRP VBD DT NN IN PRP$ NNP IN PRP MD RB VB VBG DT NN .</POS>
+		<Lemma>after about a few min of charge , I get the message on my iPhone that it could not charge use this accessory .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unplugged the iPhone and plugged it back in , the battery icon on the iPhone kept fluctuating from charging to full charge .</Tokens>
+		<POS>NNP DT NNP CC VBD PRP RB IN , DT NN NN IN DT NNP VBD VBG IN VBG TO JJ NN .</POS>
+		<Lemma>Unplugged the iPhone and plug it back in , the battery icon on the iPhone keep fluctuate from charge to full charge .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>3 -RRB- Took out the two AAs and plugged in a Duracell Coppertop 9v battery .</Tokens>
+		<POS>LS -RRB- VBD RP DT CD NNS CC VBN IN DT NNP NNP NN NN .</POS>
+		<Lemma>3 -rrb- take out the two aa and plug in a Duracell Coppertop 9v battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It charged the phone for a few minutes -LRB- 12 to 15mins -RRB- more than the AAs but then the charging suddenly stopped and the same message appeared on the iPhone .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NNS -LRB- CD TO NNS -RRB- JJR IN DT NNS CC RB DT VBG RB VBD CC DT JJ NN VBD IN DT NNP .</POS>
+		<Lemma>it charge the phone for a few minute -lrb- 12 to 15min -rrb- more than the aa but then the charge suddenly stop and the same message appear on the iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>4 -RRB- I took the supplied USB cable and connected it to my computer .</Tokens>
+		<POS>LS -RRB- PRP VBD DT VBN JJ NN CC VBN PRP TO PRP$ NN .</POS>
+		<Lemma>4 -rrb- I take the supply usb cable and connect it to my computer .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The iPhone started charging but iTunes did not recognize that the phone was plugged so I can not sync or perform backups with this cable My take away from this is that maybe the Coppertops are not strong enough to provide a strong consistent charge to charge the iPhone because the iPhone 4 's battery is capable of being `` rapid charged '' which means it can suck in more power than regular similar sized and capacity batteries -LRB- just my 2 cents -RRB- .</Tokens>
+		<POS>DT NNP VBD VBG CC NNP VBD RB VB IN DT NN VBD VBN IN PRP MD RB NN CC VB NNS IN DT NN PRP$ VB RP IN DT VBZ IN RB DT NNS VBP RB JJ RB TO VB DT JJ JJ NN TO VB DT NNP IN DT NNP CD POS NN VBZ JJ IN VBG `` JJ VBN '' WDT VBZ PRP MD VB IN JJR NN IN JJ JJ VBN CC NN NNS -LRB- RB PRP$ CD NNS -RRB- .</POS>
+		<Lemma>the iPhone start charge but iTunes do not recognize that the phone be plug so I can not sync or perform backup with this cable my take away from this be that maybe the coppertop be not strong enough to provide a strong consistent charge to charge the iPhone because the iPhone 4 's battery be capable of be `` rapid charge '' which mean it can suck in more power than regular similar size and capacity battery -lrb- just my 2 cent -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I will try with the more expensive lithium ion and other similar batteries designed for digital photography .</Tokens>
+		<POS>PRP MD VB IN DT RBR JJ NN NN CC JJ JJ NNS VBN IN JJ NN .</POS>
+		<Lemma>I will try with the more expensive lithium ion and other similar battery design for digital photography .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I will be doing some more testing in the next few days and will update this post with my findings .</Tokens>
+		<POS>PRP MD VB VBG DT JJR NN IN DT JJ JJ NNS CC MD VB DT NN IN PRP$ NNS .</POS>
+		<Lemma>I will be do some more testing in the next few day and will update this post with my finding .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Regards KB</Tokens>
+		<POS>VBZ NN</POS>
+		<Lemma>regard kb</Lemma>
+	</Sentence>
+</Document>

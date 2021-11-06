@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>thses do not work .</Tokens>
+		<POS>NNS VBP RB VB .</POS>
+		<Lemma>ths do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My signal got worse after putting it behind my battery .</Tokens>
+		<POS>PRP$ NN VBD JJR IN VBG PRP IN PRP$ NN .</POS>
+		<Lemma>my signal get worse after put it behind my battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>These are a rip off .</Tokens>
+		<POS>DT VBP DT NN RP .</POS>
+		<Lemma>these be a rip off .</Lemma>
+	</Sentence>
+</Document>

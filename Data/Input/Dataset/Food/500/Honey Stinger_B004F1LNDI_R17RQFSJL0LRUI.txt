@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had n't heard of these but figured i 'd give them a try .</Tokens>
+		<POS>PRP VBD RB VBN IN DT CC VBD FW MD VB PRP DT NN .</POS>
+		<Lemma>I have not hear of these but figure i would give they a try .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm a runner and am in the middle of training for the Marine Corps Marathon -LRB- forward -RRB- .</Tokens>
+		<POS>PRP VBP DT NN CC VBP IN DT NN IN NN IN DT NNP NNP NNP -LRB- RB -RRB- .</POS>
+		<Lemma>I be a runner and be in the middle of training for the Marine Corps Marathon -lrb- forward -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I tried one of these after going for a 9 mile run .</Tokens>
+		<POS>PRP VBD CD IN DT IN VBG IN DT CD NN NN .</POS>
+		<Lemma>I try one of these after go for a 9 mile run .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>With water , these are delicous .</Tokens>
+		<POS>IN NN , DT VBP JJ .</POS>
+		<Lemma>with water , these be delicous .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If I had to associate the taste to another product i 'd say a fortune cookie !</Tokens>
+		<POS>IN PRP VBD TO VB DT NN TO DT NN FW MD VB DT NN NN .</POS>
+		<Lemma>if I have to associate the taste to another product i would say a fortune cookie !</Lemma>
+	</Sentence>
+</Document>

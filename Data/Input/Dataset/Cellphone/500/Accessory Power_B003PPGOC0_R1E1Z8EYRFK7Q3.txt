@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very happy with my product and easy process from Amazon.com this product is great and Ive actually bought two of this item because its the perfect gift as well</Tokens>
+		<POS>RB JJ IN PRP$ NN CC JJ NN IN NNP DT NN VBZ JJ CC NN RB VBD CD IN DT NN IN PRP$ DT JJ NN RB RB</POS>
+		<Lemma>very happy with my product and easy process from Amazon.com this product be great and ive actually buy two of this item because its the perfect gift as well</Lemma>
+	</Sentence>
+</Document>

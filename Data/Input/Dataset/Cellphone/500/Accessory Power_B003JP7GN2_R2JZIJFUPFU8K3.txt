@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really like the portability of the Trans4m .</Tokens>
+		<POS>PRP RB IN DT NN IN DT NN .</POS>
+		<Lemma>I really like the portability of the trans4m .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I keep it in my car , if I 'm out I can put it in my pocketbook and use it where ever I go .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NN , IN PRP VBP IN PRP MD VB PRP IN PRP$ NN CC VB PRP WRB RB PRP VBP .</POS>
+		<Lemma>I keep it in my car , if I be out I can put it in my pocketbook and use it where ever I go .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had been thinking a lot about changing my CRT montior to LCD monitor .</Tokens>
+		<POS>PRP VBD VBN VBG DT NN IN VBG PRP$ NNP NN TO NNS VBP .</POS>
+		<Lemma>I have be think a lot about change my CRT montior to lcd monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was waiting for lower pricess , faster respons time & wide screen monitor .</Tokens>
+		<POS>PRP VBD VBG IN JJR NN , JJR NNS NN CC JJ NN NN .</POS>
+		<Lemma>I be wait for lower pricess , faster respon time & wide screen monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was keeping my eye on Samsung , Benq & Acer .</Tokens>
+		<POS>PRP VBD VBG PRP$ NN IN NNP , NNP CC NNP .</POS>
+		<Lemma>I be keep my eye on Samsung , Benq & Acer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Last week , I visited JAREER Bookstoor in Riyadh -LRB- Saudi Arabia -RRB- I found this LCD .</Tokens>
+		<POS>JJ NN , PRP VBD NNP NNP IN NNP -LRB- NNP NNP -RRB- PRP VBD DT NNS .</POS>
+		<Lemma>last week , I visit JAREER Bookstoor in Riyadh -lrb- Saudi Arabia -rrb- I find this lcd .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It really impressed me with the disign , the specs & the price .</Tokens>
+		<POS>PRP RB VBD PRP IN DT NN , DT NNS CC DT NN .</POS>
+		<Lemma>it really impress I with the disign , the spec & the price .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So , I could not wait anylonger & I got it .</Tokens>
+		<POS>RB , PRP MD RB VB NN CC PRP VBD PRP .</POS>
+		<Lemma>so , I could not wait anylonger & I get it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I will provide my comments about the disadvantages only because the advantages you may get it from the product specs .</Tokens>
+		<POS>PRP MD VB PRP$ NNS IN DT NNS RB IN DT NNS PRP MD VB PRP IN DT NN NNS .</POS>
+		<Lemma>I will provide my comment about the disadvantage only because the advantage you may get it from the product spec .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>My comments are as follow : 1 - Does n't have direct Elictrical connectivity -LRB- you need Adapter which is comming with the package -RRB- 2 - It is really very difficult to connect the the power Cable & the regular -LRB- VGA -RRB- PC connection .</Tokens>
+		<POS>PRP$ NNS VBP IN VB : LS : VBZ RB VB JJ JJ NN -LRB- PRP VBP NN WDT VBZ VBG IN DT NN -RRB- LS : PRP VBZ RB RB JJ TO VB DT DT NN NNP CC DT JJ -LRB- NNP -RRB- NN NN .</POS>
+		<Lemma>my comment be as follow : 1 - do not have direct elictrical connectivity -lrb- you need adapter which be com with the package -rrb- 2 - it be really very difficult to connect the the power Cable & the regular -lrb- VGA -rrb- pc connection .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>3 - Not perfect quality of picture if you use the VGA Connection while the DVI Connection is perfect .</Tokens>
+		<POS>LS : RB JJ NN IN NN IN PRP VBP DT NNP NN IN DT NNP NN VBZ JJ .</POS>
+		<Lemma>3 - not perfect quality of picture if you use the VGA connection while the DVI connection be perfect .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>4 - No flixpility to turn the monitor right or left because it is fixed .</Tokens>
+		<POS>LS : UH NN TO VB DT NN NN CC VBD IN PRP VBZ VBN .</POS>
+		<Lemma>4 - no flixpility to turn the monitor right or leave because it be fix .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>5 - hight can not be adjusted .</Tokens>
+		<POS>LS : NN MD RB VB VBN .</POS>
+		<Lemma>5 - hight can not be adjust .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Some of you may ask how did I gave 4\/5 while having the mentioned disadvantages .</Tokens>
+		<POS>DT IN PRP MD VB WRB VBD PRP VBD CD IN VBG DT VBN NNS .</POS>
+		<Lemma>some of you may ask how do I give 4\/5 while have the mention disadvantage .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Then I would say that this LCD monitor have many feature in one piece .</Tokens>
+		<POS>RB PRP MD VB IN DT NNS VBP VBP JJ NN IN CD NN .</POS>
+		<Lemma>then I would say that this lcd monitor have many feature in one piece .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It has TV tuner , Composite inputs , DVI Input , SCART Input , Nice Speekers .</Tokens>
+		<POS>PRP VBZ NN NN , NNP NNS , NNP NNP , NNP NNP , NNP NNPS .</POS>
+		<Lemma>it have tv tuner , Composite input , DVI Input , SCART Input , Nice Speekers .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>In addition , it comes with a remote control .</Tokens>
+		<POS>IN NN , PRP VBZ IN DT JJ NN .</POS>
+		<Lemma>in addition , it come with a remote control .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The screen quality is very high & the side view is very sharp & clear .</Tokens>
+		<POS>DT NN NN VBZ RB JJ CC DT NN NN VBZ RB JJ CC JJ .</POS>
+		<Lemma>the screen quality be very high & the side view be very sharp & clear .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>In conclusion this master piece has every thing you need .</Tokens>
+		<POS>IN NN DT NN NN VBZ DT NN PRP VBP .</POS>
+		<Lemma>in conclusion this master piece have every thing you need .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>One last note , I purchased this monitor with a higher price than what you can get in the states .</Tokens>
+		<POS>CD JJ NN , PRP VBD DT NN IN DT JJR NN IN WP PRP MD VB IN DT NNS .</POS>
+		<Lemma>one last note , I purchase this monitor with a higher price than what you can get in the state .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>It costs me about 640 $ so you should be gratefull that the pricess in the states much lower .</Tokens>
+		<POS>PRP VBZ PRP IN CD $ IN PRP MD VB NN IN DT NN IN DT NNS RB JJR .</POS>
+		<Lemma>it cost I about 640 $ so you should be gratefull that the pricess in the state much lower .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Regards , Abdulrahman Saudi Arabia - Riyadh</Tokens>
+		<POS>NNS , NNP NNP NNP : NNP</POS>
+		<Lemma>regards , Abdulrahman Saudi Arabia - Riyadh</Lemma>
+	</Sentence>
+</Document>

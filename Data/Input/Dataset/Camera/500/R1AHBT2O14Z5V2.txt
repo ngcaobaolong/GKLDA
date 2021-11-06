@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great camera .</Tokens>
+		<POS>DT VBZ DT JJ NN .</POS>
+		<Lemma>this be a great camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have used many cameras in life but none come close to this one in functions and quality .</Tokens>
+		<POS>PRP VBP VBN JJ NNS IN NN CC NN VBP RB TO DT CD IN NNS CC NN .</POS>
+		<Lemma>I have use many camera in life but none come close to this one in function and quality .</Lemma>
+	</Sentence>
+</Document>

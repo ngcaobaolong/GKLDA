@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the BEST dry cereal that I have ever eaten !</Tokens>
+		<POS>DT VBZ DT NNP JJ NN IN PRP VBP RB VBN .</POS>
+		<Lemma>this be the BEST dry cereal that I have ever eat !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's full of nutrients , crispy , -LRB- never gets soggy -RRB- , & FULL of protein .</Tokens>
+		<POS>PRP VBZ JJ IN NNS , JJ , -LRB- RB VBZ JJ -RRB- , CC NNP IN NN .</POS>
+		<Lemma>it be full of nutrient , crispy , -lrb- never get soggy -rrb- , & FULL of protein .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This cereal is TRULY THE STAFF OF LIFE !</Tokens>
+		<POS>DT NN VBZ RB DT NN IN NN .</POS>
+		<Lemma>this cereal be truly the staff of life !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>-LRB- Try it , you 'll like it ! -RRB-</Tokens>
+		<POS>-LRB- VB PRP , PRP MD VB PRP . -RRB-</POS>
+		<Lemma>-lrb- try it , you 'll like it ! -rrb-</Lemma>
+	</Sentence>
+</Document>

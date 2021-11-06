@@ -1,0 +1,262 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was skeptical of this little camera that purported to shoot digital video in 3D , mostly because I could n't imagine that it would translate well to my 55 '' Samsung 3D TV .</Tokens>
+		<POS>PRP VBD JJ IN DT JJ NN WDT JJ TO VB JJ NN IN NN , RB IN PRP MD RB VB IN PRP MD VB RB TO PRP$ CD '' NNP NNP NN .</POS>
+		<Lemma>I be skeptical of this little camera that purported to shoot digital video in 3d , mostly because I could not imagine that it would translate well to my 55 '' Samsung 3D tv .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>First , I was n't sure of the compatibility between the Sony Bloggie and Samsung technology .</Tokens>
+		<POS>RB , PRP VBD RB JJ IN DT NN IN DT NNP NNP CC NNP NN .</POS>
+		<Lemma>first , I be not sure of the compatibility between the Sony Bloggie and Samsung technology .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Second , bad quality video always looks worse when enlarged to 55 '' .</Tokens>
+		<POS>RB , JJ NN NN RB VBZ JJR WRB JJ TO CD '' .</POS>
+		<Lemma>second , bad quality video always look worse when enlarged to 55 '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And last , I read some reviews that said the LCD screen on the back made video look like those old style trading cards that you flipped back and forth to get `` action , '' and I did n't want cheesy fake 3D .</Tokens>
+		<POS>CC JJ , PRP VBP DT NNS WDT VBD DT NNS NN IN DT NN VBD JJ NN IN DT JJ NN NN NNS IN PRP VBD RB CC RB TO VB `` NN , '' CC PRP VBD RB VB JJ JJ NN .</POS>
+		<Lemma>and last , I read some review that say the lcd screen on the back make video look like those old style trading card that you flip back and forth to get `` action , '' and I do not want cheesy fake 3d .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But I 'll tell you right now : you will not care about the pixelated false 3D on the viewing screen once you see it on your TV .</Tokens>
+		<POS>CC PRP MD VB PRP RB RB : PRP MD RB VB IN DT JJ JJ NN IN DT VBG NN IN PRP VBP PRP IN PRP$ NN .</POS>
+		<Lemma>but I 'll tell you right now : you will not care about the pixelated false 3d on the view screen once you see it on you tv .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The Sony Bloggie 3D is not perfect , and it does have its cons ; however , I have n't had such fun with a video camera since I got my first generation Flip camera .</Tokens>
+		<POS>DT NNP NNP NN VBZ RB JJ , CC PRP VBZ VB PRP$ NNS : RB , PRP VBP RB VBD JJ NN IN DT NN NN IN PRP VBD PRP$ JJ NN NN NN .</POS>
+		<Lemma>the Sony Bloggie 3d be not perfect , and it do have its con ; however , I have not have such fun with a video camera since I get my first generation flip camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Although it can also shoot 2D , I see no reason to get this if that 's your primary purpose since there are less expensive options .</Tokens>
+		<POS>IN PRP MD RB VB NN , PRP VBP DT NN TO VB DT IN DT VBZ PRP$ JJ NN IN EX VBP RBR JJ NNS .</POS>
+		<Lemma>although it can also shoot 2d , I see no reason to get this if that be you primary purpose since there be less expensive option .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>You 'd be better off with Kodak PlaySport HD Waterproof Pocket Video Camera -LRB- Black -RRB- or , if you can find one , Flip UltraHD Video Camera .</Tokens>
+		<POS>PRP MD VB JJR RP IN NN NNP NNP NNP NNP NNP NNP NNP -LRB- NNP -RRB- NN CC , IN PRP MD VB CD , NN NN NN NNP NNP NN .</POS>
+		<Lemma>you would be better off with Kodak PlaySport HD Waterproof Pocket Video Camera -lrb- Black -rrb- or , if you can find one , flip ultrahd Video Camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The Bloggie comes with a short USB extender -LRB- in case you ca n't plug it into your computer directly using the Flip-like USB arm -RRB- and a wrist strap .</Tokens>
+		<POS>DT NN VBZ IN DT JJ JJ NN -LRB- IN NN PRP MD RB VB PRP IN PRP$ NN RB VBG DT JJ JJ NN -RRB- CC DT NN NN .</POS>
+		<Lemma>the bloggie come with a short usb extender -lrb- in case you can not plug it into you computer directly use the flip-like usb arm -rrb- and a wrist strap .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you want to view this on your 3D TV , you 'll have to also get a mini-HDMI to HDMI cable .</Tokens>
+		<POS>IN PRP VBP TO VB DT IN PRP$ NN NN , PRP MD VB TO RB VB DT NN TO NNP NN .</POS>
+		<Lemma>if you want to view this on you 3d tv , you 'll have to also get a mini-hdmus to HDMI cable .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I bought AmazonBasics High-Speed Mini-HDMI to HDMI Cable with Ethernet -LRB- 6.5 Feet\/2 Meters -RRB- but any length or brand will do , as long is one end is mini-HDMI -LRB- for the camera -RRB- and HDMI for the TV AND high-speed .</Tokens>
+		<POS>PRP VBD NN NNPS NNP NNP TO NNP NNP IN NNP -LRB- CD NN NNS -RRB- VBP CC DT NN CC NN MD VB , RB JJ VBZ CD NN VBZ NN -LRB- IN DT NN -RRB- CC NN IN DT NN CC JJ .</POS>
+		<Lemma>I buy AmazonBasics High-Speed Mini-HDMI to HDMI Cable with Ethernet -lrb- 6.5 feet\/2 meter -rrb- but any length or brand will do , as long be one end be mini-hdmus -lrb- for the camera -rrb- and hdmus for the tv and high-speed .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>-LRB- Older HDMI cables might not support the greater demands of 3D . -RRB-</Tokens>
+		<POS>-LRB- JJR NN NNS MD RB VB DT JJR NNS IN NN . -RRB-</POS>
+		<Lemma>-lrb- older hdmus cable might not support the greater demand of 3d . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The camera does not come with a case or even a pouch , so you might want to get something to protect the lenses .</Tokens>
+		<POS>DT NN VBZ RB VBN IN DT NN CC RB DT NN , RB PRP MD VB TO VB NN TO VB DT NNS .</POS>
+		<Lemma>the camera do not come with a case or even a pouch , so you might want to get something to protect the lens .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The Bloggie does not have a removable battery and must be charged via USB .</Tokens>
+		<POS>DT NN VBZ RB VB DT JJ NN CC MD VB VBN IN JJ .</POS>
+		<Lemma>the bloggie do not have a removable battery and must be charge via usb .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The camera itself has two lenses , side by side , to shoot stereoscopic video .</Tokens>
+		<POS>DT NN PRP VBZ CD NNS , NN IN NN , TO VB JJ NN .</POS>
+		<Lemma>the camera itself have two lens , side by side , to shoot stereoscopic video .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The body is much more slender than the Flip UltraHD -- and that 's a feat .</Tokens>
+		<POS>DT NN VBZ RB JJR JJR IN DT NN NN : CC DT VBZ DT NN .</POS>
+		<Lemma>the body be much more slender than the flip ultrahd -- and that be a feat .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The record button has just the right amount of sensitivity .</Tokens>
+		<POS>DT NN NN VBZ RB DT JJ NN IN NN .</POS>
+		<Lemma>the record button have just the right amount of sensitivity .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The 4x zoom can only be used in 2D mode ; although the zoom is more powerful than the Flip UltraHD 's , the results are more grainy .</Tokens>
+		<POS>DT NN NN MD RB VB VBN IN NN NN : IN DT NN VBZ RBR JJ IN DT NN NN POS , DT NNS VBP RBR JJ .</POS>
+		<Lemma>the 4x zoom can only be use in 2d mode ; although the zoom be more powerful than the flip ultrahd 's , the result be more grainy .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The on-screen menu takes some getting used to , although with use it gets easier .</Tokens>
+		<POS>DT JJ NN VBZ DT VBG VBN TO , IN IN NN PRP VBZ JJR .</POS>
+		<Lemma>the on-screen menu take some get use to , although with use it get easier .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Changing between 3D and 2D modes requires pressing only one button , and for that , I 'm thankful .</Tokens>
+		<POS>VBG IN NN CC NN NNS VBZ VBG RB CD NN , CC IN DT , PRP VBP JJ .</POS>
+		<Lemma>change between 3d and 2d mode require press only one button , and for that , I be thankful .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The no-glasses-required LCD screen , while not showing you how good the video will be on your 3D TV , certainly gives you an idea of what you have .</Tokens>
+		<POS>DT JJ NNS NN , IN RB VBG PRP WRB JJ DT NN MD VB IN PRP$ NN NN , RB VBZ PRP DT NN IN WP PRP VBP .</POS>
+		<Lemma>the no-glasses-required lcd screen , while not show you how good the video will be on you 3d tv , certainly give you a idea of what you have .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>The tripod attachment hole is on the short end of the camera , requiring a vertical positioning of the camera ; unfortunately , you can shoot 3D ONLY in a horizontal orientation .</Tokens>
+		<POS>DT NN NN NN VBZ IN DT JJ NN IN DT NN , VBG DT JJ NN IN DT NN : RB , PRP MD VB NNP NNP IN DT JJ NN .</POS>
+		<Lemma>the tripod attachment hole be on the short end of the camera , require a vertical positioning of the camera ; unfortunately , you can shoot 3D ONLY in a horizontal orientation .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The camera is smart enough to know the orientation , so it both warns you if you ca n't take 3D that way and adjusts the on-screen menu so you can read it .</Tokens>
+		<POS>DT NN VBZ JJ RB TO VB DT NN , IN PRP DT VBZ PRP IN PRP MD RB VB NN IN NN CC VBZ DT JJ NN IN PRP MD VB PRP .</POS>
+		<Lemma>the camera be smart enough to know the orientation , so it both warn you if you can not take 3d that way and adjust the on-screen menu so you can read it .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The software that comes with the Bloggie is bare-bones .</Tokens>
+		<POS>DT NN WDT VBZ IN DT NNP VBZ JJ .</POS>
+		<Lemma>the software that come with the Bloggie be bare-bones .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Even trimming the ends of a video is not intuitive .</Tokens>
+		<POS>RB VBG DT NNS IN DT NN VBZ RB JJ .</POS>
+		<Lemma>even trim the end of a video be not intuitive .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>And weeks after receiving the Bloggie , I 'm still trying to install a firmware update on my iMac .</Tokens>
+		<POS>CC NNS IN VBG DT NNP , PRP VBP RB VBG TO VB DT NN VB IN PRP$ NNP .</POS>
+		<Lemma>and week after receive the Bloggie , I be still try to install a firmware update on my iMac .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>You can not view or edit the 3D video using a regular video editing program because the camera shoots two separate images that are merged in a file with a .</Tokens>
+		<POS>PRP MD RB VB CC VB DT NN NN VBG DT JJ NN NN NN IN DT NN VBZ CD JJ NNS WDT VBP VBN IN DT NN IN DT .</POS>
+		<Lemma>you can not view or edit the 3d video use a regular video editing program because the camera shoot two separate image that be merge in a file with a .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>thm suffix , although you can convert any 3D video to 2D MP4 format , which then can be edited .</Tokens>
+		<POS>NN NN , IN PRP MD VB DT NN NN TO NN NN NN , WDT RB MD VB VBN .</POS>
+		<Lemma>thm suffix , although you can convert any 3d video to 2d mp4 format , which then can be edit .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Fortunately , the Bloggie software allows you to move 3D video from your computer , where it is saved in your Bloggie library , back to the camera for playback on your 3D TV .</Tokens>
+		<POS>RB , DT NNP NN VBZ PRP TO VB NN NN IN PRP$ NN , WRB PRP VBZ VBN IN PRP$ NN NN , RB TO DT NN IN NN IN PRP$ NN NN .</POS>
+		<Lemma>fortunately , the Bloggie software allow you to move 3d video from you computer , where it be save in you bloggie library , back to the camera for playback on you 3d tv .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Unless you have the necessary software and DVD burner , you can not save the 3D video to a DVD for later playback .</Tokens>
+		<POS>IN PRP VBP DT JJ NN CC NN NN , PRP MD RB VB DT NN NN TO DT NN IN JJ NN .</POS>
+		<Lemma>unless you have the necessary software and dvd burner , you can not save the 3d video to a dvd for later playback .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Everything must be replayed through the Bloggie , making that mini-HDMI cable crucial to your enjoyment of your 3D home video .</Tokens>
+		<POS>NN MD VB VBN IN DT NNP , VBG IN NN NN JJ TO PRP$ NN IN PRP$ NN NN NN .</POS>
+		<Lemma>everything must be replay through the Bloggie , make that mini-hdmus cable crucial to you enjoyment of you 3d home video .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>It 's easy to share videos shot with it , albeit in 2D , with the Facebook , YouTube , and special circles icons at the top of the software window .</Tokens>
+		<POS>PRP VBZ JJ TO VB NNS VBN IN PRP , IN IN NN , IN DT NNP , NNP , CC JJ NNS NNS IN DT NN IN DT NN NN .</POS>
+		<Lemma>it be easy to share video shoot with it , albeit in 2d , with the Facebook , YouTube , and special circle icon at the top of the software window .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>I do n't understand why the software wo n't allow me to combine clips into a single movie that I can then play back through my Bloggie .</Tokens>
+		<POS>PRP VBP RB VB WRB DT NN MD RB VB PRP TO VB NNS IN DT JJ NN IN PRP MD RB VB RB IN PRP$ NN .</POS>
+		<Lemma>I do not understand why the software will not allow I to combine clip into a single movie that I can then play back through my bloggie .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>To me , that 's a major omission .</Tokens>
+		<POS>TO PRP , DT VBZ DT JJ NN .</POS>
+		<Lemma>to I , that be a major omission .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>Only 3 - stars for the software .</Tokens>
+		<POS>RB LS : NNS IN DT NN .</POS>
+		<Lemma>only 3 - star for the software .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>The drawbacks are not enough to take away the wow-factor of this camera .</Tokens>
+		<POS>DT NNS VBP RB RB TO VB RP DT NN IN DT NN .</POS>
+		<Lemma>the drawback be not enough to take away the wow-factor of this camera .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>When I sat my husband down with Samsung 3D glasses and started up the video , his first comment was , `` Holy cow ! ''</Tokens>
+		<POS>WRB PRP VBD PRP$ NN RP IN NNP NNP NNS CC VBD RP DT NN , PRP$ JJ NN VBD , `` JJ NN . ''</POS>
+		<Lemma>when I sit my husband down with Samsung 3D glass and start up the video , he first comment be , `` holy cow ! ''</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>Then , he said , `` This is the real reason to get a 3D TV . ''</Tokens>
+		<POS>RB , PRP VBD , `` DT VBZ DT JJ NN TO VB DT NN NN . ''</POS>
+		<Lemma>then , he say , `` this be the real reason to get a 3d tv . ''</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>The depth of the video is awesome .</Tokens>
+		<POS>DT NN IN DT NN VBZ JJ .</POS>
+		<Lemma>the depth of the video be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>I recorded birds on a feeder , and they hopped into the foreground , underneath the swaying flowers that seemed to reach out of the screen , but perhaps even more impressive was the baseball game I recorded , with rows of people in front of me and the game unfolding beyond them .</Tokens>
+		<POS>PRP VBD NNS IN DT NN , CC PRP VBD IN DT NN , IN DT VBG NNS WDT VBD TO VB IN IN DT NN , CC RB RB RBR JJ VBD DT NN NN PRP VBD , IN NNS IN NNS IN NN IN PRP CC DT NN VBG IN PRP .</POS>
+		<Lemma>I record bird on a feeder , and they hop into the foreground , underneath the sway flower that seem to reach out of the screen , but perhaps even more impressive be the baseball game I record , with row of people in front of I and the game unfold beyond they .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>It felt as though I was there again .</Tokens>
+		<POS>PRP VBD IN IN PRP VBD RB RB .</POS>
+		<Lemma>it feel as though I be there again .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>Wow .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>wow .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>This camera is perfect for recording family get-togethers , sports events , nature -LRB- as long as it 's close up -RRB- , and special occasions .</Tokens>
+		<POS>DT NN VBZ JJ IN VBG NN NNS , NNS NNS , NN -LRB- RB RB IN PRP VBZ RB RB -RRB- , CC JJ NNS .</POS>
+		<Lemma>this camera be perfect for record family get-together , sport event , nature -lrb- as long as it be close up -rrb- , and special occasion .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>It makes home movies seem more real .</Tokens>
+		<POS>PRP VBZ NN NNS VBP JJR JJ .</POS>
+		<Lemma>it make home movie seem more real .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>5 + stars for how it looks on my 3D TV .</Tokens>
+		<POS>CD CC NNS IN WRB PRP VBZ IN PRP$ NN NN .</POS>
+		<Lemma>5 + star for how it look on my 3d tv .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>Do n't bother purchasing this camera if you do not have a 3D set because playback on the no-glasses LCD screen is not satisfying enough .</Tokens>
+		<POS>VBP RB VB VBG DT NN IN PRP VBP RB VB DT NN NN IN NN IN DT JJ NNS NN VBZ RB VBG RB .</POS>
+		<Lemma>do not bother purchase this camera if you do not have a 3d set because playback on the no-glasses lcd screen be not satisfy enough .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>And unless you have the right equipment , do n't expect to burn DVDs to share among 3D sets .</Tokens>
+		<POS>CC IN PRP VBP DT JJ NN , VBP RB VB TO VB NNS TO VB IN NN NNS .</POS>
+		<Lemma>and unless you have the right equipment , do not expect to burn dvd to share among 3d set .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>The best thing you can hope for is to save the video to your computer now so you can create 3D movies and DVDs in the future when 3D technology has gotten more prevalent .</Tokens>
+		<POS>DT JJS NN PRP MD VB IN VBZ TO VB DT NN TO PRP$ NN RB RB PRP MD VB NN NNS CC NNS IN DT NN WRB NN NN VBZ VBN JJR JJ .</POS>
+		<Lemma>the best thing you can hope for be to save the video to you computer now so you can create 3d movie and dvd in the future when 3d technology have get more prevalent .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>For now , though , my whole family is in love with the Sony Bloggie 3D .</Tokens>
+		<POS>IN RB , RB , PRP$ JJ NN VBZ IN NN IN DT NNP NNP NN .</POS>
+		<Lemma>for now , though , my whole family be in love with the Sony Bloggie 3d .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>Although it makes me yearn for better software and playback options , I would n't give it up for anything .</Tokens>
+		<POS>IN PRP VBZ PRP VB IN JJR NN CC NN NNS , PRP MD RB VB PRP RP IN NN .</POS>
+		<Lemma>although it make I yearn for better software and playback option , I would not give it up for anything .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>5 stars for the sheer fun of seeing home video in 3D .</Tokens>
+		<POS>CD NNS IN DT JJ NN IN VBG NN NN IN NN .</POS>
+		<Lemma>5 star for the sheer fun of see home video in 3d .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>-- Debbie Lee Wesselmann</Tokens>
+		<POS>: NNP NNP NNP</POS>
+		<Lemma>-- Debbie Lee Wesselmann</Lemma>
+	</Sentence>
+</Document>

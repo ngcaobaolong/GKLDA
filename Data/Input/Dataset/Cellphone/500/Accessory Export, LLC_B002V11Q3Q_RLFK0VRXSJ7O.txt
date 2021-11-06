@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The cord is on the stiff side , but it works great .</Tokens>
+		<POS>DT NN VBZ IN DT JJ NN , CC PRP VBZ JJ .</POS>
+		<Lemma>the cord be on the stiff side , but it work great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does what it is supposed to do .</Tokens>
+		<POS>PRP VBZ WP PRP VBZ VBN TO VB .</POS>
+		<Lemma>it do what it be suppose to do .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have had no problems with it .</Tokens>
+		<POS>PRP VBP VBN DT NNS IN PRP .</POS>
+		<Lemma>I have have no problem with it .</Lemma>
+	</Sentence>
+</Document>

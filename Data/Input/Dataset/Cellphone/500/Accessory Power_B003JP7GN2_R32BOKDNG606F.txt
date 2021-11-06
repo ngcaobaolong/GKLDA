@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What a handy device !</Tokens>
+		<POS>WP DT JJ NN .</POS>
+		<Lemma>what a handy device !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I gave it 4 stars because it really does give you lots of charging options on the road .</Tokens>
+		<POS>PRP VBD PRP CD NNS IN PRP RB VBZ VB PRP NNS IN VBG NNS IN DT NN .</POS>
+		<Lemma>I give it 4 star because it really do give you lot of charge option on the road .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But I really really wish that it could charge rechargable AA batteries .</Tokens>
+		<POS>CC PRP RB RB VB IN PRP MD VB JJ NN NNS .</POS>
+		<Lemma>but I really really wish that it could charge rechargable aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It would be the most perfect charging device ever if that were the case !</Tokens>
+		<POS>PRP MD VB DT RBS JJ VBG NN RB IN DT VBD DT NN .</POS>
+		<Lemma>it would be the most perfect charge device ever if that be the case !</Lemma>
+	</Sentence>
+</Document>

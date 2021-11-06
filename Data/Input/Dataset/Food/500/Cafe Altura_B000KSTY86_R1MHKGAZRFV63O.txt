@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My title pretty much says it all .</Tokens>
+		<POS>PRP$ NN RB RB VBZ PRP DT .</POS>
+		<Lemma>my title pretty much say it all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I feel that this is good coffee at a fair price but I was n't impressed enough to reorder it .</Tokens>
+		<POS>PRP VBP IN DT VBZ JJ NN IN DT JJ NN CC PRP VBD RB JJ JJ TO VB PRP .</POS>
+		<Lemma>I feel that this be good coffee at a fair price but I be not impressed enough to reorder it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I will try something else in my next order .</Tokens>
+		<POS>PRP MD VB NN RB IN PRP$ JJ NN .</POS>
+		<Lemma>I will try something else in my next order .</Lemma>
+	</Sentence>
+</Document>

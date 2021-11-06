@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It 's built like a Toy but not like a real stuff .</Tokens>
+		<POS>PRP VBZ VBN IN DT NNP CC RB VB DT JJ NN .</POS>
+		<Lemma>it be build like a Toy but not like a real stuff .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Surprisingly this toy somehow works .</Tokens>
+		<POS>RB DT NN RB VBZ .</POS>
+		<Lemma>surprisingly this toy somehow work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Picture quality is grainy .</Tokens>
+		<POS>NNP NN VBZ JJ .</POS>
+		<Lemma>Picture quality be grainy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Also you can hear some annoying static noise in ALL volume levels .</Tokens>
+		<POS>RB PRP MD VB DT JJ JJ NN IN NN NN NNS .</POS>
+		<Lemma>also you can hear some annoying static noise in all volume level .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm trying to keep volume at the level 3 of 9 because this noise .</Tokens>
+		<POS>PRP VBP VBG TO VB NN IN DT NN CD IN CD IN DT NN .</POS>
+		<Lemma>I be try to keep volume at the level 3 of 9 because this noise .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>LCD on-off switch is VERY small and placed on the side of monitor .</Tokens>
+		<POS>NNS JJ NN VBZ RB JJ CC VBN IN DT NN IN NN .</POS>
+		<Lemma>lcd on-off switch be very small and place on the side of monitor .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You need both hands to turn on-off monitor -LRB- one for holding , another for switching tiny knob -RRB- .</Tokens>
+		<POS>PRP VBP DT NNS TO VB JJ NN -LRB- CD IN VBG , DT IN NN JJ NN -RRB- .</POS>
+		<Lemma>you need both hand to turn on-off monitor -lrb- one for hold , another for switching tiny knob -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Camera mount is not flexible , so you have very limited option to set up angle of view .</Tokens>
+		<POS>NN VBP VBZ RB JJ , IN PRP VBP RB JJ NN TO VB RP NN IN NN .</POS>
+		<Lemma>camera mount be not flexible , so you have very limited option to set up angle of view .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Overall its looks more like kids cellphones from Toy department than a quality monitor .</Tokens>
+		<POS>RB PRP$ NNS RBR IN NNS NNS IN NNP NN IN DT NN NN .</POS>
+		<Lemma>overall its look more like kid cellphone from Toy department than a quality monitor .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This thing maybe worth 30 $ max .</Tokens>
+		<POS>DT NN RB JJ CD $ CD .</POS>
+		<Lemma>this thing maybe worth 30 $ max .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Try to see it if you can before you buy .</Tokens>
+		<POS>VB TO VB PRP IN PRP MD IN PRP VBP .</POS>
+		<Lemma>try to see it if you can before you buy .</Lemma>
+	</Sentence>
+</Document>

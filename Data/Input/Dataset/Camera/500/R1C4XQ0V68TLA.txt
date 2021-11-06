@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had no problems at all -- slips easily in a pocket ; you almost do n't know it 's there !</Tokens>
+		<POS>PRP VBP VBD DT NNS IN DT : VBZ RB IN DT NN : PRP RB VBP RB VB PRP VBZ RB .</POS>
+		<Lemma>I have have no problem at all -- slip easily in a pocket ; you almost do not know it be there !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Have n't figured out how to make it visible , but will check manual once I um , er find it .</Tokens>
+		<POS>VBP RB VBN RP WRB TO VB PRP JJ , CC MD VB NN IN PRP VBP , VBP VB PRP .</POS>
+		<Lemma>have not figure out how to make it visible , but will check manual once I um , er find it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Hope you found this review helpful !</Tokens>
+		<POS>NNP PRP VBD DT NN JJ .</POS>
+		<Lemma>Hope you find this review helpful !</Lemma>
+	</Sentence>
+</Document>

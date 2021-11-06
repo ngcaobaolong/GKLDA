@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The deal I got on these was amazing so that , combined with the fact that I love this brand of Almonds made ordering these no-brainer .</Tokens>
+		<POS>DT NN PRP VBD IN DT VBD JJ IN IN , VBN IN DT NN IN PRP VBP DT NN IN NNPS VBD VBG DT NN .</POS>
+		<Lemma>the deal I get on these be amazing so that , combine with the fact that I love this brand of Almonds make order these no-brainer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I happen to love all of Blue Diamond 's different flavors for their almonds .</Tokens>
+		<POS>PRP VBP TO VB DT IN JJ NNP POS JJ NNS IN PRP$ NNS .</POS>
+		<Lemma>I happen to love all of blue Diamond 's different flavor for they almond .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This flavor - Smokehouse is the best IMO .</Tokens>
+		<POS>DT NN : NN VBZ DT JJS NN .</POS>
+		<Lemma>this flavor - smokehouse be the best imo .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's got just the right amount of smoky flavor to it without being overbearing .</Tokens>
+		<POS>PRP VBZ VBN RB DT JJ NN IN JJ NN TO PRP IN VBG JJ .</POS>
+		<Lemma>it be get just the right amount of smoky flavor to it without be overbearing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I believe this is Blue Diamond 's best selling variety of Almonds .</Tokens>
+		<POS>PRP VBP DT VBZ JJ NNP POS JJS NN NN IN NNPS .</POS>
+		<Lemma>I believe this be blue Diamond 's best selling variety of Almonds .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>These come in 1.5 ounce packages and for me each package is good for 2-3 servings - about a handful each serving .</Tokens>
+		<POS>DT VBN IN CD NN NNS CC IN PRP DT NN VBZ JJ IN CD NNS : IN DT NN DT VBG .</POS>
+		<Lemma>these come in 1.5 ounce package and for I each package be good for 2-3 serving - about a handful each serve .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Very tasty</Tokens>
+		<POS>RB JJ</POS>
+		<Lemma>very tasty</Lemma>
+	</Sentence>
+</Document>

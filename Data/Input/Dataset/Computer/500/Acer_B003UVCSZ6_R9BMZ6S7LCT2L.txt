@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The both look great in dual screen mode with extended windows turned on .</Tokens>
+		<POS>DT CC VBP JJ IN JJ NN NN IN JJ NNS VBD RP .</POS>
+		<Lemma>the both look great in dual screen mode with extended window turn on .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>An NVIDIA graphics card makes these screens really sing and perform at their peak .</Tokens>
+		<POS>DT NNP NNS NN VBZ DT NNS RB VB CC VB IN PRP$ NN .</POS>
+		<Lemma>a NVIDIA graphic card make these screen really sing and perform at they peak .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Rather then using the default buttons on the screens to set up the resolution and color etc. .</Tokens>
+		<POS>RB RB VBG DT NN NNS IN DT NNS TO VB RP DT NN CC NN NN .</POS>
+		<Lemma>rather then use the default button on the screen to set up the resolution and color etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Use the Video card settings per screen to make them really stand out .</Tokens>
+		<POS>VB DT NNP NN NNS IN NN TO VB PRP RB VBP RP .</POS>
+		<Lemma>use the Video card setting per screen to make they really stand out .</Lemma>
+	</Sentence>
+</Document>

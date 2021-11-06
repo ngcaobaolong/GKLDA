@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is somewhat functional .</Tokens>
+		<POS>DT VBZ RB JJ .</POS>
+		<Lemma>this be somewhat functional .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I kept getting errors when I tried to transfer from a USB port but when I changed to USB 2 it worked fine .</Tokens>
+		<POS>PRP VBD VBG NNS WRB PRP VBD TO VB IN DT JJ NN CC WRB PRP VBD TO JJ CD PRP VBD NN .</POS>
+		<Lemma>I keep get error when I try to transfer from a usb port but when I change to usb 2 it work fine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not bad for the price .</Tokens>
+		<POS>RB JJ IN DT NN .</POS>
+		<Lemma>not bad for the price .</Lemma>
+	</Sentence>
+</Document>

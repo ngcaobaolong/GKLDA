@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I like it a lot .</Tokens>
+		<POS>PRP VBP PRP DT NN .</POS>
+		<Lemma>I like it a lot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I highly recommend this camera .</Tokens>
+		<POS>PRP RB VB DT NN .</POS>
+		<Lemma>I highly recommend this camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy to use and user friendly .</Tokens>
+		<POS>NNP TO VB CC NN JJ .</POS>
+		<Lemma>Easy to use and user friendly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Easy to carry as well .</Tokens>
+		<POS>NNP TO VB RB RB .</POS>
+		<Lemma>Easy to carry as well .</Lemma>
+	</Sentence>
+</Document>

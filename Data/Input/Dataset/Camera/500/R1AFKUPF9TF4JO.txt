@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I moved up from my old 4 MP Cybershot , I thought this would be a much better camera .</Tokens>
+		<POS>WRB PRP VBD RB IN PRP$ JJ CD NN NNP , PRP VBD DT MD VB DT RB JJR NN .</POS>
+		<Lemma>when I move up from my old 4 mp Cybershot , I think this would be a much better camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one takes too long to focus , so many shots are out of focus .</Tokens>
+		<POS>DT CD VBZ RB JJ TO VB , RB JJ NNS VBP IN IN NN .</POS>
+		<Lemma>this one take too long to focus , so many shot be out of focus .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The flash has a tendency to burn out the subject , seems to set exposure by the background , so faces are always washed out .</Tokens>
+		<POS>DT NN VBZ DT NN TO VB RP DT NN , VBZ TO VB NN IN DT NN , RB NNS VBP RB VBN RP .</POS>
+		<Lemma>the flash have a tendency to burn out the subject , seem to set exposure by the background , so face be always wash out .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Percentage-wise the old 4 Mp cam produced a greater percentage of usable photos .</Tokens>
+		<POS>JJ DT JJ CD NN NN VBD DT JJR NN IN JJ NNS .</POS>
+		<Lemma>percentage-wise the old 4 mp cam produce a greater percentage of usable photo .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,122 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Only been working with this netbook for the past 24 hours , mostly deleting bloatware and tweaking things for my needs .</Tokens>
+		<POS>RB VBN VBG IN DT NN IN DT JJ CD NNS , RB VBG NN CC NN NNS IN PRP$ NNS .</POS>
+		<Lemma>only be work with this netbook for the past 24 hour , mostly delete bloatware and tweaking thing for my need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Full MS Office Pro 2010 loaded smoothly , as did AVG Free , Spybot , and ATF Cleaner .</Tokens>
+		<POS>JJ NN NNP FW CD JJ RB , IN VBD NNP NNP , NNP , CC NN NN .</POS>
+		<Lemma>full m Office pro 2010 loaded smoothly , as do AVG Free , Spybot , and atf cleaner .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'll be using the Acer for cafes , travel , and presentations in some of the university courses I teach .</Tokens>
+		<POS>PRP MD VB VBG DT NNP IN NNS , NN , CC NNS IN DT IN DT NN NNS PRP VBP .</POS>
+		<Lemma>I 'll be use the Acer for cafe , travel , and presentation in some of the university course I teach .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Nothing too taxing for a computer , just basic stuff .</Tokens>
+		<POS>NN RB VBG IN DT NN , RB JJ NN .</POS>
+		<Lemma>nothing too tax for a computer , just basic stuff .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In short , I really could n't be more satisfied after a full day of use .</Tokens>
+		<POS>IN JJ , PRP RB MD RB VB RBR JJ IN DT JJ NN IN NN .</POS>
+		<Lemma>in short , I really could not be more satisfied after a full day of use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Tomorrow I 'll be doubling the RAM to add some zip , but other than that I 'm ready to roll .</Tokens>
+		<POS>NN CD MD VB VBG DT NNP TO VB DT NN , CC JJ IN IN PRP VBP JJ TO VB .</POS>
+		<Lemma>tomorrow i 'll be double the RAM to add some zip , but other than that I be ready to roll .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Any gripes have been minor enough to forget quickly .</Tokens>
+		<POS>DT NNS VBP VBN JJ RB TO VB RB .</POS>
+		<Lemma>any gripe have be minor enough to forget quickly .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The Acer is what it is , with some clear limitations , but it covers all of my simple targets in design and performance , at least so far .</Tokens>
+		<POS>DT NNP VBZ WP PRP VBZ , IN DT JJ NNS , CC PRP VBZ DT IN PRP$ JJ NNS IN NN CC NN , IN JJS RB RB .</POS>
+		<Lemma>the Acer be what it be , with some clear limitation , but it cover all of my simple target in design and performance , at least so far .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The 11.6 '' screen is , for me , the perfect size , making the unit small enough to toss in my backpack yet comfortable enough to type on and read .</Tokens>
+		<POS>DT CD '' NN VBZ , IN PRP , DT JJ NN , VBG DT NN JJ JJ TO VB IN PRP$ NN RB JJ JJ TO NN IN CC VB .</POS>
+		<Lemma>the 11.6 '' screen be , for I , the perfect size , make the unit small enough to toss in my backpack yet comfortable enough to type on and read .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And it looks sharp enough that my students wo n't snicker , which they 're otherwise prone to do when they see my lackluster computer skills .</Tokens>
+		<POS>CC PRP VBZ JJ RB IN PRP$ NNS MD RB VB , WDT PRP VBP RB JJ TO VB WRB PRP VBP PRP$ JJ NN NNS .</POS>
+		<Lemma>and it look sharp enough that my student will not snicker , which they be otherwise prone to do when they see my lackluster computer skill .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>-LRB- The Case Logic 11 '' protective netbook sleeve rounds out the package cheaply and in style . -RRB-</Tokens>
+		<POS>-LRB- DT NN NN CD '' JJ NN NN NNS IN DT NN RB CC IN NN . -RRB-</POS>
+		<Lemma>-lrb- the case logic 11 '' protective netbook sleeve round out the package cheaply and in style . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>If you 're on the fence , be sure to check the specs again carefully .</Tokens>
+		<POS>IN PRP VBP IN DT NN , VB JJ TO VB DT NNS RB RB .</POS>
+		<Lemma>if you be on the fence , be sure to check the spec again carefully .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If they cover your needs , this machine is certainly an impressive lower-end choice .</Tokens>
+		<POS>IN PRP VBP PRP$ NNS , DT NN VBZ RB DT JJ JJ NN .</POS>
+		<Lemma>if they cover you need , this machine be certainly a impressive lower-end choice .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I may pop back with an update after more use , but right now it 's all good here .</Tokens>
+		<POS>PRP MD VB RP IN DT VBP IN JJR NN , CC RB RB PRP VBZ DT JJ RB .</POS>
+		<Lemma>I may pop back with a update after more use , but right now it be all good here .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>My thanks to the many positive reviewers who opened the door .</Tokens>
+		<POS>PRP$ NNS TO DT JJ JJ NNS WP VBD DT NN .</POS>
+		<Lemma>my thanks to the many positive reviewer who open the door .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>UPDATE ... two days later and all 's well .</Tokens>
+		<POS>VB : CD NNS RB CC DT POS RB .</POS>
+		<Lemma>update ... two day later and all 's well .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Great actually .</Tokens>
+		<POS>JJ RB .</POS>
+		<Lemma>great actually .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>After watching a short YouTube video to ease the way -LRB- had never performed surgery on a laptop before -RRB- , I needed only a few minutes to double the RAM to 4GB -LRB- Crucial Tech -RRB- .</Tokens>
+		<POS>IN VBG DT JJ NNP NN TO VB DT NN -LRB- VBD RB VBN NN IN DT NN IN -RRB- , PRP VBD RB DT JJ NNS TO VB DT NNP TO NN -LRB- JJ NNP -RRB- .</POS>
+		<Lemma>after watch a short YouTube video to ease the way -lrb- have never perform surgery on a laptop before -rrb- , I need only a few minute to double the RAM to 4gb -lrb- crucial Tech -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Not bad for a noob like me .</Tokens>
+		<POS>RB JJ IN DT NN IN PRP .</POS>
+		<Lemma>not bad for a noob like I .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>And I have to admit that things are now noticeably quicker , particularly in MS Office .</Tokens>
+		<POS>CC PRP VBP TO VB DT NNS VBP RB RB JJR , RB IN NN NNP .</POS>
+		<Lemma>and I have to admit that thing be now noticeably quicker , particularly in m Office .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Feels high end .</Tokens>
+		<POS>VBZ JJ NN .</POS>
+		<Lemma>feel high end .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>An excellent netbook just got even better .</Tokens>
+		<POS>DT JJ NN RB VBD RB RBR .</POS>
+		<Lemma>a excellent netbook just get even better .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>UPDATE ... six months later and everything 's working flawlessly .</Tokens>
+		<POS>VB : CD NNS RB CC NN POS VBG RB .</POS>
+		<Lemma>update ... six month later and everything 's work flawlessly .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>All praise , no regrets .</Tokens>
+		<POS>DT NN , DT NNS .</POS>
+		<Lemma>all praise , no regret .</Lemma>
+	</Sentence>
+</Document>

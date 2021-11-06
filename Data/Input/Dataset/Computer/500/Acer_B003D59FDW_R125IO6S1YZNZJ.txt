@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is a nice size with good resolution .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN JJ NN .</POS>
+		<Lemma>this monitor be a nice size with good resolution .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>At first we did not think the base was adjustable .</Tokens>
+		<POS>IN RB PRP VBD RB VB DT NN VBD JJ .</POS>
+		<Lemma>at first we do not think the base be adjustable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In trying , we thought we were going to break the base .</Tokens>
+		<POS>IN VBG , PRP VBD PRP VBD VBG TO VB DT NN .</POS>
+		<Lemma>in try , we think we be go to break the base .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We finally got it adjusted at a good angle and are pleased with this purchase .</Tokens>
+		<POS>PRP RB VBD PRP VBN IN DT JJ NN CC VBP VBN IN DT NN .</POS>
+		<Lemma>we finally get it adjust at a good angle and be please with this purchase .</Lemma>
+	</Sentence>
+</Document>

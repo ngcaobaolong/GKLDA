@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>bought this for X-mas -LRB- so it sat in a box for 3 weeks -RRB- , then after a month of use just froze while online .</Tokens>
+		<POS>VBN DT IN NN -LRB- IN PRP VBD IN DT NN IN CD NNS -RRB- , RB IN DT NN IN NN RB VBD IN NN .</POS>
+		<Lemma>buy this for x-ma -lrb- so it sit in a box for 3 week -rrb- , then after a month of use just freeze while online .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>not amenable to ctrl-alt-del at all , and upon hard restart `` no bootable disk detected . ''</Tokens>
+		<POS>RB JJ TO NN IN DT , CC IN JJ VB `` DT JJ NN VBN . ''</POS>
+		<Lemma>not amenable to ctrl-alt-del at all , and upon hard restart `` no bootable disk detect . ''</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>acer customer service was helpful and did n't appear surprised .</Tokens>
+		<POS>NN NN NN VBD JJ CC VBD RB VB JJ .</POS>
+		<Lemma>acer customer service be helpful and do not appear surprised .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>shipping this one back for repairs ... there is another similar review from someone who appears to have bought it around the same time .</Tokens>
+		<POS>VBG DT CD NN IN NNS : EX VBZ DT JJ NN IN NN WP VBZ TO VB VBN PRP IN DT JJ NN .</POS>
+		<Lemma>ship this one back for repair ... there be another similar review from someone who appear to have buy it around the same time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>bad batch maybe ?</Tokens>
+		<POS>JJ NN RB .</POS>
+		<Lemma>bad batch maybe ?</Lemma>
+	</Sentence>
+</Document>

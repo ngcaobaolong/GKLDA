@@ -1,0 +1,132 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Consider this to be a rebuttal of the reviews of the Sony Bloggie Touch which were badly written by non-photographers , whiners , people who do n't read camera manuals , people who do n't understand that a camera needs , YES !</Tokens>
+		<POS>VB DT TO VB DT NN IN DT NNS IN DT NNP NNP NNP WDT VBD RB VBN IN NNS , NNS , NNS WP VBP RB VB NN NNS , NNS WP VBP RB VB IN DT NN VBZ , NN .</POS>
+		<Lemma>consider this to be a rebuttal of the review of the Sony Bloggie Touch which be badly write by non-photographer , whiner , people who do not read camera manual , people who do not understand that a camera need , yes !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>, light ... Like flash ?</Tokens>
+		<POS>, NN : IN VB .</POS>
+		<Lemma>, light ... like flash ?</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Get one of the thousands of cameras that feature automatic , built-in flash .</Tokens>
+		<POS>VB CD IN DT NNS IN NNS WDT VBP JJ , JJ NN .</POS>
+		<Lemma>get one of the thousand of camera that feature automatic , built-in flash .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Do you understand that a camera , even one with anti-shake features , must be held as motion-free as possible for best results , particularly in poor light ?</Tokens>
+		<POS>VBP PRP VB IN DT NN , RB CD IN JJ NNS , MD VB VBN IN NN IN JJ IN JJS NNS , RB IN JJ NN .</POS>
+		<Lemma>do you understand that a camera , even one with anti-shake feature , must be hold as motion-free as possible for best result , particularly in poor light ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Video cameras do n't use flash .</Tokens>
+		<POS>NNP NNS VBP RB VB NN .</POS>
+		<Lemma>Video camera do not use flash .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Sorry , incorporating a video light on this camera would at least quadruple it 's really handy size .</Tokens>
+		<POS>JJ , VBG DT NN NN IN DT NN MD IN JJS VB PRP VBZ RB JJ NN .</POS>
+		<Lemma>sorry , incorporate a video light on this camera would at least quadruple it be really handy size .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Do n't like the touch interface ?</Tokens>
+		<POS>VBP RB VB DT NN NN .</POS>
+		<Lemma>do not like the touch interface ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Are you a Luddite ?</Tokens>
+		<POS>VBP PRP DT NNP .</POS>
+		<Lemma>be you a Luddite ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This is the most fantastic camera interface I have ever used .</Tokens>
+		<POS>DT VBZ DT RBS JJ NN NN PRP VBP RB VBN .</POS>
+		<Lemma>this be the most fantastic camera interface I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>A touch interface like this is the main feature that makes the iPhone , Touch , and iPad so popular with tens of millions of people worldwide .</Tokens>
+		<POS>DT NN NN IN DT VBZ DT JJ NN WDT VBZ DT NNP , NNP , CC NNP RB JJ IN NNS IN NNS IN NNS RB .</POS>
+		<Lemma>a touch interface like this be the main feature that make the iPhone , Touch , and iPad so popular with ten of million of people worldwide .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The focusing is quite satisfactory - do you want a ring around the lens so you can focus yourself like twenty years ago ?</Tokens>
+		<POS>DT VBG VBZ RB JJ : VB PRP VBP DT NN IN DT NN IN PRP MD VB PRP IN CD NNS RB .</POS>
+		<Lemma>the focus be quite satisfactory - do you want a ring around the lens so you can focus yourself like twenty year ago ?</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Do you think a very , very small form factor 1080p video\/still camera which costs less than $ 160 with the touch interface making it the most easy-to-use camera of its type must do everything perfectly seeing that no camera is perfect regardless of price or class ?</Tokens>
+		<POS>VBP PRP VB DT RB , RB JJ NN NN CD NN NN WDT VBZ JJR IN $ CD IN DT NN NN VBG PRP DT RBS JJ NN IN PRP$ NN MD VB NN RB VBG IN DT NN VBZ JJ RB IN NN CC NN .</POS>
+		<Lemma>do you think a very , very small form factor 1080p video\/still camera which cost less than $ 160 with the touch interface make it the most easy-to-use camera of its type must do everything perfectly see that no camera be perfect regardless of price or class ?</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I think the ergonomics are superb just as the iPod ergonomics are superb .</Tokens>
+		<POS>PRP VBP DT NNS VBP JJ RB IN DT NN NNS VBP JJ .</POS>
+		<Lemma>I think the ergonomics be superb just as the ipod ergonomics be superb .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I like my iPod Nano for the same reasons I admire the Sony Bloggie Touch design : small , elegant , easy interface , excellent performance within the design constraints imposed by current technology .</Tokens>
+		<POS>PRP VBP PRP$ NNP NNP IN DT JJ NNS PRP VBP DT NNP NNP NNP NN : JJ , JJ , JJ NN , JJ NN IN DT NN NNS VBN IN JJ NN .</POS>
+		<Lemma>I like my iPod Nano for the same reason I admire the Sony Bloggie Touch design : small , elegant , easy interface , excellent performance within the design constraint impose by current technology .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Attach the wrist loop , hold the Bloggie as instructed in the PDF user manual -LRB- did you read that ? -RRB-</Tokens>
+		<POS>VB DT NN NN , VBP DT NN IN VBN IN DT NNP NN NN -LRB- VBD PRP VB IN . -RRB-</POS>
+		<Lemma>attach the wrist loop , hold the bloggie as instruct in the PDF user manual -lrb- do you read that ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>, practice for 30 seconds and Voilagrave; !</Tokens>
+		<POS>, NN IN CD NNS CC NN .</POS>
+		<Lemma>, practice for 30 seconds and voilagrave; !</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Success .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>success .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>If you have a tripod so cheap it does n't have a vertical flip capability , you have no right speak about tripod use .</Tokens>
+		<POS>IN PRP VBP DT NN RB JJ PRP VBZ RB VB DT JJ JJ NN , PRP VBP DT JJ VBP IN NN NN .</POS>
+		<Lemma>if you have a tripod so cheap it do not have a vertical flip capability , you have no right speak about tripod use .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>My use so far has shown the Bloggie Touch to be everything I hoped it would be in video and stills .</Tokens>
+		<POS>PRP$ NN RB RB VBZ VBN DT NNP NNP TO VB NN PRP VBD PRP MD VB IN NN CC NNS .</POS>
+		<Lemma>my use so far have show the Bloggie Touch to be everything I hope it would be in video and still .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I have numerous cameras including Nikon SLRs , Leicas , Fuji , and Canon from the days of film up to the present .</Tokens>
+		<POS>PRP VBP JJ NNS VBG NNP NNS , NNP , NNP , CC NNP IN DT NNS IN NN IN TO DT JJ .</POS>
+		<Lemma>I have numerous camera include Nikon slr , Leicas , Fuji , and Canon from the day of film up to the present .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Some photos I 've posted online have gotten tens of thousands of views .</Tokens>
+		<POS>DT NNS PRP VBP VBN NN VBP VBN NNS IN NNS IN NNS .</POS>
+		<Lemma>some photo I have post online have get ten of thousand of view .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I have been a press photographer .</Tokens>
+		<POS>PRP VBP VBN DT NN NNP .</POS>
+		<Lemma>I have be a press photographer .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I love cameras and am inclined to say there are no bad cameras , only bad photographers .</Tokens>
+		<POS>PRP VBP NNS CC VBP VBN TO VB EX VBP DT JJ NNS , RB JJ NNS .</POS>
+		<Lemma>I love camera and be incline to say there be no bad camera , only bad photographer .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Having a camera with oneself and knowing how to use it with style and making use of its features , whatever they may be , is the mark of a photographer .</Tokens>
+		<POS>VBG DT NN IN NN CC VBG WRB TO VB PRP IN NN CC VBG NN IN PRP$ NNS , WDT PRP MD VB , VBZ DT NN IN DT NNP .</POS>
+		<Lemma>have a camera with oneself and know how to use it with style and make use of its feature , whatever they may be , be the mark of a photographer .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>You want quicker focus , get a Leica M9 and focus by hand .</Tokens>
+		<POS>PRP VBP JJR NN , VB DT NNP NN CC NN IN NN .</POS>
+		<Lemma>you want quicker focus , get a Leica m9 and focus by hand .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Get a Nikon D3 and a few thousands of dollars worth of lenses and other accessories to get the features you think the Bloggie Touch should have but does n't .</Tokens>
+		<POS>VB DT NNP NN CC DT JJ NNS IN NNS NN IN NNS CC JJ NNS TO VB DT NNS PRP VBP DT NNP NNP MD VB CC VBZ RB .</POS>
+		<Lemma>get a Nikon d3 and a few thousand of dollar worth of lens and other accessory to get the feature you think the Bloggie Touch should have but do not .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was hesitant to purchase a large item like this online , but wow ... what a terrific value !</Tokens>
+		<POS>PRP VBD JJ TO VB DT JJ NN IN DT NN , CC NN : WP DT JJ NN .</POS>
+		<Lemma>I be hesitant to purchase a large item like this online , but wow ... what a terrific value !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The colors are clear and precise .</Tokens>
+		<POS>DT NNS VBP JJ CC JJ .</POS>
+		<Lemma>the color be clear and precise .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was very simple , fast and easy to install , even for a novice like me .</Tokens>
+		<POS>PRP VBD RB JJ , JJ CC JJ TO VB , RB IN DT NN IN PRP .</POS>
+		<Lemma>it be very simple , fast and easy to install , even for a novice like I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I like that I have more room on my desk to work , and that the view is larger .</Tokens>
+		<POS>PRP VBP IN PRP VBP JJR NN IN PRP$ NN TO VB , CC IN DT NN VBZ JJR .</POS>
+		<Lemma>I like that I have more room on my desk to work , and that the view be larger .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's a great idea for someone who 's older or their vision is unclear .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN NN WP VBZ JJR CC PRP$ NN VBZ JJ .</POS>
+		<Lemma>it be a great idea for someone who be older or they vision be unclear .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am very happy that I bought this item and would highly recommend it to you !</Tokens>
+		<POS>PRP VBP RB JJ IN PRP VBD DT NN CC MD RB VB PRP TO PRP .</POS>
+		<Lemma>I be very happy that I buy this item and would highly recommend it to you !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera has a major design flaw .</Tokens>
+		<POS>DT NN VBZ DT JJ NN NN .</POS>
+		<Lemma>this camera have a major design flaw .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The front of the lens is threaded for what appears to be 52mm threaded accessories .</Tokens>
+		<POS>DT NN IN DT NN VBZ VBN IN WP VBZ TO VB JJ JJ NNS .</POS>
+		<Lemma>the front of the lens be thread for what appear to be 52mm threaded accessory .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However the thread is not a standard pitch and 52mm accessories such as filters and lens shades will not attach .</Tokens>
+		<POS>RB DT NN VBZ RB DT JJ NN CC JJ NNS JJ IN NNS CC NN NNS MD RB VB .</POS>
+		<Lemma>however the thread be not a standard pitch and 52mm accessory such as filter and lens shades will not attach .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Canon does make a filter adapter that bayonets on the outside of the lens but it requires you to use a 67mm filter .</Tokens>
+		<POS>NNP VBZ VB DT NN NN WDT VBZ IN DT NN IN DT NN CC PRP VBZ PRP TO VB DT JJ NN .</POS>
+		<Lemma>Canon do make a filter adapter that bayonet on the outside of the lens but it require you to use a 67mm filter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This makes the lens cap useless and destroys the relatively compact lines of the camera .</Tokens>
+		<POS>DT VBZ DT NN NN JJ CC VBZ DT RB JJ NNS IN DT NN .</POS>
+		<Lemma>this make the lens cap useless and destroy the relatively compact line of the camera .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In addition when the filter adapter is mounted you can not use the lens shade .</Tokens>
+		<POS>IN NN WRB DT NN NN VBZ VBN PRP MD RB VB DT NN NN .</POS>
+		<Lemma>in addition when the filter adapter be mount you can not use the lens shade .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I called Canon about this they told me this was a simple point and shoot camera so they did n't think it was important to be able to mount a filter and lens shade together .</Tokens>
+		<POS>WRB PRP VBD NNP IN DT PRP VBD PRP DT VBD DT JJ NN CC VB NN IN PRP VBD RB VB PRP VBD JJ TO VB JJ TO VB DT NN CC NN NN RB .</POS>
+		<Lemma>when I call Canon about this they tell I this be a simple point and shoot camera so they do not think it be important to be able to mount a filter and lens shade together .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Oddly Canon describes this as a `` High End Advanced Digital Camera '' on their website .</Tokens>
+		<POS>RB NNP VBZ DT IN DT `` JJ NN NNP NNP NNP '' IN PRP$ NN .</POS>
+		<Lemma>oddly Canon describe this as a `` high end Advanced Digital Camera '' on they website .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This IS an advanced `` bridge '' camera designed for advanced amateurs and pros .</Tokens>
+		<POS>DT VBZ DT JJ `` NN '' NN VBN IN JJ NNS CC NNS .</POS>
+		<Lemma>this be a advanced `` bridge '' camera design for advanced amateur and pro .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>When I posted this review on Canon 's sight they sent me an e-mail stating they were deleting my review .</Tokens>
+		<POS>WRB PRP VBD DT NN IN NNP POS NN PRP VBD PRP DT JJ VBG PRP VBD VBG PRP$ NN .</POS>
+		<Lemma>when I post this review on Canon 's sight they send I a e-mail state they be delete my review .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I guess they ca n't handle the truth .</Tokens>
+		<POS>PRP VBP PRP MD RB VB DT NN .</POS>
+		<Lemma>I guess they can not handle the truth .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>When I asked Canon what the front threads were for they stated they were auxiliary lenses even though Canon does n't make any for this camera .</Tokens>
+		<POS>WRB PRP VBD NNP WP DT JJ NNS VBD IN PRP VBD PRP VBD JJ NNS RB IN NNP VBZ RB VB DT IN DT NN .</POS>
+		<Lemma>when I ask Canon what the front thread be for they state they be auxiliary lens even though Canon do not make any for this camera .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Third-party lenses are all designed for standard 52mm thread pitch and with a focal length range of 24mm to 840mm , what else would you need ?</Tokens>
+		<POS>JJ NNS VBP DT VBN IN JJ JJ NN NN CC IN DT JJ NN NN IN CD TO CD , WP RB MD PRP VB .</POS>
+		<Lemma>third-party lens be all design for standard 52mm thread pitch and with a focal length range of 24mm to 840mm , what else would you need ?</Lemma>
+	</Sentence>
+</Document>

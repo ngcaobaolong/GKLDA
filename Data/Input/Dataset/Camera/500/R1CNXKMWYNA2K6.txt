@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very good WP camcorder .</Tokens>
+		<POS>RB JJ NN NN .</POS>
+		<Lemma>very good wp camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I used it snorkeling in Maui , and the quality of video is very good .</Tokens>
+		<POS>PRP VBD PRP NN IN NNP , CC DT NN IN NN VBZ RB JJ .</POS>
+		<Lemma>I use it snorkeling in Maui , and the quality of video be very good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Better than I expected .</Tokens>
+		<POS>RBR IN PRP VBD .</POS>
+		<Lemma>better than I expect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Easy to use and load to laptop .</Tokens>
+		<POS>NNP TO VB CC VB TO NN .</POS>
+		<Lemma>Easy to use and load to laptop .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I `` m glad I bought it .</Tokens>
+		<POS>PRP `` NN JJ PRP VBD PRP .</POS>
+		<Lemma>I `` m glad I buy it .</Lemma>
+	</Sentence>
+</Document>

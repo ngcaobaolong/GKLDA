@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Es una mini laptop excelente .</Tokens>
+		<POS>NNS FW FW NN NN .</POS>
+		<Lemma>e una mini laptop excelente .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Completamente nueva , la compr&eacute; a Beach Audio porque solo venden productos brand new .</Tokens>
+		<POS>NNP NNP , NNP VBD DT NNP NNP NN NN NN NNS NN JJ .</POS>
+		<Lemma>Completamente nueva , la compr&eacute; a Beach Audio porque solo venden producto brand new .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Efectivamente , no tengo ninguna queja .</Tokens>
+		<POS>NNP , DT NN FW FW .</POS>
+		<Lemma>Efectivamente , no tengo ninguna queja .</Lemma>
+	</Sentence>
+</Document>

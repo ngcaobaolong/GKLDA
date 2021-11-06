@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased 2 Acer 23 '' monitors priced at $ 50 each .</Tokens>
+		<POS>PRP VBD CD NNP CD '' VBZ VBN IN $ CD DT .</POS>
+		<Lemma>I purchase 2 Acer 23 '' monitor price at $ 50 each .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The order was confirmed .</Tokens>
+		<POS>DT NN VBD VBN .</POS>
+		<Lemma>the order be confirm .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The next day the order was canceled and the monitor is now listed at $ 159 !!!</Tokens>
+		<POS>DT JJ NN DT NN VBD VBN CC DT NN VBZ RB VBN IN $ CD CD</POS>
+		<Lemma>the next day the order be cancel and the monitor be now list at $ 159 !!!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I feel like I have been baited and switched .</Tokens>
+		<POS>PRP VBP IN PRP VBP VBN VBN CC VBN .</POS>
+		<Lemma>I feel like I have be bait and switch .</Lemma>
+	</Sentence>
+</Document>

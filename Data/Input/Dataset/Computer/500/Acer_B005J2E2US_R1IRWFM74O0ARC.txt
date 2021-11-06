@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a Christmas gift for my wife .</Tokens>
+		<POS>DT VBD DT NNP NN IN PRP$ NN .</POS>
+		<Lemma>this be a Christmas gift for my wife .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She likes to be able to check her mail and play FreeCell at other places than at her desktop .</Tokens>
+		<POS>PRP VBZ TO VB JJ TO VB PRP$ NN CC VB NNP IN JJ NNS IN IN PRP$ NN .</POS>
+		<Lemma>she like to be able to check she mail and play FreeCell at other place than at she desktop .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This little computer does the job and she is happy with it .</Tokens>
+		<POS>DT JJ NN VBZ DT NN CC PRP VBZ JJ IN PRP .</POS>
+		<Lemma>this little computer do the job and she be happy with it .</Lemma>
+	</Sentence>
+</Document>

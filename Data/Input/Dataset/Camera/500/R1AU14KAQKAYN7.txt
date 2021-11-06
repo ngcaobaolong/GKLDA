@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera was a great purchase It is very easy to use and I found it took great clear pictures .</Tokens>
+		<POS>DT NN VBD DT JJ NN PRP VBZ RB JJ TO VB CC PRP VBD PRP VBD JJ JJ NNS .</POS>
+		<Lemma>this camera be a great purchase it be very easy to use and I find it take great clear picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would very much reccomend this camera .</Tokens>
+		<POS>PRP MD RB RB NN DT NN .</POS>
+		<Lemma>I would very much reccomend this camera .</Lemma>
+	</Sentence>
+</Document>

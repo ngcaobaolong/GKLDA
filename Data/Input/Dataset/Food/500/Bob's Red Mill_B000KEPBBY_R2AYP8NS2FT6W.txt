@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This soup mix provides a good mix of veggies , grain and pasta .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN IN NNS , NN CC NN .</POS>
+		<Lemma>this soup mix provide a good mix of veggy , grain and pasta .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's tasty and easy to prepare .</Tokens>
+		<POS>PRP VBZ JJ CC JJ TO VB .</POS>
+		<Lemma>it be tasty and easy to prepare .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Thanks for providing a great product .</Tokens>
+		<POS>NNS IN VBG DT JJ NN .</POS>
+		<Lemma>thanks for provide a great product .</Lemma>
+	</Sentence>
+</Document>

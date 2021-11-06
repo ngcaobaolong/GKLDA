@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This mix contains a lot of bean flour , which we apparently do not like , even without the bean flour though , this mix would still be awful .</Tokens>
+		<POS>DT NN VBZ DT NN IN NN NN , WDT PRP RB VBP RB VB , RB IN DT NN NN RB , DT NN MD RB VB JJ .</POS>
+		<Lemma>this mix contain a lot of bean flour , which we apparently do not like , even without the bean flour though , this mix would still be awful .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My husbands exact words when he tried the bread were , `` It tastes like bile . ''</Tokens>
+		<POS>PRP$ NNS JJ NNS WRB PRP VBD DT NN VBD , `` PRP VBZ IN NN . ''</POS>
+		<Lemma>my husband exact word when he try the bread be , `` it taste like bile . ''</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It smelled awful too .</Tokens>
+		<POS>PRP VBD JJ RB .</POS>
+		<Lemma>it smell awful too .</Lemma>
+	</Sentence>
+</Document>

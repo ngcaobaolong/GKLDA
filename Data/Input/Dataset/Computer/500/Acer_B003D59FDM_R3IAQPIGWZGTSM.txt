@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is great the right size for my computer desk and without speakers on each side is a plus for it to not take up space for my external computer speakers .</Tokens>
+		<POS>DT NN VBZ JJ DT JJ NN IN PRP$ NN NN CC IN NNS IN DT NN VBZ DT NN IN PRP TO RB VB RP NN IN PRP$ JJ NN NNS .</POS>
+		<Lemma>this monitor be great the right size for my computer desk and without speaker on each side be a plus for it to not take up space for my external computer speaker .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great gadget .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great gadget .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a well made charger .</Tokens>
+		<POS>DT VBZ DT RB VBN NN .</POS>
+		<Lemma>this be a well make charger .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The best part of it is that you can charge your device with AA batteries , a 9v battery -LRB- great during power failures -RRB- , AC or through a cigarette lighter socket in your car .</Tokens>
+		<POS>DT JJS NN IN PRP VBZ IN PRP MD VB PRP$ NN IN NN NNS , DT NN NN -LRB- JJ IN NN NNS -RRB- , NN CC IN DT NN JJR NN IN PRP$ NN .</POS>
+		<Lemma>the best part of it be that you can charge you device with aa battery , a 9v battery -lrb- great during power failure -rrb- , ac or through a cigarette lighter socket in you car .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I showed this to people at work , they want one .</Tokens>
+		<POS>PRP VBD DT TO NNS IN NN , PRP VBP CD .</POS>
+		<Lemma>I show this to people at work , they want one .</Lemma>
+	</Sentence>
+</Document>

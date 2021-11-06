@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>THIS IS A GREAT NETBOOK .</Tokens>
+		<POS>NNP VBZ DT JJ NN .</POS>
+		<Lemma>THIS be a great netbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>KEYBOARD SIZE IS GOOD , SCREEN SIZE IS JUST RIGHT .</Tokens>
+		<POS>NN NN VBZ NNP , NNP NNP VBZ RB NN .</POS>
+		<Lemma>keyboard size be GOOD , SCREEN SIZE be just right .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I DON ; T HAVE TO SQUINT .</Tokens>
+		<POS>PRP VBP : NN NN TO NNP .</POS>
+		<Lemma>I don ; t have to SQUINT .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>EXCELLENT BATTERY LIFE .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>excellent battery life .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>ONLY PROBLEM IS SPEAKER VOLUME AT TIMES .</Tokens>
+		<POS>NNP NN VBZ NNP NNP IN NNP .</POS>
+		<Lemma>ONLY problem be SPEAKER VOLUME at TIMES .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>WOULD I BUY IT AGAIN ?</Tokens>
+		<POS>NNP PRP VBP PRP RB .</POS>
+		<Lemma>WOULD I buy it again ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>YES , YES , YES .</Tokens>
+		<POS>RB , NNP , NNP .</POS>
+		<Lemma>yes , YES , YES .</Lemma>
+	</Sentence>
+</Document>

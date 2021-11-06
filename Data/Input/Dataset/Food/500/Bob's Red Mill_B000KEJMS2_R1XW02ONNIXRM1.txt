@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens><a href="http://www.amazon.com/gp/product/B000KEJMS2/ref=cm_cr_asin_lnk/187-7799898-0320028"> Bob 's Red Mill Red Lentils , 27-Ounce Units -LRB- Pack of 4 -RRB- </a> I 've enjoyed most of Bob Red Mill 's products .</Tokens>
+		<POS>NN NNP POS NNP NNP NNP NNPS , NNP NNS -LRB- NN IN CD -RRB- NN PRP VBP VBN JJS IN NNP NNP NNP POS NNS .</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b000kejms2/ref=cm_cr_asin_lnk/187-7799898-0320028"> Bob 's Red Mill Red Lentils , 27-Ounce unit -lrb- pack of 4 -rrb- </a> I have enjoy most of Bob Red Mill 's product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>His products are guaranteed nutritious , high quality , and very healthy .</Tokens>
+		<POS>PRP$ NNS VBP VBN JJ , JJ NN , CC RB JJ .</POS>
+		<Lemma>he product be guarantee nutritious , high quality , and very healthy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm a frequent buyer of his products , such as wheat gluten , lentils , whole wheat flour , etc. .</Tokens>
+		<POS>PRP VBP DT JJ NN IN PRP$ NNS , JJ IN NN NN , NNS , JJ NN NN , FW .</POS>
+		<Lemma>I be a frequent buyer of he product , such as wheat gluten , lentil , whole wheat flour , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you 've never tried his products , you should try some and you 'll discover that his products are true to his philosophy .</Tokens>
+		<POS>IN PRP VBP RB VBN PRP$ NNS , PRP MD VB DT CC PRP MD VB IN PRP$ NNS VBP JJ TO PRP$ NN .</POS>
+		<Lemma>if you have never try he product , you should try some and you 'll discover that he product be true to he philosophy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Would definitely buy again and again .</Tokens>
+		<POS>MD RB VB RB CC RB .</POS>
+		<Lemma>would definitely buy again and again .</Lemma>
+	</Sentence>
+</Document>

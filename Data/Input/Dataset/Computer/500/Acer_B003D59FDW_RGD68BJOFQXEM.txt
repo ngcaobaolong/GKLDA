@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As my previous monitor gave up the ghost , I was torn between buying a new computer or just replacing the monitor .</Tokens>
+		<POS>IN PRP$ JJ NN VBD RP DT NN , PRP VBD VBN IN VBG DT JJ NN CC RB VBG DT NN .</POS>
+		<Lemma>as my previous monitor give up the ghost , I be tear between buy a new computer or just replace the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I chose the latter and am very happy to keep $ $ $ in my pocket ... for now .</Tokens>
+		<POS>PRP VBD DT JJ CC VBP RB JJ TO VB $ $ $ IN PRP$ NN : IN RB .</POS>
+		<Lemma>I choose the latter and be very happy to keep $ $ $ in my pocket ... for now .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This monitor outperforms my old one and the wide screen is so much nicer !</Tokens>
+		<POS>DT NN VBZ PRP$ JJ CD CC DT JJ NN VBZ RB JJ JJR .</POS>
+		<Lemma>this monitor outperform my old one and the wide screen be so much nicer !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I did n't think I could get such a nice unit for under $ 100 but I am very happy with it .</Tokens>
+		<POS>PRP VBD RB VB PRP MD VB PDT DT JJ NN IN IN $ CD CC PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>I do not think I could get such a nice unit for under $ 100 but I be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Colors are vivid and the size seems perfect to me for a desktop .</Tokens>
+		<POS>NNS VBP JJ CC DT NN VBZ JJ TO PRP IN DT NN .</POS>
+		<Lemma>color be vivid and the size seem perfect to I for a desktop .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've always had good luck with Acer products .</Tokens>
+		<POS>PRP VBP RB VBN JJ NN IN NN NNS .</POS>
+		<Lemma>I have always have good luck with acer product .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This is no exception .</Tokens>
+		<POS>DT VBZ DT NN .</POS>
+		<Lemma>this be no exception .</Lemma>
+	</Sentence>
+</Document>

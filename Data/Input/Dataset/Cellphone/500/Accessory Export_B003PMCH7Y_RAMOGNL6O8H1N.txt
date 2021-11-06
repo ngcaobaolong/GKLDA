@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This charger does exactly what it 's meant to do - charge any micro-usb phone\/device using the car outlet .</Tokens>
+		<POS>DT NN VBZ RB WP PRP VBZ VBN TO VB : VB DT JJ NN VBG DT NN NN .</POS>
+		<Lemma>this charger do exactly what it be mean to do - charge any micro-usb phone\/device use the car outlet .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great buy , great value .</Tokens>
+		<POS>JJ NN , JJ NN .</POS>
+		<Lemma>great buy , great value .</Lemma>
+	</Sentence>
+</Document>

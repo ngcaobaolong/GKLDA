@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was ordering the red lentils because they were ` split ' and I liked the consistency for certain recipes .</Tokens>
+		<POS>PRP VBD VBG DT JJ NNS IN PRP VBD `` VBN '' CC PRP VBD DT NN IN JJ NNS .</POS>
+		<Lemma>I be order the red lentil because they be ` split ' and I like the consistency for certain recipe .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I signed up for subscribe and save but now it seems the ones that arrive are red lentils , but not split .</Tokens>
+		<POS>PRP VBD RP IN VB CC VB CC RB PRP VBZ DT NNS WDT VBP VBP JJ NNS , CC RB NN .</POS>
+		<Lemma>I sign up for subscribe and save but now it seem the one that arrive be red lentil , but not split .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For the price I can just buy brown lentils at my local store and save money .</Tokens>
+		<POS>IN DT NN PRP MD RB VB JJ NNS IN PRP$ JJ NN CC VB NN .</POS>
+		<Lemma>for the price I can just buy brown lentil at my local store and save money .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , the split red lentils were a great find !</Tokens>
+		<POS>RB , DT NN JJ NNS VBD DT JJ VB .</POS>
+		<Lemma>however , the split red lentil be a great find !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Did anyone else notice this ?</Tokens>
+		<POS>VBD NN JJ NN DT .</POS>
+		<Lemma>do anyone else notice this ?</Lemma>
+	</Sentence>
+</Document>

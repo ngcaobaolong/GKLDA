@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this device to mostly receive calls on my iPhone hands free as the dangers of cell phone use while driving are hazardous .</Tokens>
+		<POS>PRP VBD DT NN TO RB VB NNS IN PRP$ NNP NNS JJ IN DT NNS IN NN NN NN IN VBG VBP JJ .</POS>
+		<Lemma>I purchase this device to mostly receive call on my iPhone hand free as the danger of cell phone use while drive be hazardous .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The device works well receiving calls .</Tokens>
+		<POS>DT NN VBZ RB VBG NNS .</POS>
+		<Lemma>the device work well receive call .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Making calls is awkward and seems to be best if the contact list on the phone is explicit enough for the voice dial to function .</Tokens>
+		<POS>VBG NNS VBZ JJ CC VBZ TO VB RB IN DT NN NN IN DT NN VBZ JJ RB IN DT NN NN TO VB .</POS>
+		<Lemma>make call be awkward and seem to be best if the contact list on the phone be explicit enough for the voice dial to function .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The device definitely supports voice dial for the iPhone .</Tokens>
+		<POS>DT NN RB VBZ NN NN IN DT NNP .</POS>
+		<Lemma>the device definitely support voice dial for the iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I really like the fact that when I leave the iPhone in my pocket , get in the car and start it , pairing immediately happens within 10 seconds , and all is automatically functional .</Tokens>
+		<POS>PRP RB IN DT NN IN WRB PRP VBP DT NNP IN PRP$ NN , VB IN DT NN CC VB PRP , VBG RB VBZ IN CD NNS , CC DT VBZ RB JJ .</POS>
+		<Lemma>I really like the fact that when I leave the iPhone in my pocket , get in the car and start it , pair immediately happen within 10 seconds , and all be automatically functional .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Using the device to play music is very good too .</Tokens>
+		<POS>VBG DT NN TO VB NN VBZ RB JJ RB .</POS>
+		<Lemma>use the device to play music be very good too .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Pros are the easy setup , automatic pairing , high quality voice calling and support for voice dialing .</Tokens>
+		<POS>NNS VBP DT JJ NN , JJ NN , JJ NN NN VBG CC NN IN NN NN .</POS>
+		<Lemma>pro be the easy setup , automatic pairing , high quality voice call and support for voice dialing .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Cons are low volume , goose-neck could be a little longer and firmer , volume could be stronger .</Tokens>
+		<POS>NNS VBP JJ NN , NN MD VB DT RB JJR CC JJR , NN MD VB JJR .</POS>
+		<Lemma>con be low volume , goose-neck could be a little longer and firmer , volume could be stronger .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Definitely recommend and great value of price to performance .</Tokens>
+		<POS>RB VB CC JJ NN IN NN TO NN .</POS>
+		<Lemma>definitely recommend and great value of price to performance .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Let me start by saying that I used to live in Seattle and traveled the worlds to acquire a taste for both good and bad coffee .</Tokens>
+		<POS>VB PRP VB IN VBG IN PRP VBD TO VB IN NNP CC VBD DT NNS TO VB DT NN IN DT JJ CC JJ NN .</POS>
+		<Lemma>let I start by say that I use to live in Seattle and travel the world to acquire a taste for both good and bad coffee .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After some experimentation , my favorite use for these beans is iced coffee - a simple espresso shot with ice loaded , then cold water poured in to fill the cup .</Tokens>
+		<POS>IN DT NN , PRP$ JJ NN IN DT NNS VBZ JJ NN : DT JJ NN VBN IN NN VBN , RB JJ NN VBD IN TO VB DT NN .</POS>
+		<Lemma>after some experimentation , my favorite use for these bean be iced coffee - a simple espresso shoot with ice load , then cold water pour in to fill the cup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The dark flavor comes alive this way in my opinion .</Tokens>
+		<POS>DT JJ NN VBZ JJ DT NN IN PRP$ NN .</POS>
+		<Lemma>the dark flavor come alive this way in my opinion .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The espresso shot is good , but I have tasted better .</Tokens>
+		<POS>DT NN NN VBZ JJ , CC PRP VBP VBN RBR .</POS>
+		<Lemma>the espresso shot be good , but I have taste better .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Drip coffee is okay , but Americano works better .</Tokens>
+		<POS>VB NN VBZ JJ , CC NNP VBZ RBR .</POS>
+		<Lemma>drip coffee be okay , but Americano work better .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For some reason , I ca n't pull full flavored latte - does n't seem to pair too well with milk -LRB- ref .</Tokens>
+		<POS>IN DT NN , PRP MD RB VB JJ JJ NN : VBZ RB VB TO VB RB RB IN NN -LRB- NN .</POS>
+		<Lemma>for some reason , I can not pull full flavored latte - do not seem to pair too well with milk -lrb- ref .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Starbucks or Gaggia Intenso works great -RRB- .</Tokens>
+		<POS>NNP CC NNP NNP VBZ JJ -RRB- .</POS>
+		<Lemma>Starbucks or Gaggia Intenso work great -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Note to self : buy these on sale , but not at regular price .</Tokens>
+		<POS>VB TO NN : VB DT IN NN , CC RB IN JJ NN .</POS>
+		<Lemma>note to self : buy these on sale , but not at regular price .</Lemma>
+	</Sentence>
+</Document>

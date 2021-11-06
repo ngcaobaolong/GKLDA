@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sony 's first 3D camera makes a good impression but leaves room for improvement .</Tokens>
+		<POS>NNP POS JJ NN NN VBZ DT JJ NN CC VBZ NN IN NN .</POS>
+		<Lemma>Sony 's first 3d camera make a good impression but leave room for improvement .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The 3D Bloggie takes good quality 1080P 2D and 3D video that may be uploaded to Youtube Facebook with just a few clicks .</Tokens>
+		<POS>DT NN NN VBZ JJ NN NN NN CC NN NN WDT MD VB VBN TO NNP CC NNP IN RB DT JJ NNS .</POS>
+		<Lemma>the 3d bloggie take good quality 1080p 2d and 3d video that may be upload to Youtube Facebook with just a few click .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This camera supports Youtube 3D .</Tokens>
+		<POS>DT NN VBZ NNP NN .</POS>
+		<Lemma>this camera support Youtube 3d .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Video recorded in 3D mode will automatically be displayed in 3D on Youtube and viewed with colored glasses , 3D devices , or just plain 2D .</Tokens>
+		<POS>NNP VBD IN NN NN MD RB VB VBN IN NN IN NNP CC VBN IN VBN NNS , NN NNS , CC RB JJ NN .</POS>
+		<Lemma>Video record in 3d mode will automatically be display in 3d on Youtube and view with color glass , 3d device , or just plain 2d .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The stereo 3D effect is good although not as strong or versatile as the Fuji W3 camera .</Tokens>
+		<POS>DT NN NN NN VBZ JJ IN RB RB JJ CC JJ IN DT NNP NNP NN .</POS>
+		<Lemma>the stereo 3d effect be good although not as strong or versatile as the Fuji W3 camera .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Sony can shoot 3D at closer distances than the Fuji , and seems suitable for close ups and 3D Video Blogging .</Tokens>
+		<POS>NNP MD VB NN IN JJR NNS IN DT NNP , CC VBZ JJ IN JJ NNS CC NN NNP NNP .</POS>
+		<Lemma>Sony can shoot 3d at closer distance than the Fuji , and seem suitable for close up and 3d Video Blogging .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The LCD looks poor in 3D mode , small and pixelated , does not show much 3D effect or pop out .</Tokens>
+		<POS>DT NNS VBZ JJ IN NN NN , JJ CC JJ , VBZ RB VB JJ NN NN CC VB RP .</POS>
+		<Lemma>the lcd look poor in 3d mode , small and pixelated , do not show much 3d effect or pop out .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The 3D Bloggie is a good choice for anyone that has access to a 3DTV or 3D Monitor .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN IN NN WDT VBZ NN TO DT NN CC NN NNP .</POS>
+		<Lemma>the 3d bloggie be a good choice for anyone that have access to a 3dtv or 3d Monitor .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It can play back 3D video directly to a 3DTV using it 's built in mini HDMI port , Video looks good on a 3DTV .</Tokens>
+		<POS>PRP MD VB RB JJ NN RB TO DT NN VBG PRP VBZ VBN IN JJ NN NN , NNP VBZ JJ IN DT NN .</POS>
+		<Lemma>it can play back 3d video directly to a 3dtv use it be build in mini hdmus port , Video look good on a 3dtv .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Photos and Video may also be viewed in 3D on the PC using a program called Stereoscopic player .</Tokens>
+		<POS>NNS CC NNP MD RB VB VBN IN NN IN DT NN VBG DT NN VBN JJ NN .</POS>
+		<Lemma>photo and Video may also be view in 3d on the pc use a program call stereoscopic player .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Pros : Highest resolution 3D video in its class -LRB- 960x1080 lines per eye -RRB- , small , light easy to use , side by side 3D format may be edited and shared easily , built in USB port , 60FPS 720HD -LRB- 2D -RRB- 1080P -LRB- 2D -RRB- , low cost , built in memory .</Tokens>
+		<POS>NNS : JJS NN NN NN IN PRP$ NN -LRB- NN NNS IN NN -RRB- , JJ , JJ CC JJ TO VB , NN IN NN NN NN MD VB VBN CC VBN RB , VBN IN JJ NN , NN NN -LRB- NN -RRB- NN -LRB- NN -RRB- , JJ NN , VBN IN NN .</POS>
+		<Lemma>pro : highest resolution 3d video in its class -lrb- 960x1080 line per eye -rrb- , small , light easy to use , side by side 3d format may be edit and share easily , build in usb port , 60fp 720hd -lrb- 2d -rrb- 1080p -lrb- 2d -rrb- , low cost , build in memory .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Cons : Small and poor quality Viewfinder -LRB- in 3D mode -RRB- , short battery life in 3D mode -LRB- less than an hour -RRB- , no flash , replaceable battery , lens cover , optical zoom , 3D Adjustment .</Tokens>
+		<POS>NNS : JJ CC JJ NN NN -LRB- IN NN NN -RRB- , JJ NN NN IN NN NN -LRB- JJR IN DT NN -RRB- , DT NN , JJ NN , NN NN , JJ NN , NN NNP .</POS>
+		<Lemma>con : small and poor quality viewfinder -lrb- in 3d mode -rrb- , short battery life in 3d mode -lrb- less than a hour -rrb- , no flash , replaceable battery , lens cover , optical zoom , 3d Adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>VS the Fuji W3 : Fuji 's 3D LCD is fantastic .</Tokens>
+		<POS>IN DT NNP NNP : NNP POS NN NNS VBZ JJ .</POS>
+		<Lemma>vs the Fuji W3 : Fuji 's 3d lcd be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Fuji takes higher quality pictures and has more features .</Tokens>
+		<POS>NNP VBZ JJR NN NNS CC VBZ JJR NNS .</POS>
+		<Lemma>Fuji take higher quality picture and have more feature .</Lemma>
+	</Sentence>
+</Document>

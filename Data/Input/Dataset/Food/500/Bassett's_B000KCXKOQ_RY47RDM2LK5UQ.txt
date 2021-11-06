@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I lived in Scotland for a year and absolutely fell in love with Jelly Babies !</Tokens>
+		<POS>PRP VBD IN NNP IN DT NN CC RB VBD IN NN IN NNP NNS .</POS>
+		<Lemma>I live in Scotland for a year and absolutely fall in love with Jelly baby !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The blackcurrant flavor baby is fantastic .</Tokens>
+		<POS>DT JJ NN NN VBZ JJ .</POS>
+		<Lemma>the blackcurrant flavor baby be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Wish we were able to run down to the store and buy them here in Texas !!!</Tokens>
+		<POS>NNP PRP VBD JJ TO VB RP TO DT NN CC VB PRP RB IN NNP NN</POS>
+		<Lemma>Wish we be able to run down to the store and buy they here in Texas !!!</Lemma>
+	</Sentence>
+</Document>

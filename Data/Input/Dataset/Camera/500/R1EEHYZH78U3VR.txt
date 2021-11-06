@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had it for about a month now and while I have n't quite conquered everything on it and I have n't quite got it all down in my head yet , I 've taken some really nice shots with it so far .</Tokens>
+		<POS>PRP VBP VBD PRP IN IN DT NN RB CC IN PRP VBP RB RB VBD NN IN PRP CC PRP VBP RB RB VBD PRP DT RP IN PRP$ NN RB , PRP VBP VBN DT RB JJ NNS IN PRP RB RB .</POS>
+		<Lemma>I have have it for about a month now and while I have not quite conquer everything on it and I have not quite get it all down in my head yet , I have take some really nice shot with it so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm a former Panasonic FZ user who started back in '05 with an FZ20 and as Panasonic made improvements on their FZ line , I continued to upgrade as well .</Tokens>
+		<POS>PRP VBP DT JJ NNP NNP NN WP VBD RB IN CD IN DT NN CC IN NNP VBD NNS IN PRP$ NN NN , PRP VBD TO VB RB RB .</POS>
+		<Lemma>I be a former Panasonic FZ user who start back in '05 with a fz20 and as Panasonic make improvement on they fz line , I continue to upgrade as well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>From the FZ20 , I moved up to the FZ28 and then the FZ35 and finally , I got the FZ100 , which I use as a expensive paperweight .</Tokens>
+		<POS>IN DT NN , PRP VBD RB TO DT NN CC RB DT NN CC RB , PRP VBD DT NN , WDT PRP VBP IN DT JJ NN .</POS>
+		<Lemma>from the fz20 , I move up to the fz28 and then the fz35 and finally , I get the fz100 , which I use as a expensive paperweight .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After the FZ100 debacle , I started looking for a new brand of SuperZoom and after 2 previous hiccups buying and returning highly hyped , but not delivering cameras , I came across the SX40 HS at my local club store and bought it just on it 's specs and hoping the Canon name would deliver .</Tokens>
+		<POS>IN DT NN NN , PRP VBD VBG IN DT JJ NN IN NNP CC IN CD JJ NNS VBG CC VBG RB JJ , CC RB VBG NNS , PRP VBD IN DT NN NN IN PRP$ JJ NN NN CC VBD PRP RB IN PRP VBZ NNS CC VBG DT NNP NN MD VB .</POS>
+		<Lemma>after the fz100 debacle , I start look for a new brand of SuperZoom and after 2 previous hiccup buy and return highly hyped , but not deliver camera , I come across the sx40 h at my local club store and buy it just on it be spec and hope the Canon name would deliver .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>What also helped in my decision was the knowledge that the club had a 90 day return policy , not a 30 day one like Amazon .</Tokens>
+		<POS>WDT RB VBD IN PRP$ NN VBD DT NN IN DT NN VBD DT CD NN NN NN , RB DT CD NN CD IN NNP .</POS>
+		<Lemma>what also help in my decision be the knowledge that the club have a 90 day return policy , not a 30 day one like Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I bought the camera on my way to work and when I got home I wanted to see if I could unpack it , toss in the battery and go out and get a good Moon shot without having any previous experience with Canon digital 's .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ NN TO VB CC WRB PRP VBD NN PRP VBD TO VB IN PRP MD VB PRP , VB IN DT NN CC VB RP CC VB DT JJ NN NN IN VBG DT JJ NN IN NNP JJ POS .</POS>
+		<Lemma>I buy the camera on my way to work and when I get home I want to see if I could unpack it , toss in the battery and go out and get a good moon shot without have any previous experience with Canon digital 's .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Would it be so intuitive that I could get a really good shot of the Moon without having ever held one in my hand , without even looking at the manual ?</Tokens>
+		<POS>MD PRP VB RB JJ IN PRP MD VB DT RB JJ NN IN DT NN IN VBG RB VBN CD IN PRP$ NN , IN RB VBG IN DT NN .</POS>
+		<Lemma>would it be so intuitive that I could get a really good shot of the moon without have ever hold one in my hand , without even look at the manual ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I wanted to know .</Tokens>
+		<POS>PRP VBD TO VB .</POS>
+		<Lemma>I want to know .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The answer was yes .</Tokens>
+		<POS>DT NN VBD RB .</POS>
+		<Lemma>the answer be yes .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I turned the dial to Manual and in no time I had the correct setting and got much better hand-held Moon shots than anything I 've ever gotten from my Panasonic 's on a tripod .</Tokens>
+		<POS>PRP VBD DT NN TO NNP CC IN DT NN PRP VBD DT JJ NN CC VBD RB JJR JJ NN NNS IN NN PRP VBP RB VBN IN PRP$ NNP POS IN DT NN .</POS>
+		<Lemma>I turn the dial to Manual and in no time I have the correct setting and get much better hand-held moon shot than anything I have ever get from my Panasonic 's on a tripod .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 'm still a work on progress and I have n't had a chance to test it out in all the areas I use them in , like indoor shots of blues bands in small clubs .</Tokens>
+		<POS>PRP VBP RB DT NN IN NN CC PRP VBP RB VBD DT NN TO VB PRP RP IN PDT DT NNS PRP VBP PRP IN , IN JJ NNS IN NNS NNS IN JJ NNS .</POS>
+		<Lemma>I be still a work on progress and I have not have a chance to test it out in all the area I use they in , like indoor shot of blues band in small club .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>So far I 've been super happy with it .</Tokens>
+		<POS>RB RB PRP VBP VBN JJ JJ IN PRP .</POS>
+		<Lemma>so far I have be super happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The only downside 's that I have with it is that a second battery is gonna cost me almost $ 70 and that Canon does n't supply a paper manual for it .</Tokens>
+		<POS>DT JJ NN POS IN PRP VBP IN PRP VBZ IN DT JJ NN VBZ NN VB PRP RB $ CD CC DT NNP VBZ RB VB DT NN NN IN PRP .</POS>
+		<Lemma>the only downside 's that I have with it be that a second battery be gonna cost I almost $ 70 and that Canon do not supply a paper manual for it .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>You get a disk and the manual is 200 + pages in PDF , which does n't work for me .</Tokens>
+		<POS>PRP VBP DT NN CC DT NN VBZ CD CC NNS IN NN , WDT VBZ RB VB IN PRP .</POS>
+		<Lemma>you get a disk and the manual be 200 + page in pdf , which do not work for I .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I took the disk to a local quick print place and they refused to make me a paper copy of the manual because the disk is copyrighted .</Tokens>
+		<POS>PRP VBD DT NN TO DT JJ JJ NN NN CC PRP VBD TO VB PRP DT NN NN IN DT NN IN DT NN VBZ VBN .</POS>
+		<Lemma>I take the disk to a local quick print place and they refuse to make I a paper copy of the manual because the disk be copyright .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The saving grace in all of this is that Canon has pretty good customer service and after talking to their rep on the phone I was able to get them to make me a nice full size copy , which they sent to me free of charge .</Tokens>
+		<POS>DT NN NN IN DT IN DT VBZ IN NNP VBZ RB JJ NN NN CC IN VBG TO PRP$ NN IN DT NN PRP VBD JJ TO VB PRP TO VB PRP DT JJ JJ NN NN , WDT PRP VBD TO PRP JJ IN NN .</POS>
+		<Lemma>the saving grace in all of this be that Canon have pretty good customer service and after talk to they rep on the phone I be able to get they to make I a nice full size copy , which they send to I free of charge .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Thank You Canon !</Tokens>
+		<POS>VB PRP NNP .</POS>
+		<Lemma>thank you Canon !</Lemma>
+	</Sentence>
+</Document>

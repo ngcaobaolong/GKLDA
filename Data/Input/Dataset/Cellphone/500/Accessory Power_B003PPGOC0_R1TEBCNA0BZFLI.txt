@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am rating this product 4 stars because when it works , it works well .</Tokens>
+		<POS>PRP VBP NN DT NN CD NNS IN WRB PRP VBZ , PRP VBZ RB .</POS>
+		<Lemma>I be rating this product 4 star because when it work , it work well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The bluetooth connectivity is seamless and it can charge your devices through built in USB ports .</Tokens>
+		<POS>DT NN NN VBZ JJ CC PRP MD VB PRP$ NNS IN VBN IN JJ NNS .</POS>
+		<Lemma>the bluetooth connectivity be seamless and it can charge you device through build in usb port .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Everything it claims to do , it does as I am sure you can gather from other reviews .</Tokens>
+		<POS>NN PRP VBZ TO VB , PRP VBZ IN PRP VBP JJ PRP MD VB IN JJ NNS .</POS>
+		<Lemma>everything it claim to do , it do as I be sure you can gather from other review .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Sound quality is not great , but what you 'd expect from a device to bluetooth to fm connection .</Tokens>
+		<POS>JJ NN VBZ RB JJ , CC WP PRP MD VB IN DT NN TO NN TO NN NN .</POS>
+		<Lemma>sound quality be not great , but what you would expect from a device to bluetooth to fm connection .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I live in Washington DC , and the problem is finding an empty FM band .</Tokens>
+		<POS>PRP VBP IN NNP NNP , CC DT NN VBZ VBG DT JJ NN NN .</POS>
+		<Lemma>I live in Washington DC , and the problem be find a empty fm band .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have read reviews from customers in other highly populated urban areas who have had the same problem .</Tokens>
+		<POS>PRP VBP VBN NNS IN NNS IN JJ RB JJ JJ NNS WP VBP VBN DT JJ NN .</POS>
+		<Lemma>I have read review from customer in other highly populated urban area who have have the same problem .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would say if you have plenty of free FM space on your radio , this is a great buy .</Tokens>
+		<POS>PRP MD VB IN PRP VBP NN IN JJ JJ NN IN PRP$ NN , DT VBZ DT JJ NN .</POS>
+		<Lemma>I would say if you have plenty of free fm space on you radio , this be a great buy .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Otherwise , look for a hard-wired -LRB- likely more expensive -RRB- option .</Tokens>
+		<POS>RB , VB IN DT JJ -LRB- JJ RBR JJ -RRB- NN .</POS>
+		<Lemma>otherwise , look for a hard-wired -lrb- likely more expensive -rrb- option .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,132 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Unpacking took less than 1 minute and I was ready to go with the device assembled .</Tokens>
+		<POS>VBG VBD JJR IN CD NN CC PRP VBD JJ TO VB IN DT NN VBN .</POS>
+		<Lemma>unpack take less than 1 minute and I be ready to go with the device assemble .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I took it out to my car and plugged it in , turned on the device , then used the auto-tune feature to tune to the station with the highest signal .</Tokens>
+		<POS>PRP VBD PRP RP TO PRP$ NN CC VBD PRP IN , VBD RP DT NN , RB VBD DT NN NN TO VB TO DT NN IN DT JJS NN .</POS>
+		<Lemma>I take it out to my car and plug it in , turn on the device , then use the auto-tune feature to tune to the station with the highest signal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Tuned my radio to that station and started sync mode on the FlexSMART by pressing and holding Call and End buttons for a few seconds and then they flash red and blue .</Tokens>
+		<POS>VBN PRP$ NN TO DT NN CC VBD NN NN IN DT NN IN VBG CC VBG NN CC NN NNS IN DT JJ NNS CC RB PRP VBP JJ CC JJ .</POS>
+		<Lemma>tune my radio to that station and start sync mode on the flexsmart by press and hold call and end button for a few seconds and then they flash red and blue .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>On my android phone I paired the device .</Tokens>
+		<POS>IN PRP$ NN NN PRP VBD DT NN .</POS>
+		<Lemma>on my android phone I pair the device .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was impressed with how compatible the hardware buttons on the FlexSmart were with the multiple apps I tried .</Tokens>
+		<POS>PRP VBD VBN IN WRB JJ DT NN NNS IN DT NNP VBD IN DT JJ NNS PRP VBD .</POS>
+		<Lemma>I be impress with how compatible the hardware button on the FlexSmart be with the multiple app I try .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>All tests were done in my car sitting in a parking lot .</Tokens>
+		<POS>DT NNS VBD VBN IN PRP$ NN VBG IN DT NN NN .</POS>
+		<Lemma>all test be do in my car sit in a parking lot .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I tried Google Music , Audio Galaxy , Digitally Imported and Slacker on my Samsung Galaxy S Mesmerize connected to bluetooth .</Tokens>
+		<POS>PRP VBD NNP NNP , NNP NNP , NNP NNP CC NNP IN PRP$ NNP NNP NN VB VBN TO NN .</POS>
+		<Lemma>I try Google Music , Audio Galaxy , Digitally Imported and Slacker on my Samsung Galaxy s mesmerize connect to bluetooth .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The skip forward and back worked on all apps , except Slacker which failed to stream any music , it was stuck on `` tuning '' .</Tokens>
+		<POS>DT VBP RB CC RB VBD IN DT NNS , IN NN WDT VBD TO NN DT NN , PRP VBD VBN IN `` NN '' .</POS>
+		<Lemma>the skip forward and back work on all app , except slacker which fail to stream any music , it be stick on `` tuning '' .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>All apps responded to the pause and play buttons .</Tokens>
+		<POS>DT NNS VBD TO DT NN CC VB NNS .</POS>
+		<Lemma>all app respond to the pause and play button .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Music quality was great through my stereo .</Tokens>
+		<POS>NN NN VBD JJ IN PRP$ NN .</POS>
+		<Lemma>music quality be great through my stereo .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Call Quality was fine , 1000x better than trying to hear someone on my SGS Mesmerize speaker phone .</Tokens>
+		<POS>VB NNP VBD JJ , RB JJR IN VBG TO VB NN IN PRP$ NNP NNP NN NN .</POS>
+		<Lemma>call Quality be fine , 1000x better than try to hear someone on my SGS Mesmerize speaker phone .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The caller was loud and clear , and they said I sounded fine .</Tokens>
+		<POS>DT NN VBD JJ CC JJ , CC PRP VBD PRP VBD NN .</POS>
+		<Lemma>the caller be loud and clear , and they say I sound fine .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I used this device to replace a bluetooth headset as I ca n't find one that is comfortable on my ear .</Tokens>
+		<POS>PRP VBD DT NN TO VB DT JJ NN IN PRP MD RB VB CD WDT VBZ JJ IN PRP$ NN .</POS>
+		<Lemma>I use this device to replace a bluetooth headset as I can not find one that be comfortable on my ear .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I would highly recommend it because of the superior music quality .</Tokens>
+		<POS>PRP MD RB VB PRP IN IN DT JJ NN NN .</POS>
+		<Lemma>I would highly recommend it because of the superior music quality .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I believe the only negative is the call quality , but that is most likely because of CDMA US Cellular network .</Tokens>
+		<POS>PRP VBP DT JJ JJ VBZ DT JJ NN , CC DT VBZ RBS JJ IN IN NNP NNP JJ NN .</POS>
+		<Lemma>I believe the only negative be the call quality , but that be most likely because of CDMA US cellular network .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>If it were LTE voice which is rolling out from another carrier , I 'm confident the call quality would be amazing .</Tokens>
+		<POS>IN PRP VBD NNP NN WDT VBZ VBG RP IN DT NN , PRP VBP JJ DT JJ NN MD VB JJ .</POS>
+		<Lemma>if it be LTE voice which be roll out from another carrier , I be confident the call quality would be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>This is a definite buy for anyone looking for this kind of device , I was a bit concerned about the quality of the plastic , but the metal flex neck feels high quality and plastic is fine quality .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NN VBG IN DT NN IN NN , PRP VBD DT NN JJ IN DT NN IN DT NN , CC DT NN JJ NN VBZ JJ NN CC NN VBZ JJ NN .</POS>
+		<Lemma>this be a definite buy for anyone look for this kind of device , I be a bit concerned about the quality of the plastic , but the metal flex neck feel high quality and plastic be fine quality .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>This is cheaper than a new tape deck for your car , and you can easily take this with you if you get a new car , unlike a tape deck which would require uninstalling and reinstalling .</Tokens>
+		<POS>DT VBZ JJR IN DT JJ NN NN IN PRP$ NN , CC PRP MD RB VB DT IN PRP IN PRP VBP DT JJ NN , IN DT NN NN WDT MD VB NN CC NN .</POS>
+		<Lemma>this be cheaper than a new tape deck for you car , and you can easily take this with you if you get a new car , unlike a tape deck which would require uninstalling and reinstalling .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Update 10\/17\/11 Lately using different apps I have heard an extremely short break in the music that occurs randomly .</Tokens>
+		<POS>NNP CD RB VBG JJ NNS PRP VBP VBN DT RB JJ NN IN DT NN WDT VBZ RB .</POS>
+		<Lemma>Update 10\/17\/11 lately use different app I have hear a extremely short break in the music that occur randomly .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>It always sounds the same blip of silence .</Tokens>
+		<POS>PRP RB VBZ DT JJ NN IN NN .</POS>
+		<Lemma>it always sound the same blip of silence .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I 'm going to try to isolate what the problem is and I 'll update my post .</Tokens>
+		<POS>PRP VBP VBG TO VB TO VB WP DT NN VBZ CC PRP MD VB PRP$ NN .</POS>
+		<Lemma>I be go to try to isolate what the problem be and I 'll update my post .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Update 6\/6\/2012 Still working great .</Tokens>
+		<POS>NNP CD RB VBG JJ .</POS>
+		<Lemma>Update 6\/6\/2012 still work great .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>7\/25\/2012 I switched cars and now use a car mount .</Tokens>
+		<POS>CD PRP VBD NNS CC RB VBP DT NN VB .</POS>
+		<Lemma>7\/25\/2012 I switch car and now use a car mount .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The USB cable provided has little electronic shielding and I can hear feedback being transmitted to my FM speakers as the cable is tight to the dash\/device up to my vehicle phone mount .</Tokens>
+		<POS>DT JJ NN VBN VBZ JJ JJ VBG CC PRP MD VB NN VBG VBN TO PRP$ NNP NNS IN DT NN VBZ JJ TO DT NN IN TO PRP$ NN NN VBP .</POS>
+		<Lemma>the usb cable provide have little electronic shield and I can hear feedback be transmit to my FM speaker as the cable be tight to the dash\/device up to my vehicle phone mount .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>The male end of the micro USB cable slides easily out of the device with a gentle touch .</Tokens>
+		<POS>DT JJ NN IN DT JJ JJ NN NNS RB IN IN DT NN IN DT JJ NN .</POS>
+		<Lemma>the male end of the micro usb cable slide easily out of the device with a gentle touch .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I will be contacting the developer to see if I can get a replacement usb cable .</Tokens>
+		<POS>PRP MD VB VBG DT NN TO VB IN PRP MD VB DT NN NN NN .</POS>
+		<Lemma>I will be contact the developer to see if I can get a replacement usb cable .</Lemma>
+	</Sentence>
+</Document>

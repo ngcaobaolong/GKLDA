@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a very tasty soup , and so easy to make .</Tokens>
+		<POS>DT VBZ DT RB JJ NN , CC RB JJ TO VB .</POS>
+		<Lemma>this be a very tasty soup , and so easy to make .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Even just cooking it as is , with no added ingredients , it is delicious and smells wonderful cooking .</Tokens>
+		<POS>RB RB VBG PRP IN VBZ , IN DT VBN NNS , PRP VBZ JJ CC VBZ JJ NN .</POS>
+		<Lemma>even just cook it as be , with no add ingredient , it be delicious and smell wonderful cooking .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I always find that I need alot more water than the directions state .</Tokens>
+		<POS>PRP RB VBP IN PRP VBP RB RBR NN IN DT NNS NN .</POS>
+		<Lemma>I always find that I need alot more water than the direction state .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have purchased 2 of these bluetooth transmiiters for my childrens cars .</Tokens>
+		<POS>PRP VBP VBN CD IN DT JJ NNS IN PRP$ NNS NNS .</POS>
+		<Lemma>I have purchase 2 of these bluetooth transmiiter for my children car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They now are able through voice command on their phones to control not only their phones but their music player , text messages , email and internet radio all through the bluetooth connection This means no hands on distractions .</Tokens>
+		<POS>PRP RB VBP JJ IN NN NN IN PRP$ NNS TO VB RB RB PRP$ NNS CC PRP$ NN NN , NN NNS , NN CC NN NN DT IN DT NN NN DT VBZ DT NNS IN NNS .</POS>
+		<Lemma>they now be able through voice command on they phone to control not only they phone but they music player , text message , email and internet radio all through the bluetooth connection this mean no hand on distraction .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have virtually been able to give them a `` sync '' system in their cars and made their driving safer .</Tokens>
+		<POS>PRP VBP RB VBN JJ TO VB PRP DT `` NN '' NN IN PRP$ NNS CC VBD PRP$ VBG JJR .</POS>
+		<Lemma>I have virtually be able to give they a `` sync '' system in they car and make they drive safer .</Lemma>
+	</Sentence>
+</Document>

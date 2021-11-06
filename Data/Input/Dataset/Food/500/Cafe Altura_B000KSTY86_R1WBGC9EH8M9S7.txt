@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wanted an organic coffee to try so I thought , based on the reviews , I would try this !</Tokens>
+		<POS>PRP VBD DT JJ NN TO VB RB PRP VBD , VBN IN DT NNS , PRP MD VB DT .</POS>
+		<Lemma>I want a organic coffee to try so I think , base on the review , I would try this !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>To my surprise , the reviews were right !</Tokens>
+		<POS>TO PRP$ NN , DT NNS VBD RB .</POS>
+		<Lemma>to my surprise , the review be right !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has to be the best coffee I have ever tried .</Tokens>
+		<POS>PRP VBZ TO VB DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>it have to be the best coffee I have ever try .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My husband has been buying roasted coffee from someone locally that everyone raves about .</Tokens>
+		<POS>PRP$ NN VBZ VBN VBG JJ NN IN NN RB IN NN VBZ RB .</POS>
+		<Lemma>my husband have be buy roasted coffee from someone locally that everyone rave about .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>He tried this coffee and he says it is way better than the locally fresh roasted coffee he has been getting .</Tokens>
+		<POS>PRP VBD DT NN CC PRP VBZ PRP VBZ RB JJR IN DT RB JJ JJ NN PRP VBZ VBN VBG .</POS>
+		<Lemma>he try this coffee and he say it be way better than the locally fresh roasted coffee he have be get .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Every time he has a cup , he says `` this is excellent coffee '' .</Tokens>
+		<POS>DT NN PRP VBZ DT NN , PRP VBZ `` DT VBZ JJ NN '' .</POS>
+		<Lemma>every time he have a cup , he say `` this be excellent coffee '' .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>We 've been buying it for a year now and I 'm getting pretty tired of him saying that , but , he is right !</Tokens>
+		<POS>PRP VBP VBN VBG PRP IN DT NN RB CC PRP VBP VBG RB JJ IN PRP VBG IN , CC , PRP VBZ JJ .</POS>
+		<Lemma>we have be buy it for a year now and I be get pretty tired of he say that , but , he be right !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>We ca n't use the 2 lbs up very fast so we freeze most of it in glass jars and just take it out and grind it each time we make it .</Tokens>
+		<POS>PRP MD RB VB DT CD NNS RB RB RB IN PRP VBP JJS IN PRP IN NN NNS CC RB VB PRP RP CC VB PRP DT NN PRP VBP PRP .</POS>
+		<Lemma>we can not use the 2 lb up very fast so we freeze most of it in glass jar and just take it out and grind it each time we make it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It stays tasting great to the last bean !</Tokens>
+		<POS>PRP VBZ NN JJ TO DT JJ NN .</POS>
+		<Lemma>it stay tasting great to the last bean !</Lemma>
+	</Sentence>
+</Document>

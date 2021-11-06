@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor about a week ago , and I find it to be awesome .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN RB , CC PRP VBP PRP TO VB JJ .</POS>
+		<Lemma>I buy this monitor about a week ago , and I find it to be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its not full HD , and your going to be hard pressed to find a 20 '' full HD monitor .</Tokens>
+		<POS>PRP$ RB JJ NN , CC PRP$ VBG TO VB JJ VBN TO VB DT CD '' JJ NN NN .</POS>
+		<Lemma>its not full hd , and you go to be hard press to find a 20 '' full hd monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But the contrast ratio and screen size are wonderful , and the LED tech makes for good gaming , work and amazing video .</Tokens>
+		<POS>CC DT NN NN CC NN NN VBP JJ , CC DT VBN NN VBZ IN JJ NN , NN CC JJ NN .</POS>
+		<Lemma>but the contrast ratio and screen size be wonderful , and the lead tech make for good gaming , work and amazing video .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There is almost no video lag whatsoever , and while there is some bleed in a dark room , this isnt unusual for even the highest end LED TV 's since they are so much brighter than LCD .</Tokens>
+		<POS>EX VBZ RB DT NN NN RB , CC IN EX VBZ DT VB IN DT JJ NN , DT NN JJ IN RB DT JJS NN VBD NN POS IN PRP VBP RB JJ JJR IN NNS .</POS>
+		<Lemma>there be almost no video lag whatsoever , and while there be some bleed in a dark room , this isnt unusual for even the highest end lead tv 's since they be so much brighter than lcd .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also , i commented on one review about the screen having inconsistent coloring , and for any of you who experience this , I recommend checking your cables , this is the most likely culprit , i had this happen on a brand new HDTV I just bought and that was the cause .</Tokens>
+		<POS>RB , FW VBD IN CD NN IN DT NN VBG JJ NN , CC IN DT IN PRP WP VBP DT , PRP VBP VBG PRP$ NNS , DT VBZ DT RBS JJ NN , FW VBD DT VB IN DT NN JJ NN PRP RB VBD CC DT VBD DT NN .</POS>
+		<Lemma>also , i comment on one review about the screen have inconsistent coloring , and for any of you who experience this , I recommend check you cable , this be the most likely culprit , i have this happen on a brand new hdtv I just buy and that be the cause .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would highly recommend this product to anyone on a budget , it will surpass your expectations .</Tokens>
+		<POS>PRP MD RB VB DT NN TO NN IN DT NN , PRP MD VB PRP$ NNS .</POS>
+		<Lemma>I would highly recommend this product to anyone on a budget , it will surpass you expectation .</Lemma>
+	</Sentence>
+</Document>

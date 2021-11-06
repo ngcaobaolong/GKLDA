@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I took this out to charge so I could give it to my son for his birthday , and it did n't have a wrist strap or battery !</Tokens>
+		<POS>PRP VBD DT IN TO VB RB PRP MD VB PRP TO PRP$ NN IN PRP$ NN , CC PRP VBD RB VB DT NN NN CC NN .</POS>
+		<Lemma>I take this out to charge so I could give it to my son for he birthday , and it do not have a wrist strap or battery !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After going to Radio Shack and purchasing a battery for $ 40 -LRB- !! -RRB-</Tokens>
+		<POS>IN VBG TO NNP NNP CC VBG DT NN IN $ CD -LRB- NN -RRB-</POS>
+		<Lemma>after go to Radio Shack and purchase a battery for $ 40 -lrb- !! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>, it turned on .</Tokens>
+		<POS>, PRP VBD RP .</POS>
+		<Lemma>, it turn on .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I put an SD card in it and let my son open his present and start recording .</Tokens>
+		<POS>PRP VBD DT NN NN IN PRP CC VB PRP$ NN JJ PRP$ JJ CC VB VBG .</POS>
+		<Lemma>I put a sd card in it and let my son open he present and start record .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It recorded all of 1 picture and 4 seconds of video and then flashed an error .</Tokens>
+		<POS>PRP VBD DT IN CD NN CC CD NNS IN NN CC RB VBD DT NN .</POS>
+		<Lemma>it record all of 1 picture and 4 seconds of video and then flash a error .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The pictures and video are extremely grainy , and I 've tried every different resolution I could .</Tokens>
+		<POS>DT NNS CC NN VBP RB JJ , CC PRP VBP VBN DT JJ NN PRP MD .</POS>
+		<Lemma>the picture and video be extremely grainy , and I have try every different resolution I could .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I put the frequency on 50 -LRB- America -RRB- .</Tokens>
+		<POS>PRP VBD DT NN IN CD -LRB- NNP -RRB- .</POS>
+		<Lemma>I put the frequency on 50 -lrb- America -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I called and left a message -LRB- really ?</Tokens>
+		<POS>PRP VBD CC VBD DT NN -LRB- RB .</POS>
+		<Lemma>I call and leave a message -lrb- really ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>a message !?</Tokens>
+		<POS>DT NN IN</POS>
+		<Lemma>a message !?</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>they could n't answer the phone !??! -RRB-</Tokens>
+		<POS>PRP MD RB VB DT NN NN -RRB-</POS>
+		<Lemma>they could not answer the phone !??! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I emailed the website that sold it to me -LRB- DailySteals -RRB- , and I have n't had a response back yet from them either .</Tokens>
+		<POS>PRP VBD DT NN WDT VBD PRP TO PRP -LRB- NNS -RRB- , CC PRP VBP RB VBD DT NN RB RB IN PRP RB .</POS>
+		<Lemma>I email the website that sell it to I -lrb- dailysteal -rrb- , and I have not have a response back yet from they either .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>What a disappointment , in both Emerson and DailySteals .</Tokens>
+		<POS>WP DT NN , IN DT NNP CC NNPS .</POS>
+		<Lemma>what a disappointment , in both Emerson and DailySteals .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I ca n't tell you how it works in water because I ca n't get it to FILM !!</Tokens>
+		<POS>PRP MD RB VB PRP WRB PRP VBZ IN NN IN PRP MD RB VB PRP TO NNP IN</POS>
+		<Lemma>I can not tell you how it work in water because I can not get it to FILM !!</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Hope I can help others to avoid Emerson before they waste time , money , and birthdays on their shoddy products .</Tokens>
+		<POS>NNP PRP MD VB NNS TO VB NNP IN PRP VBP NN , NN , CC NNS IN PRP$ JJ NNS .</POS>
+		<Lemma>Hope I can help other to avoid Emerson before they waste time , money , and birthday on they shoddy product .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor does n't come with any bells or whistles but it is reliable and sturdy .</Tokens>
+		<POS>DT NN VBZ RB VBN IN DT NNS CC NNS CC PRP VBZ JJ CC JJ .</POS>
+		<Lemma>this monitor do not come with any bell or whistle but it be reliable and sturdy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought one for my dorm room last semester and I 'm certain it will be with me through my entire college lifespan .</Tokens>
+		<POS>PRP VBD CD IN PRP$ NN NN JJ NN CC PRP VBP JJ PRP MD VB IN PRP IN PRP$ JJ NN NN .</POS>
+		<Lemma>I buy one for my dorm room last semester and I be certain it will be with I through my entire college lifespan .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has all the standard inputs and outputs you 'd need .</Tokens>
+		<POS>PRP VBZ PDT DT JJ NNS CC NNS PRP MD VB .</POS>
+		<Lemma>it have all the standard input and output you would need .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Nothing more and nothing less .</Tokens>
+		<POS>NN RBR CC NN JJR .</POS>
+		<Lemma>nothing more and nothing less .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's worth the investment if you want a basic monitor that 'll last over the long haul .</Tokens>
+		<POS>PRP VBZ JJ DT NN IN PRP VBP DT JJ NN WDT MD VB IN DT JJ NN .</POS>
+		<Lemma>it be worth the investment if you want a basic monitor that 'll last over the long haul .</Lemma>
+	</Sentence>
+</Document>

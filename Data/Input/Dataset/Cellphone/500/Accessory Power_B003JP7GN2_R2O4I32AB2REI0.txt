@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had this charger for a few months now , and it is outstanding .</Tokens>
+		<POS>PRP VBP VBN DT NN IN DT JJ NNS RB , CC PRP VBZ JJ .</POS>
+		<Lemma>I have have this charger for a few month now , and it be outstanding .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I really like the flexibility this product gives you .</Tokens>
+		<POS>PRP RB IN DT NN DT NN VBZ PRP .</POS>
+		<Lemma>I really like the flexibility this product give you .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have enjoyed it so much that I purchased a 2nd one and may purcahse a 3rd one -LRB- one for home , one for work , and one for my car -RRB- .</Tokens>
+		<POS>PRP VBP VBN PRP RB RB IN PRP VBD DT JJ CD CC MD VB DT JJ CD -LRB- CD IN NN , CD IN NN , CC CD IN PRP$ NN -RRB- .</POS>
+		<Lemma>I have enjoy it so much that I purchase a 2nd one and may purcahse a 3rd one -lrb- one for home , one for work , and one for my car -rrb- .</Lemma>
+	</Sentence>
+</Document>

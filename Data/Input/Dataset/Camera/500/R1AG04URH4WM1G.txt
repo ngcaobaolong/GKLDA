@@ -1,0 +1,127 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am the first to admit that I am a complete novice in photography .</Tokens>
+		<POS>PRP VBP DT JJ TO VB IN PRP VBP DT JJ NN IN NN .</POS>
+		<Lemma>I be the first to admit that I be a complete novice in photography .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was looking for a way in - to learn the manual functions and grow as an amateur photographer .</Tokens>
+		<POS>PRP VBD VBG IN DT NN IN : TO VB DT JJ NNS CC VB IN DT JJ NNP .</POS>
+		<Lemma>I be look for a way in - to learn the manual function and grow as a amateur photographer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After reading many , many official reviews\/personal reviews\/blogs and viewing pictures taken with the HS20 -LRB- also with budget in mind -RRB- I plumped for this camera .</Tokens>
+		<POS>IN VBG JJ , JJ JJ JJ NNS CC VBG NNS VBN IN DT NN -LRB- RB IN NN IN NN -RRB- PRP VBD IN DT NN .</POS>
+		<Lemma>after read many , many official reviews\/personal reviews\/blogs and view picture take with the hs20 -lrb- also with budget in mind -rrb- I plump for this camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Ignoring some of the advice of DSLR and SLR camera owners -LRB- as I believe that their expectations may be too high when comparing like for like -RRB- .</Tokens>
+		<POS>VBG DT IN DT NN IN NNP CC NNP NN NNS -LRB- IN PRP VBP IN PRP$ NNS MD VB RB JJ WRB VBG IN IN IN -RRB- .</POS>
+		<Lemma>ignore some of the advice of DSLR and SLR camera owner -lrb- as I believe that they expectation may be too high when compare like for like -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>AND 3 DAYS IN I MUST SAY I AM NOT DISAPPOINTED !!</Tokens>
+		<POS>CC CD NNS IN PRP VBP NN PRP VBP RB JJ IN</POS>
+		<Lemma>and 3 day in I must say I be not disappointed !!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Firstly , let me start with the many auto functions -LRB- EXR being the highlight -RRB- .</Tokens>
+		<POS>RB , VB PRP VB IN DT JJ NN NNS -LRB- NN VBG DT NN -RRB- .</POS>
+		<Lemma>firstly , let I start with the many auto function -lrb- exr be the highlight -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>These are superb -LRB- as I must admit I come from a compact , point and shoot type of lazy photograher -RRB- .</Tokens>
+		<POS>DT VBP JJ -LRB- IN PRP MD VB PRP VB IN DT JJ , NN CC NN NN IN JJ NN -RRB- .</POS>
+		<Lemma>these be superb -lrb- as I must admit I come from a compact , point and shoot type of lazy photograher -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There are many more auto functions than I have ever had on any subsequent camera that I have owned - and 3 days into owning this camera - there seems to be a mode to suit most situations .</Tokens>
+		<POS>EX VBP JJ JJR NN NNS IN PRP VBP RB VBN IN DT JJ NN IN PRP VBP VBN : CC CD NNS IN VBG DT NN : EX VBZ TO VB DT NN TO NN RBS NNS .</POS>
+		<Lemma>there be many more auto function than I have ever have on any subsequent camera that I have own - and 3 day into own this camera - there seem to be a mode to suit most situation .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>However ... ... This is not why I purchased this camera - it was to learn more about photography .</Tokens>
+		<POS>RB : : DT VBZ RB WRB PRP VBD DT NN : PRP VBD TO VB JJR IN NN .</POS>
+		<Lemma>however ... ... this be not why I purchase this camera - it be to learn more about photography .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And boy does this camera allow you to do that .</Tokens>
+		<POS>CC NN VBZ DT NN VBP PRP TO VB DT .</POS>
+		<Lemma>and boy do this camera allow you to do that .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Within the 3 days -LRB- and nights -RRB- I have learned what ISO means and what shutter speed means -LRB- and what the changes to these settings can do -RRB- .</Tokens>
+		<POS>IN DT CD NNS -LRB- CC NNS -RRB- PRP VBP VBN WP NN VBZ CC WDT JJR NN NNS -LRB- CC WP DT NNS TO DT NNS MD VB -RRB- .</POS>
+		<Lemma>within the 3 day -lrb- and night -rrb- I have learn what iso mean and what shutter speed means -lrb- and what the change to these setting can do -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I did tell you I was a point and shoot novice photographer .</Tokens>
+		<POS>PRP VBD VB PRP PRP VBD DT NN CC VB NN NNP .</POS>
+		<Lemma>I do tell you I be a point and shoot novice photographer .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>This camera has opened up an exciting new world of photography that I have never seen before .</Tokens>
+		<POS>DT NN VBZ VBN RP DT JJ JJ NN IN NN IN PRP VBP RB VBN IN .</POS>
+		<Lemma>this camera have open up a exciting new world of photography that I have never see before .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>On my first night I successully took shots of the moon at 30x zoom - and the results were\/are astonishing !</Tokens>
+		<POS>IN PRP$ JJ NN PRP VBP VBD NNS IN DT NN IN CD NN : CC DT NNS VBP JJ .</POS>
+		<Lemma>on my first night I successully take shot of the moon at 30x zoom - and the result were\/are astonishing !</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Admittedly I did buy a cheap tripod along with the camera -LRB- which is needed at full zoom due to stability -RRB- , but I can see the crescent moon in stunning detail - craters and all .</Tokens>
+		<POS>RB PRP VBD VB DT JJ NN IN IN DT NN -LRB- WDT VBZ VBN IN JJ NN JJ TO NN -RRB- , CC PRP MD VB DT JJ NN IN JJ NN : NNS CC DT .</POS>
+		<Lemma>admittedly I do buy a cheap tripod along with the camera -lrb- which be need at full zoom due to stability -rrb- , but I can see the crescent moon in stunning detail - crater and all .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I tried the auto controls to begin with , without success .</Tokens>
+		<POS>PRP VBD DT NN VBZ TO VB IN , IN NN .</POS>
+		<Lemma>I try the auto control to begin with , without success .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>A quick google search and - Hey Presto !</Tokens>
+		<POS>DT JJ NN NN CC : UH FW .</POS>
+		<Lemma>a quick google search and - hey presto !</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I found the manual settings I needed -LRB- 100 ISO and 1\/80 shutter speed seemed to work best for me -RRB- .</Tokens>
+		<POS>PRP VBD DT JJ NNS PRP VBD -LRB- CD NN CC CD JJR NN VBD TO VB RB IN PRP -RRB- .</POS>
+		<Lemma>I find the manual setting I need -lrb- 100 iso and 1\/80 shutter speed seem to work best for I -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I did n't know what this even meant 3 days ago - or even when I took the moon pictures - but I do now .</Tokens>
+		<POS>PRP VBD RB VB WP DT RB VBN CD NNS IN : CC RB WRB PRP VBD DT NN NNS : CC PRP VBP RB .</POS>
+		<Lemma>I do not know what this even mean 3 day ago - or even when I take the moon picture - but I do now .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Sorry for my rambling - I am a bit excited .</Tokens>
+		<POS>JJ IN PRP$ JJ : PRP VBP DT NN JJ .</POS>
+		<Lemma>sorry for my rambling - I be a bit excited .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>There seems to be a curve of learning with this camera - and I am at the bottom arc of that curve - but willing to learn .</Tokens>
+		<POS>EX VBZ TO VB DT NN IN VBG IN DT NN : CC PRP VBP IN DT JJ NN IN DT NN : CC JJ TO VB .</POS>
+		<Lemma>there seem to be a curve of learn with this camera - and I be at the bottom arc of that curve - but willing to learn .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>This camera is ideal for me - in that I can get great auto shots for quick snapping and learn how to compose more professional looking shots .</Tokens>
+		<POS>DT NN VBZ JJ IN PRP : IN DT PRP MD VB JJ NN NNS IN JJ VBG CC VB WRB TO VB JJR JJ VBG NNS .</POS>
+		<Lemma>this camera be ideal for I - in that I can get great auto shot for quick snap and learn how to compose more professional look shot .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>DSLR is not for me yet , but this could be that BRIDGE that I needed .</Tokens>
+		<POS>NN VBZ RB IN PRP RB , CC DT MD VB IN NNP IN PRP VBD .</POS>
+		<Lemma>dslr be not for I yet , but this could be that BRIDGE that I need .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>So far -LRB- early days I know -RRB- this camera does everything I wanted and more - but still allowing great shots in the auto modes .</Tokens>
+		<POS>RB RB -LRB- JJ NNS PRP VBP -RRB- DT NN VBZ NN PRP VBD CC RBR : CC RB VBG JJ NNS IN DT NN NNS .</POS>
+		<Lemma>so far -lrb- early day I know -rrb- this camera do everything I want and more - but still allow great shot in the auto mode .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I believe that for the low price this is an absolute steal and I will enjoy learning more with this camera .</Tokens>
+		<POS>PRP VBP IN IN DT JJ NN DT VBZ DT JJ VB CC PRP MD VB VBG RBR IN DT NN .</POS>
+		<Lemma>I believe that for the low price this be a absolute steal and I will enjoy learn more with this camera .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Nice camera .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>nice camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Had a few issues getting it set-up , but figured it out .</Tokens>
+		<POS>VBD DT JJ NNS VBG PRP NN , CC VBD PRP RP .</POS>
+		<Lemma>have a few issue get it set-up , but figure it out .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Overall a good product , I would recommend it .</Tokens>
+		<POS>RB DT JJ NN , PRP MD VB PRP .</POS>
+		<Lemma>overall a good product , I would recommend it .</Lemma>
+	</Sentence>
+</Document>

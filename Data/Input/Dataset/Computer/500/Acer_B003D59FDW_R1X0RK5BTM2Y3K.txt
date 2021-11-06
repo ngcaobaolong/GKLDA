@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>brings new life to computers using crt monitors great product good price bright clean resolution compact size would recommend product</Tokens>
+		<POS>VBZ JJ NN TO NNS VBG NN NNS JJ NN JJ NN JJ JJ NN JJ NN MD VB NN</POS>
+		<Lemma>bring new life to computer use crt monitor great product good price bright clean resolution compact size would recommend product</Lemma>
+	</Sentence>
+</Document>

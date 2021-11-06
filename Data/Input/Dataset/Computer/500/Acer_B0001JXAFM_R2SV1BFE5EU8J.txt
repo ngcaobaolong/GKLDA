@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had my TMC300 for over three months now .</Tokens>
+		<POS>PRP VBP VBD PRP$ NN IN IN CD NNS RB .</POS>
+		<Lemma>I have have my tmc300 for over three month now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After reading other reviews , I decided to defend this tablet .</Tokens>
+		<POS>IN VBG JJ NNS , PRP VBD TO VB DT NN .</POS>
+		<Lemma>after read other review , I decide to defend this tablet .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Although I 've had one key that sticks -LRB- the right mouse button -RRB- and my screen went to black , I use this Tablet all day every day .</Tokens>
+		<POS>IN PRP VBP VBD CD NN WDT VBZ -LRB- DT NN NN NN -RRB- CC PRP$ NN VBD TO JJ , PRP VBP DT NN DT NN DT NN .</POS>
+		<Lemma>although I have have one key that stick -lrb- the right mouse button -rrb- and my screen go to black , I use this tablet all day every day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was upset I had to send it back to Acer , but they had it picked up the next day , and returned in five working days , one day before they promised .</Tokens>
+		<POS>PRP VBD JJ PRP VBD TO VB PRP RB TO NNP , CC PRP VBD PRP VBD RP DT JJ NN , CC VBD IN CD VBG NNS , CD NN IN PRP VBD .</POS>
+		<Lemma>I be upset I have to send it back to Acer , but they have it pick up the next day , and return in five work day , one day before they promise .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The inking abilities with Microsoft Office 2003 are ok , but even though there are many things lacking , I 've been able to produce document instruction manuals twice as fast with the pen than drawing elements in Word .</Tokens>
+		<POS>DT NN NNS IN NNP NNP CD VBP JJ , CC RB IN EX VBP JJ NNS VBG , PRP VBP VBN JJ TO VB NN NN NNS RB RB JJ IN DT NN IN VBG NNS IN NN .</POS>
+		<Lemma>the inking ability with Microsoft Office 2003 be ok , but even though there be many thing lack , I have be able to produce document instruction manual twice as fast with the pen than draw element in word .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Creating notes with Windows Journal is great .</Tokens>
+		<POS>VBG NNS IN NNP NNP VBZ JJ .</POS>
+		<Lemma>create note with Windows Journal be great .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The dictation abilities with XP Tablet are also ok , but the text recognition of XP Tablet SP2 is much improved .</Tokens>
+		<POS>DT NN NNS IN NN NN VBP RB RB , CC DT NN NN IN NN NN NN VBZ JJ VBN .</POS>
+		<Lemma>the dictation ability with xp tablet be also ok , but the text recognition of xp tablet sp2 be much improve .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The battery seams to last forever .</Tokens>
+		<POS>DT NN NNS TO JJ RB .</POS>
+		<Lemma>the battery seam to last forever .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 've had the computer on for the past 6 hours .</Tokens>
+		<POS>PRP VBP VBD DT NN IN IN DT JJ CD NNS .</POS>
+		<Lemma>I have have the computer on for the past 6 hour .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>With the hibernated mode , there is still 50 % battery power .</Tokens>
+		<POS>IN DT VBN NN , EX VBZ RB CD NN NN NN .</POS>
+		<Lemma>with the hibernate mode , there be still 50 % battery power .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 've been able to play 2 DVD movies on a plane with one charge .</Tokens>
+		<POS>PRP VBP VBN JJ TO VB CD NN NNS IN DT NN IN CD NN .</POS>
+		<Lemma>I have be able to play 2 dvd movie on a plane with one charge .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>My only complaint to this tablet is the low speaker volume and the lock that keeps the screen closed sometimes sticks .</Tokens>
+		<POS>PRP$ JJ NN TO DT NN VBZ DT JJ NN NN CC DT NN WDT VBZ DT NN VBD RB VBZ .</POS>
+		<Lemma>my only complaint to this tablet be the low speaker volume and the lock that keep the screen close sometimes stick .</Lemma>
+	</Sentence>
+</Document>

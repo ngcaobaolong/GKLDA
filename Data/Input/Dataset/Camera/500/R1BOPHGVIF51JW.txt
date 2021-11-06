@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great camera !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great camera !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>shooting and shooting in HD even under water !</Tokens>
+		<POS>NN CC NN IN NN RB IN NN .</POS>
+		<Lemma>shooting and shooting in hd even under water !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>easy to handle , large display and good resolution .</Tokens>
+		<POS>JJ TO VB , JJ NN CC JJ NN .</POS>
+		<Lemma>easy to handle , large display and good resolution .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Small to carry in the pocket !</Tokens>
+		<POS>JJ TO VB IN DT NN .</POS>
+		<Lemma>small to carry in the pocket !</Lemma>
+	</Sentence>
+</Document>

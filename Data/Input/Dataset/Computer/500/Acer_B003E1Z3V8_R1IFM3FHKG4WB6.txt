@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor was priced well and has good picture .</Tokens>
+		<POS>DT NN VBD VBN RB CC VBZ JJ NN .</POS>
+		<Lemma>the monitor be price well and have good picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As good as the other slightly more expensive Samsung monitors I own .</Tokens>
+		<POS>IN JJ IN DT JJ RB RBR JJ NNP NNS PRP VBP .</POS>
+		<Lemma>as good as the other slightly more expensive Samsung monitor I own .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have owned it for about two months and I would recommend it at this point .</Tokens>
+		<POS>PRP VBP VBN PRP IN IN CD NNS CC PRP MD VB PRP IN DT NN .</POS>
+		<Lemma>I have own it for about two month and I would recommend it at this point .</Lemma>
+	</Sentence>
+</Document>

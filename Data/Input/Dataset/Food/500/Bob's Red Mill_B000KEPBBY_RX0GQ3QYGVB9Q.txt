@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The mix is excellent for contents and flavor blending as well as having it sized to all get done cooking at the same time .</Tokens>
+		<POS>DT NN VBZ JJ IN NNS CC NN NN RB RB IN VBG PRP VBD TO DT VB VBN NN IN DT JJ NN .</POS>
+		<Lemma>the mix be excellent for contents and flavor blending as well as have it size to all get do cooking at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It can be flavored any way you want as it has a ` general ' vegetable flavor .</Tokens>
+		<POS>PRP MD VB VBN DT NN PRP VBP IN PRP VBZ DT `` JJ '' NN NN .</POS>
+		<Lemma>it can be flavor any way you want as it have a ` general ' vegetable flavor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I used onion and celery with a bit of garlic .</Tokens>
+		<POS>PRP VBD NN CC NN IN DT NN IN NN .</POS>
+		<Lemma>I use onion and celery with a bit of garlic .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>That is what came through the generalized vegetable flavor .</Tokens>
+		<POS>DT VBZ WP VBD IN DT VBN NN NN .</POS>
+		<Lemma>that be what come through the generalize vegetable flavor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I used a ` boat motor ' on it right in the pot and blended it to about half of it 's original size .</Tokens>
+		<POS>PRP VBD DT `` NN NN '' IN PRP RB IN DT NN CC JJ PRP TO IN NN IN PRP VBZ JJ NN .</POS>
+		<Lemma>I use a ` boat motor ' on it right in the pot and blended it to about half of it be original size .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I had the creaminess and yet the ` feel ' of vegetable pieces on the palate .</Tokens>
+		<POS>PRP VBD DT NN CC RB DT `` VB '' IN NN NNS IN DT NN .</POS>
+		<Lemma>I have the creaminess and yet the ` feel ' of vegetable piece on the palate .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This blend could be used for about anything .</Tokens>
+		<POS>DT VBP MD VB VBN IN IN NN .</POS>
+		<Lemma>this blend could be use for about anything .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is sealed very well and for someone stocking up an emergency food shelter , it would work perfectly .</Tokens>
+		<POS>PRP VBZ VBN RB RB CC IN NN VBG RP DT NN NN NN , PRP MD VB RB .</POS>
+		<Lemma>it be seal very well and for someone stock up a emergency food shelter , it would work perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I would bet it will be good indefinitely .</Tokens>
+		<POS>PRP MD VB PRP MD VB JJ RB .</POS>
+		<Lemma>I would bet it will be good indefinitely .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>All of their products are of this quality .</Tokens>
+		<POS>DT IN PRP$ NNS VBP IN DT NN .</POS>
+		<Lemma>all of they product be of this quality .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera a few hours ago , as a gift for someone .</Tokens>
+		<POS>PRP VBD DT NN DT JJ NNS RB , IN DT NN IN NN .</POS>
+		<Lemma>I buy this camera a few hour ago , as a gift for someone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I thought of giving it a try , so I opened it up and clicked a few shots .</Tokens>
+		<POS>PRP VBD IN VBG PRP DT NN , IN PRP VBD PRP RP CC VBD DT JJ NNS .</POS>
+		<Lemma>I think of give it a try , so I open it up and click a few shot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was surprised to see such bad quality pics .</Tokens>
+		<POS>PRP VBD VBN TO VB JJ JJ NN NNS .</POS>
+		<Lemma>I be surprise to see such bad quality pic .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I tried to change all kind of settings and ISO values too , but the pics were no good .</Tokens>
+		<POS>PRP VBD TO VB DT NN IN NNS CC NN NNS RB , CC DT NNS VBD DT JJ .</POS>
+		<Lemma>I try to change all kind of setting and iso value too , but the pic be no good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So much noise , and that too in good lighting conditions , both on auto ISO and ISO 100 .</Tokens>
+		<POS>RB JJ NN , CC IN RB IN JJ NN NNS , DT IN NN NN CC NN CD .</POS>
+		<Lemma>so much noise , and that too in good lighting condition , both on auto iso and iso 100 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Very disappointed , returning it back the first thing in the morning .</Tokens>
+		<POS>RB JJ , VBG PRP RP DT JJ NN IN DT NN .</POS>
+		<Lemma>very disappointed , return it back the first thing in the morning .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Of course it 's not my 1st camera , and I have got way better results from other cameras of same or even much less megapixels .</Tokens>
+		<POS>IN NN PRP VBZ RB PRP$ CD NN , CC PRP VBP VBN RB JJR NNS IN JJ NNS IN JJ CC RB RB JJR NNS .</POS>
+		<Lemma>of course it be not my 1st camera , and I have get way better result from other camera of same or even much less megapixel .</Lemma>
+	</Sentence>
+</Document>

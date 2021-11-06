@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this monitor took no time in set up .</Tokens>
+		<POS>DT NN VBD DT NN IN VBN RP .</POS>
+		<Lemma>this monitor take no time in set up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Good for people like me with poor eyesight , resolution is fantastic .</Tokens>
+		<POS>JJ IN NNS IN PRP IN JJ NN , NN VBZ JJ .</POS>
+		<Lemma>good for people like I with poor eyesight , resolution be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great Buy ...</Tokens>
+		<POS>NNP VB :</POS>
+		<Lemma>Great buy ...</Lemma>
+	</Sentence>
+</Document>

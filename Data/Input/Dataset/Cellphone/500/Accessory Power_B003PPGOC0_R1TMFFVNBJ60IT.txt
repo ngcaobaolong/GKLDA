@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was skeptical buying this at first because I am use to the poor quality sound that similar products produce .</Tokens>
+		<POS>PRP VBD JJ NN DT IN RB IN PRP VBP NN TO DT JJ NN NN WDT JJ NNS VBP .</POS>
+		<Lemma>I be skeptical buying this at first because I be use to the poor quality sound that similar product produce .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought this specifically to use with my iPhone 4s so i can listen to my music What sold me on this was the design .</Tokens>
+		<POS>PRP VBD DT RB TO VB IN PRP$ NNP NNS RB FW MD VB TO PRP$ NN WDT VBD PRP IN DT VBD DT NN .</POS>
+		<Lemma>I buy this specifically to use with my iPhone 4 so i can listen to my music what sell I on this be the design .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The fact of it being wireless and the device being able to stay in your pocket is amazing .</Tokens>
+		<POS>DT NN IN PRP VBG JJ CC DT NN VBG JJ TO VB IN PRP$ NN VBZ JJ .</POS>
+		<Lemma>the fact of it be wireless and the device be able to stay in you pocket be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There is almost no feedback and interference with this product .</Tokens>
+		<POS>EX VBZ RB DT NN CC NN IN DT NN .</POS>
+		<Lemma>there be almost no feedback and interference with this product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Before this I had a Belkin FM cable that had really poor quality sound and had a very weak broadcast .</Tokens>
+		<POS>IN DT PRP VBD DT NNP NNP NN WDT VBD RB JJ NN NN CC VBD DT RB JJ NN .</POS>
+		<Lemma>before this I have a Belkin FM cable that have really poor quality sound and have a very weak broadcast .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I also was surprised that the hands free worked phenomenally well .</Tokens>
+		<POS>PRP RB VBD VBN IN DT NNS JJ VBD RB RB .</POS>
+		<Lemma>I also be surprise that the hand free work phenomenally well .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Although you do n't have to plug in your phone , you can to charge it on the side usb port -LRB- the standard iPod charger cable is compatible -RRB- .</Tokens>
+		<POS>IN PRP VBP RB VB TO VB IN PRP$ NN , PRP MD TO VB PRP IN DT NN NN NN -LRB- DT NN NN NN NN VBZ JJ -RRB- .</POS>
+		<Lemma>although you do not have to plug in you phone , you can to charge it on the side usb port -lrb- the standard ipod charger cable be compatible -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is also an Aux .</Tokens>
+		<POS>EX VBZ RB DT NN .</POS>
+		<Lemma>there be also a aux .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>port , so it should play though the aux jack -LRB- cables included -RRB- .</Tokens>
+		<POS>NN , IN PRP MD VB IN DT FW NN -LRB- NNS VBD -RRB- .</POS>
+		<Lemma>port , so it should play though the aux jack -lrb- cable include -rrb- .</Lemma>
+	</Sentence>
+</Document>

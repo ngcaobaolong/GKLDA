@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I read a recipe using red lentils but I could not find them in my area -LRB- Culver City , CA . -RRB-</Tokens>
+		<POS>PRP VBP DT NN VBG JJ NNS CC PRP MD RB VB PRP IN PRP$ NN -LRB- NNP NNP , NNP . -RRB-</POS>
+		<Lemma>I read a recipe use red lentil but I could not find they in my area -lrb- Culver City , CA . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I searched Amazon and found this company .</Tokens>
+		<POS>PRP VBD NNP CC VBN DT NN .</POS>
+		<Lemma>I search Amazon and find this company .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Finding red lentils was a great discovery .</Tokens>
+		<POS>VBG JJ NNS VBD DT JJ NN .</POS>
+		<Lemma>find red lentil be a great discovery .</Lemma>
+	</Sentence>
+</Document>

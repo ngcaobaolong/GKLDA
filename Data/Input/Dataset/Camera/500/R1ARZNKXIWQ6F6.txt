@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera about 2 years ago .</Tokens>
+		<POS>PRP VBD DT NN IN CD NNS RB .</POS>
+		<Lemma>I buy this camera about 2 year ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>While it took great pictures , after the 2 years , the camera would n't charge anymore .</Tokens>
+		<POS>IN PRP VBD JJ NNS , IN DT CD NNS , DT NN MD RB VB RB .</POS>
+		<Lemma>while it take great picture , after the 2 year , the camera would not charge anymore .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I went online to search out the camera , and this seems to be a common theme amongst the Kodak Easyshare cameras .</Tokens>
+		<POS>PRP VBD NN TO VB RP DT NN , CC DT VBZ TO VB DT JJ NN IN DT NNP NNP NNS .</POS>
+		<Lemma>I go online to search out the camera , and this seem to be a common theme amongst the Kodak Easyshare camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I went and bought a new battery as they suggested , but it still would n't charge .</Tokens>
+		<POS>PRP VBD CC VBD DT JJ NN IN PRP VBD , CC PRP RB MD RB VB .</POS>
+		<Lemma>I go and buy a new battery as they suggest , but it still would not charge .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It would come on for only a second and then shut off right away again .</Tokens>
+		<POS>PRP MD VB IN IN RB DT JJ CC RB VBD RB JJ RB RB .</POS>
+		<Lemma>it would come on for only a second and then shut off right away again .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I did n't want to invest any more money by buying a new powercord as they suggests as another option .</Tokens>
+		<POS>PRP VBD RB VB TO VB DT JJR NN IN VBG DT JJ NN IN PRP VBZ IN DT NN .</POS>
+		<Lemma>I do not want to invest any more money by buy a new powercord as they suggest as another option .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I felt the one that I had was just fine , and I did n't want to invest that much money into a camera that did n't cost that much .</Tokens>
+		<POS>PRP VBD DT CD WDT PRP VBD VBD RB JJ , CC PRP VBD RB VB TO VB DT JJ NN IN DT NN WDT VBD RB VB DT JJ .</POS>
+		<Lemma>I feel the one that I have be just fine , and I do not want to invest that much money into a camera that do not cost that much .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I do n't think I will stick with this brand of camera .</Tokens>
+		<POS>PRP VBP RB VB PRP MD VB IN DT NN IN NN .</POS>
+		<Lemma>I do not think I will stick with this brand of camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 'm planning on looking for something else .</Tokens>
+		<POS>PRP VBP VBG IN VBG IN NN RB .</POS>
+		<Lemma>I be plan on look for something else .</Lemma>
+	</Sentence>
+</Document>

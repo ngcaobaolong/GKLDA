@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>smokehouse almonds are great but i just ca n't take all of the salt so i rub some of the salt off of them and then i go to town , if they sold lightly salted ones i would probably not only be addicted but broke as well from eating them so much love love love this product and will buy again .</Tokens>
+		<POS>NN NNS VBP JJ CC FW RB MD RB VB DT IN DT NN RB FW VB DT IN DT NN IN IN PRP CC RB FW VB TO NN , IN PRP VBD RB VBN NNS FW MD RB RB RB VB VBN CC VBD RB RB IN VBG PRP RB JJ NN NN NN DT NN CC MD VB RB .</POS>
+		<Lemma>smokehouse almond be great but i just can not take all of the salt so i rub some of the salt off of they and then i go to town , if they sell lightly salt one i would probably not only be addict but break as well from eat they so much love love love this product and will buy again .</Lemma>
+	</Sentence>
+</Document>

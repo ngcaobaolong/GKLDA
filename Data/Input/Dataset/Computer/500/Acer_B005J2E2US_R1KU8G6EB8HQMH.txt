@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>worldwide distributor was the worst buying experience in my life , since i started to shop online .</Tokens>
+		<POS>JJ NN VBD DT JJS NN NN IN PRP$ NN , IN FW VBD TO VB NN .</POS>
+		<Lemma>worldwide distributor be the worst buying experience in my life , since i start to shop online .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>never ever .</Tokens>
+		<POS>RB RB .</POS>
+		<Lemma>never ever .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>i 'm regular online shopper , i never had this bad experience in my life , this bring Question .</Tokens>
+		<POS>LS VBP JJ JJ NN , FW RB VBD DT JJ NN IN PRP$ NN , DT VB NN .</POS>
+		<Lemma>i be regular online shopper , i never have this bad experience in my life , this bring question .</Lemma>
+	</Sentence>
+</Document>

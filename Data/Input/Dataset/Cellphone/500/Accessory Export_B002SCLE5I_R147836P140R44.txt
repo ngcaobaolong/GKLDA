@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I did n't gain any bars with the product , but I did n't have high expectations .</Tokens>
+		<POS>PRP VBD RB VB DT NNS IN DT NN , CC PRP VBD RB VB JJ NNS .</POS>
+		<Lemma>I do not gain any bar with the product , but I do not have high expectation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The price was low enough that it was cheap enough to try .</Tokens>
+		<POS>DT NN VBD JJ RB IN PRP VBD JJ JJ TO VB .</POS>
+		<Lemma>the price be low enough that it be cheap enough to try .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It may work for some phones , I found it did n't help my LG phone .</Tokens>
+		<POS>PRP MD VB IN DT NNS , PRP VBD PRP VBD RB VB PRP$ NNP NN .</POS>
+		<Lemma>it may work for some phone , I find it do not help my LG phone .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the best camera I have ever owned .</Tokens>
+		<POS>DT VBZ DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>this be the best camera I have ever own .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is easy to use and takes awesome pictures .</Tokens>
+		<POS>PRP VBZ JJ TO VB CC VBZ JJ NNS .</POS>
+		<Lemma>it be easy to use and take awesome picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wanted a point and shoot camera and this one `` foots '' the bill .</Tokens>
+		<POS>PRP VBD DT NN CC VB NN CC DT CD `` VBZ '' DT NN .</POS>
+		<Lemma>I want a point and shoot camera and this one `` foot '' the bill .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The size -LRB- non-wide-screen -RRB- is better than a wide-screen monitor for viewing normal Web Pages , unless you are fond of shrinking a number of Windows on the screen at one time .</Tokens>
+		<POS>DT NN -LRB- JJ -RRB- VBZ JJR IN DT JJ NN IN VBG JJ NN NNP , IN PRP VBP JJ IN VBG DT NN IN NNP IN DT NN IN CD NN .</POS>
+		<Lemma>the size -lrb- non-wide-screen -rrb- be better than a wide-screen monitor for view normal web Pages , unless you be fond of shrink a number of Windows on the screen at one time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For business and general browsing the view ratio is good , while , for watching movies , a wide-screen monitor may be better .</Tokens>
+		<POS>IN NN CC JJ VBG DT NN NN VBZ JJ , IN , IN VBG NNS , DT JJ NN MD VB RBR .</POS>
+		<Lemma>for business and general browse the view ratio be good , while , for watch movie , a wide-screen monitor may be better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But , a 17 '' wide-screen monitor has a tiny height , compared with this type - making for a lot more scrolling on Websites .</Tokens>
+		<POS>CC , DT CD '' JJ NN VBZ DT JJ NN , VBN IN DT NN : VBG IN DT NN RBR VBG IN NNS .</POS>
+		<Lemma>but , a 17 '' wide-screen monitor have a tiny height , compare with this type - make for a lot more scroll on website .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This particular monitor , I rated `` 3 '' -LRB- average -RRB- - as it is what one might expect from a $ 100 monitor .</Tokens>
+		<POS>DT JJ NN , PRP VBD `` CD '' -LRB- NN -RRB- : IN PRP VBZ WP PRP MD VB IN DT $ CD NN .</POS>
+		<Lemma>this particular monitor , I rate `` 3 '' -lrb- average -rrb- - as it be what one might expect from a $ 100 monitor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It does not have awesome sharpness - but is good enough for everyday use - but a high-end monitor -LRB- with a lot higher price -RRB- would be better for movies , gaming , or photo-editing .</Tokens>
+		<POS>PRP VBZ RB VB JJ NN : CC VBZ JJ RB IN JJ NN : CC DT JJ NN -LRB- IN DT NN JJR NN -RRB- MD VB RBR IN NNS , NN , CC NN .</POS>
+		<Lemma>it do not have awesome sharpness - but be good enough for everyday use - but a high-end monitor -lrb- with a lot higher price -rrb- would be better for movie , gaming , or photo-editing .</Lemma>
+	</Sentence>
+</Document>

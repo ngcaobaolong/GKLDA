@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera does n't work - at all .</Tokens>
+		<POS>DT NN VBZ RB VB : IN DT .</POS>
+		<Lemma>the camera do not work - at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Does n't charge or power on .</Tokens>
+		<POS>VBZ RB VB CC NN IN .</POS>
+		<Lemma>do not charge or power on .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've been searching the internet for clues and it looks to be a fairly common problem with all sorts of weird solutions - none of which have worked for me .</Tokens>
+		<POS>PRP VBP VBN VBG DT NN IN NNS CC PRP VBZ TO VB DT RB JJ NN IN DT NNS IN JJ NNS : NN IN WDT VBP VBN IN PRP .</POS>
+		<Lemma>I have be search the internet for clue and it look to be a fairly common problem with all sort of weird solution - none of which have work for I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Hoping to get my $ back but fear the worst</Tokens>
+		<POS>VBG TO VB PRP$ $ JJ CC VBP DT JJS</POS>
+		<Lemma>hope to get my $ back but fear the worst</Lemma>
+	</Sentence>
+</Document>

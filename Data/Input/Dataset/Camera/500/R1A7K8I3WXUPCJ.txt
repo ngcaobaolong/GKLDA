@@ -1,0 +1,162 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera is excellent and has a large number of resources to take good pictures .</Tokens>
+		<POS>DT NN VBZ JJ CC VBZ DT JJ NN IN NNS TO VB JJ NNS .</POS>
+		<Lemma>the camera be excellent and have a large number of resource to take good picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But we strongly recommend reading the manual , because even in AUTO mode , the photographer must press the shutter button halfway to focus , and then tightening them to shoot -LRB- even in automatic modes , the user must have a minimum of knowledge of the camera -RRB- .</Tokens>
+		<POS>CC PRP RB VB VBG DT NN , IN RB IN NNP NN , DT NNP MD VB DT NN NN RB TO VB , CC RB VBG PRP TO VB -LRB- RB IN JJ NNS , DT NN MD VB DT NN IN NN IN DT NN -RRB- .</POS>
+		<Lemma>but we strongly recommend read the manual , because even in AUTO mode , the photographer must press the shutter button halfway to focus , and then tighten they to shoot -lrb- even in automatic mode , the user must have a minimum of knowledge of the camera -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I think that many complain about the image quality by not knowing how to use the various features of the camera -LRB- not knowing how to use the automatic features and the various resource manuals -RRB- or wait for the quality of a DSLR .</Tokens>
+		<POS>PRP VBP IN JJ VBP IN DT NN NN IN RB VBG WRB TO VB DT JJ NNS IN DT NN -LRB- RB VBG WRB TO VB DT JJ NNS CC DT JJ NN NNS -RRB- CC VB IN DT NN IN DT NN .</POS>
+		<Lemma>I think that many complain about the image quality by not know how to use the various feature of the camera -lrb- not know how to use the automatic feature and the various resource manual -rrb- or wait for the quality of a dslr .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If all machine resources are used , the photographer can get close to this quality of DSLR , but SX30IS is not a DSLR !</Tokens>
+		<POS>IN DT NN NNS VBP VBN , DT NNP MD VB RB TO DT NN IN NNP , CC NN VBZ RB DT NN .</POS>
+		<Lemma>if all machine resource be use , the photographer can get close to this quality of DSLR , but sx30i be not a dslr !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>See the pictures I posted in the gallery that show the strength and quality of the maximum zoom -LRB- 840 mm - 35X -RRB- and image stabilizer .</Tokens>
+		<POS>VB DT NNS PRP VBD IN DT NN WDT VBP DT NN CC NN IN DT NN NN -LRB- CD NN : NN -RRB- CC NN NN .</POS>
+		<Lemma>see the picture I post in the gallery that show the strength and quality of the maximum zoom -lrb- 840 mm - 35x -rrb- and image stabilizer .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>All photos taken by hand , without tripod !</Tokens>
+		<POS>DT NNS VBN IN NN , IN NN .</POS>
+		<Lemma>all photo take by hand , without tripod !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Pros : - The 35X zoom is really impressive and the image stabilization is spectacular .</Tokens>
+		<POS>NNS : : DT NN NN VBZ RB JJ CC DT NN NN VBZ JJ .</POS>
+		<Lemma>pro : - the 35x zoom be really impressive and the image stabilization be spectacular .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>In the requirement zoom and image stabilization , there are no competitors that come near the SX30IS .</Tokens>
+		<POS>IN DT NN NN CC NN NN , EX VBP DT NNS WDT VBP IN DT NN .</POS>
+		<Lemma>in the requirement zoom and image stabilization , there be no competitor that come near the sx30i .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You can get excellent pictures by hand using the 35X zoom .</Tokens>
+		<POS>PRP MD VB JJ NNS IN NN VBG DT NN NN .</POS>
+		<Lemma>you can get excellent picture by hand use the 35x zoom .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But in low light conditions the user must know how to use the resources and \/ or tripod to get sharp photos .</Tokens>
+		<POS>CC IN JJ JJ NNS DT NN MD VB WRB TO VB DT NNS CC : CC NN TO VB JJ NNS .</POS>
+		<Lemma>but in low light condition the user must know how to use the resource and \/ or tripod to get sharp photo .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>-LRB- When using a tripod , the image stabilization must be switched off -RRB- - The menu is easy to use and intuitive .</Tokens>
+		<POS>-LRB- WRB VBG DT NN , DT NN NN MD VB VBN RP -RRB- : DT NN VBZ JJ TO VB CC JJ .</POS>
+		<Lemma>-lrb- when use a tripod , the image stabilization must be switch off -rrb- - the menu be easy to use and intuitive .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The LCD Flip-out screen is the best among the competitors , being very clear .</Tokens>
+		<POS>DT NNS NN NN VBZ DT JJS IN DT NNS , VBG RB JJ .</POS>
+		<Lemma>the lcd flip-out screen be the best among the competitor , be very clear .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>- There are several features to take great photos .</Tokens>
+		<POS>: EX VBP JJ NNS TO VB JJ NNS .</POS>
+		<Lemma>- there be several feature to take great photo .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 'm still reading the manual and I can not use all resources , but the pictures and movies are improving as I know the camera better .</Tokens>
+		<POS>PRP VBP RB VBG DT NN CC PRP MD RB VB DT NNS , CC DT NNS CC NNS VBP VBG IN PRP VBP DT NN RBR .</POS>
+		<Lemma>I be still read the manual and I can not use all resource , but the picture and movie be improve as I know the camera better .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>- The movies are good quality Cons : - The greatest shortcoming of the camera is to have low FPS , because the camera does not take many pictures per second .</Tokens>
+		<POS>: DT NNS VBP JJ NN NNS : : DT JJS NN IN DT NN VBZ TO VB JJ NNS , IN DT NN VBZ RB VB JJ NNS IN NN .</POS>
+		<Lemma>- the movie be good quality con : - the greatest shortcoming of the camera be to have low fp , because the camera do not take many picture per second .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>In this variable the superzoom competitors are way better .</Tokens>
+		<POS>IN DT JJ DT NN NNS VBP RB RB .</POS>
+		<Lemma>in this variable the superzoom competitor be way better .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>- Do not shoot in full HD , though HD movies are already very good .</Tokens>
+		<POS>: VBP RB VB IN JJ NN , IN NN NNS VBP RB RB JJ .</POS>
+		<Lemma>- do not shoot in full hd , though hd movie be already very good .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>It could have 3-inch screen instead of 2.7 .</Tokens>
+		<POS>PRP MD VB JJ NN RB IN CD .</POS>
+		<Lemma>it could have 3-inch screen instead of 2.7 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>- No High-speed frame rate -LRB- slow motion -RRB- in the movies .</Tokens>
+		<POS>: UH NN NN NN -LRB- JJ NN -RRB- IN DT NNS .</POS>
+		<Lemma>- no high-speed frame rate -lrb- slow motion -rrb- in the movie .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>This feature is present in the competitors .</Tokens>
+		<POS>DT NN VBZ JJ IN DT NNS .</POS>
+		<Lemma>this feature be present in the competitor .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>But you can see the movies in slow motion in the camera -LRB- not the same thing already burn in slow motion -RRB- .</Tokens>
+		<POS>CC PRP MD VB DT NNS IN JJ NN IN DT NN -LRB- RB DT JJ NN RB VBP IN JJ NN -RRB- .</POS>
+		<Lemma>but you can see the movie in slow motion in the camera -lrb- not the same thing already burn in slow motion -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Thus , I considered this an excellent camera , especially because I 'm still learning to use the various features , and photos are improving .</Tokens>
+		<POS>RB , PRP VBD DT DT JJ NN , RB IN PRP VBP RB VBG TO VB DT JJ NNS , CC NNS VBP VBG .</POS>
+		<Lemma>thus , I consider this a excellent camera , especially because I be still learn to use the various feature , and photo be improve .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I bought a tripod , a Canon 270EX flash , Canon filter adapter and Tiffen filter polarizer , which are greatly improving my photos .</Tokens>
+		<POS>PRP VBD DT NN , DT NNP NN NN , NNP NN NN CC NN NN NN , WDT VBP RB VBG PRP$ NNS .</POS>
+		<Lemma>I buy a tripod , a Canon 270ex flash , Canon filter adapter and tiffen filter polarizer , which be greatly improve my photo .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I 'm still waiting for my Canon 270EX flash , which I believe will greatly improve my indoor photos , completion , macro and portraits -LRB- bounce flash -RRB- The tripod has greatly improved the pictures in low light .</Tokens>
+		<POS>PRP VBP RB VBG IN PRP$ NNP NN NN , WDT PRP VBP MD RB VB PRP$ JJ NNS , NN , NN CC NNS -LRB- NN NN -RRB- DT NN VBZ RB VBN DT NNS IN JJ NN .</POS>
+		<Lemma>I be still wait for my Canon 270ex flash , which I believe will greatly improve my indoor photo , completion , macro and portrait -lrb- bounce flash -rrb- the tripod have greatly improve the picture in low light .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>And now that I 'm using Canon 270EX external flash indoor pictures and portraits have improved a lot !</Tokens>
+		<POS>CC RB IN PRP VBP VBG NNP NNP JJ NN JJ NNS CC NNS VBP VBN DT NN .</POS>
+		<Lemma>and now that I be use Canon 270EX external flash indoor picture and portrait have improve a lot !</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Great combination : SX30IS and 270EX !</Tokens>
+		<POS>JJ NN : NN CC NN .</POS>
+		<Lemma>great combination : sx30i and 270ex !</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>And I have much still to learn with this camera and flash !</Tokens>
+		<POS>CC PRP VBP RB RB TO VB IN DT NN CC NN .</POS>
+		<Lemma>and I have much still to learn with this camera and flash !</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Highly recommended !</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>highly recommend !</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Every day I learn to use resources better camera , I am more convinced of the five stars that dot the SX30IS .</Tokens>
+		<POS>DT NN CD VBP TO VB NNS JJR NN , PRP VBP RBR JJ IN DT CD NNS WDT VBP DT NN .</POS>
+		<Lemma>every day i learn to use resource better camera , I be more convinced of the five star that dot the sx30i .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>The full manual mode , knowing how to use , delivers excellent photos .</Tokens>
+		<POS>DT JJ JJ NN , VBG WRB TO VB , VBZ JJ NNS .</POS>
+		<Lemma>the full manual mode , know how to use , deliver excellent photo .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>And the automatic mode or semi-automatic 'm also learning what the correct situation in which it must be utilized .</Tokens>
+		<POS>CC DT JJ NN CC JJ VBP RB VBG WP DT JJ NN IN WDT PRP MD VB VBN .</POS>
+		<Lemma>and the automatic mode or semi-automatic be also learn what the correct situation in which it must be utilize .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>The effect of leaving only one color appearing in the picture and the remaining PB found it very interesting .</Tokens>
+		<POS>DT NN IN VBG RB CD NN VBG IN DT NN CC DT VBG NN VBD PRP RB JJ .</POS>
+		<Lemma>the effect of leave only one color appear in the picture and the remain pb find it very interesting .</Lemma>
+	</Sentence>
+</Document>

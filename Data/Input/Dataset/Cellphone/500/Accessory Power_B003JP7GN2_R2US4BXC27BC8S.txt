@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this charger because I planned to use it on a long driving vacation , but never got to take the vacation .</Tokens>
+		<POS>PRP VBD DT NN IN PRP VBD TO VB PRP IN DT JJ VBG NN , CC RB VBD TO VB DT NN .</POS>
+		<Lemma>I buy this charger because I plan to use it on a long drive vacation , but never get to take the vacation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I finally was going to use it , I plugged it into the car lighter -LRB- which works with my other devices and chargers -RRB- and plugged in my iPad , it would not charge .</Tokens>
+		<POS>WRB PRP RB VBD VBG TO VB PRP , PRP VBD PRP IN DT NN JJR -LRB- WDT VBZ IN PRP$ JJ NNS CC NNS -RRB- CC VBN IN PRP$ NN , PRP MD RB VB .</POS>
+		<Lemma>when I finally be go to use it , I plug it into the car lighter -lrb- which work with my other device and charger -rrb- and plug in my ipad , it would not charge .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I plugged it into my outlet at home and attached my G2 phone and it did not charge .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ NN IN NN CC VBN PRP$ NN NN CC PRP VBD RB VB .</POS>
+		<Lemma>I plug it into my outlet at home and attach my g2 phone and it do not charge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I give up .</Tokens>
+		<POS>PRP VBP RP .</POS>
+		<Lemma>I give up .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Since I had it so long before I used it , I do n't feel I should return it at this point , but I would n't feel right not letting everyone know that it 's not a good charger .</Tokens>
+		<POS>IN PRP VBD PRP RB RB IN PRP VBD PRP , PRP VBP RB VB PRP MD VB PRP IN DT NN , CC PRP MD RB VB JJ RB VBG NN VBP IN PRP VBZ RB DT JJ NN .</POS>
+		<Lemma>since I have it so long before I use it , I do not feel I should return it at this point , but I would not feel right not let everyone know that it be not a good charger .</Lemma>
+	</Sentence>
+</Document>

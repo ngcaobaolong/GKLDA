@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ok , for those of you with cars that have stock stereos w\/o aux .</Tokens>
+		<POS>NNP , IN DT IN PRP IN NNS WDT VBP NN NNS VBP NN .</POS>
+		<Lemma>Ok , for those of you with car that have stock stereo w\/o aux .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>or usb ports , even if you do , this device is God 's gift to smart phone accessories and you need to get one .</Tokens>
+		<POS>CC JJ NNS , RB IN PRP VBP , DT NN VBZ NNP POS NN TO JJ NN NNS CC PRP VBP TO VB CD .</POS>
+		<Lemma>or usb port , even if you do , this device be God 's gift to smart phone accessory and you need to get one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not only easy it easy to set up and use , but the quality of the build and sound transmission for music and hands free calls is no less than superlative .</Tokens>
+		<POS>RB RB JJ PRP JJ TO VB RP CC VB , CC DT NN IN DT VB CC VB NN IN NN CC NNS JJ NNS VBZ DT JJR IN JJ .</POS>
+		<Lemma>not only easy it easy to set up and use , but the quality of the build and sound transmission for music and hand free call be no less than superlative .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>By the press of a button the device even finds the best and clearest channel to connect to .</Tokens>
+		<POS>IN DT NN IN DT NN DT NN RB VBZ DT JJS CC JJS NN TO VB TO .</POS>
+		<Lemma>by the press of a button the device even find the best and clearest channel to connect to .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I really ca n't say enough good things about this device so the last thing I will mention is the price ... Ca n't really say its fair to the company to give it away so cheap for such an extremely well made device but they must actually care about their consumers .</Tokens>
+		<POS>PRP RB MD RB VB RB JJ NNS IN DT NN IN DT JJ NN PRP MD VB VBZ DT NN : MD RB RB VB PRP$ JJ TO DT NN TO VB PRP RB RB JJ IN JJ DT RB RB VBN NN CC PRP MD RB VB IN PRP$ NNS .</POS>
+		<Lemma>I really can not say enough good thing about this device so the last thing I will mention be the price ... can not really say its fair to the company to give it away so cheap for such a extremely well make device but they must actually care about they consumer .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My hat is off to GOgroove FlexSMART X2 this thing is a Beast !</Tokens>
+		<POS>PRP$ NN VBZ RB TO NNP NNP NN DT NN VBZ DT NN .</POS>
+		<Lemma>my hat be off to GOgroove FlexSMART x2 this thing be a beast !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Nuff said .</Tokens>
+		<POS>NNP VBD .</POS>
+		<Lemma>Nuff say .</Lemma>
+	</Sentence>
+</Document>

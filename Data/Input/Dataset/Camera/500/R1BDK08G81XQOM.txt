@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camcorder is incredible .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this camcorder be incredible .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a very good value for the price .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN IN DT NN .</POS>
+		<Lemma>it be a very good value for the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The video quality is exceptional , and the audio quality is actually quite good .</Tokens>
+		<POS>DT JJ NN VBZ JJ , CC DT JJ NN VBZ RB RB JJ .</POS>
+		<Lemma>the video quality be exceptional , and the audio quality be actually quite good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Perfect for all purposes .</Tokens>
+		<POS>NNP IN DT NNS .</POS>
+		<Lemma>Perfect for all purpose .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I highly recommend this camcorder .</Tokens>
+		<POS>PRP RB VB DT NN .</POS>
+		<Lemma>I highly recommend this camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I wrote a short review because now I 'm off to go use it !</Tokens>
+		<POS>PRP VBD DT JJ NN IN RB PRP VBP RP TO VB VB PRP .</POS>
+		<Lemma>I write a short review because now I be off to go use it !</Lemma>
+	</Sentence>
+</Document>

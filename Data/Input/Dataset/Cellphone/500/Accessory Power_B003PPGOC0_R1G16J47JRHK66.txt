@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have only used this product for a few days now but I must say , given the price I paid , I am very pleased with it .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN DT JJ NNS RB CC PRP MD VB , VBN DT NN PRP VBD , PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>I have only use this product for a few day now but I must say , give the price I pay , I be very pleased with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have tried wired FM transmitters but my phone introduces static into the lines for some reason unless I placed it just right and then did n't move it for any reason .</Tokens>
+		<POS>PRP VBP VBN VBN NNP NNS CC PRP$ NN VBZ JJ IN DT NNS IN DT NN IN PRP VBD PRP RB RB CC RB VBD RB VB PRP IN DT NN .</POS>
+		<Lemma>I have try wire FM transmitter but my phone introduce static into the line for some reason unless I place it just right and then do not move it for any reason .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The Bluetooth connection that this establishes takes longer than other Bluetooth devices to connect , but the connection is good and strong after it is made , and with no static !</Tokens>
+		<POS>DT NNP NN IN DT VBZ VBZ JJR IN JJ NNP NNS TO VB , CC DT NN VBZ JJ CC JJ IN PRP VBZ VBN , CC IN DT JJ .</POS>
+		<Lemma>the Bluetooth connection that this establish take longer than other Bluetooth device to connect , but the connection be good and strong after it be make , and with no static !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The adjustable arm seems very solid .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>the adjustable arm seem very solid .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The power button seem flimsy , but that is really the only part of the product that does n't seem high quality to me .</Tokens>
+		<POS>DT NN NN VBP JJ , CC DT VBZ RB DT JJ NN IN DT NN WDT VBZ RB VB JJ NN TO PRP .</POS>
+		<Lemma>the power button seem flimsy , but that be really the only part of the product that do not seem high quality to I .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I used the auto select feature , and while it selected an alright station , it did not select the optimal one .</Tokens>
+		<POS>PRP VBD DT NN JJ NN , CC IN PRP VBD DT JJ NN , PRP VBD RB VB DT JJ CD .</POS>
+		<Lemma>I use the auto select feature , and while it select a alright station , it do not select the optimal one .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>After selecting a different station that I knew to transmit well in my area the sound quality is simply outstanding whether I am streaming from Pandora or listening to my music -LRB- from either my iPhone 4 or iPad -RRB- .</Tokens>
+		<POS>IN VBG DT JJ NN IN PRP VBD TO VB RB IN PRP$ NN DT JJ NN VBZ RB JJ IN PRP VBP NN IN NNP CC VBG TO PRP$ NN -LRB- IN CC PRP$ NNP CD CC NN -RRB- .</POS>
+		<Lemma>after select a different station that I know to transmit well in my area the sound quality be simply outstanding whether I be streaming from Pandora or listen to my music -lrb- from either my iPhone 4 or ipad -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have not tried the phone features yet but will probably use them sometime soon .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NNS RB CC MD RB VB PRP RB RB .</POS>
+		<Lemma>I have not try the phone feature yet but will probably use they sometime soon .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I will check back in when I have tested those as well .</Tokens>
+		<POS>PRP MD VB RB IN WRB PRP VBP VBN DT RB RB .</POS>
+		<Lemma>I will check back in when I have test those as well .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I will also check in regarding longevity after I have used it some more .</Tokens>
+		<POS>PRP MD RB VB IN VBG NN IN PRP VBP VBN PRP DT JJR .</POS>
+		<Lemma>I will also check in regard longevity after I have use it some more .</Lemma>
+	</Sentence>
+</Document>

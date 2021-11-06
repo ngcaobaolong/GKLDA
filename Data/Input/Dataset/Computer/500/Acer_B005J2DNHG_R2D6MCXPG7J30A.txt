@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I knew that this was n't going to be that good of a product , i just needed something to surf the internet while i was away from my computer .</Tokens>
+		<POS>PRP VBD IN DT VBD RB VBG TO VB DT NN IN DT NN , FW RB VBN NN TO NN DT NN IN FW VBD RB IN PRP$ NN .</POS>
+		<Lemma>I know that this be not go to be that good of a product , i just need something to surf the internet while i be away from my computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is too slow to even do that .</Tokens>
+		<POS>DT VBZ RB JJ TO RB VB DT .</POS>
+		<Lemma>this be too slow to even do that .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just spend a couple hundred more bucks and get a real computer .</Tokens>
+		<POS>RB VB DT NN CD JJR NNS CC VB DT JJ NN .</POS>
+		<Lemma>just spend a couple hundred more buck and get a real computer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I suggest a mac .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I suggest a mac .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Since i bought mine i will never go back to windows .</Tokens>
+		<POS>IN FW VBD PRP FW MD RB VB RB TO NNS .</POS>
+		<Lemma>since i buy mine i will never go back to window .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased the monitor about a month ago .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN RB .</POS>
+		<Lemma>I purchase the monitor about a month ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was easy to set up and works great .</Tokens>
+		<POS>PRP VBD JJ TO VB RP CC VBZ JJ .</POS>
+		<Lemma>it be easy to set up and work great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love the bigger screen and the little space it takes up .</Tokens>
+		<POS>PRP VBP DT JJR NN CC DT JJ NN PRP VBZ RP .</POS>
+		<Lemma>I love the bigger screen and the little space it take up .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I definitely would purchase it again .</Tokens>
+		<POS>PRP RB MD VB PRP RB .</POS>
+		<Lemma>I definitely would purchase it again .</Lemma>
+	</Sentence>
+</Document>

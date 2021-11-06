@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Popcorn came out great but be prepared to store in another container .</Tokens>
+		<POS>NN VBD RP JJ CC VB VBN TO VB IN DT NN .</POS>
+		<Lemma>popcorn come out great but be prepare to store in another container .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>used with Air-popper .</Tokens>
+		<POS>VBN IN NN .</POS>
+		<Lemma>use with air-popper .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Some say White popcorn is better but this was fine .</Tokens>
+		<POS>DT VBP NNP NN VBZ RBR CC DT VBD JJ .</POS>
+		<Lemma>some say White popcorn be better but this be fine .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Good bargain !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>good bargain !</Lemma>
+	</Sentence>
+</Document>

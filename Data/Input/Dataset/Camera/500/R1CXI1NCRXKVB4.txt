@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have a large house and I connected this device to my Airport Express -LRB- from Apple -RRB- , I then bought the dollar app from the Apple store and I am able to monitor my grandpa from within the network using my iPhone .</Tokens>
+		<POS>PRP VBP DT JJ NN CC PRP VBD DT NN TO PRP$ NNP NNP -LRB- IN NNP -RRB- , PRP RB VBD DT NN NN IN DT NNP NN CC PRP VBP JJ TO VB PRP$ NN IN IN DT NN VBG PRP$ NNP .</POS>
+		<Lemma>I have a large house and I connect this device to my Airport Express -lrb- from Apple -rrb- , I then buy the dollar app from the Apple store and I be able to monitor my grandpa from within the network use my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is such a great tool .</Tokens>
+		<POS>PRP VBZ JJ DT JJ NN .</POS>
+		<Lemma>it be such a great tool .</Lemma>
+	</Sentence>
+</Document>

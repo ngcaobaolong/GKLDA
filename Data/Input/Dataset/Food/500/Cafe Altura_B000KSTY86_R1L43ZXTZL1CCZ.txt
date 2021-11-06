@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A very good flavor and no bitterness at all .</Tokens>
+		<POS>DT RB JJ NN CC DT NN IN DT .</POS>
+		<Lemma>a very good flavor and no bitterness at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is the first organic grown coffee I have tried .</Tokens>
+		<POS>DT VBZ DT JJ JJ JJ NN PRP VBP VBN .</POS>
+		<Lemma>this be the first organic grown coffee I have try .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I usually buy Starbucks Sumatran or expresso beans , but thought I would try something new .</Tokens>
+		<POS>PRP RB VBP NNP NNP CC JJ NNS , CC VBD PRP MD VB NN JJ .</POS>
+		<Lemma>I usually buy Starbucks Sumatran or expresso bean , but think I would try something new .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was not disappointed !</Tokens>
+		<POS>PRP VBD RB JJ .</POS>
+		<Lemma>I be not disappointed !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have bought the Sumatran version of this organic coffee and was even more pleased with it .</Tokens>
+		<POS>PRP VBP VBN DT NNP NN IN DT JJ NN CC VBD RB RBR JJ IN PRP .</POS>
+		<Lemma>I have buy the Sumatran version of this organic coffee and be even more pleased with it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Nice earthy flavor without bitterness .</Tokens>
+		<POS>JJ JJ NN IN NN .</POS>
+		<Lemma>nice earthy flavor without bitterness .</Lemma>
+	</Sentence>
+</Document>

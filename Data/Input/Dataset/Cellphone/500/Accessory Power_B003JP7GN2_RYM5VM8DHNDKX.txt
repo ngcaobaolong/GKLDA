@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is amazing !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this product be amazing !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does everything and more than I wanted it to .</Tokens>
+		<POS>PRP VBZ NN CC JJR IN PRP VBD PRP TO .</POS>
+		<Lemma>it do everything and more than I want it to .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Being able to use a battery -LRB- AA -RRB- is a life saver when there is no plug available .</Tokens>
+		<POS>VBG JJ TO VB DT NN -LRB- NN -RRB- VBZ DT NN NN WRB EX VBZ DT NN JJ .</POS>
+		<Lemma>be able to use a battery -lrb- aa -rrb- be a life saver when there be no plug available .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I will be giving these as gifts to friends .</Tokens>
+		<POS>PRP MD VB VBG DT IN NNS TO NNS .</POS>
+		<Lemma>I will be give these as gift to friend .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I enjoy taking great photographs and lets face it , only the best and most expensive equipment gives you the quality that some demand .</Tokens>
+		<POS>PRP VBP VBG JJ NNS CC VBZ NN PRP , RB DT JJS CC RBS JJ NN VBZ PRP DT NN IN DT NN .</POS>
+		<Lemma>I enjoy take great photograph and let face it , only the best and most expensive equipment give you the quality that some demand .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Lets face something else ... you can not carry around a bunch of equipment with you all the time and have it set up to capture that `` quick take a picture '' shot .</Tokens>
+		<POS>VBZ NN NN RB : PRP MD RB VB RP DT NN IN NN IN PRP PDT DT NN CC VBP PRP VBN RP TO VB IN `` JJ VB DT NN '' NN .</POS>
+		<Lemma>let face something else ... you can not carry around a bunch of equipment with you all the time and have it set up to capture that `` quick take a picture '' shot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is one of the many reasons there is such a big market for digital point and shoot cameras .</Tokens>
+		<POS>DT VBZ CD IN DT JJ NNS EX VBZ JJ DT JJ NN IN JJ NN CC VB NNS .</POS>
+		<Lemma>this be one of the many reason there be such a big market for digital point and shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Well .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Im not a professional photographer but I sure come across as one when people see the pictures I take with my S100 .</Tokens>
+		<POS>NN RB DT JJ NNP CC PRP RB VBP RP IN CD WRB NNS VBP DT NNS PRP VBP IN PRP$ NN .</POS>
+		<Lemma>im not a professional photographer but I sure come across as one when people see the picture I take with my s100 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is simply the best compact digital camera ever made .</Tokens>
+		<POS>PRP VBZ RB DT JJS JJ JJ NN RB VBN .</POS>
+		<Lemma>it be simply the best compact digital camera ever make .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Are you just a point and shoot type ?</Tokens>
+		<POS>VBP PRP RB DT NN CC NN NN .</POS>
+		<Lemma>be you just a point and shoot type ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Fine .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Fine .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Set the dial to auto and go ahead and make beautiful pictures .</Tokens>
+		<POS>VB DT NN TO NN CC VB RB CC VB JJ NNS .</POS>
+		<Lemma>set the dial to auto and go ahead and make beautiful picture .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Are you a serious photographer ?</Tokens>
+		<POS>VBP PRP DT JJ NNP .</POS>
+		<Lemma>be you a serious photographer ?</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Put this little number in your pocket and rest assured that you have all that you need to compose a masterpiece .</Tokens>
+		<POS>VB DT JJ NN IN PRP$ NN CC NN VBD IN PRP VBP DT IN PRP VBP TO VB DT NN .</POS>
+		<Lemma>put this little number in you pocket and rest assure that you have all that you need to compose a masterpiece .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm extremely pleased with this netbook .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be extremely pleased with this netbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had tried a netbook a couple of years ago and found it to be an unpleasant experience , but this new Acer is nicely designed and has adequate display resolution to allow you to work comfortably on the web .</Tokens>
+		<POS>PRP VBD VBN DT NN DT NN IN NNS RB CC VBD PRP TO VB DT JJ NN , CC DT JJ NNP VBZ RB VBN CC VBZ JJ NN NN TO VB PRP TO VB RB IN DT NN .</POS>
+		<Lemma>I have try a netbook a couple of year ago and find it to be a unpleasant experience , but this new Acer be nicely design and have adequate display resolution to allow you to work comfortably on the web .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I needed an inexpensive machine that would let me do e-mails and run my business remotely when occasionally traveling .</Tokens>
+		<POS>PRP VBD DT JJ NN WDT MD VB PRP VB NNS CC VB PRP$ NN RB WRB RB VBG .</POS>
+		<Lemma>I need a inexpensive machine that would let I do e-mail and run my business remotely when occasionally travel .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I had tried the iPad several times but it is really not flexible enough in that it would not allow me to run the e-mail program of my choice .</Tokens>
+		<POS>PRP VBD VBN DT NN JJ NNS CC PRP VBZ RB RB JJ RB IN IN PRP MD RB VB PRP TO VB DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>I have try the ipad several time but it be really not flexible enough in that it would not allow I to run the e-mail program of my choice .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This Acer netbook combines the flexibility of running a real computer with portability and affordability .</Tokens>
+		<POS>DT NNP NN VBZ DT NN IN VBG DT JJ NN IN NN CC NN .</POS>
+		<Lemma>this Acer netbook combine the flexibility of run a real computer with portability and affordability .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am a lifelong Mac user and have never owned an Acer product before , I have owned this short time so I hope it will turn out to be a reliable machine .</Tokens>
+		<POS>PRP VBP DT JJ NNP NN CC VBP RB VBN DT NNP NN RB , PRP VBP VBN DT JJ NN IN PRP VBP PRP MD VB RP TO VB DT JJ NN .</POS>
+		<Lemma>I be a lifelong Mac user and have never own a Acer product before , I have own this short time so I hope it will turn out to be a reliable machine .</Lemma>
+	</Sentence>
+</Document>

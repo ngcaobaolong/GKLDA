@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been contemplating whether to buy a decked-out 19-20 '' LCD or the Samsung LCD TVs that the XBOX booths are using for the last 2-3 months .</Tokens>
+		<POS>PRP VBP VBN VBG IN TO VB DT JJ CD '' NNS CC DT NNP NNS NNS IN DT NNP NNS VBP VBG IN DT JJ CD NNS .</POS>
+		<Lemma>I have be contemplate whether to buy a decked-out 19-20 '' lcd or the Samsung lcd tv that the XBOX booth be use for the last 2-3 month .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Came across this Ferrari monitor , and since I have been looking at the Samsung 23 and 26 inch TVs , my price sensitivity has been inflated and felt dropping ~ $ 550-600 for a 20inch LCD was acceptable .</Tokens>
+		<POS>NNP IN DT NNP NN , CC IN PRP VBP VBN VBG IN DT NNP CD CC CD NN NNS , PRP$ NN NN VBZ VBN VBN CC VBD VBG RB $ CD IN DT JJ NNS VBD JJ .</POS>
+		<Lemma>Came across this Ferrari monitor , and since I have be look at the Samsung 23 and 26 inch tv , my price sensitivity have be inflate and feel drop ~ $ 550-600 for a 20inch lcd be acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Given that I wanted a dual functioning LCD and TV , the Ferrari really appealed to me .</Tokens>
+		<POS>VBN IN PRP VBD DT JJ VBG NNS CC NN , DT NNP RB VBD TO PRP .</POS>
+		<Lemma>give that I want a dual function lcd and tv , the Ferrari really appeal to I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was about to order it , but I 'm glad I poked around on A9 for more reviews .</Tokens>
+		<POS>PRP VBD IN TO VB PRP , CC PRP VBP JJ PRP VBD RP IN NN IN JJR NNS .</POS>
+		<Lemma>I be about to order it , but I be glad I poke around on a9 for more review .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>- This monitor , according to many review sites , -LRB- and many from other continents -RRB- , HAS a TV tuner built in .</Tokens>
+		<POS>: DT NN , VBG TO JJ NN NNS , -LRB- CC JJ IN JJ NNS -RRB- , VBZ DT NN NN VBN IN .</POS>
+		<Lemma>- this monitor , accord to many review site , -lrb- and many from other continent -rrb- , have a tv tuner build in .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is great since I would 've been able to plug in my DVD player , etc , and living in a 400 sq ft apt , it 's ideal for me .</Tokens>
+		<POS>DT VBZ JJ IN PRP MD VB VBN JJ TO VB IN PRP$ NN NN , NN , CC NN IN DT CD NN NN JJ , PRP VBZ JJ IN PRP .</POS>
+		<Lemma>this be great since I would have be able to plug in my dvd player , etc , and living in a 400 sq ft apt , it be ideal for I .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>- But the REALITY = North America models DOES NOT have the TV inputs built in .</Tokens>
+		<POS>: CC DT NN JJ NNP NNP NNS NNP NNP VBP DT NN NNS VBN IN .</POS>
+		<Lemma>- but the reality = North America model DOES NOT have the tv input build in .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Why the reason Acer removed them , I do not know .</Tokens>
+		<POS>WRB DT NN NN VBD PRP , PRP VBP RB VB .</POS>
+		<Lemma>why the reason acer remove they , I do not know .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It 's a shame , because I was this close to buying it .</Tokens>
+		<POS>PRP VBZ DT NN , IN PRP VBD DT JJ TO VBG PRP .</POS>
+		<Lemma>it be a shame , because I be this close to buy it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Looks very attractive , regardless , but without the TV functionality , $ 570 - $ 600 is too much to drop just for a nice chassis , paint job , and the Ferrari emblem .</Tokens>
+		<POS>VBZ RB JJ , RB , CC IN DT NN NN , $ CD : $ CD VBZ RB JJ TO VB RB IN DT JJ NN , NN NN , CC DT NNP NN .</POS>
+		<Lemma>look very attractive , regardless , but without the tv functionality , $ 570 - $ 600 be too much to drop just for a nice chassis , paint job , and the Ferrari emblem .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 'm going for the Samsung instead sometime soon .</Tokens>
+		<POS>PRP VBP VBG IN DT NNP RB RB RB .</POS>
+		<Lemma>I be go for the Samsung instead sometime soon .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Acer America - you should do more market R&D first before deciding to pull the TV tuner\/input feature .</Tokens>
+		<POS>NNP NNP : PRP MD VB JJR NN NN RB IN VBG TO VB DT NN NN NN .</POS>
+		<Lemma>Acer America - you should do more market r&d first before decide to pull the tv tuner\/input feature .</Lemma>
+	</Sentence>
+</Document>

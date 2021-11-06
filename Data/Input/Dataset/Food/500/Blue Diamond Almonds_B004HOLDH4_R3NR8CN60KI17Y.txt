@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you like snacks that are a healthier alternative to other options , almonds are a great way to go .</Tokens>
+		<POS>IN PRP IN NNS WDT VBP DT JJR NN TO JJ NNS , NNS VBP DT JJ NN TO VB .</POS>
+		<Lemma>if you like snack that be a healthier alternative to other option , almond be a great way to go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These almonds are lightly salted and roasted .</Tokens>
+		<POS>DT NNS VBP RB VBN CC JJ .</POS>
+		<Lemma>these almond be lightly salt and roasted .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are absolutely delicious .</Tokens>
+		<POS>PRP VBP RB JJ .</POS>
+		<Lemma>they be absolutely delicious .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I could easily see getting in trouble with these since I could sit down and eat the whole can in a sitting and not even realize it .</Tokens>
+		<POS>PRP MD RB VB VBG IN NN IN DT IN PRP MD VB RB CC VB DT NN MD IN DT VBG CC RB RB VB PRP .</POS>
+		<Lemma>I could easily see get in trouble with these since I could sit down and eat the whole can in a sit and not even realize it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I snack on them pretty much every morning to tide me over until lunch without having to eat a big meal or something very unhealthy for me .</Tokens>
+		<POS>PRP NN IN PRP RB RB DT NN TO NN PRP IN IN NN IN VBG TO VB DT JJ NN CC NN RB JJ IN PRP .</POS>
+		<Lemma>I snack on they pretty much every morning to tide I over until lunch without have to eat a big meal or something very unhealthy for I .</Lemma>
+	</Sentence>
+</Document>

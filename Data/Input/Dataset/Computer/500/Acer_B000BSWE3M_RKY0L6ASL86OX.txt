@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is anexcellent monitor .</Tokens>
+		<POS>DT VBZ JJ NN .</POS>
+		<Lemma>this be anexcellent monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only down side , and it is a slight one , is that it does n't have any speakers built in .</Tokens>
+		<POS>DT RB RB NN , CC PRP VBZ DT JJ CD , VBZ IN PRP VBZ RB VB DT NNS VBN IN .</POS>
+		<Lemma>the only down side , and it be a slight one , be that it do not have any speaker build in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is great for the price .</Tokens>
+		<POS>PRP VBZ JJ IN DT NN .</POS>
+		<Lemma>it be great for the price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have n't any complaints .</Tokens>
+		<POS>PRP VBP RB DT NNS .</POS>
+		<Lemma>I have not any complaint .</Lemma>
+	</Sentence>
+</Document>

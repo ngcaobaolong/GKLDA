@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As others note , this is NOT a charging cable .</Tokens>
+		<POS>IN NNS VBP , DT VBZ RB DT VBG NN .</POS>
+		<Lemma>as other note , this be not a charge cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The item shows up in searches for charging cables because it says `` charge '' in the title and -LRB- I suppose -RRB- because someone has tagged it as such .</Tokens>
+		<POS>DT NN VBZ RP IN NNS IN VBG NNS IN PRP VBZ `` NN '' IN DT NN CC -LRB- PRP VBP -RRB- IN NN VBZ VBN PRP IN JJ .</POS>
+		<Lemma>the item show up in search for charge cable because it say `` charge '' in the title and -lrb- I suppose -rrb- because someone have tag it as such .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Further reading shows that it is just a data cable .</Tokens>
+		<POS>JJ NN VBZ IN PRP VBZ RB DT NN NN .</POS>
+		<Lemma>further reading show that it be just a datum cable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm usually a careful reader , so who knows what the description said when I placed my order ?</Tokens>
+		<POS>PRP VBP RB DT JJ NN , RB WP VBZ WP DT NN VBD WRB PRP VBD PRP$ NN .</POS>
+		<Lemma>I be usually a careful reader , so who know what the description say when I place my order ?</Lemma>
+	</Sentence>
+</Document>

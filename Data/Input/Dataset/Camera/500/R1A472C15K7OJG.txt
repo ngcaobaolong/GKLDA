@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I absolutely love this camera .</Tokens>
+		<POS>PRP RB VBP DT NN .</POS>
+		<Lemma>I absolutely love this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I took it and a larger one with me on a family vacation ... after seeing the quality of the pictures was about the same and without having to worry about sand and water , I preferentially used this one .</Tokens>
+		<POS>PRP VBD PRP CC DT JJR CD IN PRP IN DT NN NN : IN VBG DT NN IN DT NNS VBD IN DT JJ CC IN VBG TO VB IN NN CC NN , PRP RB VBD DT CD .</POS>
+		<Lemma>I take it and a larger one with I on a family vacation ... after see the quality of the picture be about the same and without have to worry about sand and water , I preferentially use this one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's light-weight , takes excellent pictures , and performed admirably while we were bobbing in the ocean .</Tokens>
+		<POS>PRP VBZ JJ , VBZ JJ NNS , CC VBN RB IN PRP VBD VBG IN DT NN .</POS>
+		<Lemma>it be light-weight , take excellent picture , and perform admirably while we be bob in the ocean .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You also do n't have to think too much if you 're trying to capture memories -LRB- as opposed to composing great works of art -RRB- .</Tokens>
+		<POS>PRP RB VBP RB VB TO VB RB JJ IN PRP VBP VBG TO VB NNS -LRB- IN VBN TO VBG JJ NNS IN NN -RRB- .</POS>
+		<Lemma>you also do not have to think too much if you be try to capture memory -lrb- as oppose to compose great work of art -rrb- .</Lemma>
+	</Sentence>
+</Document>

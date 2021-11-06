@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought two of these monitors for Christmas gifts for my parents .</Tokens>
+		<POS>PRP VBD CD IN DT NNS IN NNP NNS IN PRP$ NNS .</POS>
+		<Lemma>I buy two of these monitor for Christmas gift for my parent .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They 've both called me to tell me that they love all of their newfound space on their desks and how great the picture is !</Tokens>
+		<POS>PRP VBP DT VBN PRP TO VB PRP IN PRP VBP DT IN PRP$ JJ NN IN PRP$ NNS CC WRB JJ DT NN VBZ .</POS>
+		<Lemma>they have both call I to tell I that they love all of they newfound space on they desk and how great the picture be !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Would highly recommend this as a gift for someone else , or yourself .</Tokens>
+		<POS>MD RB VB DT IN DT NN IN NN RB , CC PRP .</POS>
+		<Lemma>would highly recommend this as a gift for someone else , or yourself .</Lemma>
+	</Sentence>
+</Document>

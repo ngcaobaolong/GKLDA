@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Can you say manna from heaven .</Tokens>
+		<POS>MD PRP VB NN IN NN .</POS>
+		<Lemma>can you say manna from heaven .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Well not really but probably close .</Tokens>
+		<POS>RB RB RB CC RB RB .</POS>
+		<Lemma>well not really but probably close .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>These do taste really good .</Tokens>
+		<POS>DT VBP NN RB JJ .</POS>
+		<Lemma>these do taste really good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They have a nice pick me up .</Tokens>
+		<POS>PRP VBP DT JJ NN PRP RP .</POS>
+		<Lemma>they have a nice pick I up .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can definately feel the difference .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>you can definately feel the difference .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I will be using these on all my bike rides .</Tokens>
+		<POS>PRP MD VB VBG DT IN DT PRP$ NN NNS .</POS>
+		<Lemma>I will be use these on all my bike ride .</Lemma>
+	</Sentence>
+</Document>

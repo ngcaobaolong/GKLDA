@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I think that the main advantage of this hardware is that it can go for a full day without the need to recharge .</Tokens>
+		<POS>PRP VBP IN DT JJ NN IN DT NN VBZ IN PRP MD VB IN DT JJ NN IN DT NN TO VB .</POS>
+		<Lemma>I think that the main advantage of this hardware be that it can go for a full day without the need to recharge .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is not a full fledged laptop nor is it a perfected , bug free operating system .</Tokens>
+		<POS>PRP VBZ RB DT JJ JJ NN CC VBZ PRP DT VBN , NN JJ NN NN .</POS>
+		<Lemma>it be not a full fledged laptop nor be it a perfect , bug free operating system .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also , not amazing in terms of user experience -LRB- hard to manage background running processes and memory usage -RRB- However it is good enough for on the go web-email-google-doc type of work and 99 % of issues are resolved by a 10 second restart .</Tokens>
+		<POS>RB , RB JJ IN NNS IN NN NN -LRB- JJ TO VB NN VBG NNS CC NN NN -RRB- WRB PRP VBZ JJ RB IN IN DT NN JJ NN IN NN CC CD NN IN NNS VBP VBN IN DT CD JJ VB .</POS>
+		<Lemma>also , not amazing in term of user experience -lrb- hard to manage background run process and memory usage -rrb- however it be good enough for on the go web-email-google-doc type of work and 99 % of issue be resolve by a 10 second restart .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The killer is fact that you can simply forget the power plug at home and go do your on the go work worry free that your device will run out of juice .</Tokens>
+		<POS>DT NN VBZ NN IN PRP MD RB VB DT NN NN IN NN CC VB VB PRP$ IN DT NN NN VBP JJ IN PRP$ NN MD VB IN IN NN .</POS>
+		<Lemma>the killer be fact that you can simply forget the power plug at home and go do you on the go work worry free that you device will run out of juice .</Lemma>
+	</Sentence>
+</Document>

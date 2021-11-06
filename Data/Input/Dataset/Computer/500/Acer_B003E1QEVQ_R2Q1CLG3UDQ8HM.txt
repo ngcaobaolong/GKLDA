@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am happy with the monitor .</Tokens>
+		<POS>PRP VBP JJ IN DT NN .</POS>
+		<Lemma>I be happy with the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I could not get used to the widescreen format monitors .</Tokens>
+		<POS>PRP MD RB VB VBN TO DT NN NN NNS .</POS>
+		<Lemma>I could not get use to the widescreen format monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is a perfect size and it takes up minimal space on the desk .</Tokens>
+		<POS>DT VBZ DT JJ NN CC PRP VBZ RP JJ NN IN DT NN .</POS>
+		<Lemma>this be a perfect size and it take up minimal space on the desk .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only negative is that the speakers are not very good .</Tokens>
+		<POS>DT JJ JJ VBZ IN DT NNS VBP RB RB JJ .</POS>
+		<Lemma>the only negative be that the speaker be not very good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Do n't plan on the speakers in this monitor replacing external speakers if you listen to music or lots of video .</Tokens>
+		<POS>VBP RB VB IN DT NNS IN DT NN VBG JJ NNS IN PRP VBP TO NN CC NNS IN NN .</POS>
+		<Lemma>do not plan on the speaker in this monitor replace external speaker if you listen to music or lot of video .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But they 're just fine for the average computer use and online searching .</Tokens>
+		<POS>CC PRP VBP RB JJ IN DT JJ NN NN CC NN VBG .</POS>
+		<Lemma>but they be just fine for the average computer use and online search .</Lemma>
+	</Sentence>
+</Document>

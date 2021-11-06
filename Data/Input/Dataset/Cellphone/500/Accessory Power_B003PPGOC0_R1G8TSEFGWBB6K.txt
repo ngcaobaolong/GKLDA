@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was my first experience with a FM Transmitter for Bluetooth or music .</Tokens>
+		<POS>DT VBD PRP$ JJ NN IN DT NNP NNP IN NNP CC NN .</POS>
+		<Lemma>this be my first experience with a FM Transmitter for Bluetooth or music .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If I had to do it again , I would have passed on this deal .</Tokens>
+		<POS>IN PRP VBD TO VB PRP RB , PRP MD VB VBN IN DT NN .</POS>
+		<Lemma>if I have to do it again , I would have pass on this deal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is great to have a phone call go through my car speakers .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT NN NN VB IN PRP$ NN NNS .</POS>
+		<Lemma>it be great to have a phone call go through my car speaker .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And it is nice to have my music automatically go quiet for phone calls .</Tokens>
+		<POS>CC PRP VBZ JJ TO VB PRP$ NN RB VB JJ IN NN NNS .</POS>
+		<Lemma>and it be nice to have my music automatically go quiet for phone call .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However , the transmission through the FM station is very iffy .</Tokens>
+		<POS>RB , DT NN IN DT NNP NN VBZ RB JJ .</POS>
+		<Lemma>however , the transmission through the FM station be very iffy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And the automatic search for a free station does not work very well .</Tokens>
+		<POS>CC DT JJ NN IN DT JJ NN VBZ RB VB RB RB .</POS>
+		<Lemma>and the automatic search for a free station do not work very well .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Well this did n't do too much for my phone .</Tokens>
+		<POS>RB DT VBD RB VB RB JJ IN PRP$ NN .</POS>
+		<Lemma>well this do not do too much for my phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I put three of them in .</Tokens>
+		<POS>PRP VBD CD IN PRP IN .</POS>
+		<Lemma>I put three of they in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>With that being said , Ithink my phone has some internal antenna issues .</Tokens>
+		<POS>IN DT VBG VBD , NNP PRP$ NN VBZ DT JJ NN NNS .</POS>
+		<Lemma>with that be say , Ithink my phone have some internal antenna issue .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I installed in two other phones and it did seem to add an extra bar .</Tokens>
+		<POS>PRP VBD IN CD JJ NNS CC PRP VBD VB TO VB DT JJ NN .</POS>
+		<Lemma>I install in two other phone and it do seem to add a extra bar .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For as cheap as they are It seems like it would n't hurt .</Tokens>
+		<POS>IN RB JJ IN PRP VBP PRP VBZ IN PRP MD RB VB .</POS>
+		<Lemma>for as cheap as they be it seem like it would not hurt .</Lemma>
+	</Sentence>
+</Document>

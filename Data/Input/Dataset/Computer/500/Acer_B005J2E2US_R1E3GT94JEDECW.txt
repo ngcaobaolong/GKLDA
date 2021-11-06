@@ -1,0 +1,397 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are someone who is looking for a computer that can game , and you 're on a budget , look no further then the Acer Aspire One AO722-0473 Netbook .</Tokens>
+		<POS>IN PRP VBP NN WP VBZ VBG IN DT NN WDT MD NN , CC PRP VBP IN DT NN , VB DT JJ RB DT NNP NNP CD NN NN .</POS>
+		<Lemma>if you be someone who be look for a computer that can game , and you be on a budget , look no further then the Acer Aspire one ao722-0473 netbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But , I 'm guessing you would prefer more detail then that .</Tokens>
+		<POS>CC , PRP VBP VBG PRP MD VB JJR NN RB IN .</POS>
+		<Lemma>but , I be guess you would prefer more detail then that .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First , I want to address what 's bad about this laptop .</Tokens>
+		<POS>RB , PRP VBP TO VB WP VBZ JJ IN DT NN .</POS>
+		<Lemma>first , I want to address what be bad about this laptop .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Which , honestly , for this price is not much .</Tokens>
+		<POS>WDT , RB , IN DT NN VBZ RB JJ .</POS>
+		<Lemma>which , honestly , for this price be not much .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Now , my biggest problem with this laptop is the fact that it is a gigantic fingerprint magnet .</Tokens>
+		<POS>RB , PRP$ JJS NN IN DT NN VBZ DT NN IN PRP VBZ DT JJ NN NN .</POS>
+		<Lemma>now , my biggest problem with this laptop be the fact that it be a gigantic fingerprint magnet .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Both the screen and top cover will gather fingerprints faster then you can blink an eye , and you will find yourself wiping the screen and cover off far more then you would prefer .</Tokens>
+		<POS>CC DT NN CC JJ NN MD VB NNS RBR RB PRP MD VB DT NN , CC PRP MD VB PRP VBG DT NN CC VB RP RB RBR RB PRP MD VB .</POS>
+		<Lemma>both the screen and top cover will gather fingerprint faster then you can blink a eye , and you will find yourself wipe the screen and cover off far more then you would prefer .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Another is the fact that there was inaccurate information given about the size of the hard drive on this thing .</Tokens>
+		<POS>DT VBZ DT NN IN EX VBD JJ NN VBN IN DT NN IN DT JJ NN IN DT NN .</POS>
+		<Lemma>another be the fact that there be inaccurate information give about the size of the hard drive on this thing .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is advertised as a 320 GB hard drive , but I received a 284 gig hard drive .</Tokens>
+		<POS>PRP VBZ VBN IN DT CD NN JJ NN , CC PRP VBD DT CD NN JJ NN .</POS>
+		<Lemma>it be advertise as a 320 gb hard drive , but I receive a 284 gig hard drive .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I expect a bit of fluctuation , but a whole 36 gigs missing is a huge annoyance .</Tokens>
+		<POS>PRP VBP DT NN IN NN , CC DT JJ CD NNS VBG VBZ DT JJ NN .</POS>
+		<Lemma>I expect a bit of fluctuation , but a whole 36 gig miss be a huge annoyance .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But , even if you receive one of these with that size of a hard drive , it should be more then adequate for your needs .</Tokens>
+		<POS>CC , RB IN PRP VBP CD IN DT IN DT NN IN DT JJ NN , PRP MD VB RBR RB JJ IN PRP$ NNS .</POS>
+		<Lemma>but , even if you receive one of these with that size of a hard drive , it should be more then adequate for you need .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Next is that it does n't come with a bluetooth card , but I do n't use bluetooth devices so it 's not an issue .</Tokens>
+		<POS>JJ VBZ IN PRP VBZ RB VBN IN DT JJ NN , CC PRP VBP RB VB JJ NNS IN PRP VBZ RB DT NN .</POS>
+		<Lemma>next be that it do not come with a bluetooth card , but I do not use bluetooth device so it be not a issue .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Anyways , it is easily fixed with a USB dongle that according to other reviewers is ~ 25 dollars .</Tokens>
+		<POS>RB , PRP VBZ RB VBN IN DT JJ NN WDT VBG TO JJ NNS VBZ NN CD NNS .</POS>
+		<Lemma>anyways , it be easily fix with a usb dongle that accord to other reviewer be ~ 25 dollar .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Last , but not least , is the weak processor .</Tokens>
+		<POS>JJ , CC RB JJS , VBZ DT JJ NN .</POS>
+		<Lemma>last , but not least , be the weak processor .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The 722 uses the AMD Dual Core C-60 Processor , mine has Turbo CORE technology that gets it up to 1.333 GHz , but the base version has 1 Gigahert period .</Tokens>
+		<POS>DT CD VBZ DT NNP JJ NN NN NNP , PRP VBZ NNP NNP NN WDT VBZ PRP RP TO CD NNP , CC DT NN NN VBZ CD NN NN .</POS>
+		<Lemma>the 722 use the AMD dual core c-60 Processor , mine have Turbo CORE technology that get it up to 1.333 GHz , but the base version have 1 gigahert period .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Now , the reason I have a problem with this is because I am a gamer , and I actually game quite a bit on this computer .</Tokens>
+		<POS>RB , DT NN PRP VBP DT NN IN DT VBZ IN PRP VBP DT NN , CC PRP RB NN RB DT NN IN DT NN .</POS>
+		<Lemma>now , the reason I have a problem with this be because I be a gamer , and I actually game quite a bit on this computer .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I meet the minimum requirements for most modern games across the board , except the processor , which is to weak to play them .</Tokens>
+		<POS>PRP VBP DT JJ NNS IN JJS JJ NNS IN DT NN , IN DT NN , WDT VBZ TO JJ TO VB PRP .</POS>
+		<Lemma>I meet the minimum requirement for most modern game across the board , except the processor , which be to weak to play they .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>But , that 's it for the bad .</Tokens>
+		<POS>CC , DT VBZ PRP IN DT JJ .</POS>
+		<Lemma>but , that be it for the bad .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Now for the good , which far outweighs what is bad .</Tokens>
+		<POS>RB IN DT JJ , WDT RB VBZ WP VBZ JJ .</POS>
+		<Lemma>now for the good , which far outweigh what be bad .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>One of the best things about this laptop is the fact that it has a full-size keyboard .</Tokens>
+		<POS>CD IN DT JJS NNS IN DT NN VBZ DT NN IN PRP VBZ DT JJ NN .</POS>
+		<Lemma>one of the best thing about this laptop be the fact that it have a full-size keyboard .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I 'm a writer , and this really makes my day .</Tokens>
+		<POS>PRP VBP DT NN , CC DT RB VBZ PRP$ NN .</POS>
+		<Lemma>I be a writer , and this really make my day .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I can drill away and type without making many mistakes because this keyboard is so easy to get the hang of .</Tokens>
+		<POS>PRP MD VB RB CC NN IN VBG JJ NNS IN DT NN VBZ RB JJ TO VB DT VB IN .</POS>
+		<Lemma>I can drill away and type without make many mistake because this keyboard be so easy to get the hang of .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>It also presents all of it 's functions in an easy fashion .</Tokens>
+		<POS>PRP RB VBZ DT IN PRP VBZ NNS IN DT JJ NN .</POS>
+		<Lemma>it also present all of it be function in a easy fashion .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>All you need to do is hold down the function button and hit one of the F keys with a picture on it .</Tokens>
+		<POS>DT PRP VBP TO VB VBZ VB RP DT NN NN CC VBD CD IN DT NN NNS IN DT NN IN PRP .</POS>
+		<Lemma>all you need to do be hold down the function button and hit one of the f key with a picture on it .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>All of the pictures clearly explain what they do , so this makes it very easy to disable to touchpad while you 're typing so that you do n't accidentally hit it with you 're palm or mute the sound when you 're in a quiet public area .</Tokens>
+		<POS>DT IN DT NNS RB VBP WP PRP VBP , RB DT VBZ PRP RB JJ TO VB TO NN IN PRP VBP NN IN IN PRP VBP RB RB VB PRP IN PRP VBP NN CC VB DT NN WRB PRP VBP IN DT JJ JJ NN .</POS>
+		<Lemma>all of the picture clearly explain what they do , so this make it very easy to disable to touchpad while you be typing so that you do not accidentally hit it with you be palm or mute the sound when you be in a quiet public area .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Second , I have seen reviews that say the speakers on this thing are bad .</Tokens>
+		<POS>RB , PRP VBP VBN NNS WDT VBP DT NNS IN DT NN VBP JJ .</POS>
+		<Lemma>second , I have see review that say the speaker on this thing be bad .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>That just is n't the case , they output audio quietly , but they are sufficient for my needs .</Tokens>
+		<POS>DT RB VBZ RB DT NN , PRP NN NN RB , CC PRP VBP JJ IN PRP$ NNS .</POS>
+		<Lemma>that just be not the case , they output audio quietly , but they be sufficient for my need .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I do wish they were a bit louder , but just because they 're a little on the quiet side does n't make them bad .</Tokens>
+		<POS>PRP VBP VB PRP VBD DT NN RBR , CC RB IN PRP VBP DT JJ IN DT JJ NN VBZ RB VB PRP JJ .</POS>
+		<Lemma>I do wish they be a bit louder , but just because they be a little on the quiet side do not make they bad .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>It does n't distort my audio , and while music and other things are quiet , they are at least clear .</Tokens>
+		<POS>PRP VBZ RB VB PRP$ NN , CC IN NN CC JJ NNS VBP JJ , PRP VBP IN JJS JJ .</POS>
+		<Lemma>it do not distort my audio , and while music and other thing be quiet , they be at least clear .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Anyways , you are usually carrying netbooks around to use in public areas , which you would of course want headphones for anyway .</Tokens>
+		<POS>RB , PRP VBP RB VBG NNS IN TO VB IN JJ NNS , WDT PRP MD IN NN VBP NNS IN RB .</POS>
+		<Lemma>anyways , you be usually carry netbook around to use in public area , which you would of course want headphone for anyway .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Third , this thing is light .</Tokens>
+		<POS>NNP , DT NN VBZ JJ .</POS>
+		<Lemma>Third , this thing be light .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>I can toss it in my bookbag or just carry it around and hardly notice it 's there .</Tokens>
+		<POS>PRP MD VB PRP IN PRP$ NN CC RB VB PRP IN CC RB VB PRP VBZ RB .</POS>
+		<Lemma>I can toss it in my bookbag or just carry it around and hardly notice it be there .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>It 's also very thin , so it can actually fit in my overstuffed bag .</Tokens>
+		<POS>PRP VBZ RB RB JJ , IN PRP MD RB VB IN PRP$ JJ NN .</POS>
+		<Lemma>it be also very thin , so it can actually fit in my overstuffed bag .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Fourth , and best of all , this netbook comes with Windows 7 Home Premium , NOT starter , which is rare for netbooks at the price .</Tokens>
+		<POS>JJ , CC JJS IN DT , DT NN VBZ IN NNP CD NNP NNP , NNP JJ , WDT VBZ JJ IN NNS IN DT NN .</POS>
+		<Lemma>fourth , and best of all , this netbook come with Windows 7 Home Premium , NOT starter , which be rare for netbook at the price .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>Fifth , this netbook comes with a full LED LCD HD 11.6 '' screen .</Tokens>
+		<POS>NNP , DT NN VBZ IN DT JJ JJ NNS NN CD '' NN .</POS>
+		<Lemma>Fifth , this netbook come with a full led lcd hd 11.6 '' screen .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>The average screen size for netbooks is 10.1 '' , and I can definitely say that the extra inch comes in handy and makes it easier to see and read things on the screen .</Tokens>
+		<POS>DT JJ NN NN IN NNS VBZ CD '' , CC PRP MD RB VB IN DT JJ NN VBZ IN JJ CC VBZ PRP JJR TO VB CC VB NNS IN DT NN .</POS>
+		<Lemma>the average screen size for netbook be 10.1 '' , and I can definitely say that the extra inch come in handy and make it easier to see and read thing on the screen .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>The screen is vibrant as well , but my biggest problem with it is that there is n't a very wide range of brightness settings .</Tokens>
+		<POS>DT NN VBZ JJ RB RB , CC PRP$ JJS NN IN PRP VBZ IN EX VBZ RB DT RB JJ NN IN NN NNS .</POS>
+		<Lemma>the screen be vibrant as well , but my biggest problem with it be that there be not a very wide range of brightness setting .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>So if I want to make it really dark while I 'm trying to sleep and leaving it on to do something , I ca n't .</Tokens>
+		<POS>RB IN PRP VBP TO VB PRP RB JJ IN PRP VBP VBG TO VB CC VBG PRP IN TO VB NN , PRP MD RB .</POS>
+		<Lemma>so if I want to make it really dark while I be try to sleep and leave it on to do something , I can not .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>Luckily , I can just configure it to stay on while I close the cover .</Tokens>
+		<POS>RB , PRP MD RB VB PRP TO VB IN IN PRP VBP DT NN .</POS>
+		<Lemma>luckily , I can just configure it to stay on while I close the cover .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>So , it 's not a huge deal .</Tokens>
+		<POS>RB , PRP VBZ RB DT JJ NN .</POS>
+		<Lemma>so , it be not a huge deal .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Especially when the picture on it is very good .</Tokens>
+		<POS>RB WRB DT NN IN PRP VBZ RB JJ .</POS>
+		<Lemma>especially when the picture on it be very good .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>Sixth , this computer is extremely speedy thanks to it 's 2GBs of DDR3 SDRAM .</Tokens>
+		<POS>NNP , DT NN VBZ RB JJ NNS TO PRP VBZ NNS IN NN NN .</POS>
+		<Lemma>Sixth , this computer be extremely speedy thanks to it be 2gb of ddr3 sdram .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>I can do full HD video streaming without a hitch , and standard definition still looks good .</Tokens>
+		<POS>PRP MD VB JJ NN NN NN IN DT NN , CC JJ NN RB VBZ JJ .</POS>
+		<Lemma>I can do full hd video streaming without a hitch , and standard definition still look good .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>I 've watched both movies and TV Shows both locally on the computer and streaming and I ca n't find a huge problem with anything .</Tokens>
+		<POS>PRP VBP VBN DT NNS CC NN VBZ CC RB IN DT NN CC NN CC PRP MD RB VB DT JJ NN IN NN .</POS>
+		<Lemma>I have watch both movie and tv show both locally on the computer and streaming and I can not find a huge problem with anything .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>Sometimes HD video streaming will skip a frame , but it 's never a huge deal .</Tokens>
+		<POS>RB NN NN NN MD VB DT NN , CC PRP VBZ RB DT JJ NN .</POS>
+		<Lemma>sometimes hd video streaming will skip a frame , but it be never a huge deal .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>I do n't have Netflix , so I unfortunately ca n't share my experiences with it .</Tokens>
+		<POS>PRP VBP RB VB NNP , RB PRP RB MD RB VB PRP$ NNS IN PRP .</POS>
+		<Lemma>I do not have Netflix , so I unfortunately can not share my experience with it .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>Seventh , and most important for me , is the fact that this thing can game very well .</Tokens>
+		<POS>NNP , CC RBS JJ IN PRP , VBZ DT NN IN DT NN MD NN RB RB .</POS>
+		<Lemma>Seventh , and most important for I , be the fact that this thing can game very well .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>The biggest problem doing this is the fact that it has a weak processor , so it 'll meet the requirements of most modern games , but if they are processor heavy games , then they are going to lag .</Tokens>
+		<POS>DT JJS NN VBG DT VBZ DT NN IN PRP VBZ DT JJ NN , IN PRP MD VB DT NNS IN JJS JJ NNS , CC IN PRP VBP NN JJ NNS , RB PRP VBP VBG TO VB .</POS>
+		<Lemma>the biggest problem do this be the fact that it have a weak processor , so it 'll meet the requirement of most modern game , but if they be processor heavy game , then they be go to lag .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>Luckily , games that are n't very processor heavy play just fine .</Tokens>
+		<POS>RB , NNS WDT VBP RB RB NN JJ NN RB JJ .</POS>
+		<Lemma>luckily , game that be not very processor heavy play just fine .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Here is a list of games that I have played and my experiences with them : Sins of a Solar Empire : 30 FPS , slight dips occasionally , can lag a little while in combat Diablo 2 : Lord of Destruction : ~ 60 FPS without disruption Star Wars : Knights of the Old Republic : ~ 25 FPS with frequent lag , still playable , but huge lag in larger battles and you wo n't be able to pass becoming a jedi because it becomes unplayable at that point Age of Empires 3 : ~ 30 FPS , dips frequently , a slight bit laggy during combat .</Tokens>
+		<POS>RB VBZ DT NN IN NNS IN PRP VBP VBN CC PRP$ NNS IN PRP : NNS IN DT NNP NNP : CD NN , JJ NNS RB , MD VB DT JJ NN IN NN NN CD : NNP IN NNP : NN CD NN IN NN NN NNS : NNS IN DT NNP NNP : NN CD NN IN JJ NN , RB JJ , CC JJ NN IN JJR NNS CC PRP MD RB VB JJ TO VB VBG DT NN IN PRP VBZ JJ IN DT NN NN IN NNS CD : CD CD NN , NNS RB , DT JJ NN NN IN NN .</POS>
+		<Lemma>here be a list of game that I have play and my experience with they : sin of a Solar Empire : 30 fp , slight dip occasionally , can lag a little while in combat diablo 2 : Lord of Destruction : ~ 60 fp without disruption star war : knight of the Old Republic : ~ 25 fp with frequent lag , still playable , but huge lag in larger battle and you will not be able to pass become a jedus because it become unplayable at that point age of empire 3 : ~ 30 fp , dip frequently , a slight bit laggy during combat .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>But completely playable .</Tokens>
+		<POS>CC RB JJ .</POS>
+		<Lemma>but completely playable .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>Age of Empires 2 : Age of Conquerors : ~ 60 FPS without disruption Star Wars : Galactic Battleground : ~ 60 FPS without disruption Max Payne : ~ 60 FPS without disruption The Sims 3 : ~ 25 FPS , dips frequently , still playable but a slight bit laggy Deus Ex : ~ 60 FPS without disruption Guild Wars : ~ 30 FPS , constant dips Call of Duty 4 : ~ 20 FPS , barely playable in SP , lags pretty badly during the more intense set-pieces , MP pretty much unplayable League of Legends : ~ 25 FPS , fully playable , dips occasionally As you can see , most of the older titles play fine .</Tokens>
+		<POS>NN IN NNS CD : NNP IN NNP : NN CD NN IN NN NNP NNP : NNP NNP : NN CD NN IN NN NN NNP : NN CD NN IN NN DT NNP CD : CD CD NNS , NNS RB , RB JJ CC DT JJ NN JJ NNP FW : NN CD NN IN NN NNP NNP : CD CD NN , JJ NNS VB IN NN CD : CD CD NNS , RB JJ IN NN , VBZ RB RB IN DT RBR JJ NNS , NN RB RB JJ NN IN NNPS : NN CD NN , RB JJ , NNS RB IN PRP MD VB , JJS IN DT JJR NNS VBP NN .</POS>
+		<Lemma>age of empire 2 : Age of Conquerors : ~ 60 fp without disruption Star Wars : Galactic Battleground : ~ 60 fp without disruption max Payne : ~ 60 fp without disruption the Sims 3 : ~ 25 fp , dip frequently , still playable but a slight bit laggy Deus ex : ~ 60 fp without disruption Guild Wars : ~ 30 fp , constant dip call of duty 4 : ~ 20 fp , barely playable in sp , lag pretty badly during the more intense set-piece , mp pretty much unplayable league of Legends : ~ 25 fp , fully playable , dip occasionally as you can see , most of the older title play fine .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>If their slightly newer or more processor heavy like KOTOR , then you 're out of luck .</Tokens>
+		<POS>IN PRP$ RB JJR CC JJR NN NN IN NNP , RB PRP VBP IN IN NN .</POS>
+		<Lemma>if they slightly newer or more processor heavy like KOTOR , then you be out of luck .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>But if you just want to game on the go , it should n't be a problem .</Tokens>
+		<POS>CC IN PRP RB VBP TO NN IN DT NN , PRP MD RB VB DT NN .</POS>
+		<Lemma>but if you just want to game on the go , it should not be a problem .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>Eighth , the webcam is sufficient , but strangely does n't come with the ability to video capture .</Tokens>
+		<POS>NNP , DT NN VBZ JJ , CC RB VBZ RB VBN IN DT NN TO NN NN .</POS>
+		<Lemma>Eighth , the webcam be sufficient , but strangely do not come with the ability to video capture .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>It looks okay , but it wo n't ever keep up a constant stream .</Tokens>
+		<POS>PRP VBZ JJ , CC PRP MD RB RB VB RP DT JJ NN .</POS>
+		<Lemma>it look okay , but it will not ever keep up a constant stream .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>By constant I mean a full 30 FPS stream , it takes a second for your hand to appear like 3 times while you wave past it .</Tokens>
+		<POS>IN JJ PRP VBP DT JJ CD NN NN , PRP VBZ DT JJ IN PRP$ NN TO VB IN CD NNS IN PRP VBP IN PRP .</POS>
+		<Lemma>by constant I mean a full 30 fp stream , it take a second for you hand to appear like 3 time while you wave past it .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>But , I have n't used it -LRB- although Skype is pre-loaded onto here -RRB- , so it 's not a huge problem for me .</Tokens>
+		<POS>CC , PRP VBP RB VBN PRP -LRB- IN NNP VBZ JJ IN RB -RRB- , IN PRP VBZ RB DT JJ NN IN PRP .</POS>
+		<Lemma>but , I have not use it -lrb- although Skype be pre-loaded onto here -rrb- , so it be not a huge problem for I .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>Ninth , the touchpad is good .</Tokens>
+		<POS>NNP , DT NN VBZ JJ .</POS>
+		<Lemma>Ninth , the touchpad be good .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>I do n't use it much , as I 'm more of a mouse guy .</Tokens>
+		<POS>PRP VBP RB VB PRP RB , IN PRP VBP JJR IN DT NN NN .</POS>
+		<Lemma>I do not use it much , as I be more of a mouse guy .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>Anyways , I ca n't game with a touchpad .</Tokens>
+		<POS>RB , PRP MD RB NN IN DT NN .</POS>
+		<Lemma>anyways , I can not game with a touchpad .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>The only problem I have is that it is n't sensitive enough and for some reason is placed farther left then it should be .</Tokens>
+		<POS>DT JJ NN PRP VBP VBZ IN PRP VBZ RB JJ JJ CC IN DT NN VBZ VBN RB VBN RB PRP MD VB .</POS>
+		<Lemma>the only problem I have be that it be not sensitive enough and for some reason be place farther leave then it should be .</Lemma>
+	</Sentence>
+	<Sentence id="61">
+		<Tokens>If I accidentally leave it on while I 'm typing , my palm will brush it and I may accidentally delete my work .</Tokens>
+		<POS>IN PRP RB VBP PRP IN IN PRP VBP NN , PRP$ NN MD VB PRP CC PRP MD RB VB PRP$ NN .</POS>
+		<Lemma>if I accidentally leave it on while I be typing , my palm will brush it and I may accidentally delete my work .</Lemma>
+	</Sentence>
+	<Sentence id="62">
+		<Tokens>Thank god for the undo button .</Tokens>
+		<POS>VB NN IN DT VBP NN .</POS>
+		<Lemma>thank god for the undo button .</Lemma>
+	</Sentence>
+	<Sentence id="63">
+		<Tokens>Anyways , it 's multigesture so it 's good .</Tokens>
+		<POS>RB , PRP VBZ JJ IN PRP VBZ JJ .</POS>
+		<Lemma>anyways , it be multigesture so it be good .</Lemma>
+	</Sentence>
+	<Sentence id="64">
+		<Tokens>I like the scroll bar on the right side of it .</Tokens>
+		<POS>PRP VBP DT NN NN IN DT JJ NN IN PRP .</POS>
+		<Lemma>I like the scroll bar on the right side of it .</Lemma>
+	</Sentence>
+	<Sentence id="65">
+		<Tokens>Tenth , the wireless card is great .</Tokens>
+		<POS>NN , DT JJ NN VBZ JJ .</POS>
+		<Lemma>tenth , the wireless card be great .</Lemma>
+	</Sentence>
+	<Sentence id="66">
+		<Tokens>I get great download speeds on it that I never got with my old computers Ethernet card , it let 's me take full advantage of my internet connection and that 's always nice .</Tokens>
+		<POS>PRP VBP JJ NN NNS IN PRP IN PRP RB VBD IN PRP$ JJ NNS NNP NN , PRP VBD POS PRP VB JJ NN IN PRP$ NN NN CC DT VBZ RB JJ .</POS>
+		<Lemma>I get great download speed on it that I never get with my old computer Ethernet card , it let 's I take full advantage of my internet connection and that be always nice .</Lemma>
+	</Sentence>
+	<Sentence id="67">
+		<Tokens>I 've always been touchy with gaming on a wireless connection , but this wireless card makes sure it works .</Tokens>
+		<POS>PRP VBP RB VBN JJ IN NN IN DT JJ NN , CC DT JJ NN VBZ JJ PRP VBZ .</POS>
+		<Lemma>I have always be touchy with gaming on a wireless connection , but this wireless card make sure it work .</Lemma>
+	</Sentence>
+	<Sentence id="68">
+		<Tokens>Finally , the computer comes with a nice amount of ports .</Tokens>
+		<POS>RB , DT NN VBZ IN DT JJ NN IN NNS .</POS>
+		<Lemma>finally , the computer come with a nice amount of port .</Lemma>
+	</Sentence>
+	<Sentence id="69">
+		<Tokens>3 USB 2.0 ports , 1 HDMI output , 1 VGA output , a headphone jack , a microphone jack , an Ethernet insert , and a insert for your charging cable .</Tokens>
+		<POS>CD JJ CD NNS , CD NN NN , CD NNP NN , DT NN NN , DT NN NN , DT NNP NN , CC DT NN IN PRP$ VBG NN .</POS>
+		<Lemma>3 usb 2.0 port , 1 hdmus output , 1 VGA output , a headphone jack , a microphone jack , a Ethernet insert , and a insert for you charge cable .</Lemma>
+	</Sentence>
+	<Sentence id="70">
+		<Tokens>It does n't come with a CD drive , but since this is a netbook , this is expected .</Tokens>
+		<POS>PRP VBZ RB VBN IN DT NNP NN , CC IN DT VBZ DT NN , DT VBZ VBN .</POS>
+		<Lemma>it do not come with a CD drive , but since this be a netbook , this be expect .</Lemma>
+	</Sentence>
+	<Sentence id="71">
+		<Tokens>In closing , this computer is great .</Tokens>
+		<POS>IN NN , DT NN VBZ JJ .</POS>
+		<Lemma>in closing , this computer be great .</Lemma>
+	</Sentence>
+	<Sentence id="72">
+		<Tokens>Especially for a gamer like me who 's been out of the PC market because of the expense of computers .</Tokens>
+		<POS>RB IN DT NN IN PRP WP VBZ VBN IN IN DT NN NN IN IN DT NN IN NNS .</POS>
+		<Lemma>especially for a gamer like I who be be out of the pc market because of the expense of computer .</Lemma>
+	</Sentence>
+	<Sentence id="73">
+		<Tokens>I will be buying the RAM upgrade , but the computer runs perfectly fine without it .</Tokens>
+		<POS>PRP MD VB VBG DT NNP NN , CC DT NN VBZ RB JJ IN PRP .</POS>
+		<Lemma>I will be buy the RAM upgrade , but the computer run perfectly fine without it .</Lemma>
+	</Sentence>
+	<Sentence id="74">
+		<Tokens>It 's also great for people who type a lot thanks to it 's full size keyboard .</Tokens>
+		<POS>PRP VBZ RB JJ IN NNS WP NN DT NN NNS TO PRP VBZ JJ NN NN .</POS>
+		<Lemma>it be also great for people who type a lot thanks to it be full size keyboard .</Lemma>
+	</Sentence>
+	<Sentence id="75">
+		<Tokens>So no matter what kind of person you are , be it gamer or someone who wants it for more Office purposes , this will be more then enough to do what you want .</Tokens>
+		<POS>IN DT NN WDT NN IN NN PRP VBP , VB PRP NN CC NN WP VBZ PRP IN JJR NNP NNS , DT MD VB RBR RB RB TO VB WP PRP VBP .</POS>
+		<Lemma>so no matter what kind of person you be , be it gamer or someone who want it for more Office purpose , this will be more then enough to do what you want .</Lemma>
+	</Sentence>
+	<Sentence id="76">
+		<Tokens>Even if you just want to watch movies or TV shows .</Tokens>
+		<POS>RB IN PRP RB VBP TO VB NNS CC NN NNS .</POS>
+		<Lemma>even if you just want to watch movie or tv show .</Lemma>
+	</Sentence>
+	<Sentence id="77">
+		<Tokens>It 's also at an unbeatable price , even if you buy it at the MSRP .</Tokens>
+		<POS>PRP VBZ RB IN DT JJ NN , RB IN PRP VBP PRP IN DT NN .</POS>
+		<Lemma>it be also at a unbeatable price , even if you buy it at the msrp .</Lemma>
+	</Sentence>
+	<Sentence id="78">
+		<Tokens>\* This review was assembled from 2 and a half weeks experience with the laptop Thanks for reading , make sure to say I was helpful , : -RRB-</Tokens>
+		<POS>SYM DT NN VBD VBN IN CD CC DT NN NNS VBP IN DT NN NNS IN NN , VBP JJ TO VB PRP VBD JJ , : -RRB-</POS>
+		<Lemma>\* this review be assemble from 2 and a half week experience with the laptop thanks for reading , make sure to say I be helpful , : -rrb-</Lemma>
+	</Sentence>
+</Document>

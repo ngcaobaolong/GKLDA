@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Although the product description does n't say so , the top review indicates that it comes with 3 charging cables : mini USB , micro USB and iPod .</Tokens>
+		<POS>IN DT NN NN VBZ RB VB RB , DT JJ NN VBZ IN PRP VBZ IN CD VBG NNS : JJ JJ , JJ JJ CC NN .</POS>
+		<Lemma>although the product description do not say so , the top review indicate that it come with 3 charge cable : mini usb , micro usb and ipod .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But in reality there 's only one mini USB cable .</Tokens>
+		<POS>CC IN NN EX VBZ RB CD JJ JJ NN .</POS>
+		<Lemma>but in reality there be only one mini usb cable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>From the timestamp when the top review was submitted , and also from the printing material that came with the project , it seems that it used to have 3 cables but now is downsized to only one .</Tokens>
+		<POS>IN DT NN WRB DT JJ NN VBD VBN , CC RB IN DT NN NN WDT VBD IN DT NN , PRP VBZ IN PRP VBD TO VB CD NNS CC RB VBZ VBN TO RB CD .</POS>
+		<Lemma>from the timestamp when the top review be submit , and also from the printing material that come with the project , it seem that it use to have 3 cable but now be downsize to only one .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After using the XZ-1 for 1-1\/2 weeks I brought it back .</Tokens>
+		<POS>IN VBG DT NN IN CD NNS PRP VBD PRP RB .</POS>
+		<Lemma>after use the xz-1 for 1-1\/2 week I bring it back .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Too many bad focus pics !!</Tokens>
+		<POS>RB JJ JJ NN NNS VBP</POS>
+		<Lemma>too many bad focus pic !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm suprised about the rave reviews with very little mention of this .</Tokens>
+		<POS>PRP VBP JJ IN DT VBP NNS IN RB JJ NN IN DT .</POS>
+		<Lemma>I be suprised about the rave review with very little mention of this .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The camera looks beautiful , has all the specs and potential , but sadly .</Tokens>
+		<POS>DT NN VBZ JJ , VBZ PDT DT NNS CC JJ , CC RB .</POS>
+		<Lemma>the camera look beautiful , have all the spec and potential , but sadly .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Once I tried the Canon S95 it was immediate in better focus and clarity of the pics .</Tokens>
+		<POS>RB PRP VBD DT NNP NN PRP VBD JJ IN JJR NN CC NN IN DT NNS .</POS>
+		<Lemma>once I try the Canon s95 it be immediate in better focus and clarity of the pic .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm suprised that noone has indicated the differences in actually using the camera .</Tokens>
+		<POS>PRP VBP JJ IN NN VBZ VBN DT NNS IN RB VBG DT NN .</POS>
+		<Lemma>I be suprised that noone have indicate the difference in actually use the camera .</Lemma>
+	</Sentence>
+</Document>

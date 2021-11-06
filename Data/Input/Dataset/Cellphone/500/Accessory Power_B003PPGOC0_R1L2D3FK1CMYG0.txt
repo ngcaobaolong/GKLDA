@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had this transmitter for about a month now , and it works great !</Tokens>
+		<POS>PRP VBP VBN DT NN IN IN DT NN RB , CC PRP VBZ JJ .</POS>
+		<Lemma>I have have this transmitter for about a month now , and it work great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use an iphone 4 and live in northern Los Angeles County .</Tokens>
+		<POS>PRP VBP DT NN CD CC VB IN JJ NNP NNP NNP .</POS>
+		<Lemma>I use a iphone 4 and live in northern Los Angeles County .</Lemma>
+	</Sentence>
+</Document>

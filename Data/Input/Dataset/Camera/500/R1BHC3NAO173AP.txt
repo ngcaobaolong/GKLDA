@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The product is nice .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the product be nice .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fulfilled my expectations and i really like it .</Tokens>
+		<POS>VBN PRP$ NNS CC FW RB IN PRP .</POS>
+		<Lemma>fulfil my expectation and i really like it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I recommend for everyone who wants to buy .</Tokens>
+		<POS>PRP VBP IN NN WP VBZ TO VB .</POS>
+		<Lemma>I recommend for everyone who want to buy .</Lemma>
+	</Sentence>
+</Document>

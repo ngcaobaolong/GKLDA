@@ -1,0 +1,92 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My previous netbook was an Acer and I was very happy with it .</Tokens>
+		<POS>PRP$ JJ NN VBD DT NNP CC PRP VBD RB JJ IN PRP .</POS>
+		<Lemma>my previous netbook be a Acer and I be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I got the 9-cell battery for that one and while it added to the weight , I never ran out of juice .</Tokens>
+		<POS>PRP VBD DT JJ NN IN DT CD CC IN PRP VBD TO DT NN , PRP RB VBD IN IN NN .</POS>
+		<Lemma>I get the 9-cell battery for that one and while it add to the weight , I never run out of juice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I gave away my old one , but realized that I used the netbook far more than I used my full-size laptop , so decided to get another Acer .</Tokens>
+		<POS>PRP VBD RP PRP$ JJ CD , CC VBD IN PRP VBD DT NN RB RBR IN PRP VBD PRP$ JJ NN , RB VBD TO VB DT NNP .</POS>
+		<Lemma>I give away my old one , but realize that I use the netbook far more than I use my full-size laptop , so decide to get another Acer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I got the AOD257 and am happy with it , I have a house full of computers but use the little Acer Netbook more than the rest .</Tokens>
+		<POS>PRP VBD DT NN CC VBP JJ IN PRP , PRP VBP DT NN JJ IN NNS CC VBP DT JJ NNP NNP JJR IN DT NN .</POS>
+		<Lemma>I get the aod257 and be happy with it , I have a house full of computer but use the little Acer Netbook more than the rest .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The small form factor is great for most things .</Tokens>
+		<POS>DT JJ NN NN VBZ JJ IN JJS NNS .</POS>
+		<Lemma>the small form factor be great for most thing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>However .</Tokens>
+		<POS>RB .</POS>
+		<Lemma>however .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Acer is actively hostile to the idea of user-upgrades .</Tokens>
+		<POS>NNP VBZ RB JJ TO DT NN IN NNS .</POS>
+		<Lemma>Acer be actively hostile to the idea of user-upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>First of all , there is the crippleware of Windows 7 Starter Edition .</Tokens>
+		<POS>NNP IN DT , EX VBZ DT NN IN NNP CD NNP NNP .</POS>
+		<Lemma>First of all , there be the crippleware of Windows 7 Starter Edition .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Very , very bad OS that throttles what capability your machine may have .</Tokens>
+		<POS>RB , RB JJ NN WDT VBZ WP NN PRP$ NN MD VB .</POS>
+		<Lemma>very , very bad os that throttle what capability you machine may have .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Of course all the netbook makers are apparently in collusion with Microsoft to make that experience so painful you will quickly upgrade to Home Premium .</Tokens>
+		<POS>IN NN DT DT NN NNS VBP RB IN NN IN NNP TO VB DT NN RB JJ PRP MD RB VB TO NNP NNP .</POS>
+		<Lemma>of course all the netbook maker be apparently in collusion with Microsoft to make that experience so painful you will quickly upgrade to Home Premium .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Grit your teeth and Do that .</Tokens>
+		<POS>NN PRP$ NNS CC VBP IN .</POS>
+		<Lemma>grit you tooth and do that .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Next , upgrade the RAM .</Tokens>
+		<POS>RB , VBP DT NNP .</POS>
+		<Lemma>next , upgrade the RAM .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>However , Acer requires you to practically disassemble the whole netbook : remove 18 screws !!!</Tokens>
+		<POS>RB , NNP VBZ PRP TO RB VB DT JJ NN : VB CD NNS IN</POS>
+		<Lemma>however , Acer require you to practically disassemble the whole netbook : remove 18 screw !!!</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>AND the keyboard to get at the RAM .</Tokens>
+		<POS>CC DT NN TO VB IN DT NNP .</POS>
+		<Lemma>and the keyboard to get at the RAM .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>There are videos of how to do this on the web , but it is still very scary and dangerous .</Tokens>
+		<POS>EX VBP NNS IN WRB TO VB DT IN DT NN , CC PRP VBZ RB RB JJ CC JJ .</POS>
+		<Lemma>there be video of how to do this on the web , but it be still very scary and dangerous .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Same thing if you decide to upgrade the hard disk or replace it with an SSD .</Tokens>
+		<POS>JJ NN IN PRP VBP TO VB DT JJ NN CC VB PRP IN DT NN .</POS>
+		<Lemma>same thing if you decide to upgrade the hard disk or replace it with a ssd .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The Toshiba netbook is at least as good as the Acer , and upgrades require removing a single screw to get at the RAM .</Tokens>
+		<POS>DT NNP NN VBZ IN JJS RB JJ IN DT NNP , CC NNS VBP VBG DT JJ NN TO VB IN DT NNP .</POS>
+		<Lemma>the Toshiba netbook be at least as good as the Acer , and upgrade require remove a single screw to get at the RAM .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Should have gone with the Toshiba .</Tokens>
+		<POS>MD VB VBN IN DT NNP .</POS>
+		<Lemma>should have go with the Toshiba .</Lemma>
+	</Sentence>
+</Document>

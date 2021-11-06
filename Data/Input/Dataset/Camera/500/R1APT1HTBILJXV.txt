@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It could be only me that I am not a Fujifilm user , therefore thinks it is not user friendly .</Tokens>
+		<POS>PRP MD VB RB PRP IN PRP VBP RB DT NNP NN , RB VBZ PRP VBZ RB NN JJ .</POS>
+		<Lemma>it could be only I that I be not a Fujifilm user , therefore think it be not user friendly .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am still a lover of Canon and Nikon where you can just point and shoot compare to this fancy Fujifilm .</Tokens>
+		<POS>PRP VBP RB DT NN IN NNP CC NNP WRB PRP MD RB VB CC VB VB TO DT JJ NNP .</POS>
+		<Lemma>I be still a lover of Canon and Nikon where you can just point and shoot compare to this fancy Fujifilm .</Lemma>
+	</Sentence>
+</Document>

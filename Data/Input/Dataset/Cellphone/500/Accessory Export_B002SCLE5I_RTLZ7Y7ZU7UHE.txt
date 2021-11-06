@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have a Samsung Galaxy S , and it did not help boost my signal .</Tokens>
+		<POS>PRP VBP DT NNP NNP NN , CC PRP VBD RB VB VB PRP$ NN .</POS>
+		<Lemma>I have a Samsung Galaxy s , and it do not help boost my signal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have both signal problems at home and at work .</Tokens>
+		<POS>PRP VBP DT NN NNS IN NN CC IN NN .</POS>
+		<Lemma>I have both signal problem at home and at work .</Lemma>
+	</Sentence>
+</Document>

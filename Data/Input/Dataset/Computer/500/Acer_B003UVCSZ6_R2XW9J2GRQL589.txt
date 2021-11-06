@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great buy !</Tokens>
+		<POS>DT VBZ DT JJ NN .</POS>
+		<Lemma>this be a great buy !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was a little skeptical because of how cheap it was .</Tokens>
+		<POS>PRP VBD DT JJ JJ IN IN WRB JJ PRP VBD .</POS>
+		<Lemma>I be a little skeptical because of how cheap it be .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , when I plugged it into my Mac Mini , the screen looked wonderful .</Tokens>
+		<POS>RB , WRB PRP VBD PRP IN PRP$ NNP NNP , DT NN VBD JJ .</POS>
+		<Lemma>however , when I plug it into my Mac Mini , the screen look wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The colors and everything are great .</Tokens>
+		<POS>DT NNS CC NN VBP JJ .</POS>
+		<Lemma>the color and everything be great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I exchanged this from an LG that I bought for nearly twice as much and the colors on the LG were not at all as nice as this .</Tokens>
+		<POS>PRP VBD DT IN DT NNP IN PRP VBD IN RB RB RB JJ CC DT NNS IN DT NNP VBD RB IN DT IN JJ IN DT .</POS>
+		<Lemma>I exchange this from a LG that I buy for nearly twice as much and the color on the LG be not at all as nice as this .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>There is a slight `` halo '' on the edge of the screen when it is showing blacks -LRB- say for instance the black horizontal bars of a movie -RRB- , but during everyday activities -LRB- email , pages , internet .</Tokens>
+		<POS>EX VBZ DT JJ `` NN '' IN DT NN IN DT NN WRB PRP VBZ VBG NNS -LRB- VB IN NN DT JJ JJ NNS IN DT NN -RRB- , CC IN JJ NNS -LRB- NN , NNS , NN .</POS>
+		<Lemma>there be a slight `` halo '' on the edge of the screen when it be show black -lrb- say for instance the black horizontal bar of a movie -rrb- , but during everyday activity -lrb- email , page , internet .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>etc. -RRB- you do n't notice it at all .</Tokens>
+		<POS>NN -RRB- PRP VBP RB VB PRP IN DT .</POS>
+		<Lemma>etc. -rrb- you do not notice it at all .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Especially when you know you paid less than $ 100 for it !</Tokens>
+		<POS>RB WRB PRP VBP PRP VBN JJR IN $ CD IN PRP .</POS>
+		<Lemma>especially when you know you pay less than $ 100 for it !</Lemma>
+	</Sentence>
+</Document>

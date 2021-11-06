@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pleasantly surprised by its ease of use and the fact that it also took videos .</Tokens>
+		<POS>RB VBN IN PRP$ NN IN NN CC DT NN IN PRP RB VBD NNS .</POS>
+		<Lemma>pleasantly surprise by its ease of use and the fact that it also take video .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy download to computer and or storage media .</Tokens>
+		<POS>NNP NN TO NN CC CC NN NNS .</POS>
+		<Lemma>Easy download to computer and or storage media .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sets up easily , connects with the phone easily ... Reasonable sounding hands free phone ... plays through radio ... People that I 'm talking to say it sounds pretty good ... So overall , not too bad .</Tokens>
+		<POS>VBZ RP RB , VBZ IN DT NN RB : JJ VBG NNS JJ NN : VBZ IN NN : NNS IN PRP VBP VBG TO VB PRP VBZ RB JJ : RB RB , RB RB JJ .</POS>
+		<Lemma>set up easily , connect with the phone easily ... reasonable sound hand free phone ... play through radio ... people that I be talk to say it sound pretty good ... so overall , not too bad .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For music , less impressive ... get quite a bit of engine whine in the radio channel , so do n't really use it for music that much .</Tokens>
+		<POS>IN NN , JJR JJ : VB RB DT NN IN NN NN IN DT NN NN , RB VBP RB RB VB PRP IN NN WDT RB .</POS>
+		<Lemma>for music , less impressive ... get quite a bit of engine whine in the radio channel , so do not really use it for music that much .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I pair with my Sprint Evo , which are not known for their musicality , so that could be part of the issue .</Tokens>
+		<POS>PRP VBP IN PRP$ NNP NNP , WDT VBP RB VBN IN PRP$ NN , RB IN MD VB NN IN DT NN .</POS>
+		<Lemma>I pair with my Sprint Evo , which be not know for they musicality , so that could be part of the issue .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But , for the price , this device works pretty well ... 4 Stars !</Tokens>
+		<POS>CC , IN DT NN , DT NN VBZ RB RB : CD NNP .</POS>
+		<Lemma>but , for the price , this device work pretty well ... 4 Stars !</Lemma>
+	</Sentence>
+</Document>

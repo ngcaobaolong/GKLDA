@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great monitor , and you ca n't beat the price !</Tokens>
+		<POS>DT VBZ DT JJ NN , CC PRP MD RB VB DT NN .</POS>
+		<Lemma>this be a great monitor , and you can not beat the price !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have purchased three of these monitors now - one as a gift , one for home office and one for my public office .</Tokens>
+		<POS>PRP VBP VBN CD IN DT NNS RB : CD IN DT NN , CD IN NN NN CC CD IN PRP$ JJ NN .</POS>
+		<Lemma>I have purchase three of these monitor now - one as a gift , one for home office and one for my public office .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has great color quality and clarity .</Tokens>
+		<POS>PRP VBZ JJ NN NN CC NN .</POS>
+		<Lemma>it have great color quality and clarity .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's compact enough to fit in a smaller office space , but you still get the larger , wide screen .</Tokens>
+		<POS>PRP VBZ JJ RB TO VB IN DT JJR NN NN , CC PRP RB VB DT JJR , JJ NN .</POS>
+		<Lemma>it be compact enough to fit in a smaller office space , but you still get the larger , wide screen .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is plug and play .</Tokens>
+		<POS>PRP VBZ NN CC NN .</POS>
+		<Lemma>it be plug and play .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Just make sure you set your computer to the correct resolution , and you are good to go .</Tokens>
+		<POS>RB VB JJ PRP VBP PRP$ NN TO DT JJ NN , CC PRP VBP JJ TO VB .</POS>
+		<Lemma>just make sure you set you computer to the correct resolution , and you be good to go .</Lemma>
+	</Sentence>
+</Document>

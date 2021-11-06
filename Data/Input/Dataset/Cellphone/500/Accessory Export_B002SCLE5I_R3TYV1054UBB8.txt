@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>3 $ for 10 sticker .</Tokens>
+		<POS>CD $ IN CD NN .</POS>
+		<Lemma>3 $ for 10 sticker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is worth of try item .</Tokens>
+		<POS>DT VBZ JJ IN NN NN .</POS>
+		<Lemma>this be worth of try item .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I used 2 of stickers in my Samsung galaxy , 1 in my daddy 's blackberry , 1 in my mom 's nokia .</Tokens>
+		<POS>PRP VBD CD IN NNS IN PRP$ NNP NN , CD IN PRP$ NN POS NN , CD IN PRP$ NN POS NN .</POS>
+		<Lemma>I use 2 of sticker in my Samsung galaxy , 1 in my daddy 's blackberry , 1 in my mom 's nokium .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>With or without high reception , it 's nice small item for whole family .</Tokens>
+		<POS>IN CC IN JJ NN , PRP VBZ JJ JJ NN IN JJ NN .</POS>
+		<Lemma>with or without high reception , it be nice small item for whole family .</Lemma>
+	</Sentence>
+</Document>

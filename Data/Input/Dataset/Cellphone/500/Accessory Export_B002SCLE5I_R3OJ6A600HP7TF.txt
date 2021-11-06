@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Got them in a timley maner and they work great i have used these in many phones and love them</Tokens>
+		<POS>VBD PRP IN DT NN NN CC PRP VBP JJ FW VBP VBN DT IN JJ NNS CC VBP PRP</POS>
+		<Lemma>get they in a timley maner and they work great i have use these in many phone and love they</Lemma>
+	</Sentence>
+</Document>

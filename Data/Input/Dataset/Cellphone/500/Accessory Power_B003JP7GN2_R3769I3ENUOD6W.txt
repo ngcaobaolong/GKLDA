@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It works better than I could have wanted .</Tokens>
+		<POS>PRP VBZ JJR IN PRP MD VB VBN .</POS>
+		<Lemma>it work better than I could have want .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Use to charge IPod and Droid X at same time .</Tokens>
+		<POS>NN TO VB NN CC NN NN IN JJ NN .</POS>
+		<Lemma>use to charge ipod and droid x at same time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's the best .</Tokens>
+		<POS>PRP VBZ DT JJS .</POS>
+		<Lemma>it be the best .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The seller is A # 1 .</Tokens>
+		<POS>DT NN VBZ DT # CD .</POS>
+		<Lemma>the seller be a # 1 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Good price service and follow up .</Tokens>
+		<POS>JJ NN NN CC VB RP .</POS>
+		<Lemma>good price service and follow up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Use them and buy at least one of these now .</Tokens>
+		<POS>VB PRP CC VB IN JJS CD IN DT RB .</POS>
+		<Lemma>use they and buy at least one of these now .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Bob Bergg</Tokens>
+		<POS>NNP NNP</POS>
+		<Lemma>Bob Bergg</Lemma>
+	</Sentence>
+</Document>

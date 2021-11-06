@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I cooked this in my slow cooker but it took over eight hours .</Tokens>
+		<POS>PRP VBD DT IN PRP$ JJ NN CC PRP VBD RP CD NNS .</POS>
+		<Lemma>I cook this in my slow cooker but it take over eight hour .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Next time I will use the stove .</Tokens>
+		<POS>JJ NN PRP MD VB DT NN .</POS>
+		<Lemma>next time I will use the stove .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It had was a little bland so I will add more spices next time .</Tokens>
+		<POS>PRP VBD VBD DT JJ JJ IN PRP MD VB JJR NNS IN NN .</POS>
+		<Lemma>it have be a little bland so I will add more spice next time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You get a lot of soup from one package .</Tokens>
+		<POS>PRP VBP DT NN IN NN IN CD NN .</POS>
+		<Lemma>you get a lot of soup from one package .</Lemma>
+	</Sentence>
+</Document>

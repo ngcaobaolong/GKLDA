@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was diagnosed with Celiac Disease a year ago .</Tokens>
+		<POS>PRP VBD VBN IN JJ NN DT NN RB .</POS>
+		<Lemma>I be diagnose with celiac disease a year ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The hardest part of going gluten free has been that the only gluten free breads that are readily available are white and doughy .</Tokens>
+		<POS>DT JJS NN IN VBG NN JJ VBZ VBN IN DT JJ NN JJ NNS WDT VBP RB JJ VBP JJ CC JJ .</POS>
+		<Lemma>the hardest part of go gluten free have be that the only gluten free bread that be readily available be white and doughy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have made one myself using a variety of flours , but it still does n't have that whole grain taste\/mouth feel .</Tokens>
+		<POS>PRP VBP VBN CD PRP VBG DT NN IN NNS , CC PRP RB VBZ RB VB DT JJ NN NN VBP .</POS>
+		<Lemma>I have make one myself use a variety of flour , but it still do not have that whole grain taste\/mouth feel .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When I tried this bread after making it in my bread machine , I almost cried .</Tokens>
+		<POS>WRB PRP VBD DT NN IN VBG PRP IN PRP$ NN NN , PRP RB VBD .</POS>
+		<Lemma>when I try this bread after make it in my bread machine , I almost cry .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was delicious , texture was heavenly , and it was simple to make !</Tokens>
+		<POS>PRP VBD JJ , NN VBD JJ , CC PRP VBD JJ TO VB .</POS>
+		<Lemma>it be delicious , texture be heavenly , and it be simple to make !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Cheap too , especially if you sign up for the automatic reorder deal .</Tokens>
+		<POS>JJ RB , RB IN PRP VB RP IN DT JJ NN NN .</POS>
+		<Lemma>cheap too , especially if you sign up for the automatic reorder deal .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It does n't seem gluten free and it actually has a decent amount of fiber in it .</Tokens>
+		<POS>PRP VBZ RB VB NN JJ CC PRP RB VBZ DT JJ NN IN NN IN PRP .</POS>
+		<Lemma>it do not seem gluten free and it actually have a decent amount of fiber in it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I love Bob 's Red Mill and Amazon too !</Tokens>
+		<POS>PRP VBP NNP POS NNP NNP CC NNP RB .</POS>
+		<Lemma>I love Bob 's Red Mill and Amazon too !</Lemma>
+	</Sentence>
+</Document>

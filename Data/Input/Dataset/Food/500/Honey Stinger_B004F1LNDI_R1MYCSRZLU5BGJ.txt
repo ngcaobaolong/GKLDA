@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are thin so that several can be put in a pack without taking up too much room .</Tokens>
+		<POS>DT VBP JJ IN IN JJ MD VB VBN IN DT NN IN VBG RP RB JJ NN .</POS>
+		<Lemma>these be thin so that several can be put in a pack without take up too much room .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The packages are about 5x4 inches and 3 or 4 packages stacked is about an inch .</Tokens>
+		<POS>DT NNS VBP IN NN NNS CC CD CC CD NNS VBN VBZ IN DT NN .</POS>
+		<Lemma>the package be about 5x4 inch and 3 or 4 package stack be about a inch .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They taste good -LRB- especially when compared with some of the other endurance foods -RRB- and go down fairly easy even after 30 miles .</Tokens>
+		<POS>PRP VBP JJ -LRB- RB WRB VBN IN DT IN DT JJ JJ NNS -RRB- CC VB RP RB JJ RB IN CD NNS .</POS>
+		<Lemma>they taste good -lrb- especially when compare with some of the other endurance food -rrb- and go down fairly easy even after 30 mile .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Perhaps most importantly , they have never given me any GI issues during a run .</Tokens>
+		<POS>RB RBS RB , PRP VBP RB VBN PRP DT NN NNS IN DT NN .</POS>
+		<Lemma>perhaps most importantly , they have never give I any gi issue during a run .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Of course this can vary from person to person , but they 're worth a try .</Tokens>
+		<POS>IN NN DT MD VB IN NN TO NN , CC PRP VBP IN DT NN .</POS>
+		<Lemma>of course this can vary from person to person , but they be worth a try .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The only reason I deducted a star is because they 're a bit overpriced for what they are .</Tokens>
+		<POS>DT JJ NN PRP VBD DT NN VBZ IN PRP VBP DT NN JJ IN WP PRP VBP .</POS>
+		<Lemma>the only reason I deduct a star be because they be a bit overpriced for what they be .</Lemma>
+	</Sentence>
+</Document>

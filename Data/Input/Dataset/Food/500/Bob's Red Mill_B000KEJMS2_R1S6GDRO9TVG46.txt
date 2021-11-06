@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Disappointed with the red lentils because they cook down to a mush .</Tokens>
+		<POS>VBN IN DT JJ NNS IN PRP VBP RB TO DT NN .</POS>
+		<Lemma>disappoint with the red lentil because they cook down to a mush .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No discernable shapes of lentils are present when finished cooking .</Tokens>
+		<POS>DT JJ NNS IN NNS VBP JJ WRB VBN NN .</POS>
+		<Lemma>no discernable shape of lentil be present when finish cooking .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Prefer dark brown or black lentils .</Tokens>
+		<POS>NNP JJ JJ CC JJ NNS .</POS>
+		<Lemma>Prefer dark brown or black lentil .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Do n't know if Bob 's Red Mill offers them .</Tokens>
+		<POS>VBP RB VB IN NNP POS NNP NNP VBZ PRP .</POS>
+		<Lemma>do not know if Bob 's Red Mill offer they .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Jean</Tokens>
+		<POS>NNP</POS>
+		<Lemma>Jean</Lemma>
+	</Sentence>
+</Document>

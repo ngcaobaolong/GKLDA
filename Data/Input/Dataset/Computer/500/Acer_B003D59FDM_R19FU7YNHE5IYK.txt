@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I do n't know what other people are talking about .</Tokens>
+		<POS>PRP VBP RB VB WP JJ NNS VBP VBG RB .</POS>
+		<Lemma>I do not know what other people be talk about .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use this monitor to play games with on my PC .</Tokens>
+		<POS>PRP VBP DT NN TO VB NNS IN IN PRP$ NN .</POS>
+		<Lemma>I use this monitor to play game with on my pc .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is certainly useful in more than just reading Word Documents .</Tokens>
+		<POS>PRP VBZ RB JJ IN JJR IN RB VBG NNP NNS .</POS>
+		<Lemma>it be certainly useful in more than just read Word document .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Bright ?</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Bright ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>what do people mean when they say a TV monitor is not bright enough ?</Tokens>
+		<POS>WP VBP NNS VB WRB PRP VBP DT NN NN VBZ RB JJ RB .</POS>
+		<Lemma>what do people mean when they say a tv monitor be not bright enough ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If it is n't turn up the brightness ... LOL .</Tokens>
+		<POS>IN PRP VBZ RB VB RP DT NN : NNP .</POS>
+		<Lemma>if it be not turn up the brightness ... LOL .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>And it certainly is n't `` Cheap '' feeling .</Tokens>
+		<POS>CC PRP RB VBZ RB `` JJ '' NN .</POS>
+		<Lemma>and it certainly be not `` cheap '' feeling .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>IT IS N'T a Widescreen ... DUH , so do n't complain about it not being one or compare it to a widescreen .</Tokens>
+		<POS>PRP VBZ RB DT NNP : NNP , RB VBP RB VB IN PRP RB VBG CD CC VB PRP TO DT NN .</POS>
+		<Lemma>it be not a Widescreen ... DUH , so do not complain about it not be one or compare it to a widescreen .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>AND it IS N'T a LED BACKLIT Monitor !!</Tokens>
+		<POS>CC PRP VBZ RB DT VBN NNP NNP IN</POS>
+		<Lemma>and it be not a lead BACKLIT Monitor !!</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>All this you know BEFORE you buy it .</Tokens>
+		<POS>PDT DT PRP VBP IN PRP VBP PRP .</POS>
+		<Lemma>all this you know before you buy it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It 's a basic decent 17 inch monitor .</Tokens>
+		<POS>PRP VBZ DT JJ JJ CD NN NN .</POS>
+		<Lemma>it be a basic decent 17 inch monitor .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>My movies look great on it but that is a partial function of my video card too .</Tokens>
+		<POS>PRP$ NNS VBP JJ IN PRP CC DT VBZ DT JJ NN IN PRP$ NN NN RB .</POS>
+		<Lemma>my movie look great on it but that be a partial function of my video card too .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I have a top notch Video card and PC and I have found this to be a superb little monitor , but I am going to a larger screen soon , although I 'm not crazy about widescreens .</Tokens>
+		<POS>PRP VBP DT JJ NN NNP NN CC NN CC PRP VBP VBN DT TO VB DT JJ JJ NN , CC PRP VBP VBG TO DT JJR NN RB , IN PRP VBP RB JJ IN NNS .</POS>
+		<Lemma>I have a top notch Video card and pc and I have find this to be a superb little monitor , but I be go to a larger screen soon , although I be not crazy about widescreen .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>At any rate before you go judging this monitor , think about the rest of your system first .</Tokens>
+		<POS>IN DT NN IN PRP VBP VBG DT NN , VBP IN DT NN IN PRP$ NN RB .</POS>
+		<Lemma>at any rate before you go judge this monitor , think about the rest of you system first .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It will certainly bring out the flaws in your integrated video chipsets and inexpensive PCs , but at 17 inches it just does n't cut it anymore even for `` Word Documents '' .</Tokens>
+		<POS>PRP MD RB VB RP DT NNS IN PRP$ VBN NN NNS CC JJ NNS , CC IN CD NNS PRP RB VBZ RB VB PRP RB RB IN `` NNP NNS '' .</POS>
+		<Lemma>it will certainly bring out the flaw in you integrate video chipset and inexpensive pc , but at 17 inch it just do not cut it anymore even for `` Word document '' .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>IF you are still using a 15 inch or even 17 inch CRT it is a nice upgrade for a good price .</Tokens>
+		<POS>IN PRP VBP RB VBG DT CD NN CC RB CD NN NNP PRP VBZ DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>if you be still use a 15 inch or even 17 inch CRT it be a nice upgrade for a good price .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I have had very good luck with ACER products over the years .</Tokens>
+		<POS>PRP VBP VBN RB JJ NN IN NN NNS IN DT NNS .</POS>
+		<Lemma>I have have very good luck with acer product over the year .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>But keep in mind people what something is BEFORE you buy it .</Tokens>
+		<POS>CC VB IN NN NNS WDT NN VBZ IN PRP VBP PRP .</POS>
+		<Lemma>but keep in mind people what something be before you buy it .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>: - -RRB- Do n't buy a Prius and then complain it 's not as fast as a Porsche .</Tokens>
+		<POS>: : -RRB- VBP RB VB DT NNP CC RB VBP PRP VBZ RB RB JJ IN DT NNP .</POS>
+		<Lemma>: - -rrb- do not buy a Prius and then complain it be not as fast as a Porsche .</Lemma>
+	</Sentence>
+</Document>

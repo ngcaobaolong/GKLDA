@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received 10 and half were not having copper on it ... would not recommend some of them dint had enough film ... was able to use only 4 out of 10 ... waste of money ...</Tokens>
+		<POS>PRP VBD CD CC NN VBD RB VBG NN IN PRP : MD RB VB DT IN PRP JJ VBD JJ NN : VBD JJ TO VB RB CD IN IN CD : NN IN NN :</POS>
+		<Lemma>I receive 10 and half be not have copper on it ... would not recommend some of they dint have enough film ... be able to use only 4 out of 10 ... waste of money ...</Lemma>
+	</Sentence>
+</Document>

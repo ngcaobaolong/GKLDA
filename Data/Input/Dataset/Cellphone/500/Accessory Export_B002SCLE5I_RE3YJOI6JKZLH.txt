@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Spending summer in a rural area in the Colorado Rockies .</Tokens>
+		<POS>VBG NN IN DT JJ NN IN DT NNP NNPS .</POS>
+		<Lemma>spend summer in a rural area in the Colorado Rockies .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Cell phone service is hard to come by up here .</Tokens>
+		<POS>NN NN NN VBZ JJ TO VB IN RB RB .</POS>
+		<Lemma>cell phone service be hard to come by up here .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Before the Gen x Booster I could typically get 0 - 2 bars on my cell .</Tokens>
+		<POS>IN DT NN NN NN PRP MD RB VB CD : CD NNS IN PRP$ NN .</POS>
+		<Lemma>before the gen x booster I could typically get 0 - 2 bar on my cell .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now I usually get 1 - 3 bars .</Tokens>
+		<POS>RB PRP RB VBP LS : CD NNS .</POS>
+		<Lemma>now I usually get 1 - 3 bar .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Reception is still far from adequate but there are fewer dropped calls .</Tokens>
+		<POS>NN VBZ RB RB IN JJ CC EX VBP JJR VBD NNS .</POS>
+		<Lemma>reception be still far from adequate but there be fewer drop call .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is easier to send and receive text messages .</Tokens>
+		<POS>PRP VBZ JJR TO VB CC VB NN NNS .</POS>
+		<Lemma>it be easier to send and receive text message .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>My wife was at a restaurant in an urban area .</Tokens>
+		<POS>PRP$ NN VBD IN DT NN IN DT JJ NN .</POS>
+		<Lemma>my wife be at a restaurant in a urban area .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Our cell phone which is an inexpensive pre-pay got 3 bars and was usable .</Tokens>
+		<POS>PRP$ NN NN WDT VBZ DT JJ JJ VBD CD NNS CC VBD JJ .</POS>
+		<Lemma>we cell phone which be a inexpensive pre-pay get 3 bar and be usable .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>None of my wife 's lunch companions could get any , in spite of the fact that they had much more expensive phones .</Tokens>
+		<POS>NN IN PRP$ NN POS NN NNS MD VB DT , IN NN IN DT NN IN PRP VBD RB RBR JJ NNS .</POS>
+		<Lemma>none of my wife 's lunch companion could get any , in spite of the fact that they have much more expensive phone .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>They used our phone to make a call and it worked fine .</Tokens>
+		<POS>PRP VBD PRP$ NN TO VB DT NN CC PRP VBD NN .</POS>
+		<Lemma>they use we phone to make a call and it work fine .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>For the price this product is worth a shot .</Tokens>
+		<POS>IN DT NN DT NN VBZ IN DT NN .</POS>
+		<Lemma>for the price this product be worth a shot .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Read the instructions carefully .</Tokens>
+		<POS>VB DT NNS RB .</POS>
+		<Lemma>read the instruction carefully .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Product is not hard to install but you do need to be careful .</Tokens>
+		<POS>NN VBZ RB JJ TO VB CC PRP VBP VB TO VB JJ .</POS>
+		<Lemma>product be not hard to install but you do need to be careful .</Lemma>
+	</Sentence>
+</Document>

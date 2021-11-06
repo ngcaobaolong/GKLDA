@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Most Local Groceries in Williamsburg do n't carry this one , but Blooms did at one time and I learned how good it was .</Tokens>
+		<POS>JJS JJ NNS IN NNP VBP RB VB DT CD , CC NNP VBD IN CD NN CC PRP VBD WRB JJ PRP VBD .</POS>
+		<Lemma>most local grocery in Williamsburg do not carry this one , but Blooms do at one time and I learn how good it be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have not had a single bad loaf and prefer this to any gluten-free bread I have had -LRB- it is on par with the g-f bread made at WF , but I live at some distance from them and that has to be kept frozen -RRB- .</Tokens>
+		<POS>PRP VBP RB VBN DT JJ JJ NN CC VBP DT TO DT JJ NN PRP VBP VBN -LRB- PRP VBZ IN NN IN DT JJ NN VBN IN NNP , CC PRP VBP IN DT NN IN PRP CC DT VBZ TO VB VBN JJ -RRB- .</POS>
+		<Lemma>I have not have a single bad loaf and prefer this to any gluten-free bread I have have -lrb- it be on par with the g-f bread make at WF , but I live at some distance from they and that have to be keep frozen -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is better toasted when used in a sandwich , but serves as a good bread for any meal .</Tokens>
+		<POS>PRP VBZ RBR VBN WRB VBN IN DT NN , CC VBZ IN DT JJ NN IN DT NN .</POS>
+		<Lemma>it be better toast when use in a sandwich , but serve as a good bread for any meal .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have always used a camera with mini DV tapes .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN JJ NN NNS .</POS>
+		<Lemma>I have always use a camera with mini dv tape .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Flip is so simple to upload your movie onto your computer and also to upload to Facebook , YouTube etc. .</Tokens>
+		<POS>DT NN VBZ RB JJ TO NN PRP$ NN IN PRP$ NN CC RB TO NN TO NNP , NNP FW .</POS>
+		<Lemma>the flip be so simple to upload you movie onto you computer and also to upload to Facebook , YouTube etc. .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The video quality is also very good .</Tokens>
+		<POS>DT JJ NN VBZ RB RB JJ .</POS>
+		<Lemma>the video quality be also very good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The physical size of the camera makes it easy to carry as well .</Tokens>
+		<POS>DT JJ NN IN DT NN VBZ PRP JJ TO VB RB RB .</POS>
+		<Lemma>the physical size of the camera make it easy to carry as well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For the price this camera does everything I want it to and more !</Tokens>
+		<POS>IN DT NN DT NN VBZ NN PRP VBP PRP TO CC RBR .</POS>
+		<Lemma>for the price this camera do everything I want it to and more !</Lemma>
+	</Sentence>
+</Document>

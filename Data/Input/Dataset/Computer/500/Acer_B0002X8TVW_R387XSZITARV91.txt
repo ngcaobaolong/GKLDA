@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I recently bought 2 of these - 1 for my old machine at home , and 1 for my administrative assistant at the office .</Tokens>
+		<POS>PRP RB VBD CD IN DT : CD IN PRP$ JJ NN IN NN , CC CD IN PRP$ JJ NN IN DT NN .</POS>
+		<Lemma>I recently buy 2 of these - 1 for my old machine at home , and 1 for my administrative assistant at the office .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I speak for both of us when I say this flat screen monitor is truly amazing ; its color , size , and value are extraordinary .</Tokens>
+		<POS>PRP VBP IN DT IN PRP WRB PRP VBP DT JJ NN NN VBZ RB JJ : PRP$ NN , NN , CC NN VBP JJ .</POS>
+		<Lemma>I speak for both of we when I say this flat screen monitor be truly amazing ; its color , size , and value be extraordinary .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'll admit that this is the 1st flat screen we have ever had -LRB- except for a laptop , which is not really comparable -RRB- so it may be a little like not having a cell phone , and then getting one - you 'll think anything is good !</Tokens>
+		<POS>PRP MD VB IN DT VBZ DT CD JJ NN PRP VBP RB VBN -LRB- IN IN DT NN , WDT VBZ RB RB JJ -RRB- IN PRP MD VB DT JJ IN RB VBG DT NN NN , CC RB VBG CD : PRP MD VB NN VBZ JJ .</POS>
+		<Lemma>I 'll admit that this be the 1st flat screen we have ever have -lrb- except for a laptop , which be not really comparable -rrb- so it may be a little like not have a cell phone , and then get one - you 'll think anything be good !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But seriously , the more expensive models may have the name brand , but this flat screen has the value and performance .</Tokens>
+		<POS>CC RB , DT RBR JJ NNS MD VB DT NN NN , CC DT JJ NN VBZ DT NN CC NN .</POS>
+		<Lemma>but seriously , the more expensive model may have the name brand , but this flat screen have the value and performance .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you need a flat screen , GET THIS ONE .</Tokens>
+		<POS>IN PRP VBP DT JJ NN , VBP NNS CD .</POS>
+		<Lemma>if you need a flat screen , get this one .</Lemma>
+	</Sentence>
+</Document>

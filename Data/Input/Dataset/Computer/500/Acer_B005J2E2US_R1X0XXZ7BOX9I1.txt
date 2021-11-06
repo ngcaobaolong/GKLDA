@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this for about eight weeks now and here 's my breakdown .</Tokens>
+		<POS>PRP VBP VBD DT IN IN CD NNS RB CC RB POS PRP$ NN .</POS>
+		<Lemma>I have have this for about eight week now and here 's my breakdown .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>PROS : \* Connects to wireless almost instantly -LRB- much faster than my previous netbook -RRB- .</Tokens>
+		<POS>NNS : SYM VBZ TO JJ RB RB -LRB- JJ JJR IN PRP$ JJ NN -RRB- .</POS>
+		<Lemma>pro : \* connect to wireless almost instantly -lrb- much faster than my previous netbook -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>\* Convenient size -- easy to grab this on the way out the door as opposed to my daughter 's laptop , which with its 15 '' + screen is a bit of a behemoth .</Tokens>
+		<POS>SYM JJ NN : JJ TO VB DT IN DT NN IN DT NN IN VBN TO PRP$ NN POS NN , WDT IN PRP$ CD '' CC NN VBZ DT NN IN DT NN .</POS>
+		<Lemma>\* convenient size -- easy to grab this on the way out the door as oppose to my daughter 's laptop , which with its 15 '' + screen be a bit of a behemoth .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>\* Keyboard is compact -- I find these smaller keyboards much easier to type on in cramped quarters such as an airplane seat .</Tokens>
+		<POS>SYM NN VBZ JJ : PRP VBP DT JJR NNS RB JJR TO NN IN IN JJ NNS JJ IN DT NN NN .</POS>
+		<Lemma>\* keyboard be compact -- I find these smaller keyboard much easier to type on in cramped quarter such as a airplane seat .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>\* Can handle most basic tasks well .</Tokens>
+		<POS>SYM MD VB JJS JJ NNS RB .</POS>
+		<Lemma>\* can handle most basic task well .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>A viable alternative to a desktop if you 're not trying to burn DVDs or do hardcore gaming .</Tokens>
+		<POS>DT JJ NN TO DT NN IN PRP VBP RB VBG TO VB NNS CC VB NN NN .</POS>
+		<Lemma>a viable alternative to a desktop if you be not try to burn dvd or do hardcore gaming .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Netflix , MS Word , etc run fine .</Tokens>
+		<POS>NNP , NN NN , FW VBP NN .</POS>
+		<Lemma>Netflix , m word , etc run fine .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>CONS : \* Ships filled with bloatware .</Tokens>
+		<POS>NNS : SYM NNS VBN IN NN .</POS>
+		<Lemma>con : \* ship fill with bloatware .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You will have to de-bloat to get max performance .</Tokens>
+		<POS>PRP MD VB TO JJ TO VB NN NN .</POS>
+		<Lemma>you will have to de-bloat to get max performance .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>\* A little bit on the heavy side for its size .</Tokens>
+		<POS>SYM DT JJ NN IN DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>\* a little bit on the heavy side for its size .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Not nearly as heavy as a full-featured laptop , however .</Tokens>
+		<POS>RB RB IN JJ IN DT JJ NN , RB .</POS>
+		<Lemma>not nearly as heavy as a full-featured laptop , however .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>\* Battery life is not very good , compared to my older netbook .</Tokens>
+		<POS>SYM NN NN VBZ RB RB JJ , VBN TO PRP$ JJR NN .</POS>
+		<Lemma>\* battery life be not very good , compare to my older netbook .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The battery does not last out the amount of time it should .</Tokens>
+		<POS>DT NN VBZ RB VB RP DT NN IN NN PRP MD .</POS>
+		<Lemma>the battery do not last out the amount of time it should .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>This can become an issue when traveling as you really have to remember to bring the charger with you even for a short trip .</Tokens>
+		<POS>DT MD VB DT NN WRB VBG IN PRP RB VBP TO VB TO VB DT NN IN PRP RB IN DT JJ NN .</POS>
+		<Lemma>this can become a issue when travel as you really have to remember to bring the charger with you even for a short trip .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Overall I 'm very pleased with this netbook .</Tokens>
+		<POS>JJ PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>overall I be very pleased with this netbook .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It gets daily use , usually for hours at a time , and has n't complained yet .</Tokens>
+		<POS>PRP VBZ JJ NN , RB IN NNS IN DT NN , CC VBZ RB VBD RB .</POS>
+		<Lemma>it get daily use , usually for hour at a time , and have not complain yet .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Just be wary of the battery life issue .</Tokens>
+		<POS>RB VB JJ IN DT NN NN NN .</POS>
+		<Lemma>just be wary of the battery life issue .</Lemma>
+	</Sentence>
+</Document>

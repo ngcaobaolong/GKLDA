@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Best small laptop -LRB- netbook -RRB- I 've ever had !</Tokens>
+		<POS>JJS JJ NN -LRB- NN -RRB- PRP VBP RB VBN .</POS>
+		<Lemma>best small laptop -lrb- netbook -rrb- I have ever have !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is my third Acer and they just keep on getting better .</Tokens>
+		<POS>DT VBZ PRP$ JJ NNP CC PRP RB VB IN VBG JJR .</POS>
+		<Lemma>this be my third Acer and they just keep on get better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I up-graded the RAM to 4GB for about $ 30 and it runs superbly .</Tokens>
+		<POS>PRP VBD DT NNP TO NN IN IN $ CD CC PRP VBZ RB .</POS>
+		<Lemma>I up-grade the RAM to 4gb for about $ 30 and it run superbly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I use it mostly for e-mail and web but can use it for accounting and tax prep with professional software in a pinch .</Tokens>
+		<POS>PRP VBP PRP RB IN JJ CC NN CC MD VB PRP IN NN CC NN NN IN JJ NN IN DT NN .</POS>
+		<Lemma>I use it mostly for e-mail and web but can use it for accounting and tax prep with professional software in a pinch .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The `` water-drop '' top is a bit funky at first but interesting if you like something out of the ordinary .</Tokens>
+		<POS>DT `` JJ '' NN VBZ DT NN JJ IN JJ CC JJ IN PRP IN NN IN IN DT JJ .</POS>
+		<Lemma>the `` water-drop '' top be a bit funky at first but interesting if you like something out of the ordinary .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>All in all , if you want a very good and compact computer , this is definitely a good choice for under $ 400 !</Tokens>
+		<POS>DT IN DT , IN PRP VBP DT RB JJ CC JJ NN , DT VBZ RB DT JJ NN IN IN $ CD .</POS>
+		<Lemma>all in all , if you want a very good and compact computer , this be definitely a good choice for under $ 400 !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>works perfect .</Tokens>
+		<POS>NNS JJ .</POS>
+		<Lemma>work perfect .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i bought 4 pairs so i can have one in each of my car and my parents cars .</Tokens>
+		<POS>LS VBD CD NNS RB FW MD VB CD IN DT IN PRP$ NN CC PRP$ NNS NNS .</POS>
+		<Lemma>i buy 4 pair so i can have one in each of my car and my parent car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>works for kindle , blackberry as well</Tokens>
+		<POS>NNS IN NN , NN RB RB</POS>
+		<Lemma>work for kindle , blackberry as well</Lemma>
+	</Sentence>
+</Document>

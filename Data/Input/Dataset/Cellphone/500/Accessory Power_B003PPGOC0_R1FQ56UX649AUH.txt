@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased the GOgroove Flexsmart as a hands-free device for my second car .</Tokens>
+		<POS>PRP VBD DT NNP NNP IN DT JJ NN IN PRP$ JJ NN .</POS>
+		<Lemma>I purchase the GOgroove Flexsmart as a hands-free device for my second car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>-LRB- For my other car , I use the Soundfly BT . -RRB-</Tokens>
+		<POS>-LRB- IN PRP$ JJ NN , PRP VBP DT NNP NNP . -RRB-</POS>
+		<Lemma>-lrb- for my other car , I use the Soundfly BT . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The reason I went with the GOgroove was that it has a built-in microphone , so no wiring is necessary .</Tokens>
+		<POS>DT NN PRP VBD IN DT NN VBD IN PRP VBZ DT JJ NN , IN DT NN VBZ JJ .</POS>
+		<Lemma>the reason I go with the gogroove be that it have a built-in microphone , so no wiring be necessary .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What a royal mistake !</Tokens>
+		<POS>WP DT JJ NN .</POS>
+		<Lemma>what a royal mistake !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When I speak on the phone , people say I either sound like I am in a well , or they outright can not hear me .</Tokens>
+		<POS>WRB PRP VBP IN DT NN , NNS VBP PRP DT NN IN PRP VBP IN DT RB , CC PRP RB MD RB VB PRP .</POS>
+		<Lemma>when I speak on the phone , people say I either sound like I be in a well , or they outright can not hear I .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It does no better than me placing my phone on speakerphone and talking with it on my lap .</Tokens>
+		<POS>PRP VBZ RB JJR IN PRP VBG PRP$ NN IN NN CC VBG IN PRP IN PRP$ NN .</POS>
+		<Lemma>it do no better than I place my phone on speakerphone and talk with it on my lap .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Absolute waste of money !</Tokens>
+		<POS>JJ NN IN NN .</POS>
+		<Lemma>absolute waste of money !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>With my Soundfly BT -LRB- which I 've had for a year now -RRB- , people can not even tell I am speaking on a hands-free device .</Tokens>
+		<POS>IN PRP$ NNP NNP -LRB- WDT PRP VBP VBN IN DT NN RB -RRB- , NNS MD RB RB VB PRP VBP VBG IN DT JJ NN .</POS>
+		<Lemma>with my Soundfly BT -lrb- which I have have for a year now -rrb- , people can not even tell I be speak on a hands-free device .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The GOgroove also has the annoying property of resetting to a lower volume level each time you turn off the car .</Tokens>
+		<POS>DT NNP RB VBZ DT JJ NN IN VBG TO DT JJR NN NN DT NN PRP VBP RP DT NN .</POS>
+		<Lemma>the GOgroove also have the annoying property of reset to a lower volume level each time you turn off the car .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This in itself would be only an annoyance , however to turn the volume back up , I often accidentally change the frequency , since they are both controlled with the same push knob .</Tokens>
+		<POS>DT IN PRP MD VB RB DT NN , RB TO VB DT NN RB RB , PRP RB RB VB DT NN , IN PRP VBP DT VBN IN DT JJ NN NN .</POS>
+		<Lemma>this in itself would be only a annoyance , however to turn the volume back up , I often accidentally change the frequency , since they be both control with the same push knob .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>So , when you are trying to hear what the caller is saying , you inadvertently change it so all you hear is static from the radio .</Tokens>
+		<POS>RB , WRB PRP VBP VBG TO VB WP DT NN VBZ VBG , PRP RB VBP PRP RB RB PRP VBP VBZ JJ IN DT NN .</POS>
+		<Lemma>so , when you be try to hear what the caller be say , you inadvertently change it so all you hear be static from the radio .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I just as well could have tossed $ 45 into the trash , because that is exactly where this device is going !</Tokens>
+		<POS>PRP RB RB RB MD VB VBD $ CD IN DT NN , IN DT VBZ RB WRB DT NN VBZ VBG .</POS>
+		<Lemma>I just as well could have toss $ 45 into the trash , because that be exactly where this device be go !</Lemma>
+	</Sentence>
+</Document>

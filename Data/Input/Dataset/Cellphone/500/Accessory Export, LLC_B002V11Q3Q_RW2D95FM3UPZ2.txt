@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use this to access ` Easy Tether ' from my phone for my laptop .</Tokens>
+		<POS>PRP VBP DT TO NN `` NNP NNP POS IN PRP$ NN IN PRP$ NN .</POS>
+		<Lemma>I use this to access ` Easy Tether ' from my phone for my laptop .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This product works great !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this product work great !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Glad I got it .</Tokens>
+		<POS>JJ PRP VBD PRP .</POS>
+		<Lemma>glad I get it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>: -RRB-</Tokens>
+		<POS>: -RRB-</POS>
+		<Lemma>: -rrb-</Lemma>
+	</Sentence>
+</Document>

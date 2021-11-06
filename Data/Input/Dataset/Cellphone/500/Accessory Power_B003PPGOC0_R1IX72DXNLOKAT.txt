@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just got this .</Tokens>
+		<POS>RB VBD DT .</POS>
+		<Lemma>just get this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Flawless Transaction from Amazon , as always .</Tokens>
+		<POS>JJ NN IN NNP , IN RB .</POS>
+		<Lemma>flawless transaction from Amazon , as always .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After reading reviews , purchased this as got highest reviews .</Tokens>
+		<POS>IN VBG NNS , VBD DT IN VBN JJS NNS .</POS>
+		<Lemma>after read review , purchase this as get highest review .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No great sound quality at all , but works and is very efficient .</Tokens>
+		<POS>DT JJ JJ NN IN DT , CC VBZ CC VBZ RB JJ .</POS>
+		<Lemma>no great sound quality at all , but work and be very efficient .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Music and phone calls seem muted at best .</Tokens>
+		<POS>NN CC NN NNS VBP VBN IN JJS .</POS>
+		<Lemma>music and phone call seem mute at best .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Test calls received nothing but , `` uh yeah i guess '' Again , it works , but I would NOT recommend to a friend ... as i have done many times today .</Tokens>
+		<POS>NN VBZ VBN NN CC , `` UH FW FW NN '' RB , PRP VBZ , CC PRP MD RB VB TO DT NN : IN FW VBP VBN JJ NNS NN .</POS>
+		<Lemma>test call receive nothing but , `` uh yeah i guess '' again , it work , but I would not recommend to a friend ... as i have do many time today .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>For 60 $ with shipping I expect a lot more .</Tokens>
+		<POS>IN CD $ IN NN PRP VBP DT NN RBR .</POS>
+		<Lemma>for 60 $ with shipping I expect a lot more .</Lemma>
+	</Sentence>
+</Document>

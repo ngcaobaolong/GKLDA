@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a shot in the dark but I liked the description and the price so thought I would try it .</Tokens>
+		<POS>DT VBD DT NN IN DT JJ CC PRP VBD DT NN CC DT NN RB VBD PRP MD VB PRP .</POS>
+		<Lemma>this be a shot in the dark but I like the description and the price so think I would try it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This coffee is full and rich .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ .</POS>
+		<Lemma>this coffee be full and rich .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It gives me a little acid stomach if I drink too much , but I will buy from this company again and try a milder one .</Tokens>
+		<POS>PRP VBZ PRP DT JJ NN NN IN PRP VBP RB RB , CC PRP MD VB IN DT NN RB CC VB DT JJR CD .</POS>
+		<Lemma>it give I a little acid stomach if I drink too much , but I will buy from this company again and try a milder one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The flavor is so good .</Tokens>
+		<POS>DT NN VBZ RB JJ .</POS>
+		<Lemma>the flavor be so good .</Lemma>
+	</Sentence>
+</Document>

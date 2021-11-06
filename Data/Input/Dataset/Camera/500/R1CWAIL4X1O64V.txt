@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased Kodak Easyshare C123 for a vacation .</Tokens>
+		<POS>VBN NNP NNP NN IN DT NN .</POS>
+		<Lemma>purchase Kodak Easyshare c123 for a vacation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Got a few great underwater pictures , then problems .</Tokens>
+		<POS>VBD DT JJ JJ JJ NNS , RB NNS .</POS>
+		<Lemma>get a few great underwater picture , then problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Would n't take another photo .</Tokens>
+		<POS>MD RB VB DT NN .</POS>
+		<Lemma>would not take another photo .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Would n't stay turned on .</Tokens>
+		<POS>MD RB VB VBN RP .</POS>
+		<Lemma>would not stay turn on .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Lens fogged on inside .</Tokens>
+		<POS>NNP VBD IN NN .</POS>
+		<Lemma>Lens fog on inside .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Clearly water has leaked into the camera .</Tokens>
+		<POS>RB NN VBZ VBN IN DT NN .</POS>
+		<Lemma>clearly water have leak into the camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Now the LCD display will illuminate but wo n't show anything .</Tokens>
+		<POS>RB DT NNS VBP MD VB CC MD RB VB NN .</POS>
+		<Lemma>now the lcd display will illuminate but will not show anything .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Good thing I had used an optional memory card , at least I got to save the photos by reading the card directly into my computer .</Tokens>
+		<POS>JJ NN PRP VBD VBN DT JJ NN NN , IN JJS PRP VBD TO VB DT NNS IN VBG DT NN RB IN PRP$ NN .</POS>
+		<Lemma>good thing I have use a optional memory card , at least I get to save the photo by read the card directly into my computer .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Kodak has a quality problem with this camera .</Tokens>
+		<POS>NNP VBZ DT NN NN IN DT NN .</POS>
+		<Lemma>Kodak have a quality problem with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you purchase one , keep all the packaging to make the return easy in case you get a leaker .</Tokens>
+		<POS>IN PRP VBP CD , VB PDT DT NN TO VB DT NN JJ IN NN PRP VBP DT NN .</POS>
+		<Lemma>if you purchase one , keep all the packaging to make the return easy in case you get a leaker .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Kodak has agreed to look at the camera for possible warranty repair\/replacement .</Tokens>
+		<POS>NNP VBZ VBN TO VB IN DT NN IN JJ NN NN .</POS>
+		<Lemma>Kodak have agree to look at the camera for possible warranty repair\/replacement .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>We 'll see .</Tokens>
+		<POS>PRP MD VB .</POS>
+		<Lemma>we 'll see .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I will write another review once they deal with my warranty claim .</Tokens>
+		<POS>PRP MD VB DT NN IN PRP VBP IN PRP$ NN NN .</POS>
+		<Lemma>I will write another review once they deal with my warranty claim .</Lemma>
+	</Sentence>
+</Document>

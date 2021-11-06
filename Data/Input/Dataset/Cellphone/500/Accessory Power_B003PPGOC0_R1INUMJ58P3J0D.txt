@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this before a 1000m road trip and it 's awesome , I did n't have to change the fm station but once when I arrived at my destination .</Tokens>
+		<POS>PRP VBD DT IN DT JJ NN NN CC PRP VBZ JJ , PRP VBD RB VB TO VB DT NN NN CC RB WRB PRP VBD IN PRP$ NN .</POS>
+		<Lemma>I buy this before a 1000m road trip and it be awesome , I do not have to change the fm station but once when I arrive at my destination .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It connects quickly when I get in the car with my phone , and the sound is good .</Tokens>
+		<POS>PRP VBZ RB WRB PRP VBP IN DT NN IN PRP$ NN , CC DT NN VBZ JJ .</POS>
+		<Lemma>it connect quickly when I get in the car with my phone , and the sound be good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However i 've been unable to use the buttons to skip between tracks so I have to skip between songs on my actual phone but the call quality is pretty good so I do n't really mind .</Tokens>
+		<POS>RB FW VBP VBN JJ TO VB DT NNS TO VB IN NNS IN PRP VBP TO VB IN NNS IN PRP$ JJ NN CC DT JJ NN VBZ RB JJ IN PRP VBP RB RB VB .</POS>
+		<Lemma>however i have be unable to use the button to skip between track so I have to skip between song on my actual phone but the call quality be pretty good so I do not really mind .</Lemma>
+	</Sentence>
+</Document>

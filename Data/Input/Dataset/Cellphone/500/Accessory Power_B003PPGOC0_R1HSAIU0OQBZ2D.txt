@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Let me start by saying i do n't usually leave reviews but holy # $ & \* this is deserves a gadget MVP .</Tokens>
+		<POS>VB PRP VB IN VBG FW VBP RB RB VBP NNS CC JJ # $ CC SYM DT VBZ VBZ DT NN NN .</POS>
+		<Lemma>let I start by say i do not usually leave review but holy # $ & \* this be deserve a gadget mvp .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am an audophile and i was ready for disappointment after hooking this thing up given my past experiences with FM transmitters but i instead had an eargasm ... twice .</Tokens>
+		<POS>PRP VBP DT NN CC FW VBD JJ IN NN IN VBG DT NN RP VBN PRP$ JJ NNS IN NNP NNS CC FW RB VBD DT NN : RB .</POS>
+		<Lemma>I be a audophile and i be ready for disappointment after hook this thing up give my past experience with FM transmitter but i instead have a eargasm ... twice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Everything from pulling it out of the box to syncing it with both my IPhone and Ipod touch 4g were effortless .</Tokens>
+		<POS>NN IN VBG PRP IN IN DT NN TO VBG PRP IN DT PRP$ NN CC NN NN NN VBD JJ .</POS>
+		<Lemma>everything from pull it out of the box to synce it with both my iphone and ipod touch 4g be effortless .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The receiver has its own volume adjuster built in which is clutch because it allows you to adjust it up to the highest volume needed to obtain distortion -LRB- Bass in my case -RRB- free sound .</Tokens>
+		<POS>DT NN VBZ PRP$ JJ NN NN VBN IN WDT VBZ NN IN PRP VBZ PRP TO VB PRP RP TO DT JJS NN VBD TO VB NN -LRB- NNP IN PRP$ NN -RRB- JJ NN .</POS>
+		<Lemma>the receiver have its own volume adjuster build in which be clutch because it allow you to adjust it up to the highest volume need to obtain distortion -lrb- Bass in my case -rrb- free sound .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Rest assured that the volume is more then ample for the system in your car .</Tokens>
+		<POS>VB VBN IN DT NN VBZ RBR RB JJ IN DT NN IN PRP$ NN .</POS>
+		<Lemma>rest assure that the volume be more then ample for the system in you car .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The auto station finder is cool but i found that 106.3 works in MD the best .</Tokens>
+		<POS>DT NN NN NN VBZ JJ CC FW VBN IN CD NNS IN NN DT JJS .</POS>
+		<Lemma>the auto station finder be cool but i find that 106.3 work in md the best .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The connection is better then having a cd in because you can play with 3 different volume limits -LRB- device , transmitter and car -RRB- and 2 equalizers -LRB- device and your car if it doesnt suck -RRB- to get the best sound possible .</Tokens>
+		<POS>DT NN VBZ RBR RB VBG DT NN IN IN PRP MD VB IN CD JJ NN NNS -LRB- NN , NN CC NN -RRB- CC CD NNS -LRB- NN CC PRP$ NN IN PRP JJ NN -RRB- TO VB DT JJS NN JJ .</POS>
+		<Lemma>the connection be better then have a cd in because you can play with 3 different volume limit -lrb- device , transmitter and car -rrb- and 2 equalizer -lrb- device and you car if it doesnt suck -rrb- to get the best sound possible .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The calls are insanely clear and there is no lag with the signal when switching a song , pausing or answering a call .</Tokens>
+		<POS>DT NNS VBP RB JJ CC EX VBZ DT NN IN DT NN WRB VBG DT NN , VBG CC VBG DT NN .</POS>
+		<Lemma>the call be insanely clear and there be no lag with the signal when switch a song , pause or answer a call .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Its definitely the coolest looking FM transmitter on the market .</Tokens>
+		<POS>PRP$ RB DT JJS VBG NNP NN IN DT NN .</POS>
+		<Lemma>its definitely the coolest look FM transmitter on the market .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Its funny because i was going to cancel this order and get the adapter to hook my IPod directly into my 2006 Honda Accord Navi using one of the XM stations for about $ 150.00 plus installation but boy am i glad i did n't .</Tokens>
+		<POS>PRP$ JJ IN FW VBD VBG TO VB DT NN CC VB DT NN TO NN PRP$ NN RB IN PRP$ CD NNP NNP NNP VBG CD IN DT NNP NNS IN RB $ CD CC NN CC NN VBP FW JJ FW VBD RB .</POS>
+		<Lemma>its funny because i be go to cancel this order and get the adapter to hook my ipod directly into my 2006 Honda Accord Navi use one of the XM station for about $ 150.00 plus installation but boy be i glad i do not .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Oh and very importantly it does support your Ipod sync cable to charge your apple devices !!!</Tokens>
+		<POS>UH CC RB RB PRP VBZ VB PRP$ NN NN NN TO VB PRP$ NN NNS IN</POS>
+		<Lemma>oh and very importantly it do support you ipod sync cable to charge you apple device !!!</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I cant say enough good things about this thing .</Tokens>
+		<POS>PRP VBP VB RB JJ NNS IN DT NN .</POS>
+		<Lemma>I cant say enough good thing about this thing .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Overall , if you 're like me and you wait for that one review that makes up your mind on whether you 're going to get something or not ... please let me be as clear as possible ... Purchase this or you will regret it .</Tokens>
+		<POS>RB , IN PRP VBP IN PRP CC PRP VB IN DT CD NN WDT VBZ RP PRP$ NN IN IN PRP VBP VBG TO VB NN CC RB : VB VB PRP VB IN JJ IN JJ : NN DT CC PRP MD VB PRP .</POS>
+		<Lemma>overall , if you be like I and you wait for that one review that make up you mind on whether you be go to get something or not ... please let I be as clear as possible ... purchase this or you will regret it .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Its very reasonably priced and it does everything you need .</Tokens>
+		<POS>PRP$ RB RB VBN CC PRP VBZ NN PRP VBP .</POS>
+		<Lemma>its very reasonably price and it do everything you need .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I wish i had 3 cars so i could buy 2 more .</Tokens>
+		<POS>PRP VBP FW VBD CD NNS RB FW MD VB CD JJR .</POS>
+		<Lemma>I wish i have 3 car so i could buy 2 more .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>And if you have an Iphone or anything with bluetooth for that matter and dont have it already integrated into your car , this is the product you need .</Tokens>
+		<POS>CC IN PRP VBP DT NNP CC NN IN NN IN DT NN CC NN VBP PRP RB VBN IN PRP$ NN , DT VBZ DT NN PRP VBP .</POS>
+		<Lemma>and if you have a Iphone or anything with bluetooth for that matter and dont have it already integrate into you car , this be the product you need .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Heck i might get a GoGroove tattoo i love this thing so much .</Tokens>
+		<POS>NN FW MD VB DT NNP NN FW VBP DT NN RB RB .</POS>
+		<Lemma>heck i might get a GoGroove tattoo i love this thing so much .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I might get a second job at the GoGroove factory making these things .</Tokens>
+		<POS>PRP MD VB DT JJ NN IN DT NNP NN VBG DT NNS .</POS>
+		<Lemma>I might get a second job at the GoGroove factory make these thing .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Who knows , there 's so many options and the night is young .</Tokens>
+		<POS>WP VBZ , EX VBZ RB JJ NNS CC DT NN VBZ JJ .</POS>
+		<Lemma>who know , there be so many option and the night be young .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Buy it .</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>buy it .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Boom !</Tokens>
+		<POS>NN .</POS>
+		<Lemma>boom !</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Chuck</Tokens>
+		<POS>NNP</POS>
+		<Lemma>Chuck</Lemma>
+	</Sentence>
+</Document>

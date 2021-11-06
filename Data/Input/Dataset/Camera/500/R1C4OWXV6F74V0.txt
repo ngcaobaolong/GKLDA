@@ -1,0 +1,132 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The latest Kodak mini camcorder is fairly inexpensive and very easy to use , and for many it will be the ideal low-budget tool for capturing casual video on the fly .</Tokens>
+		<POS>DT JJS NNP NN NN VBZ RB JJ CC RB JJ TO VB , CC IN JJ PRP MD VB DT JJ JJ NN IN VBG JJ NN IN DT NN .</POS>
+		<Lemma>the latest Kodak minus camcorder be fairly inexpensive and very easy to use , and for many it will be the ideal low-budget tool for capture casual video on the fly .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What follows are just a few observations I 've made after a few week 's using it , that I hope will be helpful .</Tokens>
+		<POS>WDT VBZ VBP RB DT JJ NNS PRP VBP VBN IN DT JJ NN POS VBG PRP , IN PRP VBP MD VB JJ .</POS>
+		<Lemma>what follow be just a few observation I have make after a few week 's use it , that I hope will be helpful .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First off , you should know that the pictures and videos you take with this are going to be fine but not great .</Tokens>
+		<POS>NNP RB , PRP MD VB IN DT NNS CC NNS PRP VBP IN DT VBP VBG TO VB JJ CC RB JJ .</POS>
+		<Lemma>First off , you should know that the picture and video you take with this be go to be fine but not great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Not all HD is created equal .</Tokens>
+		<POS>RB DT NN VBZ VBN JJ .</POS>
+		<Lemma>not all hd be create equal .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In other words - this is great for capturing memories , but wo n't show off the fidelity of your widescreen t.v. .</Tokens>
+		<POS>IN JJ NNS : DT VBZ JJ IN VBG NNS , CC MD RB VB RP DT NN IN PRP$ NN NN .</POS>
+		<Lemma>in other word - this be great for capture memory , but will not show off the fidelity of you widescreen t.v. .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>As far as video and picture quality goes , this is about the equivalent of an average smartphone - though I think the audio is somewhat better - and it 's not as good as you could get with the Flip -LRB- r.i.p. -RRB- .</Tokens>
+		<POS>IN RB IN NN CC NN NN VBZ , DT VBZ IN DT NN IN DT JJ NN : IN PRP VBP DT NN VBZ RB JJR : CC PRP VBZ RB RB JJ IN PRP MD VB IN DT NN -LRB- NN -RRB- .</POS>
+		<Lemma>as far as video and picture quality go , this be about the equivalent of a average smartphone - though I think the audio be somewhat better - and it be not as good as you could get with the flip -lrb- r.i.p. -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You should n't expect more for this price , but what you do get for this price is pretty good -LRB- especially if you do n't want or need an expensive phone on a more expensive mobile plan that also happens to capture video -RRB- .</Tokens>
+		<POS>PRP MD RB VB RBR IN DT NN , CC WP PRP VBP VB IN DT NN VBZ RB JJ -LRB- RB IN PRP VBP RB VB CC VB DT JJ NN IN DT RBR JJ JJ NN WDT RB VBZ TO VB NN -RRB- .</POS>
+		<Lemma>you should not expect more for this price , but what you do get for this price be pretty good -lrb- especially if you do not want or need a expensive phone on a more expensive mobile plan that also happen to capture video -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The thing that makes this really stand out from other , similar , inexpensive handheld camcorders -LRB- and from mobile phones that shoot video -RRB- is the underwater thing , and that 's pretty fantastic .</Tokens>
+		<POS>DT NN WDT VBZ DT RB VB RP IN JJ , JJ , JJ JJ NNS -LRB- CC IN JJ NNS WDT VBP NN -RRB- VBZ DT JJ NN , CC DT VBZ RB JJ .</POS>
+		<Lemma>the thing that make this really stand out from other , similar , inexpensive handheld camcorder -lrb- and from mobile phone that shoot video -rrb- be the underwater thing , and that be pretty fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It can shoot underwater up to about 10 feet !</Tokens>
+		<POS>PRP MD VB JJ IN TO IN CD NNS .</POS>
+		<Lemma>it can shoot underwater up to about 10 foot !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It 's also quite durable , which is another reason this would be great for kids .</Tokens>
+		<POS>PRP VBZ RB RB JJ , WDT VBZ DT NN DT MD VB JJ IN NNS .</POS>
+		<Lemma>it be also quite durable , which be another reason this would be great for kid .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>They could pass it around at a pool or beach party , shooting indoors and outdoors and underwater , then they could upload , edit and share .</Tokens>
+		<POS>PRP MD VB PRP IN IN DT NN CC NN NN , VBG RB CC RB CC JJ , RB PRP MD NN , NN CC NN .</POS>
+		<Lemma>they could pass it around at a pool or beach party , shoot indoors and outdoors and underwater , then they could upload , edit and share .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>This shoots 720p and standard definition video - but the `` HD '' designation should n't obscure the fact that this is a small lens and a tiny sensor and , consequently , the footage is n't going to be very crisp .</Tokens>
+		<POS>DT VBZ RB CC JJ NN NN : CC DT `` NN '' NN MD RB VB DT NN IN DT VBZ DT JJ NN CC DT JJ NN CC , RB , DT NN VBZ RB VBG TO VB RB JJ .</POS>
+		<Lemma>this shoot 720p and standard definition video - but the `` hd '' designation should not obscure the fact that this be a small lens and a tiny sensor and , consequently , the footage be not go to be very crisp .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It ends up looking slightly hazy - almost like old home movies - and I do n't mind that aesthetic .</Tokens>
+		<POS>PRP VBZ RP VBG RB SYM : RB IN JJ NN NNS : CC PRP VBP RB VB IN JJ .</POS>
+		<Lemma>it end up look slightly hazy - almost like old home movie - and I do not mind that aesthetic .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It 's great for capturing memories that you 'll share with friends and maybe hold on to for a long time - but no one 's going to be making a commercial movie with this anytime soon .</Tokens>
+		<POS>PRP VBZ JJ IN VBG NNS IN PRP MD VB IN NNS CC RB VB IN TO IN DT JJ NN : CC DT NN POS VBG TO VB VBG DT JJ NN IN DT RB RB .</POS>
+		<Lemma>it be great for capture memory that you 'll share with friend and maybe hold on to for a long time - but no one 's go to be make a commercial movie with this anytime soon .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>There 's Kodak Share software loaded onto the camera , so that when you plug it in to a computer for the first time it will ask if you want to install the software .</Tokens>
+		<POS>EX VBZ NNP NNP NN VBN IN DT NN , RB IN WRB PRP VBP PRP IN TO DT NN IN DT JJ NN PRP MD VB IN PRP VBP TO VB DT NN .</POS>
+		<Lemma>there be Kodak Share software load onto the camera , so that when you plug it in to a computer for the first time it will ask if you want to install the software .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>What the software does is download all your pictures and video to whatever folder you designate during setup ; and it also gives you the option to set it up automatically for sharing photos and video via email or Facebook or other social networking sites .</Tokens>
+		<POS>WP DT NN VBZ VBZ NN DT PRP$ NNS CC NN TO WDT VBP PRP VB IN NN : CC PRP RB VBZ PRP DT NN TO VB PRP RP RB IN VBG NNS CC NN IN NN CC NNP CC JJ JJ NN NNS .</POS>
+		<Lemma>what the software do be download all you picture and video to whatever folder you designate during setup ; and it also give you the option to set it up automatically for share photo and video via email or Facebook or other social networking site .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The downside - but this is also part of the upside - is that it 's a bit tricky to get to the USB connector and the SD card and the HDMI port .</Tokens>
+		<POS>DT NN : CC DT VBZ RB NN IN DT NN : VBZ IN PRP VBZ DT NN JJ TO VB TO DT JJ NN CC DT NN NN CC DT NNP NN .</POS>
+		<Lemma>the downside - but this be also part of the upside - be that it be a bit tricky to get to the usb connector and the sd card and the HDMI port .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The reason for that , the reason there 's no button you can push to `` flip '' open the USB connector , is that this is a waterproof camera , so those compartments have to have a watertight seal .</Tokens>
+		<POS>DT NN IN DT , DT NN EX VBZ DT NN PRP MD VB TO `` VB '' VB DT JJ NN , VBZ IN DT VBZ DT JJ NN , RB DT NNS VBP TO VB DT JJ NN .</POS>
+		<Lemma>the reason for that , the reason there be no button you can push to `` flip '' open the usb connector , be that this be a waterproof camera , so those compartment have to have a watertight seal .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The USB port is connected to the camera via a somewhat flimsy wire , so I 'd suggest picking up a USB extension plug , rather than plugging this in directly to the back of a computer or the side of a laptop , that might get jolted around a bit .</Tokens>
+		<POS>DT JJ NN VBZ VBN TO DT NN IN DT RB JJ NN , IN PRP MD VB VBG RP DT JJ NN NN , RB IN VBG DT IN RB TO DT NN IN DT NN CC DT NN IN DT NN , WDT MD VB VBN IN DT NN .</POS>
+		<Lemma>the usb port be connect to the camera via a somewhat flimsy wire , so I would suggest pick up a usb extension plug , rather than plug this in directly to the back of a computer or the side of a laptop , that might get jolt around a bit .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The really poor design choice is the HDMI port - for those who like to watch video directly from their camcorder , rather than burn it to a dvd first .</Tokens>
+		<POS>DT RB JJ NN NN VBZ DT NNP NN : IN DT WP VBP TO VB NN RB IN PRP$ NN , RB IN VB PRP TO DT NN RB .</POS>
+		<Lemma>the really poor design choice be the HDMI port - for those who like to watch video directly from they camcorder , rather than burn it to a dvd first .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>You open up the HDMI port , which is also the SD card port , and the SD card automatically pops out .</Tokens>
+		<POS>PRP VBP RP DT NNP NN , WDT VBZ RB DT NN NN NN , CC DT NN NN RB VBZ RP .</POS>
+		<Lemma>you open up the HDMI port , which be also the sd card port , and the sd card automatically pop out .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>So if you then plug this in to watch movies , the movies wo n't be available since they 're on the SD card .</Tokens>
+		<POS>RB IN PRP RB VBP DT IN TO VB NNS , DT NNS MD RB VB JJ IN PRP VBP IN DT NN NN .</POS>
+		<Lemma>so if you then plug this in to watch movie , the movie will not be available since they be on the sd card .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I do n't ever watch movies that way - since I always like to upload and edit them first - but for those who do that might be a deal breaker .</Tokens>
+		<POS>PRP VBP RB RB VB NNS WDT NN , IN PRP RB VBP TO NN CC VB PRP LS : CC IN DT WP VBP DT MD VB DT NN NN .</POS>
+		<Lemma>I do not ever watch movie that way - since I always like to upload and edit they first - but for those who do that might be a deal breaker .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>For me , I 'm quite happy with this .</Tokens>
+		<POS>IN PRP , PRP VBP RB JJ IN DT .</POS>
+		<Lemma>for I , I be quite happy with this .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>It 's handy and easy to keep in a pocket or a purse .</Tokens>
+		<POS>PRP VBZ JJ CC JJ TO VB IN DT NN CC DT NN .</POS>
+		<Lemma>it be handy and easy to keep in a pocket or a purse .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>It would be a very nice starter camera for a kid who likes to shoot outdoors , in the water and the sun and the rain .</Tokens>
+		<POS>PRP MD VB DT RB JJ JJ NN IN DT NN WP VBZ TO VB RB , IN DT NN CC DT NN CC DT NN .</POS>
+		<Lemma>it would be a very nice starter camera for a kid who like to shoot outdoors , in the water and the sun and the rain .</Lemma>
+	</Sentence>
+</Document>

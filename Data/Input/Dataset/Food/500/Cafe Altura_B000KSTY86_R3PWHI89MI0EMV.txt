@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a very good cup of coffee for those seeking a French Roast .</Tokens>
+		<POS>DT VBZ DT RB JJ NN IN NN IN DT VBG DT JJ NN .</POS>
+		<Lemma>this be a very good cup of coffee for those seek a french roast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is full-bodied , slightly dark but not bitter or burnt .</Tokens>
+		<POS>PRP VBZ JJ , RB JJ CC RB JJ CC JJ .</POS>
+		<Lemma>it be full-bodied , slightly dark but not bitter or burnt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have been searching for a good french roast and tried several Cafe Altura varieties and found this one to be my favorite .</Tokens>
+		<POS>PRP VBP VBN VBG IN DT JJ JJ NN CC VBD JJ NNP NNP NNS CC VBN DT CD TO VB PRP$ JJ .</POS>
+		<Lemma>I have be search for a good french roast and try several Cafe Altura variety and find this one to be my favorite .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very satisfying coffee , even better than the Cafe Altura 's Sumatran .</Tokens>
+		<POS>RB VBG NN , RB JJR IN DT NNP NNP POS NNP .</POS>
+		<Lemma>very satisfy coffee , even better than the Cafe Altura 's Sumatran .</Lemma>
+	</Sentence>
+</Document>

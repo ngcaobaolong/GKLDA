@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It took me a few tries , but it sure was worth it .</Tokens>
+		<POS>PRP VBD PRP DT JJ NNS , CC PRP RB VBD JJ PRP .</POS>
+		<Lemma>it take I a few try , but it sure be worth it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Here 's the simplest and best way I 've found to pop this corn , and it turns out delicious every time .</Tokens>
+		<POS>RB VBZ DT JJS CC JJS NN PRP VBP VBN TO VB DT NN , CC PRP VBZ RP JJ DT NN .</POS>
+		<Lemma>here be the simplest and best way I have find to pop this corn , and it turn out delicious every time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Place one-fourth cup popping corn into brown lunch bag .</Tokens>
+		<POS>NN NN NN VBG NN IN JJ NN NN .</POS>
+		<Lemma>place one-fourth cup pop corn into brown lunch bag .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Fold bag top down twice , about one-quarter inch per fold .</Tokens>
+		<POS>JJ NN NN IN RB , IN NN NN IN NN .</POS>
+		<Lemma>fold bag top down twice , about one-quarter inch per fold .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Use a piece of scotch tape to keep bag closed .</Tokens>
+		<POS>VB DT NN IN NN NN TO VB NN VBD .</POS>
+		<Lemma>use a piece of scotch tape to keep bag close .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Place bag in microwave for 3 minutes and 15 seconds -LRB- microwaves probably vary -RRB- .</Tokens>
+		<POS>NN NN IN NN IN CD NNS CC CD NNS -LRB- NNS RB VBP -RRB- .</POS>
+		<Lemma>place bag in microwave for 3 minute and 15 seconds -lrb- microwave probably vary -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Have a container handy to combine the popped corn with a tablespoon or so of melted butter and sea salt to taste .</Tokens>
+		<POS>VBP DT NN JJ TO VB DT VBN NN IN DT NN CC RB IN JJ NN CC NN NN TO NN .</POS>
+		<Lemma>have a container handy to combine the pop corn with a tablespoon or so of melted butter and sea salt to taste .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>-LRB- I use a large Tupperware pitcher with a secure top . -RRB-</Tokens>
+		<POS>-LRB- PRP VBP DT JJ NNP NN IN DT JJ NN . -RRB-</POS>
+		<Lemma>-lrb- I use a large Tupperware pitcher with a secure top . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Shake the contents a few times , then empty into bowl .</Tokens>
+		<POS>NNP DT NNS DT JJ NNS , RB JJ IN NN .</POS>
+		<Lemma>Shake the contents a few time , then empty into bowl .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Enjoy !!</Tokens>
+		<POS>JJ NN</POS>
+		<Lemma>enjoy !!</Lemma>
+	</Sentence>
+</Document>

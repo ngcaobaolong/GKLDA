@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this for the soul purpose of playing video games .</Tokens>
+		<POS>PRP VBD DT IN DT NN NN IN VBG NN NNS .</POS>
+		<Lemma>I buy this for the soul purpose of play video game .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It done its job really nice .</Tokens>
+		<POS>PRP VBD PRP$ NN RB JJ .</POS>
+		<Lemma>it do its job really nice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The screen and everything else is very nice .</Tokens>
+		<POS>DT NN CC NN RB VBZ RB JJ .</POS>
+		<Lemma>the screen and everything else be very nice .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The controls are little bit odd but you can get used to them very quickly .</Tokens>
+		<POS>DT NNS VBP JJ NN JJ CC PRP MD VB VBN TO PRP RB RB .</POS>
+		<Lemma>the control be little bit odd but you can get use to they very quickly .</Lemma>
+	</Sentence>
+</Document>

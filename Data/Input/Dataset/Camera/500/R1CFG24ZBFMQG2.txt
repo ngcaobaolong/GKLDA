@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought it for my friend who requested with her budget .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ NN WP VBD IN PRP$ NN .</POS>
+		<Lemma>I buy it for my friend who request with she budget .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I never know Sony has such a kind of lousy quality camcorder .</Tokens>
+		<POS>PRP RB VBP NNP VBZ PDT DT NN IN JJ NN NN .</POS>
+		<Lemma>I never know Sony have such a kind of lousy quality camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Picture quality is the worst I have seen from Sony Camcorder .</Tokens>
+		<POS>NNP NN VBZ DT JJS PRP VBP VBN IN NNP NNP .</POS>
+		<Lemma>Picture quality be the worst I have see from Sony Camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very blur when you watch in both computer 23 '' screen and bigger TV .</Tokens>
+		<POS>RB VB WRB PRP VBP IN CC NN CD '' NN CC JJR NN .</POS>
+		<Lemma>very blur when you watch in both computer 23 '' screen and bigger tv .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Sound quality is so so .</Tokens>
+		<POS>JJ NN VBZ RB RB .</POS>
+		<Lemma>sound quality be so so .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No need to mention for the low light .</Tokens>
+		<POS>DT NN TO VB IN DT JJ NN .</POS>
+		<Lemma>no need to mention for the low light .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>We paid what we got .</Tokens>
+		<POS>PRP VBD WP PRP VBD .</POS>
+		<Lemma>we pay what we get .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>A lot of noise in low light condition .</Tokens>
+		<POS>DT NN IN NN IN JJ JJ NN .</POS>
+		<Lemma>a lot of noise in low light condition .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I will not recommend this model to anyone .</Tokens>
+		<POS>PRP MD RB VB DT NN TO NN .</POS>
+		<Lemma>I will not recommend this model to anyone .</Lemma>
+	</Sentence>
+</Document>

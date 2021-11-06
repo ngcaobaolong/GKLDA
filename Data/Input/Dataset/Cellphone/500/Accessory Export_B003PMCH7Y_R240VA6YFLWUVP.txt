@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this charger works great and fits my phone perfectly .</Tokens>
+		<POS>DT NN VBZ JJ CC VBZ PRP$ NN RB .</POS>
+		<Lemma>this charger work great and fit my phone perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>some charges are so thick they wont let my keyboard slide out but this one is just thin enough for it to .</Tokens>
+		<POS>DT NNS VBP RB JJ PRP VBP VB PRP$ NN NN IN CC DT CD VBZ RB JJ RB IN PRP TO .</POS>
+		<Lemma>some charge be so thick they wont let my keyboard slide out but this one be just thin enough for it to .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>thanks !</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>thanks !</Lemma>
+	</Sentence>
+</Document>

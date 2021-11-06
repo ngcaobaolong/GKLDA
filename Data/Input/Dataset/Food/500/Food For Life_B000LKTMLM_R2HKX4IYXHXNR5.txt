@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is one of my diet staples .</Tokens>
+		<POS>DT VBZ CD IN PRP$ NN NNS .</POS>
+		<Lemma>this be one of my diet staple .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I first ate it , I admit that it sort of tasted like cardboard to me .</Tokens>
+		<POS>WRB PRP RB VBD PRP , PRP VBP IN PRP NN IN VBN IN NN TO PRP .</POS>
+		<Lemma>when I first eat it , I admit that it sort of taste like cardboard to I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But that 's because I was used to eating crap like cocoa krispies .</Tokens>
+		<POS>CC DT VBZ IN PRP VBD VBN TO VBG NN IN NN NNS .</POS>
+		<Lemma>but that be because I be use to eat crap like cocoa krispy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now , I ca n't imagine going back .</Tokens>
+		<POS>RB , PRP MD RB VB VBG RB .</POS>
+		<Lemma>now , I can not imagine go back .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've grown to love the earthy flavor and substantial texture of this cereal .</Tokens>
+		<POS>PRP VBP VBN TO VB DT JJ NN CC JJ NN IN DT NN .</POS>
+		<Lemma>I have grow to love the earthy flavor and substantial texture of this cereal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I let it soak in milk a bit before eating , and if I 'm in the mood for sweetness , I sweeten it with stevia or splenda .</Tokens>
+		<POS>PRP VBP PRP VB IN NN DT NN IN VBG , CC IN PRP VBP IN DT NN IN NN , PRP VBP PRP IN NN CC NN .</POS>
+		<Lemma>I let it soak in milk a bit before eat , and if I be in the mood for sweetness , I sweeten it with stevium or splenda .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Yum !</Tokens>
+		<POS>NN .</POS>
+		<Lemma>yum !</Lemma>
+	</Sentence>
+</Document>

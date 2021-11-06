@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Was n't really expecting anything when I bought these stickers but let me tell you about how `` awesome '' they are .</Tokens>
+		<POS>VBD RB RB VBG NN WRB PRP VBD DT NNS CC VB PRP VB PRP IN WRB `` JJ '' PRP VBP .</POS>
+		<Lemma>be not really expect anything when I buy these sticker but let I tell you about how `` awesome '' they be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I followed the instructions for testing to see the difference .</Tokens>
+		<POS>PRP VBD DT NNS IN NN TO VB DT NN .</POS>
+		<Lemma>I follow the instruction for testing to see the difference .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>NO CHANGE at all in reception .</Tokens>
+		<POS>NN NN IN DT IN NN .</POS>
+		<Lemma>no change at all in reception .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>NUMBER OF BARS DID NOT INCREASE and there was NO difference in phone call quality .</Tokens>
+		<POS>NN IN NNP NNP NNP NNP CC EX VBD NN NN IN NN JJ NN .</POS>
+		<Lemma>number of BARS DID NOT INCREASE and there be no difference in phone call quality .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Retried the process multiple times with different stickers pointing different directions .</Tokens>
+		<POS>VBD DT NN JJ NNS IN JJ NNS VBG JJ NNS .</POS>
+		<Lemma>retry the process multiple time with different sticker point different direction .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Waste of the few dollars it costs to purchase them .</Tokens>
+		<POS>NNP IN DT JJ NNS PRP VBZ TO VB PRP .</POS>
+		<Lemma>Waste of the few dollar it cost to purchase they .</Lemma>
+	</Sentence>
+</Document>

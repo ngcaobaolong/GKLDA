@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Acer for my desktop and was totally blown away at the brightness and resolution of the inexpensive monitor .</Tokens>
+		<POS>PRP VBD DT NNP IN PRP$ NN CC VBD RB VBN RB IN DT NN CC NN IN DT JJ NN .</POS>
+		<Lemma>I buy the Acer for my desktop and be totally blow away at the brightness and resolution of the inexpensive monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Of course I was upgrading from an old HP 17 '' monitor that had the brightness turned all the way up and still could not see dark areas very well .</Tokens>
+		<POS>IN NN PRP VBD VBG IN DT JJ NNP CD '' NN WDT VBD DT NN VBD PDT DT NN RB CC RB MD RB VB JJ NNS RB RB .</POS>
+		<Lemma>of course I be upgrade from a old HP 17 '' monitor that have the brightness turn all the way up and still could not see dark area very well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I may be a little naive but I love this monitor .</Tokens>
+		<POS>IN PRP MD VB DT JJ JJ CC PRP VBP DT NN .</POS>
+		<Lemma>so I may be a little naive but I love this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend this product to anyone in the market that is on a budget .</Tokens>
+		<POS>PRP MD VB DT NN TO NN IN DT NN WDT VBZ IN DT NN .</POS>
+		<Lemma>I would recommend this product to anyone in the market that be on a budget .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am a fan of Acer from now on .</Tokens>
+		<POS>PRP VBP DT NN IN NNP IN RB IN .</POS>
+		<Lemma>I be a fan of Acer from now on .</Lemma>
+	</Sentence>
+</Document>

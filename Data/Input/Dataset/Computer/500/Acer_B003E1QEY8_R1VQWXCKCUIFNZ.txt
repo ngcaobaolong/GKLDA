@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a replacement monitor for a security system .</Tokens>
+		<POS>DT VBD DT NN NN IN DT NN NN .</POS>
+		<Lemma>this be a replacement monitor for a security system .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The images are crisp and the size is ideal for the application .</Tokens>
+		<POS>DT NNS VBP JJ CC DT NN VBZ JJ IN DT NN .</POS>
+		<Lemma>the image be crisp and the size be ideal for the application .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The stand is acceptable .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the stand be acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A good purchase for the price .</Tokens>
+		<POS>DT JJ NN IN DT NN .</POS>
+		<Lemma>a good purchase for the price .</Lemma>
+	</Sentence>
+</Document>

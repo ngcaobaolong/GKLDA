@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As long as you are not expecting to review your pictures while underwater , it works wonderfully !</Tokens>
+		<POS>RB RB IN PRP VBP RB VBG TO VB PRP$ NNS IN JJ , PRP VBZ RB .</POS>
+		<Lemma>as long as you be not expect to review you picture while underwater , it work wonderfully !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would n't suggest trying to review pictures at all that are taken underwater until sometime after you are out-the playback is a little odd in h2o mode-color is GREAT the picture quality it GREAT , and so we think the camera was not only priced fairly , but is a great addition to our family that lives on a budget !</Tokens>
+		<POS>PRP MD RB VB VBG TO VB NNS IN DT WDT VBP VBN JJ IN RB IN PRP VBP JJ NN VBZ DT JJ JJ IN NN NN VBZ JJ DT NN NN PRP JJ , CC IN PRP VBP DT NN VBD RB RB VBN RB , CC VBZ DT JJ NN TO PRP$ NN IN VBZ IN DT NN .</POS>
+		<Lemma>I would not suggest try to review picture at all that be take underwater until sometime after you be out-the playback be a little odd in h2o mode-color be great the picture quality it great , and so we think the camera be not only price fairly , but be a great addition to we family that live on a budget !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's helped my young swimmers stay under water longer , and practice their breathing !</Tokens>
+		<POS>PRP VBZ VBN PRP$ JJ NNS VBP IN NN RBR , CC VB PRP$ NN .</POS>
+		<Lemma>it be help my young swimmer stay under water longer , and practice they breathing !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>HAVE FUN !</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>have fun !</Lemma>
+	</Sentence>
+</Document>

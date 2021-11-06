@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are great red lentils .</Tokens>
+		<POS>DT VBP JJ JJ NNS .</POS>
+		<Lemma>these be great red lentil .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I ca n't find them in the grocery stores .</Tokens>
+		<POS>PRP MD RB VB PRP IN DT NN NNS .</POS>
+		<Lemma>I can not find they in the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>\ Thanks</Tokens>
+		<POS>NNP NNS</POS>
+		<Lemma>\ thanks</Lemma>
+	</Sentence>
+</Document>

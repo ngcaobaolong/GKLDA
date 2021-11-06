@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First off ... there are a lot of popcorn .</Tokens>
+		<POS>RB IN : EX VBP DT NN IN NN .</POS>
+		<Lemma>first off ... there be a lot of popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You get 60 bags of microwave popcorn , but the good part is -- They are delicious !!!</Tokens>
+		<POS>PRP VBP CD NNS IN NN NN , CC DT JJ NN VBZ : PRP VBP JJ IN</POS>
+		<Lemma>you get 60 bag of microwave popcorn , but the good part be -- they be delicious !!!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The bags are a bit smaller than a regular bags we used to get from the groceries store .</Tokens>
+		<POS>DT NNS VBP DT RB JJR IN DT JJ NN PRP VBD TO VB IN DT NNS NN .</POS>
+		<Lemma>the bag be a bit smaller than a regular bag we use to get from the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In my opinion , it 's a perfect size .</Tokens>
+		<POS>IN PRP$ NN , PRP VBZ DT JJ NN .</POS>
+		<Lemma>in my opinion , it be a perfect size .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Not too big , and just small enough to fill that popcorn craving while watching a TV show , or a movie .</Tokens>
+		<POS>RB RB JJ , CC RB JJ JJ TO VB DT NN NN IN VBG DT NN NN , CC DT NN .</POS>
+		<Lemma>not too big , and just small enough to fill that popcorn craving while watch a tv show , or a movie .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They 're buttery , but not greasy .</Tokens>
+		<POS>PRP VBP JJ , CC RB JJ .</POS>
+		<Lemma>they be buttery , but not greasy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Just enough butter to make it taste normal .</Tokens>
+		<POS>RB RB NN TO VB PRP VB JJ .</POS>
+		<Lemma>just enough butter to make it taste normal .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It does n't taste anywhere near `` healthy '' .</Tokens>
+		<POS>PRP VBZ RB VB RB IN `` JJ '' .</POS>
+		<Lemma>it do not taste anywhere near `` healthy '' .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Believe me , I hate healthy food and I know what they 're supposed to taste like .</Tokens>
+		<POS>VB PRP , PRP VBP JJ NN CC PRP VBP WP PRP VBP VBN TO VB IN .</POS>
+		<Lemma>believe I , I hate healthy food and I know what they be suppose to taste like .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I recently had to change my diet to the `` healthy '' stuff , but these Jolly popcorn did n't disappoint me .</Tokens>
+		<POS>PRP RB VBD TO VB PRP$ NN TO DT `` JJ '' NN , CC DT JJ NN VBD RB VB PRP .</POS>
+		<Lemma>I recently have to change my diet to the `` healthy '' stuff , but these jolly popcorn do not disappoint I .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you love popcorn , and need to do the healthy stuff ... this is highly recommended !</Tokens>
+		<POS>IN PRP VBP NN , CC VB TO VB DT JJ NN : DT VBZ RB VBN .</POS>
+		<Lemma>if you love popcorn , and need to do the healthy stuff ... this be highly recommend !</Lemma>
+	</Sentence>
+</Document>

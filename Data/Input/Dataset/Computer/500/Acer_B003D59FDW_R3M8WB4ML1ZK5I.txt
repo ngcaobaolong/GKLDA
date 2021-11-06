@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great monitor for the price ... needed to replace another one that blew up .</Tokens>
+		<POS>JJ NN IN DT NN : VBN TO VB DT CD WDT VBD RP .</POS>
+		<Lemma>great monitor for the price ... need to replace another one that blow up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Took it out of box , set it up in minutes and no problems since .</Tokens>
+		<POS>VBD PRP IN IN NN , VBD PRP RP IN NNS CC DT NNS IN .</POS>
+		<Lemma>take it out of box , set it up in minute and no problem since .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For the first time I have 2 bright monitors ; whereas before I had one dim and one bright one .</Tokens>
+		<POS>IN DT JJ NN PRP VBP CD JJ NNS : IN IN PRP VBD CD NN CC CD JJ CD .</POS>
+		<Lemma>for the first time I have 2 bright monitor ; whereas before I have one dim and one bright one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This makes doing everything a lot eaiser @</Tokens>
+		<POS>DT VBZ VBG NN DT NN NN IN</POS>
+		<Lemma>this make do everything a lot eaiser @</Lemma>
+	</Sentence>
+</Document>

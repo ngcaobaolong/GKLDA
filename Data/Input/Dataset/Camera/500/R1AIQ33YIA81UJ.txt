@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just took a bunch of test pics with the camera , and I was very pleasantly surprised .</Tokens>
+		<POS>PRP RB VBD DT NN IN NN NNS IN DT NN , CC PRP VBD RB RB VBN .</POS>
+		<Lemma>I just take a bunch of test pic with the camera , and I be very pleasantly surprise .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My last camera was stolen - a Canon Powershot SD780-IS point and shoot camera with rounded edges that fit nicely in my pocket .</Tokens>
+		<POS>PRP$ JJ NN VBD VBN : DT NNP NNP NN NN CC VB NN IN VBN NNS WDT VBP RB IN PRP$ NN .</POS>
+		<Lemma>my last camera be steal - a Canon Powershot sd780-is point and shoot camera with round edge that fit nicely in my pocket .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had always wanted more zoom , and also hopefully better low-light performance , like at concerts , and I was willing to sacrifice some of the small form-factor of the Canon to get it .</Tokens>
+		<POS>PRP VBD RB VBN JJR NN , CC RB RB JJR JJ NN , IN IN NNS , CC PRP VBD JJ TO VB DT IN DT JJ NN IN DT NNP TO VB PRP .</POS>
+		<Lemma>I have always want more zoom , and also hopefully better low-light performance , like at concert , and I be willing to sacrifice some of the small form-factor of the Canon to get it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So this time around I went with the Nikon S8200 .</Tokens>
+		<POS>RB DT NN IN PRP VBD IN DT NNP NN .</POS>
+		<Lemma>so this time around I go with the Nikon s8200 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Nikon is small enough to go in my front jeans pocket - it does n't have a lot of protrusions and bumpy parts - it 's near rectangle .</Tokens>
+		<POS>DT NNP VBZ JJ RB TO VB IN PRP$ JJ NNS NN : PRP VBZ RB VB DT NN IN NNS CC JJ NNS : PRP VBZ JJ NN .</POS>
+		<Lemma>the Nikon be small enough to go in my front jeans pocket - it do not have a lot of protrusion and bumpy part - it be near rectangle .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It does a great job in low lighting .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN JJ NN .</POS>
+		<Lemma>it do a great job in low lighting .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I dimmed the lights and turned the flash off and took some pics .</Tokens>
+		<POS>PRP VBD DT NNS CC VBD DT NN RB CC VBD DT NNS .</POS>
+		<Lemma>I dim the light and turn the flash off and take some pic .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The shutter does something strange - it seems to activate -LRB- click -RRB- more , and there 's a long hour-glass waiting symbol after a low-light picture .</Tokens>
+		<POS>DT NN VBZ NN JJ : PRP VBZ TO VB -LRB- VB -RRB- RBR , CC EX VBZ DT JJ NN VBG NN IN DT JJ NN .</POS>
+		<Lemma>the shutter do something strange - it seem to activate -lrb- click -rrb- more , and there be a long hour-glass wait symbol after a low-light picture .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>But the results are outstanding - very true to the natural appearance of the room , and no blurriness .</Tokens>
+		<POS>CC DT NNS VBP JJ : RB JJ TO DT JJ NN IN DT NN , CC DT NN .</POS>
+		<Lemma>but the result be outstanding - very true to the natural appearance of the room , and no blurriness .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>All the pictures were great and in focus .</Tokens>
+		<POS>PDT DT NNS VBD JJ CC IN NN .</POS>
+		<Lemma>all the picture be great and in focus .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Someone in their review had complained about the auto-focus not locking sometimes , but I found that that happened only in close-ups , and if I switched to macro mode , they became sharp again .</Tokens>
+		<POS>NN IN PRP$ NN VBD VBN IN DT NN RB VBG RB , CC PRP VBD IN DT VBD RB IN NNS , CC IN PRP VBD TO VB NN , PRP VBD JJ RB .</POS>
+		<Lemma>someone in they review have complain about the auto-focus not lock sometimes , but I find that that happen only in close-up , and if I switch to macro mode , they become sharp again .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I found that between those two modes , I can cover almost any distance and still have the auto-focus work right .</Tokens>
+		<POS>PRP VBD IN IN DT CD NNS , PRP MD VB RB DT NN CC RB VBP DT NN VB RB .</POS>
+		<Lemma>I find that between those two mode , I can cover almost any distance and still have the auto-focus work right .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I really like it so far .</Tokens>
+		<POS>PRP RB IN PRP RB RB .</POS>
+		<Lemma>I really like it so far .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I agree with folks that it 's annoying for the pop-up flash to to retract until you turn it off .</Tokens>
+		<POS>PRP VBP IN NNS IN PRP VBZ VBG IN DT JJ NN TO TO VB IN PRP VBP PRP RP .</POS>
+		<Lemma>I agree with folk that it be annoy for the pop-up flash to to retract until you turn it off .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>They should have added a latch that closes it when you press it down .</Tokens>
+		<POS>PRP MD VB VBN DT VBP IN VBZ PRP WRB PRP VBP PRP RP .</POS>
+		<Lemma>they should have add a latch that close it when you press it down .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>My work-around is to just turn off the flash and press the flash down into the camera body with my finger .</Tokens>
+		<POS>PRP$ NN VBZ TO RB VB RP DT NN CC NN DT NN RB IN DT NN NN IN PRP$ NN .</POS>
+		<Lemma>my work-around be to just turn off the flash and press the flash down into the camera body with my finger .</Lemma>
+	</Sentence>
+</Document>

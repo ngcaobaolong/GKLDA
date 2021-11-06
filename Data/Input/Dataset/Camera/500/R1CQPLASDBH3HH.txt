@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>La Camara es sencillamente excelente .</Tokens>
+		<POS>NNP NNP VBZ NN NN .</POS>
+		<Lemma>La Camara e sencillamente excelente .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No esperaba que fuera tan nitida , tan precisa , para lo peque ntilde ; a y liviana que es .</Tokens>
+		<POS>DT FW FW FW FW FW , NN NN , NN NN NN CC NN : DT NN FW FW FW .</POS>
+		<Lemma>no esperaba que fuera tan nitida , tan precisa , para lo peque ntilde ; a y liviana que es .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Ademas toma las fotos en movimiento perfectamente bien , y claras , .</Tokens>
+		<POS>NNP FW FW FW FW FW FW FW , JJ NNS , .</POS>
+		<Lemma>Ademas toma las fotos en movimiento perfectamente bien , y clara , .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>enfoca los rotros tal cual como unaa camara profesional y las imagenes de paisajes , .</Tokens>
+		<POS>FW FW FW FW FW FW FW FW FW FW FW FW FW FW , .</POS>
+		<Lemma>enfoca los rotros tal cual como unaa camara profesional y las imagenes de paisajes , .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>increibles , .</Tokens>
+		<POS>NNS , .</POS>
+		<Lemma>increible , .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>!</Tokens>
+		<POS>.</POS>
+		<Lemma>!</Lemma>
+	</Sentence>
+</Document>

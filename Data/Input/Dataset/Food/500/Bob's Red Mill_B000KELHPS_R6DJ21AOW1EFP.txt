@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was excited about this gluten free `` hearty whole grain bread mix '' but when I made it I found it to be just too much going on .</Tokens>
+		<POS>PRP VBD VBN IN DT NN JJ `` JJ JJ NN NN NN '' CC WRB PRP VBD PRP PRP VBD PRP TO VB RB RB JJ VBG IN .</POS>
+		<Lemma>I be excite about this gluten free `` hearty whole grain bread mix '' but when I make it I find it to be just too much go on .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>With the cocoa powder and sugars in there and all those grains -LRB- I did like the sunflower seeds though -RRB- it felt more like a mix between a brownie and bread ... it had a strong , dark rye smell and feel to it .</Tokens>
+		<POS>IN DT NN NN CC NNS IN EX CC PDT DT NNS -LRB- PRP VBD IN DT NN NNS IN -RRB- PRP VBD RBR IN DT NN IN DT NN CC NN : PRP VBD DT JJ , JJ NN NN CC VB TO PRP .</POS>
+		<Lemma>with the cocoa powder and sugar in there and all those grain -lrb- I do like the sunflower seed though -rrb- it feel more like a mix between a brownie and bread ... it have a strong , dark rye smell and feel to it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not bad if that 's what you 're looking for but I was wanting something more middle of the road , more of a good , medium brown bread with a bit of grains in there but not with all that dark cocoa , sesame seeds and the sweet-ish , brownie quality .</Tokens>
+		<POS>RB JJ IN DT VBZ WP PRP VBP VBG IN CC PRP VBD VBG NN RBR JJ IN DT NN , JJR IN DT JJ , JJ JJ NN IN DT NN IN NNS IN EX CC RB IN DT IN JJ NN , JJ NNS CC DT NN , JJ NN .</POS>
+		<Lemma>not bad if that be what you be look for but I be want something more middle of the road , more of a good , medium brown bread with a bit of grain in there but not with all that dark cocoa , sesame seed and the sweet-ish , brownie quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Bob 's should re-name this mix to `` Hearty whole-grain `` Rye-Style '' bread mix .</Tokens>
+		<POS>NNP POS MD VB DT NN TO `` JJ NN `` NNP '' NN NN .</POS>
+		<Lemma>Bob 's should re-name this mix to `` hearty whole-grain `` Rye-Style '' bread mix .</Lemma>
+	</Sentence>
+</Document>

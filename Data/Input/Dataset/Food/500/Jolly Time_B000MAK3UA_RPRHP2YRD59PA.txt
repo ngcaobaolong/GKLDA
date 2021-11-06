@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The image pictured - for which I submitted a correction feedback - is not the same as the product shipped .</Tokens>
+		<POS>DT NN VBD : IN WDT PRP VBD DT NN NN : VBZ RB DT JJ IN DT NN VBN .</POS>
+		<Lemma>the image picture - for which I submit a correction feedback - be not the same as the product ship .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Most importantly , the picture shows one -LRB- 1 -RRB- Weight Watchers points plus .</Tokens>
+		<POS>RBS RB , DT NN VBZ CD -LRB- CD -RRB- NNP NNPS VBZ CC .</POS>
+		<Lemma>most importantly , the picture show one -lrb- 1 -rrb- Weight Watchers point plus .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In reality - and as is stated on the boxes shipped , they are 3 WW Points Plus - Big Difference !!</Tokens>
+		<POS>IN NN : CC RB VBZ VBN IN DT NNS VBN , PRP VBP CD NNP NNP NNP : JJ NN NN</POS>
+		<Lemma>in reality - and as be state on the box ship , they be 3 WW Points Plus - big difference !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>3X more !</Tokens>
+		<POS>NN RBR .</POS>
+		<Lemma>3x more !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Probably would have passed on them if I knew they would be 3 pts vs. 1 pt .</Tokens>
+		<POS>RB MD VB VBN IN PRP IN PRP VBD PRP MD VB CD NNS CC CD NN .</POS>
+		<Lemma>probably would have pass on they if I know they would be 3 pt vs. 1 pt .</Lemma>
+	</Sentence>
+</Document>

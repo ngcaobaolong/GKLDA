@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great Northern Popcorn is the best .</Tokens>
+		<POS>NNP NNP NNP VBZ DT JJS .</POS>
+		<Lemma>Great Northern Popcorn be the best .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We have used this popcorn both on the stove top and in our popcorn machine , it ca n't be beat !</Tokens>
+		<POS>PRP VBP VBN DT NN DT IN DT NN NN CC IN PRP$ NN NN , PRP MD RB VB VBN .</POS>
+		<Lemma>we have use this popcorn both on the stove top and in we popcorn machine , it can not be beat !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Even better is the customer service at Discount Tommy !</Tokens>
+		<POS>RB JJR VBZ DT NN NN IN NNP NNP .</POS>
+		<Lemma>even better be the customer service at Discount Tommy !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They stand behind absolutely everything they sell !</Tokens>
+		<POS>PRP VBP IN RB NN PRP VBP .</POS>
+		<Lemma>they stand behind absolutely everything they sell !</Lemma>
+	</Sentence>
+</Document>

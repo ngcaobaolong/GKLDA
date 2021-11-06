@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I shoot a Nikon D3100 when I 'm in the states , but I wanted something of similar quality -LRB- picture quality -RRB- to carry with me while in Afghanistan .</Tokens>
+		<POS>PRP VBP DT NNP NN WRB PRP VBP IN DT NNS , CC PRP VBD NN IN JJ NN -LRB- NN NN -RRB- TO VB IN PRP IN IN NNP .</POS>
+		<Lemma>I shoot a Nikon d3100 when I be in the state , but I want something of similar quality -lrb- picture quality -rrb- to carry with I while in Afghanistan .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I knew I wanted\/needed it to be able to take a beating cause it was definitely not going to be babied .</Tokens>
+		<POS>PRP VBD PRP VBD PRP TO VB JJ TO VB DT NN VB PRP VBD RB RB VBG TO VB VBN .</POS>
+		<Lemma>I know I wanted\/needed it to be able to take a beating cause it be definitely not go to be baby .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I could n't be happier with this camerea .</Tokens>
+		<POS>PRP MD RB VB JJR IN DT NN .</POS>
+		<Lemma>I could not be happier with this camerea .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have n't shot many pictures with it , but I 'm super happy with the results I 've gotten so far .</Tokens>
+		<POS>PRP VBP RB VBN JJ NNS IN PRP , CC PRP VBP JJ JJ IN DT NNS PRP VBP VBN RB RB .</POS>
+		<Lemma>I have not shoot many picture with it , but I be super happy with the result I have get so far .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For a point and shoot its got very little noise and the VR works great .</Tokens>
+		<POS>IN DT NN CC VB PRP$ VBD RB JJ NN CC DT NN VBZ JJ .</POS>
+		<Lemma>for a point and shoot its get very little noise and the vr work great .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It feels very sturdy in your hand and not like a flimsy piece of junk like some other ruggized cameras I looked at .</Tokens>
+		<POS>PRP VBZ RB JJ IN PRP$ NN CC RB VB DT JJ NN IN NN IN DT JJ VBN NNS PRP VBD IN .</POS>
+		<Lemma>it feel very sturdy in you hand and not like a flimsy piece of junk like some other ruggize camera I look at .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It takes good low light photos , with acceptable grain .</Tokens>
+		<POS>PRP VBZ JJ JJ NN NNS , IN JJ NN .</POS>
+		<Lemma>it take good low light photo , with acceptable grain .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is what I really wanted it for , as the old Canon it was replacing you could n't make any manual adjustments .</Tokens>
+		<POS>DT VBZ WP PRP RB VBD PRP IN , IN DT JJ NNP PRP VBD VBG PRP MD RB VB DT JJ NNS .</POS>
+		<Lemma>this be what I really want it for , as the old Canon it be replace you could not make any manual adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The one feature they do n't discuss and the one I was most surpised about how much I like it is a built in panoramic feature .</Tokens>
+		<POS>DT CD NN PRP VBP RB VB CC DT CD PRP VBD RBS JJ IN WRB JJ PRP VBP PRP VBZ DT VBN IN JJ NN .</POS>
+		<Lemma>the one feature they do not discuss and the one I be most surpised about how much I like it be a build in panoramic feature .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The camera will assist you in taking either 180 or 360 panoramics .</Tokens>
+		<POS>DT NN MD VB PRP IN VBG CC CD CC CD NNS .</POS>
+		<Lemma>the camera will assist you in take either 180 or 360 panoramic .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It will either perform the stitching for you and produce a single panoramic or take the needed individual shots for you to stitch later .</Tokens>
+		<POS>PRP MD CC VB DT VBG IN PRP CC VB DT JJ JJ CC VB DT VBN NN NNS IN PRP TO VB RB .</POS>
+		<Lemma>it will either perform the stitch for you and produce a single panoramic or take the need individual shot for you to stitch later .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I 've found this an awesome feature for here in Afghanistan for taking deployment pictures of the scenic landscapes here .</Tokens>
+		<POS>PRP VBP VBN DT DT JJ NN IN RB IN NNP IN VBG NN NNS IN DT JJ NNS RB .</POS>
+		<Lemma>I have find this a awesome feature for here in Afghanistan for take deployment picture of the scenic landscape here .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I highly recommend this camera to anyone that wants\/needs a camera to take places they do n't feel comfortable taking their DSLR , as this is the niche it fills for me .</Tokens>
+		<POS>PRP RB VB DT NN TO NN WDT VBZ DT NN TO VB NNS PRP VBP RB VB JJ VBG PRP$ NNP , IN DT VBZ DT NN PRP VBZ IN PRP .</POS>
+		<Lemma>I highly recommend this camera to anyone that wants\/needs a camera to take place they do not feel comfortable take they DSLR , as this be the niche it fill for I .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great concept .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great concept .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works better than advertised .</Tokens>
+		<POS>NNP JJR IN VBN .</POS>
+		<Lemma>Works better than advertise .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Perfect for traveling with multiple devices .</Tokens>
+		<POS>NNP IN VBG IN JJ NNS .</POS>
+		<Lemma>Perfect for travel with multiple device .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Works great in car and in hotel or home .</Tokens>
+		<POS>NNP JJ IN NN CC IN NN CC NN .</POS>
+		<Lemma>Works great in car and in hotel or home .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also works well using 2 AA batteries .</Tokens>
+		<POS>RB VBZ RB VBG CD NN NNS .</POS>
+		<Lemma>also work well use 2 aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Using it with a universal USB with multiple adapters , I can leave everything else at home .</Tokens>
+		<POS>VBG PRP IN DT JJ JJ IN JJ NNS , PRP MD VB NN RB IN NN .</POS>
+		<Lemma>use it with a universal usb with multiple adapter , I can leave everything else at home .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Very compact .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very compact .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Highly recommend .</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+</Document>

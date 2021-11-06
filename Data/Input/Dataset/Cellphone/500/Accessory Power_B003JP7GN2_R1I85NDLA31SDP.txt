@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Charges my Droid and bluetooth headset with no problems -LRB- from the mains , documentation states under battery to only charge one device at a time -RRB- .</Tokens>
+		<POS>NNS PRP$ NN CC NN NN IN DT NNS -LRB- IN DT NNS , NN NNS IN NN TO RB VB CD NN IN DT NN -RRB- .</POS>
+		<Lemma>charge my droid and bluetooth headset with no problem -lrb- from the main , documentation state under battery to only charge one device at a time -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have noticed on occasion that if I try to charge two smartphones at the same time -LRB- from the mains -RRB- , it is not always able to ` keep up ' , especially if both have low batteries .</Tokens>
+		<POS>PRP VBP VBN IN NN IN IN PRP VBP TO VB CD NNS IN DT JJ NN -LRB- IN DT NNS -RRB- , PRP VBZ RB RB JJ TO `` VB RP '' , RB IN DT VBP JJ NNS .</POS>
+		<Lemma>I have notice on occasion that if I try to charge two smartphone at the same time -lrb- from the main -rrb- , it be not always able to ` keep up ' , especially if both have low battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It will ` switch ' back and forth between charging one phone and then the other every few seconds as if it is unable to maintain a consistent power level for two high demand devices , and one port will stop charging .</Tokens>
+		<POS>PRP MD `` VB '' RB CC RB IN VBG CD NN CC RB DT JJ DT JJ NNS IN IN PRP VBZ JJ TO VB DT JJ NN NN IN CD JJ NN NNS , CC CD NN MD VB VBG .</POS>
+		<Lemma>it will ` switch ' back and forth between charge one phone and then the other every few seconds as if it be unable to maintain a consistent power level for two high demand device , and one port will stop charge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When the charger ` realizes ' that port has stopped supplying power , it will ` turn it back on ' and device on that port will start charging again , but in the process the other port will power down until it gets ` noticed ' and the process repeats back and forth .</Tokens>
+		<POS>WRB DT NN `` VBZ '' WDT NN VBZ VBN VBG NN , PRP MD `` VB PRP RB IN '' CC NN IN DT NN MD VB VBG RB , CC IN DT NN DT JJ NN MD NN IN IN PRP VBZ `` VBN '' CC DT NN NNS RB CC RB .</POS>
+		<Lemma>when the charger ` realize ' that port have stop supply power , it will ` turn it back on ' and device on that port will start charge again , but in the process the other port will power down until it get ` notice ' and the process repeat back and forth .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This ca n't be good for the batteries .</Tokens>
+		<POS>DT MD RB VB JJ IN DT NNS .</POS>
+		<Lemma>this can not be good for the battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>As long as you are aware of these types of limitations -LRB- and that last one should have been documented -RRB- , this is really a convenient charger .</Tokens>
+		<POS>RB RB IN PRP VBP JJ IN DT NNS IN NNS -LRB- CC IN JJ CD MD VB VBN VBN -RRB- , DT VBZ RB DT JJ NN .</POS>
+		<Lemma>as long as you be aware of these type of limitation -lrb- and that last one should have be document -rrb- , this be really a convenient charger .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread is truly a hearty whole grain bread .</Tokens>
+		<POS>DT NN VBZ RB DT JJ JJ NN NN .</POS>
+		<Lemma>this bread be truly a hearty whole grain bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is my favorite gluten free bread .</Tokens>
+		<POS>PRP VBZ PRP$ JJ NN JJ NN .</POS>
+		<Lemma>it be my favorite gluten free bread .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was diagnosed with Celiac five years ago and it took a long time to find a bread that satisfied my taste for `` whole grain '' .</Tokens>
+		<POS>PRP VBD VBN IN JJ CD NNS RB CC PRP VBD DT JJ NN TO VB DT NN WDT VBD PRP$ NN IN `` JJ NN '' .</POS>
+		<Lemma>I be diagnose with celiac five year ago and it take a long time to find a bread that satisfy my taste for `` whole grain '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So simple .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>so simple .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I just throw it in my bread maker with eggs , water , oil ; and 3 hours later I have this wonderful warm load .</Tokens>
+		<POS>PRP RB VBP PRP IN PRP$ NN NN IN NNS , NN , NN : CC CD NNS RB PRP VBP DT JJ JJ NN .</POS>
+		<Lemma>I just throw it in my bread maker with egg , water , oil ; and 3 hour later I have this wonderful warm load .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Shopping at Amazon is similar to a Super Department Store .</Tokens>
+		<POS>NNP IN NNP VBZ JJ TO DT NNP NNP NNP .</POS>
+		<Lemma>Shopping at Amazon be similar to a Super Department Store .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I can take all the time needed to shop and compare prices for things not available in the area I live in .</Tokens>
+		<POS>PRP MD VB PDT DT NN VBN TO VB CC VB NNS IN NNS RB JJ IN DT NN PRP VBP IN .</POS>
+		<Lemma>I can take all the time need to shop and compare price for thing not available in the area I live in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wanted a larger monitor due to vision problems - found just what I wanted - Amazon had my information from previous purchases through them - I chose the Acer monitor - Amazon filled in the blanks - my monitor arrived in less than a week .</Tokens>
+		<POS>PRP VBD DT JJR NN JJ TO NN NNS : VBN RB WP PRP VBD : NNP VBD PRP$ NN IN JJ NNS IN PRP : PRP VBD DT NNP NN : NNP VBN IN DT NNS : PRP$ NN VBD IN JJR IN DT NN .</POS>
+		<Lemma>I want a larger monitor due to vision problem - find just what I want - Amazon have my information from previous purchase through they - I choose the Acer monitor - Amazon fill in the blank - my monitor arrive in less than a week .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I recently began downloading music from Amazon - a song or 2 at a time .</Tokens>
+		<POS>PRP RB VBD VBG NN IN NNP : DT NN CC CD IN DT NN .</POS>
+		<Lemma>I recently begin download music from Amazon - a song or 2 at a time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>One time I bought a song - was charged , but the song did n't come up in my window 's media player - I contacted Amazon - they told me to download again - I did and was so pleased to find there is no hassle about getting my merchandise .</Tokens>
+		<POS>CD NN PRP VBD DT NN : VBD VBN , CC DT NN VBD RB VB RP IN PRP$ NN POS NNS NN : PRP VBD NNP : PRP VBD PRP TO VB RB : PRP VBD CC VBD RB JJ TO VB EX VBZ DT NN IN VBG PRP$ NN .</POS>
+		<Lemma>one time I buy a song - be charge , but the song do not come up in my window 's media player - I contact Amazon - they tell I to download again - I do and be so pleased to find there be no hassle about get my merchandise .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I trust Amazon to value me as a buyer and keep my purchases - be it a big ticket item or a 99 cent song from their music library -- a pleasant experience .</Tokens>
+		<POS>PRP VBP NNP TO VB PRP IN DT NN CC VB PRP$ NNS : VB PRP DT JJ NN NN CC DT CD NN NN IN PRP$ NN NN : DT JJ NN .</POS>
+		<Lemma>I trust Amazon to value I as a buyer and keep my purchase - be it a big ticket item or a 99 cent song from they music library -- a pleasant experience .</Lemma>
+	</Sentence>
+</Document>

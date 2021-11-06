@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very impressed with this item .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be very impressed with this item .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Accessory Genie was very fast in service .</Tokens>
+		<POS>NNP NNP VBD RB RB IN NN .</POS>
+		<Lemma>Accessory Genie be very fast in service .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very efficient .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very efficient .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I will order again from Accessory Genie , thank you .</Tokens>
+		<POS>PRP MD VB RB IN NNP NNP , VB PRP .</POS>
+		<Lemma>I will order again from Accessory Genie , thank you .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Only being a novice at all this technology I find this very easy to use .</Tokens>
+		<POS>RB VBG DT NN IN PDT DT NN PRP VBP DT RB JJ TO VB .</POS>
+		<Lemma>only be a novice at all this technology I find this very easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Like I said before I am very impressed with this item that I purchased from Accessory Genie .</Tokens>
+		<POS>IN PRP VBD IN PRP VBP RB JJ IN DT NN IN PRP VBD IN NNP NNP .</POS>
+		<Lemma>like I say before I be very impressed with this item that I purchase from Accessory Genie .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you like rye bread , you will like this bread .</Tokens>
+		<POS>IN PRP IN NN NN , PRP MD VB DT NN .</POS>
+		<Lemma>if you like rye bread , you will like this bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This would make a great reuben sandwich .</Tokens>
+		<POS>DT MD VB DT JJ NN NN .</POS>
+		<Lemma>this would make a great reuben sandwich .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>-LRB- I 'm eating the bread with sauerkraut right now ! -RRB-</Tokens>
+		<POS>-LRB- PRP VBP VBG DT NN IN NN RB RB . -RRB-</POS>
+		<Lemma>-lrb- I be eat the bread with sauerkraut right now ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is very dense and hearty and healthy .</Tokens>
+		<POS>PRP VBZ RB JJ CC JJ CC JJ .</POS>
+		<Lemma>it be very dense and hearty and healthy .</Lemma>
+	</Sentence>
+</Document>

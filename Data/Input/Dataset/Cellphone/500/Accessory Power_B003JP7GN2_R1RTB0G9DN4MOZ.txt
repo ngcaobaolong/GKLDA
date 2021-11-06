@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to charge my galaxy nexus and it simply does n't work .</Tokens>
+		<POS>PRP VBD DT TO VB PRP$ NN NN CC PRP RB VBZ RB VB .</POS>
+		<Lemma>I buy this to charge my galaxy nexus and it simply do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would not recommend buying one of these as it probably wo n't work for your device either .</Tokens>
+		<POS>PRP MD RB VB VBG CD IN DT IN PRP RB MD RB VB IN PRP$ NN CC .</POS>
+		<Lemma>I would not recommend buy one of these as it probably will not work for you device either .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>THE END</Tokens>
+		<POS>DT NN</POS>
+		<Lemma>the end</Lemma>
+	</Sentence>
+</Document>

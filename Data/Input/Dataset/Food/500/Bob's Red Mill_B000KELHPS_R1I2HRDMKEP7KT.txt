@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Somehow when I read the list of ingredients I missed the cocoa powder .</Tokens>
+		<POS>RB WRB PRP VBP DT NN IN NNS PRP VBD DT NN NN .</POS>
+		<Lemma>somehow when I read the list of ingredient I miss the cocoa powder .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have given up chocolate some years back because I love it TOO much -- to me it 's like alcohol to an alcoholic .</Tokens>
+		<POS>PRP VBP VBN RP NN DT NNS RB IN PRP VBP PRP RB RB : TO PRP PRP VBZ JJ NN TO DT JJ .</POS>
+		<Lemma>I have give up chocolate some year back because I love it too much -- to I it be like alcohol to a alcoholic .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I did n't eat any .</Tokens>
+		<POS>IN PRP VBD RB VB DT .</POS>
+		<Lemma>so I do not eat any .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My daughter did eat this bread though and tolerated it well .</Tokens>
+		<POS>PRP$ NN VBD VB DT NN IN CC VBD PRP RB .</POS>
+		<Lemma>my daughter do eat this bread though and tolerate it well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is very pumpernickel like .</Tokens>
+		<POS>DT VBZ RB JJ IN .</POS>
+		<Lemma>this be very pumpernickel like .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I guess the cocoa powder gives it that dark color .</Tokens>
+		<POS>PRP VBP DT NN NN VBZ PRP IN JJ NN .</POS>
+		<Lemma>I guess the cocoa powder give it that dark color .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This bread is moist , full of nutty , ` grainy ' goodness .</Tokens>
+		<POS>DT NN VBZ JJ , JJ IN JJ , `` JJ '' NN .</POS>
+		<Lemma>this bread be moist , full of nutty , ` grainy ' goodness .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So far anything we 've tried of Bob 's Red Mill is fantastic .</Tokens>
+		<POS>RB RB NN PRP VBP VBN IN NNP POS NNP NNP VBZ JJ .</POS>
+		<Lemma>so far anything we have try of Bob 's Red Mill be fantastic .</Lemma>
+	</Sentence>
+</Document>

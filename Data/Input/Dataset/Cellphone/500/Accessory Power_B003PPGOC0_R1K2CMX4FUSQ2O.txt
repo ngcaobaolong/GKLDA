@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have an iphone 3gs and have tried many different devices to play music and to talk on the phone , hands-free .</Tokens>
+		<POS>PRP VBP DT NN NNS CC VBP VBN JJ JJ NNS TO VB NN CC TO VB IN DT NN , NN .</POS>
+		<Lemma>I have a iphone 3g and have try many different device to play music and to talk on the phone , hands-free .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'd say I 've purchased about 8 different devices in two years .</Tokens>
+		<POS>PRP MD VB PRP VB VBN IN CD JJ NNS IN CD NNS .</POS>
+		<Lemma>I would say I have purchase about 8 different device in two year .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is the only one that works for me .</Tokens>
+		<POS>DT VBZ DT RB CD WDT VBZ IN PRP .</POS>
+		<Lemma>this be the only one that work for I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I finally get to listen to music in my car and it sounds great .</Tokens>
+		<POS>PRP RB VB TO VB TO NN IN PRP$ NN CC PRP VBZ JJ .</POS>
+		<Lemma>I finally get to listen to music in my car and it sound great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It does n't chop off the top or the bottom of the sound .</Tokens>
+		<POS>PRP VBZ RB VB RP DT JJ CC DT NN IN DT NN .</POS>
+		<Lemma>it do not chop off the top or the bottom of the sound .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The device finds a good channel and plays without static .</Tokens>
+		<POS>DT NN VBZ DT JJ NN CC VBZ IN JJ .</POS>
+		<Lemma>the device find a good channel and play without static .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The phone speaker is great .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>the phone speaker be great .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>People can hear me and I can hear them .</Tokens>
+		<POS>NNS MD VB PRP CC PRP MD VB PRP .</POS>
+		<Lemma>people can hear I and I can hear they .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I love this thing .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this thing .</Lemma>
+	</Sentence>
+</Document>

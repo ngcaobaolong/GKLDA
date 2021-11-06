@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Maybe it 's the unit I bought , but the pictures are of terrible quality and all washed out and super bright .</Tokens>
+		<POS>RB PRP VBZ DT NN PRP VBD , CC DT NNS VBP IN JJ NN CC DT VBN RP CC JJ JJ .</POS>
+		<Lemma>maybe it be the unit I buy , but the picture be of terrible quality and all wash out and super bright .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had to adjust and fix Brightness , Color saturation and hue on every single picture especially if there is a background light .</Tokens>
+		<POS>PRP VBD TO VB CC VB NNP , NNP NN CC NN IN DT JJ NN RB IN EX VBZ DT NN NN .</POS>
+		<Lemma>I have to adjust and fix Brightness , Color saturation and hue on every single picture especially if there be a background light .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am gonna get in touch with Nikon and see if the warranty will take care of this issue .</Tokens>
+		<POS>PRP VBP NN VB IN NN IN NNP CC VB IN DT NN MD VB NN IN DT NN .</POS>
+		<Lemma>I be gonna get in touch with Nikon and see if the warranty will take care of this issue .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Otherwise I tried it in the Ocean and in rivers and there were no issues , it does not leak and it 's quite water proof .</Tokens>
+		<POS>RB PRP VBD PRP IN DT NNP CC IN NNS CC EX VBD DT NNS , PRP VBZ RB NN CC PRP VBZ RB NN NN .</POS>
+		<Lemma>otherwise I try it in the Ocean and in river and there be no issue , it do not leak and it be quite water proof .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Finally it 's easy to use but it 's all pre-programmed programs and there is no way to do a manual adjustment .</Tokens>
+		<POS>RB PRP VBZ JJ TO VB CC PRP VBZ DT JJ NNS CC EX VBZ DT NN TO VB DT JJ NN .</POS>
+		<Lemma>finally it be easy to use but it be all pre-programmed program and there be no way to do a manual adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Overall , I think it 's a poor camera and it 's not worth the price .</Tokens>
+		<POS>RB , PRP VBP PRP VBZ DT JJ NN CC PRP VBZ RB JJ DT NN .</POS>
+		<Lemma>overall , I think it be a poor camera and it be not worth the price .</Lemma>
+	</Sentence>
+</Document>

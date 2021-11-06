@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It only took an hour to make this soup and my kids really enjoyed it .</Tokens>
+		<POS>PRP RB VBD DT NN TO VB DT NN CC PRP$ NNS RB VBD PRP .</POS>
+		<Lemma>it only take a hour to make this soup and my kid really enjoy it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did n't have time to add anything but a few spices , but the soup is good and very filling .</Tokens>
+		<POS>PRP VBD RB VB NN TO VB NN CC DT JJ NNS , CC DT NN VBZ JJ CC RB VBG .</POS>
+		<Lemma>I do not have time to add anything but a few spice , but the soup be good and very fill .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did n't add enough water to the first batch , so it was very thick , but still very tasty .</Tokens>
+		<POS>PRP VBD RB VB JJ NN TO DT JJ NN , IN PRP VBD RB JJ , CC RB RB JJ .</POS>
+		<Lemma>I do not add enough water to the first batch , so it be very thick , but still very tasty .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Make sure you add lots of water .</Tokens>
+		<POS>NNP JJ PRP VBP NNS IN NN .</POS>
+		<Lemma>Make sure you add lot of water .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm so glad I found this great healthy option .</Tokens>
+		<POS>PRP VBP RB JJ PRP VBD DT JJ JJ NN .</POS>
+		<Lemma>I be so glad I find this great healthy option .</Lemma>
+	</Sentence>
+</Document>

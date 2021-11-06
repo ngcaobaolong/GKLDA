@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Fun , filling , low calorie , I lost 25 pounds .</Tokens>
+		<POS>NN , VBG , JJ NN , PRP VBD CD NNS .</POS>
+		<Lemma>fun , fill , low calorie , I lose 25 pound .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Only problem is that directions are wrong for my microwave .</Tokens>
+		<POS>RB NN VBZ IN NNS VBP JJ IN PRP$ NN .</POS>
+		<Lemma>only problem be that direction be wrong for my microwave .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>full power burns the popcorn .</Tokens>
+		<POS>JJ NN NNS DT NN .</POS>
+		<Lemma>full power burn the popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I heat for 230 seconds at 60 % power .</Tokens>
+		<POS>PRP VBP IN CD NNS IN CD NN NN .</POS>
+		<Lemma>I heat for 230 seconds at 60 % power .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Later I reheat the unpopped pop corn .</Tokens>
+		<POS>RB PRP VBP DT JJ NN NN .</POS>
+		<Lemma>later I reheat the unpopped pop corn .</Lemma>
+	</Sentence>
+</Document>

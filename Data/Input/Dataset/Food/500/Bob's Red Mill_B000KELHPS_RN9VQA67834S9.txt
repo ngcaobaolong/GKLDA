@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I unfortunately purchased 2 cases of this mix .</Tokens>
+		<POS>PRP RB VBD CD NNS IN DT NN .</POS>
+		<Lemma>I unfortunately purchase 2 case of this mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I threw away the first batch that I made-smelled and tasted horrible .</Tokens>
+		<POS>PRP VBD RP DT JJ NN IN PRP JJ CC VBD JJ .</POS>
+		<Lemma>I throw away the first batch that I made-smelled and taste horrible .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I added some cinnamon and raisins to the second batch and it was edible-but still disapointing .</Tokens>
+		<POS>PRP VBD DT NNP CC NNS TO DT JJ NN CC PRP VBD JJ RB VBG .</POS>
+		<Lemma>I add some cinnamon and raisin to the second batch and it be edible-but still disapoint .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It has a very strange smell and taste .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN CC NN .</POS>
+		<Lemma>it have a very strange smell and taste .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am stuck with it now and will just dispose of the remaining bags of mix .</Tokens>
+		<POS>PRP VBP VBN IN PRP RB CC MD RB VB IN DT VBG NNS IN NN .</POS>
+		<Lemma>I be stick with it now and will just dispose of the remain bag of mix .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I purchased this because of the company 's good reputation .</Tokens>
+		<POS>PRP VBD DT IN IN DT NN POS JJ NN .</POS>
+		<Lemma>I purchase this because of the company 's good reputation .</Lemma>
+	</Sentence>
+</Document>

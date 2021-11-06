@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera has been amazing .</Tokens>
+		<POS>DT NN VBZ VBN JJ .</POS>
+		<Lemma>the camera have be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I also bought Nikkor 28-300mm lens .</Tokens>
+		<POS>PRP RB VBD NNP JJ NN .</POS>
+		<Lemma>I also buy Nikkor 28-300mm lens .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Then I added a filter and the battery grip .</Tokens>
+		<POS>RB PRP VBD DT NN CC DT NN NN .</POS>
+		<Lemma>then I add a filter and the battery grip .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I bought it in early summer , took it to a two week Euro trip , countless sporting events , family outings and work related sojourns .</Tokens>
+		<POS>PRP VBD PRP IN JJ NN , VBD PRP TO DT CD NN NNP NN , JJ VBG NNS , NN NNS CC NN JJ NNS .</POS>
+		<Lemma>I buy it in early summer , take it to a two week Euro trip , countless sport event , family outing and work related sojourn .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The camera is a work horse that takes very good pictures .</Tokens>
+		<POS>DT NN VBZ DT NN NN WDT VBZ RB JJ NNS .</POS>
+		<Lemma>the camera be a work horse that take very good picture .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I suspect I have taken between 12 and 13K pictures .</Tokens>
+		<POS>PRP VBP PRP VBP VBN IN CD CC CD NNS .</POS>
+		<Lemma>I suspect I have take between 12 and 13k picture .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The extra battery is fantastic .</Tokens>
+		<POS>DT JJ NN VBZ JJ .</POS>
+		<Lemma>the extra battery be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have only charged the camera batteries twice since I bought it .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NNS RB IN PRP VBD PRP .</POS>
+		<Lemma>I have only charge the camera battery twice since I buy it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The camera is good size but not heavy .</Tokens>
+		<POS>DT NN VBZ JJ NN CC RB JJ .</POS>
+		<Lemma>the camera be good size but not heavy .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>My wife takes it with her to horse shows sometimes .</Tokens>
+		<POS>PRP$ NN VBZ PRP IN PRP TO NN VBZ RB .</POS>
+		<Lemma>my wife take it with she to horse show sometimes .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I bought to take good pictures and it does ... it takes really good pictures and really good video .</Tokens>
+		<POS>PRP VBD TO VB JJ NNS CC PRP VBZ : PRP VBZ RB JJ NNS CC RB JJ NN .</POS>
+		<Lemma>I buy to take good picture and it do ... it take really good picture and really good video .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The only thing I do n't like is the shroud on the lens because it falls off too easily .</Tokens>
+		<POS>DT JJ NN PRP VBP RB VB VBZ DT NN IN DT NN IN PRP VBZ RP RB RB .</POS>
+		<Lemma>the only thing I do not like be the shroud on the lens because it fall off too easily .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>But that is minor and maybe it is just my lens .</Tokens>
+		<POS>CC DT VBZ JJ CC RB PRP VBZ RB PRP$ NN .</POS>
+		<Lemma>but that be minor and maybe it be just my lens .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I bought d-7000 for dummies and another book I have n't even taken out of the wrap .</Tokens>
+		<POS>PRP VBD NN IN NNS CC DT NN PRP VBP RB RB VBN IN IN DT NN .</POS>
+		<Lemma>I buy d-7000 for dummy and another book I have not even take out of the wrap .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I am still fumbling around with some of the settings but plan on taking a class at our local Art Institute this winter .</Tokens>
+		<POS>PRP VBP RB VBG RP IN DT IN DT NNS CC NN IN VBG DT NN IN PRP$ JJ NNP NNP DT NN .</POS>
+		<Lemma>I be still fumble around with some of the setting but plan on take a class at we local Art Institute this winter .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Some of the functions I 'll never use but others are really cool .</Tokens>
+		<POS>DT IN DT NNS PRP MD RB VB CC NNS VBP RB JJ .</POS>
+		<Lemma>some of the function I 'll never use but other be really cool .</Lemma>
+	</Sentence>
+</Document>

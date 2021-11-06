@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>these are great , so good as a soup , they are what i 've been looking for</Tokens>
+		<POS>DT VBP JJ , RB JJ IN DT NN , PRP VBP WP FW VBP VBN VBG IN</POS>
+		<Lemma>these be great , so good as a soup , they be what i have be look for</Lemma>
+	</Sentence>
+</Document>

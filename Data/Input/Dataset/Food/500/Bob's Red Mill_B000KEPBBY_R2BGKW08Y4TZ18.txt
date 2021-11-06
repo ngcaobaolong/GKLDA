@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bob 's Red Mill Veggie soup is a great soup starter .</Tokens>
+		<POS>NNP POS NNP NNP NNP NN VBZ DT JJ NN JJ .</POS>
+		<Lemma>Bob 's Red Mill Veggie soup be a great soup starter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just use 1 cup to 8 cups water in a huge crock pot .</Tokens>
+		<POS>RB VB CD NN TO CD NNS NN IN DT JJ NN NN .</POS>
+		<Lemma>just use 1 cup to 8 cup water in a huge crock pot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It really expands .</Tokens>
+		<POS>PRP RB VBZ .</POS>
+		<Lemma>it really expand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I added some turkey sausage , veggies and a pkg of brocolli soup mix .</Tokens>
+		<POS>PRP VBD DT NN NN , NNS CC DT NN IN NNS NN NN .</POS>
+		<Lemma>I add some turkey sausage , veggy and a pkg of brocollus soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was so yummy and lasted us for days .</Tokens>
+		<POS>PRP VBD RB JJ CC VBD PRP IN NNS .</POS>
+		<Lemma>it be so yummy and last we for day .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is a great value , and I will order more when I am out .</Tokens>
+		<POS>PRP VBZ DT JJ NN , CC PRP MD VB JJR WRB PRP VBP RP .</POS>
+		<Lemma>it be a great value , and I will order more when I be out .</Lemma>
+	</Sentence>
+</Document>

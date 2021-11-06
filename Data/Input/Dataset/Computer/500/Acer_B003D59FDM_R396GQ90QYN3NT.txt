@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is great where a wide screen monitor is not needed .</Tokens>
+		<POS>DT NN VBZ JJ WRB DT JJ NN NN VBZ RB VBN .</POS>
+		<Lemma>this monitor be great where a wide screen monitor be not need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The price was great and it served my purposes just fine with no problems .</Tokens>
+		<POS>DT NN VBD JJ CC PRP VBD PRP$ NNS RB JJ IN DT NNS .</POS>
+		<Lemma>the price be great and it serve my purpose just fine with no problem .</Lemma>
+	</Sentence>
+</Document>

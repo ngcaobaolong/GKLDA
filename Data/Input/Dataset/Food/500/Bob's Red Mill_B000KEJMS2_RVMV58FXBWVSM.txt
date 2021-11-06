@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is very good and so easy to fix .</Tokens>
+		<POS>DT VBZ RB JJ CC RB JJ TO VB .</POS>
+		<Lemma>this be very good and so easy to fix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I washed well then soaked for while then cooked in chicken broth .</Tokens>
+		<POS>PRP VBD RB RB VBN IN IN RB VBN IN NN NN .</POS>
+		<Lemma>I wash well then soak for while then cook in chicken broth .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just delicious and so healthy .</Tokens>
+		<POS>RB JJ CC RB JJ .</POS>
+		<Lemma>just delicious and so healthy .</Lemma>
+	</Sentence>
+</Document>

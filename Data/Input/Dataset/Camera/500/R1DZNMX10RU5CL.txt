@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>used in aruba snorkling twice then water leaked inside somehow and it died .</Tokens>
+		<POS>VBN IN NN VBG RB RB NN VBN IN RB CC PRP VBD .</POS>
+		<Lemma>use in aruba snorkle twice then water leak inside somehow and it die .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>the next day we were swimming with sea turtles .</Tokens>
+		<POS>DT JJ NN PRP VBD VBG IN NN NNS .</POS>
+		<Lemma>the next day we be swim with sea turtle .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>not able to record i was pissed .</Tokens>
+		<POS>RB JJ TO VB FW VBD VBN .</POS>
+		<Lemma>not able to record i be piss .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>going back to aruba this year bought a kodak z3 .</Tokens>
+		<POS>VBG RB TO VB DT NN VBD DT NN NN .</POS>
+		<Lemma>go back to aruba this year buy a kodak z3 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>hopefully this one lasts oh yeah amazon did refund me</Tokens>
+		<POS>RB DT CD VBZ UH JJ NN VBD VB PRP</POS>
+		<Lemma>hopefully this one last oh yeah amazon do refund I</Lemma>
+	</Sentence>
+</Document>

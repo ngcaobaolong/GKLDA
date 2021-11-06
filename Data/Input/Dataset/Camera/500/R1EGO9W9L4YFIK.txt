@@ -1,0 +1,92 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Have had this for a couple months , now .</Tokens>
+		<POS>NNP VBD DT IN DT NN NNS , RB .</POS>
+		<Lemma>Have have this for a couple month , now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Cool little camera !</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>cool little camera !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you 're not into spending $ 500 + for a DSLR , this is probably the next best thing .</Tokens>
+		<POS>IN PRP VBP RB IN VBG $ CD CC IN DT NN , DT VBZ RB DT JJ JJS NN .</POS>
+		<Lemma>if you be not into spend $ 500 + for a dslr , this be probably the next best thing .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Many functions of a DSLR , but no ability to change lenses .</Tokens>
+		<POS>JJ NNS IN DT NN , CC DT NN TO VB NNS .</POS>
+		<Lemma>many function of a dslr , but no ability to change lens .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>A little slow between photos , but acceptable for the amateur .</Tokens>
+		<POS>DT JJ JJ IN NNS , CC JJ IN DT JJ .</POS>
+		<Lemma>a little slow between photo , but acceptable for the amateur .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Quality of photos very good thanks to 14 megapixels .</Tokens>
+		<POS>NNP IN NNS RB JJ NNS TO CD NNS .</POS>
+		<Lemma>Quality of photo very good thanks to 14 megapixel .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I was surprised at the zoom - 18x , but I guess I did n't realize the power of 18 !</Tokens>
+		<POS>PRP VBD VBN IN DT NN : NN , CC PRP VBP PRP VBD RB VB DT NN IN CD .</POS>
+		<Lemma>I be surprise at the zoom - 18x , but I guess I do not realize the power of 18 !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 'd use the word `` awesome '' , but ... One of my must-have features was a viewfinder , which is hard to find on point-and-shoot cameras .</Tokens>
+		<POS>PRP MD VB DT NN `` JJ '' , CC : CD IN PRP$ JJ NNS VBD DT NN , WDT VBZ JJ TO VB IN JJ NNS .</POS>
+		<Lemma>I would use the word `` awesome '' , but ... one of my must-have feature be a viewfinder , which be hard to find on point-and-shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I find it easier to use , bracing it against your face gives you a steadier hand , and it gives you a more precise view than the screen .</Tokens>
+		<POS>PRP VBP PRP JJR TO VB , VBG PRP IN PRP$ NN VBZ PRP DT JJR NN , CC PRP VBZ PRP DT RBR JJ NN IN DT NN .</POS>
+		<Lemma>I find it easier to use , brace it against you face give you a steadier hand , and it give you a more precise view than the screen .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The size is perfect - lightweight and easy to carry around .</Tokens>
+		<POS>DT NN VBZ JJ : JJ CC JJ TO VB RP .</POS>
+		<Lemma>the size be perfect - lightweight and easy to carry around .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Feels good in hands .</Tokens>
+		<POS>VBZ JJ IN NNS .</POS>
+		<Lemma>feel good in hand .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Grip allows one-handed shooting if necessary .</Tokens>
+		<POS>NN VBZ JJ NN IN JJ .</POS>
+		<Lemma>grip allow one-handed shooting if necessary .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Videos are clear .</Tokens>
+		<POS>NNS VBP JJ .</POS>
+		<Lemma>video be clear .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Sound could be better , but , hey , the camera is less than $ 200 !</Tokens>
+		<POS>NN MD VB RBR , CC , NN , DT NN VBZ JJR IN $ CD .</POS>
+		<Lemma>sound could be better , but , hey , the camera be less than $ 200 !</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>A snap to transfer photos\/videos to your pc , Facebook , etc. .</Tokens>
+		<POS>DT NN TO VB NNS TO PRP$ NN , NNP , FW .</POS>
+		<Lemma>a snap to transfer photos\/videos to you pc , Facebook , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>All-in-all , an excellent value .</Tokens>
+		<POS>RB , DT JJ NN .</POS>
+		<Lemma>all-in-all , a excellent value .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Took this thing to Yosemite twice and got some brilliant photos and videos .</Tokens>
+		<POS>VBD DT NN TO NNP RB CC VBD DT JJ NNS CC NNS .</POS>
+		<Lemma>take this thing to Yosemite twice and get some brilliant photo and video .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Pleased as puch , I am .</Tokens>
+		<POS>JJ IN NN , PRP VBP .</POS>
+		<Lemma>pleased as puch , I be .</Lemma>
+	</Sentence>
+</Document>

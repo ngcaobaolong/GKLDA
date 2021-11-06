@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this charger to charge my Droid X on a 3 day bus trip .</Tokens>
+		<POS>PRP VBD DT NN TO VB PRP$ NN NN IN DT CD NN NN NN .</POS>
+		<Lemma>I buy this charger to charge my droid x on a 3 day bus trip .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>With AA or 9 volt batteries , it works like a trickle charger , and keeps the phone going while your using it .</Tokens>
+		<POS>IN NN CC CD NN NNS , PRP VBZ IN DT VBP NN , CC VBZ DT NN VBG IN PRP$ VBG PRP .</POS>
+		<Lemma>with aa or 9 volt battery , it work like a trickle charger , and keep the phone go while you use it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If the batteries are fresh , it will charge a device , but not quickly .</Tokens>
+		<POS>IN DT NNS VBP JJ , PRP MD VB DT NN , CC RB RB .</POS>
+		<Lemma>if the battery be fresh , it will charge a device , but not quickly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>AA batteries get VERY hot .</Tokens>
+		<POS>NN NNS VBP RB JJ .</POS>
+		<Lemma>aa battery get very hot .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>9 volt batteries do n't heat up .</Tokens>
+		<POS>CD NN NNS VBP RB VB RP .</POS>
+		<Lemma>9 volt battery do not heat up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I could not say which worked better .</Tokens>
+		<POS>PRP MD RB VB WDT VBD JJR .</POS>
+		<Lemma>I could not say which work better .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The quality of device is a bit on the low side , for what I paid for the device -LRB- $ 16.99 -RRB- .</Tokens>
+		<POS>DT NN IN NN VBZ DT NN IN DT JJ NN , IN WP PRP VBD IN DT NN -LRB- $ CD -RRB- .</POS>
+		<Lemma>the quality of device be a bit on the low side , for what I pay for the device -lrb- $ 16.99 -rrb- .</Lemma>
+	</Sentence>
+</Document>

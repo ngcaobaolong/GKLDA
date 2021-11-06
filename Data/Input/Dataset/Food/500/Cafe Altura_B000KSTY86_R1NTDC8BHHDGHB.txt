@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This coffee is one of my favorites especially when the bag is freshly opened ; however , it takes a while to go through two pounds of coffee .</Tokens>
+		<POS>DT NN VBZ CD IN PRP$ NNS RB WRB DT NN VBZ RB VBN : RB , PRP VBZ DT NN TO VB IN CD NNS IN NN .</POS>
+		<Lemma>this coffee be one of my favorite especially when the bag be freshly open ; however , it take a while to go through two pound of coffee .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It looses some of the flavor over time , but regardless it remains pretty darn good .</Tokens>
+		<POS>PRP VBZ DT IN DT NN IN NN , CC RB PRP VBZ RB JJ JJ .</POS>
+		<Lemma>it loose some of the flavor over time , but regardless it remain pretty darn good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I just wish I could find a way to keep it really fresh .</Tokens>
+		<POS>PRP RB VBP PRP MD VB DT NN TO VB PRP RB JJ .</POS>
+		<Lemma>I just wish I could find a way to keep it really fresh .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have tried freezing it in an airtight zip-lock bag , refrigerating in an airtight zip-lock bag , and storing at room temp in an ceramic airtight jar .</Tokens>
+		<POS>PRP VBP VBN NN PRP IN DT JJ NN NN , VBG IN DT JJ NN NN , CC VBG IN NN NN IN DT JJ JJ NN .</POS>
+		<Lemma>I have try freezing it in a airtight zip-lock bag , refrigerate in a airtight zip-lock bag , and store at room temp in a ceramic airtight jar .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Regardless , this coffee is a amazing -LRB- especially when brewed with a french press -RRB- , and I highly recommend it .</Tokens>
+		<POS>RB , DT NN VBZ DT JJ -LRB- RB WRB VBN IN DT JJ NN -RRB- , CC PRP RB VB PRP .</POS>
+		<Lemma>regardless , this coffee be a amazing -lrb- especially when brew with a french press -rrb- , and I highly recommend it .</Lemma>
+	</Sentence>
+</Document>

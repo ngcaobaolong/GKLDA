@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is one amazing monitor bar none .</Tokens>
+		<POS>DT VBZ CD JJ NN NN NN .</POS>
+		<Lemma>this be one amazing monitor bar none .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This monitor is absolutely huge and does everything I need it to , and has a bright vivid display .</Tokens>
+		<POS>DT NN VBZ RB JJ CC VBZ NN PRP VBP PRP TO , CC VBZ DT JJ JJ NN .</POS>
+		<Lemma>this monitor be absolutely huge and do everything I need it to , and have a bright vivid display .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very easy to set up , and no issues so far .</Tokens>
+		<POS>RB JJ TO VB RP , CC DT NNS RB RB .</POS>
+		<Lemma>very easy to set up , and no issue so far .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Video quality is okay for the price .</Tokens>
+		<POS>NNP NN VBZ JJ IN DT NN .</POS>
+		<Lemma>Video quality be okay for the price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Took it on vacation and had problems .</Tokens>
+		<POS>VBD PRP IN NN CC VBD NNS .</POS>
+		<Lemma>take it on vacation and have problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>At times it would not turn on and other times it would not turn off .</Tokens>
+		<POS>IN NNS PRP MD RB VB RP CC JJ NNS PRP MD RB VB RP .</POS>
+		<Lemma>at time it would not turn on and other time it would not turn off .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Did n't matter if it was wet or dry .</Tokens>
+		<POS>VBD RB VB IN PRP VBD JJ CC JJ .</POS>
+		<Lemma>do not matter if it be wet or dry .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Missed a lot of pictures .</Tokens>
+		<POS>VBN DT NN IN NNS .</POS>
+		<Lemma>miss a lot of picture .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I returned it when I got back .</Tokens>
+		<POS>PRP VBD PRP WRB PRP VBD RB .</POS>
+		<Lemma>I return it when I get back .</Lemma>
+	</Sentence>
+</Document>

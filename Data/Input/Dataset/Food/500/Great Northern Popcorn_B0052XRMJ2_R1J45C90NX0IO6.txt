@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>GMO corn is causing digestive tract damage to animals -LRB- and probably also other GMO foods -RRB- !!!!!!!!!</Tokens>
+		<POS>NNP NN VBZ VBG JJ NN NN TO NNS -LRB- CC RB RB JJ NNP NNS -RRB- CD</POS>
+		<Lemma>GMO corn be cause digestive tract damage to animal -lrb- and probably also other GMO food -rrb- !!!!!!!!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We 'll be next if it 's not already too late !!</Tokens>
+		<POS>PRP MD VB JJ IN PRP VBZ RB RB RB JJ IN</POS>
+		<Lemma>we 'll be next if it be not already too late !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Aside from that , this product is absolutely great !</Tokens>
+		<POS>RB IN DT , DT NN VBZ RB JJ .</POS>
+		<Lemma>aside from that , this product be absolutely great !</Lemma>
+	</Sentence>
+</Document>

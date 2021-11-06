@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We do a lot of family hiking and biking with our grade school kids .</Tokens>
+		<POS>PRP VBP DT NN IN NN NN CC NN IN PRP$ NN NN NNS .</POS>
+		<Lemma>we do a lot of family hiking and biking with we grade school kid .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They both have peanut allergy so that eliminates 90 % of the energy bars from consideration .</Tokens>
+		<POS>PRP DT VBP NN NN IN IN VBZ CD NN IN DT NN NNS IN NN .</POS>
+		<Lemma>they both have peanut allergy so that eliminate 90 % of the energy bar from consideration .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is by far the best tasting energy snack we have found without peanuts , and my kids love ` em .</Tokens>
+		<POS>DT VBZ IN RB DT JJS NN NN NN PRP VBP VBN IN NNS , CC PRP$ NNS VBP `` NN .</POS>
+		<Lemma>this be by far the best tasting energy snack we have find without peanut , and my kid love ` em .</Lemma>
+	</Sentence>
+</Document>

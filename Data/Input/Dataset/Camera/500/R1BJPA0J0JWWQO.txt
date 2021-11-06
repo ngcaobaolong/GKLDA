@@ -1,0 +1,152 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for a great point shoot camera to replace my old Canon SD750 .</Tokens>
+		<POS>PRP VBD VBG IN DT JJ NN CC NN NN TO VB PRP$ JJ NNP NN .</POS>
+		<Lemma>I be look for a great point shoot camera to replace my old Canon sd750 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have a kid on the way , and so I really wanted a camera that can take incredible baby pictures and then , later on , capture a moving toddler .</Tokens>
+		<POS>PRP VBP DT NN IN DT NN , CC RB PRP RB VBD DT NN WDT MD VB JJ NN NNS CC RB , RB IN , VB DT VBG NN .</POS>
+		<Lemma>I have a kid on the way , and so I really want a camera that can take incredible baby picture and then , later on , capture a move toddler .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After thorough research , my sights were set on the Sony Cybershot DSC HX9V , which had garnered impressive reviews from several leading websites and many positive customers reviews .</Tokens>
+		<POS>IN JJ NN , PRP$ NNS VBD VBN IN DT NNP NNP NNP NN , WDT VBD VBN JJ NNS IN JJ VBG NNS CC JJ JJ NNS NNS .</POS>
+		<Lemma>after thorough research , my sight be set on the Sony Cybershot DSC hx9v , which have garner impressive review from several lead website and many positive customer review .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I went to Best Buy to feel it out , and did n't really expect it to be there since it had practically sold out everywhere online during the Christmas season and I was planning to backorder it anyway .</Tokens>
+		<POS>PRP VBD TO JJS VB TO VB PRP RP , CC VBD RB RB VB PRP TO VB RB IN PRP VBD RB VBN RP RB NN IN DT NNP NN CC PRP VBD VBG TO VB PRP RB .</POS>
+		<Lemma>I go to best buy to feel it out , and do not really expect it to be there since it have practically sell out everywhere online during the Christmas season and I be plan to backorder it anyway .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Well , lo and behold , there was a returned camera waiting at the store .</Tokens>
+		<POS>RB , NN CC NN , EX VBD DT VBN NN VBG IN DT NN .</POS>
+		<Lemma>well , lo and behold , there be a return camera wait at the store .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Turns out somebody had bought the camera , stolen the cord and AC adaptor , and returned it saying that Sony had `` forgotten to include it in the box . ''</Tokens>
+		<POS>VBZ RP NN VBD VBN DT NN , VBN DT NN CC NN NN , CC VBD PRP VBG IN NNP VBD `` VBN TO VB PRP IN DT NN . ''</POS>
+		<Lemma>turn out somebody have buy the camera , steal the cord and ac adaptor , and return it say that Sony have `` forget to include it in the box . ''</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Haha , what a laugh !</Tokens>
+		<POS>NNP , WP DT NN .</POS>
+		<Lemma>Haha , what a laugh !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The Best Buy associate was totally pissed , because here was a perfect camera missing the proprietary accessories , returned practically untouched .</Tokens>
+		<POS>DT JJS JJ NN VBD RB VBN , IN RB VBD DT JJ NN VBG DT JJ NNS , VBD RB JJ .</POS>
+		<Lemma>the best buy associate be totally piss , because here be a perfect camera miss the proprietary accessory , return practically untouched .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So anyway , I picked it up and immediately I knew that this device was something entirely different than what I was accustomed to , and simultaneously thrilling to hold and snap photos with .</Tokens>
+		<POS>RB RB , PRP VBD PRP RP CC RB PRP VBD IN DT NN VBD NN RB JJ IN WP PRP VBD VBN TO , CC RB NN TO VB CC VB NNS IN .</POS>
+		<Lemma>so anyway , I pick it up and immediately I know that this device be something entirely different than what I be accustom to , and simultaneously thrilling to hold and snap photo with .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The zoom lens promptly caught my interest .</Tokens>
+		<POS>DT NN NN RB VBD PRP$ NN .</POS>
+		<Lemma>the zoom lens promptly catch my interest .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I was able to zoom in on a boxed stereo about 200m across the store , take a picture , and then when I zoomed into the photo I could clearly read the font that was no more than 1 inch in height .</Tokens>
+		<POS>PRP VBD JJ TO VB IN IN DT JJ NN IN NN IN DT NN , VB DT NN , CC RB WRB PRP VBD IN DT NN PRP MD RB VB DT NN WDT VBD DT JJR IN CD NN IN NN .</POS>
+		<Lemma>I be able to zoom in on a boxed stereo about 200m across the store , take a picture , and then when I zoom into the photo I could clearly read the font that be no more than 1 inch in height .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Talk about an eagle-eyed zoom lens !</Tokens>
+		<POS>NN IN DT JJ NN NN .</POS>
+		<Lemma>talk about a eagle-eyed zoom lens !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Each photo I snapped in that lifeless box store was amazing and vibrant .</Tokens>
+		<POS>DT NN PRP VBD IN DT JJ NN NN VBD JJ CC JJ .</POS>
+		<Lemma>each photo I snap in that lifeless box store be amazing and vibrant .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I took pictures of employees , zooming into their zitty pores , rows of overpriced Chinese electrionic bric-a-brac , a pigeon who had somehow flown into the store and patiently waited in the rafters for someone to drop some crumbs from their granola bar .</Tokens>
+		<POS>PRP VBD NNS IN NNS , VBG IN PRP$ NN VBZ , NNS IN JJ JJ JJ NN , DT NN WP VBD RB VBN IN DT NN CC RB VBD IN DT NNS IN NN TO VB DT NNS IN PRP$ NN NN .</POS>
+		<Lemma>I take picture of employee , zoom into they zitty pore , row of overpriced chinese electrionic bric-a-brac , a pigeon who have somehow fly into the store and patiently wait in the rafter for someone to drop some crumb from they granolum bar .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Eventually , I said thanks and departed the store , and immediately ordered this camera from Crutchfield .</Tokens>
+		<POS>RB , PRP VBD NNS CC VBD DT NN , CC RB VBN DT NN IN NNP .</POS>
+		<Lemma>eventually , I say thanks and depart the store , and immediately order this camera from Crutchfield .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Even though it was on backorder , it came in less than a week .</Tokens>
+		<POS>RB IN PRP VBD IN NN , PRP VBD IN JJR IN DT NN .</POS>
+		<Lemma>even though it be on backorder , it come in less than a week .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Ever since , I have taken the most incredibly awesome photos of everything - my glowing , pregnant wife -LRB- she loves the `` soft skin '' setting -RRB- , my cats , my neighborhood , the zoo , etc. .</Tokens>
+		<POS>RB IN , PRP VBP VBN DT RBS RB JJ NNS IN NN : PRP$ JJ , JJ NN -LRB- PRP VBZ DT `` JJ NN '' NN -RRB- , PRP$ NNS , PRP$ NN , DT NN , FW .</POS>
+		<Lemma>ever since , I have take the most incredibly awesome photo of everything - my glowing , pregnant wife -lrb- she love the `` soft skin '' setting -rrb- , my cat , my neighborhood , the zoo , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Almost every picture I have taken is magazine-quality in my opinion .</Tokens>
+		<POS>RB DT NN PRP VBP VBN VBZ JJ IN PRP$ NN .</POS>
+		<Lemma>almost every picture I have take be magazine-quality in my opinion .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Low light shots are ridiculously good compared with my old Canon PS .</Tokens>
+		<POS>JJ JJ NNS VBP RB JJ VBN IN PRP$ JJ NNP NNP .</POS>
+		<Lemma>low light shot be ridiculously good compare with my old Canon PS .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Movement shots , such as my cats jumping off the kitchen counter with their feet coated in bernaise sauce , are incredible , as well .</Tokens>
+		<POS>NNP NNS , JJ IN PRP$ NNS VBG RP DT NN NN IN PRP$ NNS VBN IN NN NN , VBP JJ , RB RB .</POS>
+		<Lemma>Movement shot , such as my cat jump off the kitchen counter with they foot coat in bernaise sauce , be incredible , as well .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The panoramic function is spellbinding .</Tokens>
+		<POS>DT JJ NN VBZ JJ .</POS>
+		<Lemma>the panoramic function be spellbinding .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I have n't used the 3D mode yet because I do n't know anyone with a 3D television , but I 'm curious as to what the future might hold in that regard .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NN RB IN PRP VBP RB VB NN IN DT NN NN , CC PRP VBP JJ IN TO WP DT NN MD VB IN DT NN .</POS>
+		<Lemma>I have not use the 3d mode yet because I do not know anyone with a 3d television , but I be curious as to what the future might hold in that regard .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Video is so clear , I think I could literally film an HD reality television show .</Tokens>
+		<POS>NNP VBZ RB JJ , PRP VBP PRP MD RB NN DT NN NN NN NN .</POS>
+		<Lemma>Video be so clear , I think I could literally film a hd reality television show .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Steadycam technology has come a long way .</Tokens>
+		<POS>NN NN VBZ VBN DT JJ NN .</POS>
+		<Lemma>steadycam technology have come a long way .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Even bounding around the house was smooth , like the opening credits of HBO 's `` Tales From the Crypt '' -LRB- I just needed a good Danny Elfman score -RRB- .</Tokens>
+		<POS>RB VBG IN DT NN VBD JJ , IN DT NN NNS IN NNP POS `` NNS IN DT NNP '' -LRB- PRP RB VBD DT JJ NNP NNP NN -RRB- .</POS>
+		<Lemma>even bound around the house be smooth , like the opening credit of HBO 's `` tale from the Crypt '' -lrb- I just need a good Danny Elfman score -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>This camera is packed with features and I could spend about an hour discussing all the ones I 've tried , but I 've only tried about half of the settings available on this divine contraption .</Tokens>
+		<POS>DT NN VBZ VBN IN NNS CC PRP MD VB IN DT NN VBG PDT DT NNS PRP VBP VBN , CC PRP VBP RB VBN IN NN IN DT NNS JJ IN DT JJ NN .</POS>
+		<Lemma>this camera be pack with feature and I could spend about a hour discuss all the one I have try , but I have only try about half of the setting available on this divine contraption .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Ca n't wait to take it on vacations .</Tokens>
+		<POS>NN RB VB TO VB PRP IN NNS .</POS>
+		<Lemma>ca not wait to take it on vacation .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>In conclusion , this is the best camera I have ever used in my life , better quality than many affordable DLSRs you will find on the market , and capable of taking the sharpest pictures imaginable with 16.2 mexapixels .</Tokens>
+		<POS>IN NN , DT VBZ DT JJS NN PRP VBP RB VBN IN PRP$ NN , JJR NN IN JJ JJ NNS PRP MD VB IN DT NN , CC JJ IN VBG DT JJS NNS JJ IN CD NNS .</POS>
+		<Lemma>in conclusion , this be the best camera I have ever use in my life , better quality than many affordable dlsr you will find on the market , and capable of take the sharpest picture imaginable with 16.2 mexapixel .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>The menus and functions are easy to navigate , it 's reactivity is exquisite , it 's functionality is unmatched by other point and shoots , and it takes triumphant pictures of felines , rambunctious five year-olds , and active preggo wives .</Tokens>
+		<POS>DT NNS CC NNS VBP JJ TO VB , PRP VBZ NN VBZ JJ , PRP VBZ NN VBZ JJ IN JJ NN CC VBZ , CC PRP VBZ JJ NNS IN NNS , JJ CD NNS , CC JJ JJ NNS .</POS>
+		<Lemma>the menu and function be easy to navigate , it be reactivity be exquisite , it be functionality be unmatched by other point and shoot , and it take triumphant picture of feline , rambunctious five year-old , and active preggo wife .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Thumbs up !</Tokens>
+		<POS>NNS RB .</POS>
+		<Lemma>thumb up !</Lemma>
+	</Sentence>
+</Document>

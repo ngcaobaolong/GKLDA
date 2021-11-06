@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just as advertised , Fine product that will be liked .</Tokens>
+		<POS>RB IN JJ , JJ NN WDT MD VB VBN .</POS>
+		<Lemma>just as advertised , fine product that will be like .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They also arrived in a timely manner .</Tokens>
+		<POS>PRP RB VBD IN DT JJ NN .</POS>
+		<Lemma>they also arrive in a timely manner .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would order from again .</Tokens>
+		<POS>PRP MD VB IN RB .</POS>
+		<Lemma>I would order from again .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thanks A +</Tokens>
+		<POS>NNS DT CC</POS>
+		<Lemma>thanks a +</Lemma>
+	</Sentence>
+</Document>

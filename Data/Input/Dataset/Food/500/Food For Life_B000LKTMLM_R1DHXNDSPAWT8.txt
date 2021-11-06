@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I like this product alot .</Tokens>
+		<POS>PRP VBP DT NN NN .</POS>
+		<Lemma>I like this product alot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has 8g protein and 6g fiber per 4oz serving .</Tokens>
+		<POS>PRP VBZ JJ NN CC JJ NN IN JJ VBG .</POS>
+		<Lemma>it have 8g protein and 6g fiber per 4oz serve .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is easier to eat than the brand nuts one .</Tokens>
+		<POS>PRP VBZ JJR TO VB IN DT NN NNS CD .</POS>
+		<Lemma>it be easier to eat than the brand nut one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is not real hard like the other brand nuts one .</Tokens>
+		<POS>PRP VBZ RB JJ RB IN DT JJ NN NNS CD .</POS>
+		<Lemma>it be not real hard like the other brand nut one .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It comes in a box with 6 smaller boxes of cereal .</Tokens>
+		<POS>PRP VBZ IN DT NN IN CD JJR NNS IN NN .</POS>
+		<Lemma>it come in a box with 6 smaller box of cereal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is a heavier cereal and the boxes are smaller than regular cereal boxes .</Tokens>
+		<POS>PRP VBZ DT JJR NN CC DT NNS VBP JJR IN JJ NN NNS .</POS>
+		<Lemma>it be a heavier cereal and the box be smaller than regular cereal box .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It is very nutritious and healthy .</Tokens>
+		<POS>PRP VBZ RB JJ CC JJ .</POS>
+		<Lemma>it be very nutritious and healthy .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>No added sugar and no flour .</Tokens>
+		<POS>DT VBD NN CC DT NN .</POS>
+		<Lemma>no add sugar and no flour .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is all sprouted grain .</Tokens>
+		<POS>PRP VBZ DT VBN NN .</POS>
+		<Lemma>it be all sprout grain .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is what I need .</Tokens>
+		<POS>DT VBZ WP PRP VBP .</POS>
+		<Lemma>this be what I need .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I hope you like it also .</Tokens>
+		<POS>PRP VBP PRP IN PRP RB .</POS>
+		<Lemma>I hope you like it also .</Lemma>
+	</Sentence>
+</Document>

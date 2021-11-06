@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My husband loves this bread .</Tokens>
+		<POS>PRP$ NN VBZ DT NN .</POS>
+		<Lemma>my husband love this bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I make it twice a week with the bread maker .</Tokens>
+		<POS>PRP VBP PRP RB DT NN IN DT NN NN .</POS>
+		<Lemma>I make it twice a week with the bread maker .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy to make and taste soooo good .</Tokens>
+		<POS>NNP TO VB CC VB RB JJ .</POS>
+		<Lemma>Easy to make and taste soooo good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Love the taste of little chocolate in it .</Tokens>
+		<POS>NN DT NN IN JJ NN IN PRP .</POS>
+		<Lemma>love the taste of little chocolate in it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great healthy bread ...</Tokens>
+		<POS>JJ JJ NN :</POS>
+		<Lemma>great healthy bread ...</Lemma>
+	</Sentence>
+</Document>

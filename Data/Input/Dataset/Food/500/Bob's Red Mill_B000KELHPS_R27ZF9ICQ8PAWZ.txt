@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you miss dense hearty whole grain bread , the kind you find in a bakery , at a farmer 's market , or in Europe , then this is the bread for you .</Tokens>
+		<POS>IN PRP VBP JJ JJ JJ NN NN , DT NN PRP VBP IN DT NN , IN DT NN POS NN , CC IN NNP , RB DT VBZ DT NN IN PRP .</POS>
+		<Lemma>if you miss dense hearty whole grain bread , the kind you find in a bakery , at a farmer 's market , or in Europe , then this be the bread for you .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is the kind of bread I used to hate as a kid , when TV ads taught me that bodies grow with Wonder Bread .</Tokens>
+		<POS>PRP VBZ DT NN IN NN PRP VBD TO VB IN DT NN , WRB NN NNS VBD PRP IN NNS VBP IN JJ NNP .</POS>
+		<Lemma>it be the kind of bread I use to hate as a kid , when tv ad teach I that body grow with wonder Bread .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As an adult , I grew to love it .</Tokens>
+		<POS>IN DT JJ , PRP VBD TO VB PRP .</POS>
+		<Lemma>as a adult , I grow to love it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I think of it as healthy bread for grown-ups .</Tokens>
+		<POS>PRP VBP IN PRP IN JJ NN IN NNS .</POS>
+		<Lemma>I think of it as healthy bread for grown-up .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>A problem with the typical gluten-free diet is definitely the absence of whole grains .</Tokens>
+		<POS>DT NN IN DT JJ JJ NN VBZ RB DT NN IN JJ NNS .</POS>
+		<Lemma>a problem with the typical gluten-free diet be definitely the absence of whole grain .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This bread will help you remedy that situation .</Tokens>
+		<POS>DT NN MD VB PRP VB DT NN .</POS>
+		<Lemma>this bread will help you remedy that situation .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The first few times I ate it , my stomach also wondered what was up , so I 'll concede that point to the reviewer who commented on tummy issues .</Tokens>
+		<POS>DT JJ JJ NNS PRP VBD PRP , PRP$ NN RB VBD WP VBD RB , IN PRP MD VB DT NN TO DT NN WP VBD IN NN NNS .</POS>
+		<Lemma>the first few time I eat it , my stomach also wonder what be up , so I 'll concede that point to the reviewer who comment on tummy issue .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But I liked the taste and felt good about eating the bread -LRB- on a psychological level -RRB- , so I continued eating it in measured doses until my stomach adjusted to all that good nutrition .</Tokens>
+		<POS>CC PRP VBD DT NN CC VBD JJ IN VBG DT NN -LRB- IN DT JJ NN -RRB- , IN PRP VBD VBG PRP IN VBN NNS IN PRP$ NN VBN TO DT DT JJ NN .</POS>
+		<Lemma>but I like the taste and feel good about eat the bread -lrb- on a psychological level -rrb- , so I continue eat it in measure dose until my stomach adjust to all that good nutrition .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>One caveat : I have found that adding the apple cider vinegar that the recipe calls for adds nothing to the taste and makes my kitchen smell , so I just leave it out .</Tokens>
+		<POS>CD NN : PRP VBP VBN IN VBG DT NN NN NN IN DT NN VBZ IN VBZ NN TO DT NN CC VBZ PRP$ NN NN , IN PRP RB VBP PRP RP .</POS>
+		<Lemma>one caveat : I have find that add the apple cider vinegar that the recipe call for add nothing to the taste and make my kitchen smell , so I just leave it out .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Trust me !</Tokens>
+		<POS>NNP PRP .</POS>
+		<Lemma>Trust I !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It works great without it .</Tokens>
+		<POS>PRP VBZ JJ IN PRP .</POS>
+		<Lemma>it work great without it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I make this bread twice a week and everyone who so much as wanders into my house eats it and loves it .</Tokens>
+		<POS>PRP VBP DT NN RB DT NN CC NN WP RB RB IN NNS IN PRP$ NN VBZ PRP CC VBZ PRP .</POS>
+		<Lemma>I make this bread twice a week and everyone who so much as wander into my house eat it and love it .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>No one comments on the fact that it 's gluten-free .</Tokens>
+		<POS>DT NN NNS IN DT NN IN PRP VBZ JJ .</POS>
+		<Lemma>no one comment on the fact that it be gluten-free .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>They 're just excited that I have fresh healthy bread that they like .</Tokens>
+		<POS>PRP VBP RB VBN IN PRP VBP JJ JJ NN IN PRP VBP .</POS>
+		<Lemma>they be just excite that I have fresh healthy bread that they like .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Added bonus : You can leave it in a container on the counter for the several days of its life span -LRB- no preservatives ! -RRB-</Tokens>
+		<POS>VBN NN : PRP MD VB PRP IN DT NN IN DT NN IN DT JJ NNS IN PRP$ NN NN -LRB- DT NNS . -RRB-</POS>
+		<Lemma>add bonus : you can leave it in a container on the counter for the several day of its life span -lrb- no preservative ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>and it tastes good the whole time .</Tokens>
+		<POS>CC PRP VBZ JJ DT JJ NN .</POS>
+		<Lemma>and it taste good the whole time .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Not like other gluten-free bread that you could drive a nail with on day two .</Tokens>
+		<POS>RB IN JJ JJ NN IN PRP MD VB DT NN IN IN NN CD .</POS>
+		<Lemma>not like other gluten-free bread that you could drive a nail with on day two .</Lemma>
+	</Sentence>
+</Document>

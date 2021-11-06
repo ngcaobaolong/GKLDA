@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased two of these monitors for a dual monitor set up .</Tokens>
+		<POS>VBN CD IN DT NNS IN DT JJ NN VBN RP .</POS>
+		<Lemma>purchase two of these monitor for a dual monitor set up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Both work very well .</Tokens>
+		<POS>DT NN RB RB .</POS>
+		<Lemma>both work very well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Other reviewers commented on the significant quality difference between VGA and DVI , but I can see no difference between the two input qualities , and mine are right next to each other .</Tokens>
+		<POS>JJ NNS VBD IN DT JJ NN NN IN NNP CC NNP , CC PRP MD VB DT NN IN DT CD NN NNS , CC NN VBP JJ JJ TO DT JJ .</POS>
+		<Lemma>other reviewer comment on the significant quality difference between VGA and DVI , but I can see no difference between the two input quality , and mine be right next to each other .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only issue that I can see is that if your desk is a tiny bit wobbly , the monitors shake a tiny bit ; cheap bases .</Tokens>
+		<POS>DT JJ NN IN PRP MD VB VBZ IN IN PRP$ NN VBZ DT JJ NN JJ , DT NNS VBP DT JJ NN : JJ NNS .</POS>
+		<Lemma>the only issue that I can see be that if you desk be a tiny bit wobbly , the monitor shake a tiny bit ; cheap basis .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The buttons being on the bottom are also somewhat of a pain , but if you 're like me and do n't change the settings often , that makes no difference .</Tokens>
+		<POS>DT NNS VBG IN DT NN VBP RB RB IN DT NN , CC IN PRP VBP IN PRP CC VBP RB VB DT NNS RB , WDT VBZ DT NN .</POS>
+		<Lemma>the button be on the bottom be also somewhat of a pain , but if you be like I and do not change the setting often , that make no difference .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Also , they were shipped in their original boxes , which I thought was kind of cheap .</Tokens>
+		<POS>RB , PRP VBD VBN IN PRP$ JJ NNS , WDT PRP VBD VBD NN IN JJ .</POS>
+		<Lemma>also , they be ship in they original box , which I think be kind of cheap .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You 'd think they 'd put them in another box , just to protect from being thrown around while en route .</Tokens>
+		<POS>PRP MD VB PRP MD VB PRP IN DT NN , RB TO VB IN VBG VBN IN IN IN NN .</POS>
+		<Lemma>you would think they would put they in another box , just to protect from be throw around while en route .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My wife is a lifelong weightwatcher .</Tokens>
+		<POS>PRP$ NN VBZ DT JJ NN .</POS>
+		<Lemma>my wife be a lifelong weightwatcher .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She has been at her ideal weight for some time now , but she still calculates Weightwatcher ` points ' for all of the food she eats .</Tokens>
+		<POS>PRP VBZ VBN IN PRP$ JJ NN IN DT NN RB , CC PRP RB VBZ NNP `` NNS '' IN DT IN DT NN PRP VBZ .</POS>
+		<Lemma>she have be at she ideal weight for some time now , but she still calculate Weightwatcher ` point ' for all of the food she eat .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Popcorn is her snack of choice , and she loves Jolly Time single serving mini-bags .</Tokens>
+		<POS>NN VBZ PRP$ NN IN NN , CC PRP VBZ JJ NNP JJ VBG NNS .</POS>
+		<Lemma>popcorn be she snack of choice , and she love jolly Time single serve mini-bag .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>These are easy to add up into her total amount of points for the day because the points -LRB- just 1 per bag -RRB- are marked right on the box .</Tokens>
+		<POS>DT VBP JJ TO VB RP IN PRP$ JJ NN IN NNS IN DT NN IN DT NNS -LRB- RB CD IN NN -RRB- VBP JJ NN IN DT NN .</POS>
+		<Lemma>these be easy to add up into she total amount of point for the day because the point -lrb- just 1 per bag -rrb- be marked right on the box .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Buying by the case of 60 bags from Amazon is an easy and economical way to have plenty on hand .</Tokens>
+		<POS>VBG IN DT NN IN CD NNS IN NNP VBZ DT JJ CC JJ NN TO VB NN IN NN .</POS>
+		<Lemma>buy by the case of 60 bag from Amazon be a easy and economical way to have plenty on hand .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The case we received had 15 months until the expiration date ... plenty of time to eat it all and go back for more .</Tokens>
+		<POS>DT NN PRP VBD VBD CD NNS IN DT NN NN : NN IN NN TO VB PRP DT CC VB RB IN JJR .</POS>
+		<Lemma>the case we receive have 15 month until the expiration date ... plenty of time to eat it all and go back for more .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>OK , late 2011 and Weight Watchers changed their ` points ' system .</Tokens>
+		<POS>UH , JJ CD CC NNP NNPS VBD PRP$ `` NNS POS NN .</POS>
+		<Lemma>ok , late 2011 and Weight Watchers change they ` point ' system .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This popcorn is no longer rated at 1 point .</Tokens>
+		<POS>DT NN VBZ RB RB VBN IN CD NN .</POS>
+		<Lemma>this popcorn be no longer rate at 1 point .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Same great popcorn , different rating -LRB- 3 - I think -RRB- ... still the best deal going</Tokens>
+		<POS>JJ JJ NN , JJ NN -LRB- CD : PRP VBP -RRB- : RB DT JJS NN VBG</POS>
+		<Lemma>same great popcorn , different rating -lrb- 3 - I think -rrb- ... still the best deal go</Lemma>
+	</Sentence>
+</Document>

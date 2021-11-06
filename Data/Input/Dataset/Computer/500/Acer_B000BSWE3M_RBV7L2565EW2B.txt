@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After all was said and done , I paid about -LRB- ... -RRB- for this monitor -LRB- an Amazon Weekend Sale coupled with a -LRB- ... -RRB- rebate -RRB- .</Tokens>
+		<POS>IN DT VBD VBN CC VBN , PRP VBD RB -LRB- : -RRB- IN DT NN -LRB- DT NNP NNP NNP VBN IN DT -LRB- : -RRB- NN -RRB- .</POS>
+		<Lemma>after all be say and do , I pay about -lrb- ... -rrb- for this monitor -lrb- a Amazon Weekend Sale couple with a -lrb- ... -rrb- rebate -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A lot of bang for the buck !!</Tokens>
+		<POS>DT NN IN NN IN DT NN NN</POS>
+		<Lemma>a lot of bang for the buck !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Only had one `` stuck '' pixel , at the extreme top of the screen .</Tokens>
+		<POS>RB VBD CD `` VBD '' NN , IN DT JJ NN IN DT NN .</POS>
+		<Lemma>only have one `` stick '' pixel , at the extreme top of the screen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Certainly not objectionable , and less than the number expected with many LCD screens .</Tokens>
+		<POS>RB RB JJ , CC JJR IN DT NN VBN IN JJ NNS NNS .</POS>
+		<Lemma>certainly not objectionable , and less than the number expect with many lcd screen .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>A great value when you consider that Dell wants at least $ 375 for the same size monitor .</Tokens>
+		<POS>DT JJ NN WRB PRP VBP DT NNP VBZ IN JJS $ CD IN DT JJ NN NN .</POS>
+		<Lemma>a great value when you consider that Dell want at least $ 375 for the same size monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Arrived about 4 days earlier than predicted , too .</Tokens>
+		<POS>VBN IN CD NNS JJR IN VBN , RB .</POS>
+		<Lemma>arrive about 4 day earlier than predict , too .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Very happy with this purchase .</Tokens>
+		<POS>RB JJ IN DT NN .</POS>
+		<Lemma>very happy with this purchase .</Lemma>
+	</Sentence>
+</Document>

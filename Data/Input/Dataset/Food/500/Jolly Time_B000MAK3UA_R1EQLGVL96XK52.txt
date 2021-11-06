@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this is an ideal snack .</Tokens>
+		<POS>DT VBZ DT JJ NN .</POS>
+		<Lemma>this be a ideal snack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>high in fiber , low in calories , and fat .</Tokens>
+		<POS>JJ IN NN , JJ IN NNS , CC NN .</POS>
+		<Lemma>high in fiber , low in calorie , and fat .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Excellent snack to have anytime or especially at night as my night meal is the smallest .</Tokens>
+		<POS>JJ NN TO VB RB CC RB IN NN IN PRP$ NN NN VBZ DT JJS .</POS>
+		<Lemma>excellent snack to have anytime or especially at night as my night meal be the smallest .</Lemma>
+	</Sentence>
+</Document>

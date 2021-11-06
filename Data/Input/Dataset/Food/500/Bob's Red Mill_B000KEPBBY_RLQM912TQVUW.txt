@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I must admit that I did n't read enough to know what this soup would be like .</Tokens>
+		<POS>PRP MD VB IN PRP VBD RB VB RB TO VB WP DT NN MD VB IN .</POS>
+		<Lemma>I must admit that I do not read enough to know what this soup would be like .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What I mean is that I did n't really go through the product description as closely as I should have .</Tokens>
+		<POS>WP PRP VBP VBZ IN PRP VBD RB RB VB IN DT NN NN IN RB IN PRP MD VB .</POS>
+		<Lemma>what I mean be that I do not really go through the product description as closely as I should have .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I expected this to have a lot of dehydrated veggies in it , but alas -- no such luck !</Tokens>
+		<POS>PRP VBD DT TO VB DT NN IN JJ NNS IN PRP , CC UH : DT JJ NN .</POS>
+		<Lemma>I expect this to have a lot of dehydrated veggy in it , but alas -- no such luck !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>That , however , is my deal , not the manufacturers .</Tokens>
+		<POS>DT , RB , VBZ PRP$ NN , RB DT NNS .</POS>
+		<Lemma>that , however , be my deal , not the manufacturer .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This soup is mostly lentils , peas , and veggie pasta .</Tokens>
+		<POS>DT NN VBZ RB NNS , NNS , CC NN NN .</POS>
+		<Lemma>this soup be mostly lentil , pea , and veggie pasta .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Not a terrible combo , really .</Tokens>
+		<POS>RB DT JJ NN , RB .</POS>
+		<Lemma>not a terrible combo , really .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In fact , it 's pretty delicious .</Tokens>
+		<POS>IN NN , PRP VBZ RB JJ .</POS>
+		<Lemma>in fact , it be pretty delicious .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>When I saw the first bag I pulled out of the box , I thought , `` oh , no. .</Tokens>
+		<POS>WRB PRP VBD DT JJ NN PRP VBD RB IN DT NN , PRP VBD , `` UH , RB .</POS>
+		<Lemma>when I see the first bag I pull out of the box , I think , `` oh , no. .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 'm going to have to WORK to make this soup taste good . ''</Tokens>
+		<POS>PRP VBP VBG TO VB TO VB TO VB DT NN NN JJ . ''</POS>
+		<Lemma>I be go to have to work to make this soup taste good . ''</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I was wrong .</Tokens>
+		<POS>PRP VBD JJ .</POS>
+		<Lemma>I be wrong .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Last night , I opened the first bag up and made a delicous soup with just the ingredients in the bag , some chopped garlic , some leftover sauteed chicken , and a chopped tomato .</Tokens>
+		<POS>JJ NN , PRP VBD DT JJ NN RB CC VBD DT JJ NN IN RB DT NNS IN DT NN , DT VBN NN , DT JJR NN NN , CC DT VBN NN .</POS>
+		<Lemma>last night , I open the first bag up and make a delicous soup with just the ingredient in the bag , some chop garlic , some leftover sauteed chicken , and a chop tomato .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Talk about yummy !</Tokens>
+		<POS>NN IN JJ .</POS>
+		<Lemma>talk about yummy !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It was hearty , `` clean '' tasting soup .</Tokens>
+		<POS>PRP VBD JJ , `` JJ '' NN NN .</POS>
+		<Lemma>it be hearty , `` clean '' tasting soup .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>By that I mean that the flavors did n't glom up and become one huge mess .</Tokens>
+		<POS>IN DT PRP VBP IN DT NNS VBD RB VB RB CC VB CD JJ NN .</POS>
+		<Lemma>by that I mean that the flavor do not glom up and become one huge mess .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I could taste the lentils , the barley , the peas .</Tokens>
+		<POS>PRP MD VB DT NNS , DT NN , DT NNS .</POS>
+		<Lemma>I could taste the lentil , the barley , the pea .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>And the chicken , which I used very little of , was enough to flavor the broth a bit .</Tokens>
+		<POS>CC DT NN , WDT PRP VBD RB JJ IN , VBD RB TO NN DT NN DT NN .</POS>
+		<Lemma>and the chicken , which I use very little of , be enough to flavor the broth a bit .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It was really the one tomato and the garlic that made everything come together , so my advice to you is to go crazy with what you add .</Tokens>
+		<POS>PRP VBD RB DT CD NN CC DT NN WDT VBD NN VBN RB , IN PRP$ NN TO PRP VBZ TO VB JJ IN WP PRP VBP .</POS>
+		<Lemma>it be really the one tomato and the garlic that make everything come together , so my advice to you be to go crazy with what you add .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>My next batch will be made with onion\/veggie stock and zucchini , carrots , and a bit of chopped spinach .</Tokens>
+		<POS>PRP$ JJ NN MD VB VBN IN JJ NN CC NNS , NNS , CC DT NN IN VBN NN .</POS>
+		<Lemma>my next batch will be make with onion\/veggie stock and zucchini , carrot , and a bit of chop spinach .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I ca n't wait !</Tokens>
+		<POS>PRP MD RB VB .</POS>
+		<Lemma>I can not wait !</Lemma>
+	</Sentence>
+</Document>

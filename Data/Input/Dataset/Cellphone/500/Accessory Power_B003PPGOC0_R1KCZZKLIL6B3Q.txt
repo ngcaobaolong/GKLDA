@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Free yourself from tangled cords in the car and get the GoFlex .</Tokens>
+		<POS>NNP PRP IN JJ NNS IN DT NN CC VB DT NNP .</POS>
+		<Lemma>Free yourself from tangled cord in the car and get the GoFlex .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You wo n't regret it .</Tokens>
+		<POS>PRP MD RB VB PRP .</POS>
+		<Lemma>you will not regret it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm probably getting a second one for my other car .</Tokens>
+		<POS>PRP VBP RB VBG DT JJ CD IN PRP$ JJ NN .</POS>
+		<Lemma>I be probably get a second one for my other car .</Lemma>
+	</Sentence>
+</Document>

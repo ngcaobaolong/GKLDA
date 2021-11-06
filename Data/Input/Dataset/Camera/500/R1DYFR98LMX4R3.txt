@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really liked my first waterproof compact camera -- the Pentax Optio W10 .</Tokens>
+		<POS>PRP RB VBD PRP$ JJ JJ JJ NN : DT NNP NNP NNP .</POS>
+		<Lemma>I really like my first waterproof compact camera -- the Pentax Optio W10 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Took decent pictures and waterproof ... great for snapping pictures of my kids in and around the water .</Tokens>
+		<POS>VBD JJ NNS CC JJ : JJ IN VBG NNS IN PRP$ NNS IN CC IN DT NN .</POS>
+		<Lemma>take decent picture and waterproof ... great for snap picture of my kid in and around the water .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also bought the Optio W30 and W60 , hoping that the updated models would be much better than the previous .</Tokens>
+		<POS>RB VBN DT NNP NN CC NN , VBG IN DT VBN NNS MD VB RB JJR IN DT JJ .</POS>
+		<Lemma>also buy the Optio w30 and w60 , hope that the update model would be much better than the previous .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unfortunately , the picture quality seems to get worse with each newer model .</Tokens>
+		<POS>RB , DT NN NN VBZ TO VB JJR IN DT JJR NN .</POS>
+		<Lemma>unfortunately , the picture quality seem to get worse with each newer model .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Bummer .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>bummer .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Got the Canon D10 ... I like the pictures from the D10 better than the Pentax , used D10 as primary and the W60 as backup .</Tokens>
+		<POS>VBD DT NNP NN : PRP VBP DT NNS IN DT NN JJR IN DT NNP , VBD NN IN JJ CC DT NN IN NN .</POS>
+		<Lemma>get the Canon d10 ... I like the picture from the d10 better than the Pentax , use d10 as primary and the w60 as backup .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>D10 is bulky and focusing is rather slow , but the jpeg colors are nicer than the Pentax .</Tokens>
+		<POS>NN VBZ JJ CC VBG VBZ RB JJ , CC DT NN NNS VBP JJR IN DT NNP .</POS>
+		<Lemma>d10 be bulky and focus be rather slow , but the jpeg color be nicer than the Pentax .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Got the Sony DCS-TX10 last week , have not tried under water yet but have the following observations : Positives : - Much quicker focusing than D10 - Wide angle starts at 25mm vs 35mm for D10 - Awesome HD movie mode with zoom support and stereo sound - Good punchy pictures with accurate colors - Very compact - Image stabilization very good - Sweep panorama is useful and fun - Sliding cover protects lens Negatives : - It takes a few seconds from power on until first shot - Takes 5-7 seconds to start recording a movie if not in movie mode -- This is very annoying , maybe it can be fixed via future firmware update ?</Tokens>
+		<POS>VBD DT NNP NNP JJ NN , VBP RB VBN IN NN RB CC VBP DT VBG NNS : NNS : : JJ JJR VBG IN NN : NN NN VBZ IN CD CC CD IN NN : JJ NN NN NN IN NN NN CC NN NN : JJ JJ NNS IN JJ NNS : RB JJ : NN NN RB JJ : NN NN VBZ JJ CC NN : VBG NN VBZ NN NNS : : PRP VBZ DT JJ NNS IN NN IN IN JJ NN : VBZ CD NNS TO VB VBG DT NN IN RB IN NN NN : DT VBZ RB JJ , RB PRP MD VB VBN IN JJ NN VB .</POS>
+		<Lemma>get the Sony DCS-TX10 last week , have not try under water yet but have the follow observation : positive : - much quicker focus than d10 - wide angle start at 25mm vs 35mm for d10 - awesome hd movie mode with zoom support and stereo sound - good punchy picture with accurate color - very compact - image stabilization very good - sweep panorama be useful and fun - slide cover protect lens negative : - it take a few seconds from power on until first shot - take 5-7 seconds to start record a movie if not in movie mode -- this be very annoying , maybe it can be fix via future firmware update ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>- Not too crazy about the touch screen interface - Battery does n't seem to last very long -LRB- about same as D10 -RRB- - Water proof to 5m versus 10m for D10 - Playing back pictures seems a little sluggish There is no separate battery charger , it is charged inside the camera via a USB cable , like an iPod\/iPhone .</Tokens>
+		<POS>: RB RB JJ IN DT NN NN NN : NN VBZ RB VB TO JJ RB RB -LRB- IN JJ IN NN -RRB- : NN NN TO JJ CC NN IN NN : VBG RB NNS VBZ DT JJ JJ EX VBZ DT JJ NN NN , PRP VBZ VBN IN DT NN IN DT JJ NN , IN DT NN .</POS>
+		<Lemma>- not too crazy about the touch screen interface - battery do not seem to last very long -lrb- about same as d10 -rrb- - water proof to 5m versus 10m for d10 - play back picture seem a little sluggish there be no separate battery charger , it be charge inside the camera via a usb cable , like a ipod\/iphone .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I prefer to have a separate charger so that I can charge a spare battery while still using the camera , but I guess others might prefer just charging from a USB port .</Tokens>
+		<POS>PRP VBP TO VB DT JJ NN IN IN PRP MD VB DT JJ NN IN RB VBG DT NN , CC PRP VBP NNS MD VB RB VBG IN DT JJ NN .</POS>
+		<Lemma>I prefer to have a separate charger so that I can charge a spare battery while still use the camera , but I guess other might prefer just charge from a usb port .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Just to be clear , it does come with a charger plug -LRB- like an iPhone -RRB- so you can charge from a wall socket as well .</Tokens>
+		<POS>RB TO VB JJ , PRP VBZ VB IN DT NN NN -LRB- IN DT NNP -RRB- IN PRP MD VB IN DT NN NN RB RB .</POS>
+		<Lemma>just to be clear , it do come with a charger plug -lrb- like a iPhone -rrb- so you can charge from a wall socket as well .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>But no standalone charger .</Tokens>
+		<POS>CC DT JJ NN .</POS>
+		<Lemma>but no standalone charger .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Bought this battery and charger kit from Amazon : Wasabi Power Battery and Charger Kit for Sony Cyber-shot NP-BN1 , DSC-T99 , DSC-TX5 , DSC ... I 've not taken it in the water yet ... so unless this camera dies on me after hitting the water or does something really unexpected , I would say this is the best waterproof compact that I have owned and would highly recommend it .</Tokens>
+		<POS>VBN DT NN CC NN NN IN NNP : NNP NNP NNP CC NNP NN IN NNP JJ NN , NN , NN , NNP : PRP VBP RB VBN PRP IN DT NN RB : RB IN DT NN VBZ IN PRP IN VBG DT NN CC VBZ NN RB JJ , PRP MD VB DT VBZ DT JJS JJ NN IN PRP VBP VBN CC MD RB VB PRP .</POS>
+		<Lemma>buy this battery and charger kit from Amazon : Wasabi Power Battery and Charger kit for Sony cyber-shot np-bn1 , dsc-t99 , dsc-tx5 , DSC ... I have not take it in the water yet ... so unless this camera die on I after hit the water or do something really unexpected , I would say this be the best waterproof compact that I have own and would highly recommend it .</Lemma>
+	</Sentence>
+</Document>

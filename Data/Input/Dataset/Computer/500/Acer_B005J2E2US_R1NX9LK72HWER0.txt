@@ -1,0 +1,152 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Overall , if you are just surfing the web , creating documents , watching movies\/videos , etc. , then this will do everything you need .</Tokens>
+		<POS>RB , IN PRP VBP RB VBG DT NN , VBG NNS , VBG NNS , FW , RB DT MD VB NN PRP VBP .</POS>
+		<Lemma>overall , if you be just surf the web , create document , watch movies\/videos , etc. , then this will do everything you need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have a 10.1 '' Acer Aspire One , and I love it .</Tokens>
+		<POS>PRP VBP DT CD '' NNP NNP CD , CC PRP VBP PRP .</POS>
+		<Lemma>I have a 10.1 '' Acer Aspire one , and I love it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have had it for 2 years , and it has been rock solid the entire time .</Tokens>
+		<POS>PRP VBP VBD PRP IN CD NNS , CC PRP VBZ VBN JJ JJ DT JJ NN .</POS>
+		<Lemma>I have have it for 2 year , and it have be rock solid the entire time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After using some 11-12 '' netbooks at work , I realized that they offered several advantages - a larger screen & resolution , a full-size keyboard , and the power to view HD video and handle other graphically intensive tasks .</Tokens>
+		<POS>IN VBG DT CD '' NNS IN NN , PRP VBD IN PRP VBD JJ NNS : DT JJR NN CC NN , DT JJ NN , CC DT NN TO VB NN NN CC VB JJ RB JJ NNS .</POS>
+		<Lemma>after use some 11-12 '' netbook at work , I realize that they offer several advantage - a larger screen & resolution , a full-size keyboard , and the power to view hd video and handle other graphically intensive task .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I generally do n't like replacing technology that works great as it is , but I got a little greedy here .</Tokens>
+		<POS>PRP RB VBP RB VB VBG NN WDT VBZ JJ IN PRP VBZ , CC PRP VBD DT JJ JJ RB .</POS>
+		<Lemma>I generally do not like replace technology that work great as it be , but I get a little greedy here .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I use my netbook a lot every day between law school and a couple of jobs I have , so even though the improvements over the 10.1 '' Acer may not seem like a lot to some people , I really appreciate them .</Tokens>
+		<POS>PRP VBP PRP$ NN DT NN DT NN IN NN NN CC DT NN IN NNS PRP VBP , RB RB IN DT NNS IN DT CD '' NNP MD RB VB IN DT NN TO DT NNS , PRP RB VBP PRP .</POS>
+		<Lemma>I use my netbook a lot every day between law school and a couple of job I have , so even though the improvement over the 10.1 '' Acer may not seem like a lot to some people , I really appreciate they .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I purchased this , I upgraded to 4 GB of RAM .</Tokens>
+		<POS>WRB PRP VBD DT , PRP VBD TO CD NN IN NNP .</POS>
+		<Lemma>when I purchase this , I upgrade to 4 gb of RAM .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For $ 20 , this is pretty much a no-brainer .</Tokens>
+		<POS>IN $ CD , DT VBZ RB RB DT NN .</POS>
+		<Lemma>for $ 20 , this be pretty much a no-brainer .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It shipped with my netbook , so I got both at the same time .</Tokens>
+		<POS>PRP VBD IN PRP$ NN , IN PRP VBD CC IN DT JJ NN .</POS>
+		<Lemma>it ship with my netbook , so I get both at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>However , I used it with 2 GB for the first few days , and everything worked smoothly .</Tokens>
+		<POS>RB , PRP VBD PRP IN CD NN IN DT JJ JJ NNS , CC NN VBD RB .</POS>
+		<Lemma>however , I use it with 2 gb for the first few day , and everything work smoothly .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would n't say the 4 GB was necessary at all , but it 's nice to have .</Tokens>
+		<POS>PRP MD RB VB DT CD NN VBD JJ IN DT , CC PRP VBZ JJ TO VB .</POS>
+		<Lemma>I would not say the 4 gb be necessary at all , but it be nice to have .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>There is not much to add positively beyond the product description - this computer does exactly what it says it will do .</Tokens>
+		<POS>EX VBZ RB JJ TO VB RB IN DT NN NN : DT NN VBZ RB WP PRP VBZ PRP MD VB .</POS>
+		<Lemma>there be not much to add positively beyond the product description - this computer do exactly what it say it will do .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>This is not a gaming computer , nor one for other similarly complicated tasks .</Tokens>
+		<POS>DT VBZ RB DT NN NN , CC CD IN JJ RB VBN NNS .</POS>
+		<Lemma>this be not a gaming computer , nor one for other similarly complicate task .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It does , however , work marvelously for browsing the internet and creating\/viewing documents .</Tokens>
+		<POS>PRP VBZ , RB , NN RB IN VBG DT NN CC VBG NNS .</POS>
+		<Lemma>it do , however , work marvelously for browse the internet and creating\/viewing document .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I use Office 2010 -LRB- primarily Word and OneNote -RRB- , and it works great .</Tokens>
+		<POS>PRP VBP NNP CD -LRB- RB NN CC NN -RRB- , CC PRP VBZ JJ .</POS>
+		<Lemma>I use Office 2010 -lrb- primarily word and onenote -rrb- , and it work great .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Watching HD video is smooth , and the HDMI port is a great feature .</Tokens>
+		<POS>VBG NN NN VBZ JJ , CC DT NNP NN VBZ DT JJ NN .</POS>
+		<Lemma>watch hd video be smooth , and the HDMI port be a great feature .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It does everything a student needs from a laptop for a very low price .</Tokens>
+		<POS>PRP VBZ NN DT NN VBZ IN DT NN IN DT RB JJ NN .</POS>
+		<Lemma>it do everything a student need from a laptop for a very low price .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I 'm not a fan of the back of the lid - it 's a fingerprint magnet , but that is not a huge deal to me .</Tokens>
+		<POS>PRP VBP RB DT NN IN DT NN IN DT NN : PRP VBZ DT NN NN , CC DT VBZ RB DT JJ NN TO PRP .</POS>
+		<Lemma>I be not a fan of the back of the lid - it be a fingerprint magnet , but that be not a huge deal to I .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I also am not too fond of the feel of the keyboard , but I type very quickly and accurately on it , so I ca n't really complain about that .</Tokens>
+		<POS>PRP RB VBP RB RB JJ IN DT NN IN DT NN , CC PRP NN RB RB CC RB IN PRP , IN PRP MD RB RB VB IN DT .</POS>
+		<Lemma>I also be not too fond of the feel of the keyboard , but I type very quickly and accurately on it , so I can not really complain about that .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Screen size and keyboard size\/layout are two things anyone looking for a netbook\/laptop should try out in person first .</Tokens>
+		<POS>NN NN CC NN NN VBP CD NNS NN VBG IN DT NN MD VB RP IN NN RB .</POS>
+		<Lemma>screen size and keyboard size\/layout be two thing anyone look for a netbook\/laptop should try out in person first .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Go to a large electronics store and try a few to see what you like and what you can tolerate .</Tokens>
+		<POS>VB TO DT JJ NNS NN CC VB DT JJ TO VB WP PRP VBP CC WP PRP MD VB .</POS>
+		<Lemma>go to a large electronics store and try a few to see what you like and what you can tolerate .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>The battery life has been good - around 6 hours most of the time , and I do n't do anything to conserve battery life beyond dimming the screen a bit .</Tokens>
+		<POS>DT NN NN VBZ VBN JJ : IN CD NNS JJS IN DT NN , CC PRP VBP RB VB NN TO VB NN NN IN VBG DT NN DT NN .</POS>
+		<Lemma>the battery life have be good - around 6 hour most of the time , and I do not do anything to conserve battery life beyond dim the screen a bit .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>It was also very easy to replace the RAM .</Tokens>
+		<POS>PRP VBD RB RB JJ TO VB DT NNP .</POS>
+		<Lemma>it be also very easy to replace the RAM .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>You only have to remove one screw on the bottom of the laptop to have access to the memory , hard drive , etc. .</Tokens>
+		<POS>PRP RB VBP TO VB CD NN IN DT NN IN DT NN TO VB NN TO DT NN , JJ NN , FW .</POS>
+		<Lemma>you only have to remove one screw on the bottom of the laptop to have access to the memory , hard drive , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Make sure to use the appropriately sized screw driver in order to not strip the screw .</Tokens>
+		<POS>NNP JJ TO VB DT RB VBN NN NN IN NN TO RB VB DT NN .</POS>
+		<Lemma>Make sure to use the appropriately size screw driver in order to not strip the screw .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>You can get a package of tiny screwdrivers from Target\/Wal-Mart for just a few dollars .</Tokens>
+		<POS>PRP MD VB DT NN IN JJ NNS IN NN IN RB DT JJ NNS .</POS>
+		<Lemma>you can get a package of tiny screwdriver from target\/wal-mart for just a few dollar .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>This netbook does everything most people need from a laptop for a great price .</Tokens>
+		<POS>DT NN VBZ NN JJS NNS VBP IN DT NN IN DT JJ NN .</POS>
+		<Lemma>this netbook do everything most people need from a laptop for a great price .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>It 's an excellent combination of performance , size , weight , battery life , comfort , and value .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN NN , NN , NN , NN NN , NN , CC NN .</POS>
+		<Lemma>it be a excellent combination of performance , size , weight , battery life , comfort , and value .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>I got mine through Amazon , but certainly shop around .</Tokens>
+		<POS>PRP VBD PRP IN NNP , CC RB NN RP .</POS>
+		<Lemma>I get mine through Amazon , but certainly shop around .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Target had these on a pre-Black Friday sale for $ 199 .</Tokens>
+		<POS>NN VBD DT IN DT JJ NNP NN IN $ CD .</POS>
+		<Lemma>target have these on a pre-black Friday sale for $ 199 .</Lemma>
+	</Sentence>
+</Document>

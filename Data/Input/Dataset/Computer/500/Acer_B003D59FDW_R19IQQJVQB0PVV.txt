@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I picked out the Acer 19 '' widescreen monitor as a birthday gift for myself with my wife and three sons all going in together to pay for it .</Tokens>
+		<POS>PRP VBD RP DT NNP CD '' NNS VBP IN DT NN NN IN PRP IN PRP$ NN CC CD NNS DT VBG IN RB TO VB IN PRP .</POS>
+		<Lemma>I pick out the Acer 19 '' widescreen monitor as a birthday gift for myself with my wife and three son all go in together to pay for it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My old 15 '' monitor had served me well through the years , but I could n't believe the dramatic difference in picture clarity .</Tokens>
+		<POS>PRP$ JJ CD '' NN VBD VBN PRP RB IN DT NNS , CC PRP MD RB VB DT JJ NN IN NN NN .</POS>
+		<Lemma>my old 15 '' monitor have serve I well through the year , but I could not believe the dramatic difference in picture clarity .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Next to my electric blanket , this has become a prized possession .</Tokens>
+		<POS>JJ TO PRP$ JJ NN , DT VBZ VBN DT VBN NN .</POS>
+		<Lemma>next to my electric blanket , this have become a prize possession .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am very pleased with this product .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be very pleased with this product .</Lemma>
+	</Sentence>
+</Document>

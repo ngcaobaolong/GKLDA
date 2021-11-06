@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I made just a single bag of this soup mix for my work lunches and added some fresh mixed vegetables , salt , soy sauce , and vinegar -- the soup came out more like a stew -LRB- because I used some starchy veggies -RRB- and I loved the chewy texture the barley added and the creaminess of the split peas .</Tokens>
+		<POS>PRP VBD RB DT JJ NN IN DT NN NN IN PRP$ NN NNS CC VBD DT JJ JJ NNS , NN , NN NN , CC NN : DT NN VBD RP RBR IN DT NN -LRB- IN PRP VBD DT JJ NNS -RRB- CC PRP VBD DT JJ NN DT NN VBD CC DT NN IN DT NN NNS .</POS>
+		<Lemma>I make just a single bag of this soup mix for my work lunch and add some fresh mixed vegetable , salt , soy sauce , and vinegar -- the soup come out more like a stew -lrb- because I use some starchy veggy -rrb- and I love the chewy texture the barley add and the creaminess of the split pea .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I must have gotten at least 2 gallons of soup from this single bag and I 'm still eating it a week later , having frozen some of it .</Tokens>
+		<POS>PRP MD VB VBN IN JJS CD NNS IN NN IN DT JJ NN CC PRP VBP RB VBG PRP DT NN RB , VBG VBN DT IN PRP .</POS>
+		<Lemma>I must have get at least 2 gallon of soup from this single bag and I be still eat it a week later , have freeze some of it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very frugal and healthy !</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>very frugal and healthy !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Take a normal sized waffle , soak it in honey , smush it till it 's 1\/8th its original size and you wind up with this .</Tokens>
+		<POS>VB DT JJ VBN NN , VB PRP IN NN , VBP PRP IN PRP VBZ JJ PRP$ JJ NN CC PRP VBP RP IN DT .</POS>
+		<Lemma>take a normal size waffle , soak it in honey , smush it till it be 1\/8th its original size and you wind up with this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Honey tastes good which explains all the rave reviews .</Tokens>
+		<POS>NNP NNS JJ WDT VBZ PDT DT VBP NNS .</POS>
+		<Lemma>Honey taste good which explain all the rave review .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sure it gives an energy boost , so does raw sugar , no surprise there .</Tokens>
+		<POS>JJ PRP VBZ DT NN NN , RB VBZ JJ NN , DT NN RB .</POS>
+		<Lemma>sure it give a energy boost , so do raw sugar , no surprise there .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As others have said , it 's a bit crumbly and falls apart easily .</Tokens>
+		<POS>IN NNS VBP VBN , PRP VBZ DT NN JJ CC VBZ RB RB .</POS>
+		<Lemma>as other have say , it be a bit crumbly and fall apart easily .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>All in all , organic carbs are still just carbs and this did n't live up to the hype .</Tokens>
+		<POS>DT IN DT , JJ NNS VBP RB RB NNS CC DT VBD RB VB RP TO DT NN .</POS>
+		<Lemma>all in all , organic carb be still just carb and this do not live up to the hype .</Lemma>
+	</Sentence>
+</Document>

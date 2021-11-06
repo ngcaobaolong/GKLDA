@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love Bob 's Red Mill products and was happy to see a whole grain gluten-free bread mix , but if you do n't like caraway seeds , this is not the mix for you .</Tokens>
+		<POS>PRP VBP NNP POS NNP NNP NNS CC VBD JJ TO VB DT JJ NN JJ NN NN , CC IN PRP VBP RB VB NN NNS , DT VBZ RB DT NN IN PRP .</POS>
+		<Lemma>I love Bob 's Red Mill product and be happy to see a whole grain gluten-free bread mix , but if you do not like caraway seed , this be not the mix for you .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Even combining this mix with another did n't take away the caraway seed flavor for me .</Tokens>
+		<POS>RB VBG DT NN IN DT VBD RB VB RP DT NN NN NN IN PRP .</POS>
+		<Lemma>even combine this mix with another do not take away the caraway seed flavor for I .</Lemma>
+	</Sentence>
+</Document>

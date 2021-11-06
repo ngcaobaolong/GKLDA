@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>High resolution makes it perfect for photo-shopping - not easy on a wide-angle monitor .</Tokens>
+		<POS>JJ NN VBZ PRP JJ IN NN : RB JJ IN DT JJ NN .</POS>
+		<Lemma>high resolution make it perfect for photo-shopping - not easy on a wide-angle monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Purchase easy , shipping timely , monitor just what we had been looking for .</Tokens>
+		<POS>NN JJ , VBG JJ , VB RB WP PRP VBD VBN VBG IN .</POS>
+		<Lemma>purchase easy , ship timely , monitor just what we have be look for .</Lemma>
+	</Sentence>
+</Document>

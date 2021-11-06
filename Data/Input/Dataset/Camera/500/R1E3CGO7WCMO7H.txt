@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great camera BUT I spend $ $ $ $ replacing AA batteries .</Tokens>
+		<POS>DT VBZ DT JJ NN NN PRP VBP $ $ $ $ VBG NN NNS .</POS>
+		<Lemma>this be a great camera but I spend $ $ $ $ replace aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love Fuji cameras but will never buy another one that does not include rechargeable battery .</Tokens>
+		<POS>PRP VBP NNP NNS CC MD RB VB DT CD WDT VBZ RB VB JJ NN .</POS>
+		<Lemma>I love Fuji camera but will never buy another one that do not include rechargeable battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The camera is a battery suck as it is and will easily go through 6-8 batteries on a vacation weekend .</Tokens>
+		<POS>DT NN VBZ DT NN NN IN PRP VBZ CC MD RB VB IN CD NNS IN DT NN NN .</POS>
+		<Lemma>the camera be a battery suck as it be and will easily go through 6-8 battery on a vacation weekend .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>and that 's if you buy expensive lithium ones .</Tokens>
+		<POS>CC DT VBZ IN PRP VBP JJ NN NNS .</POS>
+		<Lemma>and that be if you buy expensive lithium one .</Lemma>
+	</Sentence>
+</Document>

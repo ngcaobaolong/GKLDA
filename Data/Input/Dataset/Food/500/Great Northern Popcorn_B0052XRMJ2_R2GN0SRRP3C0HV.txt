@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is my second order of this .</Tokens>
+		<POS>DT VBZ PRP$ JJ NN IN DT .</POS>
+		<Lemma>this be my second order of this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought a hot air popper again after years of not having one .</Tokens>
+		<POS>PRP VBD DT JJ NN NN RB IN NNS IN RB VBG CD .</POS>
+		<Lemma>I buy a hot air popper again after year of not have one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wanted to get away from the microwave popcorn .</Tokens>
+		<POS>PRP VBD TO VB RB IN DT NN NN .</POS>
+		<Lemma>I want to get away from the microwave popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Did n't think I could convert the household away from the convenience of those bags but I did without even trying .</Tokens>
+		<POS>VBD RB VB PRP MD VB DT NN RB IN DT NN IN DT NNS CC PRP VBD IN RB VBG .</POS>
+		<Lemma>do not think I could convert the household away from the convenience of those bag but I do without even try .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is great stuff and much better for you !!</Tokens>
+		<POS>DT VBZ JJ NN CC RB JJR IN PRP VBP</POS>
+		<Lemma>this be great stuff and much better for you !!</Lemma>
+	</Sentence>
+</Document>

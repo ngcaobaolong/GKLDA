@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>very nice display , very good quality , the size is just right and the price was great !!!!</Tokens>
+		<POS>RB JJ NN , RB JJ NN , DT NN VBZ RB JJ CC DT NN VBD JJ NN</POS>
+		<Lemma>very nice display , very good quality , the size be just right and the price be great !!!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>THANKS VERY VERY VERY MUCH !</Tokens>
+		<POS>NNS RB RB RB JJ .</POS>
+		<Lemma>thanks very very very much !</Lemma>
+	</Sentence>
+</Document>

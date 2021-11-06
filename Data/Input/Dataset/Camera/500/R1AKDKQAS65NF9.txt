@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had been using a Nikon F100 and wanted to go digital .</Tokens>
+		<POS>PRP VBD VBN VBG DT NNP NN CC VBD TO VB JJ .</POS>
+		<Lemma>I have be use a Nikon f100 and want to go digital .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I could n't afford a new high quality digital and the lenses to go with it , but the Nikon D7000 is reasonably priced and allows me to use the lenses that I already have .</Tokens>
+		<POS>PRP MD RB VB DT JJ JJ NN JJ CC DT NNS TO VB IN PRP , CC DT NNP NN VBZ RB VBN CC VBZ PRP TO VB DT NNS IN PRP RB VBP .</POS>
+		<Lemma>I could not afford a new high quality digital and the lens to go with it , but the Nikon d7000 be reasonably price and allow I to use the lens that I already have .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have been exploring what I can do with the D7000 and have been pleased at every turn .</Tokens>
+		<POS>PRP VBP VBN VBG WP PRP MD VB IN DT NN CC VBP VBN VBN IN DT NN .</POS>
+		<Lemma>I have be explore what I can do with the d7000 and have be please at every turn .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The D7000 is not for the beginning photographer , but it 's certainly perfect for the experienced amateur .</Tokens>
+		<POS>DT NN VBZ RB IN DT VBG NNP , CC PRP VBZ RB JJ IN DT JJ JJ .</POS>
+		<Lemma>the d7000 be not for the begin photographer , but it be certainly perfect for the experienced amateur .</Lemma>
+	</Sentence>
+</Document>

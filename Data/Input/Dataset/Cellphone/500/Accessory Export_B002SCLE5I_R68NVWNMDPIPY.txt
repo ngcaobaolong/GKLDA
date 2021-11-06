@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Honestly I ca n't tell any difference in reception with or without this product .</Tokens>
+		<POS>RB PRP MD RB VB DT NN IN NN IN CC IN DT NN .</POS>
+		<Lemma>honestly I can not tell any difference in reception with or without this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought one to put in my Cell Phone and my Wireless Data Internet Card and no difference .</Tokens>
+		<POS>PRP VBD CD TO VB RP PRP$ NN NN CC PRP$ NNP NNP NNP NNP CC DT NN .</POS>
+		<Lemma>I buy one to put in my cell phone and my Wireless Data Internet Card and no difference .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I think it 's just a gimmick .</Tokens>
+		<POS>PRP VBP PRP VBZ RB DT NN .</POS>
+		<Lemma>I think it be just a gimmick .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would say save your money .</Tokens>
+		<POS>PRP MD VB VB PRP$ NN .</POS>
+		<Lemma>I would say save you money .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I would have rated it no stars but I could n't .</Tokens>
+		<POS>PRP MD VB VBN PRP DT NNS CC PRP MD RB .</POS>
+		<Lemma>I would have rate it no star but I could not .</Lemma>
+	</Sentence>
+</Document>

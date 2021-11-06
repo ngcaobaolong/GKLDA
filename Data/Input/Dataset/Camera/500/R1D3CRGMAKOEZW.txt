@@ -1,0 +1,242 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>You 've undoubtedly read other reviews .</Tokens>
+		<POS>PRP VBP RB VB JJ NNS .</POS>
+		<Lemma>you have undoubtedly read other review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wo n't bore you with that .</Tokens>
+		<POS>PRP MD RB VBD PRP IN DT .</POS>
+		<Lemma>I will not bear you with that .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have played with it for a day now .</Tokens>
+		<POS>PRP VBP VBN IN PRP IN DT NN RB .</POS>
+		<Lemma>I have play with it for a day now .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Here are my impressions that others perhaps have not talked about too much .</Tokens>
+		<POS>RB VBP PRP$ NNS WDT NNS RB VBP RB VBN IN RB JJ .</POS>
+		<Lemma>here be my impression that other perhaps have not talk about too much .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>- The setup is straight forward if you are familiar w \/ home network .</Tokens>
+		<POS>: DT NN VBZ JJ RB IN PRP VBP JJ NN : NN NN .</POS>
+		<Lemma>- the setup be straight forward if you be familiar w \/ home network .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Took me less than an hour to have wireless and DynDNS , my iPad and Droid X all set up to go .</Tokens>
+		<POS>VBD PRP JJR IN DT NN TO VB JJ CC NN , PRP$ NN CC NN NN DT VBN RP TO VB .</POS>
+		<Lemma>take I less than a hour to have wireless and dyndn , my ipad and droid x all set up to go .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>By the way , IP Camera View -LRB- paid version -RRB- is well worth the money for both Android and iPad .</Tokens>
+		<POS>IN DT NN , NNP NNP NNP -LRB- VBN NN -RRB- VBZ RB IN DT NN IN DT NN CC NN .</POS>
+		<Lemma>by the way , IP Camera View -lrb- pay version -rrb- be well worth the money for both android and ipad .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>- The viewing angle is narrow .</Tokens>
+		<POS>: DT VBG NN VBZ JJ .</POS>
+		<Lemma>- the view angle be narrow .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You 'd have to back up quite a bit to get a decent view .</Tokens>
+		<POS>PRP MD VB TO VB RP RB DT NN TO VB DT JJ NN .</POS>
+		<Lemma>you would have to back up quite a bit to get a decent view .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But then the limited resolution works against you there .</Tokens>
+		<POS>CC RB DT JJ NN VBZ IN PRP EX .</POS>
+		<Lemma>but then the limited resolution work against you there .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Plus , a normal size room would not be long enough for you to back away .</Tokens>
+		<POS>NN , DT JJ NN NN MD RB VB RB RB IN PRP TO VB RB .</POS>
+		<Lemma>plus , a normal size room would not be long enough for you to back away .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>- The range of panning is quite good .</Tokens>
+		<POS>: DT NN IN NN VBZ RB JJ .</POS>
+		<Lemma>- the range of panning be quite good .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Almost 360 except for directly behind .</Tokens>
+		<POS>RB CD IN IN RB RB .</POS>
+		<Lemma>almost 360 except for directly behind .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>However , panning speed -LRB- in spite of the improvement from previous version -RRB- is painfully slow .</Tokens>
+		<POS>RB , NN NN -LRB- IN NN IN DT NN IN JJ NN -RRB- VBZ RB JJ .</POS>
+		<Lemma>however , panning speed -lrb- in spite of the improvement from previous version -rrb- be painfully slow .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It takes 2 minutes to pan from one end to the other .</Tokens>
+		<POS>PRP VBZ CD NNS TO VB IN CD NN TO DT JJ .</POS>
+		<Lemma>it take 2 minute to pan from one end to the other .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>That 's slower than watch the second hand sweep across the clock !</Tokens>
+		<POS>DT VBZ JJR IN VB DT JJ NN NN IN DT NN .</POS>
+		<Lemma>that be slower than watch the second hand sweep across the clock !</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>- Software is limited and buggy .</Tokens>
+		<POS>: NNP VBZ JJ CC NN .</POS>
+		<Lemma>- Software be limited and buggy .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Only IE with Active X will give you full functionality .</Tokens>
+		<POS>RB NN IN JJ NN MD VB PRP JJ NN .</POS>
+		<Lemma>only ie with active x will give you full functionality .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Firefox and Chrome will work but without audio and preset positions .</Tokens>
+		<POS>NNP CC NNP MD VB CC IN NN CC JJ NNS .</POS>
+		<Lemma>Firefox and Chrome will work but without audio and preset position .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I 'll upload a few screen shots soon .</Tokens>
+		<POS>PRP MD NN DT JJ NN NNS RB .</POS>
+		<Lemma>I 'll upload a few screen shot soon .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>This not only means non-IE browsers wont get sound , any iPad application will not have sound for you either !</Tokens>
+		<POS>DT RB RB VBZ JJ NNS VBD VB NN , DT NN NN MD RB VB NN IN PRP DT .</POS>
+		<Lemma>this not only mean non-ie browser wont get sound , any ipad application will not have sound for you either !</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>-LRB- EDIT : Actually , on the IE window there are no way to receive and transmit sound ?!</Tokens>
+		<POS>-LRB- NN : RB , IN DT NN NN EX VBP DT NN TO VB CC VB JJ NN</POS>
+		<Lemma>-lrb- edit : actually , on the ie window there be no way to receive and transmit sound ?!</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Am I missing it somewhere ?</Tokens>
+		<POS>VBP PRP VBG PRP RB .</POS>
+		<Lemma>be I miss it somewhere ?</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Someone please tell me otherwise ! -RRB-</Tokens>
+		<POS>NN VB VB PRP RB . -RRB-</POS>
+		<Lemma>someone please tell I otherwise ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>- Power chord is only 4 feet or so .</Tokens>
+		<POS>: NN NN VBZ RB CD NNS CC RB .</POS>
+		<Lemma>- power chord be only 4 foot or so .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Practically useless for any sort of installation except putting it on a table top .</Tokens>
+		<POS>RB JJ IN DT NN IN NN IN VBG PRP IN DT NN NN .</POS>
+		<Lemma>practically useless for any sort of installation except put it on a table top .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>If I keep this unit , I 'll have to rig together an extension for it so I can keep the `` brick '' plug -LRB- similar to that of a cell phone charger -RRB- away from the visible wall .</Tokens>
+		<POS>IN PRP VBP DT NN , PRP MD VB TO NN RB DT NN IN PRP IN PRP MD VB DT `` NN '' NN -LRB- JJ TO DT IN DT NN NN NN -RRB- RB IN DT JJ NN .</POS>
+		<Lemma>if I keep this unit , I 'll have to rig together a extension for it so I can keep the `` brick '' plug -lrb- similar to that of a cell phone charger -rrb- away from the visible wall .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>- Oh , the BIGGEST COMPLAINT I have so far , is that exposure is not automated .</Tokens>
+		<POS>: UH , DT NNP NNP PRP VBP RB RB , VBZ IN NN VBZ RB VBN .</POS>
+		<Lemma>- oh , the BIGGEST COMPLAINT I have so far , be that exposure be not automate .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>In day light , the sun on the wall and light color furniture blinds out the image .</Tokens>
+		<POS>IN NN NN , DT NN IN DT NN CC JJ NN NN NNS IN DT NN .</POS>
+		<Lemma>in day light , the sun on the wall and light color furniture blind out the image .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Your alert snapshots will be useless since you were likely not there to adjust the brightness and contrast for the changing lighting condition throughout the day .</Tokens>
+		<POS>PRP$ JJ NNS MD VB JJ IN PRP VBD JJ RB RB TO VB DT NN CC NN IN DT VBG NN NN IN DT NN .</POS>
+		<Lemma>you alert snapshot will be useless since you be likely not there to adjust the brightness and contrast for the change lighting condition throughout the day .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Same thing with IR at night .</Tokens>
+		<POS>JJ NN IN NN IN NN .</POS>
+		<Lemma>same thing with ir at night .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>You think you have it adjusted nicely , the moment a pet or person comes into view or in front of the camera , it overexposes on the IR and you do n't see any details at all .</Tokens>
+		<POS>PRP VBP PRP VB PRP VBN RB , DT NN DT NN CC NN VBZ IN NN CC IN NN IN DT NN , PRP VBZ IN DT NNP CC PRP VBP RB VB DT NNS IN DT .</POS>
+		<Lemma>you think you have it adjust nicely , the moment a pet or person come into view or in front of the camera , it overexpose on the IR and you do not see any detail at all .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>This is useless as an automated monitor system !!!</Tokens>
+		<POS>DT VBZ JJ IN DT VBN NN NN CD</POS>
+		<Lemma>this be useless as a automate monitor system !!!</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>I may end up returning it just for this reason alone !</Tokens>
+		<POS>PRP MD VB RP VBG PRP RB IN DT NN RB .</POS>
+		<Lemma>I may end up return it just for this reason alone !</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>- The position presets do not work .</Tokens>
+		<POS>: DT NN NNS VBP RB VB .</POS>
+		<Lemma>- the position preset do not work .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>The IE admin panel that sets these simply do not do it .</Tokens>
+		<POS>DT JJ NN NN WDT VBZ DT RB VB RB VB PRP .</POS>
+		<Lemma>the ie admin panel that set these simply do not do it .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>Is it too much to expect a subsequent software update to fix this ?</Tokens>
+		<POS>VBZ PRP RB RB TO VB DT JJ NN VBP TO VB DT .</POS>
+		<Lemma>be it too much to expect a subsequent software update to fix this ?</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>Dunno .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Dunno .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>-LRB- EDIT2 : this works now with a new unit . -RRB-</Tokens>
+		<POS>-LRB- NN : DT VBZ RB IN DT JJ NN . -RRB-</POS>
+		<Lemma>-lrb- edit2 : this work now with a new unit . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>- You can not put it in `` patrol mode '' to pan\/tilt randomly and then expect to take over control if you see something .</Tokens>
+		<POS>: PRP MD RB VB PRP IN `` NN NN '' TO VB RB CC RB VBP TO VB RP NN IN PRP VBP NN .</POS>
+		<Lemma>- you can not put it in `` patrol mode '' to pan\/tilt randomly and then expect to take over control if you see something .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>For that , you 'd have to change the setting which reboots the camera in 30 seconds , and then be able to take over the movement control .</Tokens>
+		<POS>IN DT , PRP MD VB TO VB DT NN WDT VBZ DT NN IN CD NNS , CC RB VB JJ TO VB RP DT NN NN .</POS>
+		<Lemma>for that , you would have to change the setting which reboot the camera in 30 seconds , and then be able to take over the movement control .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>That 's just dumb !!</Tokens>
+		<POS>DT VBZ RB JJ IN</POS>
+		<Lemma>that be just dumb !!</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>I have not decided to keep this or not .</Tokens>
+		<POS>PRP VBP RB VBN TO VB DT CC RB .</POS>
+		<Lemma>I have not decide to keep this or not .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>Will update this post when I do .</Tokens>
+		<POS>MD VB DT NN WRB PRP VBP .</POS>
+		<Lemma>will update this post when I do .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>EDIT : I am returning it .</Tokens>
+		<POS>NNP : PRP VBP VBG PRP .</POS>
+		<Lemma>EDIT : I be return it .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>The low quality picture and the non-self-adjusting brightness\/contrast really kills it for me .</Tokens>
+		<POS>DT JJ NN NN CC DT JJ NN RB VBZ PRP IN PRP .</POS>
+		<Lemma>the low quality picture and the non-self-adjusting brightness\/contrast really kill it for I .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>EDIT2 : It turns out the unit I got might have been defective .</Tokens>
+		<POS>NN : PRP VBZ RP DT NN PRP VBD MD VB VBN JJ .</POS>
+		<Lemma>edit2 : it turn out the unit I get might have be defective .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>I got another one and a few things improved : preset works now , panning speed seems faster now .</Tokens>
+		<POS>PRP VBD DT CD CC DT JJ NNS VBN : JJ NNS RB , NN NN VBZ RBR RB .</POS>
+		<Lemma>I get another one and a few thing improve : preset work now , panning speed seem faster now .</Lemma>
+	</Sentence>
+</Document>

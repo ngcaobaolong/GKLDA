@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wa n't sure about the quality so I was taking a chance .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN IN PRP VBD VBG DT NN .</POS>
+		<Lemma>I wa not sure about the quality so I be take a chance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This time it was a great investment .</Tokens>
+		<POS>DT NN PRP VBD DT JJ NN .</POS>
+		<Lemma>this time it be a great investment .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Really good quality popcorn .</Tokens>
+		<POS>RB JJ NN NN .</POS>
+		<Lemma>really good quality popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Highly recommend .</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+</Document>

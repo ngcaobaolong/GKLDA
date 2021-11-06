@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was originally going to give this camera four stars .</Tokens>
+		<POS>PRP VBD RB VBG TO VB DT NN CD NNS .</POS>
+		<Lemma>I be originally go to give this camera four star .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , after I used it for a couple of months , and , got used to its features , I decided that five stars was more appropriate .</Tokens>
+		<POS>RB , IN PRP VBD PRP IN DT NN IN NNS , CC , VBD VBN TO PRP$ NNS , PRP VBD IN CD NNS VBD RBR JJ .</POS>
+		<Lemma>however , after I use it for a couple of month , and , get use to its feature , I decide that five star be more appropriate .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My first `` point and shoot '' is an ancient SONY DSC T33 -LRB- 5.1 Mp -RRB- I bought about five years ago .</Tokens>
+		<POS>PRP$ JJ `` NN CC NN '' VBZ DT JJ NNP NNP NN -LRB- CD NN -RRB- NN NNP NNP NN CD NN NNP NNP IN NN NNP NNP -LRB- VBZ NNP NNP -RRB- NN PRP VBD RB CD NNS RB .</POS>
+		<Lemma>my first `` point and shoot '' be a ancient SONY DSC t33 -lrb- 5.1 mp -rrb- Sony Cybershot dsct33 5.1 mp Digital Camera with 3x Optical Zoom -lrb- include Docking Station -rrb- I buy about five year ago .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is a little beat up , but , it has worked really well , and , continues to work really well .</Tokens>
+		<POS>PRP VBZ DT JJ NN RB , CC , PRP VBZ VBN RB RB , CC , VBZ TO VB RB RB .</POS>
+		<Lemma>it be a little beat up , but , it have work really well , and , continue to work really well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I love it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I love it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would n't have bought a new camera except I misplaced it for a few months and needed a new one .</Tokens>
+		<POS>PRP MD RB VB VBN DT JJ NN IN PRP VBD PRP IN DT JJ NNS CC VBD DT JJ CD .</POS>
+		<Lemma>I would not have buy a new camera except I misplace it for a few month and need a new one .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This camera DSC-TX10 , provides three times the resolution , and I am really happy with the higher resolution .</Tokens>
+		<POS>DT NN NN , VBZ CD NNS DT NN , CC PRP VBP RB JJ IN DT JJR NN .</POS>
+		<Lemma>this camera dsc-tx10 , provide three time the resolution , and I be really happy with the higher resolution .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's hard to take a bad picture because , with the high resolution , you can electronically crop most photos into award-winning pictures , and the remaining cropped image still has plenty of resolution .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT JJ NN IN , IN DT JJ NN , PRP MD RB VB RBS NNS IN JJ NNS , CC DT VBG VBN NN RB VBZ NN IN NN .</POS>
+		<Lemma>it be hard to take a bad picture because , with the high resolution , you can electronically crop most photo into award-winning picture , and the remain crop image still have plenty of resolution .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This is a camera you can stick in your pocket , and , take with you , all the time .</Tokens>
+		<POS>DT VBZ DT NN PRP MD VB IN PRP$ NN , CC , VB IN PRP , PDT DT NN .</POS>
+		<Lemma>this be a camera you can stick in you pocket , and , take with you , all the time .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It is compact , lightweight , sturdy enough to take jolts , bumps and an occasional fall .</Tokens>
+		<POS>PRP VBZ JJ , JJ , JJ RB TO VB NNS , NNS CC DT JJ NN .</POS>
+		<Lemma>it be compact , lightweight , sturdy enough to take jolt , bump and a occasional fall .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>You can keep it in `` easy mode '' for almost instant `` point and shoots '' , and , it will stay in easy mode until you exit into the more complicated functions .</Tokens>
+		<POS>PRP MD VB PRP IN `` JJ NN '' IN RB JJ `` NN CC VBZ '' , CC , PRP MD VB IN JJ NN IN PRP VBP IN DT RBR JJ NNS .</POS>
+		<Lemma>you can keep it in `` easy mode '' for almost instant `` point and shoot '' , and , it will stay in easy mode until you exit into the more complicated function .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I cherish the simplicity .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I cherish the simplicity .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I have 22 years of education , and , many years of technical experience .</Tokens>
+		<POS>PRP VBP CD NNS IN NN , CC , JJ NNS IN JJ NN .</POS>
+		<Lemma>I have 22 year of education , and , many year of technical experience .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I am no `` technophobe '' .</Tokens>
+		<POS>PRP VBP DT `` NN '' .</POS>
+		<Lemma>I be no `` technophobe '' .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>However , as I mature , I find my life bleeding away and I do n't want to spend it buried in technical manuals for gadgest that are supposed to be enhancing my life , and , giving me more time for important things .</Tokens>
+		<POS>RB , IN PRP VBP , PRP VBP PRP$ NN VBG RB CC PRP VBP RB VB TO VB PRP VBN IN JJ NNS IN NN WDT VBP VBN TO VB VBG PRP$ NN , CC , VBG PRP JJR NN IN JJ NNS .</POS>
+		<Lemma>however , as I mature , I find my life bleed away and I do not want to spend it bury in technical manual for gadgest that be suppose to be enhance my life , and , give I more time for important thing .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>This camera does the job .</Tokens>
+		<POS>DT NN VBZ DT NN .</POS>
+		<Lemma>this camera do the job .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>On our last vacation , I lost my AC adapter for my Droid Incredible .</Tokens>
+		<POS>IN PRP$ JJ NN , PRP VBD PRP$ NN NN IN PRP$ NNP JJ .</POS>
+		<Lemma>on we last vacation , I lose my ac adapter for my Droid incredible .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As I went looking for a replacement -LRB- very careful to make sure I got a rapid charger , operating faster than a normal PC usb -RRB- .</Tokens>
+		<POS>IN PRP VBD VBG IN DT NN -LRB- RB JJ TO VB JJ PRP VBD DT JJ NN , VBG JJR IN DT JJ NN NN -RRB- .</POS>
+		<Lemma>as I go look for a replacement -lrb- very careful to make sure I get a rapid charger , operate faster than a normal pc usb -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When I found this one , I did n't know if it would work .</Tokens>
+		<POS>WRB PRP VBD DT CD , PRP VBD RB VB IN PRP MD VB .</POS>
+		<Lemma>when I find this one , I do not know if it would work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>OH MAN !</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>oh man !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It charges off the wall as fast as my OEM charger -LRB- less than an hour ; very fast -RRB- .</Tokens>
+		<POS>PRP VBZ RP DT NN IN JJ IN PRP$ NNP NN -LRB- JJR IN DT NN : RB RB -RRB- .</POS>
+		<Lemma>it charge off the wall as fast as my OEM charger -lrb- less than a hour ; very fast -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My wife and I regularly have my Droid and her iPod Touch plugged in charging at the same time .</Tokens>
+		<POS>PRP$ NN CC PRP RB VBP PRP$ NN CC PRP$ NN NN VBD IN VBG IN DT JJ NN .</POS>
+		<Lemma>my wife and I regularly have my droid and she ipod touch plug in charge at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It works great on road trips , as we both have rapid chargers for our devices -LRB- the two usb plugs work in tandem at the same time -RRB- , and I plan on taking this on bike tour next summer , knowing that I may be able to use the AA batteries in my flashlights to recharge my Droid -LRB- for the GPS -RRB- when I 'm completely off grid .</Tokens>
+		<POS>PRP VBZ JJ IN NN NNS , IN PRP DT VBP JJ NNS IN PRP$ NNS -LRB- DT CD NN VBZ NN IN JJ IN DT JJ NN -RRB- , CC PRP VBP IN VBG DT IN NN NN JJ NN , VBG IN PRP MD VB JJ TO VB DT NN NNS IN PRP$ NNS TO VB PRP$ NN -LRB- IN DT NN -RRB- WRB PRP VBP RB RB NN .</POS>
+		<Lemma>it work great on road trip , as we both have rapid charger for we device -lrb- the two usb plug work in tandem at the same time -rrb- , and I plan on take this on bike tour next summer , know that I may be able to use the aa battery in my flashlight to recharge my droid -lrb- for the gp -rrb- when I be completely off grid .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have not checked 9v batteries yet .</Tokens>
+		<POS>PRP VBP RB VBN NN NNS RB .</POS>
+		<Lemma>I have not check 9v battery yet .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>And , of note , I did attempt to use 14500 Lithium Ion batteries ; but got a warning screen from the Droid to unplug the charger .</Tokens>
+		<POS>CC , IN NN , PRP VBD NN TO VB CD NNP NNP NNS : CC VBD DT NN NN IN DT NN TO VB DT NN .</POS>
+		<Lemma>and , of note , I do attempt to use 14500 Lithium Ion battery ; but get a warning screen from the droid to unplug the charger .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>: -LRB- Oh , man , this thing is more than I ever expected for under $ 20 .</Tokens>
+		<POS>: -LRB- UH , NN , DT NN VBZ RBR IN PRP RB VBD IN IN $ CD .</POS>
+		<Lemma>: -lrb- oh , man , this thing be more than I ever expect for under $ 20 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Highly recommend !</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>highly recommend !</Lemma>
+	</Sentence>
+</Document>

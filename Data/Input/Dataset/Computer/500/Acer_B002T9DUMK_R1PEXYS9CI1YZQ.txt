@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Also just bought the product .</Tokens>
+		<POS>RB RB VBD DT NN .</POS>
+		<Lemma>also just buy the product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is my overall assessment ... <a href="http://www.amazon.com/gp/product/B00439563A/ref=cm_cr_asin_lnk/181-7560699-8894723"> Acer S273HL bmii 27 '' Full HD LED Monitor </a> GOOD - Easy to set up : Out of the box it is easy to assemble and get up and running as it has an auto adjust function , and its easy to attach the loose arm -LRB- but remember to tighten he screw underneath otherwise it will lean to the left -RRB- - Good buy : Excellent price\/quality relationship .</Tokens>
+		<POS>DT VBZ PRP$ JJ NN : NN NNP NNP NN CD '' JJ NN VBD NNP NNP NNP : NNP TO VB RP : IN IN DT NN PRP VBZ JJ TO VB CC VB RB CC VBG IN PRP VBZ DT NN VBP NN , CC PRP$ JJ TO VB DT JJ NN -LRB- CC VBP TO VB PRP VB IN RB PRP MD VB TO DT NN -RRB- : JJ NN : JJ NN NN .</POS>
+		<Lemma>this be my overall assessment ... <a href="http://www.amazon.com/gp/product/b00439563a/ref=cm_cr_asin_lnk/181-7560699-8894723"> Acer S273HL bmius 27 '' full hd lead Monitor </a> GOOD - Easy to set up : out of the box it be easy to assemble and get up and run as it have a auto adjust function , and its easy to attach the loose arm -lrb- but remember to tighten he screw underneath otherwise it will lean to the left -rrb- - good buy : excellent price\/quality relationship .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A lot of bang for the buck .</Tokens>
+		<POS>DT NN IN NN IN DT NN .</POS>
+		<Lemma>a lot of bang for the buck .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>- Very nice design - On my desk it is pretty stable , and I do n't think it is particularly wobbly BAD - The control menu is not very advanced , actually on my old 1992 screen I had more adjustment options .</Tokens>
+		<POS>: RB JJ NN : IN PRP$ NN PRP VBZ RB JJ , CC PRP VBP RB VB PRP VBZ RB JJ NN : DT NN NN VBZ RB RB JJ , RB IN PRP$ JJ CD NN PRP VBD RBR NN NNS .</POS>
+		<Lemma>- very nice design - on my desk it be pretty stable , and I do not think it be particularly wobbly bad - the control menu be not very advanced , actually on my old 1992 screen I have more adjustment option .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Not a very significant problem unless you as me see a black frame around the picture on the screen , and I am not talking about the actual frame on the screen - The screen has a 1-2 inch black space around the actual picture when connected to my new high end HP Envy 15 with a HDMI cable -LRB- The Envy is a top of the line HP laptop -RRB- and there is no option for making the picture area larger to take advantage of the full 27 inches .</Tokens>
+		<POS>RB DT RB JJ NN IN PRP IN PRP VB DT JJ NN IN DT NN IN DT NN , CC PRP VBP RB VBG IN DT JJ NN IN DT NN : DT NN VBZ DT CD NN JJ NN IN DT JJ NN WRB VBN TO PRP$ JJ JJ NN NNP NNP CD IN DT NN NN -LRB- DT NN VBZ DT NN IN DT NN NNP NN -RRB- CC EX VBZ DT NN IN VBG DT NN NN JJR TO VB NN IN DT JJ CD NNS .</POS>
+		<Lemma>not a very significant problem unless you as I see a black frame around the picture on the screen , and I be not talk about the actual frame on the screen - the screen have a 1-2 inch black space around the actual picture when connect to my new high end HP Envy 15 with a hdmus cable -lrb- the envy be a top of the line HP laptop -rrb- and there be no option for make the picture area larger to take advantage of the full 27 inch .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I therefore only have just under 25 inches of screen to work on .</Tokens>
+		<POS>PRP RB RB VB RB IN CD NNS IN NN TO VB IN .</POS>
+		<Lemma>I therefore only have just under 25 inch of screen to work on .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Bummer , if you like me was hoping for at 27 inch work area ... In the process with customer service but no solution to the problem has appeared yet so we will see if I will return the product or not depending on if\/how they can solve this issue .</Tokens>
+		<POS>NNP , IN PRP IN PRP VBD VBG IN IN CD NN NN NN : IN DT NN IN NN NN CC DT NN TO DT NN VBZ VBN RB IN PRP MD VB IN PRP MD VB DT NN CC RB VBG IN NN PRP MD VB DT NN .</POS>
+		<Lemma>Bummer , if you like I be hope for at 27 inch work area ... in the process with customer service but no solution to the problem have appear yet so we will see if I will return the product or not depend on if\/how they can solve this issue .</Lemma>
+	</Sentence>
+</Document>

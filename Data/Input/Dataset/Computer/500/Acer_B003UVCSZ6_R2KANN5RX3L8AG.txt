@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Got this monitor a couple days ago and was delivered quickly , its great one so far .</Tokens>
+		<POS>NNP DT NN DT NN NNS RB CC VBD VBN RB , PRP$ JJ CD RB RB .</POS>
+		<Lemma>Got this monitor a couple day ago and be deliver quickly , its great one so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was sold by Circuit City but the same one .</Tokens>
+		<POS>PRP VBD VBN IN NNP NNP CC DT JJ CD .</POS>
+		<Lemma>it be sell by Circuit City but the same one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Only thing I find is thought I could get a better refresh rate than 60 at 1600x900 was hoping for 75 but that is only for lower setting and then its to big text for the screen for me , but would buy again for the great price of $ 99.99 + s\/h .</Tokens>
+		<POS>RB NN PRP VBP VBZ VBN PRP MD VB DT JJR NN NN IN CD IN CD VBD VBG IN CD CC DT VBZ RB IN JJR NN CC RB PRP$ TO JJ NN IN DT NN IN PRP , CC MD VB RB IN DT JJ NN IN $ CD CC NN .</POS>
+		<Lemma>only thing I find be think I could get a better refresh rate than 60 at 1600x900 be hope for 75 but that be only for lower setting and then its to big text for the screen for I , but would buy again for the great price of $ 99.99 + s\/h .</Lemma>
+	</Sentence>
+</Document>

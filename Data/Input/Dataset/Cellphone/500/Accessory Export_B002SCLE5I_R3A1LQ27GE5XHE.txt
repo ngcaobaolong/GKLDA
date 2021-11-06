@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Really I thought this printed metallic stickers where some kind of fake offer but after locating mine in the back of my BB 9900 battery it sure made a difference , honestly I was no a believer but it really works , at least on my BB it did .</Tokens>
+		<POS>RB PRP VBD DT VBN JJ NNS WRB DT NN IN JJ NN CC IN VBG NN IN DT NN IN PRP$ NNP CD NN PRP RB VBD DT NN , RB PRP VBD DT DT NN CC PRP RB VBZ , IN JJS IN PRP$ NN PRP VBD .</POS>
+		<Lemma>really I think this print metallic sticker where some kind of fake offer but after locate mine in the back of my BB 9900 battery it sure make a difference , honestly I be no a believer but it really work , at least on my bb it do .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Better yet , they are so cheap what could be lost but a few dollars , best of all it works .</Tokens>
+		<POS>RBR RB , PRP VBP RB JJ WP MD VB VBN CC DT JJ NNS , JJS IN DT PRP VBZ .</POS>
+		<Lemma>better yet , they be so cheap what could be lose but a few dollar , best of all it work .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Like others , I heard about this candy from Doctor Who -LRB- 4th Doctor -RRB- .</Tokens>
+		<POS>IN NNS , PRP VBD IN DT NN IN NNP WP -LRB- JJ NN -RRB- .</POS>
+		<Lemma>like other , I hear about this candy from Doctor who -lrb- 4th doctor -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The moment I had one bag , I began to order even more .</Tokens>
+		<POS>DT NN PRP VBD CD NN , PRP VBD TO VB RB RBR .</POS>
+		<Lemma>the moment I have one bag , I begin to order even more .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>To anyone who wants to buy these Jelly Babies , order 2 or 3 bags .</Tokens>
+		<POS>TO NN WP VBZ TO VB DT NNP NNS , NN CD CC CD NN .</POS>
+		<Lemma>to anyone who want to buy these Jelly baby , order 2 or 3 bag .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You wo n't be disappointed by the taste .</Tokens>
+		<POS>PRP MD RB VB VBN IN DT NN .</POS>
+		<Lemma>you will not be disappoint by the taste .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is what I call a candy .</Tokens>
+		<POS>DT VBZ WP PRP VBP DT NN .</POS>
+		<Lemma>this be what I call a candy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 'm SO ordering more in the future .</Tokens>
+		<POS>PRP VBP JJ VBG RBR IN DT NN .</POS>
+		<Lemma>I be so order more in the future .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If I ever got fat from eating these , I would have no regrets .</Tokens>
+		<POS>IN PRP RB VBD JJ IN VBG DT , PRP MD VB DT NNS .</POS>
+		<Lemma>if I ever get fat from eat these , I would have no regret .</Lemma>
+	</Sentence>
+</Document>

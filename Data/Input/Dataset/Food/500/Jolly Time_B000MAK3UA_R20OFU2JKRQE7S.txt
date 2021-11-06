@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love popcorn with a buttery flavor , but I do n't like the unhealthy levels of fat in the best tasting microwave popcorn .</Tokens>
+		<POS>PRP VBP NN IN DT JJ NN , CC PRP VBP RB VB DT JJ NNS IN NN IN DT JJS NN NN NN .</POS>
+		<Lemma>I love popcorn with a buttery flavor , but I do not like the unhealthy level of fat in the best tasting microwave popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So , I tried low fat popcorn from Jolly Time , Orville Redenbacher , Act II , Smart Balance and a store brand .</Tokens>
+		<POS>RB , PRP VBD JJ JJ NN IN JJ NNP , NNP NNP , NNP NNP , NNP NNP CC DT NN NN .</POS>
+		<Lemma>so , I try low fat popcorn from jolly Time , Orville Redenbacher , Act II , Smart Balance and a store brand .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Jolly Time Healthy Pop Butter is my favorite .</Tokens>
+		<POS>JJ NNP JJ NN NN VBZ PRP$ JJ .</POS>
+		<Lemma>jolly Time healthy pop butter be my favorite .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's low in fat -LRB- each mini bag is only one Weight Watchers point -RRB- but high in taste .</Tokens>
+		<POS>PRP VBZ JJ IN JJ -LRB- DT NNS NN VBZ RB CD NNP NNPS NN -RRB- CC JJ IN NN .</POS>
+		<Lemma>it be low in fat -lrb- each minus bag be only one Weight Watchers point -rrb- but high in taste .</Lemma>
+	</Sentence>
+</Document>

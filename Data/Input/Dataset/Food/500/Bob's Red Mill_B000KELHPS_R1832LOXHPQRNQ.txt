@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I did n't care for the taste of this bread .</Tokens>
+		<POS>PRP VBD RB VB IN DT NN IN DT NN .</POS>
+		<Lemma>I do not care for the taste of this bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I could n't identify the specific flavor -LRB- maybe carraway seeds ? -RRB-</Tokens>
+		<POS>PRP MD RB VB DT JJ NN -LRB- RB NN NNS . -RRB-</POS>
+		<Lemma>I could not identify the specific flavor -lrb- maybe carraway seed ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>but it smelled and tasted strongly like rye bread , which I do n't really like .</Tokens>
+		<POS>CC PRP VBD CC VBD RB IN NN NN , WDT PRP VBP RB RB IN .</POS>
+		<Lemma>but it smell and taste strongly like rye bread , which I do not really like .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>That being said , it baked up beautifully in my bread machine and has a really nice texture , so I ca n't really give it a bad review .</Tokens>
+		<POS>DT VBG VBD , PRP JJ IN RB IN PRP$ NN NN CC VBZ DT RB JJ NN , IN PRP MD RB RB VB PRP DT JJ NN .</POS>
+		<Lemma>that be say , it baked up beautifully in my bread machine and have a really nice texture , so I can not really give it a bad review .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's good to have a non-white bread option , but I wish someone would make a darker bread mix that does n't taste like rye .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT JJ NN NN , CC PRP VBP NN MD VB DT JJR NN NN WDT VBZ RB VB IN NN .</POS>
+		<Lemma>it be good to have a non-white bread option , but I wish someone would make a darker bread mix that do not taste like rye .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 'm thinking of something like the brown bread at Outback maybe ?</Tokens>
+		<POS>PRP VBP VBG IN NN IN DT JJ NN IN NN RB .</POS>
+		<Lemma>I be think of something like the brown bread at outback maybe ?</Lemma>
+	</Sentence>
+</Document>

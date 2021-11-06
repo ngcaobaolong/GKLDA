@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love the color !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love the color !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only thing I do n't like about the camera is that it takes too long to take the picture .</Tokens>
+		<POS>DT JJ NN PRP VBP RB VB IN DT NN VBZ IN PRP VBZ RB JJ TO VB DT NN .</POS>
+		<Lemma>the only thing I do not like about the camera be that it take too long to take the picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You have to wait for 2 flashes , so if a person moves right after seeing the first flash then the picture come out really blurry .</Tokens>
+		<POS>PRP VBP TO VB IN CD NNS , RB IN DT NN VBZ RB IN VBG DT JJ NN RB DT NN VBN RP RB JJ .</POS>
+		<Lemma>you have to wait for 2 flash , so if a person move right after see the first flash then the picture come out really blurry .</Lemma>
+	</Sentence>
+</Document>

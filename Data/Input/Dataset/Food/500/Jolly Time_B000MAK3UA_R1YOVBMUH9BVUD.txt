@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For those of you watching your weight this is the way to go .</Tokens>
+		<POS>IN DT IN PRP VBG PRP$ NN DT VBZ DT NN TO VB .</POS>
+		<Lemma>for those of you watch you weight this be the way to go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This and diet soda can keep you for one of your meals .</Tokens>
+		<POS>DT CC NN NN MD VB PRP IN CD IN PRP$ NNS .</POS>
+		<Lemma>this and diet soda can keep you for one of you meal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Definitely a must .</Tokens>
+		<POS>RB DT MD .</POS>
+		<Lemma>definitely a must .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this when my old Dell Trinitron CRT finally gave up the ghost .</Tokens>
+		<POS>VBN DT WRB PRP$ JJ NNP NNP NNP RB VBD RP DT NN .</POS>
+		<Lemma>buy this when my old Dell Trinitron CRT finally give up the ghost .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to choose as it was on sale for less than a buck .</Tokens>
+		<POS>NNP TO VB IN PRP VBD IN NN IN JJR IN DT NN .</POS>
+		<Lemma>Easy to choose as it be on sale for less than a buck .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am not a gamer and I do n't use it for movies , so whatever `` halo '' properties it may have are of no concern .</Tokens>
+		<POS>PRP VBP RB DT NN CC PRP VBP RB VB PRP IN NNS , RB WDT `` NN '' NNS PRP MD VB VBP IN DT NN .</POS>
+		<Lemma>I be not a gamer and I do not use it for movie , so whatever `` halo '' property it may have be of no concern .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The picture is bright , sharp and easy to look at .</Tokens>
+		<POS>DT NN VBZ JJ , JJ CC JJ TO VB IN .</POS>
+		<Lemma>the picture be bright , sharp and easy to look at .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't see the downside .</Tokens>
+		<POS>PRP VBP RB VB DT NN .</POS>
+		<Lemma>I do not see the downside .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This thing weighs next to nothing , takes up almost no space , and is easy to set up .</Tokens>
+		<POS>DT NN VBZ JJ TO NN , VBZ RP RB DT NN , CC VBZ JJ TO VB RP .</POS>
+		<Lemma>this thing weigh next to nothing , take up almost no space , and be easy to set up .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>What 's not to like ?</Tokens>
+		<POS>WP VBZ RB TO VB .</POS>
+		<Lemma>what be not to like ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For the price , it 's a great deal .</Tokens>
+		<POS>IN DT NN , PRP VBZ DT JJ NN .</POS>
+		<Lemma>for the price , it be a great deal .</Lemma>
+	</Sentence>
+</Document>

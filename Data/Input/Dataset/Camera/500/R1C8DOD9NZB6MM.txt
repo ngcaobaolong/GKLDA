@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As a university photography teacher I can say that this is one of the best values for a semi-professional photographer .</Tokens>
+		<POS>IN DT NN NN NN PRP MD VB IN DT VBZ CD IN DT JJS NNS IN DT JJ NNP .</POS>
+		<Lemma>as a university photography teacher I can say that this be one of the best value for a semi-professional photographer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>While I am the first to realize that true photography takes place in the mind of the photographer , this camera has the stuff to assist in many ways .</Tokens>
+		<POS>IN PRP VBP DT JJ TO VB DT JJ NN VBZ NN IN DT NN IN DT NNP , DT NN VBZ DT NN TO VB IN JJ NNS .</POS>
+		<Lemma>while I be the first to realize that true photography take place in the mind of the photographer , this camera have the stuff to assist in many way .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The pivot view-screen , wireless flash triggering , top information display , and 3 stop auto bracketing -LRB- for HDR -RRB- all add to the ability of this camera to compete with any other brand or price range .</Tokens>
+		<POS>DT JJ NN , JJ NN NN , JJ NN NN , CC CD NN NN NN -LRB- IN NN -RRB- DT VB TO DT NN IN DT NN TO VB IN DT JJ NN CC NN NN .</POS>
+		<Lemma>the pivot view-screen , wireless flash triggering , top information display , and 3 stop auto bracketing -lrb- for hdr -rrb- all add to the ability of this camera to compete with any other brand or price range .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I purchased this through Amazon.com and was completely satisfied with the order .</Tokens>
+		<POS>PRP VBD DT IN NNP CC VBD RB VBN IN DT NN .</POS>
+		<Lemma>I purchase this through Amazon.com and be completely satisfy with the order .</Lemma>
+	</Sentence>
+</Document>

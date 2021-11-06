@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As the tittle says I 've been using this netbook almost every day for 6 months and so far I have n't had a single problem .</Tokens>
+		<POS>IN DT NN VBZ PRP VBP VBN VBG DT NN RB DT NN IN CD NNS CC RB RB PRP VBP RB VBD DT JJ NN .</POS>
+		<Lemma>as the tittle say I have be use this netbook almost every day for 6 month and so far I have not have a single problem .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was my first acer product and I did a lot of research before buying it .</Tokens>
+		<POS>PRP VBD PRP$ JJ NN NN CC PRP VBD DT NN IN NN IN VBG PRP .</POS>
+		<Lemma>it be my first acer product and I do a lot of research before buy it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sure it is n't as fast as i would like but it does everything you would expect for a netbook of this price .</Tokens>
+		<POS>JJ PRP VBZ RB RB JJ IN FW MD VB CC PRP VBZ NN PRP MD VB IN DT NN IN DT NN .</POS>
+		<Lemma>sure it be not as fast as i would like but it do everything you would expect for a netbook of this price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The processor is the weakest part in the netbook , the 2gb memory works fine and the video card does a good job .</Tokens>
+		<POS>DT NN VBZ DT JJS NN IN DT NN , DT JJ NN VBZ JJ CC DT NN NN VBZ DT JJ NN .</POS>
+		<Lemma>the processor be the weakest part in the netbook , the 2gb memory work fine and the video card do a good job .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I just feel that with a better processor this little netbook could have done a lot better .</Tokens>
+		<POS>PRP RB VBP IN IN DT JJR NN DT JJ NN MD VB VBN DT RB JJR .</POS>
+		<Lemma>I just feel that with a better processor this little netbook could have do a lot better .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is just so easy to reach 100 % of use in the processor .</Tokens>
+		<POS>PRP VBZ RB RB JJ TO VB CD NN IN NN IN DT NN .</POS>
+		<Lemma>it be just so easy to reach 100 % of use in the processor .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Oh and the speakers , the sound is so low it is n't even funny .</Tokens>
+		<POS>UH CC DT NNS , DT NN VBZ RB JJ PRP VBZ RB RB JJ .</POS>
+		<Lemma>oh and the speaker , the sound be so low it be not even funny .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I do n't know if all netbooks are like this but i just hate it .</Tokens>
+		<POS>PRP VBP RB VB IN DT NNS VBP IN DT CC FW RB VB PRP .</POS>
+		<Lemma>I do not know if all netbook be like this but i just hate it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>By the time I got this it was the better netbook for under 300 $ , so maybe now there are other options out there .</Tokens>
+		<POS>IN DT NN PRP VBD DT PRP VBD DT JJR NN IN IN CD $ , RB RB RB EX VBP JJ NNS IN RB .</POS>
+		<Lemma>by the time I get this it be the better netbook for under 300 $ , so maybe now there be other option out there .</Lemma>
+	</Sentence>
+</Document>

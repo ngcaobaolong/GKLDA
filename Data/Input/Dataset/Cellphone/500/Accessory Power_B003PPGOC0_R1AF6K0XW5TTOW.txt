@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product , connects to my ipod touch as soon as i start my car .</Tokens>
+		<POS>JJ NN , VBZ TO PRP$ NN NN RB RB IN FW VB PRP$ NN .</POS>
+		<Lemma>great product , connect to my ipod touch as soon as i start my car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>good sound .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>good sound .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>abilty to find a clear station is great .</Tokens>
+		<POS>NN TO VB DT JJ NN VBZ JJ .</POS>
+		<Lemma>abilty to find a clear station be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Definitely recommend it</Tokens>
+		<POS>RB VB PRP</POS>
+		<Lemma>definitely recommend it</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you need a transmitter for your car , I highly recommend this device .</Tokens>
+		<POS>IN PRP VBP DT NN IN PRP$ NN , PRP RB VB DT NN .</POS>
+		<Lemma>if you need a transmitter for you car , I highly recommend this device .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I must say it exceeded my expectations in every way !</Tokens>
+		<POS>PRP MD VB PRP VBD PRP$ NNS IN DT NN .</POS>
+		<Lemma>I must say it exceed my expectation in every way !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought this device for my lat 90 's car so I could listen to podcasts on my Galaxy S2 while on the road .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ NN CD POS NN IN PRP MD VB TO NNS IN PRP$ NN NN IN IN DT NN .</POS>
+		<Lemma>I buy this device for my lat 90 's car so I could listen to podcast on my galaxy s2 while on the road .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've had transmitters before and I 've found them to not provide the best signal with some interference .</Tokens>
+		<POS>PRP VBP VBD NNS IN CC PRP VBP VBN PRP TO RB VB DT JJS NN IN DT NN .</POS>
+		<Lemma>I have have transmitter before and I have find they to not provide the best signal with some interference .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However the GoGroove FlexSMART X2 does n't really suffer from this problem .</Tokens>
+		<POS>RB DT NNP NNP NN VBZ RB RB VB IN DT NN .</POS>
+		<Lemma>however the GoGroove FlexSMART x2 do not really suffer from this problem .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It provides a strong signal and if there is some interference , it 's easy to find a new frequency while driving .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC IN EX VBZ DT NN , PRP VBZ JJ TO VB DT JJ NN IN VBG .</POS>
+		<Lemma>it provide a strong signal and if there be some interference , it be easy to find a new frequency while drive .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>All features are easy to use and the instructions are simple and clear and concise .</Tokens>
+		<POS>DT NNS VBP JJ TO VB CC DT NNS VBP JJ CC JJ CC JJ .</POS>
+		<Lemma>all feature be easy to use and the instruction be simple and clear and concise .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Add in bluetooth support -LRB- including autoconnection , once paired -RRB- , a usb socket , the ability to take calls and play\/pause\/advance \/ rewind your music -LRB- on apps that support it -RRB- and you have one amazing device !</Tokens>
+		<POS>VB IN JJ NN -LRB- VBG NN , RB JJ -RRB- , DT NN NN , DT NN TO VB NNS CC NN : VB PRP$ NN -LRB- IN NNS WDT VBP PRP -RRB- CC PRP VBP CD JJ NN .</POS>
+		<Lemma>add in bluetooth support -lrb- include autoconnection , once paired -rrb- , a usb socket , the ability to take call and play\/pause\/advance \/ rewind you music -lrb- on app that support it -rrb- and you have one amazing device !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Might I add that I heard about this device on the strength of a review provided by the wirecutter : -LRB- ... -RRB- Their review has proved completely accurate .</Tokens>
+		<POS>NNP PRP VBP IN PRP VBD IN DT NN IN DT NN IN DT NN VBN IN DT NN : -LRB- : -RRB- PRP$ NN VBZ VBN RB JJ .</POS>
+		<Lemma>Might I add that I hear about this device on the strength of a review provide by the wirecutter : -lrb- ... -rrb- they review have prove completely accurate .</Lemma>
+	</Sentence>
+</Document>

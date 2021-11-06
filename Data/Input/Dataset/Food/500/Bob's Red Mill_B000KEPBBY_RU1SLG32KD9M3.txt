@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My husband is skeptical of anything `` veggie '' or `` healthy '' , but he gave this a shot .</Tokens>
+		<POS>PRP$ NN VBZ JJ IN NN `` NN '' CC `` JJ '' , CC PRP VBD DT DT NN .</POS>
+		<Lemma>my husband be skeptical of anything `` veggie '' or `` healthy '' , but he give this a shot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We add some ham and spices and Voila !</Tokens>
+		<POS>PRP VBP DT NN CC NNS CC NNP .</POS>
+		<Lemma>we add some ham and spice and Voila !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very hearty and good !</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>very hearty and good !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The best compliment you can get from him is , `` Yeah , you can make this again ! ''</Tokens>
+		<POS>DT JJS NN PRP MD VB IN PRP VBZ , `` UH , PRP MD VB DT RB . ''</POS>
+		<Lemma>the best compliment you can get from he be , `` yeah , you can make this again ! ''</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Thanks Bob !</Tokens>
+		<POS>NNS NNP .</POS>
+		<Lemma>thanks Bob !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Good stuff .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>good stuff .</Lemma>
+	</Sentence>
+</Document>

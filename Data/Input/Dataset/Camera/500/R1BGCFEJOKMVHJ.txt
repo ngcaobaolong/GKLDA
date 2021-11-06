@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>10\/26\/11 Update , Reset Your Camera I 've since had first hand experience as well as confirmed from Sony marketing that the SLT series has known bugs and require the camera to be periodically reset .</Tokens>
+		<POS>CD NNP , NNP PRP$ NN PRP VBP IN VBN JJ NN NN RB RB IN VBN IN NNP NN IN DT NNP NN VBZ VBN NNS CC VB DT NN TO VB RB VB .</POS>
+		<Lemma>10\/26\/11 Update , Reset you camera I have since have first hand experience as well as confirm from Sony marketing that the SLT series have know bug and require the camera to be periodically reset .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Item 2 below was a bug that after reset will no longer allow me to adjust the depth of field in 7f\/s mode .</Tokens>
+		<POS>NN CD IN VBD DT NN WDT IN NN MD RB RB VB PRP TO VB DT NN IN NN IN NNS NN .</POS>
+		<Lemma>item 2 below be a bug that after reset will no longer allow I to adjust the depth of field in 7f\/s mode .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>-LRB- Note the 6\/20\/11 firmware update from Sony does not resolve this . -RRB-</Tokens>
+		<POS>-LRB- VB DT CD NN VBP IN NNP VBZ RB VB DT . -RRB-</POS>
+		<Lemma>-lrb- note the 6\/20\/11 firmware update from Sony do not resolve this . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I now reset my camera before important shoots -LRB- all the time -RRB- and then go back and restore my preferences one by one .</Tokens>
+		<POS>PRP RB VB PRP$ NN IN JJ NNS -LRB- PDT DT NN -RRB- CC RB VB RB CC VB PRP$ NNS CD IN CD .</POS>
+		<Lemma>I now reset my camera before important shoot -lrb- all the time -rrb- and then go back and restore my preference one by one .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Original review Sony management need to get on the SLT-A33 programmers to release monthly or even weekly firmware updates for a year or more .</Tokens>
+		<POS>JJ NN NNP NN NN TO VB IN DT NN NNS TO VB JJ CC RB JJ NN NNS IN DT NN CC JJR .</POS>
+		<Lemma>original review Sony management need to get on the slt-a33 programmer to release monthly or even weekly firmware update for a year or more .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This product has so much room for software enhancements , - here are my top three for this week : 1 .</Tokens>
+		<POS>DT NN VBZ RB JJ NN IN NN NNS , : RB VBP PRP$ JJ CD IN DT NN : CD .</POS>
+		<Lemma>this product have so much room for software enhancement , - here be my top three for this week : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Please release a software update to display the live ISO setting before the picture is taken .</Tokens>
+		<POS>VB VB DT NN VBP TO VB DT JJ NN NN IN DT NN VBZ VBN .</POS>
+		<Lemma>please release a software update to display the live iso setting before the picture be take .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Please fix the exposure algorithm to maintain a consistent exposure .</Tokens>
+		<POS>VB VB DT NN NN TO VB DT JJ NN .</POS>
+		<Lemma>please fix the exposure algorithm to maintain a consistent exposure .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>For example , using the 7 frame\/second mode , changing the depth of field -LRB- scrollwheel -RRB- , should result in a corresponding adjustment of the shutter speed or ISO , but not cause the exposure to change .</Tokens>
+		<POS>IN NN , VBG DT CD NN NN , VBG DT NN IN NN -LRB- NN -RRB- , MD VB IN DT JJ NN IN DT JJR NN CC NN , CC RB VB DT NN TO VB .</POS>
+		<Lemma>for example , use the 7 frame\/second mode , change the depth of field -lrb- scrollwheel -rrb- , should result in a corresponding adjustment of the shutter speed or iso , but not cause the exposure to change .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Please integrate photo and video review .</Tokens>
+		<POS>VB VB NN CC NN NN .</POS>
+		<Lemma>please integrate photo and video review .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I purchased this body due to an investment in Minolta lenses and wireless flashes .</Tokens>
+		<POS>PRP VBD DT NN JJ TO DT NN IN NNP NNS CC JJ NNS .</POS>
+		<Lemma>I purchase this body due to a investment in Minolta lens and wireless flash .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Unfortunatly , Sony people care more about gadgets like multiple exposures and not enough about photography .</Tokens>
+		<POS>NNP , NNP NNS VBP RBR IN NNS IN JJ NNS CC RB JJ IN NN .</POS>
+		<Lemma>Unfortunatly , Sony people care more about gadget like multiple exposure and not enough about photography .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>If the people at Sony are listening and release a few more updates , I 'll be happy to show them how to beat their competition the good old fashion way , - making happy customers .</Tokens>
+		<POS>IN DT NNS IN NNP VBP VBG CC VB DT JJ JJR NNS , PRP MD VB JJ TO VB PRP WRB TO VB PRP$ NN DT JJ JJ NN NN , : VBG JJ NNS .</POS>
+		<Lemma>if the people at Sony be listen and release a few more update , I 'll be happy to show they how to beat they competition the good old fashion way , - make happy customer .</Lemma>
+	</Sentence>
+</Document>

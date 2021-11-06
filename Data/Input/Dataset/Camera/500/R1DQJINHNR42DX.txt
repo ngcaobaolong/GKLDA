@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this product on vacation to replace a fantastic little Panasonic Lumix that took magnificent photos , however , a water accident finished it .</Tokens>
+		<POS>PRP VBD DT NN IN NN TO VB DT JJ JJ NNP NNP WDT VBD JJ NNS , RB , DT NN NN VBD PRP .</POS>
+		<Lemma>I purchase this product on vacation to replace a fantastic little Panasonic Lumix that take magnificent photo , however , a water accident finish it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This was the first time I had used Sony digital cameras and after just 4 days the LCD screen distorted with a 2cm strip down left side white since then , and for one week all color from the screen disappeared .</Tokens>
+		<POS>DT VBD DT JJ NN PRP VBD VBN NNP JJ NNS CC IN RB CD NNS DT NNS NN VBN IN DT JJ NN IN JJ NN JJ IN RB , CC IN CD NN DT NN IN DT NN VBD .</POS>
+		<Lemma>this be the first time I have use Sony digital camera and after just 4 day the lcd screen distort with a 2cm strip down left side white since then , and for one week all color from the screen disappear .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Slow to focus , and doesnt seem to know what the focus is on .</Tokens>
+		<POS>VB TO VB , CC NN VBP TO VB WP DT NN VBZ IN .</POS>
+		<Lemma>slow to focus , and doesnt seem to know what the focus be on .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Agree 100 % with previous reviewers , many photos turn out blurred , this rarely happened with the Panasonic .</Tokens>
+		<POS>NN CD NN IN JJ NNS , JJ NNS VBP RP VBN , DT RB VBN IN DT NNP .</POS>
+		<Lemma>agree 100 % with previous reviewer , many photo turn out blur , this rarely happen with the Panasonic .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also , the battery cavity door slides open , its positioned under the camera where your thumb rests when taking shots , as move your thumb it opens the cover .</Tokens>
+		<POS>RB , DT NN NN NN NNS JJ , PRP$ VBN IN DT NN WRB PRP$ NN VBZ WRB VBG NNS , IN NN PRP$ NN PRP VBZ DT NN .</POS>
+		<Lemma>also , the battery cavity door slide open , its position under the camera where you thumb rest when take shot , as move you thumb it open the cover .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall , a bit disappointed with the product , especially the indecisive slow focus .</Tokens>
+		<POS>RB , DT NN JJ IN DT NN , RB DT JJ JJ NN .</POS>
+		<Lemma>overall , a bit disappointed with the product , especially the indecisive slow focus .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So let 's start with the obvious , this is n't a pricy camera , it is a relatively inexpensive camera , and if you set your expectations accordingly you wo n't be too disappointed .</Tokens>
+		<POS>RB VB POS VB IN DT JJ , DT VBZ RB DT JJ NN , PRP VBZ DT RB JJ NN , CC IN PRP VBP PRP$ NNS RB PRP MD RB VB RB JJ .</POS>
+		<Lemma>so let 's start with the obvious , this be not a pricy camera , it be a relatively inexpensive camera , and if you set you expectation accordingly you will not be too disappointed .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera really is easy to use , charge it up , and literally point and shoot .</Tokens>
+		<POS>DT NN RB VBZ JJ TO VB , VB PRP RP , CC RB NN CC NN .</POS>
+		<Lemma>this camera really be easy to use , charge it up , and literally point and shoot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The file format is mp4 which works well for YouTube , so you can easily share your video .</Tokens>
+		<POS>DT NN NN VBZ NN WDT VBZ RB IN NNP , RB PRP MD RB VB PRP$ NN .</POS>
+		<Lemma>the file format be mp4 which work well for YouTube , so you can easily share you video .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I really liked the way you could stick this camera on a tripod .</Tokens>
+		<POS>PRP RB VBD DT NN PRP MD VB DT NN IN DT NN .</POS>
+		<Lemma>I really like the way you could stick this camera on a tripod .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you are taking a video of an event , do your viewers a favor , use a tripod .</Tokens>
+		<POS>IN PRP VBP VBG DT NN IN DT NN , VB PRP$ NNS DT NN , VBP DT NN .</POS>
+		<Lemma>if you be take a video of a event , do you viewer a favor , use a tripod .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Anyone can operate this camera its easy .</Tokens>
+		<POS>NN MD VB DT NN PRP$ JJ .</POS>
+		<Lemma>anyone can operate this camera its easy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>While this does n't shoot with picture clarity in all levels of light that we may want , it works well .</Tokens>
+		<POS>IN DT VBZ RB VB IN NN NN IN DT NNS IN NN IN PRP MD VB , PRP VBZ RB .</POS>
+		<Lemma>while this do not shoot with picture clarity in all level of light that we may want , it work well .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you are in well lighted situations , your pictures will be fine .</Tokens>
+		<POS>IN PRP VBP RB RB VBD NNS , PRP$ NNS MD VB JJ .</POS>
+		<Lemma>if you be in well light situation , you picture will be fine .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you want to shoot in low light , it is going to be grainy .</Tokens>
+		<POS>IN PRP VBP TO VB IN JJ NN , PRP VBZ VBG TO VB JJ .</POS>
+		<Lemma>if you want to shoot in low light , it be go to be grainy .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I think this camera would be great to shoot vacation pictures , fun impromptu videos .</Tokens>
+		<POS>PRP VBP DT NN MD VB JJ TO VB NN NNS , NN JJ NNS .</POS>
+		<Lemma>I think this camera would be great to shoot vacation picture , fun impromptu video .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would n't record my child 's recital or something extremely important with this camera , as lighting becomes an issue .</Tokens>
+		<POS>PRP MD RB VB PRP$ NN POS NN CC NN RB JJ IN DT NN , IN NN VBZ DT NN .</POS>
+		<Lemma>I would not record my child 's recital or something extremely important with this camera , as lighting become a issue .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>This offers more flexibility than most camera phones , and since the Flip is being discontinued , this may be a great option .</Tokens>
+		<POS>DT VBZ JJR NN IN JJS NN NNS , CC IN DT NN VBZ VBG VBN , DT MD VB DT JJ NN .</POS>
+		<Lemma>this offer more flexibility than most camera phone , and since the flip be be discontinue , this may be a great option .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The camera says it water resistant but I was n't brave enough to dunk it underwater , but it is great to know I could take this camera poolside without a lot of worries .</Tokens>
+		<POS>DT NN VBZ PRP NN JJ CC PRP VBD RB VB RB TO VB PRP JJ , CC PRP VBZ JJ TO VB PRP MD VB DT NN NN IN DT NN IN NNS .</POS>
+		<Lemma>the camera say it water resistant but I be not brave enough to dunk it underwater , but it be great to know I could take this camera poolside without a lot of worry .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Set your expectations with the price point , the camera is a good value for its capabilities .</Tokens>
+		<POS>VB PRP$ NNS IN DT NN NN , DT NN VBZ DT JJ NN IN PRP$ NNS .</POS>
+		<Lemma>set you expectation with the price point , the camera be a good value for its capability .</Lemma>
+	</Sentence>
+</Document>

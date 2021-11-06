@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>... but the cans were smaller than I expected for the price I paid .</Tokens>
+		<POS>: CC DT NNS VBD JJR IN PRP VBD IN DT NN PRP VBD .</POS>
+		<Lemma>... but the can be smaller than I expect for the price I pay .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I dunno , I just expected to be saving a lot more than that when buying in bulk .</Tokens>
+		<POS>PRP VBP , PRP RB VBD TO VB VBG DT NN JJR IN DT WRB VBG IN NN .</POS>
+		<Lemma>I dunno , I just expect to be save a lot more than that when buy in bulk .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's the same price -LRB- about $ 3 a can -RRB- at the local Target .</Tokens>
+		<POS>PRP VBZ DT JJ NN -LRB- IN $ CD DT NN -RRB- IN DT JJ NN .</POS>
+		<Lemma>it be the same price -lrb- about $ 3 a can -rrb- at the local target .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Plus , and this is a personal problem , I had a hard time being conservative with em .</Tokens>
+		<POS>NN , CC DT VBZ DT JJ NN , PRP VBD DT JJ NN VBG JJ IN NN .</POS>
+		<Lemma>plus , and this be a personal problem , I have a hard time be conservative with em .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They are delicious -LRB- not as good as the smoked ones though which Amazon does n't sell for some reason -RRB- and I could n't stop eating them !</Tokens>
+		<POS>PRP VBP JJ -LRB- RB RB JJ IN DT JJ NNS IN WDT NNP VBZ RB VB IN DT NN -RRB- CC PRP MD RB VB VBG PRP .</POS>
+		<Lemma>they be delicious -lrb- not as good as the smoked one though which Amazon do not sell for some reason -rrb- and I could not stop eat they !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I went through two cans in the first night !</Tokens>
+		<POS>PRP VBD IN CD NNS IN DT JJ NN .</POS>
+		<Lemma>I go through two can in the first night !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I love to snack , but almonds are n't the best for snacking in large quantities , and I wo n't explain exactly why but it messes with your digestive system .</Tokens>
+		<POS>PRP VBP TO NN , CC NNS VBP RB DT JJS IN VBG IN JJ NNS , CC PRP MD RB VB RB WRB CC PRP VBZ IN PRP$ JJ NN .</POS>
+		<Lemma>I love to snack , but almond be not the best for snack in large quantity , and I will not explain exactly why but it mess with you digestive system .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Anyways , the nuts are perfectly fine and it 's a decent price -LRB- considering you 're not paying sales tax outside of NY and that there 's free shipping if you 're patient -RRB- so I ca n't not recommend them , although I will never buy em again in this quantity .</Tokens>
+		<POS>RB , DT NNS VBP RB JJ CC PRP VBZ DT JJ NN -LRB- VBG PRP VBP RB VBG NNS NN NN IN NNP CC IN EX VBZ JJ NN IN PRP VBP NN -RRB- IN PRP MD RB RB VB PRP , IN PRP MD RB VB NN RB IN DT NN .</POS>
+		<Lemma>anyways , the nut be perfectly fine and it be a decent price -lrb- consider you be not pay sale tax outside of NY and that there be free shipping if you be patient -rrb- so I can not not recommend they , although I will never buy em again in this quantity .</Lemma>
+	</Sentence>
+</Document>

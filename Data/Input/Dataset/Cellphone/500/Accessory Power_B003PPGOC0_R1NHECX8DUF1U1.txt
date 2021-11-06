@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this for my wife who hates Bluetooth earpieces and was n't impressed with other speaker-phone gadgets .</Tokens>
+		<POS>VBN DT IN PRP$ NN WP VBZ NNP NNS CC VBD RB VBN IN JJ NN NNS .</POS>
+		<Lemma>buy this for my wife who hate Bluetooth earpiece and be not impress with other speaker-phone gadget .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>In fact , she was quite fussy about even the mere mention of a hands-free device , because nothing worked the way she liked it .</Tokens>
+		<POS>IN NN , PRP VBD RB JJ IN RB DT JJ NN IN DT JJ NN , IN NN VBD DT NN PRP VBD PRP .</POS>
+		<Lemma>in fact , she be quite fussy about even the mere mention of a hands-free device , because nothing work the way she like it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But , I was determined to improve her safety while driving , because she 's always on the phone during her drive home from work .</Tokens>
+		<POS>CC , PRP VBD VBN TO VB PRP$ NN IN VBG , IN PRP VBZ RB IN DT NN IN PRP$ NN NN IN NN .</POS>
+		<Lemma>but , I be determine to improve she safety while drive , because she be always on the phone during she drive home from work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So , I got this with the thought of trying out one day to see how she liked it , and if she hated it , I would have used it in my car instead .</Tokens>
+		<POS>RB , PRP VBD DT IN DT NN IN VBG RP CD NN TO VB WRB PRP VBD PRP , CC IN PRP VBD PRP , PRP MD VB VBN PRP IN PRP$ NN RB .</POS>
+		<Lemma>so , I get this with the thought of try out one day to see how she like it , and if she hate it , I would have use it in my car instead .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This device really did the trick !</Tokens>
+		<POS>DT NN RB VBD DT NN .</POS>
+		<Lemma>this device really do the trick !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>She LOVES this thing and thanks me every day for getting it for her .</Tokens>
+		<POS>PRP VBZ DT NN CC NNS PRP DT NN IN VBG PRP IN PRP .</POS>
+		<Lemma>she love this thing and thanks I every day for get it for she .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The sound quality is excellent , and she was able to learn how to use it in less than 5 minutes .</Tokens>
+		<POS>DT JJ NN VBZ JJ , CC PRP VBD JJ TO VB WRB TO VB PRP IN JJR IN CD NNS .</POS>
+		<Lemma>the sound quality be excellent , and she be able to learn how to use it in less than 5 minute .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>She 's using it all the time , now .</Tokens>
+		<POS>PRP VBZ VBG PRP PDT DT NN , RB .</POS>
+		<Lemma>she be use it all the time , now .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>As a result , I ordered one for myself so I do n't have to use my earpiece , which gets uncomfortable at times .</Tokens>
+		<POS>IN DT NN , PRP VBD CD IN PRP RB PRP VBP RB VB TO VB PRP$ NN , WDT VBZ JJ IN NNS .</POS>
+		<Lemma>as a result , I order one for myself so I do not have to use my earpiece , which get uncomfortable at time .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Highly recommended !</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>highly recommend !</Lemma>
+	</Sentence>
+</Document>

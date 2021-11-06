@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use a percolator and this is very good coffee !</Tokens>
+		<POS>PRP VBP DT NN CC DT VBZ RB JJ NN .</POS>
+		<Lemma>I use a percolator and this be very good coffee !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Our nanny agrees .</Tokens>
+		<POS>PRP$ NN VBZ .</POS>
+		<Lemma>we nanny agree .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>She makes it just right for me each morning -LRB- I ca n't seem to make my coffee perfect each time , but she can -RRB- .</Tokens>
+		<POS>PRP VBZ PRP RB RB IN PRP DT NN -LRB- PRP MD RB VB TO VB PRP$ NN JJ DT NN , CC PRP MD -RRB- .</POS>
+		<Lemma>she make it just right for I each morning -lrb- I can not seem to make my coffee perfect each time , but she can -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It tastes best with sweetened condensed milk .</Tokens>
+		<POS>PRP VBZ JJS IN VBN JJ NN .</POS>
+		<Lemma>it taste best with sweeten condensed milk .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I highly suggest you try it with sweetened condensed milk !</Tokens>
+		<POS>PRP RB VBP PRP VB PRP IN VBN JJ NN .</POS>
+		<Lemma>I highly suggest you try it with sweeten condensed milk !</Lemma>
+	</Sentence>
+</Document>

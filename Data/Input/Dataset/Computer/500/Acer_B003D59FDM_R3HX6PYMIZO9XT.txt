@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Nice monitor for what I am using it for , i.e. manage servers .</Tokens>
+		<POS>JJ NN IN WP PRP VBP VBG PRP IN , FW VBP NNS .</POS>
+		<Lemma>nice monitor for what I be use it for , i.e. manage server .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For the price , you can not be wrong .</Tokens>
+		<POS>IN DT NN , PRP MD RB VB JJ .</POS>
+		<Lemma>for the price , you can not be wrong .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would not use it for graphical work or gaming .</Tokens>
+		<POS>PRP MD RB VB PRP IN JJ NN CC NN .</POS>
+		<Lemma>I would not use it for graphical work or gaming .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Feel plasticky -LRB- especially the stand -RRB- but once again , for the price I can not complain .</Tokens>
+		<POS>NN JJ -LRB- RB DT NN -RRB- CC RB RB , IN DT NN PRP MD RB VB .</POS>
+		<Lemma>feel plasticky -lrb- especially the stand -rrb- but once again , for the price I can not complain .</Lemma>
+	</Sentence>
+</Document>

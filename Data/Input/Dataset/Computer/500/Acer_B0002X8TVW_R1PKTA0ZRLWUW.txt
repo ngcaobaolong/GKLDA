@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wanted to upgrade my computer to have a dual monitor setup .</Tokens>
+		<POS>PRP VBD TO VB PRP$ NN TO VB DT JJ NN NN .</POS>
+		<Lemma>I want to upgrade my computer to have a dual monitor setup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought two of these monitors -LRB- for less than the price of the one monitor that I was replacing -RRB- and they are working great .</Tokens>
+		<POS>PRP VBD CD IN DT NNS -LRB- IN JJR IN DT NN IN DT CD NN IN PRP VBD VBG -RRB- CC PRP VBP VBG JJ .</POS>
+		<Lemma>I buy two of these monitor -lrb- for less than the price of the one monitor that I be replace -rrb- and they be work great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Colors are sharp and bright .</Tokens>
+		<POS>NNS VBP JJ CC JJ .</POS>
+		<Lemma>color be sharp and bright .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Dual display works seamlessly .</Tokens>
+		<POS>JJ NN VBZ RB .</POS>
+		<Lemma>dual display work seamlessly .</Lemma>
+	</Sentence>
+</Document>

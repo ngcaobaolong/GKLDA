@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera as a present for my father-in-law so ca n't report on effectiveness of the camera .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ IN PRP$ NN RB MD RB VB IN NN IN DT NN .</POS>
+		<Lemma>I buy this camera as a present for my father-in-law so can not report on effectiveness of the camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But the camera I received does n't look anything like the picture .</Tokens>
+		<POS>CC DT NN PRP VBD VBZ RB VB NN IN DT NN .</POS>
+		<Lemma>but the camera I receive do not look anything like the picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , it looks better so am not complaining yet .</Tokens>
+		<POS>RB , PRP VBZ RBR RB VBP RB VBG RB .</POS>
+		<Lemma>however , it look better so be not complain yet .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It did turn out to be blue instead of red , but I was n't really concerned with the color anyway .</Tokens>
+		<POS>PRP VBD VB RP TO VB JJ RB IN JJ , CC PRP VBD RB RB VBN IN DT NN RB .</POS>
+		<Lemma>it do turn out to be blue instead of red , but I be not really concern with the color anyway .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In conclusion , absolutely not what I ordered but not sure if I 'm unhappy about that because the product seems better .</Tokens>
+		<POS>IN NN , RB RB WP PRP VBD CC RB JJ IN PRP VBP JJ IN DT IN DT NN VBZ RBR .</POS>
+		<Lemma>in conclusion , absolutely not what I order but not sure if I be unhappy about that because the product seem better .</Lemma>
+	</Sentence>
+</Document>

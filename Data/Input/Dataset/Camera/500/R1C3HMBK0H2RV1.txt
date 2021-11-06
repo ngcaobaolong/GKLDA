@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>just like the other reviews stated is all true , this is a great camera .</Tokens>
+		<POS>RB IN DT JJ NNS VBN VBZ DT JJ , DT VBZ DT JJ NN .</POS>
+		<Lemma>just like the other review state be all true , this be a great camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use it for videoing my bowhunting adventures .</Tokens>
+		<POS>PRP VBP PRP IN VBG PRP$ NN NNS .</POS>
+		<Lemma>I use it for video my bowhunting adventure .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First the low light lux is amazing .</Tokens>
+		<POS>RB DT JJ NN NN VBZ JJ .</POS>
+		<Lemma>first the low light lux be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>To me that is a big plus .</Tokens>
+		<POS>TO PRP DT VBZ DT JJ NN .</POS>
+		<Lemma>to I that be a big plus .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>also the manual focus ring is handy and efficient .</Tokens>
+		<POS>RB DT JJ NN NN VBZ JJ CC JJ .</POS>
+		<Lemma>also the manual focus ring be handy and efficient .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>and then the sd storage is a huge plus .</Tokens>
+		<POS>CC RB DT NN NN VBZ DT JJ NN .</POS>
+		<Lemma>and then the sd storage be a huge plus .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If your looking for an outdoor cam , this is it .</Tokens>
+		<POS>IN PRP$ VBG IN DT JJ NN , DT VBZ PRP .</POS>
+		<Lemma>if you look for a outdoor cam , this be it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I also bought 2 of these batteries , and they work perfect .</Tokens>
+		<POS>PRP RB VBD CD IN DT NNS , CC PRP VBP JJ .</POS>
+		<Lemma>I also buy 2 of these battery , and they work perfect .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>-LRB- ... -RRB- New BP-827 Li-Ion 6-Hour Rechargeable Intelligent Battery for Canon VIXIA HF10 HF11 HF100 HF20 HF200 HF S10 S100 S20 S21 S200 HG20 HG21 M30 M31 M300 Camcorders </Tokens>
+		<POS>-LRB- : -RRB- JJ NNP NNP NNP NNP NNP NNP NNP IN NNP NNP NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NN NNS VBP</POS>
+		<Lemma>-lrb- ... -rrb- New BP-827 Li-Ion 6-Hour Rechargeable Intelligent Battery for Canon VIXIA hf10 hf11 hf100 hf20 hf200 hf s10 s100 s20 s21 s200 hg20 hg21 m30 m31 m300 camcorder </Lemma>
+	</Sentence>
+</Document>

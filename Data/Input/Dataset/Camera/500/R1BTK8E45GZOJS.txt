@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have a Nikon D300 and it is a great camera but it is very heavy .</Tokens>
+		<POS>PRP VBP DT NNP NN CC PRP VBZ DT JJ NN CC PRP VBZ RB JJ .</POS>
+		<Lemma>I have a Nikon d300 and it be a great camera but it be very heavy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Looking for a portable one that I can take it everywhere I go and I found one .</Tokens>
+		<POS>VBG IN DT JJ CD IN PRP MD VB PRP RB PRP VBP CC PRP VBD CD .</POS>
+		<Lemma>look for a portable one that I can take it everywhere I go and I find one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The Canon G12 is the best !</Tokens>
+		<POS>DT NNP NN VBZ DT JJS .</POS>
+		<Lemma>the Canon g12 be the best !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is easy to use and the picture quality is excellent .</Tokens>
+		<POS>PRP VBZ JJ TO VB CC DT NN NN VBZ JJ .</POS>
+		<Lemma>it be easy to use and the picture quality be excellent .</Lemma>
+	</Sentence>
+</Document>

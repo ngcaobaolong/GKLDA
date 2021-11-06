@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sure it charges , but whats the use if the connector comes apart ?</Tokens>
+		<POS>JJ PRP VBZ , CC VBZ DT NN IN DT NN VBZ RB .</POS>
+		<Lemma>sure it charge , but what the use if the connector come apart ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The connector that covers the wiring to the actual peice that goes into your phone is specifically came apart .</Tokens>
+		<POS>DT NN WDT VBZ DT NN TO DT JJ NN WDT VBZ IN PRP$ NN VBZ RB VBD RB .</POS>
+		<Lemma>the connector that cover the wiring to the actual peice that go into you phone be specifically come apart .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pushing the connector into my phone caused the housing to dislodge and break .</Tokens>
+		<POS>VBG DT NN IN PRP$ NN VBD DT NN TO VB CC VB .</POS>
+		<Lemma>push the connector into my phone cause the housing to dislodge and break .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The manufacture needs to glue it or something .</Tokens>
+		<POS>DT NN VBZ TO NN PRP CC NN .</POS>
+		<Lemma>the manufacture need to glue it or something .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Had to superglue it myself .</Tokens>
+		<POS>VBD TO VB PRP PRP .</POS>
+		<Lemma>have to superglue it myself .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Beware that you may be faced with a similar situation .</Tokens>
+		<POS>VB IN PRP MD VB VBN IN DT JJ NN .</POS>
+		<Lemma>beware that you may be face with a similar situation .</Lemma>
+	</Sentence>
+</Document>

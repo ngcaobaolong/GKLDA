@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>its basically a toy .</Tokens>
+		<POS>PRP$ RB DT NN .</POS>
+		<Lemma>its basically a toy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>if you ask me .</Tokens>
+		<POS>IN PRP VBP PRP .</POS>
+		<Lemma>if you ask I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>the high speed video is a joke the af blacks out when it captures the image , sometimes 4 seconds before its ready again , NO WAY .</Tokens>
+		<POS>DT JJ NN NN VBZ DT NN DT NN NNS IN WRB PRP VBZ DT NN , RB CD NNS IN PRP$ JJ RB , NN NN .</POS>
+		<Lemma>the high speed video be a joke the af black out when it capture the image , sometimes 4 seconds before its ready again , no way .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Sorry .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>sorry .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>its sad that a company even dreamed of making such a device and thinking of selling it .</Tokens>
+		<POS>PRP$ JJ IN DT NN RB VBD IN VBG PDT DT NN CC NN IN VBG PRP .</POS>
+		<Lemma>its sad that a company even dream of make such a device and thinking of sell it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>you can try it yourself , if you have used DSLR 's before , I guarantee you , you will be looking for another cam very soon if you buy this .</Tokens>
+		<POS>PRP MD VB PRP PRP , IN PRP VBP VBN NNP POS RB , PRP VBP PRP , PRP MD VB VBG IN DT FW RB RB IN PRP VBP DT .</POS>
+		<Lemma>you can try it yourself , if you have use DSLR 's before , I guarantee you , you will be look for another cam very soon if you buy this .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Me , returned within less than a week .</Tokens>
+		<POS>PRP , VBD IN JJR IN DT NN .</POS>
+		<Lemma>I , return within less than a week .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Amazon is awesome thought .</Tokens>
+		<POS>NNP VBZ JJ NN .</POS>
+		<Lemma>Amazon be awesome thought .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>love Amazon Return Policy , you can buy with confidence .</Tokens>
+		<POS>NN NNP NN NN , PRP MD VB IN NN .</POS>
+		<Lemma>love Amazon return policy , you can buy with confidence .</Lemma>
+	</Sentence>
+</Document>

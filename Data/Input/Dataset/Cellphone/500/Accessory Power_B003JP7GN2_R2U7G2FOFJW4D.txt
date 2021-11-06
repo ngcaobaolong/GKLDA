@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am really impressed with this product .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be really impressed with this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have been looking for a product that does all of this for a long time .</Tokens>
+		<POS>PRP VBP VBN VBG IN DT NN WDT VBZ DT IN DT IN DT JJ NN .</POS>
+		<Lemma>I have be look for a product that do all of this for a long time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Thank you !</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>thank you !</Lemma>
+	</Sentence>
+</Document>

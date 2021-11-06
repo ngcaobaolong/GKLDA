@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm an amateur photographer , and had several SLR cameras , including the D40 , D300 and D90 .</Tokens>
+		<POS>PRP VBP DT JJ NNP , CC VBD JJ NNP NNS , VBG DT NN , NN CC NN .</POS>
+		<Lemma>I be a amateur photographer , and have several SLR camera , include the d40 , d300 and d90 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The D7000 beats them all by far .</Tokens>
+		<POS>DT NN VBZ PRP DT IN RB .</POS>
+		<Lemma>the d7000 beat they all by far .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As I specially like night pictures , I traded my D90 for the D7000 for the extra sensibility and quality in higher ISO settings , and I 'm not disappointed .</Tokens>
+		<POS>IN PRP RB IN NN NNS , PRP VBD PRP$ NN IN DT NN IN DT JJ NN CC NN IN JJR NN NNS , CC PRP VBP RB VBN .</POS>
+		<Lemma>as I specially like night picture , I trade my d90 for the d7000 for the extra sensibility and quality in higher iso setting , and I be not disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very solid , smooth , fast , has good ergonomics and easy settings .</Tokens>
+		<POS>RB JJ , JJ , RB , VBZ JJ NNS CC JJ NNS .</POS>
+		<Lemma>very solid , smooth , fast , have good ergonomics and easy setting .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Two customizable front buttons are welcome .</Tokens>
+		<POS>CD JJ JJ NNS VBP JJ .</POS>
+		<Lemma>two customizable front button be welcome .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Has the `` pro '' feel of the D300 but is almost as light as the D90 .</Tokens>
+		<POS>VBZ DT `` JJ '' NN IN DT NN CC VBZ RB RB JJ IN DT NN .</POS>
+		<Lemma>have the `` pro '' feel of the d300 but be almost as light as the d90 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In short , a killer piece of hardware .</Tokens>
+		<POS>IN JJ , DT NN NN IN NN .</POS>
+		<Lemma>in short , a killer piece of hardware .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 'm very satisfied .</Tokens>
+		<POS>PRP VBP RB JJ .</POS>
+		<Lemma>I be very satisfied .</Lemma>
+	</Sentence>
+</Document>

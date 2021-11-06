@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This coffee has a good taste .</Tokens>
+		<POS>DT NN VBZ DT JJ NN .</POS>
+		<Lemma>this coffee have a good taste .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is strong , but that is what dark coffee is !</Tokens>
+		<POS>PRP VBZ JJ , CC DT VBZ WP JJ NN VBZ .</POS>
+		<Lemma>it be strong , but that be what dark coffee be !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Large size bag .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>large size bag .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Purchased through deal of the day and am satisfied with the product .</Tokens>
+		<POS>VBN IN NN IN DT NN CC VBP VBN IN DT NN .</POS>
+		<Lemma>purchase through deal of the day and be satisfy with the product .</Lemma>
+	</Sentence>
+</Document>

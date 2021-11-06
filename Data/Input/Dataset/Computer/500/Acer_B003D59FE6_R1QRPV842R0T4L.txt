@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Acer monitor specifically for its 4:3 ratio - I really did n't want the wide screen monitors .</Tokens>
+		<POS>PRP VBD DT NNP NN RB IN PRP$ CD NN : PRP RB VBD RB VB DT JJ NN NNS .</POS>
+		<Lemma>I buy the Acer monitor specifically for its 4:3 ratio - I really do not want the wide screen monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It arrived quickly , set up easily and once again I am up and running .</Tokens>
+		<POS>PRP VBD RB , VBN RP RB CC RB RB PRP VBP RB CC VBG .</POS>
+		<Lemma>it arrive quickly , set up easily and once again I be up and run .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Picture is sharp and clear .</Tokens>
+		<POS>NNP VBZ JJ CC JJ .</POS>
+		<Lemma>Picture be sharp and clear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only thing I would like to see is a larger size monitor with the same ratio eventually .</Tokens>
+		<POS>DT JJ NN PRP MD VB TO VB VBZ DT JJR NN NN IN DT JJ NN RB .</POS>
+		<Lemma>the only thing I would like to see be a larger size monitor with the same ratio eventually .</Lemma>
+	</Sentence>
+</Document>

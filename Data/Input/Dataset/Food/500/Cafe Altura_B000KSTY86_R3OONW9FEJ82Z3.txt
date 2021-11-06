@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am somewhat of a coffee snob .</Tokens>
+		<POS>PRP VBP RB IN DT NN NN .</POS>
+		<Lemma>I be somewhat of a coffee snob .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I tried many different kinds , flavors , strengths , brands etc. .</Tokens>
+		<POS>PRP VBD JJ JJ NNS , NNS , NNS , NNS FW .</POS>
+		<Lemma>I try many different kind , flavor , strength , brand etc. .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This coffee is just strong enough to really give you that jolt in the morning without being too bitter .</Tokens>
+		<POS>DT NN VBZ RB JJ RB TO RB VB PRP IN NN IN DT NN IN VBG RB JJ .</POS>
+		<Lemma>this coffee be just strong enough to really give you that jolt in the morning without be too bitter .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Perfect balance .</Tokens>
+		<POS>NNP NN .</POS>
+		<Lemma>Perfect balance .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When you open the bag up , the coffee beans are still wet from their natural oils .</Tokens>
+		<POS>WRB PRP VBP DT NN RB , DT NN NNS VBP RB JJ IN PRP$ JJ NNS .</POS>
+		<Lemma>when you open the bag up , the coffee bean be still wet from they natural oils .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The aroma is strong .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the aroma be strong .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I keep it in a pyrex container which is inside of a ziplock bag to keep the beans fresh .</Tokens>
+		<POS>PRP VBP PRP IN DT NN NN WDT VBZ IN IN DT NN NN TO VB DT NNS JJ .</POS>
+		<Lemma>I keep it in a pyrex container which be inside of a ziplock bag to keep the bean fresh .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Every weekend we grind enough coffee to last us throughout the week .</Tokens>
+		<POS>DT NN PRP VBP JJ NN TO VB PRP IN DT NN .</POS>
+		<Lemma>every weekend we grind enough coffee to last we throughout the week .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I tried the french roast but did n't like it b\/c it was too bitter .</Tokens>
+		<POS>PRP VBD DT JJ NN CC VBD RB VB PRP VB PRP VBD RB JJ .</POS>
+		<Lemma>I try the french roast but do not like it b\/c it be too bitter .</Lemma>
+	</Sentence>
+</Document>

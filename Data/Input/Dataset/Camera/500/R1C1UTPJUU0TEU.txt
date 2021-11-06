@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I feel like such a tool , paying nearly three times as much as this camera costs for those video baby monitors .</Tokens>
+		<POS>PRP VBP IN PDT DT NN , VBG RB CD NNS RB RB IN DT NN NNS IN DT JJ NN NNS .</POS>
+		<Lemma>I feel like such a tool , pay nearly three time as much as this camera cost for those video baby monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We set this up in about 3 minutes last night and I am currently watching my daughter snooze away on an iPad and an iPhone .</Tokens>
+		<POS>PRP VBD DT RP IN IN CD NNS JJ NN CC PRP VBP RB VBG PRP$ NN NN RB IN DT NN CC DT NNP .</POS>
+		<Lemma>we set this up in about 3 minute last night and I be currently watch my daughter snooze away on a ipad and a iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The video is much better than with our old video monitor -LRB- which conveniently died two months out of warranty -RRB- and the ability to pan-and-tilt remotely is a wonderful bonus .</Tokens>
+		<POS>DT NN VBZ RB JJR IN IN PRP$ JJ NN NN -LRB- WDT RB VBD CD NNS IN IN NN -RRB- CC DT NN TO NN RB VBZ DT JJ NN .</POS>
+		<Lemma>the video be much better than with we old video monitor -lrb- which conveniently die two month out of warranty -rrb- and the ability to pan-and-tilt remotely be a wonderful bonus .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only issue we 've had so far is that the audio is a bit TOO sensitive .</Tokens>
+		<POS>DT JJ NN PRP VBP VBN RB RB VBZ IN DT NN VBZ DT NN RB JJ .</POS>
+		<Lemma>the only issue we have have so far be that the audio be a bit too sensitive .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is currently picking up more of the ceiling fan than I 'd like .</Tokens>
+		<POS>PRP VBZ RB VBG RP JJR IN DT NN NN IN PRP MD VB .</POS>
+		<Lemma>it be currently pick up more of the ceiling fan than I would like .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 'll pop back in to this review in a few months and report on durability .</Tokens>
+		<POS>PRP MD VB RB IN TO DT NN IN DT JJ NNS CC NN IN NN .</POS>
+		<Lemma>I 'll pop back in to this review in a few month and report on durability .</Lemma>
+	</Sentence>
+</Document>

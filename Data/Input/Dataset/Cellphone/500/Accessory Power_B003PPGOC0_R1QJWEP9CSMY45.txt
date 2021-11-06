@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great product ... buy it !</Tokens>
+		<POS>DT VBZ DT JJ NN : VB PRP .</POS>
+		<Lemma>this be a great product ... buy it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to read manual ... very easy to set up .</Tokens>
+		<POS>NNP TO VB NN : RB JJ TO VB RP .</POS>
+		<Lemma>Easy to read manual ... very easy to set up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Makes hands free cell phone use a cinch .</Tokens>
+		<POS>VBZ NNS JJ NN NN VBP DT VB .</POS>
+		<Lemma>make hand free cell phone use a cinch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No wires .</Tokens>
+		<POS>DT NNS .</POS>
+		<Lemma>no wire .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>just plug into lighter .</Tokens>
+		<POS>RB VB IN JJR .</POS>
+		<Lemma>just plug into lighter .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Controls at your finger tips ... sound comes though your stereo system loud and clear .</Tokens>
+		<POS>NNP IN PRP$ NN NNS : NN VBZ IN PRP$ NN NN JJ CC JJ .</POS>
+		<Lemma>Controls at you finger tip ... sound come though you stereo system loud and clear .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've really enjoyed my acer 19 '' moniter .</Tokens>
+		<POS>PRP VBP RB VBN PRP$ NN CD '' VB .</POS>
+		<Lemma>I have really enjoy my acer 19 '' moniter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We 've had it for a month or so and have n't had any problems with it .</Tokens>
+		<POS>PRP VBP VBD PRP IN DT NN CC RB CC VBP RB VBD DT NNS IN PRP .</POS>
+		<Lemma>we have have it for a month or so and have not have any problem with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There are n't any dead pixels and the color is perfect !!</Tokens>
+		<POS>EX VBP RB DT JJ NNS CC DT NN VBZ JJ IN</POS>
+		<Lemma>there be not any dead pixel and the color be perfect !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It was shipped in a very secure box with lots of padding for protection .</Tokens>
+		<POS>PRP VBD VBN IN DT RB JJ NN IN NNS IN NN IN NN .</POS>
+		<Lemma>it be ship in a very secure box with lot of padding for protection .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This moniter does n't swivel though .</Tokens>
+		<POS>DT NN VBZ RB VB RB .</POS>
+		<Lemma>this moniter do not swivel though .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I thought that was a bad thing when I bought it but so far I have n't had a need for it to swivel .</Tokens>
+		<POS>PRP VBD DT VBD DT JJ NN WRB PRP VBD PRP CC RB RB PRP VBP RB VBD DT NN IN PRP TO VB .</POS>
+		<Lemma>I think that be a bad thing when I buy it but so far I have not have a need for it to swivel .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It does tilt back and forth though .</Tokens>
+		<POS>PRP VBZ VB RB CC RB RB .</POS>
+		<Lemma>it do tilt back and forth though .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The only draw back -LRB- and I 'm really reaching for something here -RRB- is that the manual is on a cd and not in hard copy form .</Tokens>
+		<POS>DT JJ NN RB -LRB- CC PRP VBP RB VBG IN NN RB -RRB- VBZ IN DT NN VBZ IN DT NN CC RB IN JJ NN NN .</POS>
+		<Lemma>the only draw back -lrb- and I be really reach for something here -rrb- be that the manual be on a cd and not in hard copy form .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If my moniter is out how can a look in the manual for a number or possible ways to fix it ???</Tokens>
+		<POS>IN PRP$ NN VBZ IN WRB MD DT NN IN DT NN IN DT NN CC JJ NNS TO VB PRP IN</POS>
+		<Lemma>if my moniter be out how can a look in the manual for a number or possible way to fix it ???</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I would totally recommend this moniter to anyone looking for a great moniter for a small price .</Tokens>
+		<POS>PRP MD RB VB DT NN TO NN VBG IN DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>I would totally recommend this moniter to anyone look for a great moniter for a small price .</Lemma>
+	</Sentence>
+</Document>

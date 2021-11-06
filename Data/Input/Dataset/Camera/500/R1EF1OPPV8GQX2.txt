@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera was by far the best camera option for the price .</Tokens>
+		<POS>DT NN VBD IN RB DT JJS NN NN IN DT NN .</POS>
+		<Lemma>this camera be by far the best camera option for the price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only thing I could n't get working was the IPCMonitor software that came with it .</Tokens>
+		<POS>DT JJ NN PRP MD RB VB VBG VBD DT NN NN WDT VBD IN PRP .</POS>
+		<Lemma>the only thing I could not get work be the ipcmonitor software that come with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I even downloaded the same software from a different web site and even an older version , it wo n't even start just says `` failed to find system settings '' tried it on multiple machines and no go .</Tokens>
+		<POS>PRP RB VBD DT JJ NN IN DT JJ NN NN CC RB DT JJR NN , PRP MD RB RB VB RB VBZ `` VBN TO VB NN NNS '' VBD PRP IN JJ NNS CC DT NN .</POS>
+		<Lemma>I even download the same software from a different web site and even a older version , it will not even start just say `` fail to find system setting '' try it on multiple machine and no go .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But it does serve the purpose I bought it for and the web server offers all the features I was really looking for anyway .</Tokens>
+		<POS>CC PRP VBZ VB DT NN PRP VBD PRP IN CC DT NN NN VBZ PDT DT NNS PRP VBD RB VBG IN RB .</POS>
+		<Lemma>but it do serve the purpose I buy it for and the web server offer all the feature I be really look for anyway .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great product , all my friends want one now .</Tokens>
+		<POS>JJ NN , DT PRP$ NNS VBP CD RB .</POS>
+		<Lemma>great product , all my friend want one now .</Lemma>
+	</Sentence>
+</Document>

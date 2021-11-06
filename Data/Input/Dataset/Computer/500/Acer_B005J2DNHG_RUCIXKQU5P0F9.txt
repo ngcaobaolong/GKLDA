@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased this netbook for the size and personal preference for Acer products .</Tokens>
+		<POS>VBN DT NN IN DT NN CC JJ NN IN NNP NNS .</POS>
+		<Lemma>purchase this netbook for the size and personal preference for Acer product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I upgraded the memory to 2GB and upgraded the Windows install to Ultimate 64bit and it runs much better than starter edition ever could even hope to .</Tokens>
+		<POS>PRP VBD DT NN TO NN CC VBN DT NNP VB TO NNP CD CC PRP VBZ RB JJR IN JJ NN RB MD RB VB TO .</POS>
+		<Lemma>I upgrade the memory to 2gb and upgrade the Windows install to Ultimate 64bit and it run much better than starter edition ever could even hope to .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , when watching flash videos for extended periods of time the tiny Atom cpu has a tendency to overheat .</Tokens>
+		<POS>RB , WRB VBG NN NNS IN JJ NNS IN NN DT JJ NNP NN VBZ DT NN TO VB .</POS>
+		<Lemma>however , when watch flash video for extended period of time the tiny Atom cpu have a tendency to overheat .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It should be noted that I caused this problem myself , as running in 64bit with more memory to access causes the cpu to work harder when `` idling '' .</Tokens>
+		<POS>PRP MD VB VBN IN PRP VBD DT NN PRP , IN VBG IN NN IN JJR NN TO NN VBZ DT NN TO VB JJR WRB `` VBG '' .</POS>
+		<Lemma>it should be note that I cause this problem myself , as run in 64bit with more memory to access cause the cpu to work harder when `` idle '' .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I solved the problem by getting a cooling pad and physically attaching it to the bottom with double sided sticky tape .</Tokens>
+		<POS>PRP VBD DT NN IN VBG DT NN NN CC RB VBG PRP TO DT NN IN JJ VBD JJ NN .</POS>
+		<Lemma>I solve the problem by get a cooling pad and physically attach it to the bottom with double side sticky tape .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This solves the overheating problem I created for myself .</Tokens>
+		<POS>DT VBZ DT VBG NN PRP VBD IN PRP .</POS>
+		<Lemma>this solve the overheate problem I create for myself .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Overall I would still buy this again , but you should be aware of the overheating that upgrades can cause .</Tokens>
+		<POS>JJ PRP MD RB VB DT RB , CC PRP MD VB JJ IN DT VBG IN NNS MD VB .</POS>
+		<Lemma>overall I would still buy this again , but you should be aware of the overheate that upgrade can cause .</Lemma>
+	</Sentence>
+</Document>

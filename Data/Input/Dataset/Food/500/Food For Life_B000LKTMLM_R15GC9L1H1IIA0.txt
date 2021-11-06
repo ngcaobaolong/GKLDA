@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After reading with disgust all the additives and junk in the ingredients of my previous `` healthy '' cereal brand , I wanted to find something truly good for me .</Tokens>
+		<POS>IN VBG IN NN PDT DT NNS CC NN IN DT NNS IN PRP$ JJ `` JJ '' NN NN , PRP VBD TO VB NN RB JJ IN PRP .</POS>
+		<Lemma>after read with disgust all the additive and junk in the ingredient of my previous `` healthy '' cereal brand , I want to find something truly good for I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I just tried this cereal for the first time yesterday .</Tokens>
+		<POS>PRP RB VBD DT NN IN DT JJ NN NN .</POS>
+		<Lemma>I just try this cereal for the first time yesterday .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought it with low expectations , but I was very pleasantly surprised at how good it is !</Tokens>
+		<POS>PRP VBD PRP IN JJ NNS , CC PRP VBD RB RB VBN IN WRB JJ PRP VBZ .</POS>
+		<Lemma>I buy it with low expectation , but I be very pleasantly surprise at how good it be !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As others have mentioned , it has a texture that may not appeal to everyone -LRB- kind of like Grape Nuts , only different . -RRB-</Tokens>
+		<POS>IN NNS VBP VBN , PRP VBZ DT NN WDT MD RB VB TO NN -LRB- NN IN IN NN NNS , RB JJ . -RRB-</POS>
+		<Lemma>as other have mention , it have a texture that may not appeal to everyone -lrb- kind of like grape nut , only different . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I use soy milk , which gives it a richer taste -LRB- admittedly not for everyone , but I like it -RRB- .</Tokens>
+		<POS>PRP VBP NN NN , WDT VBZ PRP DT JJR NN -LRB- RB RB IN NN , CC PRP VBP PRP -RRB- .</POS>
+		<Lemma>I use soy milk , which give it a richer taste -lrb- admittedly not for everyone , but I like it -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The cereal is very absorbent and soaks up the milk really quickly , so you may need to add more as desired .</Tokens>
+		<POS>DT NN VBZ RB JJ CC VBZ RP DT NN RB RB , IN PRP MD VB TO VB JJR IN VBN .</POS>
+		<Lemma>the cereal be very absorbent and soak up the milk really quickly , so you may need to add more as desire .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have not tried it hot yet , but I bet it 's really good that way , too .</Tokens>
+		<POS>PRP VBP RB VBN PRP JJ RB , CC PRP VBP PRP VBZ RB JJ IN NN , RB .</POS>
+		<Lemma>I have not try it hot yet , but I bet it be really good that way , too .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I highly recommend this cereal and ca n't wait to try this company 's other products !</Tokens>
+		<POS>PRP RB VB DT NN CC MD RB VB TO VB DT NN POS JJ NNS .</POS>
+		<Lemma>I highly recommend this cereal and can not wait to try this company 's other product !</Lemma>
+	</Sentence>
+</Document>

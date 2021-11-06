@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to make soup .</Tokens>
+		<POS>PRP VBD DT TO VB NN .</POS>
+		<Lemma>I buy this to make soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You can also put 1 cup of this and mix with 3 cups of sticky rice .</Tokens>
+		<POS>PRP MD RB VB CD NN IN DT CC VB IN CD NNS IN JJ NN .</POS>
+		<Lemma>you can also put 1 cup of this and mix with 3 cup of sticky rice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Clean the mixture several times , then rinse the water out .</Tokens>
+		<POS>JJ DT NN JJ NNS , RB VB DT NN RP .</POS>
+		<Lemma>clean the mixture several time , then rinse the water out .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After that , you steam this mixture until it is cooked -LRB- check after 30 minutes -RRB- You will have delicious vegetables beans sticky rice !</Tokens>
+		<POS>IN DT , PRP NN DT NN IN PRP VBZ VBN -LRB- NN IN CD NNS -RRB- PRP MD VB JJ NNS NNS JJ NN .</POS>
+		<Lemma>after that , you steam this mixture until it be cook -lrb- check after 30 minute -rrb- you will have delicious vegetable bean sticky rice !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Enjoy .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>enjoy .</Lemma>
+	</Sentence>
+</Document>

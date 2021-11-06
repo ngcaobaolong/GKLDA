@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wanted to replace my Z5 and liked the looks and specs of this camera .</Tokens>
+		<POS>PRP VBD TO VB PRP$ NN CC VBD DT NNS CC NNS IN DT NN .</POS>
+		<Lemma>I want to replace my z5 and like the look and spec of this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My only issue is battery life .</Tokens>
+		<POS>PRP$ JJ NN VBZ NN NN .</POS>
+		<Lemma>my only issue be battery life .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I leave my camera on my desk until I need it .</Tokens>
+		<POS>PRP VBP PRP$ NN IN PRP$ NN IN PRP VBP PRP .</POS>
+		<Lemma>I leave my camera on my desk until I need it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>With tith camera I must have a second battery fully charged .</Tokens>
+		<POS>IN NN NN PRP MD VB DT JJ NN RB VBN .</POS>
+		<Lemma>with tith camera I must have a second battery fully charge .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The battery in the camera on my desktop will only last 3 days .</Tokens>
+		<POS>DT NN IN DT NN IN PRP$ NN MD RB VB CD NNS .</POS>
+		<Lemma>the battery in the camera on my desktop will only last 3 day .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My older camera would last months .</Tokens>
+		<POS>PRP$ JJR NN MD VB NNS .</POS>
+		<Lemma>my older camera would last month .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Bad Engineering .</Tokens>
+		<POS>JJ NNP .</POS>
+		<Lemma>bad Engineering .</Lemma>
+	</Sentence>
+</Document>

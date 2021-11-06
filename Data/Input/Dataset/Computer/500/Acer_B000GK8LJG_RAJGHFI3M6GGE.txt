@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have spent days tryng to get this working with my new laptop , and have had brush off from Acer .</Tokens>
+		<POS>PRP VBP VBN NNS JJ TO VB DT VBG IN PRP$ JJ NN , CC VBP VBN NN RB IN NNP .</POS>
+		<Lemma>I have spend day tryng to get this work with my new laptop , and have have brush off from Acer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>CDROM has feeble ` manual ' but no driver , so you have to download it .</Tokens>
+		<POS>NNP VBZ JJ `` NN '' CC DT NN , RB PRP VBP TO VB PRP .</POS>
+		<Lemma>CDROM have feeble ` manual ' but no driver , so you have to download it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So far I have a stretched 1024 by 768 picture , not a 1440 x 900 one .</Tokens>
+		<POS>RB RB PRP VBP DT VBN CD IN CD NN , RB DT CD CC CD CD .</POS>
+		<Lemma>so far I have a stretch 1024 by 768 picture , not a 1440 x 900 one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After Googling , I can see a lot of other people have the same problem .</Tokens>
+		<POS>IN NNP , PRP MD VB DT NN IN JJ NNS VBP DT JJ NN .</POS>
+		<Lemma>after Googling , I can see a lot of other people have the same problem .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you are n't absolutely sure it will work with your laptop - do n't get it !</Tokens>
+		<POS>IN PRP VBP RB RB JJ PRP MD VB IN PRP$ NN : VBP RB VB PRP .</POS>
+		<Lemma>if you be not absolutely sure it will work with you laptop - do not get it !</Lemma>
+	</Sentence>
+</Document>

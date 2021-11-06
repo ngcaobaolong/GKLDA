@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this product in mid-May , installed it over Memorial Day weekend and it did n't even make it to Labor Day .</Tokens>
+		<POS>PRP VBD DT NN IN NNP , VBD PRP IN NNP NNP NN CC PRP VBD RB RB VB PRP TO NNP NNP .</POS>
+		<Lemma>I purchase this product in mid-May , install it over Memorial Day weekend and it do not even make it to Labor Day .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is rarely used and a week ago when I tried to use it , it kept blacking out .</Tokens>
+		<POS>PRP VBZ RB VBN CC DT NN RB WRB PRP VBD TO VB PRP , PRP VBD VBG RP .</POS>
+		<Lemma>it be rarely use and a week ago when I try to use it , it keep black out .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Today , I went to turn it on and it no longer works .</Tokens>
+		<POS>NN , PRP VBD TO VB PRP IN CC PRP RB RB VBZ .</POS>
+		<Lemma>today , I go to turn it on and it no longer work .</Lemma>
+	</Sentence>
+</Document>

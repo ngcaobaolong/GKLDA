@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had XA10 for a little over a month now and I love it !</Tokens>
+		<POS>PRP VBP VBD NN IN DT JJ IN DT NN RB CC PRP VBP PRP .</POS>
+		<Lemma>I have have xa10 for a little over a month now and I love it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great for interviews and long shooting sessions .</Tokens>
+		<POS>NNP IN NNS CC JJ NN NNS .</POS>
+		<Lemma>Great for interview and long shooting session .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The storage space and capability is unbelievable .</Tokens>
+		<POS>DT NN NN CC NN VBZ JJ .</POS>
+		<Lemma>the storage space and capability be unbelievable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You have so many professional options and settings that you would normally expect to find on a larger Pro Cam .</Tokens>
+		<POS>PRP VBP RB JJ JJ NNS CC NNS IN PRP MD RB VB TO VB IN DT JJR FW FW .</POS>
+		<Lemma>you have so many professional option and setting that you would normally expect to find on a larger pro cam .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The cool thing is that the XA10 is really not much larger than your average consumer cam .</Tokens>
+		<POS>DT JJ NN VBZ IN DT NN VBZ RB RB JJ JJR IN PRP$ JJ NN NN .</POS>
+		<Lemma>the cool thing be that the xa10 be really not much larger than you average consumer cam .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you 're looking for the power of an HD Pro Cam , but the size of that handycam you 're used to , definitely get the Canon XA10</Tokens>
+		<POS>IN PRP VBP VBG IN DT NN IN DT NN FW FW , CC DT NN IN DT NN PRP VBP VBN TO , RB VB DT NNP NN</POS>
+		<Lemma>if you be look for the power of a hd pro cam , but the size of that handycam you be use to , definitely get the Canon xa10</Lemma>
+	</Sentence>
+</Document>

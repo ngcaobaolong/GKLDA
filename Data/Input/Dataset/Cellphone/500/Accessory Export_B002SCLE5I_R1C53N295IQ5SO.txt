@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product did not work at all .</Tokens>
+		<POS>DT NN VBD RB VB IN DT .</POS>
+		<Lemma>this product do not work at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only reason I gave it one star is because I could not submit my review without doing so .</Tokens>
+		<POS>DT JJ NN PRP VBD PRP CD NN VBZ IN PRP MD RB VB PRP$ NN IN VBG RB .</POS>
+		<Lemma>the only reason I give it one star be because I could not submit my review without do so .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's too large to fit inside either my cell phone or my daughters .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB IN CC PRP$ NN NN CC PRP$ NNS .</POS>
+		<Lemma>it be too large to fit inside either my cell phone or my daughter .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It overlap 's the sim card and it did not boost either of our singles .</Tokens>
+		<POS>PRP VBP POS DT NN NN CC PRP VBD RB VB DT IN PRP$ NNS .</POS>
+		<Lemma>it overlap 's the sim card and it do not boost either of we singles .</Lemma>
+	</Sentence>
+</Document>

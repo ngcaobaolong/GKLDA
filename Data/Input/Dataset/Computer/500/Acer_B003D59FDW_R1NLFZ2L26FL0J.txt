@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Since I received my Acer Widescreen LCD Monitor I look forward to the BIG screen .</Tokens>
+		<POS>IN PRP VBD PRP$ NNP NNP NNS NNP PRP VBP RB TO DT NNP NN .</POS>
+		<Lemma>since I receive my Acer Widescreen lcd Monitor I look forward to the BIG screen .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It makes a world of difference sitting on my desk ready to go whenever I am .</Tokens>
+		<POS>PRP VBZ DT NN IN NN VBG IN PRP$ NN JJ TO VB WRB PRP VBP .</POS>
+		<Lemma>it make a world of difference sit on my desk ready to go whenever I be .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I sit down and turn it on ; it opens up and it is bright and clear .</Tokens>
+		<POS>PRP VBP RB CC VB PRP IN : PRP VBZ RB CC PRP VBZ JJ CC JJ .</POS>
+		<Lemma>I sit down and turn it on ; it open up and it be bright and clear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I much prefer this to a laptop for my office because it makes working at my desk much easier , and the screen is tilted just right .</Tokens>
+		<POS>PRP RB VBP DT TO DT NN IN PRP$ NN IN PRP VBZ VBG IN PRP$ NN RB JJR , CC DT NN VBZ JJ RB RB .</POS>
+		<Lemma>I much prefer this to a laptop for my office because it make work at my desk much easier , and the screen be tilted just right .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I knew again , if I purchased it from Amazon , I could expect quality .</Tokens>
+		<POS>PRP VBD RB , IN PRP VBD PRP IN NNP , PRP MD VB NN .</POS>
+		<Lemma>I know again , if I purchase it from Amazon , I could expect quality .</Lemma>
+	</Sentence>
+</Document>

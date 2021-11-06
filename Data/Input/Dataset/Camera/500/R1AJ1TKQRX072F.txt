@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great camera for people with amateur skills who want professional quality pictures .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NNS IN JJ NNS WP VBP JJ NN NNS .</POS>
+		<Lemma>this be a great camera for people with amateur skill who want professional quality picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I purchased this camera to take with me on a vacation to Bali and came back with terrific pictures and videos that everyone is complimenting .</Tokens>
+		<POS>PRP VBD DT NN TO VB IN PRP IN DT NN TO NNP CC VBD RB IN JJ NNS CC NNS WDT NN VBZ VBG .</POS>
+		<Lemma>I purchase this camera to take with I on a vacation to Bali and come back with terrific picture and video that everyone be compliment .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm very happy with the purchase .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be very happy with the purchase .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only thing I would change about the design is the view finder .</Tokens>
+		<POS>DT JJ NN PRP MD VB IN DT NN VBZ DT NN NN .</POS>
+		<Lemma>the only thing I would change about the design be the view finder .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It can be a bit cumbersome for some shots as the screen opens up .</Tokens>
+		<POS>PRP MD VB DT NN JJ IN DT NNS IN DT NN VBZ RP .</POS>
+		<Lemma>it can be a bit cumbersome for some shot as the screen open up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would prefer it to be embedded in the camera .</Tokens>
+		<POS>PRP MD VB PRP TO VB VBN IN DT NN .</POS>
+		<Lemma>I would prefer it to be embed in the camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>That said , the swivel function is good and helps you position the camera to get the best shot .</Tokens>
+		<POS>DT VBD , DT NN NN VBZ JJ CC VBZ PRP VB DT NN TO VB DT JJS NN .</POS>
+		<Lemma>that say , the swivel function be good and help you position the camera to get the best shot .</Lemma>
+	</Sentence>
+</Document>

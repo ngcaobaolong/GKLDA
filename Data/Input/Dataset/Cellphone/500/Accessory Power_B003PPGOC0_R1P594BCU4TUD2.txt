@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is outstanding !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this product be outstanding !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It delivers everything it promises .</Tokens>
+		<POS>PRP VBZ NN PRP VBZ .</POS>
+		<Lemma>it deliver everything it promise .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great reception , no problems making hands free phone calls thru your cars speakers .</Tokens>
+		<POS>JJ NN , DT NNS VBG NNS JJ NN VBZ NN PRP$ NNS NNS .</POS>
+		<Lemma>great reception , no problem make hand free phone call thru you car speaker .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I can play my Ipod thru my Iphone 4 as well as listen to Pandora thru my phone and it sounds amazing !</Tokens>
+		<POS>PRP MD VB PRP$ NNP NN PRP$ NNP CD RB RB IN VB TO NNP NN PRP$ NN CC PRP VBZ JJ .</POS>
+		<Lemma>I can play my Ipod thru my Iphone 4 as well as listen to Pandora thru my phone and it sound amazing !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>ANd you can charge your phone while you are using it thru the usb port on it .</Tokens>
+		<POS>NNP PRP MD VB PRP$ NN IN PRP VBP VBG PRP IN DT NN NN IN PRP .</POS>
+		<Lemma>ANd you can charge you phone while you be use it thru the usb port on it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Sometimes you 'll get a little hiss when charging , and listening to music but it does n't last long ... You wo n't be disappointed !</Tokens>
+		<POS>RB PRP MD VB DT JJ NN WRB VBG , CC VBG TO NN CC PRP VBZ RB JJ JJ : PRP MD RB VB JJ .</POS>
+		<Lemma>sometimes you 'll get a little hiss when charge , and listen to music but it do not last long ... you will not be disappointed !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I give it 5 stars !</Tokens>
+		<POS>PRP VBP PRP CD NNS .</POS>
+		<Lemma>I give it 5 star !</Lemma>
+	</Sentence>
+</Document>

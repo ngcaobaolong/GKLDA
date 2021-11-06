@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have owned the X10 since the end of Jan. 2012 , and I have thoroughly enjoyed it .</Tokens>
+		<POS>PRP VBP VBN DT NN IN DT NN IN NNP CD , CC PRP VBP RB VBN PRP .</POS>
+		<Lemma>I have own the x10 since the end of Jan. 2012 , and I have thoroughly enjoy it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Years ago I was a professional news photographer with over 13 years experience .</Tokens>
+		<POS>NNS IN PRP VBD DT JJ NN NNP IN IN CD NNS NN .</POS>
+		<Lemma>year ago I be a professional news photographer with over 13 year experience .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The X10 brings back the joy of shooting for me , and I find for shooting candids , this camera delivers .</Tokens>
+		<POS>DT NN VBZ RP DT NN IN NN IN PRP , CC PRP VBP IN JJ NNS , DT NN VBZ .</POS>
+		<Lemma>the x10 bring back the joy of shooting for I , and I find for shooting candid , this camera deliver .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was aware of the orb issue when I bought the camera , but it really has not been a problem for me .</Tokens>
+		<POS>PRP VBD JJ IN DT NN NN WRB PRP VBD DT NN , CC PRP RB VBZ RB VBN DT NN IN PRP .</POS>
+		<Lemma>I be aware of the orb issue when I buy the camera , but it really have not be a problem for I .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have not had an orb ruin a picture yet , but I am certain that eventually I might encounter such a situation .</Tokens>
+		<POS>PRP VBP RB VBN DT NN VB DT NN RB , CC PRP VBP JJ IN RB PRP MD VB PDT DT NN .</POS>
+		<Lemma>I have not have a orb ruin a picture yet , but I be certain that eventually I might encounter such a situation .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The pluses of the X10 far outweigh the minuses .</Tokens>
+		<POS>DT NNS IN DT NN RB VBP DT NNS .</POS>
+		<Lemma>the plus of the x10 far outweigh the minus .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The optical viewfinder was one of the main selling points for me , and it has not been a disappointment .</Tokens>
+		<POS>DT JJ NN VBD CD IN DT JJ NN NNS IN PRP , CC PRP VBZ RB VBN DT NN .</POS>
+		<Lemma>the optical viewfinder be one of the main selling point for I , and it have not be a disappointment .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is no information in the viewfinder , but the auto focus and auto exposure are very accurate , and one can shoot with confidence with the OVF .</Tokens>
+		<POS>EX VBZ DT NN IN DT NN , CC DT NN NN CC NN NN VBP RB JJ , CC PRP MD VB IN NN IN DT NN .</POS>
+		<Lemma>there be no information in the viewfinder , but the auto focus and auto exposure be very accurate , and one can shoot with confidence with the ovf .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There are times I know that the camera will be fooled , and that is when I depend on the LCD finder .</Tokens>
+		<POS>EX VBP NNS PRP VBP IN DT NN MD VB VBN , CC DT VBZ WRB PRP VBP IN DT NNS VBP .</POS>
+		<Lemma>there be time I know that the camera will be fool , and that be when I depend on the lcd finder .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The image quality never ceases to amaze me .</Tokens>
+		<POS>DT NN NN RB VBZ TO VB PRP .</POS>
+		<Lemma>the image quality never cease to amaze I .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Do n't expect this camera to compete against the higher priced dslr 's and the new mirrorless offerings .</Tokens>
+		<POS>VBP RB VB DT NN TO VB IN DT JJR VBN NN POS CC DT JJ JJ NNS .</POS>
+		<Lemma>do not expect this camera to compete against the higher price dslr 's and the new mirrorless offering .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>However , for its size , features , and price , the X10 is a wonderful camera .</Tokens>
+		<POS>RB , IN PRP$ NN , NNS , CC NN , DT NN VBZ DT JJ NN .</POS>
+		<Lemma>however , for its size , feature , and price , the x10 be a wonderful camera .</Lemma>
+	</Sentence>
+</Document>

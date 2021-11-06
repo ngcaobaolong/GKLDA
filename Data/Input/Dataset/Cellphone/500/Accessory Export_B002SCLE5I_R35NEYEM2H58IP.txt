@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I do n't care what everybody else says .</Tokens>
+		<POS>PRP VBP RB VB WP NN RB VBZ .</POS>
+		<Lemma>I do not care what everybody else say .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But for me the thing work good enough .</Tokens>
+		<POS>CC IN PRP DT NN VB JJ RB .</POS>
+		<Lemma>but for I the thing work good enough .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My wife phone at her work she ca n't even call me before .</Tokens>
+		<POS>PRP$ NN NN IN PRP$ NN PRP MD RB RB VB PRP IN .</POS>
+		<Lemma>my wife phone at she work she can not even call I before .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now she is able to thanks to me choking her phone with 5 of these stickers antenna .</Tokens>
+		<POS>RB PRP VBZ JJ TO NNS TO PRP VBG PRP$ NN IN CD IN DT NNS NN .</POS>
+		<Lemma>now she be able to thanks to I choke she phone with 5 of these sticker antenna .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Hey if you believe than it will work , but if you do n't than nothing in life will work for you .</Tokens>
+		<POS>UH IN PRP VBP IN PRP MD VB , CC IN PRP VBP RB IN NN IN NN MD VB IN PRP .</POS>
+		<Lemma>hey if you believe than it will work , but if you do not than nothing in life will work for you .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Go ahead spend a couple of dollars .</Tokens>
+		<POS>VB RB VB DT NN IN NNS .</POS>
+		<Lemma>go ahead spend a couple of dollar .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It 's not going to break your bank .</Tokens>
+		<POS>PRP VBZ RB VBG TO VB PRP$ NN .</POS>
+		<Lemma>it be not go to break you bank .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>We 've spend more money on other stupid things before .</Tokens>
+		<POS>PRP VBP VB JJR NN IN JJ JJ NNS IN .</POS>
+		<Lemma>we have spend more money on other stupid thing before .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Go home and look in your bathroom and see how many stuff that we buy and more than half of those stuff we do n't even use .</Tokens>
+		<POS>VB NN CC VB IN PRP$ NN CC VB WRB JJ NN IN PRP VBP CC JJR IN NN IN DT NN PRP VBP RB RB VB .</POS>
+		<Lemma>go home and look in you bathroom and see how many stuff that we buy and more than half of those stuff we do not even use .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Go ahead buy it for your love one 's phones .</Tokens>
+		<POS>VB RB VB PRP IN PRP$ NN CD POS NNS .</POS>
+		<Lemma>go ahead buy it for you love one 's phone .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's all for a good cause .</Tokens>
+		<POS>PRP VBZ DT IN DT JJ NN .</POS>
+		<Lemma>it be all for a good cause .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>If it work , great !</Tokens>
+		<POS>IN PRP VB , JJ .</POS>
+		<Lemma>if it work , great !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>But if it does n't , then at lease you have overcome the fear of buying this product and loose a couple of dollars .</Tokens>
+		<POS>CC IN PRP VBZ RB , RB IN NN PRP VBP VBN DT NN IN VBG DT NN CC VB DT NN IN NNS .</POS>
+		<Lemma>but if it do not , then at lease you have overcome the fear of buy this product and loose a couple of dollar .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>One bar is all you need and that one emergency call will save your life .</Tokens>
+		<POS>CD NN VBZ DT PRP VBP CC IN CD NN NN MD VB PRP$ NN .</POS>
+		<Lemma>one bar be all you need and that one emergency call will save you life .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Your wife will appreciate the good thing that you have care for her and that my friend is priceless .</Tokens>
+		<POS>PRP$ NN MD VB DT JJ NN IN PRP VBP NN IN PRP$ CC IN PRP$ NN VBZ JJ .</POS>
+		<Lemma>you wife will appreciate the good thing that you have care for she and that my friend be priceless .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>You might get lucky tonight for being her hero .</Tokens>
+		<POS>PRP MD VB JJ NN IN VBG PRP$ NN .</POS>
+		<Lemma>you might get lucky tonight for be she hero .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>LOL .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>LOL .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought if for playing Pandora and iPod songs on my iPhone 4 .</Tokens>
+		<POS>PRP VBD IN IN VBG NNP CC NNP NNS IN PRP$ NNP CD .</POS>
+		<Lemma>I buy if for play Pandora and iPod song on my iPhone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The transmission is good and pairs quick with the phone .</Tokens>
+		<POS>DT NN VBZ JJ CC NNS JJ IN DT NN .</POS>
+		<Lemma>the transmission be good and pair quick with the phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The handsfree calling also works well .</Tokens>
+		<POS>DT NN VBG RB VBZ RB .</POS>
+		<Lemma>the handsfree call also work well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only con so far is that I accidentally hit the flexible neck at times which resets the transmitter .</Tokens>
+		<POS>DT JJ NN RB RB VBZ IN PRP RB VBD DT JJ NN IN NNS WDT VBZ DT NN .</POS>
+		<Lemma>the only con so far be that I accidentally hit the flexible neck at time which reset the transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I think it is more of getting used to .</Tokens>
+		<POS>PRP VBP PRP VBZ JJR IN VBG VBN TO .</POS>
+		<Lemma>I think it be more of get use to .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Recommended !</Tokens>
+		<POS>VBN .</POS>
+		<Lemma>recommend !</Lemma>
+	</Sentence>
+</Document>

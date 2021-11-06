@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cereal is very nutritious and a bargain on Amazon .</Tokens>
+		<POS>DT NN VBZ RB JJ CC DT NN IN NNP .</POS>
+		<Lemma>this cereal be very nutritious and a bargain on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a similar tasting cereal to grapenuts but has no flour or sugar -- pure whole grains .</Tokens>
+		<POS>PRP VBZ DT JJ NN NN TO NNS CC VBZ DT NN CC NN : JJ JJ NNS .</POS>
+		<Lemma>it be a similar tasting cereal to grapenut but have no flour or sugar -- pure whole grain .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I really love it and it is priced right here !</Tokens>
+		<POS>PRP RB VBP PRP CC PRP VBZ VBN RB RB .</POS>
+		<Lemma>I really love it and it be price right here !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is very clear with no distortion and was just what I was looking for at a great price .</Tokens>
+		<POS>DT NN VBZ RB JJ IN DT NN CC VBD RB WP PRP VBD VBG IN IN DT JJ NN .</POS>
+		<Lemma>this monitor be very clear with no distortion and be just what I be look for at a great price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had no previous experience with Acer , but would definitely recommend this product to others .</Tokens>
+		<POS>PRP VBD DT JJ NN IN NNP , CC MD RB VB DT NN TO NNS .</POS>
+		<Lemma>I have no previous experience with Acer , but would definitely recommend this product to other .</Lemma>
+	</Sentence>
+</Document>

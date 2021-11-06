@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What a great experience !</Tokens>
+		<POS>WP DT JJ NN .</POS>
+		<Lemma>what a great experience !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Never purchased so much popcorn before .</Tokens>
+		<POS>RB VBN RB JJ NN IN .</POS>
+		<Lemma>never purchase so much popcorn before .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was amazed to receive a 17 '' x 8 '' x 3 '' thick bag of popcorn for the low price I paid .</Tokens>
+		<POS>PRP VBD VBN TO VB DT CD '' CC CD '' CC CD '' JJ NN IN NN IN DT JJ NN PRP VBD .</POS>
+		<Lemma>I be amaze to receive a 17 '' x 8 '' x 3 '' thick bag of popcorn for the low price I pay .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Soooo much better than grocery store popcorn - I never thought about bulk popcorn before .</Tokens>
+		<POS>RB RB JJR IN NN NN NN : PRP RB VBD IN NN NN IN .</POS>
+		<Lemma>soooo much better than grocery store popcorn - I never think about bulk popcorn before .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is washed and clean .</Tokens>
+		<POS>PRP VBZ VBN CC JJ .</POS>
+		<Lemma>it be wash and clean .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I use a high power air popper which delivers big pops of corn .</Tokens>
+		<POS>PRP VBP DT JJ NN NN NN WDT VBZ JJ VBZ IN NN .</POS>
+		<Lemma>I use a high power air popper which deliver big pop of corn .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Olive oil and sea salt completes the taste I like .</Tokens>
+		<POS>JJ NN CC NN NN VBZ DT NN PRP VBP .</POS>
+		<Lemma>olive oil and sea salt complete the taste I like .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Two thumbs & two big toes up on the Great Northern 12.5 pounder !</Tokens>
+		<POS>CD NNS CC CD JJ NNS RP IN DT NNP NNP CD NN .</POS>
+		<Lemma>two thumb & two big toe up on the Great Northern 12.5 pounder !</Lemma>
+	</Sentence>
+</Document>

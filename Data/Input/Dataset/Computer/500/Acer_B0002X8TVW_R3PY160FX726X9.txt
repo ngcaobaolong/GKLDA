@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have recently purchased this product and have been pleasently surprised by its quality at such a low cost .</Tokens>
+		<POS>PRP VBP RB VBN DT NN CC VBP VBN RB VBN IN PRP$ NN IN PDT DT JJ NN .</POS>
+		<Lemma>I have recently purchase this product and have be pleasently surprise by its quality at such a low cost .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There were no surprises : right out of the box it performed like a much expensive monitor .</Tokens>
+		<POS>EX VBD DT NNS : RB IN IN DT NN PRP VBD IN DT JJ JJ NN .</POS>
+		<Lemma>there be no surprise : right out of the box it perform like a much expensive monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just connect , adjust the monitor resolution to its highest value -LRB- 1280 x 1024 -RRB- , and presto !</Tokens>
+		<POS>RB VB , VBP DT NN NN TO PRP$ JJS NN -LRB- CD CC CD -RRB- , CC NN .</POS>
+		<Lemma>just connect , adjust the monitor resolution to its highest value -lrb- 1280 x 1024 -rrb- , and presto !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The space savings is great too !</Tokens>
+		<POS>DT NN NNS VBZ JJ RB .</POS>
+		<Lemma>the space savings be great too !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I recommend this product to those on a tight budget who want a very bright and big monitor with excellent quality .</Tokens>
+		<POS>PRP VBP DT NN TO DT IN DT JJ NN WP VBP DT RB JJ CC JJ NN IN JJ NN .</POS>
+		<Lemma>I recommend this product to those on a tight budget who want a very bright and big monitor with excellent quality .</Lemma>
+	</Sentence>
+</Document>

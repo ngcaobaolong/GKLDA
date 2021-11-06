@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have used it for estimated 2 weeks from now .</Tokens>
+		<POS>PRP VBP VBN PRP IN VBN CD NNS IN RB .</POS>
+		<Lemma>I have use it for estimate 2 week from now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Video unlimited times , it 's clear to the extend I love it .</Tokens>
+		<POS>NNP JJ NNS , PRP VBZ JJ TO DT VB PRP VBP PRP .</POS>
+		<Lemma>Video unlimited time , it be clear to the extend I love it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ride in day\/night thus checked GoPro 2 originally , was about to purchase it but lucky I did n't .</Tokens>
+		<POS>PRP VBP IN NN RB VBD NN CD RB , VBD IN TO VB PRP CC JJ PRP VBD RB .</POS>
+		<Lemma>I ride in day\/night thus check gopro 2 originally , be about to purchase it but lucky I do not .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I decided to purchase this video cam and it 's just getting better and I 'm amazed by the structure and the angle can be easily adjust with remote !</Tokens>
+		<POS>PRP VBD TO VB DT NN NN CC PRP VBZ RB VBG JJR CC PRP VBP VBN IN DT NN CC DT NN MD VB RB VBP IN JJ .</POS>
+		<Lemma>I decide to purchase this video cam and it be just get better and I be amaze by the structure and the angle can be easily adjust with remote !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Here 's one of my sample videos .</Tokens>
+		<POS>RB VBZ CD IN PRP$ NN NNS .</POS>
+		<Lemma>here be one of my sample video .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>-LRB- ... -RRB-</Tokens>
+		<POS>-LRB- : -RRB-</POS>
+		<Lemma>-lrb- ... -rrb-</Lemma>
+	</Sentence>
+</Document>

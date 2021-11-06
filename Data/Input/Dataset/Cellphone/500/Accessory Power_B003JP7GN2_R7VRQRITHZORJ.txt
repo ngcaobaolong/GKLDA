@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens></div> <span class="tiny"> Length : : 1:24 Mins </span> This is my video review for the Trans4m charger .</Tokens>
+		<POS>NN NN NN : : CD NNS JJ DT VBZ PRP$ NN NN IN DT NN NN .</POS>
+		<Lemma></div> <span class="tiny"> length : : 1:24 min </span> this be my video review for the trans4m charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I apologize about the audio in video , it kind of sucks .</Tokens>
+		<POS>PRP VBP IN DT NN IN NN , PRP RB IN VBZ .</POS>
+		<Lemma>I apologize about the audio in video , it kind of suck .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Cool charger though for sure .</Tokens>
+		<POS>JJ NN IN IN JJ .</POS>
+		<Lemma>cool charger though for sure .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Probably the last charger I 'll ever need .</Tokens>
+		<POS>RB DT JJ NN PRP MD RB VB .</POS>
+		<Lemma>probably the last charger I 'll ever need .</Lemma>
+	</Sentence>
+</Document>

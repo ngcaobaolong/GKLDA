@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Length : : 2:26 Mins Here is a video review of the Nikon Camera I bought last weekend .</Tokens>
+		<POS>NN NN NN : : CD NNS VBP RB VBZ DT NN NN IN DT NNP NNP NNP VBD JJ NN .</POS>
+		<Lemma>length : : 2:26 min here be a video review of the Nikon Camera I buy last weekend .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The pictures are PERFECT but I 'm going to return it , , here 's why ...</Tokens>
+		<POS>DT NNS VBP JJ CC PRP VBP VBG TO VB PRP , , RB POS WRB :</POS>
+		<Lemma>the picture be perfect but I be go to return it , , here 's why ...</Lemma>
+	</Sentence>
+</Document>

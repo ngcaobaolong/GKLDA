@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The display screen works fine , but I needed help getting the display screen to work with my laptop .</Tokens>
+		<POS>DT NN NN VBZ NN , CC PRP VBD NN VBG DT NN NN TO VB IN PRP$ NN .</POS>
+		<Lemma>the display screen work fine , but I need help get the display screen to work with my laptop .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I called the 800 number I got from the web , but that was useless .</Tokens>
+		<POS>PRP VBD DT CD NN CD VBD IN DT NN , CC DT VBD JJ .</POS>
+		<Lemma>I call the 800 number i get from the web , but that be useless .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was prompted to enter the serial # of the product , but the automated system could not figure it out even after speaking slowly .</Tokens>
+		<POS>PRP VBD VBN TO VB DT NN # IN DT NN , CC DT JJ NN MD RB VB PRP RP RB IN VBG RB .</POS>
+		<Lemma>I be prompt to enter the serial # of the product , but the automated system could not figure it out even after speak slowly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>English is my only language .</Tokens>
+		<POS>NNP VBZ PRP$ JJ NN .</POS>
+		<Lemma>English be my only language .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I did not have an option to speak to an operator .</Tokens>
+		<POS>PRP VBD RB VB DT NN TO VB TO DT NN .</POS>
+		<Lemma>I do not have a option to speak to a operator .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It cut me off and referred me to the website .</Tokens>
+		<POS>PRP VBD PRP RP CC VBD PRP TO DT NN .</POS>
+		<Lemma>it cut I off and refer I to the website .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I went to the website for support , and I managed to chat with someone online .</Tokens>
+		<POS>PRP VBD TO DT NN IN NN , CC PRP VBD TO VB IN NN NN .</POS>
+		<Lemma>I go to the website for support , and I manage to chat with someone online .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The person was useless .</Tokens>
+		<POS>DT NN VBD JJ .</POS>
+		<Lemma>the person be useless .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I was given a link to test the monitor , but I did not need to test the monitor .</Tokens>
+		<POS>PRP VBD VBN DT NN TO VB DT NN , CC PRP VBD RB VB TO VB DT NN .</POS>
+		<Lemma>I be give a link to test the monitor , but I do not need to test the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I just needed to have my Hard Drive show up on the display screen .</Tokens>
+		<POS>PRP RB VBD TO VB PRP$ NNP NNP VBP RP IN DT NN NN .</POS>
+		<Lemma>I just need to have my Hard Drive show up on the display screen .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Needless to say , I got no help .</Tokens>
+		<POS>JJ TO VB , PRP VBD DT NN .</POS>
+		<Lemma>needless to say , I get no help .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I had to hold a flashlight to my laptop display screen to follow directions on setting up my HD to show up on my Acer display screen .</Tokens>
+		<POS>PRP VBD TO VB DT NN TO PRP$ NN NN NN TO VB NNS IN VBG RP PRP$ NN TO VB RP IN PRP$ NNP NN NN .</POS>
+		<Lemma>I have to hold a flashlight to my laptop display screen to follow direction on set up my hd to show up on my Acer display screen .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>In conclusion , ACER 's customer service sucks .</Tokens>
+		<POS>IN NN , NNP POS NN NN VBZ .</POS>
+		<Lemma>in conclusion , ACER 's customer service suck .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I would not recommend anyone to buy any products from them .</Tokens>
+		<POS>PRP MD RB VB NN TO VB DT NNS IN PRP .</POS>
+		<Lemma>I would not recommend anyone to buy any product from they .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I think customer service is very important .</Tokens>
+		<POS>PRP VBP NN NN VBZ RB JJ .</POS>
+		<Lemma>I think customer service be very important .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It 's as important as the product itself .</Tokens>
+		<POS>PRP VBZ RB JJ IN DT NN PRP .</POS>
+		<Lemma>it be as important as the product itself .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>People do get frustrated when they feel helpless .</Tokens>
+		<POS>NNS VBP VB VBN WRB PRP VBP JJ .</POS>
+		<Lemma>people do get frustrate when they feel helpless .</Lemma>
+	</Sentence>
+</Document>

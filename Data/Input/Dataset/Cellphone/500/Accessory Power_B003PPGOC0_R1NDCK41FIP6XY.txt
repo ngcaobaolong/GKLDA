@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is exactly what I 've been waiting for to connect my wife 's and I 's iPhones to our GMC Envoy ... It woks fantastic with crystal clear audio on the Bose premium audio system ... Completely hands free , easy to install and easy operation were a must , as my wife is `` technology ignorant '' for lack of a better word ... I would certainly recommend it , or purchase it again .</Tokens>
+		<POS>DT VBZ RB WP PRP VBP VBN VBG IN TO VB PRP$ NN POS CC PRP VBZ NNS TO PRP$ NNP NNP : PRP VBZ JJ IN NN JJ NN IN DT JJ NN NN NN : RB NNS JJ , JJ TO VB CC JJ NN VBD DT MD , IN PRP$ NN VBZ `` NN JJ '' IN NN IN DT JJR NN : PRP MD RB VB PRP , CC VB PRP RB .</POS>
+		<Lemma>this be exactly what I have be wait for to connect my wife 's and I be iphone to we GMC Envoy ... it wok fantastic with crystal clear audio on the bose premium audio system ... completely hand free , easy to install and easy operation be a must , as my wife be `` technology ignorant '' for lack of a better word ... I would certainly recommend it , or purchase it again .</Lemma>
+	</Sentence>
+</Document>

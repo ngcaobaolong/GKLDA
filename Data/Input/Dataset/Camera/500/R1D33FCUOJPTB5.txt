@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pros : Great video quality Quick focus Manual option Good image quality SDHC , Compact Flash are compatible ... I hate Memory stik ... Cons : No Raw image Image quality at low light</Tokens>
+		<POS>NNS : JJ JJ NN RB VBP JJ NN JJ NN NN NNP , NNP NNP VBP JJ : PRP VBP NN NN : NNS : DT NN NN NN NN IN JJ NN</POS>
+		<Lemma>pro : great video quality quick focus manual option good image quality SDHC , Compact Flash be compatible ... I hate memory stik ... con : no raw image image quality at low light</Lemma>
+	</Sentence>
+</Document>

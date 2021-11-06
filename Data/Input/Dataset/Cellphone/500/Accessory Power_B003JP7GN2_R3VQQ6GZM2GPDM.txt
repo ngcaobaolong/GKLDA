@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works well , I use it for my iPod Touch and Motorola cell phone , comes with 3 cables : mini usb , usb for ipod -LRB- charge only , not a data cable -RRB- , and one more - I think its for BlackBerry .</Tokens>
+		<POS>NNP RB , PRP VBP PRP IN PRP$ NN NN CC NNP NN NN , VBZ IN CD NNS : NNS NN , NN IN NN -LRB- NN RB , RB DT NN NN -RRB- , CC CD JJR : PRP VBP PRP$ IN NNP .</POS>
+		<Lemma>Works well , I use it for my ipod touch and Motorola cell phone , come with 3 cable : minus usb , usb for ipod -lrb- charge only , not a datum cable -rrb- , and one more - I think its for BlackBerry .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You can charge your device from the wall , in the car or via size 9V battery -LRB- the square one -RRB- .</Tokens>
+		<POS>PRP MD VB PRP$ NN IN DT NN , IN DT NN CC IN NN NN NN -LRB- DT NN CD -RRB- .</POS>
+		<Lemma>you can charge you device from the wall , in the car or via size 9v battery -lrb- the square one -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use another charger for my Motorola and screen says , , unauthorized charger , , BUT this one does NOT ?!</Tokens>
+		<POS>PRP VBP DT NN IN PRP$ NNP CC NN VBZ , , JJ NN , , NNP DT CD VBZ NNP IN</POS>
+		<Lemma>I use another charger for my Motorola and screen say , , unauthorized charger , , BUT this one do NOT ?!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>charges well !</Tokens>
+		<POS>NNS RB .</POS>
+		<Lemma>charge well !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>very compact , easy to use .</Tokens>
+		<POS>RB JJ , JJ TO VB .</POS>
+		<Lemma>very compact , easy to use .</Lemma>
+	</Sentence>
+</Document>

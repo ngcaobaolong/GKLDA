@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered the honey flav for backpacking husband to primarily have as breakfast on the trail -LRB- he 's picky eater -RRB- .</Tokens>
+		<POS>PRP VBD DT NN NN IN VBG NN TO RB VB IN NN IN DT NN -LRB- PRP VBZ JJ NN -RRB- .</POS>
+		<Lemma>I order the honey flav for backpack husband to primarily have as breakfast on the trail -lrb- he be picky eater -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>He really like & recommends them as they are each waffle wrapped , flavor is good & healthy ingredients .</Tokens>
+		<POS>PRP RB IN CC VBZ PRP IN PRP VBP DT NN VBD , NN VBZ JJ CC JJ NNS .</POS>
+		<Lemma>he really like & recommend they as they be each waffle wrap , flavor be good & healthy ingredient .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just heads up these are thin `` cookie '' size waffles , not size of well known frozen waffles ... still real good n easy !</Tokens>
+		<POS>RB VBZ RP DT VBP JJ `` NN '' NN NNS , RB NN IN RB VBN JJ NNS : RB JJ JJ NN JJ .</POS>
+		<Lemma>just head up these be thin `` cookie '' size waffle , not size of well know frozen waffle ... still real good n easy !</Lemma>
+	</Sentence>
+</Document>

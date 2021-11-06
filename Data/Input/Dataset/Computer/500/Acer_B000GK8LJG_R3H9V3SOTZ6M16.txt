@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just received the Acer AL1916WAB 19 '' widescreen LCD monitor and I love it .</Tokens>
+		<POS>RB VBN DT NNP NNP CD '' JJ NNS NN CC PRP VBP PRP .</POS>
+		<Lemma>just receive the Acer AL1916WAB 19 '' widescreen lcd monitor and I love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Pictures , text and graphics appear very sharp .</Tokens>
+		<POS>NNP , NN CC NNS VBP RB JJ .</POS>
+		<Lemma>Pictures , text and graphic appear very sharp .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The colors are bright and true .</Tokens>
+		<POS>DT NNS VBP JJ CC JJ .</POS>
+		<Lemma>the color be bright and true .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Not a hint of blurriness when using a word processing or spreadsheet program .</Tokens>
+		<POS>RB DT NN IN NN WRB VBG DT NN NN CC NN NN .</POS>
+		<Lemma>not a hint of blurriness when use a word processing or spreadsheet program .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am very happy with my purchase of this monitor .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP$ NN IN DT NN .</POS>
+		<Lemma>I be very happy with my purchase of this monitor .</Lemma>
+	</Sentence>
+</Document>

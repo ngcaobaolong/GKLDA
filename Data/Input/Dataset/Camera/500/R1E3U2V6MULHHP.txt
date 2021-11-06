@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I say Lovin Life because I love this Camera , I have researched it and believe it to be the best camera for the money .</Tokens>
+		<POS>PRP VBP NNP NNP IN PRP VBP DT NN , PRP VBP VBN PRP CC VB PRP TO VB DT JJS NN IN DT NN .</POS>
+		<Lemma>I say Lovin Life because I love this camera , I have research it and believe it to be the best camera for the money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great image quality , Color , perfect size etc. .</Tokens>
+		<POS>JJ NN NN , NNP , JJ NN NN .</POS>
+		<Lemma>great image quality , Color , perfect size etc. .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The `` but '' part of my assessment refers to the ultimate quest to take full advantage of this camera ... Lenses .</Tokens>
+		<POS>DT `` CC '' NN IN PRP$ NN VBZ TO DT JJ NN TO VB JJ NN IN DT NN : NNS .</POS>
+		<Lemma>the `` but '' part of my assessment refer to the ultimate quest to take full advantage of this camera ... lens .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I heard the best idea is to buy quality `` glass '' and that 's what I did .</Tokens>
+		<POS>PRP VBD DT JJS NN VBZ TO VB NN `` NN '' CC DT VBZ WP PRP VBD .</POS>
+		<Lemma>I hear the best idea be to buy quality `` glass '' and that be what I do .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>$ $ $ $ $ $ While actually an investment -LRB- these lenses hold their value -RRB- You can easily get caught up in expensive `` glass '' but ultimately it 's worth it ... if you can afford it .</Tokens>
+		<POS>$ $ $ $ $ $ IN RB DT NN -LRB- DT NNS VBP PRP$ NN -RRB- PRP MD RB VB VBN RP IN JJ `` NN '' CC RB PRP VBZ JJ PRP : IN PRP MD VB PRP .</POS>
+		<Lemma>$ $ $ $ $ $ while actually a investment -lrb- these lens hold they value -rrb- you can easily get catch up in expensive `` glass '' but ultimately it be worth it ... if you can afford it .</Lemma>
+	</Sentence>
+</Document>

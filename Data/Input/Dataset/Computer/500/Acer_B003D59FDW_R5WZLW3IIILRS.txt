@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We were in an emergency situation after an older monitor died suddenly , and since that never happens at the best time financially speaking we were looking for the best monitor we could afford at the time .</Tokens>
+		<POS>PRP VBD IN DT NN NN IN DT JJR NN VBD RB , CC IN DT RB VBZ IN DT JJS NN RB VBG PRP VBD VBG IN DT JJS NN PRP MD VB IN DT NN .</POS>
+		<Lemma>we be in a emergency situation after a older monitor die suddenly , and since that never happen at the best time financially speak we be look for the best monitor we could afford at the time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's not the the largest or fanciest monitor on the shelf but it does the job and the price was right .</Tokens>
+		<POS>PRP VBZ RB DT DT JJS CC JJS NN IN DT NN CC PRP VBZ DT NN CC DT NN VBD RB .</POS>
+		<Lemma>it be not the the largest or fanciest monitor on the shelf but it do the job and the price be right .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Ca n't ask for more than that .</Tokens>
+		<POS>NN RB VB IN JJR IN DT .</POS>
+		<Lemma>ca not ask for more than that .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The anti-glare screen is a plus , and we did n't have any problems with the back and forth adjustment as reported in another review I read , as it moved easily .</Tokens>
+		<POS>DT JJ NN VBZ DT NN , CC PRP VBD RB VB DT NNS IN DT NN CC RB NN IN VBN IN DT NN PRP VBP , IN PRP VBD RB .</POS>
+		<Lemma>the anti-glare screen be a plus , and we do not have any problem with the back and forth adjustment as report in another review I read , as it move easily .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I guess the real test of the value will be in how long it lasts , but as long as it has a reasonable life to it I would buy another one .</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT NN MD VB IN WRB JJ PRP VBZ , CC RB RB IN PRP VBZ DT JJ NN TO PRP PRP MD VB DT CD .</POS>
+		<Lemma>I guess the real test of the value will be in how long it last , but as long as it have a reasonable life to it I would buy another one .</Lemma>
+	</Sentence>
+</Document>

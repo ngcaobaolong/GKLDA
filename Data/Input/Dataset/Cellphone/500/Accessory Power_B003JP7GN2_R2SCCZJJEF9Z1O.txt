@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use it to charge my Zune HD , Blackberry Bold , and Tom Tom .</Tokens>
+		<POS>PRP VBP PRP TO VB PRP$ NNP NNP , NNP JJ , CC NNP NNP .</POS>
+		<Lemma>I use it to charge my Zune HD , Blackberry bold , and Tom Tom .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only down side to me is that it only has only two USB ports available , wish it had three , but it can charge from either a AC 110V -LRB- your house -RRB- , DC 12V -LRB- your vehicle -RRB- , or a battery backup -LRB- 2 AA or a 9 volt battery -RRB- which is good because my cigarette lighters in my Toyota truck do n't work when the truck is not running .</Tokens>
+		<POS>DT RB RB NN TO PRP VBZ IN PRP RB VBZ RB CD JJ NNS JJ , VB PRP VBD CD , CC PRP MD VB IN CC DT NN NN -LRB- PRP$ NN -RRB- , NN NN -LRB- PRP$ NN -RRB- , CC DT NN NN -LRB- CD NN CC DT CD NN NN -RRB- WDT VBZ JJ IN PRP$ NN NNS IN PRP$ NNP NN VBP RB VB WRB DT NN VBZ RB VBG .</POS>
+		<Lemma>the only down side to I be that it only have only two usb port available , wish it have three , but it can charge from either a ac 110v -lrb- you house -rrb- , dc 12v -lrb- you vehicle -rrb- , or a battery backup -lrb- 2 aa or a 9 volt battery -rrb- which be good because my cigarette lighter in my Toyota truck do not work when the truck be not run .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's pretty nice that it comes with 2 cables of usb to Micro usb , and a usb to usb .</Tokens>
+		<POS>PRP VBZ RB JJ IN PRP VBZ IN CD NNS IN NN TO NNP NN , CC DT NN TO NN .</POS>
+		<Lemma>it be pretty nice that it come with 2 cable of usb to Micro usb , and a usb to usb .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One thing I noticed while charging my Zune HD is that acts as a quick charger compared to hooking it up to the computer which seems to take forever .</Tokens>
+		<POS>CD NN PRP VBD IN VBG PRP$ NNP NN VBZ IN VBZ IN DT JJ NN VBN TO VBG PRP RP TO DT NN WDT VBZ TO VB RB .</POS>
+		<Lemma>one thing I notice while charge my Zune hd be that act as a quick charger compare to hook it up to the computer which seem to take forever .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It take around 45 min to 1 hour compared to my Dell laptop which takes around 4-6 hours .</Tokens>
+		<POS>PRP VBP RP CD NN TO CD NN VBN TO PRP$ NNP NN WDT VBZ RP CD NNS .</POS>
+		<Lemma>it take around 45 min to 1 hour compare to my Dell laptop which take around 4-6 hour .</Lemma>
+	</Sentence>
+</Document>

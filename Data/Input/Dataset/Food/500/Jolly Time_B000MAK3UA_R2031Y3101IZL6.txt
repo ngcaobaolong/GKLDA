@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this because the generic popcorn I was buying was so salty it was disgusting and I wanted to try something name brand that might not be so bad .</Tokens>
+		<POS>PRP VBD DT IN DT JJ NN PRP VBD VBG VBD RB JJ PRP VBD VBG CC PRP VBD TO VB NN NN NN WDT MD RB VB RB JJ .</POS>
+		<Lemma>I get this because the generic popcorn I be buy be so salty it be disgust and I want to try something name brand that might not be so bad .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I refuse to pay $ 3.50 for a box of 3 of Paul Newman No Salt .</Tokens>
+		<POS>PRP VBP TO VB $ CD IN DT NN IN CD IN NNP NNP NNP NNP .</POS>
+		<Lemma>I refuse to pay $ 3.50 for a box of 3 of Paul Newman No Salt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I paid $ 4.49 for this today at the grocery store .</Tokens>
+		<POS>PRP VBD $ CD IN DT NN IN DT NN NN .</POS>
+		<Lemma>I pay $ 4.49 for this today at the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There is a lot in the bag and it was pretty good .</Tokens>
+		<POS>EX VBZ DT NN IN DT NN CC PRP VBD RB JJ .</POS>
+		<Lemma>there be a lot in the bag and it be pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And the best part is that it was not loaded with sodium .</Tokens>
+		<POS>CC DT JJS NN VBZ IN PRP VBD RB VBN IN NN .</POS>
+		<Lemma>and the best part be that it be not load with sodium .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The only problem I found was that it burned .</Tokens>
+		<POS>DT JJ NN PRP VBD VBD IN PRP VBD .</POS>
+		<Lemma>the only problem I find be that it burn .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I used the Popcorn setting on my microwave and it still had about 15 seconds left .</Tokens>
+		<POS>PRP VBD DT NNP NN IN PRP$ NN CC PRP RB VBD IN CD NNS VBD .</POS>
+		<Lemma>I use the Popcorn setting on my microwave and it still have about 15 seconds leave .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is an easy fix though and I 've yet to find a microwave popcorn that does n't get a little burned .</Tokens>
+		<POS>DT VBZ DT JJ NN IN CC PRP VBP RB TO VB DT NN NN WDT VBZ RB VB DT JJ JJ .</POS>
+		<Lemma>this be a easy fix though and I have yet to find a microwave popcorn that do not get a little burned .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 'll get this on subscribe and save when I use up what I have .</Tokens>
+		<POS>PRP MD VB DT IN VB CC VB WRB PRP VBP RP WP PRP VBP .</POS>
+		<Lemma>I 'll get this on subscribe and save when I use up what I have .</Lemma>
+	</Sentence>
+</Document>

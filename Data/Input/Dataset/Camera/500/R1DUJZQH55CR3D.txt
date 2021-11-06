@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have n't had the opportunity to use this camera yet as it came with NO MEMORY CARD !</Tokens>
+		<POS>PRP VBP RB VBD DT NN TO VB DT NN RB IN PRP VBD IN NN NN NN .</POS>
+		<Lemma>I have not have the opportunity to use this camera yet as it come with no memory card !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What kinda camera does n't come with a memory card ?</Tokens>
+		<POS>WDT NN NN VBZ RB VBN IN DT NN NN .</POS>
+		<Lemma>what kinda camera do not come with a memory card ?</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And with no internal memory it 's rendered useless until I can get one .</Tokens>
+		<POS>CC IN DT JJ NN PRP VBZ VBN JJ IN PRP MD VB CD .</POS>
+		<Lemma>and with no internal memory it be render useless until I can get one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Ugh ... otherwise : it 's the perfect size .</Tokens>
+		<POS>NNP : RB : PRP VBZ DT JJ NN .</POS>
+		<Lemma>Ugh ... otherwise : it be the perfect size .</Lemma>
+	</Sentence>
+</Document>

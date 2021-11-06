@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great charger for Blackberry phones .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NNP NNS .</POS>
+		<Lemma>this be a great charger for Blackberry phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is convenient to have in any situation .</Tokens>
+		<POS>PRP VBZ JJ TO VB IN DT NN .</POS>
+		<Lemma>it be convenient to have in any situation .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You can charge it in the car and it works wonderfully well as a home\/travel charger .</Tokens>
+		<POS>PRP MD VB PRP IN DT NN CC PRP VBZ RB RB IN DT JJ NN .</POS>
+		<Lemma>you can charge it in the car and it work wonderfully well as a home\/travel charger .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can charge your iPod at the same time you charge your Blackberry !</Tokens>
+		<POS>PRP MD VB PRP$ NN IN DT JJ NN PRP VBP PRP$ NN .</POS>
+		<Lemma>you can charge you ipod at the same time you charge you blackberry !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I like having it in the car and I take it with me with the batteries in it in case I run out of juice on the phone in the middle of nowhere .</Tokens>
+		<POS>PRP VBP VBG PRP IN DT NN CC PRP VBP PRP IN PRP IN DT NNS IN PRP IN NN PRP VBP IN IN NN IN DT NN IN DT NN IN RB .</POS>
+		<Lemma>I like have it in the car and I take it with I with the battery in it in case I run out of juice on the phone in the middle of nowhere .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is a very versatile device and it 's easy to carry w\/you .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN CC PRP VBZ JJ TO VB NN .</POS>
+		<Lemma>it be a very versatile device and it be easy to carry w\/you .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I recommend this product and buy it from Accessory Genie !</Tokens>
+		<POS>PRP VBP DT NN CC VB PRP IN NNP NNP .</POS>
+		<Lemma>I recommend this product and buy it from Accessory Genie !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>They will take care of you and they give you great customer service !!</Tokens>
+		<POS>PRP MD VB NN IN PRP CC PRP VBP PRP JJ NN NN IN</POS>
+		<Lemma>they will take care of you and they give you great customer service !!</Lemma>
+	</Sentence>
+</Document>

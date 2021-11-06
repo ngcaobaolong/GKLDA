@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>the only problem I had was with setting the sound .</Tokens>
+		<POS>DT JJ NN PRP VBD VBD IN VBG DT NN .</POS>
+		<Lemma>the only problem I have be with set the sound .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did n't expect that to happen .</Tokens>
+		<POS>PRP VBD RB VB DT TO VB .</POS>
+		<Lemma>I do not expect that to happen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>otherwise it setup easy like any monitor and is just fine .</Tokens>
+		<POS>RB PRP NN JJ IN DT NN CC VBZ RB JJ .</POS>
+		<Lemma>otherwise it setup easy like any monitor and be just fine .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+</Document>

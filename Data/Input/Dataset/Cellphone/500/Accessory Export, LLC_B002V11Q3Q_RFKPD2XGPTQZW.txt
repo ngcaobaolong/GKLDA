@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>very nice product !</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very nice product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>longer than the short data cable that doubles as a charger for the motorola droid .</Tokens>
+		<POS>JJR IN DT JJ NNS NN WDT VBZ IN DT NN IN DT NN NN .</POS>
+		<Lemma>longer than the short datum cable that double as a charger for the motorolum droid .</Lemma>
+	</Sentence>
+</Document>

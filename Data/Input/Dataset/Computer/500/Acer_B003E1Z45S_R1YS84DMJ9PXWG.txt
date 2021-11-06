@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the perfect size for web surfing , and this monitor is terrific and priced right .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NN NN , CC DT NN VBZ JJ CC VBN NN .</POS>
+		<Lemma>this be the perfect size for web surfing , and this monitor be terrific and price right .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Best feature is that the screen is completely NON-GLARE , and that is hard to find anymore .</Tokens>
+		<POS>JJS NN VBZ IN DT NN VBZ RB NN , CC DT VBZ JJ TO VB RB .</POS>
+		<Lemma>best feature be that the screen be completely non-glare , and that be hard to find anymore .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Highly recommended .</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+</Document>

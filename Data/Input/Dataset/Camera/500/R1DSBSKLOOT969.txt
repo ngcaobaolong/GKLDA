@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera takes great quality video and is easy to use .</Tokens>
+		<POS>DT NN VBZ JJ NN NN CC VBZ JJ TO VB .</POS>
+		<Lemma>this camera take great quality video and be easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The zoom , although limited , is better than other gadgets of this type .</Tokens>
+		<POS>DT NN , IN JJ , VBZ JJR IN JJ NNS IN DT NN .</POS>
+		<Lemma>the zoom , although limited , be better than other gadget of this type .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The FlipShare software does not run on older -LRB- G4 -RRB- Macs , but I was able to import the mp4 files directly into iMovie -LRB- although it takes a long time - 3-4 min .</Tokens>
+		<POS>DT NNP NN VBZ RB VB IN JJR -LRB- NN -RRB- NNS , CC PRP VBD JJ TO VB DT NN VBZ RB IN NN -LRB- IN PRP VBZ DT JJ NN : CD NN .</POS>
+		<Lemma>the FlipShare software do not run on older -lrb- g4 -rrb- mac , but I be able to import the mp4 file directly into imovie -lrb- although it take a long time - 3-4 min .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>for a 20-30 sec clip , compared to realtime for a DV camcorder -RRB- .</Tokens>
+		<POS>IN DT CD NN NN , VBN TO VB IN DT NNP NN -RRB- .</POS>
+		<Lemma>for a 20-30 sec clip , compare to realtime for a DV camcorder -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The 8GB capacity is nice , holding about 2 hours of video , so you do n't have to keep swapping out media cards -LRB- although this could be a minus if you were away from a computer and had many events to capture before you could download and backup -RRB- .</Tokens>
+		<POS>DT NN NN VBZ JJ , VBG IN CD NNS IN NN , RB PRP VBP RB VB TO VB VBG RP NNS NNS -LRB- IN DT MD VB DT CC IN PRP VBD RB IN DT NN CC VBD JJ NNS TO VB IN PRP MD VB CC VB -RRB- .</POS>
+		<Lemma>the 8gb capacity be nice , hold about 2 hour of video , so you do not have to keep swap out media card -lrb- although this could be a minus if you be away from a computer and have many event to capture before you could download and backup -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It feels comfortable yet sturdy and durable in your hand , and I would n't worry too much about it breaking if it fell off a table .</Tokens>
+		<POS>PRP VBZ JJ RB JJ CC JJ IN PRP$ NN , CC PRP MD RB VB RB JJ IN PRP VBG IN PRP VBD RP DT NN .</POS>
+		<Lemma>it feel comfortable yet sturdy and durable in you hand , and I would not worry too much about it break if it fall off a table .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Although the Flip is a clever little gadget , I 'm still not sold completely on the concept - if my kids were still little , and I was documenting birthdays , vacations , school events , I 'd still want to use a full featured camcorder .</Tokens>
+		<POS>IN DT NN VBZ DT JJ JJ NN , PRP VBP RB RB VBN RB IN DT NN : IN PRP$ NNS VBD RB JJ , CC PRP VBD VBG NNS , NNS , NN NNS , PRP MD RB VB TO VB DT JJ JJ NN .</POS>
+		<Lemma>although the flip be a clever little gadget , I be still not sell completely on the concept - if my kid be still little , and I be document birthday , vacation , school event , I would still want to use a full featured camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The flip would be fine for spur of the moment video clips or , as my son says , `` goofy teenagers filming their friends doing goofy things to put on YouTube '' .</Tokens>
+		<POS>DT JJ MD VB JJ IN NN IN DT NN NN NNS CC , IN PRP$ NN VBZ , `` JJ NNS VBG PRP$ NNS VBG JJ NNS TO VB RP NNP '' .</POS>
+		<Lemma>the flip would be fine for spur of the moment video clip or , as my son say , `` goofy teenager film they friend do goofy thing to put on YouTube '' .</Lemma>
+	</Sentence>
+</Document>

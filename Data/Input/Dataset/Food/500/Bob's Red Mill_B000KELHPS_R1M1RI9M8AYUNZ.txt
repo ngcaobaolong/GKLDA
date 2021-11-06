@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased this bread for my husband , who is allergic to wheat .</Tokens>
+		<POS>VBN DT NN IN PRP$ NN , WP VBZ JJ TO NN .</POS>
+		<Lemma>purchase this bread for my husband , who be allergic to wheat .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We made it on the GF cycle in our Cuisinart bread machine with good results , and brought it to Christmas dinner .</Tokens>
+		<POS>PRP VBD PRP IN DT NN NN IN PRP$ NNP NN NN IN JJ NNS , CC VBD PRP TO NNP NN .</POS>
+		<Lemma>we make it on the gf cycle in we Cuisinart bread machine with good result , and bring it to Christmas dinner .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is very similar in taste to a standard pumpernickel bread , though much more moist on the inside .</Tokens>
+		<POS>PRP VBZ RB JJ IN NN TO DT JJ NN NN , RB RB RBR JJ IN DT NN .</POS>
+		<Lemma>it be very similar in taste to a standard pumpernickel bread , though much more moist on the inside .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Everyone who had a slice enjoyed it ; I would love to cube it , toast it a little more , and serve it with a GF spinach dip next time .</Tokens>
+		<POS>NN WP VBD DT NN VBD PRP : PRP MD VB TO NN PRP , NN PRP DT RB RBR , CC VB PRP IN DT NN NN NN JJ NN .</POS>
+		<Lemma>everyone who have a slice enjoy it ; I would love to cube it , toast it a little more , and serve it with a gf spinach dip next time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>That used to be my husband 's favorite party food , and I 'm glad to have found a good alternative !</Tokens>
+		<POS>DT VBD TO VB PRP$ NN POS JJ NN NN , CC PRP VBP JJ TO VB VBN DT JJ NN .</POS>
+		<Lemma>that use to be my husband 's favorite party food , and I be glad to have find a good alternative !</Lemma>
+	</Sentence>
+</Document>

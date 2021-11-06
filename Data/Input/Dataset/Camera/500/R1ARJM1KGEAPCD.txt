@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Small and compact for quick video usage !</Tokens>
+		<POS>JJ CC JJ IN JJ NN NN .</POS>
+		<Lemma>small and compact for quick video usage !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Good value for the money !</Tokens>
+		<POS>JJ NN IN DT NN .</POS>
+		<Lemma>good value for the money !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Flip share works great and makes it wasy to share what you filmed , as well as edit !</Tokens>
+		<POS>JJ NN VBZ JJ CC VBZ PRP NN TO VB WP PRP VBD , RB RB IN NN .</POS>
+		<Lemma>flip share work great and make it wasy to share what you film , as well as edit !</Lemma>
+	</Sentence>
+</Document>

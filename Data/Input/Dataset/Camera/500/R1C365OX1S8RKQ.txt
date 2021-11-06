@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Have had the new S100 for a week now , have taken about 1000 shots in all conditions -LRB- day , night , low light , high light -RRB- and I have to say that this camera is just about perfect .</Tokens>
+		<POS>NNP VBD DT JJ NN IN DT NN RB , VBP VBN RB CD NNS IN DT NNS -LRB- NN , NN , JJ NN , JJ NN -RRB- CC PRP VBP TO VB IN DT NN VBZ RB RB JJ .</POS>
+		<Lemma>Have have the new s100 for a week now , have take about 1000 shot in all condition -lrb- day , night , low light , high light -rrb- and I have to say that this camera be just about perfect .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Shots are sharp , clear , very little distortion across the range .</Tokens>
+		<POS>NNS VBP JJ , JJ , RB JJ NN IN DT NN .</POS>
+		<Lemma>shot be sharp , clear , very little distortion across the range .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The additional zoom range is a nice addition .</Tokens>
+		<POS>DT JJ NN NN VBZ DT JJ NN .</POS>
+		<Lemma>the additional zoom range be a nice addition .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I read a few of the other reviews that disparage the camera , but I think it might be sample error and they should have tried at least another unit before posting bad feedback .</Tokens>
+		<POS>PRP VBP DT JJ IN DT JJ NNS WDT VBP DT NN , CC PRP VBP PRP MD VB NN NN CC PRP MD VB VBN IN JJS DT NN IN VBG JJ NN .</POS>
+		<Lemma>I read a few of the other review that disparage the camera , but I think it might be sample error and they should have try at least another unit before post bad feedback .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have n't experienced ANY of the problems they describe -- THe white balance works great ; there is next to no distortion at 24mm wide ; there is no color casting in night shots ; there have n't been any `` lens errors '' .</Tokens>
+		<POS>PRP VBP RB JJ NN IN DT NNS PRP VBP : NN JJ NN VBZ JJ : EX VBZ JJ TO DT NN IN CD JJ : EX VBZ DT NN NN IN NN NNS : EX VBP RB VBN DT `` NN NNS '' .</POS>
+		<Lemma>I have not experienced any of the problem they describe -- the white balance work great ; there be next to no distortion at 24mm wide ; there be no color casting in night shot ; there have not be any `` lens error '' .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The camera shoots quickly with virtually no lagtime .</Tokens>
+		<POS>DT NN VBZ RB IN RB DT NN .</POS>
+		<Lemma>the camera shoot quickly with virtually no lagtime .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>All of the features work well -- and the slight redesign of the buttons makes it easier to use the camera .</Tokens>
+		<POS>DT IN DT NNS VBP RB : CC DT JJ NN IN DT NNS VBZ PRP JJR TO VB DT NN .</POS>
+		<Lemma>all of the feature work well -- and the slight redesign of the button make it easier to use the camera .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Th front grip feels comfortable .</Tokens>
+		<POS>NN NN NN VBZ JJ .</POS>
+		<Lemma>th front grip feel comfortable .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I ca n't comment on problems with Raw recording , because I do not shoot in Raw .</Tokens>
+		<POS>PRP MD RB VB IN NNS IN NN NN , IN PRP VBP RB VB IN NN .</POS>
+		<Lemma>I can not comment on problem with raw recording , because I do not shoot in raw .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I loved the older s95 -- I chose it in the longterm over the Panasonic LX5 because of some of the additional features and the small compact size that fits in a pants pocket .</Tokens>
+		<POS>PRP VBD DT JJR NN : PRP VBD PRP IN DT JJ IN DT NNP NN IN IN DT IN DT JJ NNS CC DT JJ JJ NN WDT VBZ IN DT NNS NN .</POS>
+		<Lemma>I love the older s95 -- I choose it in the longterm over the Panasonic lx5 because of some of the additional feature and the small compact size that fit in a pants pocket .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>But I can honestly say that the s100 is even better .</Tokens>
+		<POS>CC PRP MD RB VB IN DT NN VBZ RB RBR .</POS>
+		<Lemma>but I can honestly say that the s100 be even better .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>-LRB- See my review of the S95 for that cameras features -RRB- .</Tokens>
+		<POS>-LRB- VB PRP$ NN IN DT NN IN DT NNS NNS -RRB- .</POS>
+		<Lemma>-lrb- see my review of the s95 for that camera feature -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I do n't hesitate recommending this camera .</Tokens>
+		<POS>PRP VBP RB VB VBG DT NN .</POS>
+		<Lemma>I do not hesitate recommend this camera .</Lemma>
+	</Sentence>
+</Document>

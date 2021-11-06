@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Let me explain what these stickers are .</Tokens>
+		<POS>VB PRP VB WP DT NNS VBP .</POS>
+		<Lemma>let I explain what these sticker be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They contain strips of metal which are commonly used metals for antennas -LRB- copper , etc. -RRB- .</Tokens>
+		<POS>PRP VBP NNS IN NN WDT VBP RB VBN NNS IN NNS -LRB- NN , NN -RRB- .</POS>
+		<Lemma>they contain strip of metal which be commonly use metal for antenna -lrb- copper , etc. -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In order to boost a signal what you would really need is a longer antenna or a higher power from the phone to its own antenna -LRB- which is done automatically -RRB- .</Tokens>
+		<POS>IN NN TO VB DT NN WDT PRP MD RB VB VBZ DT RBR NN CC DT JJR NN IN DT NN TO PRP$ JJ NN -LRB- WDT VBZ VBN RB -RRB- .</POS>
+		<Lemma>in order to boost a signal what you would really need be a longer antenna or a higher power from the phone to its own antenna -lrb- which be do automatically -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Since this strip of metal is not connected to the phone in any way it can not directly improve your signal .</Tokens>
+		<POS>IN DT NN IN NN VBZ RB VBN TO DT NN IN DT NN PRP MD RB RB VB PRP$ NN .</POS>
+		<Lemma>since this strip of metal be not connect to the phone in any way it can not directly improve you signal .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However , in certain cases when the strip is sticked onto the right area of the phone , it can boost the signal because it is a piece of metal affecting the waves direction to the antenna , just like a dish creates a better directional signal .</Tokens>
+		<POS>RB , IN JJ NNS WRB DT NN VBZ VBN IN DT JJ NN IN DT NN , PRP MD VB DT NN IN PRP VBZ DT NN IN NN VBG DT NNS NN TO DT NN , RB IN DT NN VBZ DT JJR JJ NN .</POS>
+		<Lemma>however , in certain case when the strip be stick onto the right area of the phone , it can boost the signal because it be a piece of metal affect the wave direction to the antenna , just like a dish create a better directional signal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>All it 's really doing is being a piece of metal inside your phone affecting in some way or in some cases in no way your phone signal .</Tokens>
+		<POS>DT PRP VBZ RB VBG VBZ VBG DT NN IN NN IN PRP$ NN VBG IN DT NN CC IN DT NNS IN DT NN PRP$ NN NN .</POS>
+		<Lemma>all it be really do be be a piece of metal inside you phone affect in some way or in some case in no way you phone signal .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It might help you with your phone it 's worth a shot , there are good claims that it works with some phones so just put it in the way other people put it in to theirs and hope for the best !</Tokens>
+		<POS>PRP MD VB PRP IN PRP$ NN PRP VBZ JJ DT NN , EX VBP JJ NNS IN PRP VBZ IN DT NNS RB RB VB PRP IN DT NN JJ NNS VBP PRP IN TO JJ CC NN IN DT JJS .</POS>
+		<Lemma>it might help you with you phone it be worth a shot , there be good claim that it work with some phone so just put it in the way other people put it in to theirs and hope for the best !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Thanks for reading , hope this made it clear .</Tokens>
+		<POS>NNS IN NN , VBP DT VBN PRP JJ .</POS>
+		<Lemma>thanks for reading , hope this make it clear .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bob 's Red Mills lentils are my favorite legume .</Tokens>
+		<POS>NNP POS NNP NNP NNS VBP PRP$ JJ NN .</POS>
+		<Lemma>Bob 's Red Mills lentil be my favorite legume .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They have a slightly sweet taste and cook very fast - 20-30 minutes .</Tokens>
+		<POS>PRP VBP DT RB JJ NN CC NN RB RB : CD NNS .</POS>
+		<Lemma>they have a slightly sweet taste and cook very fast - 20-30 minute .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Be careful not to over-cook them because they are very tender and will fall apart , still tasty though .</Tokens>
+		<POS>VB JJ RB TO VB PRP IN PRP VBP RB JJ CC MD VB RB , RB JJ IN .</POS>
+		<Lemma>be careful not to over-cook they because they be very tender and will fall apart , still tasty though .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The soup I make calls for sauteed carrots , celery , & onion .</Tokens>
+		<POS>DT NN PRP VBP NNS IN NN NNS , NN , CC NN .</POS>
+		<Lemma>the soup I make call for sauteed carrot , celery , & onion .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Add ham or sausage if you wish .</Tokens>
+		<POS>VB NN CC NN IN PRP VBP .</POS>
+		<Lemma>add ham or sausage if you wish .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>1 garlic clove , oregano , salt -LRB- if you have n't added salty ham -RRB- , and optional hot pepper flakes .</Tokens>
+		<POS>LS NN NN , NN , NN -LRB- IN PRP VBP RB VBN JJ NN -RRB- , CC JJ JJ NN NNS .</POS>
+		<Lemma>1 garlic clove , oregano , salt -lrb- if you have not add salty ham -rrb- , and optional hot pepper flake .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It is very hardy and filling .</Tokens>
+		<POS>PRP VBZ RB JJ CC NN .</POS>
+		<Lemma>it be very hardy and filling .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Caution : Lentils can be difficult for diabetics to handle .</Tokens>
+		<POS>NN : NNS MD VB JJ IN NNS TO VB .</POS>
+		<Lemma>caution : lentil can be difficult for diabetic to handle .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>had this monitor for 6 months .</Tokens>
+		<POS>VBD DT NN IN CD NNS .</POS>
+		<Lemma>have this monitor for 6 month .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>no problems at all .</Tokens>
+		<POS>DT NNS IN DT .</POS>
+		<Lemma>no problem at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>after you have been gazeing apon a 14 ' packard bell monitor that the vertical and horizontal boundries change whenever , this monitor is spactacular .</Tokens>
+		<POS>IN PRP VBP VBN VBG NN DT CD '' JJ NN NN IN DT JJ CC JJ NNS VBP WRB , DT NN VBZ JJ .</POS>
+		<Lemma>after you have be gazee apon a 14 ' packard bell monitor that the vertical and horizontal boundry change whenever , this monitor be spactacular .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>if you are used to a small screen , this monitor is great .</Tokens>
+		<POS>IN PRP VBP VBN TO DT JJ NN , DT NN VBZ JJ .</POS>
+		<Lemma>if you be use to a small screen , this monitor be great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>easy on screen menus , and picture quality is supurb .</Tokens>
+		<POS>JJ IN NN NNS , CC NN NN VBZ NN .</POS>
+		<Lemma>easy on screen menu , and picture quality be supurb .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>i would recommend this to anyone looking for a cheap quality screen .</Tokens>
+		<POS>LS MD VB DT TO NN VBG IN DT JJ NN NN .</POS>
+		<Lemma>i would recommend this to anyone look for a cheap quality screen .</Lemma>
+	</Sentence>
+</Document>

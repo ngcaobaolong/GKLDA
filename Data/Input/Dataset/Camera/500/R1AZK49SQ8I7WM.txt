@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I actually bought this camera , then returned for a second because I thought it was defective .</Tokens>
+		<POS>PRP RB VBD DT NN , RB VBD IN DT JJ IN PRP VBD PRP VBD JJ .</POS>
+		<Lemma>I actually buy this camera , then return for a second because I think it be defective .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The battery door on these cameras is made very poorly to the point that when you pull the camera out of a pouch , the door opens .</Tokens>
+		<POS>DT NN NN IN DT NNS VBZ VBN RB RB TO DT NN WDT WRB PRP VBP DT NN IN IN DT NN , DT NN VBZ .</POS>
+		<Lemma>the battery door on these camera be make very poorly to the point that when you pull the camera out of a pouch , the door open .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This may or may not be a big deal for some people , but I know with enough wear and tear , the door is going to break off .</Tokens>
+		<POS>DT MD CC MD RB VB DT JJ NN IN DT NNS , CC PRP VBP IN JJ NN CC VB , DT NN VBZ VBG TO VB RP .</POS>
+		<Lemma>this may or may not be a big deal for some people , but I know with enough wear and tear , the door be go to break off .</Lemma>
+	</Sentence>
+</Document>

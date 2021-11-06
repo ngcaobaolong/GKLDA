@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product gives me the energy I need after working all day .</Tokens>
+		<POS>DT NN VBZ PRP DT NN PRP VBP IN VBG DT NN .</POS>
+		<Lemma>this product give I the energy I need after work all day .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have one as a snack in the afternoon and then I am good to go for a run or teach a spinning class .</Tokens>
+		<POS>PRP VBP CD IN DT NN IN DT NN CC RB PRP VBP JJ TO VB IN DT NN CC VB DT VBG NN .</POS>
+		<Lemma>I have one as a snack in the afternoon and then I be good to go for a run or teach a spin class .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Will definitely buy again !</Tokens>
+		<POS>MD RB VB RB .</POS>
+		<Lemma>will definitely buy again !</Lemma>
+	</Sentence>
+</Document>

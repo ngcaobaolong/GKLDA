@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This item is not at all good .</Tokens>
+		<POS>DT NN VBZ RB IN DT JJ .</POS>
+		<Lemma>this item be not at all good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought this product in December ,2010 and when I am using that product It is getting bubbles on the top of the screen protector .</Tokens>
+		<POS>PRP VBD DT NN IN NNP CD CC WRB PRP VBP VBG IN NN PRP VBZ VBG NNS IN DT NN IN DT NN NN .</POS>
+		<Lemma>I buy this product in December ,2010 and when I be use that product it be get bubble on the top of the screen protector .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>i thought that may be it is my fault .</Tokens>
+		<POS>LS VBD DT MD VB PRP VBZ PRP$ NN .</POS>
+		<Lemma>i think that may be it be my fault .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>and i changed other one and faced the same thingg ... So My Suggestion is dont buy this product .</Tokens>
+		<POS>CC FW VBN JJ CD CC VBD DT JJ NN : CC PRP$ NNP VBZ JJ NN DT NN .</POS>
+		<Lemma>and i change other one and face the same thingg ... so my Suggestion be dont buy this product .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I own a similar device made by Satechi .</Tokens>
+		<POS>PRP VBP DT JJ NN VBN IN NNP .</POS>
+		<Lemma>I own a similar device make by Satechi .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Both units work well but the X2 with gooseneck allows it to fit in certain vehicle with a deeply recessed accessory socket .</Tokens>
+		<POS>DT NNS VBP RB CC DT NN IN NN VBZ PRP TO VB IN JJ NN IN DT RB JJ NN NN .</POS>
+		<Lemma>both unit work well but the x2 with gooseneck allow it to fit in certain vehicle with a deeply recessed accessory socket .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use it exclusively with my ipod touch so the phone feature on both units for me is superfluous .</Tokens>
+		<POS>PRP VBP PRP RB IN PRP$ NN NN IN DT NN NN IN DT NNS IN PRP VBZ JJ .</POS>
+		<Lemma>I use it exclusively with my ipod touch so the phone feature on both unit for I be superfluous .</Lemma>
+	</Sentence>
+</Document>

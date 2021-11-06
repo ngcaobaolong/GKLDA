@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Do n't feed this to your family unless you want your house to stink .</Tokens>
+		<POS>VBP RB VB DT TO PRP$ NN IN PRP VBP PRP$ NN TO VB .</POS>
+		<Lemma>do not feed this to you family unless you want you house to stink .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My husband and 4 year old ate this for dinner tonight .</Tokens>
+		<POS>PRP$ NN CC CD NN JJ VBD DT IN NN NN .</POS>
+		<Lemma>my husband and 4 year old eat this for dinner tonight .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They both enjoyed it , however , I did not enjoy listening to the side effects of all that wonderful fiber !</Tokens>
+		<POS>PRP DT VBD PRP , RB , PRP VBD RB VB VBG TO DT JJ NNS IN PDT DT JJ NN .</POS>
+		<Lemma>they both enjoy it , however , I do not enjoy listen to the side effect of all that wonderful fiber !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The soup is very healthy , but seriously do not eat this if you plan on leaving your house in the next 24 hours .</Tokens>
+		<POS>DT NN VBZ RB JJ , CC RB VBP RB VB DT IN PRP VBP IN VBG PRP$ NN IN DT JJ CD NNS .</POS>
+		<Lemma>the soup be very healthy , but seriously do not eat this if you plan on leave you house in the next 24 hour .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As a regular drinker of Altura 's <a href="http://www.amazon.com/gp/product/B000KSTYBS/ref=cm_cr_asin_lnk/190-4876976-7449036"> Cafe Altura Organic Coffee , Biodynamic French Roast , Whole Bean , 32-Ounce Bag </a> for two years , I was looking to try something different .</Tokens>
+		<POS>IN DT JJ NN IN NNP POS NN NNP NNP NNP NNP , NNP NNP NNP , NNP NNP , NNP NNP NNP IN CD NNS , PRP VBD VBG TO VB NN JJ .</POS>
+		<Lemma>as a regular drinker of Altura 's <a href="http://www.amazon.com/gp/product/b000kstybs/ref=cm_cr_asin_lnk/190-4876976-7449036"> Cafe Altura Organic Coffee , Biodynamic French Roast , Whole Bean , 32-Ounce Bag </a> for two year , I be look to try something different .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I found the <a href="http://www.amazon.com/gp/product/B000KSVLG4/ref=cm_cr_asin_lnk/190-4876976-7449036"> Cafe Altura Organic Coffee , San Francisco Blend , Whole Bean , 32-Ounce Bag </a> to be too light and found the earthiness of the <a href="http://www.amazon.com/gp/product/B000KSRTM4/ref=cm_cr_asin_lnk/190-4876976-7449036"> Caf&eacute; Altura Organic Coffee , Colombian Dark , Whole Bean , 32-Ounce Bag </a> a bit off-balance .</Tokens>
+		<POS>PRP VBD DT NN NNP NNP NNP NNP , NNP NNP NNP , NNP NNP , NNP NNP NN TO VB RB JJ CC VBD DT NN IN DT NN NN NNP NNP NNP , JJ JJ , JJ NNP , NNP NNP VBD DT NN JJ .</POS>
+		<Lemma>I find the <a href="http://www.amazon.com/gp/product/b000ksvlg4/ref=cm_cr_asin_lnk/190-4876976-7449036"> Cafe Altura Organic Coffee , San Francisco Blend , Whole Bean , 32-Ounce Bag </a> to be too light and find the earthiness of the <a href="http://www.amazon.com/gp/product/b000ksrtm4/ref=cm_cr_asin_lnk/190-4876976-7449036"> caf&eacute; Altura Organic Coffee , colombian dark , whole Bean , 32-Ounce Bag </a> a bit off-balance .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Then I tried the Peruvian Dark : strong but smooth , rich chocolate tones , and bright aromas .</Tokens>
+		<POS>RB PRP VBD DT JJ JJ : JJ CC JJ , JJ NN NNS , CC JJ NNS .</POS>
+		<Lemma>then I try the peruvian dark : strong but smooth , rich chocolate tone , and bright aroma .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The beans are slightly less oily than the French Roast , and the acidity of this coffee is very low .</Tokens>
+		<POS>DT NNS VBP RB RBR RB IN DT JJ NN , CC DT NN IN DT NN VBZ RB JJ .</POS>
+		<Lemma>the bean be slightly less oily than the french roast , and the acidity of this coffee be very low .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you love dark roasts , you will look forward to waking up each morning to this brew .</Tokens>
+		<POS>IN PRP VBP JJ NNS , PRP MD VB RB TO VBG RP DT NN TO DT NN .</POS>
+		<Lemma>if you love dark roast , you will look forward to wake up each morning to this brew .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is also a wonderful deal on Amazon for high quality organic .</Tokens>
+		<POS>DT VBZ RB DT JJ NN IN NNP IN JJ NN JJ .</POS>
+		<Lemma>this be also a wonderful deal on Amazon for high quality organic .</Lemma>
+	</Sentence>
+</Document>

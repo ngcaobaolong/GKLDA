@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens></div> <span class="tiny"> Length : : 0:53 Mins </span> Use it as my permanent phone charger for my dell streak .</Tokens>
+		<POS>NN NN NN : : CD NNS JJ NN PRP IN PRP$ JJ NN NN IN PRP$ NN NN .</POS>
+		<Lemma></div> <span class="tiny"> length : : 0:53 min </span> use it as my permanent phone charger for my dell streak .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very unique and very intuitive .</Tokens>
+		<POS>RB JJ CC RB JJ .</POS>
+		<Lemma>very unique and very intuitive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Has many uses and is a good price .</Tokens>
+		<POS>VBZ JJ NNS CC VBZ DT JJ NN .</POS>
+		<Lemma>have many use and be a good price .</Lemma>
+	</Sentence>
+</Document>

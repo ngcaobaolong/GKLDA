@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The device emits an alert beep when it is being turned on , turned off , and set to record .</Tokens>
+		<POS>DT NN VBZ DT JJ NN WRB PRP VBZ VBG VBN RP , VBD RP , CC VBN TO VB .</POS>
+		<Lemma>the device emit a alert beep when it be be turn on , turn off , and set to record .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is all well and good if you 're recording your bike ride , but not so great if you 're recording your kid 's piano recital .</Tokens>
+		<POS>DT VBZ RB RB CC JJ IN PRP VBP VBG PRP$ NN NN , CC RB RB JJ IN PRP VBP VBG PRP$ NN POS NN NN .</POS>
+		<Lemma>this be all well and good if you be record you bike ride , but not so great if you be record you kid 's piano recital .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There is an option to disable the periodic `` beep beep beep '' that indicates the device is recording , but that option does not control these other noises .</Tokens>
+		<POS>EX VBZ DT NN TO VB DT JJ `` NN NN NN '' WDT VBZ DT NN VBZ VBG , CC IN NN VBZ RB VB DT JJ NNS .</POS>
+		<Lemma>there be a option to disable the periodic `` beep beep beep '' that indicate the device be record , but that option do not control these other noise .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But worse is that the recorder puts a visible , large , date and time stamp in the corner of every frame , and there does not appear to be any way to remove it .</Tokens>
+		<POS>CC JJR VBZ IN DT NN VBZ DT JJ , JJ , NN CC NN NN IN DT NN IN DT NN , CC RB VBZ RB VB TO VB DT NN TO VB PRP .</POS>
+		<Lemma>but worse be that the recorder put a visible , large , date and time stamp in the corner of every frame , and there do not appear to be any way to remove it .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is a great improvement from the old syle boxy , heavy monitors and I really like it .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN DT JJ NN JJ , JJ NNS CC PRP RB IN PRP .</POS>
+		<Lemma>this monitor be a great improvement from the old syle boxy , heavy monitor and I really like it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Also , it takes up much less space .</Tokens>
+		<POS>RB , PRP VBZ RP RB JJR NN .</POS>
+		<Lemma>also , it take up much less space .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The images are sharp , clear and bright .</Tokens>
+		<POS>DT NNS VBP JJ , JJ CC JJ .</POS>
+		<Lemma>the image be sharp , clear and bright .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Perhaps I should have given it a 5 star rating but I actually wish I had gotten a larger model , perhaps a 22 '' at least .</Tokens>
+		<POS>RB PRP MD VB VBN PRP DT CD NN NN CC PRP RB VBP PRP VBD VBN DT JJR NN , RB DT CD '' IN JJS .</POS>
+		<Lemma>perhaps I should have give it a 5 star rating but I actually wish I have get a larger model , perhaps a 22 '' at least .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Knowing what I know now , I would gladly have paid the extra cost .</Tokens>
+		<POS>VBG WP PRP VBP RB , PRP MD RB VB VBN DT JJ NN .</POS>
+		<Lemma>know what I know now , I would gladly have pay the extra cost .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Here is the reason and this is no one 's fault but my own : This 20 '' monitor 's screen is exactly the same height as my old 16 '' monitor .</Tokens>
+		<POS>RB VBZ DT NN CC DT VBZ DT NN POS NN CC PRP$ JJ : DT CD '' NN POS NN VBZ RB DT JJ NN IN PRP$ JJ CD '' NN .</POS>
+		<Lemma>here be the reason and this be no one 's fault but my own : this 20 '' monitor 's screen be exactly the same height as my old 16 '' monitor .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Both screens are 9.75 '' high .</Tokens>
+		<POS>DT NNS VBP CD '' JJ .</POS>
+		<Lemma>both screen be 9.75 '' high .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The old monitor is 13 '' wide while this new one is 17.5 '' wide .</Tokens>
+		<POS>DT JJ NN VBZ CD '' JJ IN DT JJ CD VBZ CD '' JJ .</POS>
+		<Lemma>the old monitor be 13 '' wide while this new one be 17.5 '' wide .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So , while a 20 '' monitor -LRB- diagonal -RRB- seems a lot bigger -LRB- and it is -RRB- than a 14 '' , actually it just has a wider screen .</Tokens>
+		<POS>RB , IN DT CD '' NN -LRB- JJ -RRB- VBZ DT RB JJR -LRB- CC PRP VBZ -RRB- IN DT CD '' , RB PRP RB VBZ DT JJR NN .</POS>
+		<Lemma>so , while a 20 '' monitor -lrb- diagonal -rrb- seem a lot bigger -lrb- and it be -rrb- than a 14 '' , actually it just have a wider screen .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>However , the old one is 18 '' deep and the new flat screen is only about 1 '' deep which is amazing .</Tokens>
+		<POS>RB , DT JJ CD VBZ CD '' JJ CC DT JJ JJ NN VBZ RB RB CD '' JJ WDT VBZ JJ .</POS>
+		<Lemma>however , the old one be 18 '' deep and the new flat screen be only about 1 '' deep which be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I do not hesitate to recommend this model but do consider the dimensions .</Tokens>
+		<POS>PRP VBP RB VB TO VB DT NN CC VBP VB DT NNS .</POS>
+		<Lemma>I do not hesitate to recommend this model but do consider the dimension .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I 'm sure Amazon or Acer wo n't mind you spending a little more to get one with both a higher and wider screen .</Tokens>
+		<POS>PRP VBP JJ NNP CC NNP MD RB VB PRP VBG DT RB JJR TO VB CD IN CC DT JJR CC JJR NN .</POS>
+		<Lemma>I be sure Amazon or Acer will not mind you spend a little more to get one with both a higher and wider screen .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Great delivery time by the way !</Tokens>
+		<POS>JJ NN NN IN DT NN .</POS>
+		<Lemma>great delivery time by the way !</Lemma>
+	</Sentence>
+</Document>

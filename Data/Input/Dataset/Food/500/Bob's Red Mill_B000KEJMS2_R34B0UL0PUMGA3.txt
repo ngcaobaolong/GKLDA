@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>`` Bob 's Red Mill '' is a name synonymous with healthy grains , and these red lentils are no exception .</Tokens>
+		<POS>`` NNP POS NNP NNP '' VBZ DT NN JJ IN JJ NNS , CC DT JJ NNS VBP DT NN .</POS>
+		<Lemma>`` Bob 's Red Mill '' be a name synonymous with healthy grain , and these red lentil be no exception .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These are exceedingly tasty lentils that cook surprisingly quickly -- too quickly , in fact .</Tokens>
+		<POS>DT VBP RB JJ NNS WDT VBP RB RB : RB RB , IN NN .</POS>
+		<Lemma>these be exceedingly tasty lentil that cook surprisingly quickly -- too quickly , in fact .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Definitely reduce your cooking times from other lentils you may have prepared , for the slightest overcooking of Bob 's red lentils will break them down and turn them into mush .</Tokens>
+		<POS>RB VB PRP$ NN NNS IN JJ NNS PRP MD VB VBN , IN DT JJS NN IN NNP POS JJ NNS MD VB PRP RB CC VB PRP IN NN .</POS>
+		<Lemma>definitely reduce you cooking time from other lentil you may have prepare , for the slightest overcooking of Bob 's red lentil will break they down and turn they into mush .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now , that mush is surprisingly tasty , and I would n't be surprised if you spiced them up and added some flour and eggs for structure and strength that you could turn them into delicious vegetarian patties for burgers .</Tokens>
+		<POS>RB , IN NN VBZ RB JJ , CC PRP MD RB VB VBN IN PRP VBD PRP RP CC VBD DT NN CC NNS IN NN CC NN IN PRP MD VB PRP IN JJ JJ NNS IN NNS .</POS>
+		<Lemma>now , that mush be surprisingly tasty , and I would not be surprise if you spice they up and add some flour and egg for structure and strength that you could turn they into delicious vegetarian patty for burger .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But if you like lentils with some toothsome feel and visible structure , then you might be happier with a different variety , or a different brand of red lentils than Bob 's .</Tokens>
+		<POS>CC IN PRP IN NNS IN DT JJ NN CC JJ NN , RB PRP MD VB JJR IN DT JJ NN , CC DT JJ NN IN JJ NNS IN NNP POS .</POS>
+		<Lemma>but if you like lentil with some toothsome feel and visible structure , then you might be happier with a different variety , or a different brand of red lentil than Bob 's .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This 4-pack comes in a large box -- be careful when cutting it open so as not to pierce the 4 inner bags .</Tokens>
+		<POS>DT NN VBZ IN DT JJ NN : VB JJ WRB VBG PRP JJ RB IN RB TO VB DT CD JJ NNS .</POS>
+		<Lemma>this 4-pack come in a large box -- be careful when cut it open so as not to pierce the 4 inner bag .</Lemma>
+	</Sentence>
+</Document>

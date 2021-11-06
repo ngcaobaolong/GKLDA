@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I paid a lot of money , for this corn when I got to use it was stale , I did much better at my local walmart .</Tokens>
+		<POS>PRP VBD DT NN IN NN , IN DT NN WRB PRP VBD TO VB PRP VBD JJ , PRP VBD RB JJR IN PRP$ JJ NN .</POS>
+		<Lemma>I pay a lot of money , for this corn when I get to use it be stale , I do much better at my local walmart .</Lemma>
+	</Sentence>
+</Document>

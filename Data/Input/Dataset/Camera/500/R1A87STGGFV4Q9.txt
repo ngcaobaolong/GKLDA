@@ -1,0 +1,167 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am `` sidegrading '' to this camera from a D300s .</Tokens>
+		<POS>PRP VBP `` VBG '' TO DT NN IN DT NN .</POS>
+		<Lemma>I be `` sidegrade '' to this camera from a d300 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Here are my thoughts after shooting both together for a couple of months .</Tokens>
+		<POS>RB VBP PRP$ NNS IN VBG CC RB IN DT NN IN NNS .</POS>
+		<Lemma>here be my thought after shoot both together for a couple of month .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The worst thing about the D7000 are its more `` beginner friendly '' ergonomics .</Tokens>
+		<POS>DT JJS NN IN DT NN VBP PRP$ JJR `` NN JJ '' NNS .</POS>
+		<Lemma>the worst thing about the d7000 be its more `` beginner friendly '' ergonomics .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The mode wheel on the D7000 is too easy to turn accidentally .</Tokens>
+		<POS>DT NN NN IN DT NN VBZ RB JJ TO VB RB .</POS>
+		<Lemma>the mode wheel on the d7000 be too easy to turn accidentally .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Everything besides A , S , M , U1 and U2 are a waste for me .</Tokens>
+		<POS>NN IN DT , NN , NN , NN CC NN VBP DT NN IN PRP .</POS>
+		<Lemma>everything besides a , s , m , u1 and u2 be a waste for I .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This could have been the perfect camera if they only made the buttons exactly like a D300s .</Tokens>
+		<POS>DT MD VB VBN DT JJ NN IN PRP RB VBD DT NNS RB IN DT NN .</POS>
+		<Lemma>this could have be the perfect camera if they only make the button exactly like a d300 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The live view switch is too easy to hit accidentally with your thumb , especially if you use the AF lock button a lot -LRB- like , if you use it to enable autofocus -RRB- .</Tokens>
+		<POS>DT JJ NN NN VBZ RB JJ TO VB RB IN PRP$ NN , RB IN PRP VBP DT NN NN NN DT NN -LRB- IN , IN PRP VBP PRP TO VB NN -RRB- .</POS>
+		<Lemma>the live view switch be too easy to hit accidentally with you thumb , especially if you use the af lock button a lot -lrb- like , if you use it to enable autofocus -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Its also too easy to accidentally press the DOF Preview button next to the lens mount as your left hand wraps around the lens .</Tokens>
+		<POS>PRP$ RB RB JJ TO RB VB DT NNP NNP NN IN TO DT NN VBP IN PRP$ JJ NN VBZ IN DT NN .</POS>
+		<Lemma>its also too easy to accidentally press the DOF Preview button next to the lens mount as you left hand wrap around the lens .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I ca n't imagine why they moved that button from its spot on the higher end Nikons .</Tokens>
+		<POS>PRP MD RB VB WRB PRP VBD IN NN IN PRP$ NN IN DT JJR NN NNPS .</POS>
+		<Lemma>I can not imagine why they move that button from its spot on the higher end Nikons .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The one true ergonomic advantage the D7000 has for me are its user modes .</Tokens>
+		<POS>DT CD JJ JJ NN DT NN VBZ IN PRP VBP PRP$ NN NNS .</POS>
+		<Lemma>the one true ergonomic advantage the d7000 have for I be its user mode .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This is a HUGE advantage , as the more settings I have to change between shots , the more mistakes I make .</Tokens>
+		<POS>DT VBZ DT NN NN , IN DT JJR NNS PRP VBP TO VB IN NNS , DT JJR NNS PRP VBP .</POS>
+		<Lemma>this be a huge advantage , as the more setting I have to change between shot , the more mistake I make .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I set one of the user modes to manual with auto ISO and mixing ambient shots in with flash shots becomes a total breeze .</Tokens>
+		<POS>PRP VBD CD IN DT NN NNS TO VB IN NN NN CC VBG JJ NNS IN IN NN NNS VBZ DT JJ NN .</POS>
+		<Lemma>I set one of the user mode to manual with auto iso and mix ambient shot in with flash shot become a total breeze .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The smaller size and weight of the D7000 had seemed like it would be a big advantage but it just does n't feel that great in my hands .</Tokens>
+		<POS>DT JJR NN CC NN IN DT NN VBD VBN IN PRP MD VB DT JJ NN CC PRP RB VBZ RB VB IN JJ IN PRP$ NNS .</POS>
+		<Lemma>the smaller size and weight of the d7000 have seem like it would be a big advantage but it just do not feel that great in my hand .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I might try the grip to help this .</Tokens>
+		<POS>PRP MD VB DT NN TO VB DT .</POS>
+		<Lemma>I might try the grip to help this .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The weight difference between the two is small enough that I do n't notice it much and prefer the D300s feel .</Tokens>
+		<POS>DT NN NN IN DT CD VBZ JJ RB IN PRP VBP RB VB PRP JJ CC VBP DT NNPS VBP .</POS>
+		<Lemma>the weight difference between the two be small enough that I do not notice it much and prefer the D300s feel .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I had been worried that the buffer on the D7000 would run out too easily .</Tokens>
+		<POS>PRP VBD VBN VBN IN DT NN IN DT NN MD VB RP RB RB .</POS>
+		<Lemma>I have be worry that the buffer on the d7000 would run out too easily .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I have never gotten into trouble with this and I shoot in 14 bit RAW .</Tokens>
+		<POS>PRP VBP RB VBN IN NN IN DT CC PRP VBP IN CD NN NN .</POS>
+		<Lemma>I have never get into trouble with this and I shoot in 14 bit raw .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The stuff I shoot -LRB- typical Dad stuff , some portraits , some landscapes and long exposures -RRB- , does n't really require any burst shots , though .</Tokens>
+		<POS>DT NN PRP VBP -LRB- JJ NNP NN , DT NNS , DT NNS CC JJ NNS -RRB- , VBZ RB RB VB DT NN NNS , RB .</POS>
+		<Lemma>the stuff I shoot -lrb- typical Dad stuff , some portrait , some landscape and long exposure -rrb- , do not really require any burst shot , though .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The image quality seems to be about a stop and a half better than a D300s after processing RAW files via Lightroom 3 .</Tokens>
+		<POS>DT NN NN VBZ TO VB IN DT NN CC DT NN JJR IN DT NN IN VBG NN NNS IN NN CD .</POS>
+		<Lemma>the image quality seem to be about a stop and a half better than a d300 after process raw file via lightroom 3 .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I would pretty much never go above ISO 800 on the D300s .</Tokens>
+		<POS>PRP MD RB RB RB VB IN NN CD IN DT NNS .</POS>
+		<Lemma>I would pretty much never go above iso 800 on the d300 .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>On the D7000 , I will gladly go to 1600 and will use 3200 about often as 800 on the D300s .</Tokens>
+		<POS>IN DT NN , PRP MD RB VB TO CD CC MD VB CD RB RB IN CD IN DT NNS .</POS>
+		<Lemma>on the d7000 , I will gladly go to 1600 and will use 3200 about often as 800 on the d300 .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>This is a big deal to me because it seams I can go without a flash about 50 % more often .</Tokens>
+		<POS>DT VBZ DT JJ NN TO PRP IN PRP VBZ PRP MD VB IN DT NN IN CD NN RBR RB .</POS>
+		<Lemma>this be a big deal to I because it seam I can go without a flash about 50 % more often .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The autofocus and metering are a bit better on the D7000 , but not enough for me to really care .</Tokens>
+		<POS>DT NN CC NN VBP DT NN RBR IN DT NN , CC RB RB IN PRP TO RB VB .</POS>
+		<Lemma>the autofocus and metering be a bit better on the d7000 , but not enough for I to really care .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Manual focus on the D7000 is easier , as it gives you arrows in the viewfinder telling you which way to turn the focus ring .</Tokens>
+		<POS>JJ NN IN DT NN VBZ JJR , IN PRP VBZ PRP NNS IN DT NN VBG PRP WDT NN TO VB DT NN NN .</POS>
+		<Lemma>manual focus on the d7000 be easier , as it give you arrow in the viewfinder tell you which way to turn the focus ring .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>D300s only gave you a dot for focus confirmation .</Tokens>
+		<POS>NNS RB VBD PRP DT NN IN NN NN .</POS>
+		<Lemma>d300 only give you a dot for focus confirmation .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Manual focus in Live View seems a bit easier on the D7000 .</Tokens>
+		<POS>JJ NN IN NNP NNP VBZ DT RB JJR IN DT NN .</POS>
+		<Lemma>manual focus in Live View seem a bit easier on the d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I am not sure why , but it feels slicker .</Tokens>
+		<POS>PRP VBP RB JJ WRB , CC PRP VBZ NN .</POS>
+		<Lemma>I be not sure why , but it feel slicker .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Maybe the screen is refreshing faster ?</Tokens>
+		<POS>RB DT NN VBZ VBG RBR .</POS>
+		<Lemma>maybe the screen be refresh faster ?</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>The LCDs have identical resolution , so this could be in my head also .</Tokens>
+		<POS>DT NNS VBP JJ NN , RB DT MD VB IN PRP$ NN RB .</POS>
+		<Lemma>the lcd have identical resolution , so this could be in my head also .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>I love that the D7000 can use a cheap IR remote .</Tokens>
+		<POS>PRP VBP IN DT NN MD VB DT JJ NN JJ .</POS>
+		<Lemma>I love that the d7000 can use a cheap ir remote .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>The `` remote mode '' on the D7000 is still a bit of a mess , in that it disables your normal shutter button , but its worth not having to deal with fancy wireless shutter releases and their ridiculous screw-in cables .</Tokens>
+		<POS>DT `` JJ NN '' IN DT NN VBZ RB DT NN IN DT NN , IN IN PRP VBZ PRP$ JJ NN NN , CC PRP$ JJ RB VBG TO VB IN JJ JJ NN NNS CC PRP$ JJ JJ NNS .</POS>
+		<Lemma>the `` remote mode '' on the d7000 be still a bit of a mess , in that it disable you normal shutter button , but its worth not have to deal with fancy wireless shutter release and they ridiculous screw-in cable .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>So in the end , I like the D7000 better .</Tokens>
+		<POS>RB IN DT NN , PRP VBP DT NN RBR .</POS>
+		<Lemma>so in the end , I like the d7000 better .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Image quality and user modes really cinched it for me .</Tokens>
+		<POS>NN NN CC NN NNS RB VBD PRP IN PRP .</POS>
+		<Lemma>image quality and user mode really cinch it for I .</Lemma>
+	</Sentence>
+</Document>

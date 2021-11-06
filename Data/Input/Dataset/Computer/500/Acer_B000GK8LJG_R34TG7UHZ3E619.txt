@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Do n't try and save money with this thing .</Tokens>
+		<POS>VBP RB VB CC VB NN IN DT NN .</POS>
+		<Lemma>do not try and save money with this thing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Text is blurry , even with lots of fiddling color reproduction is horrid .</Tokens>
+		<POS>NN VBZ JJ , RB IN NNS IN JJ NN NN VBZ JJ .</POS>
+		<Lemma>text be blurry , even with lot of fiddling color reproduction be horrid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just a really bad monitor , worst I 've used and I plug into a big monitor every where I travel with my laptop .</Tokens>
+		<POS>RB DT RB JJ NN , JJS PRP VBP VBN CC PRP VBP IN DT JJ NN DT WRB PRP VBP IN PRP$ NN .</POS>
+		<Lemma>just a really bad monitor , worst I have use and I plug into a big monitor every where I travel with my laptop .</Lemma>
+	</Sentence>
+</Document>

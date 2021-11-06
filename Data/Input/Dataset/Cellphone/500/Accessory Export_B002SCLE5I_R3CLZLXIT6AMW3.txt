@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We have several cell phones and live in an area where we usually get 2-3 bars on different phones .</Tokens>
+		<POS>PRP VBP JJ NN NNS CC VB IN DT NN WRB PRP RB VBP CD NNS IN JJ NNS .</POS>
+		<Lemma>we have several cell phone and live in a area where we usually get 2-3 bar on different phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Followed the directions and even tried more than one ... no use at all : -LRB- .</Tokens>
+		<POS>VBN DT NNS CC RB VBD JJR IN CD : DT NN IN DT : -LRB- .</POS>
+		<Lemma>follow the direction and even try more than one ... no use at all : -lrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Guess u get what ya pay for , but was hoping something simple and small like this would work ... oh well .</Tokens>
+		<POS>NN NN VB WP PRP VBP IN , CC VBD VBG NN JJ CC JJ IN DT MD VB : UH RB .</POS>
+		<Lemma>guess u get what ya pay for , but be hope something simple and small like this would work ... oh well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Others have had better luck , but nothing here .</Tokens>
+		<POS>NNS VBP VBN RBR NN , CC NN RB .</POS>
+		<Lemma>other have have better luck , but nothing here .</Lemma>
+	</Sentence>
+</Document>

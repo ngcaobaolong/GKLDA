@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I did an exhaustive search on Bluetooth devices before I went with this device and I am very very very impressed .</Tokens>
+		<POS>PRP VBD DT JJ NN IN NNP NNS IN PRP VBD IN DT NN CC PRP VBP RB RB RB JJ .</POS>
+		<Lemma>I do a exhaustive search on Bluetooth device before I go with this device and I be very very very impressed .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is the BEST Bluetooth device I have ever used .</Tokens>
+		<POS>DT VBZ DT NNP NNP NN PRP VBP RB VBN .</POS>
+		<Lemma>this be the BEST Bluetooth device I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The music from my HTC Evo 4G device plays very well thru the radio and the call quality of the phone is unmatched .</Tokens>
+		<POS>DT NN IN PRP$ NNP NNP NNP NN VBZ RB RB IN DT NN CC DT JJ NN IN DT NN VBZ JJ .</POS>
+		<Lemma>the music from my HTC Evo 4G device play very well thru the radio and the call quality of the phone be unmatched .</Lemma>
+	</Sentence>
+</Document>

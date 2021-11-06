@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Palak Paneer is one of my favorite Indian dishes , and this one is very good .</Tokens>
+		<POS>NNP NNP VBZ CD IN PRP$ JJ JJ NNS , CC DT CD VBZ RB JJ .</POS>
+		<Lemma>Palak Paneer be one of my favorite indian dish , and this one be very good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is seasoned enough to give it flavor , but not overly salted .</Tokens>
+		<POS>PRP VBZ JJ RB TO VB PRP NN , CC RB RB JJ .</POS>
+		<Lemma>it be seasoned enough to give it flavor , but not overly salted .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Some may find this a little spicy -LRB- a bit of chili -RRB- , but my tongue enjoys this level of spice .</Tokens>
+		<POS>DT MD VB DT DT JJ NN -LRB- DT NN IN NNS -RRB- , CC PRP$ NN VBZ DT NN IN NN .</POS>
+		<Lemma>some may find this a little spicy -lrb- a bit of chili -rrb- , but my tongue enjoy this level of spice .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>-LRB- I lived in India for two years , and by Indian standards , there is little `` hot '' in this dish . -RRB-</Tokens>
+		<POS>-LRB- PRP VBD IN NNP IN CD NNS , CC IN JJ NNS , EX VBZ JJ `` JJ '' IN DT NN . -RRB-</POS>
+		<Lemma>-lrb- I live in India for two year , and by indian standard , there be little `` hot '' in this dish . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only negative I have with this dish is that the inside pouch is not microwavable .</Tokens>
+		<POS>DT JJ JJ PRP VBP IN DT NN VBZ IN DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>the only negative I have with this dish be that the inside pouch be not microwavable .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But It is easily emptied over a bowl of dish to enjoy in just a couple of minutes from the microwave .</Tokens>
+		<POS>CC PRP VBZ RB VBN IN DT NN IN NN TO VB IN RB DT NN IN NNS IN DT NN .</POS>
+		<Lemma>but it be easily empty over a bowl of dish to enjoy in just a couple of minute from the microwave .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This is something I will keep on my shelf for a quick , protein-rich , vegetarian lunch .</Tokens>
+		<POS>DT VBZ NN PRP MD VB IN PRP$ NN IN DT JJ , JJ , JJ NN .</POS>
+		<Lemma>this be something I will keep on my shelf for a quick , protein-rich , vegetarian lunch .</Lemma>
+	</Sentence>
+</Document>

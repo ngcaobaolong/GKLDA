@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Overall product quality from KofI is excellent .</Tokens>
+		<POS>JJ NN NN IN NN VBZ JJ .</POS>
+		<Lemma>overall product quality from kofus be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use a lot of their ready to eat options .</Tokens>
+		<POS>PRP VBP DT NN IN PRP$ JJ TO VB NNS .</POS>
+		<Lemma>I use a lot of they ready to eat option .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This one just happens not to be my favorite .</Tokens>
+		<POS>DT CD RB VBZ RB TO VB PRP$ JJ .</POS>
+		<Lemma>this one just happen not to be my favorite .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It reminds me of a saag , very mild seasoning .</Tokens>
+		<POS>PRP VBZ PRP IN DT NN , RB JJ NN .</POS>
+		<Lemma>it remind I of a saag , very mild seasoning .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Sort of a soupy texture with firm cubes of cheese .</Tokens>
+		<POS>NN IN DT JJ NN IN NN NNS IN NN .</POS>
+		<Lemma>sort of a soupy texture with firm cube of cheese .</Lemma>
+	</Sentence>
+</Document>

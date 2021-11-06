@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great Monitor for the money , Its better than my old one that would heat my small home office up .</Tokens>
+		<POS>JJ NNP IN DT NN , PRP$ JJR IN PRP$ JJ NN WDT MD VB PRP$ JJ NN NN RB .</POS>
+		<Lemma>great Monitor for the money , its better than my old one that would heat my small home office up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The review from picky consumer `` f '' said the image quality was bad , maybe that person needs to see a eye doctor .</Tokens>
+		<POS>DT NN IN JJ NN `` FW '' VBD DT NN NN VBD JJ , RB IN NN VBZ TO VB DT NN NN .</POS>
+		<Lemma>the review from picky consumer `` f '' say the image quality be bad , maybe that person need to see a eye doctor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Image quality is great , im glad i bought it .</Tokens>
+		<POS>NN NN VBZ JJ , NN JJ FW VBD PRP .</POS>
+		<Lemma>image quality be great , im glad i buy it .</Lemma>
+	</Sentence>
+</Document>

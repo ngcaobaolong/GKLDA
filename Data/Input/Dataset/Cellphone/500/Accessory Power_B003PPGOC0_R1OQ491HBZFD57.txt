@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been using this product from almost a month now .</Tokens>
+		<POS>PRP VBP VBN VBG DT NN IN RB DT NN RB .</POS>
+		<Lemma>I have be use this product from almost a month now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I bought this product , I was worried if it 's gonna give enough support I need , but now I am fully satisfied with this product .</Tokens>
+		<POS>WRB PRP VBD DT NN , PRP VBD VBN IN PRP VBZ NNS VB JJ NN PRP VBP , CC RB PRP VBP RB VBN IN DT NN .</POS>
+		<Lemma>when I buy this product , I be worry if it be gonna give enough support I need , but now I be fully satisfy with this product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Only problem I face is shifting my car sterio between Tuner and CD system if I want to play songs from my CD .</Tokens>
+		<POS>RB NN PRP VBP VBZ VBG PRP$ NN NN IN NNP CC NNP NN IN PRP VBP TO VB NNS IN PRP$ NN .</POS>
+		<Lemma>only problem I face be shift my car sterio between Tuner and CD system if I want to play song from my cd .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Otherwise , the sound quality is good for speaker and also for the listener .</Tokens>
+		<POS>RB , DT JJ NN VBZ JJ IN NN CC RB IN DT NN .</POS>
+		<Lemma>otherwise , the sound quality be good for speaker and also for the listener .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have not received any complaints from my listeners till today .</Tokens>
+		<POS>PRP VBP RB VBN DT NNS IN PRP$ NNS IN NN .</POS>
+		<Lemma>I have not receive any complaint from my listener till today .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I hope this will continue to be the same even in the future .</Tokens>
+		<POS>PRP VBP DT MD VB TO VB DT JJ RB IN DT NN .</POS>
+		<Lemma>I hope this will continue to be the same even in the future .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Will surely update the review if I find any problems in the future .</Tokens>
+		<POS>MD RB VB DT NN IN PRP VBP DT NNS IN DT NN .</POS>
+		<Lemma>will surely update the review if I find any problem in the future .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you are thinking about owning some thing like this , then this product is the best one .</Tokens>
+		<POS>IN PRP VBP VBG IN VBG DT NN IN DT , RB DT NN VBZ DT JJS CD .</POS>
+		<Lemma>if you be think about own some thing like this , then this product be the best one .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is little expensive compare to other products , but still its worthy enough .</Tokens>
+		<POS>PRP VBZ JJ JJ VB TO JJ NNS , CC RB PRP$ JJ NN .</POS>
+		<Lemma>it be little expensive compare to other product , but still its worthy enough .</Lemma>
+	</Sentence>
+</Document>

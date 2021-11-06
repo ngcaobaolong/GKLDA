@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was ready to shell out $ 200 to replace my stereo so I could listen to my iPhone .</Tokens>
+		<POS>PRP VBD JJ TO VB RP $ CD TO VB PRP$ NN IN PRP MD VB TO PRP$ NNP .</POS>
+		<Lemma>I be ready to shell out $ 200 to replace my stereo so I could listen to my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I found this and I love it !</Tokens>
+		<POS>PRP VBD DT CC PRP VBP PRP .</POS>
+		<Lemma>I find this and I love it !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Clear sound , hands free , great to use with the MapQuest app so I can get spoken directions that automatically turns down the music and then turns it back up again</Tokens>
+		<POS>JJ NN , NNS JJ , JJ TO VB IN DT NNP NN IN PRP MD VB VBN NNS WDT RB VBZ RP DT NN CC RB VBZ PRP RB RB RB</POS>
+		<Lemma>clear sound , hand free , great to use with the MapQuest app so I can get speak direction that automatically turn down the music and then turn it back up again</Lemma>
+	</Sentence>
+</Document>

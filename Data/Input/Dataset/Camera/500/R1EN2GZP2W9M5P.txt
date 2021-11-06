@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We bought this camera because my wife did n't want to lug one of our Nikon SLR 's around on our recent trip to Spain and South Africa .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ NN VBD RB VB TO VB CD IN PRP$ NNP NNP POS IN IN PRP$ JJ NN TO NNP CC NNP NNP .</POS>
+		<Lemma>we buy this camera because my wife do not want to lug one of we Nikon SLR 's around on we recent trip to Spain and South Africa .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It quickly became our go-to camera .</Tokens>
+		<POS>PRP RB VBD PRP$ JJ NN .</POS>
+		<Lemma>it quickly become we go-to camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After comparing the picture quality of photos taken with the Cyber-Shot to similar photos taken with a Nikon D70 -LRB- w\/18 -200 zoom lens -RRB- , they are of near equal quality .</Tokens>
+		<POS>IN VBG DT NN NN IN NNS VBN IN DT NNP TO JJ NNS VBN IN DT NNP NN -LRB- NN CD NN NN -RRB- , PRP VBP IN JJ JJ NN .</POS>
+		<Lemma>after compare the picture quality of photo take with the Cyber-Shot to similar photo take with a Nikon d70 -lrb- w\/18 -200 zoom lens -rrb- , they be of near equal quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The metering on the Nikon is just slightly better , but with photoshop , that does n't really matter .</Tokens>
+		<POS>DT NN IN DT NNP VBZ RB RB JJR , CC IN NN , WDT VBZ RB RB NN .</POS>
+		<Lemma>the metering on the Nikon be just slightly better , but with photoshop , that do not really matter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Zoom is fantastic and compares to about a 150mm lens on a SLR .</Tokens>
+		<POS>NN VBZ JJ CC VBZ TO IN DT CD NN IN DT NN .</POS>
+		<Lemma>zoom be fantastic and compare to about a 150mm lens on a slr .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The panorama feature is really neat and gives good quality coverage .</Tokens>
+		<POS>DT NN NN VBZ RB JJ CC VBZ JJ NN NN .</POS>
+		<Lemma>the panorama feature be really neat and give good quality coverage .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Having the built in movie feature is great .</Tokens>
+		<POS>VBG DT VBN IN NN NN VBZ JJ .</POS>
+		<Lemma>have the build in movie feature be great .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Photos can not begin to capture the essence of Zulu dancers .</Tokens>
+		<POS>NNS MD RB VB TO VB DT NN IN NNP NNS .</POS>
+		<Lemma>photo can not begin to capture the essence of Zulu dancer .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 'm willing to bet in the future that this camera gets used 5x more than our two Nikon SLR 's .</Tokens>
+		<POS>PRP VBP JJ TO VB IN DT NN IN DT NN VBZ VBN RB RBR IN PRP$ CD NNP NNP POS .</POS>
+		<Lemma>I be willing to bet in the future that this camera get use 5x more than we two Nikon SLR 's .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I purchased the 16GB high speed memory card and did n't once have to worry about running out of storage .</Tokens>
+		<POS>PRP VBD DT NN JJ NN NN NN CC VBD RB RB VB TO VB IN VBG RB IN NN .</POS>
+		<Lemma>I purchase the 16gb high speed memory card and do not once have to worry about run out of storage .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Having a second battery came in handy .</Tokens>
+		<POS>VBG DT JJ NN VBD IN JJ .</POS>
+		<Lemma>have a second battery come in handy .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Leaving the camera on means that the LCD viewing screen is on and that cuts into battery life .</Tokens>
+		<POS>VBG DT NN IN NNS IN DT NNS VBG NN VBZ IN CC IN NNS IN NN NN .</POS>
+		<Lemma>leave the camera on means that the lcd view screen be on and that cut into battery life .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Order a spare battery with the camera -LRB- the newer model G battery provides remaining time estimate on the dispaly screen -RRB- .</Tokens>
+		<POS>NNP DT JJ NN IN DT NN -LRB- DT JJR NN NN NN VBZ VBG NN NN IN DT JJ NN -RRB- .</POS>
+		<Lemma>Order a spare battery with the camera -lrb- the newer model g battery provide remain time estimate on the dispaly screen -rrb- .</Lemma>
+	</Sentence>
+</Document>

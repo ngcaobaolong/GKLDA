@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a good , well rounded java that has a nice smoothness .</Tokens>
+		<POS>DT VBZ DT JJ , RB VBD NN WDT VBZ DT JJ NN .</POS>
+		<Lemma>this be a good , well round java that have a nice smoothness .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The flavor is okay , but not really distinctive .</Tokens>
+		<POS>DT NN VBZ JJ , CC RB RB JJ .</POS>
+		<Lemma>the flavor be okay , but not really distinctive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would buy it again , especially to mix with a medium roast , which is what I am doing now .</Tokens>
+		<POS>PRP MD VB PRP RB , RB TO VB IN DT NN NN , WDT VBZ WP PRP VBP VBG RB .</POS>
+		<Lemma>I would buy it again , especially to mix with a medium roast , which be what I be do now .</Lemma>
+	</Sentence>
+</Document>

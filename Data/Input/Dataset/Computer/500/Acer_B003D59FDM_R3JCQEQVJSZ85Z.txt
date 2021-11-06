@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have an older HP -LRB- 2005 -RRB- that is still kicking .</Tokens>
+		<POS>PRP VBP DT JJR NNP -LRB- CD -RRB- WDT VBZ RB VBG .</POS>
+		<Lemma>I have a older HP -lrb- 2005 -rrb- that be still kick .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The integrated video card does not support wide-screen format , and I wanted to find a flat-panel monitor for my kids to work with .</Tokens>
+		<POS>DT VBN NN NN VBZ RB VB JJ NN , CC PRP VBD TO VB DT JJ NN IN PRP$ NNS TO VB IN .</POS>
+		<Lemma>the integrate video card do not support wide-screen format , and I want to find a flat-panel monitor for my kid to work with .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Acer 's V173 17-inch LCD was the perfect solution .</Tokens>
+		<POS>NNP POS NN JJ NNS VBD DT JJ NN .</POS>
+		<Lemma>Acer 's v173 17-inch lcd be the perfect solution .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's very difficult to locate monitors of this ratio anymore .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB NNS IN DT NN RB .</POS>
+		<Lemma>it be very difficult to locate monitor of this ratio anymore .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I usually buy Viewsonic widescreens for my work machines , and have never before purchased Acer product .</Tokens>
+		<POS>PRP RB VBP NNP NNS IN PRP$ NN NNS , CC VBP RB IN VBN NNP NN .</POS>
+		<Lemma>I usually buy Viewsonic widescreen for my work machine , and have never before purchase Acer product .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I was not very hopeful that I 'd get anything other than an OK-quality monitor .</Tokens>
+		<POS>PRP VBD RB RB JJ IN PRP MD VB NN JJ IN DT JJ NN .</POS>
+		<Lemma>I be not very hopeful that I would get anything other than a ok-quality monitor .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I was thrilled with the color quality , so much that I 'm thinking the kids can wait for Daddy to get another widescreen for his 2nd monitor at home .</Tokens>
+		<POS>PRP VBD VBN IN DT NN NN , RB RB IN PRP VBP VBG DT NNS MD VB IN NNP TO VB DT NN IN PRP$ JJ NN IN NN .</POS>
+		<Lemma>I be thrill with the color quality , so much that I be think the kid can wait for Daddy to get another widescreen for he 2nd monitor at home .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The Acer 's mine for now .</Tokens>
+		<POS>DT NNP POS NN IN RB .</POS>
+		<Lemma>the Acer 's mine for now .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>They can endure a few more months of CRT space hog .</Tokens>
+		<POS>PRP MD VB DT JJ JJR NNS IN NNP NN NN .</POS>
+		<Lemma>they can endure a few more month of CRT space hog .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Acer , nice work .</Tokens>
+		<POS>NNP , JJ NN .</POS>
+		<Lemma>Acer , nice work .</Lemma>
+	</Sentence>
+</Document>

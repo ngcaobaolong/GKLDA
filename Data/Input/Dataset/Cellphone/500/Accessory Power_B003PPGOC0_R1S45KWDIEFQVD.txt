@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This item is GREAT !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this item be great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was skeptical when buying it because it did not have many reviews , but I have had it a few weeks and have been very happy with it !!</Tokens>
+		<POS>PRP VBD JJ WRB VBG PRP IN PRP VBD RB VB JJ NNS , CC PRP VBP VBD PRP DT JJ NNS CC VBP VBN RB JJ IN PRP IN</POS>
+		<Lemma>I be skeptical when buy it because it do not have many review , but I have have it a few week and have be very happy with it !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>sometimes there is static , but all you have to do is reset the station and it is fine .</Tokens>
+		<POS>RB EX VBZ JJ , CC DT PRP VBP TO VB VBZ VB DT NN CC PRP VBZ JJ .</POS>
+		<Lemma>sometimes there be static , but all you have to do be reset the station and it be fine .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It was extremely easy to hook up , I love that you can change\/pause\/restart music from the device and not have to do it on the phone .</Tokens>
+		<POS>PRP VBD RB JJ TO NN RP , PRP VBP IN PRP MD VB NN IN DT NN CC RB VB TO VB PRP IN DT NN .</POS>
+		<Lemma>it be extremely easy to hook up , I love that you can change\/pause\/restart music from the device and not have to do it on the phone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We have sync 'd it to an EVO and a Tmobile G-1 phone and both work great .</Tokens>
+		<POS>PRP VBP NN MD PRP TO DT NNP CC DT JJ NN NN CC DT NN JJ .</POS>
+		<Lemma>we have sync would it to a EVO and a tmobile g-1 phone and both work great .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My car does not have built in bluetooth so I have been very happy to be able to take calls wirelessly .</Tokens>
+		<POS>PRP$ NN VBZ RB VB VBN IN NN IN PRP VBP VBN RB JJ TO VB JJ TO VB NNS RB .</POS>
+		<Lemma>my car do not have build in bluetooth so I have be very happy to be able to take call wirelessly .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Also , we have been able to listen to music from the EVO wirelessly while charging the G1 since it comes with different cables that work for almost every phone out there .</Tokens>
+		<POS>RB , PRP VBP VBN JJ TO VB TO NN IN DT NNP RB IN VBG DT NN IN PRP VBZ IN JJ NNS WDT VBP IN RB DT NN IN RB .</POS>
+		<Lemma>also , we have be able to listen to music from the EVO wirelessly while charge the g1 since it come with different cable that work for almost every phone out there .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was concerned that since it worked with the iPhone 3 , it might not work with the 4 ... but it worked !</Tokens>
+		<POS>PRP VBD VBN IN IN PRP VBD IN DT NNP CD , PRP MD RB VB IN DT CD : CC PRP VBD .</POS>
+		<Lemma>I be concern that since it work with the iPhone 3 , it might not work with the 4 ... but it work !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>That 's all I cared about , but it 's a convenient and versatile design , too .</Tokens>
+		<POS>DT VBZ DT PRP VBD RB , CC PRP VBZ DT JJ CC JJ NN , RB .</POS>
+		<Lemma>that be all I care about , but it be a convenient and versatile design , too .</Lemma>
+	</Sentence>
+</Document>

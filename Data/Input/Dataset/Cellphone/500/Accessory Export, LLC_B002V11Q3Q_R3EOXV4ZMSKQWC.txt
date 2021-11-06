@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased 2 of these to plug into my computer and my Xbox 360 .</Tokens>
+		<POS>PRP VBD CD IN DT TO VB IN PRP$ NN CC PRP$ NN CD .</POS>
+		<Lemma>I purchase 2 of these to plug into my computer and my xbox 360 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works great .</Tokens>
+		<POS>NNP JJ .</POS>
+		<Lemma>Works great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>and it even fits over the case i have !</Tokens>
+		<POS>CC PRP RB VBZ IN DT NN FW VBP .</POS>
+		<Lemma>and it even fit over the case i have !</Lemma>
+	</Sentence>
+</Document>

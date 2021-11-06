@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great LED monitor , feels quality made .</Tokens>
+		<POS>NNP VBD NN , VBZ NN VBN .</POS>
+		<Lemma>Great lead monitor , feel quality make .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Came with all the accessories needed -LRB- DVI cables , VGA cables -RRB- .</Tokens>
+		<POS>VBN IN PDT DT NNS VBN -LRB- NNP NNS , NNP NNS -RRB- .</POS>
+		<Lemma>come with all the accessory need -lrb- DVI cable , VGA cable -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Battlefield 3 looks great at full HD .</Tokens>
+		<POS>NN CD VBZ JJ IN JJ NN .</POS>
+		<Lemma>battlefield 3 look great at full hd .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great monitor for $ 129.99 .</Tokens>
+		<POS>JJ NN IN $ CD .</POS>
+		<Lemma>great monitor for $ 129.99 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I prefer it more than the ASUS 21.5 '' LED monitor .</Tokens>
+		<POS>PRP VBP PRP JJR IN DT NNP CD '' VBD NN .</POS>
+		<Lemma>I prefer it more than the ASUS 21.5 '' lead monitor .</Lemma>
+	</Sentence>
+</Document>

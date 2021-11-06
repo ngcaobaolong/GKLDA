@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this product , it pops perfect every time .</Tokens>
+		<POS>PRP VBP DT NN , PRP VBZ JJ DT NN .</POS>
+		<Lemma>I love this product , it pop perfect every time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is the perfect snack , low fat and very high fiber .</Tokens>
+		<POS>PRP VBZ DT JJ NN , JJ NN CC RB JJ NN .</POS>
+		<Lemma>it be the perfect snack , low fat and very high fiber .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Only 1 point per bag on W\/W .</Tokens>
+		<POS>RB CD NN IN NN IN NN .</POS>
+		<Lemma>only 1 point per bag on w\/w .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My whole family likes the taste and it 's a great value in this package .</Tokens>
+		<POS>PRP$ JJ NN VBZ DT NN CC PRP VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>my whole family like the taste and it be a great value in this package .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love the product .</Tokens>
+		<POS>NN DT NN .</POS>
+		<Lemma>love the product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Typical good quality Bob 's product .</Tokens>
+		<POS>JJ JJ NN NNP POS NN .</POS>
+		<Lemma>typical good quality Bob 's product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not a stand alone soup mis but a great and easy additive to stews and soups .</Tokens>
+		<POS>RB DT NN RB NN FW CC DT JJ CC JJ JJ TO NNS CC NNS .</POS>
+		<Lemma>not a stand alone soup mis but a great and easy additive to stew and soup .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have used this in Turkey Soup , Beef Stew and even added it to a couple can of Progresso light soups .</Tokens>
+		<POS>PRP VBP VBN DT IN NNP NNP , NN NN CC RB VBD PRP TO DT NN MD IN NNP JJ NNS .</POS>
+		<Lemma>I have use this in Turkey Soup , beef stew and even add it to a couple can of Progresso light soup .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>i will buy again !</Tokens>
+		<POS>LS MD VB RB .</POS>
+		<Lemma>i will buy again !</Lemma>
+	</Sentence>
+</Document>

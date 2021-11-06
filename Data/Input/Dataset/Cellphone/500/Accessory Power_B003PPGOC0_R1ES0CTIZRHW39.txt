@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Absolutely love this product .</Tokens>
+		<POS>RB VBP DT NN .</POS>
+		<Lemma>absolutely love this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am so happy this transmitter does n't require me to stick my phone into it .</Tokens>
+		<POS>PRP VBP RB JJ DT NN VBZ RB VB PRP TO VB PRP$ NN IN PRP .</POS>
+		<Lemma>I be so happy this transmitter do not require I to stick my phone into it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great sound when you turn it up to 30 .</Tokens>
+		<POS>JJ NN WRB PRP VBP PRP RP TO CD .</POS>
+		<Lemma>great sound when you turn it up to 30 .</Lemma>
+	</Sentence>
+</Document>

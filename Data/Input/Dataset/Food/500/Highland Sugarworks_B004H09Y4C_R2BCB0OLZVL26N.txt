@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This syrup is outstanding on pancakes .</Tokens>
+		<POS>DT NN VBZ JJ IN NNS .</POS>
+		<Lemma>this syrup be outstanding on pancake .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Our grandchildren had high praises for the true maple taste .</Tokens>
+		<POS>PRP$ NNS VBD JJ VBZ IN DT JJ NN NN .</POS>
+		<Lemma>we grandchild have high praise for the true maple taste .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I second their opinion .</Tokens>
+		<POS>PRP RB PRP$ NN .</POS>
+		<Lemma>I second they opinion .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great price , too .</Tokens>
+		<POS>JJ NN , RB .</POS>
+		<Lemma>great price , too .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We 'll definitely reorder Hylands Maple Syrup .</Tokens>
+		<POS>PRP MD RB VB NNP NNP NNP .</POS>
+		<Lemma>we 'll definitely reorder Hylands Maple Syrup .</Lemma>
+	</Sentence>
+</Document>

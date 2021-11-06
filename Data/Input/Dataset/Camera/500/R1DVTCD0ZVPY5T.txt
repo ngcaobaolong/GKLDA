@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had fujifilm F10 S6000fd camera , but when I know they will come out new product-HS20EXR , I just Sincerely hope this new camera .</Tokens>
+		<POS>PRP VBD VBN NNP CC NNP NN , CC WRB PRP VBP PRP MD VB RP JJ NN , PRP RB RB VB DT JJ NN .</POS>
+		<Lemma>I have fujifilm F10 S6000fd camera , but when I know they will come out new product-hs20exr , I just sincerely hope this new camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I order last week received yesterday .</Tokens>
+		<POS>PRP VBP JJ NN CC VBN NN .</POS>
+		<Lemma>I order last week receive yesterday .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When I open the box take HS20EXR on hand , start some test , like Wireless Remote Shutter Control - its working fine on HS20 .</Tokens>
+		<POS>WRB PRP VBP DT NN CC VB NN IN NN , VB DT NN , IN NNP NNP NNP NNP : PRP$ VBG NN IN NN .</POS>
+		<Lemma>when I open the box take hs20exr on hand , start some test , like Wireless Remote Shutter Control - its work fine on hs20 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But after 25 minutes past , I find the heating warming sign show on lcd screen , even I turn off HS20 by 1min 2min 5min 10min ... the warming sign still show up after I turn on HS20 about 5min .</Tokens>
+		<POS>CC IN CD NNS JJ , PRP VBP DT NN VBG NN NN IN NN NN , RB PRP VB RP NN IN JJ JJ JJ NN : DT VBG NN RB VBP RP IN PRP VBP RP NN IN NN .</POS>
+		<Lemma>but after 25 minute past , I find the heating warm sign show on lcd screen , even I turn off hs20 by 1min 2min 5min 10min ... the warm sign still show up after I turn on hs20 about 5min .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I know from HS10 already this problem , but after Fuji update 3 times firmware , the problem looks like better , but why the same problem still come back , more serious on the brand new camera ?</Tokens>
+		<POS>PRP VBP IN NN RB DT NN , CC IN NNP VBP CD NNS NN , DT NN VBZ IN JJR , CC WRB DT JJ NN RB VB RB , CC RBR JJ IN DT NN JJ NN .</POS>
+		<Lemma>I know from hs10 already this problem , but after Fuji update 3 time firmware , the problem look like better , but why the same problem still come back , more serious on the brand new camera ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This situation happen on Taiwan , china -LRB- in China the model-HS22EXR -RRB- , even Japan .</Tokens>
+		<POS>DT NN VB IN NNP , NN -LRB- IN NNP DT NN -RRB- , RB NNP .</POS>
+		<Lemma>this situation happen on Taiwan , china -lrb- in China the model-hs22exr -rrb- , even Japan .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>At least 80 % buyer get the same problem .</Tokens>
+		<POS>IN JJS CD NN NN VB DT JJ NN .</POS>
+		<Lemma>at least 80 % buyer get the same problem .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If the problem just like some Fuji guy said : inside the HS20 , one of the control chip has problem , why Fuji don ` t stop sold HS20 , recall as soon as possible !!</Tokens>
+		<POS>IN DT NN RB IN DT NNP NN VBD : IN DT NN , CD IN DT NN NN VBZ NN , WRB NNP VBP `` NN VB VBN NN , CC NN RB RB IN JJ NN</POS>
+		<Lemma>if the problem just like some Fuji guy say : inside the hs20 , one of the control chip have problem , why Fuji don ` t stop sell hs20 , recall as soon as possible !!</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>After I saw the warming keep going show up , I thinking 2min call Amazon for return HS20 .</Tokens>
+		<POS>IN PRP VBD DT NN VB VBG VBP RP , PRP VBG NN CC NN NNP IN NN NN .</POS>
+		<Lemma>after I see the warming keep go show up , I think 2min call Amazon for return hs20 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>That ` s mean I need return the other 6 accessories for HS20 in the same time -LRB- I already keep 5 accessories , they can work on S6000fd -RRB- , wait for refund , waste my time for take care all of this .</Tokens>
+		<POS>DT `` NNS VBP PRP VB VB DT JJ CD NNS IN NN IN DT JJ NN -LRB- PRP RB VBP CD NNS , PRP MD VB IN NN -RRB- , CC VB IN NN , NN PRP$ NN IN NN NN DT IN DT .</POS>
+		<Lemma>that ` s mean I need return the other 6 accessory for hs20 in the same time -lrb- I already keep 5 accessory , they can work on s6000fd -rrb- , wait for refund , waste my time for take care all of this .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I fell mad .</Tokens>
+		<POS>PRP VBD JJ .</POS>
+		<Lemma>I fall mad .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I like Fuji camera for last 6 years , but before Fuji fix this big problem for all the buyer loyal customers , I will recommended anybody who has interested about HS20 , Unless you can accept the warming sign problem , just wait , wait for Fuji fix the trouble .</Tokens>
+		<POS>PRP VBP NNP NN IN JJ CD NNS , CC IN NNP VB DT JJ NN IN PDT DT NN CC JJ NNS , PRP MD VBD NN WP VBZ VBN IN NN , IN PRP MD VB DT NN NN NN , RB VB , VB IN NNP VB DT NN .</POS>
+		<Lemma>I like Fuji camera for last 6 year , but before Fuji fix this big problem for all the buyer loyal customer , I will recommend anybody who have interest about hs20 , unless you can accept the warming sign problem , just wait , wait for Fuji fix the trouble .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>PS : Fuji company already release ver ,1.02 firmware for HS20 , after upgrade to new firmware , I test 30 min not turn off HS20 , look like warming problem be fix .</Tokens>
+		<POS>NNP : NNP NN RB VBP NN CD NN IN NN , IN NN TO JJ NN , PRP VBP CD NN RB VB RP NN , VB IN VBG NN VB NN .</POS>
+		<Lemma>PS : Fuji company already release ver ,1.02 firmware for hs20 , after upgrade to new firmware , I test 30 min not turn off hs20 , look like warm problem be fix .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>-LRB- ... -RRB- So I change to 3 start ...</Tokens>
+		<POS>-LRB- : -RRB- IN PRP VBP TO CD NN :</POS>
+		<Lemma>-lrb- ... -rrb- so I change to 3 start ...</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was one of those items chosen from customer reviews .</Tokens>
+		<POS>DT VBD CD IN DT NNS VBN IN NN NNS .</POS>
+		<Lemma>this be one of those item choose from customer review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did not regret this purchase .</Tokens>
+		<POS>PRP VBD RB VB DT NN .</POS>
+		<Lemma>I do not regret this purchase .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The other deciding reviews formed the criteria that turned the tide .</Tokens>
+		<POS>DT JJ VBG NNS VBD DT NNS WDT VBD DT NN .</POS>
+		<Lemma>the other decide review form the criterion that turn the tide .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>While not being the highest technology , the monitor delivers a fine picture and is adjustable for viewing .</Tokens>
+		<POS>IN RB VBG DT JJS NN , DT NN VBZ DT JJ NN CC VBZ JJ IN VBG .</POS>
+		<Lemma>while not be the highest technology , the monitor deliver a fine picture and be adjustable for view .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The base hinge has a stiff joint that allows you to tilt the unit in whatever position you need .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN WDT VBZ PRP TO VB DT NN IN WDT NN PRP VBP .</POS>
+		<Lemma>the base hinge have a stiff joint that allow you to tilt the unit in whatever position you need .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You only have to look at the construction for a moment and you get the idea .</Tokens>
+		<POS>PRP RB VBP TO VB IN DT NN IN DT NN CC PRP VBP DT NN .</POS>
+		<Lemma>you only have to look at the construction for a moment and you get the idea .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Some reviewers stated that it was not adjustable .</Tokens>
+		<POS>DT NNS VBD IN PRP VBD RB JJ .</POS>
+		<Lemma>some reviewer state that it be not adjustable .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is , the spec sheet on the unit just does not mention it .</Tokens>
+		<POS>PRP VBZ , DT JJ NN IN DT NN RB VBZ RB VB PRP .</POS>
+		<Lemma>it be , the spec sheet on the unit just do not mention it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>A good buy !</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>a good buy !</Lemma>
+	</Sentence>
+</Document>

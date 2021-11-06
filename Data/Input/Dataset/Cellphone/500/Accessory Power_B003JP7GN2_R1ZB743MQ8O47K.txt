@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased 2 and love them .</Tokens>
+		<POS>VBN CD CC VB PRP .</POS>
+		<Lemma>purchase 2 and love they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its great to charge my iPhone using my USB cable -LRB- iphone , itouch , bluetooth headset -RRB- in the car and then charge in the wall when my battery is low if I 'm away from home and indoors .</Tokens>
+		<POS>PRP$ JJ TO VB PRP$ NNP VBG PRP$ JJ NN -LRB- NN , NN , NN NN -RRB- IN DT NN CC RB NN IN DT NN WRB PRP$ NN VBZ JJ IN PRP VBP RB IN NN CC RB .</POS>
+		<Lemma>its great to charge my iPhone use my usb cable -lrb- iphone , itouch , bluetooth headset -rrb- in the car and then charge in the wall when my battery be low if I be away from home and indoors .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Works great</Tokens>
+		<POS>NNP JJ</POS>
+		<Lemma>Works great</Lemma>
+	</Sentence>
+</Document>

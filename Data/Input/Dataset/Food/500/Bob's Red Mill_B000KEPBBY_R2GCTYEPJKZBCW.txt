@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the first time buying and cooking this soup mix .</Tokens>
+		<POS>DT VBZ DT JJ NN NN CC NN DT NN NN .</POS>
+		<Lemma>this be the first time buying and cooking this soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I put 2 cups soup mix to 8 cups water , brought to a boil , and simmered for 60 minutes with a tablespoon of `` Better Than Bullion '' soup base in chicken flavor -LRB- that 's what I had on hand -RRB- s added onion and garlic .</Tokens>
+		<POS>PRP VBD CD NNS NN NN TO CD NNS NN , VBD TO DT NN , CC VBD IN CD NNS IN DT NN IN `` NNP IN NNP '' NN NN IN NN NN -LRB- DT VBZ WP PRP VBD IN NN -RRB- VBZ VBN NN CC NN .</POS>
+		<Lemma>I put 2 cup soup mix to 8 cup water , bring to a boil , and simmer for 60 minute with a tablespoon of `` Better than Bullion '' soup base in chicken flavor -lrb- that be what I have on hand -rrb- s add onion and garlic .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When the soup was done cooking , I added diced , smoked ham and finished simmering a few minutes longer .</Tokens>
+		<POS>WRB DT NN VBD VBN NN , PRP VBD JJ , JJ NN CC VBD VBG DT JJ NNS RBR .</POS>
+		<Lemma>when the soup be do cooking , I add diced , smoked ham and finish simmer a few minute longer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I served this with Bob 's Red Mill gluten-free cornbread mix -LRB- added cheddar cheese and green onions to the batter before baking -RRB- and my guests and I both thought this was the best meal we 've had in a long time ... they said it was better than Anderson 's Split Pea Soup .</Tokens>
+		<POS>PRP VBD DT IN NNP POS NNP NNP JJ NN NN -LRB- VBN NN NN CC JJ NNS TO DT NN IN VBG -RRB- CC PRP$ NNS CC PRP DT VBD DT VBD DT JJS NN PRP VBP VBN IN DT JJ NN : PRP VBD PRP VBD JJR IN NNP POS NNP NNP NNP .</POS>
+		<Lemma>I serve this with Bob 's Red Mill gluten-free cornbread mix -lrb- add cheddar cheese and green onion to the batter before bake -rrb- and my guest and I both think this be the best meal we have have in a long time ... they say it be better than Anderson 's Split Pea Soup .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I thought so too .</Tokens>
+		<POS>PRP VBD RB RB .</POS>
+		<Lemma>I think so too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Would I buy this again ?</Tokens>
+		<POS>MD PRP VB DT RB .</POS>
+		<Lemma>would I buy this again ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I certainly will and would hate to be without it .</Tokens>
+		<POS>PRP RB MD CC MD VB TO VB IN PRP .</POS>
+		<Lemma>I certainly will and would hate to be without it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>-LRB- Use caution for diabetics or carb watchers since it 's split peas and lentils with a veggie based pasta ... high carb all the way but so delicious -RRB-</Tokens>
+		<POS>-LRB- NN NN IN NNS CC NN NNS IN PRP VBZ JJ NNS CC NNS IN DT NN VBN NN : JJ NN PDT DT NN CC RB JJ -RRB-</POS>
+		<Lemma>-lrb- use caution for diabetic or carb watcher since it be split pea and lentil with a veggie base pasta ... high carb all the way but so delicious -rrb-</Lemma>
+	</Sentence>
+</Document>

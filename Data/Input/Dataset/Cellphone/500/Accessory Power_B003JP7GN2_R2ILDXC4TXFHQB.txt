@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product did not do what it said it would .</Tokens>
+		<POS>DT NN VBD RB VB WP PRP VBD PRP MD .</POS>
+		<Lemma>this product do not do what it say it would .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The connection to my iPhone was not tight and the only way it would charge was by my holding it tight to the phone .</Tokens>
+		<POS>DT NN TO PRP$ NNP VBD RB JJ CC DT JJ NN PRP MD VB VBD IN PRP$ VBG PRP JJ TO DT NN .</POS>
+		<Lemma>the connection to my iPhone be not tight and the only way it would charge be by my hold it tight to the phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It did work when I used my existing USB cable but the cable that came with it did not do the job .</Tokens>
+		<POS>PRP VBD VB WRB PRP VBD PRP$ VBG JJ NN CC DT NN WDT VBD IN PRP VBD RB VB DT NN .</POS>
+		<Lemma>it do work when I use my exist usb cable but the cable that come with it do not do the job .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It would not charge my iPhone when I put batteries in the unit .</Tokens>
+		<POS>PRP MD RB VB PRP$ NNP WRB PRP VBP NNS IN DT NN .</POS>
+		<Lemma>it would not charge my iPhone when I put battery in the unit .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I bought it so I could charge my iPhone in my car so it was worthless .</Tokens>
+		<POS>PRP VBD PRP IN PRP MD VB PRP$ NNP IN PRP$ NN IN PRP VBD JJ .</POS>
+		<Lemma>I buy it so I could charge my iPhone in my car so it be worthless .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I returned the unit .</Tokens>
+		<POS>PRP VBD DT NN .</POS>
+		<Lemma>I return the unit .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The return process through Amazon was great .</Tokens>
+		<POS>DT NN NN IN NNP VBD JJ .</POS>
+		<Lemma>the return process through Amazon be great .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I printed out a postage-free label and mailed it back .</Tokens>
+		<POS>PRP VBD RP DT JJ NN CC VBD PRP RB .</POS>
+		<Lemma>I print out a postage-free label and mail it back .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My account was credited for the entire amount of the purchase within a week .</Tokens>
+		<POS>PRP$ NN VBD VBN IN DT JJ NN IN DT NN IN DT NN .</POS>
+		<Lemma>my account be credit for the entire amount of the purchase within a week .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Good return policy Amazon !!</Tokens>
+		<POS>JJ NN NN NNP NN</POS>
+		<Lemma>good return policy Amazon !!</Lemma>
+	</Sentence>
+</Document>

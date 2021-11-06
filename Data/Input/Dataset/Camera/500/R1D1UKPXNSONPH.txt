@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this a few days ago for $ 150 and am very pleased with it so far .</Tokens>
+		<POS>PRP VBD DT DT JJ NNS IN IN $ CD CC VBP RB JJ IN PRP RB RB .</POS>
+		<Lemma>I buy this a few day ago for $ 150 and be very pleased with it so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As one would expect filming in low light indoor situations , the recording is a bit pixelated - but if you 're only planning on watching the video on your computer screen -LRB- in a small window -RRB- , it 's not too noticeable .</Tokens>
+		<POS>IN CD MD VB VBG IN JJ JJ JJ NNS , DT NN VBZ DT NN JJ : CC IN PRP VBP RB VBG IN VBG DT NN IN PRP$ NN NN -LRB- IN DT JJ NN -RRB- , PRP VBZ RB RB JJ .</POS>
+		<Lemma>as one would expect film in low light indoor situation , the recording be a bit pixelated - but if you be only plan on watch the video on you computer screen -lrb- in a small window -rrb- , it be not too noticeable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's a solid but light weight camera - it easily fits into your pocket and it 's very durable .</Tokens>
+		<POS>PRP VBZ DT JJ CC JJ NN NN : PRP RB VBZ IN PRP$ NN CC PRP VBZ RB JJ .</POS>
+		<Lemma>it be a solid but light weight camera - it easily fit into you pocket and it be very durable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When purchasing it I did n't notice that the battery was n't removable which means that you ca n't pop in a fully charged back up when the first battery runs out ; however , when charged , it does last 4 + hours which is more than enough for me .</Tokens>
+		<POS>WRB VBG PRP PRP VBD RB VB IN DT NN VBD RB JJ WDT VBZ IN PRP MD RB VB IN DT RB VBN RB RB WRB DT JJ NN VBZ IN : RB , WRB VBN , PRP VBZ JJ CD CC NNS WDT VBZ RBR IN RB IN PRP .</POS>
+		<Lemma>when purchase it I do not notice that the battery be not removable which mean that you can not pop in a fully charge back up when the first battery run out ; however , when charge , it do last 4 + hour which be more than enough for I .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This recorder is great for the novice who plans on filming the kids or pets , vacation highlights , and candid moments .</Tokens>
+		<POS>DT NN VBZ JJ IN DT NN WP VBZ IN VBG DT NNS CC NNS , NN VBZ , CC JJ NNS .</POS>
+		<Lemma>this recorder be great for the novice who plan on film the kid or pet , vacation highlight , and candid moment .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you plan on only filming in low light , making professional quality videos , or filming for extended periods of time -LRB- over 4 hours -RRB- - spend several hundred more for a better camera .</Tokens>
+		<POS>IN PRP VBP IN RB VBG IN JJ NN , VBG JJ NN NNS , CC VBG IN VBN NNS IN NN -LRB- IN CD NNS -RRB- : VB JJ CD JJR IN DT JJR NN .</POS>
+		<Lemma>if you plan on only film in low light , make professional quality video , or film for extend period of time -lrb- over 4 hour -rrb- - spend several hundred more for a better camera .</Lemma>
+	</Sentence>
+</Document>

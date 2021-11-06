@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Good for the environment -LRB- dio-dynamic shade-grown -RRB- Good for the farmer -LRB- fair trade -RRB- Good for you -LRB- delicious , fresh , strong , flavorful -RRB- What 's not to like ?!</Tokens>
+		<POS>JJ IN DT NN -LRB- JJ JJ -RRB- JJ IN DT NN -LRB- JJ NN -RRB- JJ IN PRP -LRB- JJ , JJ , JJ , JJ -RRB- WP VBZ RB TO VB NN</POS>
+		<Lemma>good for the environment -lrb- dio-dynamic shade-grown -rrb- good for the farmer -lrb- fair trade -rrb- good for you -lrb- delicious , fresh , strong , flavorful -rrb- what be not to like ?!</Lemma>
+	</Sentence>
+</Document>

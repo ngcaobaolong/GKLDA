@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased two of these monitors for a dual setup on my work desk .</Tokens>
+		<POS>PRP VBD CD IN DT NNS IN DT JJ NN IN PRP$ NN NN .</POS>
+		<Lemma>I purchase two of these monitor for a dual setup on my work desk .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Excellent quality and nice clear and sharp view .</Tokens>
+		<POS>JJ NN CC JJ JJ CC JJ NN .</POS>
+		<Lemma>excellent quality and nice clear and sharp view .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Screens do have tilt adjustment , so I am not sure what the other reviewer was referring to when they said they do n't adjust .</Tokens>
+		<POS>NNS VBP VB NN NN , IN PRP VBP RB JJ WP DT JJ NN VBD VBG TO WRB PRP VBD PRP VBP RB VB .</POS>
+		<Lemma>screen do have tilt adjustment , so I be not sure what the other reviewer be refer to when they say they do not adjust .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They do n't have a height adjustment but tilt adjustment works fine .</Tokens>
+		<POS>PRP VBP RB VB DT NN NN CC NN NN VBZ NN .</POS>
+		<Lemma>they do not have a height adjustment but tilt adjustment work fine .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Simple plug and play install .</Tokens>
+		<POS>JJ NN CC VB VB .</POS>
+		<Lemma>simple plug and play install .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For the money , this monitor is a great buy !</Tokens>
+		<POS>IN DT NN , DT NN VBZ DT JJ NN .</POS>
+		<Lemma>for the money , this monitor be a great buy !</Lemma>
+	</Sentence>
+</Document>

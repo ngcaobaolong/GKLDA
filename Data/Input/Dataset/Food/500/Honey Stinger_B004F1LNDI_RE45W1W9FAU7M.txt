@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you have not tried these they are great .</Tokens>
+		<POS>IN PRP VBP RB VBN DT PRP VBP JJ .</POS>
+		<Lemma>if you have not try these they be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I could eat them just for a snack .</Tokens>
+		<POS>PRP MD VB PRP RB IN DT NN .</POS>
+		<Lemma>I could eat they just for a snack .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I typically take them on long bike rides as they are much more palatable than most of the gel products and sometimes it is nice to eat something solid when training .</Tokens>
+		<POS>PRP RB VBP PRP IN JJ NN NNS IN PRP VBP RB RBR JJ IN JJS IN DT NN NNS CC RB PRP VBZ JJ TO VB NN JJ WRB NN .</POS>
+		<Lemma>I typically take they on long bike ride as they be much more palatable than most of the gel product and sometimes it be nice to eat something solid when training .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You ca n't beat the price on Amazon .</Tokens>
+		<POS>PRP MD RB VB DT NN IN NNP .</POS>
+		<Lemma>you can not beat the price on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have paid more that $ 1 per at specialty stores for these .</Tokens>
+		<POS>PRP VBP VBN RBR IN $ CD IN IN NN NNS IN DT .</POS>
+		<Lemma>I have pay more that $ 1 per at specialty store for these .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would not recommend these for race situations as they are simply too hard to open in my opinion .</Tokens>
+		<POS>PRP MD RB VB DT IN NN NNS IN PRP VBP RB RB JJ TO VB IN PRP$ NN .</POS>
+		<Lemma>I would not recommend these for race situation as they be simply too hard to open in my opinion .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I try to open them while riding I either have to slow way down or stop , or else I end up with a bunch of crumples and end up dropping half the cookie .</Tokens>
+		<POS>WRB PRP VBP TO VB PRP IN VBG PRP DT VBP TO VB NN IN CC VB , CC RB PRP VB RP IN DT NN IN NNS CC VB RP VBG PDT DT NN .</POS>
+		<Lemma>when I try to open they while ride I either have to slow way down or stop , or else I end up with a bunch of crumple and end up drop half the cookie .</Lemma>
+	</Sentence>
+</Document>

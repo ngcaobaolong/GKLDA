@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great purchase at an awesome price .</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>this be a great purchase at a awesome price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The editing and movie making software works great and produces an awesome product .</Tokens>
+		<POS>DT NN CC NN NN NN VBZ JJ CC VBZ DT JJ NN .</POS>
+		<Lemma>the editing and movie making software work great and produce a awesome product .</Lemma>
+	</Sentence>
+</Document>

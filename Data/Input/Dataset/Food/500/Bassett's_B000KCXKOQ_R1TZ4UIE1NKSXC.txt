@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My granddaughter wanted these jelly babies and I ordered her two bags .</Tokens>
+		<POS>PRP$ NN VBD DT NN NNS CC PRP VBD PRP CD NNS .</POS>
+		<Lemma>my granddaughter want these jelly baby and I order she two bag .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The first bag came so quickly and she was totally excited .</Tokens>
+		<POS>DT JJ NN VBD RB RB CC PRP VBD RB VBN .</POS>
+		<Lemma>the first bag come so quickly and she be totally excite .</Lemma>
+	</Sentence>
+</Document>

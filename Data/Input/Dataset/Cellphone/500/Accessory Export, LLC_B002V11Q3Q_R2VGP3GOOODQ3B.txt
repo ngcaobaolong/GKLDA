@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This 1 meter micro-USB cable is flexible and works perfectly for charging and exchanging data with my phone -LRB- droid -RRB- and many other models .</Tokens>
+		<POS>DT CD NN JJ NN VBZ JJ CC VBZ RB IN VBG CC VBG NNS IN PRP$ NN -LRB- NN -RRB- CC JJ JJ NNS .</POS>
+		<Lemma>this 1 meter micro-usb cable be flexible and work perfectly for charge and exchange datum with my phone -lrb- droid -rrb- and many other model .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I do n't know why there are a few negative reviews , I have n't had any problems with the ones I 've purchased .</Tokens>
+		<POS>PRP VBP RB VB WRB EX VBP DT JJ JJ NNS , PRP VBP RB VBD DT NNS IN DT NNS PRP VBP VBN .</POS>
+		<Lemma>I do not know why there be a few negative review , I have not have any problem with the one I have purchase .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As shown in the product images , the connectors are a ubiquitous male standard-A on one end and male micro-B on the other .</Tokens>
+		<POS>IN VBN IN DT NN NNS , DT NNS VBP DT JJ JJ NN IN CD NN CC JJ NN IN DT JJ .</POS>
+		<Lemma>as show in the product image , the connector be a ubiquitous male standard-a on one end and male micro-b on the other .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>That micro-B is going to be the standard for most handheld manufacturers -LRB- Apple , Motorola , Nokia , LG , Samsung , Sony Ericsson , Research In Motion -RRB- for some years to come .</Tokens>
+		<POS>DT NN VBZ VBG TO VB DT NN IN JJS JJ NNS -LRB- NNP , NNP , NNP , NNP , NNP , NNP NNP , NNP IN NNP -RRB- IN DT NNS TO VB .</POS>
+		<Lemma>that micro-b be go to be the standard for most handheld manufacturer -lrb- Apple , Motorola , Nokia , LG , Samsung , Sony Ericsson , Research in Motion -rrb- for some year to come .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've already used this cable successfully with a couple of my coworkers ' phones from different manufacturers .</Tokens>
+		<POS>PRP VBP RB VBN DT NN RB IN DT NN IN PRP$ NNS POS NNS IN JJ NNS .</POS>
+		<Lemma>I have already use this cable successfully with a couple of my coworker ' phone from different manufacturer .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But of course you should be sure yours matches before buying !</Tokens>
+		<POS>CC IN NN PRP MD VB JJ PRP$ NNS IN VBG .</POS>
+		<Lemma>but of course you should be sure yours match before buy !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have a few of these and left them in the three computers I use most .</Tokens>
+		<POS>PRP VBP DT JJ IN DT CC VBD PRP IN DT CD NNS PRP VBP JJS .</POS>
+		<Lemma>I have a few of these and leave they in the three computer I use most .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 'm ordering another bunch for those folks in my office who also use the growing micro-B standard .</Tokens>
+		<POS>PRP VBP VBG DT NN IN DT NNS IN PRP$ NN WP RB VBP DT VBG JJ NN .</POS>
+		<Lemma>I be order another bunch for those folk in my office who also use the grow micro-b standard .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you 'd like to save a few cents or find a different cable length , try searching `` micro usb cable '' on Amazon and peruse the variety -LRB- but please be sure those items still have the right connectors for you -RRB- .</Tokens>
+		<POS>IN PRP MD VB TO VB DT JJ NNS CC VB DT JJ NN NN , VBP VBG `` JJ NN NN '' IN NNP CC VB DT NN -LRB- CC VB VB JJ DT NNS RB VBP DT JJ NNS IN PRP -RRB- .</POS>
+		<Lemma>if you would like to save a few cent or find a different cable length , try search `` micro usb cable '' on Amazon and peruse the variety -lrb- but please be sure those item still have the right connector for you -rrb- .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera has stunning video and pictures .</Tokens>
+		<POS>DT NN VBZ JJ NN CC NNS .</POS>
+		<Lemma>this camera have stunning video and picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is so easy to operate and is very small and compact .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB CC VBZ RB JJ CC JJ .</POS>
+		<Lemma>it be so easy to operate and be very small and compact .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For the price this camera can not be beat .</Tokens>
+		<POS>IN DT NN DT NN MD RB VB VBN .</POS>
+		<Lemma>for the price this camera can not be beat .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This works like a charm , I was thinking what a stupid idea .</Tokens>
+		<POS>DT VBZ IN DT NN , PRP VBD VBG WP DT JJ NN .</POS>
+		<Lemma>this work like a charm , I be think what a stupid idea .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But , when T-Mobile gave me this $ 500.00 -LRB- free -RRB- signal booster that look like a monster of a device .</Tokens>
+		<POS>CC , WRB NNP VBD PRP DT $ CD -LRB- JJ -RRB- NN NN WDT VBP IN DT NN IN DT NN .</POS>
+		<Lemma>but , when T-Mobile give I this $ 500.00 -lrb- free -rrb- signal booster that look like a monster of a device .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I called them back up and said take this thing -LRB- monster -RRB- back .</Tokens>
+		<POS>PRP VBD PRP RB RB CC VBD VB DT NN -LRB- NN -RRB- RB .</POS>
+		<Lemma>I call they back up and say take this thing -lrb- monster -rrb- back .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So when I brought these Universal Generation X Cell Phone Antenna Booster Signal Enhancers I was just like you and wondering , yea right they do n't work .</Tokens>
+		<POS>RB WRB PRP VBD DT JJ NN NN NN NNP NNP NNP NNP NNS PRP VBD RB IN PRP CC VBG , VB RB PRP VBP RB VB .</POS>
+		<Lemma>so when I bring these universal generation x cell Phone Antenna Booster Signal enhancer I be just like you and wonder , yea right they do not work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But they do , and remember your only getting one more bar to help with your already low signal .</Tokens>
+		<POS>CC PRP VBP , CC VB PRP$ JJ VBG CD JJR NN TO VB IN PRP$ RB JJ NN .</POS>
+		<Lemma>but they do , and remember you only get one more bar to help with you already low signal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So if you get one bar already , you 'll have two bar 's with this .</Tokens>
+		<POS>RB IN PRP VBP CD NN RB , PRP MD VB CD NN POS IN DT .</POS>
+		<Lemma>so if you get one bar already , you 'll have two bar 's with this .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This works with my LG Optimus T and the T-Mobile Comet for anybody out there who wants to know what phones I 'd used this on so far ...</Tokens>
+		<POS>DT VBZ IN PRP$ NNP NNP NN CC DT NNP NNP IN NN IN EX WP VBZ TO VB WP NNS PRP MD VBN DT IN RB RB :</POS>
+		<Lemma>this work with my LG Optimus t and the T-Mobile Comet for anybody out there who want to know what phone I would use this on so far ...</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i bought several all in ones before getting this one .</Tokens>
+		<POS>LS VBD JJ DT IN NNS IN VBG DT CD .</POS>
+		<Lemma>i buy several all in one before get this one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>About 1\/2 the price of any IGO product and works just as well if not better .</Tokens>
+		<POS>IN CD DT NN IN DT NNP NN CC VBZ RB RB RB IN RB JJR .</POS>
+		<Lemma>about 1\/2 the price of any IGO product and work just as well if not better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is the first charger that did not lock up my Samsung Epic when plugged in .</Tokens>
+		<POS>DT VBZ DT JJ NN WDT VBD RB VB RP PRP$ NNP NNP WRB VBN IN .</POS>
+		<Lemma>this be the first charger that do not lock up my Samsung Epic when plug in .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only issue i 've experienced is it does n't fit real snugly in my car charger slot , it tends to pop out on occassion , but its nothing to just pop it back in .</Tokens>
+		<POS>DT JJ NN FW VBP VBN VBZ PRP VBZ RB VB JJ RB IN PRP$ NN NN NN , PRP VBZ TO VB RP IN NN , CC PRP$ NN TO RB VB PRP RB IN .</POS>
+		<Lemma>the only issue i have experience be it do not fit real snugly in my car charger slot , it tend to pop out on occassion , but its nothing to just pop it back in .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But when you 're bouncing around on rougher roads it does pop out .</Tokens>
+		<POS>CC WRB PRP VBP VBG IN IN JJR NNS PRP VBZ VB RP .</POS>
+		<Lemma>but when you be bounce around on rougher road it do pop out .</Lemma>
+	</Sentence>
+</Document>

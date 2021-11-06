@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I decided to try this coffee despite some of the bad reviews .</Tokens>
+		<POS>PRP VBD TO VB DT NN IN DT IN DT JJ NNS .</POS>
+		<Lemma>I decide to try this coffee despite some of the bad review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I LOVE Cafe Altura 's French Roast .</Tokens>
+		<POS>PRP VBP NNP NNP POS JJ NN .</POS>
+		<Lemma>I love Cafe Altura 's french roast .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is wonderfully rich and smooth and so good that I crave it .</Tokens>
+		<POS>PRP VBZ RB JJ CC JJ CC RB JJ IN PRP VBP PRP .</POS>
+		<Lemma>it be wonderfully rich and smooth and so good that I crave it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This Peruvian Dark smells wonderful but tasted like it had been sitting on the warmer for an hour or two .</Tokens>
+		<POS>DT JJ JJ VBZ JJ CC VBD IN PRP VBD VBN VBG IN DT JJR IN DT NN CC CD .</POS>
+		<Lemma>this peruvian dark smell wonderful but taste like it have be sit on the warmer for a hour or two .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>To me it tasted burnt .</Tokens>
+		<POS>TO PRP PRP VBD JJ .</POS>
+		<Lemma>to I it taste burnt .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It was bad enough it made me feel sick to my stomach and could n't drink more than 1\/2 cup .</Tokens>
+		<POS>PRP VBD JJ RB PRP VBD PRP VB JJ TO PRP$ NN CC MD RB VB JJR IN CD NN .</POS>
+		<Lemma>it be bad enough it make I feel sick to my stomach and could not drink more than 1\/2 cup .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Maybe if you use a flavored creamer it would be ok , but I do n't like cream in my coffee .</Tokens>
+		<POS>RB IN PRP VBP DT JJ NN PRP MD VB JJ , CC PRP VBP RB VB NN IN PRP$ NN .</POS>
+		<Lemma>maybe if you use a flavored creamer it would be ok , but I do not like cream in my coffee .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Altura makes wonderful coffee as long as you pick the right flavor .</Tokens>
+		<POS>NNP VBZ JJ NN RB RB IN PRP VBP DT JJ NN .</POS>
+		<Lemma>Altura make wonderful coffee as long as you pick the right flavor .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This was n't the flavor for me .</Tokens>
+		<POS>DT VBD RB DT NN IN PRP .</POS>
+		<Lemma>this be not the flavor for I .</Lemma>
+	</Sentence>
+</Document>

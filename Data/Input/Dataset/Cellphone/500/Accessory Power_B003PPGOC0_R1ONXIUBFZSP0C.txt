@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product , easy to use .</Tokens>
+		<POS>JJ NN , JJ TO VB .</POS>
+		<Lemma>great product , easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works with my iPhone using pandora .</Tokens>
+		<POS>NNP IN PRP$ NNP VBG NN .</POS>
+		<Lemma>Works with my iPhone use pandora .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Blue tooth feature is also clear when using ... no cutting out .</Tokens>
+		<POS>NNP NN NN VBZ RB JJ WRB VBG : DT VBG RP .</POS>
+		<Lemma>Blue tooth feature be also clear when use ... no cut out .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Wish I would of gotten this sooner !</Tokens>
+		<POS>NNP PRP MD IN VBN DT RBR .</POS>
+		<Lemma>Wish I would of get this sooner !</Lemma>
+	</Sentence>
+</Document>

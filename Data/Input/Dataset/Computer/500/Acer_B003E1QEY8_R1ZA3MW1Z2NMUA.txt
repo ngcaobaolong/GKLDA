@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for a monitor with built-in speakers , not concerned about sound quality and this monitor was a great value and provides a good picture .</Tokens>
+		<POS>PRP VBD VBG IN DT NN IN JJ NNS , RB VBN IN JJ NN CC DT NN VBD DT JJ NN CC VBZ DT JJ NN .</POS>
+		<Lemma>I be look for a monitor with built-in speaker , not concern about sound quality and this monitor be a great value and provide a good picture .</Lemma>
+	</Sentence>
+</Document>

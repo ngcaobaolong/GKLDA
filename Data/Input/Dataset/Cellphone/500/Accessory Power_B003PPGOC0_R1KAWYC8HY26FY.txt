@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is fantastic .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this product be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recently went iPhone and I do n't have bluetooth or an aux in in my car .</Tokens>
+		<POS>PRP RB VBD NNP CC PRP VBP RB VB NN CC DT NN IN IN PRP$ NN .</POS>
+		<Lemma>I recently go iPhone and I do not have bluetooth or a aux in in my car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had an older FM transmitter device that did n't work well - would only be audible on the `` clearest '' station if my hand stayed on the device .</Tokens>
+		<POS>PRP VBD DT JJR NN NN NN WDT VBD RB VB RB : MD RB VB JJ IN DT `` JJS '' NN IN PRP$ NN VBD IN DT NN .</POS>
+		<Lemma>I have a older fm transmitter device that do not work well - would only be audible on the `` clearest '' station if my hand stay on the device .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This thing paired with my 4S in a second , and now I can listen to audio from my iPhone -LRB- music or books on tape usually -RRB- , and field or make phone calls all from the GOgroove device .</Tokens>
+		<POS>DT NN VBN IN PRP$ NN IN DT JJ , CC RB PRP MD VB TO NN IN PRP$ NNP -LRB- NN CC NNS IN NN RB -RRB- , CC NN CC VB NN NNS DT IN DT NN NN .</POS>
+		<Lemma>this thing pair with my 4 in a second , and now I can listen to audio from my iPhone -lrb- music or book on tape usually -rrb- , and field or make phone call all from the gogroove device .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The FM transmission signal is so clean that I often get into my car and forget that I have the radio on until the GOgroove emits a beep -LRB- through the radio , usually quite loud -RRB- to notify me that the phone and device have paired .</Tokens>
+		<POS>DT NNP NN NN VBZ RB JJ IN PRP RB VBP IN PRP$ NN CC VB IN PRP VBP DT NN IN IN DT NN VBZ DT NN -LRB- IN DT NN , RB RB JJ -RRB- TO VB PRP IN DT NN CC NN VBP VBN .</POS>
+		<Lemma>the FM transmission signal be so clean that I often get into my car and forget that I have the radio on until the gogroove emit a beep -lrb- through the radio , usually quite loud -rrb- to notify I that the phone and device have pair .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I wish the audio were a bit louder , but this minor flaw is not enough to remove a star .</Tokens>
+		<POS>PRP VBP DT NN VBD DT NN RBR , CC DT JJ NN VBZ RB JJ TO VB DT NN .</POS>
+		<Lemma>I wish the audio be a bit louder , but this minor flaw be not enough to remove a star .</Lemma>
+	</Sentence>
+</Document>

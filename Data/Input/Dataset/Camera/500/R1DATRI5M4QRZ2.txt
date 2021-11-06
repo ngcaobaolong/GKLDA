@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera a few months ago and finally got around to uploading the photos I took ... and the picture quality is TERRIBLE ... I ca n't believe this is a 12mp camera .</Tokens>
+		<POS>PRP VBD DT NN DT JJ NNS RB CC RB VBD IN TO VBG DT NNS PRP VBD : CC DT NN NN VBZ JJ : PRP MD RB VB DT VBZ DT JJ NN .</POS>
+		<Lemma>I buy this camera a few month ago and finally get around to upload the photo I take ... and the picture quality be terrible ... I can not believe this be a 12mp camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We purchased it when our 4 yr old Olympus waterproof died .</Tokens>
+		<POS>PRP VBD PRP WRB PRP$ CD NN JJ NNP JJ VBD .</POS>
+		<Lemma>we purchase it when we 4 yr old Olympus waterproof die .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We did n't want to get an expensive replacement @ this time -LRB- as we have 2 Nikon SLR digitals and just needed something to carry around for everyday use -RRB- , but we should have bit the bullet and stuck with the Olympus .</Tokens>
+		<POS>PRP VBD RB VB TO VB DT JJ NN IN DT NN -LRB- IN PRP VBP CD NNP NNP NNS CC RB VBN NN TO VB RP IN JJ NN -RRB- , CC PRP MD VB VBN DT NN CC VBD IN DT NNP .</POS>
+		<Lemma>we do not want to get a expensive replacement @ this time -lrb- as we have 2 Nikon SLR digital and just need something to carry around for everyday use -rrb- , but we should have bite the bullet and stick with the Olympus .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We took pictures at a water park -LRB- outside no flash -RRB- and some of the pictures were dark and those that were n't had drops of water on the lense , so that created a spot .</Tokens>
+		<POS>PRP VBD NNS IN DT NN NN -LRB- IN DT NN -RRB- CC DT IN DT NNS VBD JJ CC DT WDT VBD RB VBD NNS IN NN IN DT NN , RB IN VBN DT NN .</POS>
+		<Lemma>we take picture at a water park -lrb- outside no flash -rrb- and some of the picture be dark and those that be not have drop of water on the lense , so that create a spot .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- this never happened with our olympus and we used it in the water many times -RRB- .</Tokens>
+		<POS>-LRB- DT RB VBN IN PRP$ NN CC PRP VBD PRP IN DT NN JJ NNS -RRB- .</POS>
+		<Lemma>-lrb- this never happen with we olympus and we use it in the water many time -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The pictures we took inside w\/the flash were grainy and every person in the pictures had red eye .</Tokens>
+		<POS>DT NNS PRP VBD RB JJ NN VBD JJ CC DT NN IN DT NNS VBD JJ NN .</POS>
+		<Lemma>the picture we take inside w\/the flash be grainy and every person in the picture have red eye .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would n't recommend this camera to anyone who 's interested in picture quality .</Tokens>
+		<POS>PRP MD RB VB DT NN TO NN WP VBZ JJ IN NN NN .</POS>
+		<Lemma>I would not recommend this camera to anyone who be interested in picture quality .</Lemma>
+	</Sentence>
+</Document>

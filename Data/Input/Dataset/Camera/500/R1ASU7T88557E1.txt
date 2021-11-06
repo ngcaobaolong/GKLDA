@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>All the controls are easy to use and understand .</Tokens>
+		<POS>PDT DT NNS VBP JJ TO VB CC VB .</POS>
+		<Lemma>all the control be easy to use and understand .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Do yourself a favor if you are stepping up from a point and shoot .</Tokens>
+		<POS>VB PRP DT NN IN PRP VBP VBG RP IN DT NN CC NN .</POS>
+		<Lemma>do yourself a favor if you be step up from a point and shoot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Use The psam settings and play around with them and just delete what you do n't like and learn to use the settings !</Tokens>
+		<POS>NN DT NN NNS CC VB RP IN PRP CC RB VB WP PRP VBP RB VB CC VB TO VB DT NNS .</POS>
+		<Lemma>use the psam setting and play around with they and just delete what you do not like and learn to use the setting !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Works great with the Polaroid adapter tube to add filters and wide and tele adapter lenses !</Tokens>
+		<POS>NNP JJ IN DT NNP NN NN TO VB NNS CC JJ CC NN NN NNS .</POS>
+		<Lemma>Works great with the Polaroid adapter tube to add filter and wide and tele adapter lens !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Get spare batteries and a class 10 card .</Tokens>
+		<POS>VB JJ NNS CC DT NN CD NN .</POS>
+		<Lemma>get spare battery and a class 10 card .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I shoot in raw only with this cam and it writes to the card pretty quickly with review turned off !</Tokens>
+		<POS>PRP VBP IN JJ RB IN DT NN CC PRP VBZ TO DT NN RB RB IN NN VBD RP .</POS>
+		<Lemma>I shoot in raw only with this cam and it write to the card pretty quickly with review turn off !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I got mostly for the raw and mic input for the 720p videos .</Tokens>
+		<POS>PRP VBD RB IN DT JJ CC JJ NN IN DT JJ NNS .</POS>
+		<Lemma>I get mostly for the raw and mic input for the 720p video .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So if you are looking for a decent camera with good features and half the price of a dslr get this !</Tokens>
+		<POS>RB IN PRP VBP VBG IN DT JJ NN IN JJ NNS CC PDT DT NN IN DT NN VB DT .</POS>
+		<Lemma>so if you be look for a decent camera with good feature and half the price of a dslr get this !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This does 30min video straight , the d3100 only does 10 min at a time I think !</Tokens>
+		<POS>DT VBZ JJ NN RB , DT NN RB VBZ CD NN IN DT NN PRP VBP .</POS>
+		<Lemma>this do 30min video straight , the d3100 only do 10 min at a time I think !</Lemma>
+	</Sentence>
+</Document>

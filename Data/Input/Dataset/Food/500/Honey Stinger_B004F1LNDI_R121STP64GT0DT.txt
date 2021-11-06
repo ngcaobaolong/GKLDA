@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product , nice sweet after dinner treat or trail pick me up .</Tokens>
+		<POS>JJ NN , JJ JJ IN NN NN CC NN VBP PRP RP .</POS>
+		<Lemma>great product , nice sweet after dinner treat or trail pick I up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Healthy and delicious !</Tokens>
+		<POS>JJ CC JJ .</POS>
+		<Lemma>healthy and delicious !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Everyone I share one with , loves them too .</Tokens>
+		<POS>NN PRP VBP CD IN , VBZ PRP RB .</POS>
+		<Lemma>everyone I share one with , love they too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I should be getting a commission .</Tokens>
+		<POS>PRP MD VB VBG DT NN .</POS>
+		<Lemma>I should be get a commission .</Lemma>
+	</Sentence>
+</Document>

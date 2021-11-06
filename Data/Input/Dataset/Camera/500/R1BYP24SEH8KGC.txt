@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As noted in many other reviews , the waterproofing on this camera is not reliable .</Tokens>
+		<POS>IN VBN IN JJ JJ NNS , DT NN IN DT NN VBZ RB JJ .</POS>
+		<Lemma>as note in many other review , the waterproofing on this camera be not reliable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I received the camera , I carefully examined the seal around the battery\/card compartment for any dirt , sand or lint .</Tokens>
+		<POS>WRB PRP VBD DT NN , PRP RB VBD DT NN IN DT NN NN IN DT NN , NN CC NN .</POS>
+		<Lemma>when I receive the camera , I carefully examine the seal around the battery\/card compartment for any dirt , sand or lint .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As a Nikonos owner for many years -LRB- a camera that successfully went on 100 + dives -RRB- , I understand the importance of a clean seal .</Tokens>
+		<POS>IN DT NNPS NN IN JJ NNS -LRB- DT NN WDT RB VBD IN CD CC VBZ -RRB- , PRP VBP DT NN IN DT JJ NN .</POS>
+		<Lemma>as a Nikonos owner for many year -lrb- a camera that successfully go on 100 + dive -rrb- , I understand the importance of a clean seal .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After familiarizing myself with the functions of the camera on land , I look it snorkeling .</Tokens>
+		<POS>IN VBG PRP IN DT NNS IN DT NN IN NN , PRP VBP PRP NN .</POS>
+		<Lemma>after familiarize myself with the function of the camera on land , I look it snorkeling .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Diving from the surface , I did n't go to a depth of more than ~ 10 ft. .</Tokens>
+		<POS>JJ IN DT NN , PRP VBD RB VB TO DT NN IN JJR IN CD CD NN .</POS>
+		<Lemma>diving from the surface , I do not go to a depth of more than ~ 10 ft. .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>After a going under a few times , I noticed condensation at the edges of the screen .</Tokens>
+		<POS>IN DT VBG IN DT JJ NNS , PRP VBD NN IN DT NNS IN DT NN .</POS>
+		<Lemma>after a go under a few time , I notice condensation at the edge of the screen .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Given that it was hot and humid when I went in the water , this was not troubling -LRB- the manual said this might happen -RRB- .</Tokens>
+		<POS>VBN IN PRP VBD JJ CC JJ WRB PRP VBD IN DT NN , DT VBD RB JJ -LRB- DT NN VBD DT MD VB -RRB- .</POS>
+		<Lemma>give that it be hot and humid when I go in the water , this be not troubling -lrb- the manual say this might happen -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>After about 20 minutes in the water , however , the camera started to malfunction , eventually stopping altogether .</Tokens>
+		<POS>IN RB CD NNS IN DT NN , RB , DT NN VBD TO VB , RB VBG RB .</POS>
+		<Lemma>after about 20 minute in the water , however , the camera start to malfunction , eventually stop altogether .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>When I got out of the water after less than an hour , the camera was not working at all .</Tokens>
+		<POS>WRB PRP VBD IN IN DT NN IN JJR IN DT NN , DT NN VBD RB VBG IN DT .</POS>
+		<Lemma>when I get out of the water after less than a hour , the camera be not work at all .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I soaked the camera in fresh water , and then let it dry for several hours .</Tokens>
+		<POS>PRP VBD DT NN IN JJ NN , CC RB VB PRP JJ IN JJ NNS .</POS>
+		<Lemma>I soak the camera in fresh water , and then let it dry for several hour .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>When I opened the battery compartment , there was quite a bit of moisture and the contacts on the card and battery were already beginning to discolor .</Tokens>
+		<POS>WRB PRP VBD DT NN NN , EX VBD RB DT NN IN NN CC DT NNS IN DT NN CC NN VBD RB VBG TO VB .</POS>
+		<Lemma>when I open the battery compartment , there be quite a bit of moisture and the contact on the card and battery be already begin to discolor .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I removed them from the camera and allowed it to air for another 24 hours before replacing the battery .</Tokens>
+		<POS>PRP VBD PRP IN DT NN CC VBD PRP TO NN IN DT CD NNS IN VBG DT NN .</POS>
+		<Lemma>I remove they from the camera and allow it to air for another 24 hour before replace the battery .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The camera was completely dead .</Tokens>
+		<POS>DT NN VBD RB JJ .</POS>
+		<Lemma>the camera be completely dead .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I returned it -LRB- with no questions asked by Amazon due to their great returns policy -RRB- and will not be re-ordering this camera .</Tokens>
+		<POS>PRP VBD PRP -LRB- IN DT NNS VBN IN NNP JJ TO PRP$ JJ NNS NN -RRB- CC MD RB VB VBG DT NN .</POS>
+		<Lemma>I return it -lrb- with no question ask by Amazon due to they great return policy -rrb- and will not be re-order this camera .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>One other complaint : the camera ships with a battery charger that requires a separate cord .</Tokens>
+		<POS>CD JJ NN : DT NN NNS IN DT NN NN WDT VBZ DT JJ NN .</POS>
+		<Lemma>one other complaint : the camera ship with a battery charger that require a separate cord .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Nikon knows how to make a charger with an integrated plug .</Tokens>
+		<POS>NNP VBZ WRB TO VB DT NN IN DT VBN NN .</POS>
+		<Lemma>Nikon know how to make a charger with a integrate plug .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Why not offer it as part of the original equipment rather than an upgrade ?</Tokens>
+		<POS>WRB RB VB PRP IN NN IN DT JJ NN RB IN DT NN .</POS>
+		<Lemma>why not offer it as part of the original equipment rather than a upgrade ?</Lemma>
+	</Sentence>
+</Document>

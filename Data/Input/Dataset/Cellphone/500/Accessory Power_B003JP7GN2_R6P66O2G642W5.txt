@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Was thrilled with the idea of a single travel charger that does it all .</Tokens>
+		<POS>VBD VBN IN DT NN IN DT JJ NN NN WDT VBZ PRP DT .</POS>
+		<Lemma>be thrill with the idea of a single travel charger that do it all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So when my purchase arrived , I immediately opened the package and began testing all our electronic devices .</Tokens>
+		<POS>RB WRB PRP$ NN VBD , PRP RB VBD DT NN CC VBD VBG DT PRP$ JJ NNS .</POS>
+		<Lemma>so when my purchase arrive , I immediately open the package and begin test all we electronic device .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Was happy to learn that in the wall and car it charged my iPhone , Kindle Fire , Droid and Blackberry .</Tokens>
+		<POS>VBD JJ TO VB IN IN DT NN CC NN PRP VBD PRP$ NNP , NNP NNP , NNP CC NNP .</POS>
+		<Lemma>be happy to learn that in the wall and car it charge my iPhone , Kindle Fire , Droid and Blackberry .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unfortunately for me , it did not charge my iPad .</Tokens>
+		<POS>RB IN PRP , PRP VBD RB VB PRP$ NN .</POS>
+		<Lemma>unfortunately for I , it do not charge my ipad .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I did not try charging on a battery but I 'm sure if works just fine for that too .</Tokens>
+		<POS>PRP VBD RB VB VBG IN DT NN CC PRP VBP JJ IN NNS RB JJ IN DT RB .</POS>
+		<Lemma>I do not try charge on a battery but I be sure if work just fine for that too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Wish there was a charge all solution that included the iPad but for now , this will have to be our families main travel charger until a product that charges all our electronics comes along .</Tokens>
+		<POS>NNP RB VBD DT NN DT NN WDT VBD DT NN CC IN RB , DT MD VB TO VB PRP$ NNS JJ NN NN IN DT NN WDT VBZ PDT PRP$ NN VBZ RB .</POS>
+		<Lemma>Wish there be a charge all solution that include the ipad but for now , this will have to be we family main travel charger until a product that charge all we electronics come along .</Lemma>
+	</Sentence>
+</Document>

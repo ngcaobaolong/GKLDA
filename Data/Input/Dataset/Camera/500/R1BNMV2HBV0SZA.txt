@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had received an `` alert '' email from Amazon regarding this item as being `` on sale '' .</Tokens>
+		<POS>PRP VBD VBN DT `` JJ '' NN IN NNP VBG DT NN IN VBG `` IN NN '' .</POS>
+		<Lemma>I have receive a `` alert '' email from Amazon regard this item as be `` on sale '' .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had never even heard of the Mino before , only the Ultra .</Tokens>
+		<POS>PRP VBD RB RB VBN IN DT NNP RB , RB DT NNP .</POS>
+		<Lemma>I have never even hear of the Mino before , only the Ultra .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I read most of the reviews , good - bad - indifferent , and decided what the heck .</Tokens>
+		<POS>PRP VBP JJS IN DT NNS , JJ : JJ : JJ , CC VBD WP DT NN .</POS>
+		<Lemma>I read most of the review , good - bad - indifferent , and decide what the heck .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was packing up for a trip to Death Valley and decided to go ahead and get it .</Tokens>
+		<POS>PRP VBD VBG RP IN DT NN TO NNP NNP CC VBD TO VB RB CC VB PRP .</POS>
+		<Lemma>I be pack up for a trip to Death Valley and decide to go ahead and get it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I did not use it as much as I should have but I was NOT disappointed in the video that I got with it .</Tokens>
+		<POS>PRP VBD RB VB PRP RB RB IN PRP MD VB CC PRP VBD NNP VBN IN DT NN IN PRP VBD IN PRP .</POS>
+		<Lemma>I do not use it as much as I should have but I be NOT disappoint in the video that I get with it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Or the stills I was able to take from the video .</Tokens>
+		<POS>CC DT NNS PRP VBD JJ TO VB IN DT NN .</POS>
+		<Lemma>or the still I be able to take from the video .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Some complain about the narrow field of view , I like it .</Tokens>
+		<POS>DT VBP IN DT JJ NN IN NN , PRP VBP PRP .</POS>
+		<Lemma>some complain about the narrow field of view , I like it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 've got two VIO P.O.V. 1 units with both the 110 and 70 degree camera heads and for most of my situations the 110 is WAY too wide so I use the 70 much more .</Tokens>
+		<POS>PRP VBP VBD CD NNP NNP CD NNS IN CC DT CD CC CD NN NN NNS CC IN JJS IN PRP$ NNS DT CD VBZ NNP RB JJ IN PRP VBP DT CD RB RBR .</POS>
+		<Lemma>I have get two VIO P.O.V. 1 unit with both the 110 and 70 degree camera head and for most of my situation the 110 be WAY too wide so I use the 70 much more .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I liked the narrower fov because , even in the expanses of Death Valley , I was able to focus on my subject and not unnecessary surroundings .</Tokens>
+		<POS>PRP VBD DT JJR NN IN , RB IN DT NNS IN NNP NNP , PRP VBD JJ TO VB IN PRP$ JJ CC RB JJ NNS .</POS>
+		<Lemma>I like the narrower fov because , even in the expanse of Death Valley , I be able to focus on my subject and not unnecessary surroundings .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I 've had this unit less than one month and have already strapped it to an RC car and chased my bitches -LRB- 5 -RRB- and queens -LRB- 3 -RRB- around the house .</Tokens>
+		<POS>PRP VBP VBD DT NN RBR IN CD NN CC VBP RB VBN PRP TO DT NN NN CC VBD PRP$ NNS -LRB- CD -RRB- CC NNS -LRB- CD -RRB- IN DT NN .</POS>
+		<Lemma>I have have this unit less than one month and have already strap it to a rc car and chase my bitch -lrb- 5 -rrb- and queen -lrb- 3 -rrb- around the house .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Fun stuff !</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>fun stuff !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>There is no way I could do that with my VIO 's or my Sony camcorder .</Tokens>
+		<POS>EX VBZ DT NN PRP MD VB DT IN PRP$ NNP POS CC PRP$ NNP NN .</POS>
+		<Lemma>there be no way I could do that with my VIO 's or my Sony camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It has recorded -LRB- in short segments -RRB- my rain\/ice\/snow \/ flat tire in the snow trip to Death Valley , Death Valley and my windy return to OrEgon .</Tokens>
+		<POS>PRP VBZ VBN -LRB- IN JJ NNS -RRB- PRP$ NN : JJ NN IN DT NN NN TO NNP NNP , NNP NNP CC PRP$ JJ NN TO NNP .</POS>
+		<Lemma>it have record -lrb- in short segment -rrb- my rain\/ice\/snow \/ flat tire in the snow trip to Death Valley , Death Valley and my windy return to OrEgon .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I do like the Ultra feature of the removable battery pack , as it 's sometimes a pain to get the laptop charged up when you 're 80 miles from the nearest pavement .</Tokens>
+		<POS>PRP VBP IN DT NNP NN IN DT JJ NN NN , IN PRP VBZ RB DT NN TO VB DT NN VBD RP WRB PRP VBP CD NNS IN DT JJS NN .</POS>
+		<Lemma>I do like the Ultra feature of the removable battery pack , as it be sometimes a pain to get the laptop charge up when you be 80 mile from the nearest pavement .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It would be nice to have a replaceable battery pack or a car charger available for the Mino .</Tokens>
+		<POS>PRP MD VB JJ TO VB DT JJ NN NN CC DT NN NN JJ IN DT NNP .</POS>
+		<Lemma>it would be nice to have a replaceable battery pack or a car charger available for the Mino .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I would recommend the Mino to anyone looking for a small , easy to use , video recorder .</Tokens>
+		<POS>PRP MD VB DT NNP TO NN VBG IN DT JJ , JJ TO VB , JJ NN .</POS>
+		<Lemma>I would recommend the Mino to anyone look for a small , easy to use , video recorder .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It would be great for recording children as it 's small and would fit easily into a diaper bag , pocket or purse .</Tokens>
+		<POS>PRP MD VB JJ IN VBG NNS IN PRP VBZ JJ CC MD VB RB IN DT NN NN , NN CC NN .</POS>
+		<Lemma>it would be great for record child as it be small and would fit easily into a diaper bag , pocket or purse .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>And with the 60fps recording you can grab some awesome , crystal clear , still photos from the video .</Tokens>
+		<POS>CC IN DT NNS VBG PRP MD VB DT JJ , JJ JJ , RB NNS IN DT NN .</POS>
+		<Lemma>and with the 60fp record you can grab some awesome , crystal clear , still photo from the video .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Well , that 's my two cents , take it or leave it .</Tokens>
+		<POS>RB , DT VBZ PRP$ CD NNS , VB PRP CC VB PRP .</POS>
+		<Lemma>well , that be my two cent , take it or leave it .</Lemma>
+	</Sentence>
+</Document>

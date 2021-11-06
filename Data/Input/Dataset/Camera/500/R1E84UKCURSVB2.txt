@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Shipped quickly and worked as described wireless with fixed ip .</Tokens>
+		<POS>VBN RB CC VBD IN VBN JJ IN JJ NN .</POS>
+		<Lemma>ship quickly and work as describe wireless with fixed ip .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Have not yet used mail or voice functions .</Tokens>
+		<POS>VBP RB RB VBN NN CC NN NNS .</POS>
+		<Lemma>have not yet use mail or voice function .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would recommend to others .</Tokens>
+		<POS>PRP MD VB TO NNS .</POS>
+		<Lemma>I would recommend to other .</Lemma>
+	</Sentence>
+</Document>

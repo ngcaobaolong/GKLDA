@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have purchased 2 monster cable FM transmitters and 1 Belkin FM transmitter in the last 3 years .</Tokens>
+		<POS>PRP VBP VBN CD NN NN NN NNS CC CD NNP NNP NN IN DT JJ CD NNS .</POS>
+		<Lemma>I have purchase 2 monster cable fm transmitter and 1 Belkin FM transmitter in the last 3 year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought the GOgroove purely based on the reviews of clearer music .</Tokens>
+		<POS>PRP VBD DT NN RB VBN IN DT NNS IN JJR NN .</POS>
+		<Lemma>I buy the gogroove purely base on the review of clearer music .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Using the same station and same outlet , the GOgroove outperforms anything i have owned or heard .</Tokens>
+		<POS>VBG DT JJ NN CC JJ NN , DT NNP VBZ NN FW VBP VBN CC VBN .</POS>
+		<Lemma>use the same station and same outlet , the GOgroove outperform anything i have own or hear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The monster cable and belkin transmitters always had a static sound in the background .</Tokens>
+		<POS>DT NN NN CC NN NNS RB VBD DT JJ NN IN DT NN .</POS>
+		<Lemma>the monster cable and belkin transmitter always have a static sound in the background .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>With the the monster cables i had a great deal of alternator whine which would get louder as my RPMs went higher -LRB- this made driving in the highway with the FM transmitter on a less then pleasant experience -RRB- .</Tokens>
+		<POS>IN DT DT NN NNS FW VBD DT JJ NN IN NN NN WDT MD VB RBR IN PRP$ NNS VBD JJR -LRB- DT VBN NN IN DT NN IN DT NNP NN IN DT JJR RB JJ NN -RRB- .</POS>
+		<Lemma>with the the monster cable i have a great deal of alternator whine which would get louder as my rpm go higher -lrb- this make driving in the highway with the FM transmitter on a less then pleasant experience -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>With all 3 previous transmitters i had to crank the volume almost to the max to get the music loud enough to hear .</Tokens>
+		<POS>IN DT CD JJ NNS FW VBD TO VB DT NN RB TO DT NN TO VB DT NN JJ JJ TO VB .</POS>
+		<Lemma>with all 3 previous transmitter i have to crank the volume almost to the max to get the music loud enough to hear .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>With the GOgroove i dont hear ANY static or alternator whine .</Tokens>
+		<POS>IN DT NN FW FW VB NNP JJ CC NN NN .</POS>
+		<Lemma>with the gogroove i dont hear ANY static or alternator whine .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The music comes in clear and at a good volume .</Tokens>
+		<POS>DT NN VBZ IN JJ CC IN DT JJ NN .</POS>
+		<Lemma>the music come in clear and at a good volume .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I had no intention of using the handsfree calling but it works so well i find myself using it daily .</Tokens>
+		<POS>PRP VBD DT NN IN VBG DT NN VBG CC PRP VBZ RB RB FW VB PRP VBG PRP RB .</POS>
+		<Lemma>I have no intention of use the handsfree call but it work so well i find myself use it daily .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>On my iPhone 3gs the bluetooth connects quickly and i can use the buttons on the GOgroove to activate the ` voice control ' .</Tokens>
+		<POS>IN PRP$ NNP NNS DT NN VBZ RB CC FW MD VB DT NNS IN DT NN TO VB DT `` NN NN '' .</POS>
+		<Lemma>on my iPhone 3g the bluetooth connect quickly and i can use the button on the gogroove to activate the ` voice control ' .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Another big plus for me is that it comes with an on-off switch which allows me to leave it in the outlet without wasting the battery .</Tokens>
+		<POS>DT JJ CC IN PRP VBZ IN PRP VBZ IN DT JJ NN WDT VBZ PRP TO VB PRP IN DT NN IN VBG DT NN .</POS>
+		<Lemma>another big plus for I be that it come with a on-off switch which allow I to leave it in the outlet without waste the battery .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really wanted to like this product .</Tokens>
+		<POS>PRP RB VBD TO VB DT NN .</POS>
+		<Lemma>I really want to like this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The good : it seemed to take pretty good video , the controls are easy to understand and the software to unload video and images seem to work well .</Tokens>
+		<POS>DT JJ : PRP VBD TO VB RB JJ NN , DT NNS VBP JJ TO VB CC DT NN TO VB NN CC NNS VBP TO VB RB .</POS>
+		<Lemma>the good : it seem to take pretty good video , the control be easy to understand and the software to unload video and image seem to work well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The video `` effects '' were nice too .</Tokens>
+		<POS>DT NN `` NNS '' VBD JJ RB .</POS>
+		<Lemma>the video `` effect '' be nice too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The 5mb still images were average and only good for portraits .</Tokens>
+		<POS>DT NN RB NNS VBD JJ CC RB JJ IN NNS .</POS>
+		<Lemma>the 5mb still image be average and only good for portrait .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You do not want to zoom in still mode ; pictures were always blurry .</Tokens>
+		<POS>PRP VBP RB VB TO VB IN RB NN : NNS VBD RB JJ .</POS>
+		<Lemma>you do not want to zoom in still mode ; picture be always blurry .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The battery life was pretty good .</Tokens>
+		<POS>DT NN NN VBD RB JJ .</POS>
+		<Lemma>the battery life be pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The bad : I ordered two of these .</Tokens>
+		<POS>DT JJ : PRP VBD CD IN DT .</POS>
+		<Lemma>the bad : I order two of these .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The first one I got heated up like a hot plate when I first charged it .</Tokens>
+		<POS>DT JJ CD PRP VBD VBN RP IN DT JJ NN WRB PRP RB VBD PRP .</POS>
+		<Lemma>the first one I get heat up like a hot plate when I first charge it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I got online with Kodak and the rep told me to just return it , which I did .</Tokens>
+		<POS>PRP VBD NN IN NNP CC DT NN VBD PRP TO RB VB PRP , WDT PRP VBD .</POS>
+		<Lemma>I get online with Kodak and the rep tell I to just return it , which I do .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Never actually used the first one .</Tokens>
+		<POS>RB RB VBN DT JJ CD .</POS>
+		<Lemma>never actually use the first one .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The second one I got charged fine , but the more I used it , the more difficult it became to open the sealed doors to charge it or to remove the SD card .</Tokens>
+		<POS>DT JJ CD PRP VBD VBN JJ , CC DT RBR PRP VBD PRP , DT RBR JJ PRP VBD TO VB DT JJ NNS TO VB PRP CC TO VB DT NN NN .</POS>
+		<Lemma>the second one I get charge fine , but the more I use it , the more difficult it become to open the sealed door to charge it or to remove the sd card .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>-LRB- I actually ca n't get the SD card out at the moment -RRB- .</Tokens>
+		<POS>-LRB- PRP RB MD RB VB DT NN NN RB IN DT NN -RRB- .</POS>
+		<Lemma>-lrb- I actually can not get the sd card out at the moment -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>This pretty much renders it useless .</Tokens>
+		<POS>DT RB JJ VBZ PRP JJ .</POS>
+		<Lemma>this pretty much render it useless .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I am only 6 weeks into using the product and ca n't charge it or get the images out of it .</Tokens>
+		<POS>PRP VBP RB CD NNS IN VBG DT NN CC MD RB VB PRP CC VB DT NNS IN IN PRP .</POS>
+		<Lemma>I be only 6 week into use the product and can not charge it or get the image out of it .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Also , I did order the HDMI cable to plug it into my TV .</Tokens>
+		<POS>RB , PRP VBD VB DT NNP NN TO VB PRP IN PRP$ NN .</POS>
+		<Lemma>also , I do order the HDMI cable to plug it into my tv .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>-LRB- Kodak will send you this free if you pay the shipping . -RRB-</Tokens>
+		<POS>-LRB- NNP MD VB PRP DT JJ IN PRP VBP DT NN . -RRB-</POS>
+		<Lemma>-lrb- Kodak will send you this free if you pay the shipping . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I plugged that in and the image would pop in and out , in and out .</Tokens>
+		<POS>PRP VBD IN IN CC DT NN MD VB IN CC IN , IN CC IN .</POS>
+		<Lemma>I plug that in and the image would pop in and out , in and out .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I never could get a consistent display on my TV .</Tokens>
+		<POS>PRP RB MD VB DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>I never could get a consistent display on my tv .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I would have bought the remote if this function just worked right .</Tokens>
+		<POS>PRP MD VB VBN DT JJ IN DT NN RB VBD NN .</POS>
+		<Lemma>I would have buy the remote if this function just work right .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>-LRB- Yes , I tried plugging it in and fully charging it before attempting to use this function . -RRB-</Tokens>
+		<POS>-LRB- UH , PRP VBD VBG PRP IN CC RB VBG PRP IN VBG TO VB DT NN . -RRB-</POS>
+		<Lemma>-lrb- yes , I try plug it in and fully charge it before attempt to use this function . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Now where did I put my pocket knife so I can get the SD card out to get my vacation photos !</Tokens>
+		<POS>RB WRB VBD PRP VBD PRP$ NN NN IN PRP MD VB DT NN NN IN TO VB PRP$ NN NNS .</POS>
+		<Lemma>now where do I put my pocket knife so I can get the sd card out to get my vacation photo !</Lemma>
+	</Sentence>
+</Document>

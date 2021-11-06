@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have connected and used the FM Transmitter , and found it has great sound , no interference from the engine -LRB- previous unit did -RRB- and it seems like it will do the job .</Tokens>
+		<POS>PRP VBP VBN CC VBN DT NNP NNP , CC VBD PRP VBZ JJ NN , DT NN IN DT NN -LRB- JJ NN VBD -RRB- CC PRP VBZ IN PRP MD VB DT NN .</POS>
+		<Lemma>I have connect and use the FM Transmitter , and find it have great sound , no interference from the engine -lrb- previous unit do -rrb- and it seem like it will do the job .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , I plugged my phone into the USB port on the X2 for about 20 minutes and it became very hot .</Tokens>
+		<POS>RB , PRP VBD PRP$ NN IN DT JJ NN IN DT NN IN RB CD NNS CC PRP VBD RB JJ .</POS>
+		<Lemma>however , I plug my phone into the usb port on the x2 for about 20 minute and it become very hot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't think I want to use that port to charge my phone on a long trip .</Tokens>
+		<POS>PRP VBP RB VB PRP VBP TO VB DT NN TO VB PRP$ NN IN DT JJ NN .</POS>
+		<Lemma>I do not think I want to use that port to charge my phone on a long trip .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have just ordered a solar charger and hope that will solve my problem .</Tokens>
+		<POS>PRP VBP RB VBN DT JJ NN CC NN WDT MD VB PRP$ NN .</POS>
+		<Lemma>I have just order a solar charger and hope that will solve my problem .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- Using Bluetooth drains the battery very quickly -RRB- .</Tokens>
+		<POS>-LRB- VBG NN VBZ DT NN RB RB -RRB- .</POS>
+		<Lemma>-lrb- use bluetooth drain the battery very quickly -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Aside from the overheating of the phone , I like the product and would recommend it .</Tokens>
+		<POS>RB IN DT NN IN DT NN , PRP VBP DT NN CC MD VB PRP .</POS>
+		<Lemma>aside from the overheating of the phone , I like the product and would recommend it .</Lemma>
+	</Sentence>
+</Document>

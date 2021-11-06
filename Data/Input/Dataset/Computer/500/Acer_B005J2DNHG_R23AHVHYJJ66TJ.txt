@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Only one word ... !</Tokens>
+		<POS>RB CD NN : .</POS>
+		<Lemma>only one word ... !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>EXCELLENT ... !</Tokens>
+		<POS>JJ : .</POS>
+		<Lemma>excellent ... !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>EXCELLENT PRODUCT AND SHIPPING .</Tokens>
+		<POS>JJ NN CC NNP .</POS>
+		<Lemma>excellent product and SHIPPING .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I recomend this product .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I recomend this product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>High quality ... !</Tokens>
+		<POS>JJ NN : .</POS>
+		<Lemma>high quality ... !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Perfect delivery time .</Tokens>
+		<POS>NNP NN NN .</POS>
+		<Lemma>Perfect delivery time .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Safe and perfect conditions .</Tokens>
+		<POS>NN CC JJ NNS .</POS>
+		<Lemma>safe and perfect condition .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens><a href="http://www.amazon.com/gp/product/B005J2DNHG/ref=cm_cr_asin_lnk/190-8088816-9038619"> Acer Aspire One AOD257-1633 10.1-Inch Netbook -LRB- Espresso Black -RRB- </a></Tokens>
+		<POS>NN NNP NNP CD NN NN NN -LRB- NN JJ -RRB- NN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b005j2dnhg/ref=cm_cr_asin_lnk/190-8088816-9038619"> Acer Aspire one aod257-1633 10.1-inch netbook -lrb- espresso black -rrb- </a></Lemma>
+	</Sentence>
+</Document>

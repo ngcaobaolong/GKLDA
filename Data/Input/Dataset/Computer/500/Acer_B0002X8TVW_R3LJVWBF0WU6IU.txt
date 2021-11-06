@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I bought this monitor I was actually looking for a 17 '' flat panel .</Tokens>
+		<POS>WRB PRP VBD DT NN PRP VBD RB VBG IN DT CD '' JJ NN .</POS>
+		<Lemma>when I buy this monitor I be actually look for a 17 '' flat panel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , I saw the price and the good reviews on this one , and had to give it a chance .</Tokens>
+		<POS>RB , PRP VBD DT NN CC DT JJ NNS IN DT CD , CC VBD TO VB PRP DT NN .</POS>
+		<Lemma>however , I see the price and the good review on this one , and have to give it a chance .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The result ?</Tokens>
+		<POS>DT NN .</POS>
+		<Lemma>the result ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>- An excellent monitor .</Tokens>
+		<POS>: DT JJ NN .</POS>
+		<Lemma>- a excellent monitor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It really has a great picture .</Tokens>
+		<POS>PRP RB VBZ DT JJ NN .</POS>
+		<Lemma>it really have a great picture .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If your into frills and gadgetry , this may not be the monitor for you , as it does not have built-in speakers or extra USB ports .</Tokens>
+		<POS>IN PRP$ IN NNS CC NN , DT MD RB VB DT NN IN PRP , IN PRP VBZ RB VB JJ NNS CC JJ JJ NNS .</POS>
+		<Lemma>if you into frill and gadgetry , this may not be the monitor for you , as it do not have built-in speaker or extra usb port .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you 're just looking for a really good flat panel w\/out all the bells and whistles , I recommend this one !</Tokens>
+		<POS>IN PRP VBP RB VBG IN DT RB JJ JJ NN NN PDT DT NNS CC NNS , PRP VBP DT CD .</POS>
+		<Lemma>if you be just look for a really good flat panel w\/out all the bell and whistle , I recommend this one !</Lemma>
+	</Sentence>
+</Document>

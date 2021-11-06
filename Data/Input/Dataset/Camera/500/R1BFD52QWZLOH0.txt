@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Its a great small camera that takes beautiful pictures as well as fits comfortably in the pocket .</Tokens>
+		<POS>PRP$ DT JJ JJ NN WDT VBZ JJ NNS RB RB IN NNS RB IN DT NN .</POS>
+		<Lemma>its a great small camera that take beautiful picture as well as fit comfortably in the pocket .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The touch screen is not a problem as much as others have noted atleast to me -LRB- yes , I have been using touch screen phones and tablets for a long time ! -RRB-</Tokens>
+		<POS>DT NN NN VBZ RB DT NN RB RB IN NNS VBP VBN NN TO PRP -LRB- UH , PRP VBP VBN VBG NN NN NNS CC NNS IN DT JJ NN . -RRB-</POS>
+		<Lemma>the touch screen be not a problem as much as other have note atleast to I -lrb- yes , I have be use touch screen phone and tablet for a long time ! -rrb-</Lemma>
+	</Sentence>
+</Document>

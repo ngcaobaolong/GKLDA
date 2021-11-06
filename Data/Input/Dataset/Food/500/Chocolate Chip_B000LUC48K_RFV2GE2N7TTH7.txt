@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens><a href="http://www.amazon.com/gp/product/B000LUC48K/ref=cm_cr_asin_lnk/188-9026340-0931914"> Famous Amos - Chocolate Chip Cookies , 36 Pouches </a> YOU GET ALOT OF COOKIES FOR THE PRICE !</Tokens>
+		<POS>NN NNP NNP : NNP NNP NNPS , CD NNS VBP PRP VB NNP IN NNP IN DT NN .</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b000luc48k/ref=cm_cr_asin_lnk/188-9026340-0931914"> Famous Amos - Chocolate Chip Cookies , 36 pouch </a> you get ALOT of COOKIES for the price !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>MY HUSBAND LOVES THESE !</Tokens>
+		<POS>NNP NNP VBZ NN .</POS>
+		<Lemma>MY HUSBAND love these !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a total waste of time and money .</Tokens>
+		<POS>DT VBD DT JJ NN IN NN CC NN .</POS>
+		<Lemma>this be a total waste of time and money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Tried it on two different phone and could see no improvement , no wonder they are n't on the current market .</Tokens>
+		<POS>VBD PRP IN CD JJ NN CC MD VB DT NN , DT NN PRP VBP RB IN DT JJ NN .</POS>
+		<Lemma>try it on two different phone and could see no improvement , no wonder they be not on the current market .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I later talked to someone else and they told me that they never work .</Tokens>
+		<POS>PRP RB VBD TO NN RB CC PRP VBD PRP IN PRP RB VBP .</POS>
+		<Lemma>I later talk to someone else and they tell I that they never work .</Lemma>
+	</Sentence>
+</Document>

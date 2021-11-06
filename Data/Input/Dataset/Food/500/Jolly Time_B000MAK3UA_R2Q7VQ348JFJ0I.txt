@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this from Amazon because it is my favorite popcorn and I can not find large boxes of it where I am currently staying .</Tokens>
+		<POS>PRP VBD DT IN NNP IN PRP VBZ PRP$ JJ NN CC PRP MD RB VB JJ NNS IN PRP WRB PRP VBP RB VBG .</POS>
+		<Lemma>I purchase this from Amazon because it be my favorite popcorn and I can not find large box of it where I be currently stay .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This snack keeps me from eating heavy calorie snacks which would hinder my effort to lose weight .</Tokens>
+		<POS>DT NN VBZ PRP IN VBG JJ NN NNS WDT MD VB PRP$ NN TO VB NN .</POS>
+		<Lemma>this snack keep I from eat heavy calorie snack which would hinder my effort to lose weight .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Cheaply made product , but you ca n't possibly beat the price !</Tokens>
+		<POS>RB VBN NN , CC PRP MD RB RB VB DT NN .</POS>
+		<Lemma>cheaply make product , but you can not possibly beat the price !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So far it 's still working great and I 've had it plugged into the girlfriend 's car for weeks .</Tokens>
+		<POS>RB RB PRP VBZ RB VBG JJ CC PRP VBP VBD PRP VBD IN DT NN POS NN IN NNS .</POS>
+		<Lemma>so far it be still work great and I have have it plug into the girlfriend 's car for week .</Lemma>
+	</Sentence>
+</Document>

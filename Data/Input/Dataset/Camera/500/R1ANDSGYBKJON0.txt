@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Had my VIXIA HF M41 about a month and really love it .</Tokens>
+		<POS>VBD PRP$ NNP NN NN IN DT NN CC RB VBP PRP .</POS>
+		<Lemma>have my VIXIA hf m41 about a month and really love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Bought the camera in preparation for our Alaska trip in a few months but use it to shoot property videos which end up on Youtube .</Tokens>
+		<POS>VBN DT NN IN NN IN PRP$ NNP NN IN DT JJ NNS CC VBP PRP TO VB NN NNS WDT VBP RP IN NNP .</POS>
+		<Lemma>buy the camera in preparation for we Alaska trip in a few month but use it to shoot property video which end up on Youtube .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've been shooting primarily in FXP mode to save space which gets you 720p on Youtube .</Tokens>
+		<POS>PRP VBP VBN VBG RB IN NN NN TO VB NN WDT VBZ PRP VBP IN NNP .</POS>
+		<Lemma>I have be shoot primarily in fxp mode to save space which get you 720p on Youtube .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can get some beautiful videos in the top MXP mode but you 'll eat up battery and storage space in a hurry .</Tokens>
+		<POS>PRP MD VB DT JJ NNS IN DT JJ NN NN CC PRP MD VB RP NN CC NN NN IN DT NN .</POS>
+		<Lemma>you can get some beautiful video in the top mxp mode but you 'll eat up battery and storage space in a hurry .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Color is fantastic and all I could ask for as a semi-professional without spending a lot more money .</Tokens>
+		<POS>NN VBZ JJ CC DT PRP MD VB IN IN DT JJ IN VBG DT NN JJR NN .</POS>
+		<Lemma>color be fantastic and all I could ask for as a semi-professional without spend a lot more money .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>When played back directly on HD tv the picture is stunning .</Tokens>
+		<POS>WRB VBN RB RB IN NN NN DT NN VBZ JJ .</POS>
+		<Lemma>when play back directly on hd tv the picture be stunning .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Clips are recorded in .</Tokens>
+		<POS>NNS VBP VBN IN .</POS>
+		<Lemma>clip be record in .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>mov format which works great with the iMovie9 editor that came with the MacBook Pro I bought last year .</Tokens>
+		<POS>NN NN WDT VBZ JJ IN DT NN NN WDT VBD IN DT NNP FW PRP VBD JJ NN .</POS>
+		<Lemma>mov format which work great with the imovie9 editor that come with the MacBook pro I buy last year .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I spent about two minutes looking at the software that came with it from Canon and then tossed it .</Tokens>
+		<POS>PRP VBD IN CD NNS VBG IN DT NN WDT VBD IN PRP IN NNP CC RB VBD PRP .</POS>
+		<Lemma>I spend about two minute look at the software that come with it from Canon and then toss it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Waiting on a WD-H43 wide angle lens I just ordered .</Tokens>
+		<POS>VBG IN DT NN JJ NN NN PRP RB VBD .</POS>
+		<Lemma>wait on a wd-h43 wide angle lens I just order .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Will have to buy a larger capacity battery also .</Tokens>
+		<POS>MD VB TO VB DT JJR NN NN RB .</POS>
+		<Lemma>will have to buy a larger capacity battery also .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The one that comes with it is pretty lame .</Tokens>
+		<POS>DT CD WDT VBZ IN PRP VBZ RB JJ .</POS>
+		<Lemma>the one that come with it be pretty lame .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The good news is the battery cavity and easily handle the additional 1\/2 inch of the BP-819 with protruding out the back .</Tokens>
+		<POS>DT JJ NN VBZ DT NN NN CC RB VB DT JJ CD NN IN DT NN IN VBG RP DT NN .</POS>
+		<Lemma>the good news be the battery cavity and easily handle the additional 1\/2 inch of the bp-819 with protrude out the back .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The BP-827 will get in the way of the optical view finder .</Tokens>
+		<POS>DT NN MD VB IN DT NN IN DT JJ NN NN .</POS>
+		<Lemma>the bp-827 will get in the way of the optical view finder .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I bought this camera because I wanted an optical view finder and this one has it .</Tokens>
+		<POS>PRP VBD DT NN IN PRP VBD DT JJ NN NN CC DT CD VBZ PRP .</POS>
+		<Lemma>I buy this camera because I want a optical view finder and this one have it .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It 's not great and it 's in a single fixed position but on bright sunny days I 'll have that option .</Tokens>
+		<POS>PRP VBZ RB JJ CC PRP VBZ IN DT JJ JJ NN CC IN JJ JJ NNS PRP MD VB DT NN .</POS>
+		<Lemma>it be not great and it be in a single fixed position but on bright sunny day I 'll have that option .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Why not five stars ?</Tokens>
+		<POS>WRB RB CD NNS .</POS>
+		<Lemma>why not five star ?</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Lame OEM battery and the viewfinder touch screen does n't respond to finger commands easily .</Tokens>
+		<POS>JJ NN NN CC DT NN NN NN VBZ RB VB TO NN VBZ RB .</POS>
+		<Lemma>lame oem battery and the viewfinder touch screen do not respond to finger command easily .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>However , once I got the settings dialed in I set the focus on Auto and you should n't have to mess with the touch screen that much .</Tokens>
+		<POS>RB , RB PRP VBD DT NNS VBN IN PRP VBP DT NN IN NN CC PRP MD RB VB TO NN IN DT NN NN WDT RB .</POS>
+		<Lemma>however , once I get the setting dial in I set the focus on auto and you should not have to mess with the touch screen that much .</Lemma>
+	</Sentence>
+</Document>

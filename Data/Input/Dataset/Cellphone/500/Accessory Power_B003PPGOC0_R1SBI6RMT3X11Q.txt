@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This transmitter is my second transmitter after the gigaware .</Tokens>
+		<POS>DT NN VBZ PRP$ JJ NN IN DT NN .</POS>
+		<Lemma>this transmitter be my second transmitter after the gigaware .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>First thing that I liked about it is that it does not need any wire to connect your iPhone4 and you can keep your phone in your pocket .</Tokens>
+		<POS>JJ NN IN PRP VBD IN PRP VBZ IN PRP VBZ RB VB DT NN TO VB PRP$ NN CC PRP MD VB PRP$ NN IN PRP$ NN .</POS>
+		<Lemma>first thing that I like about it be that it do not need any wire to connect you iphone4 and you can keep you phone in you pocket .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Setup was very easy .</Tokens>
+		<POS>NN VBD RB JJ .</POS>
+		<Lemma>setup be very easy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Sound quality is not good as compared to the AUX port but it gets the job done .</Tokens>
+		<POS>JJ NN VBZ RB JJ IN VBN TO DT NNP NN CC PRP VBZ DT NN VBN .</POS>
+		<Lemma>sound quality be not good as compare to the AUX port but it get the job do .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I would recommend this product to everyone</Tokens>
+		<POS>PRP MD VB DT NN TO NN</POS>
+		<Lemma>I would recommend this product to everyone</Lemma>
+	</Sentence>
+</Document>

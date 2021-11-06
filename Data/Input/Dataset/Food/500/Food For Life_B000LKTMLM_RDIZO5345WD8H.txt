@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>dear amazon.com Please keep this on subscribe and save forever .</Tokens>
+		<POS>RB NNP VB VB DT IN VB CC VB RB .</POS>
+		<Lemma>dear amazon.com please keep this on subscribe and save forever .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>this is a great cereal for health .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NN .</POS>
+		<Lemma>this be a great cereal for health .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>not the best tasting in the world but this is a powerhouse of nutrition , at a great price with subscribe and save !</Tokens>
+		<POS>RB DT JJS NN IN DT NN CC DT VBZ DT NN IN NN , IN DT JJ NN IN VB CC VB .</POS>
+		<Lemma>not the best tasting in the world but this be a powerhouse of nutrition , at a great price with subscribe and save !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>thanks amazon , sincerly loyal customer forever .</Tokens>
+		<POS>NNS VBP , JJ JJ NN RB .</POS>
+		<Lemma>thanks amazon , sincerly loyal customer forever .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>P.S. will be purchasing more .</Tokens>
+		<POS>NNP MD VB VBG JJR .</POS>
+		<Lemma>P.S. will be purchase more .</Lemma>
+	</Sentence>
+</Document>

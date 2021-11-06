@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had never considered buying a Netbook before , but this little baby performs very well .</Tokens>
+		<POS>PRP VBD RB VBN VBG DT NN RB , CC DT JJ NN VBZ RB RB .</POS>
+		<Lemma>I have never consider buy a netbook before , but this little baby perform very well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love the screen .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love the screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>11.6 inches is just right .</Tokens>
+		<POS>CD NNS VBZ RB RB .</POS>
+		<Lemma>11.6 inch be just right .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The full size keyboard is also great .</Tokens>
+		<POS>DT JJ NN NN VBZ RB JJ .</POS>
+		<Lemma>the full size keyboard be also great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The full 64-bit version of Windows 7 is also very nice to have .</Tokens>
+		<POS>DT JJ JJ NN IN NNP CD VBZ RB RB JJ TO VB .</POS>
+		<Lemma>the full 64-bit version of Windows 7 be also very nice to have .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If I have any complaint , it would be that the sound through the built-in speakers is a little weak .</Tokens>
+		<POS>IN PRP VBP DT NN , PRP MD VB IN DT NN IN DT JJ NNS VBZ DT JJ JJ .</POS>
+		<Lemma>if I have any complaint , it would be that the sound through the built-in speaker be a little weak .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I decided to upgrade from 2GB of RAM to 4GB as many have suggested .</Tokens>
+		<POS>PRP VBD TO VB IN NN IN NNP TO NN IN JJ VBP VBN .</POS>
+		<Lemma>I decide to upgrade from 2gb of RAM to 4gb as many have suggest .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I knew this would improve performance and help with battery life as well , since there would be less hard disk thrashing .</Tokens>
+		<POS>PRP VBD DT MD VB NN CC NN IN NN NN RB RB , IN EX MD VB RBR JJ NN NN .</POS>
+		<Lemma>I know this would improve performance and help with battery life as well , since there would be less hard disk thrashing .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I visited the Acer website and found that this computer supports up to 4GB of PC3 8500 RAM in a single DDR3 memory slot .</Tokens>
+		<POS>PRP VBD DT NNP NN CC VBD IN DT NN VBZ RP TO NN IN NN CD NNP IN DT JJ NN NN NN .</POS>
+		<Lemma>I visit the Acer website and find that this computer support up to 4gb of pc3 8500 RAM in a single ddr3 memory slot .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I opened the back cover and found that it was using 2GB of PC3-10600 RAM .</Tokens>
+		<POS>PRP VBD DT JJ NN CC VBD IN PRP VBD VBG NN IN NN NNP .</POS>
+		<Lemma>I open the back cover and find that it be use 2gb of pc3-10600 RAM .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>So I found myself in a dilemma .</Tokens>
+		<POS>IN PRP VBD PRP IN DT NN .</POS>
+		<Lemma>so I find myself in a dilemma .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Do I purchase 4GB of PC3-8500 or 4GB of PC3-10600 ?</Tokens>
+		<POS>VBP PRP VB NN IN CD CC NN IN NN .</POS>
+		<Lemma>do I purchase 4gb of pc3-8500 or 4gb of pc3-10600 ?</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The 8500 has slightly lower latency but also slower data throughput than the 10600 .</Tokens>
+		<POS>DT CD VBZ RB JJR NN CC RB JJR NNS NN IN DT CD .</POS>
+		<Lemma>the 8500 have slightly lower latency but also slower datum throughput than the 10600 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>But if the netbook only uses the 8500 clock-rate , then it should n't matter which one I get .</Tokens>
+		<POS>CC IN DT NN RB VBZ DT CD NN , RB PRP MD RB VB WDT CD PRP VBP .</POS>
+		<Lemma>but if the netbook only use the 8500 clock-rate , then it should not matter which one I get .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The scientist in me decided to buy both kinds and benchmark the performance of each .</Tokens>
+		<POS>DT NN IN PRP VBD TO VB CC NNS CC NN DT NN IN DT .</POS>
+		<Lemma>the scientist in I decide to buy both kind and benchmark the performance of each .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Here is my experiment : Baseline - Acer netbook with original 2GB of PC3-10600 RAM Upgrade 1 - Acer netbook with 4GB of Kingston PC3-8500 RAM -LRB- cost $ 20 -RRB- Upgrade 2 - Acer netbook with 4GB of G. Skill PC3-10600 RAM -LRB- cost $ 20 -RRB- I ran two different benchmarks in each case : Benchmark 1 - Windows Experience Index , Memory Score Benchmark 2 - PCMark7 Basic Score Results : ... .</Tokens>
+		<POS>RB VBZ PRP$ NN : NN : NNP NN IN JJ NN IN NN NNP NNP LS : NNP NN IN NN IN NNP CD NNP -LRB- VB $ CD -RRB- NNP LS : NNP NN IN NN IN NNP NNP NNP NNP -LRB- VB $ CD -RRB- PRP VBD CD JJ NNS IN DT NN : NNP LS : NNP NN NN , NN NN NN CD : NN JJ NN NNS : : .</POS>
+		<Lemma>here be my experiment : baseline - Acer netbook with original 2gb of pc3-10600 RAM Upgrade 1 - Acer netbook with 4gb of Kingston pc3-8500 RAM -lrb- cost $ 20 -rrb- Upgrade 2 - Acer netbook with 4gb of G. Skill PC3-10600 RAM -lrb- cost $ 20 -rrb- I run two different benchmark in each case : Benchmark 1 - Windows experience index , memory score benchmark 2 - pcmark7 basic score result : ... .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Benchmark 1 .</Tokens>
+		<POS>NN CD .</POS>
+		<Lemma>benchmark 1 .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Benchmark 2 Baseline ... 5.1 ... 626 PCMarks Upgrade1 ... 5.2 ... 668 PCMarks Upgrade2 ... 5.2 ... 648 PCMarks I ran the tests several times and the PCMark7 results changed a little each time , but generally with similar results .</Tokens>
+		<POS>NN CD NN : CD : CD NNS NN : CD : CD NNS NN : CD : CD NNS PRP VBD DT NNS JJ NNS CC DT NN VBZ VBD DT JJ DT NN , CC RB IN JJ NNS .</POS>
+		<Lemma>benchmark 2 baseline ... 5.1 ... 626 pcmark upgrade1 ... 5.2 ... 668 pcmark upgrade2 ... 5.2 ... 648 pcmark I run the test several time and the pcmark7 result change a little each time , but generally with similar result .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Looks like the netbook memory clock rate is set at the 8500 timings -LRB- 1066 MHz -RRB- and does not increase to 1333 MHz in the presence of 10600 memory .</Tokens>
+		<POS>VBZ IN DT NN NN NN NN VBZ VBN IN DT CD NNS -LRB- CD NN -RRB- CC VBZ RB VB TO CD NNP IN DT NN IN CD NN .</POS>
+		<Lemma>look like the netbook memory clock rate be set at the 8500 timing -lrb- 1066 mhz -rrb- and do not increase to 1333 MHz in the presence of 10600 memory .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The results also indicate that the PC3-8500 Kingston memory outperforms the PC3-10600 G. Skill memory , but only slightly .</Tokens>
+		<POS>DT NNS RB VBP IN DT CD NNP NN VBZ DT NN NNP NNP NN , CC RB RB .</POS>
+		<Lemma>the result also indicate that the pc3-8500 Kingston memory outperform the pc3-10600 G. Skill memory , but only slightly .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Seeing that prices for the two are the same , go for the PC3-8500 RAM .</Tokens>
+		<POS>VBG DT NNS IN DT CD VBP DT JJ , VB IN DT NN NNP .</POS>
+		<Lemma>see that price for the two be the same , go for the pc3-8500 RAM .</Lemma>
+	</Sentence>
+</Document>

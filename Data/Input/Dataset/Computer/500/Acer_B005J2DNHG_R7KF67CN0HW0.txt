@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've tried two dual core AOD257 models , aquamarine and white .</Tokens>
+		<POS>PRP VBP VBN CD JJ NN NN NNS , NN CC JJ .</POS>
+		<Lemma>I have try two dual core aod257 model , aquamarine and white .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Keep in mind the white does n't look attractive at all , more like a plastic toy .</Tokens>
+		<POS>VB IN NN DT JJ VBZ RB VB JJ IN DT , RBR IN DT JJ NN .</POS>
+		<Lemma>keep in mind the white do not look attractive at all , more like a plastic toy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Both have the bad habbit of freezing while transfering files over my home network , downloading files from internet or streaming a Netflix video .</Tokens>
+		<POS>DT VBP DT JJ NN IN NN IN VBG NNS IN PRP$ NN NN , VBG NNS IN NN CC NN DT NNP NN .</POS>
+		<Lemma>both have the bad habbit of freezing while transfer file over my home network , download file from internet or streaming a Netflix video .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Once they freeze , you have to restart them from the power button .</Tokens>
+		<POS>IN PRP VBP , PRP VBP TO VB PRP IN DT NN NN .</POS>
+		<Lemma>once they freeze , you have to restart they from the power button .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It seems to be some problem with the wireless network card\/configuration .</Tokens>
+		<POS>PRP VBZ TO VB DT NN IN DT JJ NN NN .</POS>
+		<Lemma>it seem to be some problem with the wireless network card\/configuration .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've seen reviews about freezing also with the Happy2 line of Acer .</Tokens>
+		<POS>PRP VBP VBN NNS IN NN RB IN DT NN NN IN NNP .</POS>
+		<Lemma>I have see review about freezing also with the happy2 line of Acer .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I finally bought a purple Gateway LT2804u which is the dual core Gateway equivalent of AOD257 .</Tokens>
+		<POS>PRP RB VBD DT JJ NNP NN WDT VBZ DT JJ NN NNP NN IN NN .</POS>
+		<Lemma>I finally buy a purple Gateway lt2804u which be the dual core Gateway equivalent of aod257 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Gateway was bought by Acer so they have very similar specifications but the Getway does n't freeze .</Tokens>
+		<POS>NN VBD VBN IN NNP IN PRP VBP RB JJ NNS CC DT NNP VBZ RB VB .</POS>
+		<Lemma>gateway be buy by Acer so they have very similar specification but the Getway do not freeze .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is very responsive and works perfectly while networking .</Tokens>
+		<POS>PRP VBZ RB JJ CC VBZ RB IN NN .</POS>
+		<Lemma>it be very responsive and work perfectly while networking .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It is also very quiet and much more attractive than the AOD257 models .</Tokens>
+		<POS>PRP VBZ RB RB JJ CC RB RBR JJ IN DT NN NNS .</POS>
+		<Lemma>it be also very quiet and much more attractive than the aod257 model .</Lemma>
+	</Sentence>
+</Document>

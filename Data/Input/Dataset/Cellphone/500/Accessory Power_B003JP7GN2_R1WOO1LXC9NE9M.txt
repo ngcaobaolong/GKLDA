@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My mother wanted a charger for her Polaroid 4GB PMP 431-4 MP3 player since she did n't have a computer -LRB- to use the usb cord it came with -RRB- .</Tokens>
+		<POS>PRP$ NN VBD DT NN IN PRP$ NNP NNP NNP CD NN NN IN PRP VBD RB VB DT NN -LRB- TO VB DT NN NN PRP VBD IN -RRB- .</POS>
+		<Lemma>my mother want a charger for she Polaroid 4GB PMP 431-4 mp3 player since she do not have a computer -lrb- to use the usb cord it come with -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She said : '' -LRB- The charger -RRB- works great .</Tokens>
+		<POS>PRP VBD : '' -LRB- DT NN -RRB- VBZ JJ .</POS>
+		<Lemma>she say : '' -lrb- the charger -rrb- work great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Does what it 's supposed to do .</Tokens>
+		<POS>VBZ WP PRP VBZ VBN TO VB .</POS>
+		<Lemma>do what it be suppose to do .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Exactly what I wanted .</Tokens>
+		<POS>RB WP PRP VBD .</POS>
+		<Lemma>exactly what I want .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've only used it plugged into the wall , but I like having the option of using it in the car . ''</Tokens>
+		<POS>PRP VBP RB VBN PRP VBD IN DT NN , CC PRP VBP VBG DT NN IN VBG PRP IN DT NN . ''</POS>
+		<Lemma>I have only use it plug into the wall , but I like have the option of use it in the car . ''</Lemma>
+	</Sentence>
+</Document>

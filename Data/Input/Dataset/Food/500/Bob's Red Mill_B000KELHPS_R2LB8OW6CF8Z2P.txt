@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love these products , I also have a Zojirushi bread machine .</Tokens>
+		<POS>PRP VBP DT NNS , PRP RB VBP DT NNP NN NN .</POS>
+		<Lemma>I love these product , I also have a Zojirushi bread machine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I add four ingredients to the mix , put it in the machine , in two hours & 45 minutes I have a wonderful home made loaf of bread `` just like mama used to make '' and that 's if I do not wish to add a few exciting flavor ingredients which you can do .</Tokens>
+		<POS>PRP VBP CD NNS TO DT NN , VBD PRP IN DT NN , IN CD NNS CC CD NNS PRP VBP DT JJ NN VBD NN IN NN `` RB IN NN VBN TO VB '' CC DT VBZ IN PRP VBP RB VB TO VB DT JJ JJ NN NNS WDT PRP MD VB .</POS>
+		<Lemma>I add four ingredient to the mix , put it in the machine , in two hour & 45 minute I have a wonderful home make loaf of bread `` just like mama use to make '' and that be if I do not wish to add a few exciting flavor ingredient which you can do .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Better price with Amazon , fast , fast service !!!!</Tokens>
+		<POS>RBR NN IN NNP , RB , JJ NN IN</POS>
+		<Lemma>better price with Amazon , fast , fast service !!!!</Lemma>
+	</Sentence>
+</Document>

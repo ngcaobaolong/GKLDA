@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pretty good popcorn - but not `` knock your socks '' off popcorn .</Tokens>
+		<POS>NNP JJ NN : CC RB `` VB PRP$ NNS '' IN NN .</POS>
+		<Lemma>Pretty good popcorn - but not `` knock you sock '' off popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a fully acceptable product the pops well in a hot air unit .</Tokens>
+		<POS>DT VBZ DT RB JJ NN DT VBZ RB IN DT JJ NN NN .</POS>
+		<Lemma>this be a fully acceptable product the pop well in a hot air unit .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>12.5 pounds is a great deal of popcorn - be prepared to share with friends and neighbors - to be used before the moisture dries up to a point that it no longer pops well .</Tokens>
+		<POS>CD NNS VBZ DT JJ NN IN NN : VB VBN TO VB IN NNS CC NNS : TO VB VBN IN DT NN VBZ RP TO DT NN IN PRP RB RBR VBZ RB .</POS>
+		<Lemma>12.5 pound be a great deal of popcorn - be prepare to share with friend and neighbor - to be use before the moisture dry up to a point that it no longer pop well .</Lemma>
+	</Sentence>
+</Document>

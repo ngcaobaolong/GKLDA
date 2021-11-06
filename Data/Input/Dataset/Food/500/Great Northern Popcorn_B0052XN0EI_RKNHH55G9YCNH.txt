@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>NO COMPLAINTS HERE .</Tokens>
+		<POS>NN NNS RB .</POS>
+		<Lemma>no complaint here .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I HAVE NEVER PURCHASED THIS LARGE AMOUNT BEFORE BUT FOUND IT EASY TO DEVIDE UP INTO GALLON SIZE STORAGE BAGS .</Tokens>
+		<POS>PRP VBP RB VBN NNS JJ NNP IN NNP NNP NNP NNP TO NNP RP NNP NNP NNP NNP NNS .</POS>
+		<Lemma>I have never purchase this large AMOUNT before BUT FOUND IT EASY to DEVIDE up INTO GALLON SIZE STORAGE bag .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>GREAT TASTE .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great taste .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I MAKE MINE IN THE MICROWAVE AND SPRAY WITH NON FAT OLIVIO AND SPRINKLE WITH SPLENDA\/CINNAMON .</Tokens>
+		<POS>PRP VBP NN IN DT NN CC NN IN NNP NNP NNP CC NNP IN NN .</POS>
+		<Lemma>I make mine in the microwave and spray with NON FAT OLIVIO and SPRINKLE with splenda\/cinnamon .</Lemma>
+	</Sentence>
+</Document>

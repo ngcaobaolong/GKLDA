@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I give this product 5 starts , but not for eating it as a cereal .</Tokens>
+		<POS>PRP VBP DT NN CD VBZ , CC RB IN VBG PRP IN DT NN .</POS>
+		<Lemma>I give this product 5 start , but not for eat it as a cereal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I think that eating it plain\/with milk is a little rough : as a cereal , I 'd give it 2 stars .</Tokens>
+		<POS>PRP VBP IN VBG PRP JJ NN VBZ DT JJ JJ : IN DT NN , PRP MD VB PRP CD NNS .</POS>
+		<Lemma>I think that eat it plain\/with milk be a little rough : as a cereal , I would give it 2 star .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , I LOVE using this stuff in yogurt -LRB- any flavor -RRB- -- it adds more of a crunch than granola does -- and it 's also fantastic when you put it on top of fruit -LRB- espeically strawberries and melons like canteloupe ... not so much watermelon -RRB- .</Tokens>
+		<POS>RB , PRP VBP VBG DT NN IN NN -LRB- DT NN -RRB- : PRP VBZ JJR IN DT NN IN NN VBZ : CC PRP VBZ RB JJ WRB PRP VBP PRP IN NN IN NN -LRB- RB NNS CC NNS IN NN : RB RB JJ NN -RRB- .</POS>
+		<Lemma>however , I love use this stuff in yogurt -lrb- any flavor -rrb- -- it add more of a crunch than granolum do -- and it be also fantastic when you put it on top of fruit -lrb- espeically strawberry and melon like canteloupe ... not so much watermelon -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I really like the Ezekiel 4:9 with almonds best !</Tokens>
+		<POS>PRP RB IN DT NNP CD IN NNS RB .</POS>
+		<Lemma>I really like the Ezekiel 4:9 with almond best !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And as an FYI , 22 bucks for 6 boxes is a great deal .</Tokens>
+		<POS>CC IN DT NNP , CD NNS IN CD NNS VBZ DT JJ NN .</POS>
+		<Lemma>and as a FYI , 22 buck for 6 box be a great deal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The cereal usually runs about $ 5-6 a box in-store .</Tokens>
+		<POS>DT NN RB VBZ IN $ CD DT NN JJ .</POS>
+		<Lemma>the cereal usually run about $ 5-6 a box in-store .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Enjoy !</Tokens>
+		<POS>VB .</POS>
+		<Lemma>enjoy !</Lemma>
+	</Sentence>
+</Document>

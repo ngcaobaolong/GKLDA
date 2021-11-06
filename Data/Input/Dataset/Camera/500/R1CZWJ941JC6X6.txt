@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Picked this one up locally -LRB- had an issue with Amazons shipping -RRB- .</Tokens>
+		<POS>VBN DT CD RP RB -LRB- VBD DT NN IN NNPS NN -RRB- .</POS>
+		<Lemma>pick this one up locally -lrb- have a issue with Amazons shipping -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not much to say except it 's the best digital camera that I 've owned out of 8 since 1999 .</Tokens>
+		<POS>RB RB TO VB IN PRP VBZ DT JJS JJ NN IN PRP VBP VBN IN IN CD IN CD .</POS>
+		<Lemma>not much to say except it be the best digital camera that I have own out of 8 since 1999 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not quite a super pro camera , but for the non-pro , it does everything you 'll ever need including very acceptable 1080HD video -LRB- not quite as good as my dedicated JVC camcorder -RRB- , but a perfect alternative when a camcorder is n't available .</Tokens>
+		<POS>RB RB DT JJ JJ NN , CC IN DT NN , PRP VBZ NN PRP MD RB VB VBG RB JJ NN NN -LRB- RB RB IN JJ IN PRP$ JJ NNP NN -RRB- , CC DT JJ NN WRB DT NN VBZ RB JJ .</POS>
+		<Lemma>not quite a super pro camera , but for the non-pro , it do everything you 'll ever need include very acceptable 1080hd video -lrb- not quite as good as my dedicated JVC camcorder -rrb- , but a perfect alternative when a camcorder be not available .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've only spent 6 hours with it , but can say that it 's one amazing camera .</Tokens>
+		<POS>PRP VBP RB VBN CD NNS IN PRP , CC MD VB IN PRP VBZ CD JJ NN .</POS>
+		<Lemma>I have only spend 6 hour with it , but can say that it be one amazing camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Battery life is a bit short , but only if you zoom a lot .</Tokens>
+		<POS>NN NN VBZ DT NN JJ , CC RB IN PRP VBP DT NN .</POS>
+		<Lemma>battery life be a bit short , but only if you zoom a lot .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As a photography educator , I work with just about every brand and model of camera you can think of .</Tokens>
+		<POS>IN DT NN NN , PRP VBP IN RB IN DT NN CC NN IN NN PRP MD VB IN .</POS>
+		<Lemma>as a photography educator , I work with just about every brand and model of camera you can think of .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've been impressed with the Canon 60D , especially the combination of live view and the flip out screen .</Tokens>
+		<POS>PRP VBP VBN VBN IN DT NNP NNP , RB DT NN IN JJ NN CC DT JJ IN NN .</POS>
+		<Lemma>I have be impress with the Canon 60D , especially the combination of live view and the flip out screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's such a great way to teach composition .</Tokens>
+		<POS>PRP VBZ JJ DT JJ NN TO VB NN .</POS>
+		<Lemma>it be such a great way to teach composition .</Lemma>
+	</Sentence>
+</Document>

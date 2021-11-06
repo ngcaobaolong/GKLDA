@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I now have this same monitor on both computers .</Tokens>
+		<POS>PRP RB VBP DT JJ NN IN DT NNS .</POS>
+		<Lemma>I now have this same monitor on both computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>One is over a year old and has not had any problems .</Tokens>
+		<POS>CD VBZ IN DT NN JJ CC VBZ RB VBN DT NNS .</POS>
+		<Lemma>one be over a year old and have not have any problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Highly recommend !</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>highly recommend !</Lemma>
+	</Sentence>
+</Document>

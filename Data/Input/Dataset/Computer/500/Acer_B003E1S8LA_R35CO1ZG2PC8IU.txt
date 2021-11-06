@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I needed a monitor ; however , did n't have alot of money .</Tokens>
+		<POS>PRP VBD DT NN : RB , VBD RB VB NNS IN NN .</POS>
+		<Lemma>I need a monitor ; however , do not have alot of money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I ordered it from Amazon.com .</Tokens>
+		<POS>PRP VBD PRP IN NNP .</POS>
+		<Lemma>I order it from Amazon.com .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When it arrived I was amazed at the quality of the picture .</Tokens>
+		<POS>WRB PRP VBD PRP VBD VBN IN DT NN IN DT NN .</POS>
+		<Lemma>when it arrive I be amaze at the quality of the picture .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great monitor at an excellent price .</Tokens>
+		<POS>JJ NN IN DT JJ NN .</POS>
+		<Lemma>great monitor at a excellent price .</Lemma>
+	</Sentence>
+</Document>

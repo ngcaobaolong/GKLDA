@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought 30 of these for a company project .</Tokens>
+		<POS>PRP VBD CD IN DT IN DT NN NN .</POS>
+		<Lemma>I buy 30 of these for a company project .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are easy to setup -LRB- as is most monitors -RRB- .</Tokens>
+		<POS>PRP VBP JJ TO NN -LRB- RB VBZ RBS NNS -RRB- .</POS>
+		<Lemma>they be easy to setup -lrb- as be most monitor -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are bright enough and contrast appears to be in-line with other brands .</Tokens>
+		<POS>PRP VBP JJ JJ CC NN VBZ TO VB JJ IN JJ NNS .</POS>
+		<Lemma>they be bright enough and contrast appear to be in-line with other brand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The base and fasteners are constructed out of plastic and seem breakable .</Tokens>
+		<POS>DT NN CC NNS VBP VBN IN IN NN CC VBP JJ .</POS>
+		<Lemma>the base and fastener be construct out of plastic and seem breakable .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But for my application it was fine .</Tokens>
+		<POS>CC IN PRP$ NN PRP VBD JJ .</POS>
+		<Lemma>but for my application it be fine .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For the money 4 out of 5 .</Tokens>
+		<POS>IN DT NN CD IN IN CD .</POS>
+		<Lemma>for the money 4 out of 5 .</Lemma>
+	</Sentence>
+</Document>

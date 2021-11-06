@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Tasted good like Palak Paneer .</Tokens>
+		<POS>VBN JJ IN NNP NNP .</POS>
+		<Lemma>taste good like Palak Paneer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , there was barely any texture .</Tokens>
+		<POS>RB , EX VBD RB DT NN .</POS>
+		<Lemma>however , there be barely any texture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The spinach was like green water - not thick or saucy , the chunks of cottage cheese almost non-existent - it was like feta , all crumpled up .</Tokens>
+		<POS>DT NN VBD IN JJ NN : RB JJ CC JJ , DT NNS IN NN NN RB JJ : PRP VBD IN NN , DT VBD RP .</POS>
+		<Lemma>the spinach be like green water - not thick or saucy , the chunk of cottage cheese almost non-existent - it be like feta , all crumple up .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When emptying the pouch out , you can see a layer of oil\/butter .</Tokens>
+		<POS>WRB VBG DT NN RP , PRP MD VB DT NN IN NN .</POS>
+		<Lemma>when empty the pouch out , you can see a layer of oil\/butter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>All in all , I was not satisfied with the appearance or texture as I was eating it , but hey , it tasted like Palak Paneer</Tokens>
+		<POS>DT IN DT , PRP VBD RB VBN IN DT NN CC NN IN PRP VBD VBG PRP , CC RB , PRP VBD IN NNP NNP</POS>
+		<Lemma>all in all , I be not satisfy with the appearance or texture as I be eat it , but hey , it taste like Palak Paneer</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Best for that price .</Tokens>
+		<POS>NN IN DT NN .</POS>
+		<Lemma>best for that price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fast , taking god pic , thats all i need i dont think you can get better one for 199</Tokens>
+		<POS>JJ , VBG NN NN , VBZ DT FW MD FW FW VBP PRP MD VB JJR CD IN CD</POS>
+		<Lemma>fast , take god pic , that all i need i dont think you can get better one for 199</Lemma>
+	</Sentence>
+</Document>

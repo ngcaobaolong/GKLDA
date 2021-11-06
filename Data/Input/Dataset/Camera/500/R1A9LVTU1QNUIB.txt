@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As I get older , things are certainly getting smaller .</Tokens>
+		<POS>IN PRP VBP JJR , NNS VBP RB VBG JJR .</POS>
+		<Lemma>as I get older , thing be certainly get smaller .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Sometimes that is a very good thing .</Tokens>
+		<POS>RB DT VBZ DT RB JJ NN .</POS>
+		<Lemma>sometimes that be a very good thing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>HOWEVER , sometimes it just is n't .</Tokens>
+		<POS>RB , RB PRP RB VBZ RB .</POS>
+		<Lemma>however , sometimes it just be not .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In my opinion while I like the smaller camera 's that we have now - sometimes they just try to stuff too much into a tiny little package .</Tokens>
+		<POS>IN PRP$ NN IN PRP VBP DT JJR NN POS IN PRP VBP RB : RB PRP RB VBP TO VB RB RB IN DT JJ JJ NN .</POS>
+		<Lemma>in my opinion while I like the smaller camera 's that we have now - sometimes they just try to stuff too much into a tiny little package .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In addition , when that happens people -LRB- some people of course -RRB- of a certain age may find that buttons are too small to see or positioned where someone with larger fingers ca n't get to easily .</Tokens>
+		<POS>IN NN , WRB DT VBZ NNS -LRB- DT NNS IN NN -RRB- IN DT JJ NN MD VB IN NNS VBP RB JJ TO VB CC VBN WRB NN IN JJR NNS MD RB VB TO RB .</POS>
+		<Lemma>in addition , when that happen people -lrb- some people of course -rrb- of a certain age may find that button be too small to see or position where someone with larger finger can not get to easily .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The touch screen is lovely unless you have longish nails or stiffness in your fingers and then this can be feature can be somewhat annoying .</Tokens>
+		<POS>DT NN NN VBZ JJ IN PRP VBP JJ NNS CC NN IN PRP$ NNS CC RB DT MD VB NN MD VB RB JJ .</POS>
+		<Lemma>the touch screen be lovely unless you have longish nail or stiffness in you finger and then this can be feature can be somewhat annoying .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>3 times out of ten I ended up with my finger in front of the picture and that just started to drive me crazy .</Tokens>
+		<POS>CD NNS IN IN CD PRP VBD RP IN PRP$ NN IN NN IN DT NN CC IN RB VBN TO VB PRP JJ .</POS>
+		<Lemma>3 time out of ten I end up with my finger in front of the picture and that just start to drive I crazy .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>These are just some of the problems that I am having with this very compact multi-use camera .</Tokens>
+		<POS>DT VBP RB DT IN DT NNS IN PRP VBP VBG IN DT RB JJ JJ NN .</POS>
+		<Lemma>these be just some of the problem that I be have with this very compact multi-use camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This camera certainly does it all ; it takes close ups , action shots , movies ... you name the action and Fujifilmn stuffed it into this tiny package .</Tokens>
+		<POS>DT NN RB VBZ PRP DT : PRP VBZ JJ NNS , NN NNS , NNS : PRP VBP DT NN CC NN VBD PRP IN DT JJ NN .</POS>
+		<Lemma>this camera certainly do it all ; it take close up , action shot , movie ... you name the action and fujifilmn stuff it into this tiny package .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It fits wonderfully into my smaller purses and takes perfectly adequate pictures , but I must admit ... unless you are a camera or gadget lover , I just ca n't see the point of spending so much money on a camera that does essentially what most people 's phones do nowadays .</Tokens>
+		<POS>PRP VBZ RB IN PRP$ JJR NNS CC VBZ RB JJ NNS , CC PRP MD VB : IN PRP VBP DT NN CC NN NN , PRP RB MD RB VB DT NN IN NN RB JJ NN IN DT NN WDT VBZ RB WP JJS NNS POS NNS VBP RB .</POS>
+		<Lemma>it fit wonderfully into my smaller purse and take perfectly adequate picture , but I must admit ... unless you be a camera or gadget lover , I just can not see the point of spending so much money on a camera that do essentially what most people 's phone do nowadays .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I travel with this charger all the time and I love the convince of it .</Tokens>
+		<POS>PRP VBP IN DT NN PDT DT NN CC PRP VBP DT VB IN PRP .</POS>
+		<Lemma>I travel with this charger all the time and I love the convince of it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I can charge both my iPod and Phone at once in the car or plugged into the wall .</Tokens>
+		<POS>PRP MD VB DT PRP$ NN CC NN IN RB IN DT NN CC VBD IN DT NN .</POS>
+		<Lemma>I can charge both my ipod and phone at once in the car or plug into the wall .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I really like how the car charger folds nicely into the device while carry or charging via wall outlet .</Tokens>
+		<POS>PRP RB IN WRB DT NN NN VBZ RB IN DT NN IN VB CC VBG IN NN NN .</POS>
+		<Lemma>I really like how the car charger fold nicely into the device while carry or charge via wall outlet .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only downside is the provided USB cables are NOT data cables , and they will only charge the device .</Tokens>
+		<POS>DT JJ NN VBZ DT VBN JJ NNS VBP NNP NNS NNS , CC PRP MD RB VB DT NN .</POS>
+		<Lemma>the only downside be the provide usb cable be NOT datum cable , and they will only charge the device .</Lemma>
+	</Sentence>
+</Document>

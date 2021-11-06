@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These cables are definitely this price for a reason .</Tokens>
+		<POS>DT NNS VBP RB DT NN IN DT NN .</POS>
+		<Lemma>these cable be definitely this price for a reason .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fits snugly in my phone 's USB port and allows me to use my dead phone but wo n't charge the phone .</Tokens>
+		<POS>VBZ RB IN PRP$ NN POS JJ NN CC VBZ PRP TO VB PRP$ JJ NN CC MD RB VB DT NN .</POS>
+		<Lemma>fit snugly in my phone 's usb port and allow I to use my dead phone but will not charge the phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Weird .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>weird .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When I sync it the connection to my computer is spotty at best .</Tokens>
+		<POS>WRB PRP NN PRP DT NN TO PRP$ NN VBZ JJ IN JJS .</POS>
+		<Lemma>when I sync it the connection to my computer be spotty at best .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I also experienced incomplete file transfers and error messages .</Tokens>
+		<POS>PRP RB VBD JJ NN NNS CC NN NNS .</POS>
+		<Lemma>I also experience incomplete file transfer and error message .</Lemma>
+	</Sentence>
+</Document>

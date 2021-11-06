@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Simply put we are picky coffee drinkers who enjoy a nice dark roast coffee in the morning to get us going .</Tokens>
+		<POS>RB VBN PRP VBP JJ NN NNS WP VBP DT JJ JJ NN NN IN DT NN TO VB PRP VBG .</POS>
+		<Lemma>simply put we be picky coffee drinker who enjoy a nice dark roast coffee in the morning to get we go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We take our coffee black , without any sweetness , so we know when the coffee is good & when it is n't worth drinking .</Tokens>
+		<POS>PRP VBP PRP$ NN JJ , IN DT NN , IN PRP VBP WRB DT NN VBZ JJ CC WRB PRP VBZ RB JJ NN .</POS>
+		<Lemma>we take we coffee black , without any sweetness , so we know when the coffee be good & when it be not worth drinking .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>While this coffee is pleasantly balanced , without unwanted bitterness or acidity , it does lack some depth .</Tokens>
+		<POS>IN DT NN VBZ RB JJ , IN JJ NN CC NN , PRP VBZ VB DT NN .</POS>
+		<Lemma>while this coffee be pleasantly balanced , without unwanted bitterness or acidity , it do lack some depth .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Cafe Altura 's Peruvian Dark Whole Bean coffee is not THE BEST coffee we have ever had , but it is a DARN GOOD cup !</Tokens>
+		<POS>NNP NNP POS JJ JJ JJ NNP NN VBZ RB DT JJS NN PRP VBP RB VBN , CC PRP VBZ DT RB JJ NN .</POS>
+		<Lemma>Cafe Altura 's peruvian dark whole Bean coffee be not the best coffee we have ever have , but it be a darn good cup !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We are happy to support , `` Organically Grown Under Shade Trees & Family Farm & Fair Trade Grown . ''</Tokens>
+		<POS>PRP VBP JJ TO VB , `` NNP NNP IN NNP NNP CC NNP NNP CC NNP NNP NNP . ''</POS>
+		<Lemma>we be happy to support , `` Organically Grown under Shade Trees & Family Farm & Fair Trade Grown . ''</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We like it very much , indeed , enough to enjoy Amazon 's subscribe & save feature .</Tokens>
+		<POS>PRP VBP PRP RB RB , RB , RB TO VB NNP POS VBP CC VBP NN .</POS>
+		<Lemma>we like it very much , indeed , enough to enjoy Amazon 's subscribe & save feature .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Cheers !</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Cheers !</Lemma>
+	</Sentence>
+</Document>

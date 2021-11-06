@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A micro USB cable for the droid is supposed to do the following : 1 .</Tokens>
+		<POS>DT JJ JJ NN IN DT NN VBZ VBN TO VB DT NN : CD .</POS>
+		<Lemma>a micro usb cable for the droid be suppose to do the following : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fit in with the charger and charge the phone .</Tokens>
+		<POS>NN IN IN DT NN CC VB DT NN .</POS>
+		<Lemma>fit in with the charger and charge the phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Transfer data between droid and PC .</Tokens>
+		<POS>NN NNS IN NN CC NN .</POS>
+		<Lemma>transfer datum between droid and pc .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This cable does both perfectly .</Tokens>
+		<POS>DT NN VBZ CC RB .</POS>
+		<Lemma>this cable do both perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>A steal at $ 3 .</Tokens>
+		<POS>DT VBP IN $ CD .</POS>
+		<Lemma>a steal at $ 3 .</Lemma>
+	</Sentence>
+</Document>

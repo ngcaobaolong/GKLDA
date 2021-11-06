@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Lose-fitting Chinese piece of junk .</Tokens>
+		<POS>JJ JJ NN IN NN .</POS>
+		<Lemma>lose-fitting chinese piece of junk .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Does n't work .</Tokens>
+		<POS>VBZ RB VB .</POS>
+		<Lemma>do not work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Although it only cost $ 3 -LRB- plus shipping -RRB- , it 's a waste of money and not worth my time to bother sending it back for a refund .</Tokens>
+		<POS>IN PRP RB VBD $ CD -LRB- CC NN -RRB- , PRP VBZ DT NN IN NN CC RB JJ PRP$ NN TO VB VBG PRP RP IN DT NN .</POS>
+		<Lemma>although it only cost $ 3 -lrb- plus shipping -rrb- , it be a waste of money and not worth my time to bother send it back for a refund .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Garbage .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Garbage .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>wish I could rate it zero stars .</Tokens>
+		<POS>NN PRP MD VB PRP CD NNS .</POS>
+		<Lemma>wish I could rate it zero star .</Lemma>
+	</Sentence>
+</Document>

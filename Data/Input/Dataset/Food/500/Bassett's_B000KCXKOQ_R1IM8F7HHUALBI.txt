@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered three of these for my boyfriend .</Tokens>
+		<POS>PRP VBD CD IN DT IN PRP$ NN .</POS>
+		<Lemma>I order three of these for my boyfriend .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Unfortunately , I failed to note the size of the packages when ordering .</Tokens>
+		<POS>RB , PRP VBD TO VB DT NN IN DT NNS WRB VBG .</POS>
+		<Lemma>unfortunately , I fail to note the size of the package when order .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Adding the cost of shipping , I ended up paying about eight dollars per bag , with each bag containing about one big handful of candy .</Tokens>
+		<POS>VBG DT NN IN NN , PRP VBD RP VBG IN CD NNS IN NN , IN DT NN VBG IN CD JJ NN IN NN .</POS>
+		<Lemma>add the cost of shipping , I end up pay about eight dollar per bag , with each bag contain about one big handful of candy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The quality of the candy was just fine , but wow , were they pricey !</Tokens>
+		<POS>DT NN IN DT NN VBD RB JJ , CC NN , VBD PRP JJ .</POS>
+		<Lemma>the quality of the candy be just fine , but wow , be they pricey !</Lemma>
+	</Sentence>
+</Document>

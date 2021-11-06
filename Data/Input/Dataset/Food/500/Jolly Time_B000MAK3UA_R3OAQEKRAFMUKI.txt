@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Amazon needs to upload a new picture of the box .</Tokens>
+		<POS>NNP VBZ TO NN DT JJ NN IN DT NN .</POS>
+		<Lemma>Amazon need to upload a new picture of the box .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What you 'll get is a box showing clearly that this is THREE WW PointsPlus points -LRB- not ONE -RRB- .</Tokens>
+		<POS>WP PRP MD VB VBZ DT NN VBG RB IN DT VBZ CD NN NN NNS -LRB- RB CD -RRB- .</POS>
+		<Lemma>what you 'll get be a box show clearly that this be three ww pointsplus point -lrb- not one -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is likely that the 1 point references the earlier WW point tracking system .</Tokens>
+		<POS>PRP VBZ JJ IN DT CD NN NNS DT JJR NN NN NN NN .</POS>
+		<Lemma>it be likely that the 1 point reference the earlier ww point tracking system .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>3 points is not outrageous for a decent popcorn like this , but if you were hoping for a 1-point wonder snack , this is n't it .</Tokens>
+		<POS>CD NNS VBZ RB JJ IN DT JJ NN IN DT , CC IN PRP VBD VBG IN DT JJ NN NN , DT VBZ RB PRP .</POS>
+		<Lemma>3 point be not outrageous for a decent popcorn like this , but if you be hope for a 1-point wonder snack , this be not it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It actually tastes pretty good , but I would n't go so far as to call it `` butter flavor '' as it could stand to use a bit more flavor , especially considering it is 3 points , not 1 .</Tokens>
+		<POS>PRP RB VBZ RB JJ , CC PRP MD RB VB RB RB IN TO VB PRP `` NN NN '' IN PRP MD VB TO VB DT NN RBR NN , RB VBG PRP VBZ CD NNS , RB CD .</POS>
+		<Lemma>it actually taste pretty good , but I would not go so far as to call it `` butter flavor '' as it could stand to use a bit more flavor , especially consider it be 3 point , not 1 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But I have to say it is better than a lot of the lower calorie micro-popcorn out there , it satisfies the `` popcorn '' \/ `` crunchy '' itch just fine .</Tokens>
+		<POS>CC PRP VBP TO VB PRP VBZ JJR IN DT NN IN DT JJR NN NN IN RB , PRP VBZ DT `` NN '' : `` JJ '' NN RB JJ .</POS>
+		<Lemma>but I have to say it be better than a lot of the lower calorie micro-popcorn out there , it satisfy the `` popcorn '' \/ `` crunchy '' itch just fine .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And , you do n't get in trouble like you do with the full bags ... so just be clear on what you 're getting here .</Tokens>
+		<POS>CC , PRP VBP RB VB IN NN IN PRP VBP IN DT JJ NNS : RB RB VB JJ IN WP PRP VBP VBG RB .</POS>
+		<Lemma>and , you do not get in trouble like you do with the full bag ... so just be clear on what you be get here .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I would order it again , I just wo n't be eating them as often as I originally expected given the higher points values .</Tokens>
+		<POS>PRP MD VB PRP RB , PRP RB MD RB VB VBG PRP RB RB IN PRP RB VBD VBN DT JJR NNS NNS .</POS>
+		<Lemma>I would order it again , I just will not be eat they as often as I originally expect give the higher point value .</Lemma>
+	</Sentence>
+</Document>

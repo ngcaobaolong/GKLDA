@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I went ahead and bought this camera because of the LOW price compared to other waterproof cameras and GOOD reviews .</Tokens>
+		<POS>PRP VBD RB CC VBD DT NN IN IN DT RB NN VBN TO JJ JJ NNS CC JJ NNS .</POS>
+		<Lemma>I go ahead and buy this camera because of the low price compare to other waterproof camera and good review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am totally satisfied with the purchase .</Tokens>
+		<POS>PRP VBP RB VBN IN DT NN .</POS>
+		<Lemma>I be totally satisfy with the purchase .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I tested the camera out in the kids bath tub water at first and all worked well .</Tokens>
+		<POS>PRP VBD DT NN RP IN DT NNS NN NN NN IN JJ CC DT VBD RB .</POS>
+		<Lemma>I test the camera out in the kid bath tub water at first and all work well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pix came out great .</Tokens>
+		<POS>NNP VBD RP JJ .</POS>
+		<Lemma>Pix come out great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>A couple of weeks later we took it to the Caribbean and used it as our main point and shoot camera and waterproof camera while snorkeling .</Tokens>
+		<POS>DT NN IN NNS RB PRP VBD PRP TO DT NNP CC VBD PRP IN PRP$ JJ NN CC VB NN CC JJ NN IN NN .</POS>
+		<Lemma>a couple of week later we take it to the Caribbean and use it as we main point and shoot camera and waterproof camera while snorkeling .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Some pictures came out better than others , I do n't know what caused the difference , possibly movement ?</Tokens>
+		<POS>DT NNS VBD RP JJR IN NNS , PRP VBP RB VB WP VBD DT NN , RB NN .</POS>
+		<Lemma>some picture come out better than other , I do not know what cause the difference , possibly movement ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>None of the pictures were ever horrible , like I had experienced with the throw away type of waterproof cameras .</Tokens>
+		<POS>NN IN DT NNS VBD RB JJ , IN PRP VBD VBN IN DT VBP RP NN IN JJ NNS .</POS>
+		<Lemma>none of the picture be ever horrible , like I have experience with the throw away type of waterproof camera .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>And I must add that some of the pictures were simply amazing !</Tokens>
+		<POS>CC PRP MD VB IN DT IN DT NNS VBD RB JJ .</POS>
+		<Lemma>and I must add that some of the picture be simply amazing !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The only negative thing I would note , is that it does not have a viewfinder -LRB- but I do n't think any\/many waterproof cameras have this -RRB- .</Tokens>
+		<POS>DT JJ JJ NN PRP MD VB , VBZ IN PRP VBZ RB VB DT NN -LRB- CC PRP VBP RB VB JJ JJ NNS VBP DT -RRB- .</POS>
+		<Lemma>the only negative thing I would note , be that it do not have a viewfinder -lrb- but I do not think any\/many waterproof camera have this -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So it was difficult to see what you were taking a picture of in the bright sun , BUT at this price and with such an overall Great camera , I would overlook that any day !</Tokens>
+		<POS>IN PRP VBD JJ TO VB WP PRP VBD VBG DT NN IN IN DT JJ NN , NNP IN DT NN CC IN PDT DT JJ JJ NN , PRP MD VB IN DT NN .</POS>
+		<Lemma>so it be difficult to see what you be take a picture of in the bright sun , BUT at this price and with such a overall great camera , I would overlook that any day !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you want to save money , but what a good reliable , compact , user friendly , cute , convenient camera ~ Buy This One !</Tokens>
+		<POS>IN PRP VBP TO VB NN , CC WP DT JJ JJ , JJ , NN JJ , JJ , JJ NN NN VB DT CD .</POS>
+		<Lemma>if you want to save money , but what a good reliable , compact , user friendly , cute , convenient camera ~ buy this one !</Lemma>
+	</Sentence>
+</Document>

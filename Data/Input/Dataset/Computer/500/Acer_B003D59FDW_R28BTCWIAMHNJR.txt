@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a no frills , nothing fancy monitor .</Tokens>
+		<POS>DT VBZ DT DT NNS , NN JJ NN .</POS>
+		<Lemma>this be a no frill , nothing fancy monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If you 're looking to buy a monitor to watch hd videos on , look elsewhere .</Tokens>
+		<POS>IN PRP VBP VBG TO VB DT NN TO VB NN NNS IN , VB RB .</POS>
+		<Lemma>if you be look to buy a monitor to watch hd video on , look elsewhere .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you want a 19 '' under $ 100 to read email and type up documents , this is for you !</Tokens>
+		<POS>IN PRP VBP DT CD '' IN $ CD TO VB NN CC NN IN NNS , DT VBZ IN PRP .</POS>
+		<Lemma>if you want a 19 '' under $ 100 to read email and type up document , this be for you !</Lemma>
+	</Sentence>
+</Document>

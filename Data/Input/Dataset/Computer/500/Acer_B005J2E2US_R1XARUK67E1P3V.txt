@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Refurbished PC delivered on time and in mint condition .</Tokens>
+		<POS>VBN NN VBN IN NN CC IN NN NN .</POS>
+		<Lemma>refurbish pc deliver on time and in mint condition .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'd advise upgrading the RAM to 4 GB to truly utilize the computer 's HD capability .</Tokens>
+		<POS>PRP MD VB VBG DT NNP TO CD NN TO RB VB DT NN POS NN NN .</POS>
+		<Lemma>I would advise upgrade the RAM to 4 gb to truly utilize the computer 's hd capability .</Lemma>
+	</Sentence>
+</Document>

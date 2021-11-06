@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great little camera in a small package .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN IN DT JJ NN .</POS>
+		<Lemma>this be a great little camera in a small package .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought this camera about a month ago and just got back from Florida , Walt Disney World , Universal and Discovery Cove .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN RB CC RB VBD RB IN NNP , NNP NNP NNP , NNP CC NNP NNP .</POS>
+		<Lemma>I buy this camera about a month ago and just get back from Florida , Walt Disney World , Universal and Discovery Cove .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It took great pictures of the fireworks , great night pictures , awesome day pictures of the park , the castle , family , the Disney characters .</Tokens>
+		<POS>PRP VBD JJ NNS IN DT NNS , JJ NN NNS , JJ NN NNS IN DT NN , DT NN , NN , DT NNP NNS .</POS>
+		<Lemma>it take great picture of the firework , great night picture , awesome day picture of the park , the castle , family , the Disney character .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I took this to Discovery cove and in the salt and non-salt water with me .</Tokens>
+		<POS>PRP VBD DT TO NNP NN CC IN DT NN CC JJ NN IN PRP .</POS>
+		<Lemma>I take this to Discovery cove and in the salt and non-salt water with I .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I took over 150 underwater pictures and movies and it worked great .</Tokens>
+		<POS>PRP VBD RP CD JJ NNS CC NNS CC PRP VBD JJ .</POS>
+		<Lemma>I take over 150 underwater picture and movie and it work great .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You MUST follow the directions , after in salt water , let it soak in non-salt water for a minute or so .</Tokens>
+		<POS>PRP VBP VB DT NNS , IN IN NN NN , VB PRP VB IN JJ NN IN DT NN CC RB .</POS>
+		<Lemma>you must follow the direction , after in salt water , let it soak in non-salt water for a minute or so .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Then dry off immediately .</Tokens>
+		<POS>RB JJ IN RB .</POS>
+		<Lemma>then dry off immediately .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It still works today great !</Tokens>
+		<POS>PRP RB VBZ NN JJ .</POS>
+		<Lemma>it still work today great !</Lemma>
+	</Sentence>
+</Document>

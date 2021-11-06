@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>IT 'S JUST A CRAP .</Tokens>
+		<POS>PRP VBZ RB DT NN .</POS>
+		<Lemma>it be just a crap .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A PRINTED STICKER WITH GOLDEN COLOR .</Tokens>
+		<POS>DT JJ NN IN JJ NN .</POS>
+		<Lemma>a printed sticker with golden color .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>IT 'S NOT WORKING WHICH EVER WAY U TRY TO USE IT ...</Tokens>
+		<POS>PRP VBZ NNP NNP WDT RB VBD NNP NNP TO NNP NNP :</POS>
+		<Lemma>it be NOT WORKING which ever way U TRY to USE IT ...</Lemma>
+	</Sentence>
+</Document>

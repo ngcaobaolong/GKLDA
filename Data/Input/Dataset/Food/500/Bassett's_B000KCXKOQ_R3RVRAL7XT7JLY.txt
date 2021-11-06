@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've munched on these most of my life and have n't regretted a single calorie .</Tokens>
+		<POS>PRP VBP VBN IN DT JJS IN PRP$ NN CC VBP RB VBN DT JJ NN .</POS>
+		<Lemma>I have munch on these most of my life and have not regret a single calorie .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If they are good enough for a Time Lord , they are certainly good enough for me .</Tokens>
+		<POS>IN PRP VBP JJ RB IN DT NNP NNP , PRP VBP RB JJ RB IN PRP .</POS>
+		<Lemma>if they be good enough for a Time Lord , they be certainly good enough for I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Everyone mentions these sweets along with the fourth Doctor Who , it 's a shame no one remembers the fact they are first offered by the second .</Tokens>
+		<POS>NN VBZ DT NNS IN IN DT JJ NNP WP , PRP VBZ DT NN DT NN VBZ DT NN PRP VBP JJ VBN IN DT JJ .</POS>
+		<Lemma>everyone mention these sweet along with the fourth Doctor who , it be a shame no one remember the fact they be first offer by the second .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A word of caution , do n't have too many at one time .</Tokens>
+		<POS>DT NN IN NN , VBP RB VB RB JJ IN CD NN .</POS>
+		<Lemma>a word of caution , do not have too many at one time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- They 're very filling . -RRB-</Tokens>
+		<POS>-LRB- PRP VBP RB VBG . -RRB-</POS>
+		<Lemma>-lrb- they be very fill . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>-LRB- If you like these why not try Bassett 's `` Liquorice Allsort 's '' the Doctors sweet of choice in `` The Sunmakers '' . -RRB-</Tokens>
+		<POS>-LRB- IN PRP IN DT WRB RB VB NNP POS `` NNP NNP POS '' DT NNS JJ IN NN IN `` DT NNPS '' . -RRB-</POS>
+		<Lemma>-lrb- if you like these why not try Bassett 's `` Liquorice Allsort 's '' the doctor sweet of choice in `` the Sunmakers '' . -rrb-</Lemma>
+	</Sentence>
+</Document>

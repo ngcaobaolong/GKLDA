@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I HAVE PURCHASED MANY INDIAN FOOD PRODUCTS ON AMAZON .</Tokens>
+		<POS>PRP VBP VBN JJ JJ NN NNP NNP NNP .</POS>
+		<Lemma>I have purchase many indian food PRODUCTS ON AMAZON .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I HAVE TRIED ALL AVAILABLE BRANDS AND I ATE INDIAN FOOD SINCE I WAS 10 YEARS OF AGE .</Tokens>
+		<POS>PRP VBP VBD NN JJ NNPS CC PRP VBD JJ NN IN PRP VBD CD NNS IN NN .</POS>
+		<Lemma>I have try all available BRANDS and I eat indian food since I be 10 year of age .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I JUST PREPARED KITCHENS OF INDIA PALEK PANEER .</Tokens>
+		<POS>PRP RB VBD NNPS IN NNP NNP NNP .</POS>
+		<Lemma>I just prepare KITCHENS of INDIA PALEK PANEER .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>THE AWFUL SMELL OF BURNING RUBBER WAS OVERWHELMING , UNFORTUNATELY I TRIED TO TASTE IT ANYWAY BECAUSE I COULD NOT BELIEVE THE TASTE COULD BE AS BAD AS THE SMELL .</Tokens>
+		<POS>DT JJ NN IN NNP NNP NNP NNP , NNP PRP VBD TO VB PRP RB IN PRP VBP RB VB DT NN VBD VB JJ NN JJ DT NN .</POS>
+		<Lemma>the awful smell of BURNING RUBBER WAS OVERWHELMING , UNFORTUNATELY I try to taste it anyway because I could not believe the taste could be as bad as the smell .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I STAND CORRECTED !!!</Tokens>
+		<POS>PRP VBP VBN IN</POS>
+		<Lemma>I stand correct !!!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>THE CONSISTENCY WAS THAT OF HOT GREEN DISHWATER WITH FOUR SMALL CUBES OF WHAT WAS SUPPOSE TO BE COTTAGE CHEESE .</Tokens>
+		<POS>DT NNP NNP WDT IN NNP NNP NNP IN CD NNP NNPS IN WDT NNP NNP TO VB NNP NNP .</POS>
+		<Lemma>the CONSISTENCY WAS that of HOT GREEN DISHWATER with four SMALL CUBES of what WAS SUPPOSE to be COTTAGE CHEESE .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>THE CHEESE WAS AS WATERY AS THE GREEN DISHWATER .</Tokens>
+		<POS>DT NNP NNP NNP NNP NNP DT NNP NNP .</POS>
+		<Lemma>the CHEESE WAS AS WATERY AS the GREEN DISHWATER .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I POURED THE REST DOWN THE GARBAGE DISPOSAL ` HOWEVER , I AM SO CONCERNED ABOUT THE SHAM THAT THIS IS FOOD .</Tokens>
+		<POS>PRP VBD DT NNP NNP DT NN NN `` NNP , PRP VBP JJ JJ IN DT NNP WDT VBZ VBZ NN .</POS>
+		<Lemma>I pour the REST DOWN the garbage disposal ` HOWEVER , I be so concerned about the SHAM that this be food .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>FOR MY SAKE AND ALL OTHERS I WANT THIS VILE CHEMICAL CONCOCTION TO BE TESTED BY THE LOCAL HEALTH AUTHORITIES AND WARN OTHERS AT LEAST IN MY STATE TO AVOID HOUSE OF INDIA .</Tokens>
+		<POS>IN NNP NNP CC NN NNS PRP VBP NNS JJ NNP NNP TO VB VBN IN DT JJ NN NNS CC NNS NNS IN NNP IN NNP NNP TO VB NNP IN NNP .</POS>
+		<Lemma>for MY SAKE and all other I want this vile CHEMICAL CONCOCTION to be test by the local health authority and warn other at LEAST in MY STATE to avoid HOUSE of INDIA .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I HAD SOME OF THEIR OTHER PRODUCT THAT WAS PASSABLE ; HOWEVER , SINCE AMAZON CARRIES AT LEAST FOUR OTHER GOOD BRANDS , I CAN NOT IMAGINE WHY ANYONE WOULD BUY THIS POISON .</Tokens>
+		<POS>PRP VBD NNP IN NNP NNP NNP WDT VBD NNP : NNP , NNP NNP VBZ IN NNP CD NNP NNP NNPS , PRP VBP RB VB WRB NN VBD NN NNS NN .</POS>
+		<Lemma>I have SOME of THEIR OTHER PRODUCT that be PASSABLE ; HOWEVER , SINCE AMAZON carry at LEAST four OTHER GOOD BRANDS , I can not imagine why anyone would buy this poison .</Lemma>
+	</Sentence>
+</Document>

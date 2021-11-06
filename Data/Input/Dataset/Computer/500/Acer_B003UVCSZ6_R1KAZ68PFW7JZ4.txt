@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>In this case , I was just looking for a low cost LED monitor for my second Desktop .</Tokens>
+		<POS>IN DT NN , PRP VBD RB VBG IN DT JJ NN VBD NN IN PRP$ JJ NNP .</POS>
+		<Lemma>in this case , I be just look for a low cost lead monitor for my second Desktop .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Pros : \* Worked perfectly out of the box .</Tokens>
+		<POS>NNS : SYM VBD RB IN IN DT NN .</POS>
+		<Lemma>pro : \* work perfectly out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No adjustment needed .</Tokens>
+		<POS>DT NN VBN .</POS>
+		<Lemma>no adjustment need .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>\* The price is about as low as you can go .</Tokens>
+		<POS>SYM DT NN VBZ RB RB JJ IN PRP MD VB .</POS>
+		<Lemma>\* the price be about as low as you can go .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>\* It performs very nicely .</Tokens>
+		<POS>SYM PRP VBZ RB RB .</POS>
+		<Lemma>\* it perform very nicely .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>\* If you do n't expect too much from a $ 100.00 monitor , you 'll be fine .</Tokens>
+		<POS>SYM IN PRP VBP RB VB RB RB IN DT $ CD NN , PRP MD VB JJ .</POS>
+		<Lemma>\* if you do not expect too much from a $ 100.00 monitor , you 'll be fine .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Cons : \* None .</Tokens>
+		<POS>NNS : SYM NN .</POS>
+		<Lemma>con : \* none .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Anything I could gripe about , is not even an issue in this price\/size range .</Tokens>
+		<POS>NN PRP MD VB RB , VBZ RB RB DT NN IN DT JJ NN .</POS>
+		<Lemma>anything I could gripe about , be not even a issue in this price\/size range .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I would have paid more if I wanted more .</Tokens>
+		<POS>PRP MD VB VBN RBR IN PRP VBD RBR .</POS>
+		<Lemma>I would have pay more if I want more .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Bottom line : If all you need is a servicable , low cost , and nice to look at screen , it 's all here .</Tokens>
+		<POS>NN NN : IN DT PRP VBP VBZ DT JJ , JJ NN , CC JJ TO VB IN NN , PRP VBZ DT RB .</POS>
+		<Lemma>bottom line : if all you need be a servicable , low cost , and nice to look at screen , it be all here .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Just do n't expect much more .</Tokens>
+		<POS>RB VBP RB VB RB RBR .</POS>
+		<Lemma>just do not expect much more .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>the phillips qvida certainly looks like a nice camera .</Tokens>
+		<POS>DT NN NN RB VBZ IN DT JJ NN .</POS>
+		<Lemma>the phillip qvida certainly look like a nice camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>it 's light , about the size of iphone , has a handsome design and a fancy flip-out screen .</Tokens>
+		<POS>PRP VBZ JJ , IN DT NN IN NN , VBZ DT JJ NN CC DT JJ JJ NN .</POS>
+		<Lemma>it be light , about the size of iphone , have a handsome design and a fancy flip-out screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>unfortunately , that 's about all it has going for it .</Tokens>
+		<POS>RB , DT VBZ IN DT PRP VBZ VBG IN PRP .</POS>
+		<Lemma>unfortunately , that be about all it have go for it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>sure , it 's functional and takes a decent picture , you really are n't getting much for your $ 180 .</Tokens>
+		<POS>RB , PRP VBZ JJ CC VBZ DT JJ NN , PRP RB VBP RB VBG JJ IN PRP$ $ CD .</POS>
+		<Lemma>sure , it be functional and take a decent picture , you really be not get much for you $ 180 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>first of all , as others have noted , you 're going to have to spring for a microSD card .</Tokens>
+		<POS>RB IN DT , IN NNS VBP VBN , PRP VBP VBG TO VB TO NN IN DT NN NN .</POS>
+		<Lemma>first of all , as other have note , you be go to have to spring for a microsd card .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>with the camera 's on board memory you 're only going to get 14 seconds of video or 12 pictures .</Tokens>
+		<POS>IN DT NN POS IN NN NN PRP VBP RB VBG TO VB CD NNS IN NN CC CD NNS .</POS>
+		<Lemma>with the camera 's on board memory you be only go to get 14 seconds of video or 12 picture .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>that 's simply unacceptable in this day and age .</Tokens>
+		<POS>DT VBZ RB JJ IN DT NN CC NN .</POS>
+		<Lemma>that be simply unacceptable in this day and age .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>secondly , you get very few features .</Tokens>
+		<POS>RB , PRP VBP RB JJ NNS .</POS>
+		<Lemma>secondly , you get very few feature .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>there are only a handful of filters - b\/w , 70 's film , sepia , and color filter -LRB- which is basically enhanced color -RRB- .</Tokens>
+		<POS>EX VBP RB DT NN IN NNS : NN , CD POS NN , NN , CC NN NN -LRB- WDT VBZ RB VBN NN -RRB- .</POS>
+		<Lemma>there be only a handful of filter - b\/w , 70 's film , sepia , and color filter -lrb- which be basically enhance color -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>and that 's pretty much it .</Tokens>
+		<POS>CC DT VBZ RB RB PRP .</POS>
+		<Lemma>and that be pretty much it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>oh , it does come with a lanyard and a fabric\/velvety carrying case .</Tokens>
+		<POS>UH , PRP VBZ VB IN DT NN CC DT NN VBG NN .</POS>
+		<Lemma>oh , it do come with a lanyard and a fabric\/velvety carry case .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>i decided to send this to my 6 year old nephew and 3 year old niece since they like to take pictures .</Tokens>
+		<POS>LS VBD TO VB DT TO PRP$ CD NN JJ NN CC CD NN JJ NN IN PRP VBP TO VB NNS .</POS>
+		<Lemma>i decide to send this to my 6 year old nephew and 3 year old niece since they like to take picture .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>they can get some practice before advancing to something nicer .</Tokens>
+		<POS>PRP MD VB DT NN IN VBG TO NN JJR .</POS>
+		<Lemma>they can get some practice before advance to something nicer .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera is excellent for someone who does n't want to change lenses or pack heavy photographic equipment .</Tokens>
+		<POS>DT NN VBZ JJ IN NN WP VBZ RB VB TO VB NNS CC NN JJ JJ NN .</POS>
+		<Lemma>the camera be excellent for someone who do not want to change lens or pack heavy photographic equipment .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The image quality -LRB- IQ -RRB- is excellent considering the small CMOS .</Tokens>
+		<POS>DT NN NN -LRB- NNP -RRB- VBZ JJ VBG DT JJ NNS .</POS>
+		<Lemma>the image quality -lrb- IQ -rrb- be excellent consider the small cmo .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Having a single relatively fast lens that will go from very wide angle to 800 + mm of focal length is a real benefit on trips where limited luggage weight is a huge advantage .</Tokens>
+		<POS>VBG DT JJ RB JJ NN WDT MD VB IN RB JJ NN TO CD CC NN IN JJ NN VBZ DT JJ NN IN NNS WRB JJ NN NN VBZ DT JJ NN .</POS>
+		<Lemma>have a single relatively fast lens that will go from very wide angle to 800 + mm of focal length be a real benefit on trip where limited luggage weight be a huge advantage .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The improvements from the original camera -LRB- SX 10 -RRB- through the 20,30 and now the 40 make the camera an outstanding tool in a relatively small package .</Tokens>
+		<POS>DT NNS IN DT JJ NN -LRB- NN CD -RRB- IN DT CD CC RB DT CD VBP DT NN DT JJ NN IN DT RB JJ NN .</POS>
+		<Lemma>the improvement from the original camera -lrb- sx 10 -rrb- through the 20,30 and now the 40 make the camera a outstanding tool in a relatively small package .</Lemma>
+	</Sentence>
+</Document>

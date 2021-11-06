@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I upgraded from a Canon EOS XTi .</Tokens>
+		<POS>PRP VBD IN DT NNP NNP NNP .</POS>
+		<Lemma>I upgrade from a Canon EOS XTi .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The price made me hesitate as I am an artist , not a professional photographer , but winning a design prize helped me decide .</Tokens>
+		<POS>DT NN VBD PRP VB IN PRP VBP DT NN , RB DT JJ NNP , CC VBG DT NN NN VBD PRP VB .</POS>
+		<Lemma>the price make I hesitate as I be a artist , not a professional photographer , but win a design prize help I decide .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is heavier , but I have been making more video and use a sturdy tripod .</Tokens>
+		<POS>PRP VBZ JJR , CC PRP VBP VBN VBG RBR JJ CC VB DT JJ NN .</POS>
+		<Lemma>it be heavier , but I have be make more video and use a sturdy tripod .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One thing you ca n't do is change the focus while shooting video , but it is primarily a still camera .</Tokens>
+		<POS>CD NN PRP MD RB VB VBZ VB DT NN IN VBG NN , CC PRP VBZ RB DT RB NN .</POS>
+		<Lemma>one thing you can not do be change the focus while shoot video , but it be primarily a still camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I like the way the LCD screen pivots so you can angle it to see what you are shooting in live mode .</Tokens>
+		<POS>PRP VBP DT NN DT NNS NN VBZ RB PRP MD NN PRP TO VB WP PRP VBP VBG IN JJ NN .</POS>
+		<Lemma>I like the way the lcd screen pivot so you can angle it to see what you be shoot in live mode .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My lenses work with this camera with no problem .</Tokens>
+		<POS>PRP$ NNS VBP IN DT NN IN DT NN .</POS>
+		<Lemma>my lens work with this camera with no problem .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The shutter release is much smoother and faster than the XTi and taking multiple shots for some nature shots of osprey was smooth and fast .</Tokens>
+		<POS>DT NN NN VBZ JJ JJR CC JJR IN DT NN CC VBG JJ NNS IN DT NN NNS IN NN VBD JJ CC JJ .</POS>
+		<Lemma>the shutter release be much smoother and faster than the xtus and take multiple shot for some nature shot of osprey be smooth and fast .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I am happy with my purchase .</Tokens>
+		<POS>PRP VBP JJ IN PRP$ NN .</POS>
+		<Lemma>I be happy with my purchase .</Lemma>
+	</Sentence>
+</Document>

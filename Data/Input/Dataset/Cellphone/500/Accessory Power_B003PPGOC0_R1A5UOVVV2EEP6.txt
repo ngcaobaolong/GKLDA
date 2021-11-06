@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>SINCE I HAVE NOT BUY THE PRODUCT DISCONTINUED USE IS WONDERFUL BECAUSE NO INTERFERENCE AND I CAN ATTEND THE CALL WITHOUT RISK .</Tokens>
+		<POS>IN PRP VBP RB VB DT NNP NNP NNP VBZ NNP NNP NN NN CC PRP VBP VB DT NN IN NN .</POS>
+		<Lemma>since I have not buy the PRODUCT DISCONTINUED USE be WONDERFUL BECAUSE no interference and I can attend the call without risk .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I RECOMMEND IT 100 %</Tokens>
+		<POS>PRP VBP PRP CD NN</POS>
+		<Lemma>I recommend it 100 %</Lemma>
+	</Sentence>
+</Document>

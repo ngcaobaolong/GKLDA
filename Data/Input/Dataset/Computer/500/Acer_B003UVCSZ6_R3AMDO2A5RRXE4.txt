@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are a Mac user , I strongly urge you not to purchase this or any other Acer monitor .</Tokens>
+		<POS>IN PRP VBP DT NNP NN , PRP RB VBP PRP RB TO VB DT CC DT JJ NNP NN .</POS>
+		<Lemma>if you be a Mac user , I strongly urge you not to purchase this or any other Acer monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The company has not created a driver update for OS X Lion , and there is no indication that they plan to do so .</Tokens>
+		<POS>DT NN VBZ RB VBN DT NN VB IN NN NN NNP , CC EX VBZ DT NN IN PRP VBP TO VB RB .</POS>
+		<Lemma>the company have not create a driver update for os x Lion , and there be no indication that they plan to do so .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I purchased the monitor four months ago , and it provided support for Snow Leopard .</Tokens>
+		<POS>PRP VBD DT NN CD NNS RB , CC PRP VBD NN IN NNP NNP .</POS>
+		<Lemma>I purchase the monitor four month ago , and it provide support for Snow Leopard .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But the company wo n't do what is probably a simple upgrade for Lion .</Tokens>
+		<POS>CC DT NN MD RB VB WP VBZ RB DT JJ NN IN NNP .</POS>
+		<Lemma>but the company will not do what be probably a simple upgrade for Lion .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Plus , the support help from Acer involves nearly an hour of imputing serial numbers and talking to people who ca n't understand you .</Tokens>
+		<POS>NN , DT NN NN IN NNP VBZ RB DT NN IN VBG JJ NNS CC VBG TO NNS WP MD RB VB PRP .</POS>
+		<Lemma>plus , the support help from Acer involve nearly a hour of impute serial number and talk to people who can not understand you .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Do n't waist your money with this company .</Tokens>
+		<POS>VBP RB VB PRP$ NN IN DT NN .</POS>
+		<Lemma>do not waist you money with this company .</Lemma>
+	</Sentence>
+</Document>

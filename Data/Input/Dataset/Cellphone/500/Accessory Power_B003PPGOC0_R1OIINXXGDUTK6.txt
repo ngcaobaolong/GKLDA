@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Callers can tell I am not on a regular phone but do n't report problems hearing me .</Tokens>
+		<POS>NNS MD VB PRP VBP RB IN DT JJ NN CC VBP RB VB NNS VBG PRP .</POS>
+		<Lemma>caller can tell I be not on a regular phone but do not report problem hear I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I can hear them great .</Tokens>
+		<POS>PRP MD VB PRP JJ .</POS>
+		<Lemma>I can hear they great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Must hit an extra button to route a call through the FlexSmart , as opposed to through the handset or speakerphone , and I also have to turn up the volume for calls .</Tokens>
+		<POS>MD VB DT JJ NN TO NN DT NN IN DT NNP , IN VBN TO IN DT NN CC NN , CC PRP RB VBP TO VB RP DT NN IN NNS .</POS>
+		<Lemma>must hit a extra button to route a call through the FlexSmart , as oppose to through the handset or speakerphone , and I also have to turn up the volume for call .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But otherwise it could n't be easier to set up and use .</Tokens>
+		<POS>CC RB PRP MD RB VB JJR TO VB RP CC NN .</POS>
+		<Lemma>but otherwise it could not be easier to set up and use .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great value too , since transmitters that only play your music cost almost the same , while lacking the phone and charging capability .</Tokens>
+		<POS>JJ NN RB , IN NNS WDT RB VBP PRP$ NN NN RB DT JJ , IN VBG DT NN CC VBG NN .</POS>
+		<Lemma>great value too , since transmitter that only play you music cost almost the same , while lack the phone and charge capability .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Very pleased .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very pleased .</Lemma>
+	</Sentence>
+</Document>

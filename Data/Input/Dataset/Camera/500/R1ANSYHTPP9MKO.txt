@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We purchased this camera to replace vs. repair our beloved + \/ - 3 year-old Panasonic Lumix .</Tokens>
+		<POS>PRP VBD DT NN TO VB CC VB PRP$ JJ CC : : CD JJ NNP NNP .</POS>
+		<Lemma>we purchase this camera to replace vs. repair we beloved + \/ - 3 year-old Panasonic Lumix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Ultimately , we returned this Sony because of poor picture quality ; specifically , the photos were distorted -LRB- think ` house of mirrors ' at the carnival -RRB- .</Tokens>
+		<POS>RB , PRP VBD DT NNP IN IN JJ NN NN : RB , DT NNS VBD VBN -LRB- VB `` NN IN VBZ '' IN DT NN -RRB- .</POS>
+		<Lemma>ultimately , we return this Sony because of poor picture quality ; specifically , the photo be distort -lrb- think ` house of mirror ' at the carnival -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also , the flash ` pops ' up just about where our right index finger tends to hold the camera to get a steady shot , which is frustrating when trying to catch those candid shots .</Tokens>
+		<POS>RB , DT NN `` VBZ '' RP RB IN WRB PRP$ JJ NN NN VBZ TO VB DT NN TO VB DT JJ NN , WDT VBZ VBG WRB VBG TO VB DT JJ NNS .</POS>
+		<Lemma>also , the flash ` pop ' up just about where we right index finger tend to hold the camera to get a steady shot , which be frustrate when try to catch those candid shot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The pros of the camera are : The panoramic function is pretty amazing ; ability to take rapid pictures was also better than most .</Tokens>
+		<POS>DT NNS IN DT NN VBP : DT JJ NN VBZ RB JJ : NN TO VB JJ NNS VBD RB JJR IN JJS .</POS>
+		<Lemma>the pro of the camera be : the panoramic function be pretty amazing ; ability to take rapid picture be also better than most .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In the end , we opted to repair our Pansonic Lumix -LRB- well , actually , we received a refurbished model -RRB- for $ 180 , and are very pleased with our decision .</Tokens>
+		<POS>IN DT NN , PRP VBD TO VB PRP$ NNP NNP -LRB- RB , RB , PRP VBD DT VBN NN -RRB- IN $ CD , CC VBP RB JJ IN PRP$ NN .</POS>
+		<Lemma>in the end , we opt to repair we Pansonic Lumix -lrb- well , actually , we receive a refurbish model -rrb- for $ 180 , and be very pleased with we decision .</Lemma>
+	</Sentence>
+</Document>

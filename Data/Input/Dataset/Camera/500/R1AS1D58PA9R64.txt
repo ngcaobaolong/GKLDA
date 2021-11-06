@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wish the system was totally wireless and water proof , since it is set up outdoors .</Tokens>
+		<POS>NNP DT NN VBD RB JJ CC NN NN , IN PRP VBZ VBN RP NNS .</POS>
+		<Lemma>Wish the system be totally wireless and water proof , since it be set up outdoors .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The small software disc gets stuck in the computer and I ca n't remove it .</Tokens>
+		<POS>DT JJ NN NN VBZ VBN IN DT NN CC PRP MD RB VB PRP .</POS>
+		<Lemma>the small software disc get stick in the computer and I can not remove it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Now I have to take it to the Apple store to have them remove the stuck disc from my laptop .</Tokens>
+		<POS>RB PRP VBP TO VB PRP TO DT NNP NN TO VB PRP VB DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>now I have to take it to the Apple store to have they remove the stuck disc from my laptop .</Lemma>
+	</Sentence>
+</Document>

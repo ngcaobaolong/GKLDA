@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are the best smoked almonds I have ever had .</Tokens>
+		<POS>DT VBP DT JJS VBN NNS PRP VBP RB VBN .</POS>
+		<Lemma>these be the best smoke almond I have ever have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I remember getting these as a child on the airplane as a snack and have been searching for them for years .</Tokens>
+		<POS>PRP VBP VBG DT IN DT NN IN DT NN IN DT NN CC VBP VBN VBG IN PRP IN NNS .</POS>
+		<Lemma>I remember get these as a child on the airplane as a snack and have be search for they for year .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Finally found them and I will NEVER eat any other smoked almond .</Tokens>
+		<POS>RB VBN PRP CC PRP MD RB VB DT JJ JJ NN .</POS>
+		<Lemma>finally find they and I will never eat any other smoked almond .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Blue diamond almonds are forever !!!</Tokens>
+		<POS>NNP NN NNS VBP RB RB</POS>
+		<Lemma>Blue diamond almond be forever !!!</Lemma>
+	</Sentence>
+</Document>

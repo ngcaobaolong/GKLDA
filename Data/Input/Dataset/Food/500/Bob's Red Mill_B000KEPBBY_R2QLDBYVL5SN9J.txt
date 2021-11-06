@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just got this from Amazon today and decided to make it for dinner .</Tokens>
+		<POS>PRP RB VBD DT IN NNP NN CC VBD TO VB PRP IN NN .</POS>
+		<Lemma>I just get this from Amazon today and decide to make it for dinner .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This mix makes delicious soup .</Tokens>
+		<POS>DT NN VBZ JJ NN .</POS>
+		<Lemma>this mix make delicious soup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is unflavored , so you should start up a soup base of some sort - I used 3 strips of bacon , a carrot and a celery stock .</Tokens>
+		<POS>PRP VBZ JJ , IN PRP MD VB RP DT NN NN IN DT NN : PRP VBD CD NNS IN NN , DT NN CC DT JJ NN .</POS>
+		<Lemma>it be unflavored , so you should start up a soup base of some sort - I use 3 strip of bacon , a carrot and a celery stock .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>2 cups of the mix made a lot of soup - we had 2 generous portions tonight and there are at least 4 more portions leftover .</Tokens>
+		<POS>CD NNS IN DT NN VBD DT NN IN NN : PRP VBD CD JJ NNS NN CC EX VBP IN JJS CD JJR NNS JJR .</POS>
+		<Lemma>2 cup of the mix make a lot of soup - we have 2 generous portion tonight and there be at least 4 more portion leftover .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Way cheaper than any kind of takeout , and much healthier .</Tokens>
+		<POS>NN JJR IN DT NN IN NN , CC JJ JJR .</POS>
+		<Lemma>way cheaper than any kind of takeout , and much healthier .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Also minimal effort - it takes literally 10 minutes to put everything together , then it just simmers and is ready a couple of hours later .</Tokens>
+		<POS>RB JJ NN : PRP VBZ RB CD NNS TO VB NN RB , RB PRP RB VBZ CC VBZ JJ DT NN IN NNS RB .</POS>
+		<Lemma>also minimal effort - it take literally 10 minute to put everything together , then it just simmer and be ready a couple of hour later .</Lemma>
+	</Sentence>
+</Document>

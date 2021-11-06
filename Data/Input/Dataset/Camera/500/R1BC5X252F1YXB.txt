@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product impressed me so much that I felt compelled to share my experience .</Tokens>
+		<POS>DT NN VBD PRP RB RB IN PRP VBD VBN TO VB PRP$ NN .</POS>
+		<Lemma>this product impress I so much that I feel compel to share my experience .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If you know a little about setting up static IPs and know how to forward ports on your router , this camera will be a breeze for you to setup .</Tokens>
+		<POS>IN PRP VBP DT JJ IN VBG RP JJ NNS CC VB WRB TO RB NNS IN PRP$ NN , DT NN MD VB DT NN IN PRP TO NN .</POS>
+		<Lemma>if you know a little about set up static ip and know how to forward port on you router , this camera will be a breeze for you to setup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I just love this thing .</Tokens>
+		<POS>PRP RB VBP DT NN .</POS>
+		<Lemma>I just love this thing .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'll probably end up buying a couple more .</Tokens>
+		<POS>PRP MD RB VB RP VBG DT NN RBR .</POS>
+		<Lemma>I 'll probably end up buy a couple more .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only fault I could see is the power cable .</Tokens>
+		<POS>DT JJ NN PRP MD VB VBZ DT NN NN .</POS>
+		<Lemma>the only fault I could see be the power cable .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's so short and they do n't sell extensions for it .</Tokens>
+		<POS>PRP VBZ RB JJ CC PRP VBP RB VB NNS IN PRP .</POS>
+		<Lemma>it be so short and they do not sell extension for it .</Lemma>
+	</Sentence>
+</Document>

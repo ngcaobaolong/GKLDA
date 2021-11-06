@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is wonderful .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this popcorn be wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love the mini bags , they are perfect for one person .</Tokens>
+		<POS>PRP VBP DT NNS NNS , PRP VBP JJ IN CD NN .</POS>
+		<Lemma>I love the minus bag , they be perfect for one person .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They give you just enough to satisfy any cravings you might be having .</Tokens>
+		<POS>PRP VBP PRP RB RB TO VB DT NNS PRP MD VB VBG .</POS>
+		<Lemma>they give you just enough to satisfy any craving you might be have .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>These are perfect if you are dieting .</Tokens>
+		<POS>DT VBP JJ IN PRP VBP NN .</POS>
+		<Lemma>these be perfect if you be dieting .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The flavor is really good too .</Tokens>
+		<POS>DT NN VBZ RB JJ RB .</POS>
+		<Lemma>the flavor be really good too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I keep a few bags stashed in my drawer at work in case of emergency .</Tokens>
+		<POS>PRP VBP DT JJ NNS VBD IN PRP$ NN IN NN IN NN IN NN .</POS>
+		<Lemma>I keep a few bag stash in my drawer at work in case of emergency .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>: -RRB- This was a super deal , I bought the ones that came 10x to a box , so the whole case had 60 bags !</Tokens>
+		<POS>: -RRB- DT VBD DT JJ NN , PRP VBD DT NNS WDT VBD CD TO DT NN , IN DT JJ NN VBD CD NNS .</POS>
+		<Lemma>: -rrb- this be a super deal , I buy the one that come 10x to a box , so the whole case have 60 bag !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The expiration date was one year out , so plenty of time to eat these before they expire .</Tokens>
+		<POS>DT NN NN VBD CD NN RB , RB RB IN NN TO VB DT IN PRP VBP .</POS>
+		<Lemma>the expiration date be one year out , so plenty of time to eat these before they expire .</Lemma>
+	</Sentence>
+</Document>

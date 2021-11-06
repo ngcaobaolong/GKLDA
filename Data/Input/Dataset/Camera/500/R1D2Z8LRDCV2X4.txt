@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love Amazon , not just for the buying power but because of the reviews .</Tokens>
+		<POS>PRP VBP NNP , RB RB IN DT NN NN CC IN IN DT NNS .</POS>
+		<Lemma>I love Amazon , not just for the buying power but because of the review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Anytime I am going to buy something , I always go to Amazon and see what people here are saying about the product .</Tokens>
+		<POS>RB PRP VBP VBG TO VB NN , PRP RB VBP TO NNP CC VB WP NNS RB VBP VBG IN DT NN .</POS>
+		<Lemma>anytime I be go to buy something , I always go to Amazon and see what people here be say about the product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did not buy this camera at Amazon but I did buy it because of the reviews I read here .</Tokens>
+		<POS>PRP VBD RB VB DT NN IN NNP CC PRP VBD VB PRP IN IN DT NNS PRP VBP RB .</POS>
+		<Lemma>I do not buy this camera at Amazon but I do buy it because of the review I read here .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've been researching my next camera for about 7-8 months now and I was ready to buy the Nikon 8100 and saw there was a newer version , this one .</Tokens>
+		<POS>PRP VBP VBN VBG PRP$ JJ NN IN IN CD NNS RB CC PRP VBD JJ TO VB DT NNP CD CC VBD EX VBD DT JJR NN , DT CD .</POS>
+		<Lemma>I have be research my next camera for about 7-8 month now and I be ready to buy the Nikon 8100 and see there be a newer version , this one .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I read all the reviews so I knew about the flash sticking out -LRB- so no surprise there -RRB- .</Tokens>
+		<POS>PRP VBP PDT DT NNS IN PRP VBD IN DT NN VBG RP -LRB- IN DT NN RB -RRB- .</POS>
+		<Lemma>I read all the review so I know about the flash stick out -lrb- so no surprise there -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have another Nikon I 've had for about 5 years and kind of wanted to stay with the same brand -LRB- although I was ready to get a different one if I could n't find the right Nikon -RRB- .</Tokens>
+		<POS>PRP VBP DT NNP PRP VBP VBN IN IN CD NNS CC NN IN VBD TO VB IN DT JJ NN -LRB- IN PRP VBD JJ TO VB DT JJ CD IN PRP MD RB VB DT JJ NNP -RRB- .</POS>
+		<Lemma>I have another Nikon I have have for about 5 year and kind of want to stay with the same brand -lrb- although I be ready to get a different one if I could not find the right Nikon -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I got this one on sale and have had it for a few days and have been very pleased .</Tokens>
+		<POS>PRP VBD DT CD IN NN CC VB VBD PRP IN DT JJ NNS CC VBP VBN RB JJ .</POS>
+		<Lemma>I get this one on sale and have have it for a few day and have be very pleased .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The night time photos are great .</Tokens>
+		<POS>DT NN NN NNS VBP JJ .</POS>
+		<Lemma>the night time photo be great .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 've done some panaramic shots that I love .</Tokens>
+		<POS>PRP VBP VBN DT JJ NNS IN PRP VBP .</POS>
+		<Lemma>I have do some panaramic shot that I love .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I did a bunch of shots of my softball team last night .</Tokens>
+		<POS>PRP VBD DT NN IN NNS IN PRP$ NN NN JJ NN .</POS>
+		<Lemma>I do a bunch of shot of my softball team last night .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Took some video too .</Tokens>
+		<POS>VBD DT NN RB .</POS>
+		<Lemma>take some video too .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Lots of pet shots so far .</Tokens>
+		<POS>NNS IN NN NNS RB RB .</POS>
+		<Lemma>lot of pet shot so far .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Everything has been great .</Tokens>
+		<POS>NN VBZ VBN JJ .</POS>
+		<Lemma>everything have be great .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I recommend reading the manual when buying a camera like this .</Tokens>
+		<POS>PRP VBP VBG DT NN WRB VBG DT NN IN DT .</POS>
+		<Lemma>I recommend read the manual when buy a camera like this .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I read it and am referring back to it a lot .</Tokens>
+		<POS>PRP VBP PRP CC VBP VBG RB TO PRP DT NN .</POS>
+		<Lemma>I read it and be refer back to it a lot .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I also know a lot about the camera already from already having a Nikon , so that helps .</Tokens>
+		<POS>PRP RB VBP DT NN IN DT NN RB IN RB VBG DT NNP , RB IN VBZ .</POS>
+		<Lemma>I also know a lot about the camera already from already have a Nikon , so that help .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>After a few weeks I will come back and update this - so far I 'm loving this camera quite a bit .</Tokens>
+		<POS>IN DT JJ NNS PRP MD VB RB CC VB DT : RB RB PRP VBP JJ DT NN RB DT NN .</POS>
+		<Lemma>after a few week I will come back and update this - so far I be loving this camera quite a bit .</Lemma>
+	</Sentence>
+</Document>

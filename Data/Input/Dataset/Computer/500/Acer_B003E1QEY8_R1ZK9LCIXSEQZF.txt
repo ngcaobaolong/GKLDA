@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Video works great , audio lacking .</Tokens>
+		<POS>NNP VBZ JJ , JJ VBG .</POS>
+		<Lemma>Video work great , audio lack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Instructions did not cover connecting audio .</Tokens>
+		<POS>NNS VBD RB VB VBG NN .</POS>
+		<Lemma>instruction do not cover connect audio .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After some trial and error it began to work .</Tokens>
+		<POS>IN DT NN CC NN PRP VBD TO VB .</POS>
+		<Lemma>after some trial and error it begin to work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>the Audio is not as loud as I were prefer and with some material is rather hard to hear .</Tokens>
+		<POS>DT NNP VBZ RB RB JJ IN PRP VBD VBP CC IN DT NN VBZ RB JJ TO VB .</POS>
+		<Lemma>the Audio be not as loud as I be prefer and with some material be rather hard to hear .</Lemma>
+	</Sentence>
+</Document>

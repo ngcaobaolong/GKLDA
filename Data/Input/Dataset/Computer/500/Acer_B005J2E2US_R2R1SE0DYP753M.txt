@@ -1,0 +1,147 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I picked up this netbook from Amazon in Nov. 2011 and realy like it .</Tokens>
+		<POS>PRP VBD RP DT NN IN NNP IN NNP CD CC RB IN PRP .</POS>
+		<Lemma>I pick up this netbook from Amazon in Nov. 2011 and realy like it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I already own the Acer Aspire One AOA-110 .</Tokens>
+		<POS>PRP RB VBP DT NNP NNP CD NN .</POS>
+		<Lemma>I already own the Acer Aspire one aoa-110 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is a very under powered netbook with very little memory so I needed something more .</Tokens>
+		<POS>PRP VBZ DT RB IN VBN NN IN RB JJ NN IN PRP VBD NN RBR .</POS>
+		<Lemma>it be a very under power netbook with very little memory so I need something more .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I already own many nice tablets and a full size laptop and a desktop pc .</Tokens>
+		<POS>PRP RB VBP JJ JJ NNS CC DT JJ NN NN CC DT NN NN .</POS>
+		<Lemma>I already own many nice tablet and a full size laptop and a desktop pc .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I wanted something powerful but small for road trips .</Tokens>
+		<POS>PRP VBD NN JJ CC JJ IN NN NNS .</POS>
+		<Lemma>I want something powerful but small for road trip .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I found my laptop too big and my tablets not quite up to the task .</Tokens>
+		<POS>PRP VBD PRP$ NN RB JJ CC PRP$ NNS RB RB IN TO DT NN .</POS>
+		<Lemma>I find my laptop too big and my tablet not quite up to the task .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>My Acer 110 is a very well made net book for what it is .</Tokens>
+		<POS>PRP$ NN CD VBZ DT RB RB VBN JJ NN IN WP PRP VBZ .</POS>
+		<Lemma>my acer 110 be a very well make net book for what it be .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For light web surfing , email some movie watching it 's ok .</Tokens>
+		<POS>IN JJ NN NN , NN DT NN VBG PRP VBZ NN .</POS>
+		<Lemma>for light web surfing , email some movie watch it be ok .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I thought I would look for something else from Acer with a more power but still smaller than my full size laptop .</Tokens>
+		<POS>PRP VBD PRP MD VB IN NN RB IN NNP IN DT JJR NN CC RB JJR IN PRP$ JJ NN NN .</POS>
+		<Lemma>I think I would look for something else from Acer with a more power but still smaller than my full size laptop .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>My search on Amazon brought me to the Acer Aspire One AO722-0473 11.6-Inch HD netbook .</Tokens>
+		<POS>PRP$ NN IN NNP VBD PRP TO DT NNP NNP CD NN JJ NN NN .</POS>
+		<Lemma>my search on Amazon bring I to the Acer Aspire one ao722-0473 11.6-inch hd netbook .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This netbook has all the thing I need in a net book and more .</Tokens>
+		<POS>DT NN VBZ PDT DT NN PRP VBP IN DT JJ NN CC JJR .</POS>
+		<Lemma>this netbook have all the thing I need in a net book and more .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Slim small size AMD C Series Processor 1GHz -LRB- not bad for a netbook -RRB- 2GB DDR3 RAM -LRB- you will want to upgrade to 4 -RRB- 320GB 5400RPM Hard Drive -LRB- more than enough for a netbook -RRB- 11.6-Inch Screen , AMD Radeon HD 6290 -LRB- bigger than most tablets -RRB- Full Windows 7 Home Premium -LRB- I installed Ubuntu 11.04 for a dual boot -RRB- 3 USB ports 1 SD slot 1 HDMI port Out of the box this unit performs great and I was happy as it was .</Tokens>
+		<POS>JJ JJ NN NNP NNP NNP NNP NN -LRB- RB JJ IN DT NN -RRB- NN NN NNP -LRB- PRP MD VB TO VB TO LS -RRB- NN NN JJ NNP -LRB- JJR IN RB IN DT NN -RRB- JJ NN , NNP NNP NNP CD -LRB- JJR IN JJS NNS -RRB- JJ NNP CD NNP NNP -LRB- PRP VBD NNP CD IN DT JJ NN -RRB- CD JJ NNS CD NN NN CD NN NN IN IN DT NN DT NN VBZ JJ CC PRP VBD JJ IN PRP VBD .</POS>
+		<Lemma>slim small size AMD C Series Processor 1ghz -lrb- not bad for a netbook -rrb- 2gb ddr3 RAM -lrb- you will want to upgrade to 4 -rrb- 320gb 5400rpm hard Drive -lrb- more than enough for a netbook -rrb- 11.6-inch screen , AMD Radeon HD 6290 -lrb- bigger than most tablet -rrb- full Windows 7 Home Premium -lrb- I install Ubuntu 11.04 for a dual boot -rrb- 3 usb port 1 sd slot 1 hdmus port out of the box this unit perform great and I be happy as it be .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I used it for about 2 weeks with the 2 GB of ram and only Windows 7 and found it to be a snappy little device .</Tokens>
+		<POS>PRP VBD PRP IN IN CD NNS IN DT CD NN IN NN CC RB NNP CD CC VBD PRP TO VB DT JJ JJ NN .</POS>
+		<Lemma>I use it for about 2 week with the 2 gb of ram and only Windows 7 and find it to be a snappy little device .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I am running Windows XP and Ubuntu on my Acer 110 in a dual boot .</Tokens>
+		<POS>PRP VBP VBG NNP NN CC NNP IN PRP$ NNP CD IN DT JJ NN .</POS>
+		<Lemma>I be run Windows xp and Ubuntu on my Acer 110 in a dual boot .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Ubuntu on the AO722 might be great as well ... yes .</Tokens>
+		<POS>NNP IN DT NN MD VB JJ RB RB : UH .</POS>
+		<Lemma>Ubuntu on the ao722 might be great as well ... yes .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It is very easy to install from Windows on the Ubuntu web site .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB IN NNP IN DT NNP NN NN .</POS>
+		<Lemma>it be very easy to install from Windows on the Ubuntu web site .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The next thing I did was upgrade the ram -LRB- -LRB- ... -RRB- -RRB- to 4GB .</Tokens>
+		<POS>DT JJ NN PRP VBD VBD JJ DT NN -LRB- -LRB- : -RRB- -RRB- TO NN .</POS>
+		<Lemma>the next thing I do be upgrade the ram -lrb- -lrb- ... -rrb- -rrb- to 4gb .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>This made great netbook even better .</Tokens>
+		<POS>DT VBD JJ NN RB RBR .</POS>
+		<Lemma>this make great netbook even better .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Everything is faster now running Windows or Ubuntu .</Tokens>
+		<POS>NN VBZ RBR RB VBG NNP CC NNP .</POS>
+		<Lemma>everything be faster now run Windows or Ubuntu .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Office apps , spread sheets , PDF ' all run and look great .</Tokens>
+		<POS>NNP NNS , VBN NNS , NN '' DT VBP CC VBP JJ .</POS>
+		<Lemma>Office app , spread sheet , pdf ' all run and look great .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The media apps on this are right up there with any tablet or smart phone .</Tokens>
+		<POS>DT NNS NNS IN DT VBP JJ IN EX IN DT NN CC JJ NN .</POS>
+		<Lemma>the media app on this be right up there with any tablet or smart phone .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>They all run with the power of a PC on a netbook .</Tokens>
+		<POS>PRP DT VBP IN DT NN IN DT NN IN DT NN .</POS>
+		<Lemma>they all run with the power of a pc on a netbook .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I get about 5 hours of video and 6.5 or more when web sufring .</Tokens>
+		<POS>PRP VBP IN CD NNS IN NN CC CD CC JJR WRB NN NN .</POS>
+		<Lemma>I get about 5 hour of video and 6.5 or more when web sufring .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The HDMI output look great on my HD tv and monitor .</Tokens>
+		<POS>DT NN NN NN JJ IN PRP$ NN NN CC NN .</POS>
+		<Lemma>the hdmus output look great on my hd tv and monitor .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>So if your looking for a netbook or a tablet with this you get a little more .</Tokens>
+		<POS>RB IN PRP$ VBG IN DT NN CC DT NN IN DT PRP VBP DT RB RBR .</POS>
+		<Lemma>so if you look for a netbook or a tablet with this you get a little more .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I am very happy with this netbook and would tell any one to pick one up or at least give it a try .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN CC MD VB DT CD TO VB CD RP CC IN JJS VB PRP DT NN .</POS>
+		<Lemma>I be very happy with this netbook and would tell any one to pick one up or at least give it a try .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>As for some of the bad reviews I see here and else where .</Tokens>
+		<POS>IN IN DT IN DT JJ NNS PRP VBP RB CC RB WRB .</POS>
+		<Lemma>as for some of the bad review I see here and else where .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Like with any device there are defects so I do n't doubt their experience .</Tokens>
+		<POS>IN IN DT NN EX VBP NNS IN PRP VBP RB VB PRP$ NN .</POS>
+		<Lemma>like with any device there be defect so I do not doubt they experience .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>For me I got a good one and I think made it better with Ubuntu and 4GB upgrade .</Tokens>
+		<POS>IN PRP PRP VBD DT JJ CD CC PRP VBP VBN PRP RBR IN NNP CC NN NN .</POS>
+		<Lemma>for I I get a good one and I think make it better with Ubuntu and 4gb upgrade .</Lemma>
+	</Sentence>
+</Document>

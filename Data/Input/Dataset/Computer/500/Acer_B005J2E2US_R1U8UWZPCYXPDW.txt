@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this item as an internet-access backup for if\/when my primary computer is down .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN IN JJ PRP$ JJ NN VBZ RB .</POS>
+		<Lemma>I purchase this item as a internet-access backup for if\/when my primary computer be down .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>BAD CHOICE .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>bad choice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The Aspire One is the slowest computer I 've ever used .</Tokens>
+		<POS>DT NNP CD VBZ DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>the Aspire one be the slowest computer I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I wait for programs to open , I wait for web pages to change , I wait for my type to appear in entry fields , I wait for software tools such as scroll bars and keyboard commands to activate - it 's a 21st-century nightmare .</Tokens>
+		<POS>PRP VBP IN NNS TO VB , PRP VBP IN NN NNS TO VB , PRP VBP IN PRP$ NN TO VB IN NN NNS , PRP VBP IN NN NNS JJ IN NN NNS CC NN NNS TO VB : PRP VBZ DT JJ NN .</POS>
+		<Lemma>I wait for program to open , I wait for web page to change , I wait for my type to appear in entry field , I wait for software tool such as scroll bar and keyboard command to activate - it be a 21st-century nightmare .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>All of the fine programs and features in the world are worthless if you have to wait to access them 30 times an hour .</Tokens>
+		<POS>DT IN DT JJ NNS CC NNS IN DT NN VBP JJ IN PRP VBP TO VB TO VB PRP CD NNS DT NN .</POS>
+		<Lemma>all of the fine program and feature in the world be worthless if you have to wait to access they 30 time a hour .</Lemma>
+	</Sentence>
+</Document>

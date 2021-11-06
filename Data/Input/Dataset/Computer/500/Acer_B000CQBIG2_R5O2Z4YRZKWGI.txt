@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Although it looks fancy , the monitor itself as quality is n't very high considering it failed within 6 months of purchase .</Tokens>
+		<POS>IN PRP VBZ JJ , DT NN PRP IN NN VBZ RB RB JJ VBG PRP VBD IN CD NNS IN NN .</POS>
+		<Lemma>although it look fancy , the monitor itself as quality be not very high consider it fail within 6 month of purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>On top of all the 3-year warranty provided by Acer is n't reliable .</Tokens>
+		<POS>IN NN IN PDT DT JJ NN VBN IN NNP VBZ RB JJ .</POS>
+		<Lemma>on top of all the 3-year warranty provide by Acer be not reliable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I just received it back from Acer claiming that I `` induced the damage '' which is listed as `` LCD inverter '' and a warning that basically , they replaced it , but should n't have as it is n't covered by their warranty ?!?!?!?</Tokens>
+		<POS>PRP RB VBD PRP RB IN NNP VBG IN PRP `` VBD DT NN '' WDT VBZ VBN IN `` NNS NN '' CC DT NN WDT RB , PRP VBD PRP , CC MD RB VB IN PRP VBZ RB VBN IN PRP$ NN CD</POS>
+		<Lemma>I just receive it back from Acer claim that I `` induce the damage '' which be list as `` lcd inverter '' and a warning that basically , they replace it , but should not have as it be not cover by they warranty ?!?!?!?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>How on earth would I damage it `` by pressing the screen '' if I did n't ever touch it , except for the buttons to manipulate volume several times and wipe it with the cloth they provided me with ?!</Tokens>
+		<POS>WRB IN NN MD PRP VB PRP `` IN VBG DT NN '' IN PRP VBD RB RB VB PRP , IN IN DT NNS TO VB NN JJ NNS CC VB PRP IN DT NN PRP VBD PRP IN NN</POS>
+		<Lemma>how on earth would I damage it `` by press the screen '' if I do not ever touch it , except for the button to manipulate volume several time and wipe it with the cloth they provide I with ?!</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Just woke up one day and the monitor 's screen would produce power -LRB- power button lit -RRB- , but would n't display images .</Tokens>
+		<POS>RB VBD RP CD NN CC DT NN POS NN MD VB NN -LRB- NN NN VBD -RRB- , CC MD RB VB NNS .</POS>
+		<Lemma>just wake up one day and the monitor 's screen would produce power -lrb- power button light -rrb- , but would not display image .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It has been sitting comfortably on a desk for the 6-months of use , without ever moving it or doing anything wrong to it .</Tokens>
+		<POS>PRP VBZ VBN VBG RB IN DT NN IN DT NNS IN NN , IN RB VBG PRP CC VBG NN JJ TO PRP .</POS>
+		<Lemma>it have be sit comfortably on a desk for the 6-month of use , without ever move it or do anything wrong to it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It seems that the phrase '' customer induced '' is used to refuse warranty and there is no possible way for me to prove otherwise .</Tokens>
+		<POS>PRP VBZ IN DT NN '' NN VBD '' VBZ VBN TO VB NN CC EX VBZ DT JJ NN IN PRP TO VB RB .</POS>
+		<Lemma>it seem that the phrase '' customer induce '' be use to refuse warranty and there be no possible way for I to prove otherwise .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>As with all tech products -- buyer-beware !</Tokens>
+		<POS>IN IN DT NN NNS : JJ .</POS>
+		<Lemma>as with all tech product -- buyer-beware !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Warranty is n't worth much and unless you know hardware specifics and can replace at your own risk\/fix them , the products may not work long .</Tokens>
+		<POS>NN VBZ RB JJ JJ CC IN PRP VBP NN NNS CC MD VB IN PRP$ JJ NN PRP , DT NNS MD RB VB RB .</POS>
+		<Lemma>warranty be not worth much and unless you know hardware specifics and can replace at you own risk\/fix they , the product may not work long .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Total paid new $ 150 -LRB- what a deal it was ! -RRB-</Tokens>
+		<POS>JJ VBN JJ $ CD -LRB- WP DT NN PRP VBD . -RRB-</POS>
+		<Lemma>total pay new $ 150 -lrb- what a deal it be ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>, paid to return to Acer $ 20 , intangible cost -- 2 weeks without having a PC -RRB- , nerves to read their claims that I broke it -- priceless ... And I thought I got a deal back in November of 2008 .</Tokens>
+		<POS>, VBN TO VB TO NNP $ CD , JJ NN : CD NNS IN VBG DT NN -RRB- , NNS TO VB PRP$ NNS IN PRP VBD PRP : JJ : CC PRP VBD PRP VBD DT NN RB IN NNP IN CD .</POS>
+		<Lemma>, pay to return to Acer $ 20 , intangible cost -- 2 week without have a pc -rrb- , nerve to read they claim that I break it -- priceless ... and I think I get a deal back in November of 2008 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Some deal , huh !</Tokens>
+		<POS>DT NN , RB .</POS>
+		<Lemma>some deal , huh !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Looks are deceiving .</Tokens>
+		<POS>NNS VBP VBG .</POS>
+		<Lemma>look be deceive .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I found this bread mix to be very tasty and easy to slice .</Tokens>
+		<POS>PRP VBD DT NN NN TO VB RB JJ CC JJ TO VB .</POS>
+		<Lemma>I find this bread mix to be very tasty and easy to slice .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only thing we did not like was the way it came out of the bread maker , which may not be the fault of the mix .</Tokens>
+		<POS>DT JJ NN PRP VBD RB VB VBD DT NN PRP VBD IN IN DT NN NN , WDT MD RB VB DT NN IN DT NN .</POS>
+		<Lemma>the only thing we do not like be the way it come out of the bread maker , which may not be the fault of the mix .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The bread maker did not mix it up well which caused some of the mix to come out of the machine dry and not mixed in .</Tokens>
+		<POS>DT NN NN VBD RB VB PRP RP RB WDT VBD DT IN DT NN TO VB RB IN DT NN JJ CC RB VBN IN .</POS>
+		<Lemma>the bread maker do not mix it up well which cause some of the mix to come out of the machine dry and not mix in .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I plan to try it again using a smaller amount of the mix in my bread maker and hopefully it will all cook .</Tokens>
+		<POS>PRP VBP TO VB PRP RB VBG DT JJR NN IN DT NN IN PRP$ NN NN CC RB PRP MD DT VB .</POS>
+		<Lemma>I plan to try it again use a smaller amount of the mix in my bread maker and hopefully it will all cook .</Lemma>
+	</Sentence>
+</Document>

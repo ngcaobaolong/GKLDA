@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very pleased with the image quality .</Tokens>
+		<POS>RB VBN IN DT NN NN .</POS>
+		<Lemma>very please with the image quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Backlit CMOS sensor takes good pictures in low light conditions .</Tokens>
+		<POS>JJ NNS NN VBZ JJ NNS IN JJ JJ NNS .</POS>
+		<Lemma>backlit cmo sensor take good picture in low light condition .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Gigantic zoom range with optical image stabilization .</Tokens>
+		<POS>JJ NN NN IN JJ NN NN .</POS>
+		<Lemma>gigantic zoom range with optical image stabilization .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Have not tried all the scene modes , but panorama and high dynamic range work fine .</Tokens>
+		<POS>VBP RB VBN PDT DT NN NNS , CC NN CC JJ JJ NN NN NN .</POS>
+		<Lemma>have not try all the scene mode , but panorama and high dynamic range work fine .</Lemma>
+	</Sentence>
+</Document>

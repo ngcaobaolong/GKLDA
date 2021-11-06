@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just received it .</Tokens>
+		<POS>RB VBN PRP .</POS>
+		<Lemma>just receive it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No dead pixels .</Tokens>
+		<POS>DT JJ NNS .</POS>
+		<Lemma>no dead pixel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Native 1280x1024 resolution is gorgeos .</Tokens>
+		<POS>JJ NN NN VBZ NN .</POS>
+		<Lemma>native 1280x1024 resolution be gorgeo .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Black are great .</Tokens>
+		<POS>NNP VBP JJ .</POS>
+		<Lemma>Black be great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Real bargain for 19 '' LCD .</Tokens>
+		<POS>JJ NN IN CD '' NNS .</POS>
+		<Lemma>real bargain for 19 '' lcd .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Recommend .</Tokens>
+		<POS>VB .</POS>
+		<Lemma>recommend .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When my older Flip camcorder developed sporadic problems , I looked for a new one .</Tokens>
+		<POS>WRB PRP$ JJR NN NN VBD JJ NNS , PRP VBD IN DT JJ CD .</POS>
+		<Lemma>when my older flip camcorder develop sporadic problem , I look for a new one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I liked the ease of operation and relatively compact size , a great option to film competition dog obedience lessons and trials .</Tokens>
+		<POS>PRP VBD DT NN IN NN CC RB JJ NN , DT JJ NN TO NN NN NN NN NNS CC NNS .</POS>
+		<Lemma>I like the ease of operation and relatively compact size , a great option to film competition dog obedience lesson and trial .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For short filming sessions , the images were fine , however , the battery became very warm when filming for a longer period .</Tokens>
+		<POS>IN JJ VBG NNS , DT NNS VBD JJ , RB , DT NN VBD RB JJ WRB VBG IN DT JJR NN .</POS>
+		<Lemma>for short film session , the image be fine , however , the battery become very warm when film for a longer period .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Further , when the battery was warm the images became jerky , almost like an silent film from the 1920s .</Tokens>
+		<POS>RB , WRB DT NN VBD JJ DT NNS VBD NN , RB IN DT JJ NN IN DT CD .</POS>
+		<Lemma>further , when the battery be warm the image become jerky , almost like a silent film from the 1920s .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The on-line chat tech support rep suggested that I install new batteries as an alternative to the included rechargeable batteries .</Tokens>
+		<POS>DT JJ NN NN NN NN VBD IN PRP VBP JJ NNS IN DT NN TO DT VBN JJ NNS .</POS>
+		<Lemma>the on-line chat tech support rep suggest that I install new battery as a alternative to the include rechargeable battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Sorry , but I 'm not going to go out and buy expensive batteries at my own expense to try to troubleshoot a defective product .</Tokens>
+		<POS>JJ , CC PRP VBP RB VBG TO VB RP CC VB JJ NNS IN PRP$ JJ NN TO VB TO VB DT JJ NN .</POS>
+		<Lemma>sorry , but I be not go to go out and buy expensive battery at my own expense to try to troubleshoot a defective product .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I fear that Cisco has already abandoned this product .</Tokens>
+		<POS>PRP VBP IN NNP VBZ RB VBN DT NN .</POS>
+		<Lemma>I fear that Cisco have already abandon this product .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>More worrisome , I began having problems with my Windows operating system shortly after installing the Flip software .</Tokens>
+		<POS>RBR JJ , PRP VBD VBG NNS IN PRP$ NNP NN NN RB IN VBG DT NN NN .</POS>
+		<Lemma>more worrisome , I begin have problem with my Windows operating system shortly after install the flip software .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I thought it might be a coincidence , perhaps some other software automatically updating in the background and that may be true ; however , when I ran the Windows repair and restore function , it specifically recommended removing the camera or music reader connected to my computer .</Tokens>
+		<POS>PRP VBD PRP MD VB DT NN , RB DT JJ NN RB VBG IN DT NN CC DT MD VB JJ : RB , WRB PRP VBD DT NNP NN CC VB NN , PRP RB VBD VBG DT NN CC NN NN VBN TO PRP$ NN .</POS>
+		<Lemma>I think it might be a coincidence , perhaps some other software automatically update in the background and that may be true ; however , when I run the Windows repair and restore function , it specifically recommend remove the camera or music reader connect to my computer .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I 've never had a music reader attached to the computer and I 've had the same digital camera for two years and use a memory card to transfer photos to my hard drive so the problem seems to be related to the Flip camcorder software .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NN VBN TO DT NN CC PRP VBP VBD DT JJ JJ NN IN CD NNS CC VB DT NN NN TO VB NNS TO PRP$ JJ NN IN DT NN VBZ TO VB VBN TO DT NNP NN NN .</POS>
+		<Lemma>I have never have a music reader attach to the computer and I have have the same digital camera for two year and use a memory card to transfer photo to my hard drive so the problem seem to be relate to the Flip camcorder software .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Windows could n't restore to an earlier point so despite returning the camcorder , I have that unresolved issue facing me .</Tokens>
+		<POS>NNP MD RB VB TO DT JJR NN RB IN VBG DT NN , PRP VBP IN JJ NN VBG PRP .</POS>
+		<Lemma>Windows could not restore to a earlier point so despite return the camcorder , I have that unresolved issue face I .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I will be doing further research in hopes that I wo n't have to re-install Windows with all the related hassles that involves .</Tokens>
+		<POS>PRP MD VB VBG JJ NN IN NNS IN PRP MD RB VB TO VB NNP IN PDT DT JJ NNS WDT VBZ .</POS>
+		<Lemma>I will be do further research in hope that I will not have to re-install Windows with all the related hassle that involve .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Finally , I did n't realize how large the HD files are compared to my old Flip .</Tokens>
+		<POS>RB , PRP VBD RB VB WRB JJ DT NN NNS VBP VBN TO PRP$ JJ NN .</POS>
+		<Lemma>finally , I do not realize how large the hd file be compare to my old flip .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Backups require the use of an external hard drive or multiple DVDs for long videos or several shorter clips .</Tokens>
+		<POS>NNS VBP DT NN IN DT JJ JJ NN CC JJ NNS IN JJ NNS CC JJ JJR NNS .</POS>
+		<Lemma>backup require the use of a external hard drive or multiple dvd for long video or several shorter clip .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I still was happy with the video quality for the price for short filming sessions , but would n't recommend it for longer sessions .</Tokens>
+		<POS>PRP RB VBD JJ IN DT JJ NN IN DT NN IN JJ VBG NNS , CC MD RB VB PRP IN JJR NNS .</POS>
+		<Lemma>I still be happy with the video quality for the price for short film session , but would not recommend it for longer session .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>And while I ca n't prove the software is at fault for my Windows issue , the timing and mention of disconnecting a camera is definitely suspect .</Tokens>
+		<POS>CC IN PRP MD RB VB DT NN VBZ IN NN IN PRP$ NNP NN , DT NN CC NN IN VBG DT NN VBZ RB JJ .</POS>
+		<Lemma>and while I can not prove the software be at fault for my Windows issue , the timing and mention of disconnect a camera be definitely suspect .</Lemma>
+	</Sentence>
+</Document>

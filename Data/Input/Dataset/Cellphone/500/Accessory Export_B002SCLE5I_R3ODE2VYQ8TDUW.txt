@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought a pack and tested on a variety of phones in certain spots and it works .</Tokens>
+		<POS>PRP VBD DT NN CC VBN IN DT NN IN NNS IN JJ NNS CC PRP VBZ .</POS>
+		<Lemma>I buy a pack and test on a variety of phone in certain spot and it work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>not only does it boost the signal , it also keeps calls from dropping while i am on the road .</Tokens>
+		<POS>RB RB VBZ PRP VB DT NN , PRP RB VBZ NNS IN VBG IN FW VBP IN DT NN .</POS>
+		<Lemma>not only do it boost the signal , it also keep call from drop while i be on the road .</Lemma>
+	</Sentence>
+</Document>

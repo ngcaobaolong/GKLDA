@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Had mine for 8 months now with zero problems .</Tokens>
+		<POS>VBD NN IN CD NNS RB IN CD NNS .</POS>
+		<Lemma>have mine for 8 month now with zero problem .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Replaced an old 19 '' CRT monster that bent my desk !</Tokens>
+		<POS>VBN DT JJ CD '' NNP NN WDT JJ PRP$ NN .</POS>
+		<Lemma>replace a old 19 '' CRT monster that bent my desk !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This has been great .</Tokens>
+		<POS>DT VBZ VBN JJ .</POS>
+		<Lemma>this have be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Small footprint , clear , and very bright .</Tokens>
+		<POS>JJ NN , JJ , CC RB JJ .</POS>
+		<Lemma>small footprint , clear , and very bright .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Perfect picture for all the fps -LRB- Counter-strike , Doom3 , HL2 -RRB- .</Tokens>
+		<POS>NNP NN IN PDT DT NNS -LRB- NN , NN , NN -RRB- .</POS>
+		<Lemma>Perfect picture for all the fp -lrb- counter-strike , doom3 , hl2 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>DVDs play smooth without ghosting .</Tokens>
+		<POS>NNS VBP JJ IN VBG .</POS>
+		<Lemma>dvd play smooth without ghost .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The auto adjust feature is handy once you get used to it .</Tokens>
+		<POS>DT NN VBP NN VBZ JJ IN PRP VBP VBN TO PRP .</POS>
+		<Lemma>the auto adjust feature be handy once you get use to it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have not had to touch the controls as of yet .</Tokens>
+		<POS>PRP VBP RB VBN TO VB DT NNS IN IN RB .</POS>
+		<Lemma>I have not have to touch the control as of yet .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I use headphones 99 % of the time so I do n't miss the speakers .</Tokens>
+		<POS>PRP VBP NNS CD NN IN DT NN IN PRP VBP RB VB DT NNS .</POS>
+		<Lemma>I use headphone 99 % of the time so I do not miss the speaker .</Lemma>
+	</Sentence>
+</Document>

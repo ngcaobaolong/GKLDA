@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a wonderful , healthy cereal and I highly recommend it .</Tokens>
+		<POS>DT VBZ DT JJ , JJ NN CC PRP RB VB PRP .</POS>
+		<Lemma>this be a wonderful , healthy cereal and I highly recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And , I feed it to my parrots -LRB- yes , it 's true ! -RRB-</Tokens>
+		<POS>CC , PRP VBP PRP TO PRP$ NNS -LRB- UH , PRP VBZ JJ . -RRB-</POS>
+		<Lemma>and , I feed it to my parrot -lrb- yes , it be true ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>and they love it !!</Tokens>
+		<POS>CC PRP VBP PRP IN</POS>
+		<Lemma>and they love it !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If you want to start eating healthier Ezekiel is the way to go .</Tokens>
+		<POS>IN PRP VBP TO VB VBG JJR NNP VBZ DT NN TO VB .</POS>
+		<Lemma>if you want to start eat healthier Ezekiel be the way to go .</Lemma>
+	</Sentence>
+</Document>

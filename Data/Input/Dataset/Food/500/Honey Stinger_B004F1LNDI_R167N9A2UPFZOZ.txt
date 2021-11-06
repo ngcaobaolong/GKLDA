@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have to say that the Stinger Waffles are the best energy snack to come on the market in years .</Tokens>
+		<POS>PRP VBP TO VB IN DT NNP NNP VBP DT JJS NN NN TO VB IN DT NN IN NNS .</POS>
+		<Lemma>I have to say that the Stinger Waffles be the best energy snack to come on the market in year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love these things .</Tokens>
+		<POS>PRP VBP DT NNS .</POS>
+		<Lemma>I love these thing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I cycle , and the fact that these are flat make them really easy to carry in a jersey pocket .</Tokens>
+		<POS>PRP NN , CC DT NN IN DT VBP JJ VBP PRP RB JJ TO VB IN DT NN NN .</POS>
+		<Lemma>I cycle , and the fact that these be flat make they really easy to carry in a jersey pocket .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They do n't have huge amounts of calories , but they definitely help me keep going during a long workout .</Tokens>
+		<POS>PRP VBP RB VB JJ NNS IN NNS , CC PRP RB VBP PRP VB VBG IN DT JJ NN .</POS>
+		<Lemma>they do not have huge amount of calorie , but they definitely help I keep go during a long workout .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And they taste so good , that I keep them around as regular snacks , even when I am not exercising .</Tokens>
+		<POS>CC PRP VBP RB JJ , IN PRP VBP PRP RP IN JJ NNS , RB WRB PRP VBP RB VBG .</POS>
+		<Lemma>and they taste so good , that I keep they around as regular snack , even when I be not exercise .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The only downside to these -LRB- and the reasons they get 4 stars -RRB- : the packages are n't the easiest to open .</Tokens>
+		<POS>DT JJ NN TO DT -LRB- CC DT NNS PRP VBP CD NNS -RRB- : DT NNS VBP RB DT JJS TO VB .</POS>
+		<Lemma>the only downside to these -lrb- and the reason they get 4 star -rrb- : the package be not the easiest to open .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I usually only open them when stopped if it is during a ride .</Tokens>
+		<POS>PRP RB RB VB PRP WRB VBN IN PRP VBZ IN DT NN .</POS>
+		<Lemma>I usually only open they when stop if it be during a ride .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If I could give half-stars , these would be 4.5 !</Tokens>
+		<POS>IN PRP MD VB NNS , DT MD VB CD .</POS>
+		<Lemma>if I could give half-star , these would be 4.5 !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera seems okay .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this camera seem okay .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Big problem is that it did not come with an user manual .</Tokens>
+		<POS>JJ NN VBZ IN PRP VBD RB VBN IN DT NN NN .</POS>
+		<Lemma>big problem be that it do not come with a user manual .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>How stupid is this !</Tokens>
+		<POS>WRB JJ VBZ DT .</POS>
+		<Lemma>how stupid be this !</Lemma>
+	</Sentence>
+</Document>

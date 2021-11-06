@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this about 2 weeks ago and so far I 've been pleased .</Tokens>
+		<POS>PRP VBD DT IN CD NNS RB CC RB RB PRP VBP VBN VBN .</POS>
+		<Lemma>I buy this about 2 week ago and so far I have be please .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I do n't watch a ton of movies or play any games , mainly I do audio production .</Tokens>
+		<POS>PRP VBP RB VB DT NN IN NNS CC VB DT NNS , RB PRP VBP JJ NN .</POS>
+		<Lemma>I do not watch a ton of movie or play any game , mainly I do audio production .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So , I do n't need the perfect crystal clear picture like most .</Tokens>
+		<POS>RB , PRP VBP RB VB DT JJ NN JJ NN IN JJS .</POS>
+		<Lemma>so , I do not need the perfect crystal clear picture like most .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Not to say this is n't clear , because it is .</Tokens>
+		<POS>RB TO VB DT VBZ RB JJ , IN PRP VBZ .</POS>
+		<Lemma>not to say this be not clear , because it be .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can see all colors needs !</Tokens>
+		<POS>PRP MD VB DT NNS VBZ .</POS>
+		<Lemma>you can see all color need !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's much bigger than I expected too .</Tokens>
+		<POS>PRP VBZ RB JJR IN PRP VBD RB .</POS>
+		<Lemma>it be much bigger than I expect too .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The stand feels a bit cheezy , but it does the job .</Tokens>
+		<POS>DT NN VBZ DT NN JJ , CC PRP VBZ DT NN .</POS>
+		<Lemma>the stand feel a bit cheezy , but it do the job .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The LCD looks great too .</Tokens>
+		<POS>DT NNS VBZ JJ RB .</POS>
+		<Lemma>the lcd look great too .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>over all , not bad for the money .</Tokens>
+		<POS>IN DT , RB JJ IN DT NN .</POS>
+		<Lemma>over all , not bad for the money .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you 're just looking for a decent monitor for whatever , this is it !</Tokens>
+		<POS>IN PRP VBP RB VBG IN DT JJ NN IN WDT , DT VBZ PRP .</POS>
+		<Lemma>if you be just look for a decent monitor for whatever , this be it !</Lemma>
+	</Sentence>
+</Document>

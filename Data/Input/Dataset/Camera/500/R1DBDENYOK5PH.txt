@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>me gusto mucho la camara , el estilo la manera y lo rapido que llego desde el pais origen al pais destino .</Tokens>
+		<POS>PRP NN FW FW FW , FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW FW .</POS>
+		<Lemma>I gusto mucho la camara , el estilo la manera y lo rapido que llego desde el pais origen al pais destino .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>excelente</Tokens>
+		<POS>FW</POS>
+		<Lemma>excelente</Lemma>
+	</Sentence>
+</Document>

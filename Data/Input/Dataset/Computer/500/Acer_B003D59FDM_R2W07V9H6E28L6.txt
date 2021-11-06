@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Opened the box , plugged in cords , snapped monitor into base -LRB- from pictograph directions printed on box -RRB- , turned it on and voila !</Tokens>
+		<POS>VBN DT NN , VBN IN NNS , VBD NN IN NN -LRB- IN NN NNS VBN IN NN -RRB- , VBD PRP IN CC NN .</POS>
+		<Lemma>open the box , plug in cord , snap monitor into base -lrb- from pictograph direction print on box -rrb- , turn it on and voilum !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Only resolution to be changed -LRB- easily on a Mac OS 10.6.4 , under System Preferences - Monitors -RRB- .</Tokens>
+		<POS>RB NN TO VB VBN -LRB- RB IN DT NNP NNP CD , IN NNP NNPS : NNS -RRB- .</POS>
+		<Lemma>only resolution to be change -lrb- easily on a Mac OS 10.6.4 , under System Preferences - monitor -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So clear , so easy .</Tokens>
+		<POS>RB JJ , RB JJ .</POS>
+		<Lemma>so clear , so easy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No need for enclosed cd and printed manual -LRB- yet -RRB- .</Tokens>
+		<POS>DT NN IN JJ NN CC VBD NN -LRB- RB -RRB- .</POS>
+		<Lemma>no need for enclosed cd and print manual -lrb- yet -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>4 stars because monitor does not tilt -LRB- product specs did n't say it would -RRB- but my last ones -LRB- Samsung , ViewSonic -RRB- did .</Tokens>
+		<POS>CD NNS IN NN VBZ RB VB -LRB- NN NNS VBD RB VB PRP MD -RRB- CC PRP$ JJ NNS -LRB- NNP , NNP -RRB- VBD .</POS>
+		<Lemma>4 star because monitor do not tilt -lrb- product spec do not say it would -rrb- but my last one -lrb- Samsung , ViewSonic -rrb- do .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I do n't yet know about product lifespan .</Tokens>
+		<POS>PRP VBP RB RB VB IN NN NN .</POS>
+		<Lemma>I do not yet know about product lifespan .</Lemma>
+	</Sentence>
+</Document>

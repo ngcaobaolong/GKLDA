@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this thing !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this thing !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We just got smartphones for Xmas and we travel often both by plane and car .</Tokens>
+		<POS>PRP RB VBD NNS IN NNP CC PRP VBP RB CC IN NN CC NN .</POS>
+		<Lemma>we just get smartphone for Xmas and we travel often both by plane and car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I always hated lugging multiple chargers everywhere .</Tokens>
+		<POS>PRP RB VBD VBG JJ NNS RB .</POS>
+		<Lemma>I always hate lug multiple charger everywhere .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I love that we can both charge our phones at the same time -LRB- iphone 4s -RRB- .</Tokens>
+		<POS>PRP VBP IN PRP MD CC VB PRP$ NNS IN DT JJ NN -LRB- NN NNS -RRB- .</POS>
+		<Lemma>I love that we can both charge we phone at the same time -lrb- iphone 4 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>One reviewer mentioned it was larger than they anticipated and I did not find that to be the case at all .</Tokens>
+		<POS>CD NN VBD PRP VBD JJR IN PRP VBD CC PRP VBD RB VB IN TO VB DT NN IN DT .</POS>
+		<Lemma>one reviewer mention it be larger than they anticipate and I do not find that to be the case at all .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I think it is the perfect size for our family 's needs .</Tokens>
+		<POS>PRP VBP PRP VBZ DT JJ NN IN PRP$ NN POS NNS .</POS>
+		<Lemma>I think it be the perfect size for we family 's need .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>We now own 3 .</Tokens>
+		<POS>PRP RB VBP CD .</POS>
+		<Lemma>we now own 3 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>One for each car and one that stays in the suitcase for traveling .</Tokens>
+		<POS>CD IN DT NN CC CD WDT VBZ IN DT NN IN VBG .</POS>
+		<Lemma>one for each car and one that stay in the suitcase for travel .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I love when things make my life easier : -RRB-</Tokens>
+		<POS>PRP VBP WRB NNS VBP PRP$ NN JJR : -RRB-</POS>
+		<Lemma>I love when thing make my life easier : -rrb-</Lemma>
+	</Sentence>
+</Document>

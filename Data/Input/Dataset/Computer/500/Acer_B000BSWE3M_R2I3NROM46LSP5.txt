@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I waited for this item for 18 days for some reason that I do n't know , but nevertheless , I thuoght I would drop a line here .</Tokens>
+		<POS>PRP VBD IN DT NN IN CD NNS IN DT NN IN PRP VBP RB VB , CC RB , PRP VBP PRP MD VB DT NN RB .</POS>
+		<Lemma>I wait for this item for 18 day for some reason that I do not know , but nevertheless , I thuoght I would drop a line here .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's beautiful .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be beautiful .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For those who using a PowerBook -LRB- Macintosh -RRB- , I am using this monitor with a G4 PowerBook -LRB- 12inch -RRB- .</Tokens>
+		<POS>IN DT WP VBG DT NNP -LRB- NNP -RRB- , PRP VBP VBG DT NN IN DT NN NN -LRB- NN -RRB- .</POS>
+		<Lemma>for those who use a PowerBook -lrb- Macintosh -rrb- , I be use this monitor with a g4 powerbook -lrb- 12inch -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't know technical details so if you are a media expert , do n't take my opinion , but if you are just a normal PB user , say , a student writing a dissertation , trust me .</Tokens>
+		<POS>PRP VBP RB VB JJ NNS RB IN PRP VBP DT NNS NN , VBP RB VB PRP$ NN , CC IN PRP VBP RB DT JJ NN NN , VBP , DT NN VBG DT NN , NN PRP .</POS>
+		<Lemma>I do not know technical detail so if you be a media expert , do not take my opinion , but if you be just a normal pb user , say , a student write a dissertation , trust I .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It works just fine with your PB , and you will soon tell how comfortable it is to use a large monitor like this .</Tokens>
+		<POS>PRP VBZ RB JJ IN PRP$ NN , CC PRP MD RB VB WRB JJ PRP VBZ TO VB DT JJ NN IN DT .</POS>
+		<Lemma>it work just fine with you pb , and you will soon tell how comfortable it be to use a large monitor like this .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If your concern is whether you can close your PB tightly while connecting it with this monitor , yes you can .</Tokens>
+		<POS>IN PRP$ NN VBZ IN PRP MD VB PRP$ NN RB IN VBG PRP IN DT NN , UH PRP MD .</POS>
+		<Lemma>if you concern be whether you can close you pb tightly while connect it with this monitor , yes you can .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Your PB then becomes a PB nano ...</Tokens>
+		<POS>PRP$ NN RB VBZ DT NN NN :</POS>
+		<Lemma>you pb then become a pb nano ...</Lemma>
+	</Sentence>
+</Document>

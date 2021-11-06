@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The features you get for the price are just great , this camera has a clear picture day or night , inside or outside .</Tokens>
+		<POS>DT NNS PRP VBP IN DT NN VBP RB JJ , DT NN VBZ DT JJ NN NN CC NN , IN CC IN .</POS>
+		<Lemma>the feature you get for the price be just great , this camera have a clear picture day or night , inside or outside .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've tested it as a baby monitor and for watching the front walkway of my house , the alarm feature is very nice as well as leaving open Internet Explorer to let it automatically record 60 seconds of video every time there is motion .</Tokens>
+		<POS>PRP VBP VBN PRP IN DT NN NN CC IN VBG DT JJ NN IN PRP$ NN , DT NN NN VBZ RB JJ RB RB IN VBG JJ NN NNP TO VB PRP RB VB CD NNS IN NN DT NN EX VBZ NN .</POS>
+		<Lemma>I have test it as a baby monitor and for watch the front walkway of my house , the alarm feature be very nice as well as leave open internet Explorer to let it automatically record 60 seconds of video every time there be motion .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The upload to FTP and email feature is also very useful to see a series of images when motion is detected .</Tokens>
+		<POS>DT NN TO NN CC NN NN VBZ RB RB JJ TO VB DT NN IN NNS WRB NN VBZ VBN .</POS>
+		<Lemma>the upload to ftp and email feature be also very useful to see a series of image when motion be detect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Audio is a bit disappointing , but I did n't expect much and it 's usefulness there is very limited .</Tokens>
+		<POS>NNP VBZ DT NN JJ , CC PRP VBD RB VB JJ CC PRP VBZ NN EX VBZ RB JJ .</POS>
+		<Lemma>Audio be a bit disappointing , but I do not expect much and it be usefulness there be very limited .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Overall it 's great and I 'm going to buy a few more for use around my house as security cameras and in my older kids rooms .</Tokens>
+		<POS>RB PRP VBZ JJ CC PRP VBP VBG TO VB DT JJ JJR IN NN IN PRP$ NN IN NN NNS CC IN PRP$ JJR NNS NNS .</POS>
+		<Lemma>overall it be great and I be go to buy a few more for use around my house as security camera and in my older kid room .</Lemma>
+	</Sentence>
+</Document>

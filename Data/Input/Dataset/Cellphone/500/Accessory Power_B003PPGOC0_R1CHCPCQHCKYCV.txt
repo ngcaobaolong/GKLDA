@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have owned several FM transmitters and this one is the best one I have come across so far .</Tokens>
+		<POS>PRP VBP VBN JJ NNP NNS CC DT CD VBZ DT JJS CD PRP VBP VBN IN RB RB .</POS>
+		<Lemma>I have own several FM transmitter and this one be the best one I have come across so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It easily pairs with your phone or mp3 player through a bluetooth connection .</Tokens>
+		<POS>PRP RB NNS IN PRP$ NN CC NN NN IN DT NN NN .</POS>
+		<Lemma>it easily pair with you phone or mp3 player through a bluetooth connection .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also once it is paired to your phone it will automatically connect when in range of your vehicle which is great .</Tokens>
+		<POS>RB IN PRP VBZ VBN TO PRP$ NN PRP MD RB VB WRB IN NN IN PRP$ NN WDT VBZ JJ .</POS>
+		<Lemma>also once it be pair to you phone it will automatically connect when in range of you vehicle which be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The sound quality is great considering it is an fm transmitter although the bass is a little lacking but that is to be expected with any FM transmitter .</Tokens>
+		<POS>DT JJ NN VBZ JJ VBG PRP VBZ DT NN NN IN DT NN VBZ DT JJ VBG CC DT VBZ TO VB VBN IN DT NNP NN .</POS>
+		<Lemma>the sound quality be great consider it be a fm transmitter although the bass be a little lack but that be to be expect with any FM transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Saying that this product suffered less bass loss than any other FM transmitter I have owned so it is still the best in my opinion .</Tokens>
+		<POS>VBG IN DT NN VBD JJR NN NN IN DT JJ NNP NN PRP VBP VBN IN PRP VBZ RB DT JJS IN PRP$ NN .</POS>
+		<Lemma>say that this product suffer less bass loss than any other FM transmitter I have own so it be still the best in my opinion .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is a great product and I would recommend to anyone in need of a FM transmitter .</Tokens>
+		<POS>DT VBZ DT JJ NN CC PRP MD VB TO NN IN NN IN DT NNP NN .</POS>
+		<Lemma>this be a great product and I would recommend to anyone in need of a FM transmitter .</Lemma>
+	</Sentence>
+</Document>

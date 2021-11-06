@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this bread .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I made it in my bread machine , and it was wonderful .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ NN NN , CC PRP VBD JJ .</POS>
+		<Lemma>I make it in my bread machine , and it be wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only problem was that the loaf was too big for my machine and overflowed onto the heating coil .</Tokens>
+		<POS>DT JJ NN VBD IN DT NN VBD RB JJ IN PRP$ NN CC VBD IN DT NN NN .</POS>
+		<Lemma>the only problem be that the loaf be too big for my machine and overflow onto the heating coil .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I smelled smoke , and black smoke was rolling out of the machine .</Tokens>
+		<POS>PRP VBD NN , CC JJ NN VBD VBG RB IN DT NN .</POS>
+		<Lemma>I smell smoke , and black smoke be roll out of the machine .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I opened the lid and turned on the fan and let the cycle finish .</Tokens>
+		<POS>PRP VBD DT NN CC VBD RP DT NN CC VB DT NN NN .</POS>
+		<Lemma>I open the lid and turn on the fan and let the cycle finish .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Of course , I could n't trust that the bread had gotten done , so I put the whole pan from the machine into the oven at 375 degrees for about 15 minutes .</Tokens>
+		<POS>IN NN , PRP MD RB VB IN DT NN VBD VBN VBN , IN PRP VBP DT JJ NN IN DT NN IN DT NN IN CD NNS IN RB CD NNS .</POS>
+		<Lemma>of course , I could not trust that the bread have get do , so I put the whole pan from the machine into the oven at 375 degree for about 15 minute .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It turned out wonderfully in spite of the mess and the smoke .</Tokens>
+		<POS>PRP VBD RP RB IN NN IN DT NN CC DT NN .</POS>
+		<Lemma>it turn out wonderfully in spite of the mess and the smoke .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>My husband ate it fresh from the oven and so did I and my mother , and we all loved it .</Tokens>
+		<POS>PRP$ NN VBD PRP JJ IN DT NN CC RB VBD PRP CC PRP$ NN , CC PRP DT VBD PRP .</POS>
+		<Lemma>my husband eat it fresh from the oven and so do I and my mother , and we all love it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The texture is rough and moist , with lots of seeds , etc. , exactly the kind of bread I love .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ , IN NNS IN NNS , FW , RB DT NN IN NN PRP VBP .</POS>
+		<Lemma>the texture be rough and moist , with lot of seed , etc. , exactly the kind of bread I love .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Before I decided to try gluten-free , I was eating Sara Lee 100 % Multi-Grain .</Tokens>
+		<POS>IN PRP VBD TO VB NN , PRP VBD VBG NNP NNP CD NN NNP .</POS>
+		<Lemma>before I decide to try gluten-free , I be eat Sara Lee 100 % Multi-Grain .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This is rather similar to that .</Tokens>
+		<POS>DT VBZ RB JJ TO DT .</POS>
+		<Lemma>this be rather similar to that .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It does have a mild rye taste , which is fine with me , but if you want a white or wheat taste , you might not enjoy the rye flavor .</Tokens>
+		<POS>PRP VBZ VB DT JJ NN NN , WDT VBZ JJ IN PRP , CC IN PRP VBP DT JJ CC NN NN , PRP MD RB VB DT NN NN .</POS>
+		<Lemma>it do have a mild rye taste , which be fine with I , but if you want a white or wheat taste , you might not enjoy the rye flavor .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It also has a very faint onion powder flavor which I could do without and do n't know why they put in , but still it is a great bread for sandwiches , toast or to eat with soup or stew .</Tokens>
+		<POS>PRP RB VBZ DT RB JJ NN NN NN WDT PRP MD VB IN CC VBP RB VB WRB PRP VBP RP , CC RB PRP VBZ DT JJ NN IN NNS , NN CC TO VB IN NN CC NN .</POS>
+		<Lemma>it also have a very faint onion powder flavor which I could do without and do not know why they put in , but still it be a great bread for sandwich , toast or to eat with soup or stew .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 'm going to try the other `` Wonderful '' mix by the same maker .</Tokens>
+		<POS>PRP VBP VBG TO VB DT JJ `` JJ '' NN IN DT JJ NN .</POS>
+		<Lemma>I be go to try the other `` wonderful '' mix by the same maker .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>With this one , next time I will let the bread machine do the mixing and then divide it into two loaf pans to rise and bake in the oven and skip the overflow and burning and smoke .</Tokens>
+		<POS>IN DT CD , JJ NN PRP MD VB DT NN NN VBP DT VBG CC RB VBP PRP IN CD NN NNS TO VB CC VB IN DT NN CC VB DT NN CC NN CC NN .</POS>
+		<Lemma>with this one , next time I will let the bread machine do the mix and then divide it into two loaf pan to rise and bake in the oven and skip the overflow and burning and smoke .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product actually feels very flimsy .</Tokens>
+		<POS>DT NN RB VBZ RB JJ .</POS>
+		<Lemma>this product actually feel very flimsy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The door for the AA DC battery compartment does not stay closed .</Tokens>
+		<POS>DT NN IN DT NN NN NN NN VBZ RB VB VBN .</POS>
+		<Lemma>the door for the aa dc battery compartment do not stay close .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I could live with all of that but the car charger as a source stopped working shortly after using it 3 times .</Tokens>
+		<POS>PRP MD VB IN DT IN DT CC DT NN NN IN DT NN VBD VBG RB IN VBG PRP CD NNS .</POS>
+		<Lemma>I could live with all of that but the car charger as a source stop work shortly after use it 3 time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So this product is no good or the one I received is defective .</Tokens>
+		<POS>RB DT NN VBZ DT JJ CC DT CD PRP VBD VBZ JJ .</POS>
+		<Lemma>so this product be no good or the one I receive be defective .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm going to try and get a refund .</Tokens>
+		<POS>PRP VBP VBG TO VB CC VB DT NN .</POS>
+		<Lemma>I be go to try and get a refund .</Lemma>
+	</Sentence>
+</Document>

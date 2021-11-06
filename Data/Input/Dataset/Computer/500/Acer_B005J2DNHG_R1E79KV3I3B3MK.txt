@@ -1,0 +1,92 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Of course it freezes up !</Tokens>
+		<POS>IN NN PRP VBZ RP .</POS>
+		<Lemma>of course it freeze up !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Apparently you people know nothing about computers at all .</Tokens>
+		<POS>RB PRP NNS VBP NN IN NNS IN DT .</POS>
+		<Lemma>apparently you people know nothing about computer at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Netbooks are cheap for a reason .</Tokens>
+		<POS>NNS VBP JJ IN DT NN .</POS>
+		<Lemma>netbook be cheap for a reason .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This particular one comes with windows 7 starter which can use only 1 processor , not 2 !</Tokens>
+		<POS>DT JJ NN VBZ IN NNS CD JJ WDT MD VB RB CD NN , RB CD .</POS>
+		<Lemma>this particular one come with window 7 starter which can use only 1 processor , not 2 !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also , they tend to come with slower hard drives -LRB- 5400 RPM 's -RRB- and only a gig or 2 of ram .</Tokens>
+		<POS>RB , PRP VBP TO VB IN JJR JJ NNS -LRB- CD NNP POS -RRB- CC RB DT NN CC CD IN NN .</POS>
+		<Lemma>also , they tend to come with slower hard drive -lrb- 5400 RPM 's -rrb- and only a gig or 2 of ram .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>While Acer states that their netbooks wont support more than 2 gigs , they actually do if you install the right operating system .</Tokens>
+		<POS>IN NNP VBZ IN PRP$ NNS JJ NN RBR IN CD NNS , PRP RB VBP IN PRP VBP DT JJ NN NN .</POS>
+		<Lemma>while Acer state that they netbook wont support more than 2 gig , they actually do if you install the right operating system .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Upgrade to atleast windows 7 home premium , a 4GB DDR31066 RAM cartridge , and utilize `` Ready Boost '' and your netbook will be blazing fast .</Tokens>
+		<POS>VB TO JJ NNS CD NN NN , DT NN NN NNP NN , CC VB `` NNP NNP '' CC PRP$ NN MD VB VBG RB .</POS>
+		<Lemma>upgrade to atleast window 7 home premium , a 4gb ddr31066 RAM cartridge , and utilize `` Ready Boost '' and you netbook will be blaze fast .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Ready boost is a feature of windows 7 that uses solid state -LRB- flash memory -RRB- as if it were RAM .</Tokens>
+		<POS>JJ NN VBZ DT NN IN NNS CD WDT VBZ JJ NN -LRB- NN NN -RRB- IN IN PRP VBD NNP .</POS>
+		<Lemma>ready boost be a feature of window 7 that use solid state -lrb- flash memory -rrb- as if it be RAM .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Windows does this by caching frequently used data to this solid state memory -LRB- either a USB flash drive or a SD card like the ones you use for your camera .</Tokens>
+		<POS>NNP VBZ DT IN VBG RB VBN NNS TO DT JJ NN NN -LRB- CC DT JJ NN NN CC DT NN NN IN DT NNS PRP VBP IN PRP$ NN .</POS>
+		<Lemma>Windows do this by cache frequently use datum to this solid state memory -lrb- either a usb flash drive or a sd card like the one you use for you camera .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Skip the Flash drive annd get a Sandisk SD ultra card from amazon .</Tokens>
+		<POS>VB DT NN NN NN VB DT NNP NN NN NN IN NN .</POS>
+		<Lemma>skip the flash drive annd get a Sandisk sd ultra card from amazon .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Theyre cheap , costing only $ 10 or $ 20 .</Tokens>
+		<POS>RB JJ , VBG RB $ CD CC $ CD .</POS>
+		<Lemma>theyre cheap , cost only $ 10 or $ 20 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Buy one that supports atleast 20MB\/s data read rates .</Tokens>
+		<POS>VB CD WDT VBZ NN NNS NNS VBP NNS .</POS>
+		<Lemma>buy one that support atleast 20mb\/s datum read rate .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The point is this , if you people want your netbooks to be fast , you have to make them fast .</Tokens>
+		<POS>DT NN VBZ DT , IN PRP NNS VB PRP$ NNS TO VB RB , PRP VBP TO VB PRP RB .</POS>
+		<Lemma>the point be this , if you people want you netbook to be fast , you have to make they fast .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Ditch the RAM , hard drives , and the windows 7 starter .</Tokens>
+		<POS>NNP DT NNP , JJ NNS , CC DT NNS CD JJ .</POS>
+		<Lemma>Ditch the RAM , hard drive , and the window 7 starter .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>If you want a super fast netbook then purchase a seagate Momentus XT -LRB- you can look up the specs online -RRB- , they are lightening fast .</Tokens>
+		<POS>IN PRP VBP DT JJ JJ NN RB VB DT NN NNP NNP -LRB- PRP MD VB RP DT NNS NN -RRB- , PRP VBP VBG RB .</POS>
+		<Lemma>if you want a super fast netbook then purchase a seagate Momentus XT -lrb- you can look up the spec online -rrb- , they be lighten fast .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The Acer netbooks are powerful , its the peripherals and the os that hamper them .</Tokens>
+		<POS>DT NNP NNS VBP JJ , PRP$ DT NNS CC DT NNS WDT VBP PRP .</POS>
+		<Lemma>the Acer netbook be powerful , its the peripheral and the os that hamper they .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Besides if you want to use a dual core and take advantage of windows 7 features , you need atleast windows 7 home premium or windows 7 professional -LRB- this one supports ready drive ! -RRB-</Tokens>
+		<POS>IN IN PRP VBP TO VB DT JJ NN CC VB NN IN NNS CD NNS , PRP VBP JJ NNS CD NN NN CC NNS CD JJ -LRB- DT CD VBZ JJ NN . -RRB-</POS>
+		<Lemma>besides if you want to use a dual core and take advantage of window 7 feature , you need atleast window 7 home premium or window 7 professional -lrb- this one support ready drive ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+</Document>

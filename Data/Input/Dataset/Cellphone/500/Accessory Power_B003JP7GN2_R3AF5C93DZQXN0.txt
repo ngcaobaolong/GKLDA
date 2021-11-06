@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i love the charger .</Tokens>
+		<POS>LS VBP DT NN .</POS>
+		<Lemma>i love the charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>it works as the specs say .</Tokens>
+		<POS>PRP VBZ IN DT NNS VBP .</POS>
+		<Lemma>it work as the spec say .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>thanks .</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>thanks .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>it is cool how i can use the charger at home and in the car</Tokens>
+		<POS>PRP VBZ JJ WRB FW MD VB DT NN IN NN CC IN DT NN</POS>
+		<Lemma>it be cool how i can use the charger at home and in the car</Lemma>
+	</Sentence>
+</Document>

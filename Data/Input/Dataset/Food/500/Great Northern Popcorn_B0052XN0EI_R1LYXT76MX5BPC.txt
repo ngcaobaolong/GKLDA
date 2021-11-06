@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Arrived in very good time .</Tokens>
+		<POS>VBN IN RB JJ NN .</POS>
+		<Lemma>arrive in very good time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very Good Popcorn .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very good popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>excellent value .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>excellent value .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pops aggressively however in does not pop all the kernels .</Tokens>
+		<POS>NNPS RB RB IN VBZ RB VB PDT DT NNS .</POS>
+		<Lemma>Pops aggressively however in do not pop all the kernel .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Having said that in a half cup of corn about 12 - 15 kernels remained unpopped .</Tokens>
+		<POS>VBG VBD IN IN DT NN NN IN NN IN CD : CD NNS VBD JJ .</POS>
+		<Lemma>have say that in a half cup of corn about 12 - 15 kernel remain unpopped .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is still a significant savings over store bought , even store brand , and equal to Orville 's brand in quality and taste .</Tokens>
+		<POS>PRP VBZ RB DT JJ NNS IN NN VBD , RB NN NN , CC JJ TO NNP POS NN IN NN CC NN .</POS>
+		<Lemma>it be still a significant savings over store buy , even store brand , and equal to Orville 's brand in quality and taste .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>First Rate !</Tokens>
+		<POS>NNP NNP .</POS>
+		<Lemma>First Rate !</Lemma>
+	</Sentence>
+</Document>

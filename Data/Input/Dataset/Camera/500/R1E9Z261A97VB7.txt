@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have owned several digital point and shoot cameras and this by far exceeds my expectations .</Tokens>
+		<POS>PRP VBP VBN JJ JJ NN CC VB NNS CC DT IN RB VBZ PRP$ NNS .</POS>
+		<Lemma>I have own several digital point and shoot camera and this by far exceed my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love this camera .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's easy to use and the quality and clarity of the photo is outstanding .</Tokens>
+		<POS>PRP VBZ JJ TO VB CC DT NN CC NN IN DT NN VBZ JJ .</POS>
+		<Lemma>it be easy to use and the quality and clarity of the photo be outstanding .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have another Fuji camera and they do not dissapoint .</Tokens>
+		<POS>PRP VBP DT NNP NN CC PRP VBP RB NN .</POS>
+		<Lemma>I have another Fuji camera and they do not dissapoint .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>There are so many out on the market and I am a novice when it comes to photography , my husband with impressed with the photos I was taking .</Tokens>
+		<POS>EX VBP RB JJ RP IN DT NN CC PRP VBP DT NN WRB PRP VBZ TO NN , PRP$ NN IN JJ IN DT NNS PRP VBD VBG .</POS>
+		<Lemma>there be so many out on the market and I be a novice when it come to photography , my husband with impressed with the photo I be take .</Lemma>
+	</Sentence>
+</Document>

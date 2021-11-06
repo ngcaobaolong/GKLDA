@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread is delicious and the only truly whole grain GF mix that I am aware of .</Tokens>
+		<POS>DT NN VBZ JJ CC DT RB RB JJ NN NN NN IN PRP VBP JJ IN .</POS>
+		<Lemma>this bread be delicious and the only truly whole grain gf mix that I be aware of .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm hoping AMAZON will keep it in stock .</Tokens>
+		<POS>PRP VBP VBG NNP MD VB PRP IN NN .</POS>
+		<Lemma>I be hope AMAZON will keep it in stock .</Lemma>
+	</Sentence>
+</Document>

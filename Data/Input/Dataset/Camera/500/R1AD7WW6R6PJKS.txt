@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I admit I was hesitant to buy this camera , but after reading the comments from other buyers decided to do it .</Tokens>
+		<POS>PRP VBP PRP VBD JJ TO VB DT NN , CC IN VBG DT NNS IN JJ NNS VBD TO VB PRP .</POS>
+		<Lemma>I admit I be hesitant to buy this camera , but after read the comment from other buyer decide to do it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And they were right , the camera is fantastic , the quality of the images are very high .</Tokens>
+		<POS>CC PRP VBD RB , DT NN VBZ JJ , DT NN IN DT NNS VBP RB JJ .</POS>
+		<Lemma>and they be right , the camera be fantastic , the quality of the image be very high .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I love it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I love it .</Lemma>
+	</Sentence>
+</Document>

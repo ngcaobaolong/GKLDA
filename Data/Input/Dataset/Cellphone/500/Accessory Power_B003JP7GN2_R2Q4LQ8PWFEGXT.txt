@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The items did not work .</Tokens>
+		<POS>DT NNS VBD RB VB .</POS>
+		<Lemma>the item do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The cigarette charger bounces out of the outlet and it does n't charge the phone .</Tokens>
+		<POS>DT NN NN VBZ RB IN DT NN CC PRP VBZ RB VB DT NN .</POS>
+		<Lemma>the cigarette charger bounce out of the outlet and it do not charge the phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>we inserted batteries to see if the back up batteries would work on the chargers , and nope it did n't help at all .</Tokens>
+		<POS>PRP VBD NNS TO VB IN DT NN RP NNS MD VB IN DT NNS , CC VB PRP VBD RB VB IN DT .</POS>
+		<Lemma>we insert battery to see if the back up battery would work on the charger , and nope it do not help at all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>some did n't even get the batteries .</Tokens>
+		<POS>DT VBD RB RB VB DT NNS .</POS>
+		<Lemma>some do not even get the battery .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>the wall charger on most was the only thing that worked .</Tokens>
+		<POS>DT NN NN IN JJS VBD DT JJ NN WDT VBD .</POS>
+		<Lemma>the wall charger on most be the only thing that work .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>this is a horrible item to get i would n't order it again .</Tokens>
+		<POS>DT VBZ DT JJ NN TO VB FW MD RB VB PRP RB .</POS>
+		<Lemma>this be a horrible item to get i would not order it again .</Lemma>
+	</Sentence>
+</Document>

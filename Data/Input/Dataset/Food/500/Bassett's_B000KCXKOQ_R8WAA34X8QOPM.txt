@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Given that these have almost exactly the same ingredients as my favorite candy Wine Gums , I was hoping they would be nice .</Tokens>
+		<POS>VBN IN DT VBP RB RB DT JJ NNS IN PRP$ JJ NN NN NNS , PRP VBD VBG PRP MD VB JJ .</POS>
+		<Lemma>give that these have almost exactly the same ingredient as my favorite candy wine gum , I be hope they would be nice .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But they taste pretty artificial , and the texture has no chew to it .</Tokens>
+		<POS>CC PRP VBP RB JJ , CC DT NN VBZ DT VBP TO PRP .</POS>
+		<Lemma>but they taste pretty artificial , and the texture have no chew to it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Fine if you like that sort of thing , but I was disappointed .</Tokens>
+		<POS>JJ IN PRP IN DT NN IN NN , CC PRP VBD VBN .</POS>
+		<Lemma>fine if you like that sort of thing , but I be disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They are slightly redeemable if you let them sit open for a couple weeks , so I gave two stars .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP VBP PRP VB JJ IN DT NN NNS , IN PRP VBD CD NNS .</POS>
+		<Lemma>they be slightly redeemable if you let they sit open for a couple week , so I give two star .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Still , I 'll never buy them again ; I 'll stick to gummy bears and wine gums for my rare candy indulgences .</Tokens>
+		<POS>RB , PRP MD RB VB PRP RB : PRP MD VB TO JJ NNS CC NN NNS IN PRP$ JJ NN NNS .</POS>
+		<Lemma>still , I 'll never buy they again ; I 'll stick to gummy bear and wine gum for my rare candy indulgence .</Lemma>
+	</Sentence>
+</Document>

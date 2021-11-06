@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>At home I have a Samsung 17 '' SyncMaster 710 hooked up to my Mac Mini .</Tokens>
+		<POS>IN NN PRP VBP DT NNP CD '' NN CD VBD RP TO PRP$ NNP NNP .</POS>
+		<Lemma>at home I have a Samsung 17 '' syncmaster 710 hook up to my Mac Mini .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have used just an IBM laptop at work until two days ago when IT dropped this monster 19 '' Acer AL1912 on my desk .</Tokens>
+		<POS>PRP VBP VBN RB DT NNP NN IN NN IN CD NNS RB WRB PRP VBD DT NN CD '' NNP NNP IN PRP$ NN .</POS>
+		<Lemma>I have use just a IBM laptop at work until two day ago when it drop this monster 19 '' Acer AL1912 on my desk .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Talk about a summer Christmas for me .</Tokens>
+		<POS>NN IN DT NN NNP IN PRP .</POS>
+		<Lemma>talk about a summer Christmas for I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I hate to type this , but the monitor is almost too big , the screen is so big .</Tokens>
+		<POS>PRP VBP TO NN DT , CC DT NN VBZ RB RB JJ , DT NN VBZ RB JJ .</POS>
+		<Lemma>I hate to type this , but the monitor be almost too big , the screen be so big .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For the price -LRB- well , free to me -RRB- , I wish I 'd have gotten this at home for the Mac .</Tokens>
+		<POS>IN DT NN -LRB- RB , JJ TO PRP -RRB- , PRP VBP PRP MD VB VBN DT IN NN IN DT NNP .</POS>
+		<Lemma>for the price -lrb- well , free to I -rrb- , I wish I would have get this at home for the Mac .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The screen is bright , easy to read , and easy to set up .</Tokens>
+		<POS>DT NN VBZ JJ , JJ TO VB , CC JJ TO VB RP .</POS>
+		<Lemma>the screen be bright , easy to read , and easy to set up .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Plug into my laptop doc , hit the button on the laptop to switch the display over and Boom , ready to go .</Tokens>
+		<POS>NN IN PRP$ NN NN , VBD DT NN IN DT NN TO VB DT NN IN CC NN , JJ TO VB .</POS>
+		<Lemma>plug into my laptop doc , hit the button on the laptop to switch the display over and boom , ready to go .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Text is easy to read -LRB- I found it much harder to tweek the mac to get dark text to show up well on the Samsung -RRB- .</Tokens>
+		<POS>NN VBZ JJ TO VB -LRB- PRP VBD PRP RB RBR TO VB DT NN TO VB JJ NN TO VB RP RB IN DT NNP -RRB- .</POS>
+		<Lemma>text be easy to read -lrb- I find it much harder to tweek the mac to get dark text to show up well on the Samsung -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Also pretty easy to set up so I have my laptop screen and this monster showing two different applications -LRB- web running on one , work on the other , or an excel and word document on each screen -RRB- .</Tokens>
+		<POS>RB RB JJ TO VB RP RB PRP VBP PRP$ NN NN CC DT NN VBG CD JJ NNS -LRB- NN NN IN CD , NN IN DT JJ , CC DT VB CC NN NN IN DT NN -RRB- .</POS>
+		<Lemma>also pretty easy to set up so I have my laptop screen and this monster show two different application -lrb- web running on one , work on the other , or a excel and word document on each screen -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>We will see how satisfied I am in a month or two -LRB- I actually got this because the previous owner at work did n't want it .</Tokens>
+		<POS>PRP MD VB WRB JJ PRP VBP IN DT NN CC CD -LRB- PRP RB VBD DT IN DT JJ NN IN NN VBD RB VB PRP .</POS>
+		<Lemma>we will see how satisfied I be in a month or two -lrb- I actually get this because the previous owner at work do not want it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>He went to a 21 '' Acer .</Tokens>
+		<POS>PRP VBD TO DT CD '' NNP .</POS>
+		<Lemma>he go to a 21 '' Acer .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I think he sits two offices over that baby is so big . -RRB-</Tokens>
+		<POS>PRP VBP PRP VBZ CD NNS IN DT NN VBZ RB JJ . -RRB-</POS>
+		<Lemma>I think he sit two office over that baby be so big . -rrb-</Lemma>
+	</Sentence>
+</Document>

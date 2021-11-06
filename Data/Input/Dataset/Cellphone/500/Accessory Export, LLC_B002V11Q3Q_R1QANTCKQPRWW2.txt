@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>its your basic usb chord ... shipping and everything was quick ... good buy for a couple bucks ...</Tokens>
+		<POS>PRP$ PRP$ JJ NN NN : NN CC NN VBD JJ : JJ NN IN DT NN NNS :</POS>
+		<Lemma>its you basic usb chord ... shipping and everything be quick ... good buy for a couple buck ...</Lemma>
+	</Sentence>
+</Document>

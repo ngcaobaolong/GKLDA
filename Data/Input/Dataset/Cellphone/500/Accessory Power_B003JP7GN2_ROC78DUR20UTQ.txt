@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I returned this product .</Tokens>
+		<POS>PRP VBD DT NN .</POS>
+		<Lemma>I return this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great idea poor product , cheap and flimsy .</Tokens>
+		<POS>JJ NN JJ NN , JJ CC JJ .</POS>
+		<Lemma>great idea poor product , cheap and flimsy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Did not charge device -LRB- HTC Evo -RRB- .</Tokens>
+		<POS>VBD RB VB NN -LRB- NNP NNP -RRB- .</POS>
+		<Lemma>do not charge device -lrb- HTC Evo -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Latch where the batteries are stored was flimsy and felt would soon break .</Tokens>
+		<POS>VB WRB DT NNS VBP VBN VBD JJ CC VBD MD RB VB .</POS>
+		<Lemma>latch where the battery be store be flimsy and feel would soon break .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also a big disappointment was how the car charger when not in use would be stored where batteries are , thus having to take batteries out .</Tokens>
+		<POS>RB DT JJ NN VBD WRB DT NN NN WRB RB IN NN MD VB VBN WRB NNS VBP , RB VBG TO VB NNS RP .</POS>
+		<Lemma>also a big disappointment be how the car charger when not in use would be store where battery be , thus have to take battery out .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Very awkward .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very awkward .</Lemma>
+	</Sentence>
+</Document>

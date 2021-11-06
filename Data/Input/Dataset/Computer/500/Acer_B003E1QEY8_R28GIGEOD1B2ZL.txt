@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for monitor that will fit my computer armor .</Tokens>
+		<POS>PRP VBD VBG IN NN WDT MD VB PRP$ NN NN .</POS>
+		<Lemma>I be look for monitor that will fit my computer armor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My last monitor was those old kind not flat one so I do n't know other to compare .</Tokens>
+		<POS>PRP$ JJ NN VBD DT JJ NN RB JJ CD IN PRP VBP RB VB JJ TO VB .</POS>
+		<Lemma>my last monitor be those old kind not flat one so I do not know other to compare .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's works fine for my needs .</Tokens>
+		<POS>PRP VBZ NNS NN IN PRP$ NNS .</POS>
+		<Lemma>it be work fine for my need .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Of course shipping had no problem .</Tokens>
+		<POS>IN NN NN VBD DT NN .</POS>
+		<Lemma>of course shipping have no problem .</Lemma>
+	</Sentence>
+</Document>

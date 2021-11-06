@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Good : Pops just right - not small\/chewy like store-brand popcorn , and not huge and dry like the super-premium stuff .</Tokens>
+		<POS>JJ : NNPS RB JJ : RB NN IN JJ NN , CC RB JJ CC JJ IN DT JJ NN .</POS>
+		<Lemma>good : Pops just right - not small\/chewy like store-brand popcorn , and not huge and dry like the super-premium stuff .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Good price per pound , and this 5-lb bag is just the right size - most of Amazon 's bulk offerings are 10-20 lbs which , unless you 're mass-popping for an event , guarantees that the last few pounds will be stale .</Tokens>
+		<POS>JJ NN IN NN , CC DT JJ NN VBZ RB DT JJ NN : JJS IN NNP POS JJ NNS VBP CD NNS WDT , IN PRP VBP VBG IN DT NN , NNS IN DT JJ JJ NNS MD VB JJ .</POS>
+		<Lemma>good price per pound , and this 5-lb bag be just the right size - most of Amazon 's bulk offering be 10-20 lb which , unless you be mass-pop for a event , guarantee that the last few pound will be stale .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Bad : Large portion of unpopped kernels ; expect 10-15 % duds unless you want to risk burning the entire batch .</Tokens>
+		<POS>JJ : JJ NN IN JJ NNS : VB CD NN NNS IN PRP VBP TO VB VBG DT JJ NN .</POS>
+		<Lemma>bad : large portion of unpopped kernel ; expect 10-15 % dud unless you want to risk burn the entire batch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>By comparison , Orville Redenbacher leaves under 5 % in this same popper .</Tokens>
+		<POS>IN NN , NNP NNP VBZ IN CD NN IN DT JJ NN .</POS>
+		<Lemma>by comparison , Orville Redenbacher leave under 5 % in this same popper .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Bottom line : If the `` organic '' part is important to you , this is the brand to buy .</Tokens>
+		<POS>NN NN : IN DT `` JJ '' NN VBZ JJ TO PRP , DT VBZ DT NN TO VB .</POS>
+		<Lemma>bottom line : if the `` organic '' part be important to you , this be the brand to buy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If not it 's still worthwhile ; not quite in the Orville R. stratosphere , but it 's good and tasty and costs a LOT less .</Tokens>
+		<POS>IN RB PRP VBZ RB JJ : RB RB IN DT NNP NNP NN , CC PRP VBZ JJ CC JJ CC VBZ DT NN RBR .</POS>
+		<Lemma>if not it be still worthwhile ; not quite in the Orville R. stratosphere , but it be good and tasty and cost a lot less .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Tested with a Presto Power-Pop with fresh disc , in a 1250 watt GE microwave .</Tokens>
+		<POS>VBN IN DT NNP NNP IN JJ NN , IN DT CD NN NNP NN .</POS>
+		<Lemma>test with a Presto Power-Pop with fresh disc , in a 1250 watt GE microwave .</Lemma>
+	</Sentence>
+</Document>

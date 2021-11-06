@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I could live off of these !</Tokens>
+		<POS>PRP MD VB IN IN DT .</POS>
+		<Lemma>I could live off of these !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm not kidding .</Tokens>
+		<POS>PRP VBP RB VBG .</POS>
+		<Lemma>I be not kid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The regular salted almonds are good too , but I prefer the Smokehouse almonds .</Tokens>
+		<POS>DT JJ JJ NNS VBP JJ RB , CC PRP VBP DT NNP NNS .</POS>
+		<Lemma>the regular salted almond be good too , but I prefer the Smokehouse almond .</Lemma>
+	</Sentence>
+</Document>

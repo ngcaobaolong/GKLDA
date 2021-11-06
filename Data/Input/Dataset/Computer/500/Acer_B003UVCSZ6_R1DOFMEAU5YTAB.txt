@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Well i had a 4 year old lcd 20 inch monitor tha was starting to act up , well its time to get a new one .</Tokens>
+		<POS>UH FW VBD DT CD NN JJ NN CD NN NN NN VBD VBG TO VB RP , RB PRP$ NN TO VB DT JJ CD .</POS>
+		<Lemma>well i have a 4 year old lcd 20 inch monitor tha be start to act up , well its time to get a new one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>THis unit was on sale at Best Buy and its an LED and 1080 monitor and I say why not .</Tokens>
+		<POS>NNP NN VBD IN NN IN JJS JJ CC PRP$ DT NN CC CD NN CC PRP VBP WRB RB .</POS>
+		<Lemma>THis unit be on sale at best buy and its a led and 1080 monitor and I say why not .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Assembled it together , there wasnt any instructions at all , kinda cheap there .</Tokens>
+		<POS>VBN PRP RB , EX VBP DT NNS IN DT , NN JJ RB .</POS>
+		<Lemma>assemble it together , there wasnt any instruction at all , kinda cheap there .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Anyway , I used the dv-i cable to attach to my desktop HD video card .</Tokens>
+		<POS>RB , PRP VBD DT JJ NN TO VB TO PRP$ NN NN NN NN .</POS>
+		<Lemma>anyway , I use the dv-i cable to attach to my desktop hd video card .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It looked so crisp and clear and bright .</Tokens>
+		<POS>PRP VBD RB JJ CC JJ CC JJ .</POS>
+		<Lemma>it look so crisp and clear and bright .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I didnt realize how dull the image on the LCD was .</Tokens>
+		<POS>PRP VBP VB WRB JJ DT NN IN DT NNS VBD .</POS>
+		<Lemma>I didnt realize how dull the image on the lcd be .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>NOw regarding the light leaking from the edges , well I am aware that not all LED monitors has solved that problem and it doesnt matter to me because I dont like dimming the room light when I am using the computer , so I dont notice it all .</Tokens>
+		<POS>RB VBG DT JJ VBG IN DT NNS , RB PRP VBP JJ IN RB DT VBD NNS VBZ VBN IN NN CC PRP JJ NN TO PRP IN PRP VBP IN VBG DT NN NN WRB PRP VBP VBG DT NN , IN PRP VBP VB PRP DT .</POS>
+		<Lemma>now regard the light leak from the edge , well I be aware that not all lead monitor have solve that problem and it doesnt matter to I because I dont like dim the room light when I be use the computer , so I dont notice it all .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>NOw if this was for my living room , then I wont use this kind of monitor but as an office computer monitor it works just great .</Tokens>
+		<POS>RB IN DT VBD IN PRP$ NN NN , RB PRP VBP VB DT NN IN NN CC IN DT NN NN NN PRP VBZ RB JJ .</POS>
+		<Lemma>now if this be for my living room , then I wont use this kind of monitor but as a office computer monitor it work just great .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I could have gotten the next size up .</Tokens>
+		<POS>PRP MD VB VBN DT JJ NN RB .</POS>
+		<Lemma>I could have get the next size up .</Lemma>
+	</Sentence>
+</Document>

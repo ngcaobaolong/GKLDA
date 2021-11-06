@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ok , I have used plenty of FM Transmitters before and only one has ever been strong enough to drown out all static with a strong FM signal .</Tokens>
+		<POS>NNP , PRP VBP VBN NN IN NNP NNPS IN CC RB CD VBZ RB VBN JJ RB TO VB RP DT JJ IN DT JJ NN NN .</POS>
+		<Lemma>Ok , I have use plenty of FM Transmitters before and only one have ever be strong enough to drown out all static with a strong fm signal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Alas , that one transmitter died after years of loyal service .</Tokens>
+		<POS>RB , IN CD NN VBD IN NNS IN JJ NN .</POS>
+		<Lemma>alas , that one transmitter die after year of loyal service .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I started to look around that could take advantage of Bluetooth technology on my Samsung Galaxy SII .</Tokens>
+		<POS>IN PRP VBD TO VB IN DT MD VB NN IN NNP NN IN PRP$ NNP NNP NNP .</POS>
+		<Lemma>so I start to look around that could take advantage of Bluetooth technology on my Samsung Galaxy SII .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was originally going to go for the Motorola hands-free set until I saw this one with all the incredible feedback .</Tokens>
+		<POS>PRP VBD RB VBG TO VB IN DT NNP JJ NN IN PRP VBD DT CD IN PDT DT JJ NN .</POS>
+		<Lemma>I be originally go to go for the Motorola hands-free set until I see this one with all the incredible feedback .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I liked the price too .</Tokens>
+		<POS>PRP VBD DT NN RB .</POS>
+		<Lemma>I like the price too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Once I watched the video , I was pretty much sold .</Tokens>
+		<POS>RB PRP VBD DT NN , PRP VBD RB RB VBN .</POS>
+		<Lemma>once I watch the video , I be pretty much sell .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Are you kidding me ?</Tokens>
+		<POS>VBP PRP VBG PRP .</POS>
+		<Lemma>be you kid I ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This thing is great !!!!</Tokens>
+		<POS>DT NN VBZ JJ IN</POS>
+		<Lemma>this thing be great !!!!</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I hear almost zero static .</Tokens>
+		<POS>PRP VBP RB CD JJ .</POS>
+		<Lemma>I hear almost zero static .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The setup was a snap .</Tokens>
+		<POS>DT NN VBD DT NN .</POS>
+		<Lemma>the setup be a snap .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The controls are super simple on the device .</Tokens>
+		<POS>DT NNS VBP JJ JJ IN DT NN .</POS>
+		<Lemma>the control be super simple on the device .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The sound of calls is perfect through my radio .</Tokens>
+		<POS>DT NN IN NNS VBZ JJ IN PRP$ NN .</POS>
+		<Lemma>the sound of call be perfect through my radio .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I hear perfectly !!!</Tokens>
+		<POS>PRP VBP RB CD</POS>
+		<Lemma>I hear perfectly !!!</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I play Spotify and Sirius through my phone and I hear both with perfect clarity .</Tokens>
+		<POS>PRP VBP NNP CC NNP IN PRP$ NN CC PRP VBP CC IN JJ NN .</POS>
+		<Lemma>I play Spotify and Sirius through my phone and I hear both with perfect clarity .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>When texts or email or calls come through , the device is quick to respond .</Tokens>
+		<POS>WRB NNS CC NN CC VBZ VBN IN , DT NN VBZ JJ TO VB .</POS>
+		<Lemma>when text or email or call come through , the device be quick to respond .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>All I can really say is `` this thing works '' !</Tokens>
+		<POS>DT PRP MD RB VB VBZ `` DT NN VBZ '' .</POS>
+		<Lemma>all I can really say be `` this thing work '' !</Lemma>
+	</Sentence>
+</Document>

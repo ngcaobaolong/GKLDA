@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Luego de leer varios reviews me decidi porque penseacute; que si filmaba en 720p , pero definitivamente NO. .</Tokens>
+		<POS>NNP FW FW FW NNS PRP FW FW FW FW FW FW FW CD , FW FW NN .</POS>
+		<Lemma>Luego de leer varios review I decidi porque penseacute; que si filmaba en 720p , pero definitivamente no. .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Al tomar los videos en la camara se ven excelentes , pero al pasarlos a la computadora notas que son simples videos CHIMBOS que puedes tomar mejor hasta con un ipod touch o iphone , por lo que estaacute; camara es pura publicidad pagada .</Tokens>
+		<POS>NNP NNP VBZ NNS IN DT FW FW FW NNS , FW FW FW FW FW FW FW FW NN VBZ NNS NNP FW FW FW FW FW NN JJ NN NN NN NN , NN FW FW FW FW FW FW FW FW .</POS>
+		<Lemma>Al tomar lo video en la camara se ven excelente , pero al pasarlos a la computadora notas que son simple video CHIMBOS que puedes tomar mejor hasta con un ipod touch o iphone , por lo que estaacute; camara es pura publicidad pagada .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>NO RECOMENDADA !</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>no recomendada !</Lemma>
+	</Sentence>
+</Document>

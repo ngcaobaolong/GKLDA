@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Acer Monitor I bought from Amazon is very easy to put together and hook up to the computer .</Tokens>
+		<POS>DT NNP NNP NNP VBD IN NNP VBZ RB JJ TO VB RB CC NN RB TO DT NN .</POS>
+		<Lemma>the Acer Monitor I buy from Amazon be very easy to put together and hook up to the computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The picture is very clear , and this monitor is exactly what I wanted in a monitor .</Tokens>
+		<POS>DT NN VBZ RB JJ , CC DT NN VBZ RB WP PRP VBD IN DT NN .</POS>
+		<Lemma>the picture be very clear , and this monitor be exactly what I want in a monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It lives up to its description , and I would buy it again .</Tokens>
+		<POS>PRP VBZ RP TO PRP$ NN , CC PRP MD VB PRP RB .</POS>
+		<Lemma>it live up to its description , and I would buy it again .</Lemma>
+	</Sentence>
+</Document>

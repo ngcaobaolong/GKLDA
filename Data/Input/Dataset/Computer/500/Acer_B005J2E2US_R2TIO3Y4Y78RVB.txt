@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My Acer Aspire one is less than a year old and the screen went out .</Tokens>
+		<POS>PRP$ NNP NNP CD VBZ JJR IN DT NN JJ CC DT NN VBD RB .</POS>
+		<Lemma>my Acer Aspire one be less than a year old and the screen go out .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There was no physical damage or dropped .</Tokens>
+		<POS>EX VBD DT JJ NN CC VBD .</POS>
+		<Lemma>there be no physical damage or drop .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They would replace it for $ 100 -LRB- after I sent it in with shipping costs -RRB- .</Tokens>
+		<POS>PRP MD VB PRP IN $ CD -LRB- IN PRP VBD PRP IN IN NN NNS -RRB- .</POS>
+		<Lemma>they would replace it for $ 100 -lrb- after I send it in with shipping cost -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I bought a new one for $ 40 and easily did it myself .</Tokens>
+		<POS>PRP VBD DT JJ CD IN $ CD CC RB VBD PRP PRP .</POS>
+		<Lemma>I buy a new one for $ 40 and easily do it myself .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was disappointed that the screen went out less than a year and they would not do anything about it .</Tokens>
+		<POS>PRP VBD VBN IN DT NN VBD RB JJR IN DT NN CC PRP MD RB VB NN IN PRP .</POS>
+		<Lemma>I be disappoint that the screen go out less than a year and they would not do anything about it .</Lemma>
+	</Sentence>
+</Document>

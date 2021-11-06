@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First , this is not the official Motorola Droid charging cord .</Tokens>
+		<POS>RB , DT VBZ RB DT JJ NNP NNP VBG NN .</POS>
+		<Lemma>first , this be not the official Motorola Droid charge cord .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It looks more like a cheap Blackberry knockoff .</Tokens>
+		<POS>PRP VBZ JJR IN DT JJ NNP NN .</POS>
+		<Lemma>it look more like a cheap Blackberry knockoff .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>More importantly , after 5 hours on the charger , my Droid said 20 % charged .</Tokens>
+		<POS>RBR RB , IN CD NNS IN DT NN , PRP$ NNP VBD CD NN VBN .</POS>
+		<Lemma>more importantly , after 5 hour on the charger , my Droid say 20 % charge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>WHAT ??!!</Tokens>
+		<POS>WDT NN</POS>
+		<Lemma>what ??!!</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Just to be fair , I checked my other chargers and they work fine .</Tokens>
+		<POS>RB TO VB JJ , PRP VBD PRP$ JJ NNS CC PRP VBP JJ .</POS>
+		<Lemma>just to be fair , I check my other charger and they work fine .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Also this cord is made of a really cheap sheath that cracked at the base of the USB connector within a WEEK of having it .</Tokens>
+		<POS>RB DT NN VBZ VBN IN DT RB JJ NN WDT VBD IN DT NN IN DT JJ NN IN DT NN IN VBG PRP .</POS>
+		<Lemma>also this cord be make of a really cheap sheath that crack at the base of the usb connector within a week of have it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>DON `` T WASTE YOUR TIME !!!</Tokens>
+		<POS>NNP `` NN NN JJ NN NN</POS>
+		<Lemma>DON `` t waste your time !!!</Lemma>
+	</Sentence>
+</Document>

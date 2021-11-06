@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Didnt notice much difference if any .</Tokens>
+		<POS>NNP NN JJ NN IN DT .</POS>
+		<Lemma>Didnt notice much difference if any .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Sorta bummed me out man .</Tokens>
+		<POS>NNP VBD PRP RP NN .</POS>
+		<Lemma>Sorta bum I out man .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Wanted signal for a call when i barely can receive text messages .</Tokens>
+		<POS>VBN NN IN DT NN WRB FW RB MD VB NN NNS .</POS>
+		<Lemma>want signal for a call when i barely can receive text message .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Overall im glad it didnt cost much !</Tokens>
+		<POS>JJ NN JJ PRP JJ NN RB .</POS>
+		<Lemma>overall im glad it didnt cost much !</Lemma>
+	</Sentence>
+</Document>

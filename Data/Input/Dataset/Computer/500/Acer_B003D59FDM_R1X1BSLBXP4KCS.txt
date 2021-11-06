@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It might be rely cheep but it is not a cheep item .</Tokens>
+		<POS>PRP MD VB VB NN CC PRP VBZ RB DT NN NN .</POS>
+		<Lemma>it might be rely cheep but it be not a cheep item .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>MY DAD GOT THIS FOR HIM IT JUST GOT HEAR TODAY I LOVE IT IT IS SO COOL I THINK THIS IS REALY GOOD THANK YOU MAKER AND READER OMG LOL THANK GOD HE THREW THAT OGLY OLD THING OUT I LOV THISONE PLEAS GET IF LOOKING FOR A REALY GOOD ITEM .</Tokens>
+		<POS>NNP NNP NNP NNP IN NNP NNP RB VBD NN NN PRP VBP PRP PRP VBZ NNP NNP PRP VBP NNS VBZ NNP NNP VB PRP NN CC NN NN NNP NNP NNP PRP VBD WDT NNP NNP NNP NNP PRP VBP JJ NNS VBP IN VBG IN DT NNP NNP NNP .</POS>
+		<Lemma>MY DAD GOT THIS for HIM IT just get hear today I love it it be SO COOL I think this be REALY GOOD thank you maker and reader omg LOL THANK GOD he throw that OGLY OLD THING OUT I lov thisone plea get if look for a REALY GOOD ITEM .</Lemma>
+	</Sentence>
+</Document>

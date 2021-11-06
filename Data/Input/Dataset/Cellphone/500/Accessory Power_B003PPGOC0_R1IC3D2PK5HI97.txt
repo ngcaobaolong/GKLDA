@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This device was sent to me very promptly which was good as we were leaving on a car trip .</Tokens>
+		<POS>DT NN VBD VBN TO PRP RB RB WDT VBD JJ IN PRP VBD VBG IN DT NN NN .</POS>
+		<Lemma>this device be send to I very promptly which be good as we be leave on a car trip .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Gogroove is easy to set up and use and works very well in my car .</Tokens>
+		<POS>DT NNP VBZ JJ TO VB RP CC VB CC VBZ RB RB IN PRP$ NN .</POS>
+		<Lemma>the Gogroove be easy to set up and use and work very well in my car .</Lemma>
+	</Sentence>
+</Document>

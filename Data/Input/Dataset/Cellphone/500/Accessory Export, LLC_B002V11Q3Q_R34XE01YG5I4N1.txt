@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>You get what you pay for .</Tokens>
+		<POS>PRP VBP WP PRP VBP IN .</POS>
+		<Lemma>you get what you pay for .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This cord feels cheap .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this cord feel cheap .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When I connected it to my droid 2 , it caused the hardware to basically freeze !</Tokens>
+		<POS>WRB PRP VBD PRP TO PRP$ NN CD , PRP VBD DT NN TO RB VB .</POS>
+		<Lemma>when I connect it to my droid 2 , it cause the hardware to basically freeze !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I tried again with another cable without any problem .</Tokens>
+		<POS>PRP VBD RB IN DT NN IN DT NN .</POS>
+		<Lemma>I try again with another cable without any problem .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This one is going back and I plan to get a cable made by Motorola !</Tokens>
+		<POS>DT NN VBZ VBG RB CC PRP VBP TO VB DT NN VBN IN NNP .</POS>
+		<Lemma>this one be go back and I plan to get a cable make by Motorola !</Lemma>
+	</Sentence>
+</Document>

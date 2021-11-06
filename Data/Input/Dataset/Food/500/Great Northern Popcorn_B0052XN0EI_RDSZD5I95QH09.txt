@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>first time : I ordered this on a whim and so far it has worked out .</Tokens>
+		<POS>JJ NN : PRP VBD DT IN DT NN CC RB RB PRP VBZ VBN RP .</POS>
+		<Lemma>first time : I order this on a whim and so far it have work out .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have made it in both the air popper and the presto microwave popper and both come out fine .</Tokens>
+		<POS>PRP VBP VBN PRP IN CC DT NN NN CC DT JJ NN NN CC DT VBN RP NN .</POS>
+		<Lemma>I have make it in both the air popper and the presto microwave popper and both come out fine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wo n't say it is the BEST I have even had but I bought some GV at WM that was pretty bad and had to use it up .</Tokens>
+		<POS>PRP MD RB VB PRP VBZ DT JJS PRP VBP RB VBN CC PRP VBD DT NN IN NNP WDT VBD RB JJ CC VBD TO VB PRP RP .</POS>
+		<Lemma>I will not say it be the best I have even have but I buy some gv at WM that be pretty bad and have to use it up .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Other GV I had bought before was n't as bad as this last batch .</Tokens>
+		<POS>JJ NN PRP VBD VBN RB VBD RB RB JJ IN DT JJ NN .</POS>
+		<Lemma>other gv I have buy before be not as bad as this last batch .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is SO much better than that or at least the first bag was .</Tokens>
+		<POS>DT VBZ RB RB JJR IN DT CC IN JJS DT JJ NN VBD .</POS>
+		<Lemma>this be so much better than that or at least the first bag be .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I keep my popcorn in the freezer in a sealed container .</Tokens>
+		<POS>PRP VBP PRP$ NN IN DT NN IN DT VBN NN .</POS>
+		<Lemma>I keep my popcorn in the freezer in a seal container .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It lasts longer that way - we did it as kids growing up and I have continued to do it .</Tokens>
+		<POS>PRP VBZ RBR DT NN , PRP VBD PRP IN NNS VBG RP CC PRP VBP VBN TO VB PRP .</POS>
+		<Lemma>it last longer that way - we do it as kid grow up and I have continue to do it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So when I got the big bag , I put some in a couple of ziploc bags and put the rest in the Rubbermaid container I keep in the freezer door .</Tokens>
+		<POS>RB WRB PRP VBD DT JJ NN , PRP VBD DT IN DT NN IN NN NNS CC VBD DT NN IN DT NNP NN PRP VBP IN DT NN NN .</POS>
+		<Lemma>so when I get the big bag , I put some in a couple of ziploc bag and put the rest in the Rubbermaid container I keep in the freezer door .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I keep a 3 T measuring cup by it and that amount works well fin the microwave popper .</Tokens>
+		<POS>PRP VBP DT CD NN VBG NN IN PRP CC IN NN VBZ RB VB DT NN NN .</POS>
+		<Lemma>I keep a 3 t measure cup by it and that amount work well fin the microwave popper .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Getting 50 lbs at once would be too much for my limited freezer space .</Tokens>
+		<POS>VBG CD NNS IN RB MD VB RB JJ IN PRP$ JJ NN NN .</POS>
+		<Lemma>get 50 lb at once would be too much for my limited freezer space .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I will stick to this size bag or smaller .</Tokens>
+		<POS>PRP MD VB TO DT NN NN CC JJR .</POS>
+		<Lemma>I will stick to this size bag or smaller .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I ordered this a second time - it came open - slit on the seal of the bag .</Tokens>
+		<POS>PRP VBD DT DT JJ NN : PRP VBD JJ : NN IN DT NN IN DT NN .</POS>
+		<Lemma>I order this a second time - it come open - slit on the seal of the bag .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The second bag was STALE so who knows how long it had been open .</Tokens>
+		<POS>DT JJ NN VBD JJ RB WP VBZ WRB RB PRP VBD VBN JJ .</POS>
+		<Lemma>the second bag be stale so who know how long it have be open .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Amazon did refund my money for the slit open bag .</Tokens>
+		<POS>NNP VBD VB PRP$ NN IN DT JJ JJ NN .</POS>
+		<Lemma>Amazon do refund my money for the slit open bag .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The popcorn was BAD and ended up being tossed .</Tokens>
+		<POS>DT NN VBD NNP CC VBD RP VBG VBD .</POS>
+		<Lemma>the popcorn be BAD and end up be toss .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I wo n't be buying this again .</Tokens>
+		<POS>PRP MD RB VB VBG DT RB .</POS>
+		<Lemma>I will not be buy this again .</Lemma>
+	</Sentence>
+</Document>

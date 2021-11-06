@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I came upon a bag of Bob 's Red Mill Veggie Soup at Big Lots .</Tokens>
+		<POS>PRP VBD IN DT NN IN NNP POS NNP NNP NNP NNP IN NNP NNP .</POS>
+		<Lemma>I come upon a bag of Bob 's Red Mill Veggie Soup at Big Lots .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am a fan of creamed soups and the bag had a very easy recipe for turning the veggie soup into a creamed soup .</Tokens>
+		<POS>PRP VBP DT NN IN JJ NNS CC DT NN VBD DT RB JJ NN IN VBG DT NN NN IN DT VBN NN .</POS>
+		<Lemma>I be a fan of creamed soup and the bag have a very easy recipe for turn the veggie soup into a cream soup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I simmered some of the soup mix with water for about thirty minutes and then added some sauteed celery , carrots , onions , zucchini and a squash .</Tokens>
+		<POS>PRP VBD DT IN DT NN NN IN NN IN IN CD NNS CC RB VBD DT NN NN , NNS , NNS , NNS CC DT NN .</POS>
+		<Lemma>I simmer some of the soup mix with water for about thirty minute and then add some sauteed celery , carrot , onion , zucchini and a squash .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I cooked the soup for a bit longer and then blended away with a bit of So Delicious coconut milk .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN RBR CC RB JJ RB IN DT NN IN CC NNP NN NN .</POS>
+		<Lemma>I cook the soup for a bit longer and then blended away with a bit of so Delicious coconut milk .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The result was fantastic .</Tokens>
+		<POS>DT NN VBD JJ .</POS>
+		<Lemma>the result be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>With a piece of french bread for dipping , I was in soup heaven .</Tokens>
+		<POS>IN DT NN IN JJ NN IN VBG , PRP VBD IN NN NN .</POS>
+		<Lemma>with a piece of french bread for dip , I be in soup heaven .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This Bob 's Red Mill mix serves as an excellent base for soups .</Tokens>
+		<POS>DT NNP POS NNP NNP NN VBZ IN DT JJ NN IN NNS .</POS>
+		<Lemma>this Bob 's Red Mill mix serve as a excellent base for soup .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>My creamed soup had a distinct celery flavor , but depending on the vegetables you have lying around , you could easily make the soup taste more like peas or carrots .</Tokens>
+		<POS>PRP$ VBN NN VBD DT JJ NN NN , CC VBG IN DT NNS PRP VBP VBG IN , PRP MD RB VB DT NN NN RBR IN NNS CC NNS .</POS>
+		<Lemma>my cream soup have a distinct celery flavor , but depend on the vegetable you have lie around , you could easily make the soup taste more like pea or carrot .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>For a fall soup with a bit of sweet edge , I think I will incorporate some apples .</Tokens>
+		<POS>IN DT NN NN IN DT NN IN JJ NN , PRP VBP PRP MD VB DT NNS .</POS>
+		<Lemma>for a fall soup with a bit of sweet edge , I think I will incorporate some apple .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The contents of the soup mix include lentils and peas and alphabet pasta pieces .</Tokens>
+		<POS>DT NNS IN DT NN NN VBP NNS CC NNS CC NN NN NNS .</POS>
+		<Lemma>the contents of the soup mix include lentil and pea and alphabet pasta piece .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's nothing you could n't put together on your own but Bob 's Red Mill has done the work for you and for the price of each bag , I do n't know how much you would save by assembling your own soup .</Tokens>
+		<POS>PRP VBZ NN PRP MD RB VB RB IN PRP$ JJ CC NNP POS NNP NNP VBZ VBN DT NN IN PRP CC IN DT NN IN DT NN , PRP VBP RB VB WRB JJ PRP MD VB IN VBG PRP$ JJ NN .</POS>
+		<Lemma>it be nothing you could not put together on you own but Bob 's Red Mill have do the work for you and for the price of each bag , I do not know how much you would save by assemble you own soup .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Each bag yields impressive quantities , especially when vegetables are added .</Tokens>
+		<POS>DT NN NNS JJ NNS , RB WRB NNS VBP VBN .</POS>
+		<Lemma>each bag yield impressive quantity , especially when vegetable be add .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>My 1 and 1\/4 cups of soup mix with some vegetables yielded over four cups .</Tokens>
+		<POS>PRP$ CD CC CD NNS IN NN NN IN DT NNS VBD IN CD NNS .</POS>
+		<Lemma>my 1 and 1\/4 cup of soup mix with some vegetable yield over four cup .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I like my soups thick , however , so other people could have gotten more out of my batch by adding more milk or water .</Tokens>
+		<POS>PRP VBP PRP$ NNS JJ , RB , IN JJ NNS MD VB VBN RBR IN IN PRP$ NN IN VBG JJR NN CC NN .</POS>
+		<Lemma>I like my soup thick , however , so other people could have get more out of my batch by add more milk or water .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I will purchase this again and recommend it for soup fanatics !</Tokens>
+		<POS>PRP MD VB DT RB CC VB PRP IN NN NNS .</POS>
+		<Lemma>I will purchase this again and recommend it for soup fanatic !</Lemma>
+	</Sentence>
+</Document>

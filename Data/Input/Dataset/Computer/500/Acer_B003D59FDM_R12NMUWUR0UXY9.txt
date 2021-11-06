@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Although u will need the adapter to access to the mac mini , it 's a perfect size for a small area .</Tokens>
+		<POS>IN NN MD VB DT NN TO NN TO DT NN NNS , PRP VBZ DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>although u will need the adapter to access to the mac minus , it be a perfect size for a small area .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>U might have to play around w \/ the monitor specs , but I found it e-z enough for anyone to set up .</Tokens>
+		<POS>NNP MD VB TO VB IN NN : DT NN NNS , CC PRP VBD PRP JJ RB IN NN TO VB RP .</POS>
+		<Lemma>U might have to play around w \/ the monitor spec , but I find it e-z enough for anyone to set up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just remember u will need the screen adapter .</Tokens>
+		<POS>RB VB NN MD VB DT NN NN .</POS>
+		<Lemma>just remember u will need the screen adapter .</Lemma>
+	</Sentence>
+</Document>

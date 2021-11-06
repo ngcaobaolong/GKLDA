@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had this device paired with my phone and Pandora playing through my car radio speakers within 4 minutes of plugging it into the accessory port .</Tokens>
+		<POS>PRP VBD DT NN VBN IN PRP$ NN CC NN NN IN PRP$ NN NN NNS IN CD NNS IN VBG PRP IN DT JJ NN .</POS>
+		<Lemma>I have this device pair with my phone and pandora playing through my car radio speaker within 4 minute of plug it into the accessory port .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great little device that puts out surprisingly good quality sound , even on frequencies with a little radio extra radio interference - it actually sounds better then normal radio broadcasts !</Tokens>
+		<POS>NNP JJ NN WDT VBZ RP RB JJ NN NN , RB IN NNS IN DT JJ NN JJ NN NN : PRP RB VBZ JJR RB JJ NN NNS .</POS>
+		<Lemma>Great little device that put out surprisingly good quality sound , even on frequency with a little radio extra radio interference - it actually sound better then normal radio broadcast !</Lemma>
+	</Sentence>
+</Document>

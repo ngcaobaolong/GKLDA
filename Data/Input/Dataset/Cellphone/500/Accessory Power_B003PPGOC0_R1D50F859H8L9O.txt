@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>At first the device worked well and I was satisfied with the sound quality .</Tokens>
+		<POS>IN RB DT NN VBD RB CC PRP VBD VBN IN DT JJ NN .</POS>
+		<Lemma>at first the device work well and I be satisfy with the sound quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>That lasted for about a month .</Tokens>
+		<POS>DT VBD IN IN DT NN .</POS>
+		<Lemma>that last for about a month .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First the usb charging cable went out .</Tokens>
+		<POS>RB DT NN VBG NN VBD RB .</POS>
+		<Lemma>first the usb charge cable go out .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Then it became much harder to find a station .</Tokens>
+		<POS>RB PRP VBD JJ JJR TO VB DT NN .</POS>
+		<Lemma>then it become much harder to find a station .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The sound quality worsened .</Tokens>
+		<POS>DT JJ NN VBD .</POS>
+		<Lemma>the sound quality worsen .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And now the fm modulator is completely out .</Tokens>
+		<POS>CC RB DT NN NN VBZ RB RB .</POS>
+		<Lemma>and now the fm modulator be completely out .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Great idea , horrible product !</Tokens>
+		<POS>JJ NN , JJ NN .</POS>
+		<Lemma>great idea , horrible product !</Lemma>
+	</Sentence>
+</Document>

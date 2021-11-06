@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My new Acer computer , running Windows 7 Home Premium , has nice features , but the machine is surprisingly slow , even brand new , and connects poorly to the Internet , in a rather peculiar manner .</Tokens>
+		<POS>PRP$ JJ NNP NN , VBG NNP CD NNP NNP , VBZ JJ NNS , CC DT NN VBZ RB JJ , RB NN JJ , CC VBZ RB TO DT NN , IN DT RB JJ NN .</POS>
+		<Lemma>my new Acer computer , run Windows 7 Home Premium , have nice feature , but the machine be surprisingly slow , even brand new , and connect poorly to the internet , in a rather peculiar manner .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like the low weight .</Tokens>
+		<POS>PRP VBP DT JJ NN .</POS>
+		<Lemma>I like the low weight .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>About the same weight as my 10 '' Samsung netbook , with about 20 % more screen area , and it still fits into my netbook case .</Tokens>
+		<POS>IN DT JJ NN IN PRP$ CD '' NNP NN , IN RB CD NN JJR NN NN , CC PRP RB VBZ IN PRP$ NN NN .</POS>
+		<Lemma>about the same weight as my 10 '' Samsung netbook , with about 20 % more screen area , and it still fit into my netbook case .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Good screen , fine keyboard , easy and standard .</Tokens>
+		<POS>JJ NN , JJ NN , JJ CC JJ .</POS>
+		<Lemma>good screen , fine keyboard , easy and standard .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But when I type , at medium to slow speed , I find the type on the screen is often behind , up to one word behind my mediocre typing .</Tokens>
+		<POS>CC WRB PRP NN , IN NN TO VB NN , PRP VBP DT NN IN DT NN VBZ RB RB , IN TO CD NN IN PRP$ JJ NN .</POS>
+		<Lemma>but when I type , at medium to slow speed , I find the type on the screen be often behind , up to one word behind my mediocre typing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This happens in my on line e-mail as well when I type in Word Perfect , off line .</Tokens>
+		<POS>DT VBZ IN PRP$ IN NN VB RB RB WRB PRP NN IN NNP NNP , IN NN .</POS>
+		<Lemma>this happen in my on line e-mail as well when I type in Word Perfect , off line .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Also , the Internet often disappears or goes very , very slowly , generally when my girl friend is also on line with her 17 '' Dell Notebook .</Tokens>
+		<POS>RB , DT NN RB VBZ CC VBZ RB , RB RB , RB WRB PRP$ NN NN VBZ RB IN NN IN PRP$ CD '' NNP NNP .</POS>
+		<Lemma>also , the internet often disappear or go very , very slowly , generally when my girl friend be also on line with she 17 '' Dell Notebook .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Yes , this is a computer problem , not an Internet problem .</Tokens>
+		<POS>UH , DT VBZ DT NN NN , RB DT NN NN .</POS>
+		<Lemma>yes , this be a computer problem , not a internet problem .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Her Internet connection never slows down , only mine dies .</Tokens>
+		<POS>PRP$ NN NN RB VBZ RP , RB JJ VBZ .</POS>
+		<Lemma>she internet connection never slow down , only mine die .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Also , we share a high speed connection , running thru a new type `` N '' wireless modem , which normally handles two computers with ease .</Tokens>
+		<POS>RB , PRP VBP DT JJ NN NN , VBG NN DT JJ NN `` NN '' JJ NN , WDT RB VBZ CD NNS IN NN .</POS>
+		<Lemma>also , we share a high speed connection , run thru a new type `` n '' wireless modem , which normally handle two computer with ease .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>But with this new Acer , rather often I can not connect to Google , can not load my e-mail , or get any other web site to load .</Tokens>
+		<POS>CC IN DT JJ NNP , RB RB PRP MD RB VB TO NNP , MD RB VB PRP$ JJ , CC VB DT JJ NN NN TO NN .</POS>
+		<Lemma>but with this new Acer , rather often I can not connect to Google , can not load my e-mail , or get any other web site to load .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>My Internet connection shows `` five bars , excellent signal strength '' .</Tokens>
+		<POS>PRP$ NN NN VBZ `` CD NNS , JJ NN NN '' .</POS>
+		<Lemma>my internet connection show `` five bar , excellent signal strength '' .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If I go away , and work in the kitchen for ten minutes , when I return , the page has loaded .</Tokens>
+		<POS>IN PRP VBP RB , CC NN IN DT NN IN CD NNS , WRB PRP VBP , DT NN VBZ VBN .</POS>
+		<Lemma>if I go away , and work in the kitchen for ten minute , when I return , the page have load .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>So the Internet connection is present , but extremely slow .</Tokens>
+		<POS>IN DT NN NN VBZ JJ , CC RB JJ .</POS>
+		<Lemma>so the internet connection be present , but extremely slow .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>When my girlfriend is off line , pages do not take five to ten minutes to load .</Tokens>
+		<POS>WRB PRP$ NN VBZ IN NN , NNS VBP RB VB CD TO CD NNS TO NN .</POS>
+		<Lemma>when my girlfriend be off line , page do not take five to ten minute to load .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Most importantly , I almost never had this problem with any other computer , including my recent Samsung Netbook -LRB- which I retired after it developed permanent white screen -RRB- .</Tokens>
+		<POS>RBS RB , PRP RB RB VBD DT NN IN DT JJ NN , VBG PRP$ JJ NNP NNP -LRB- WDT PRP VBD IN PRP VBD JJ JJ NN -RRB- .</POS>
+		<Lemma>most importantly , I almost never have this problem with any other computer , include my recent Samsung Netbook -lrb- which I retire after it develop permanent white screen -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>So , I feel sure that my poor Internet experience is native to the Acer computer .</Tokens>
+		<POS>RB , PRP VBP JJ IN PRP$ JJ NN NN VBZ JJ TO DT NNP NN .</POS>
+		<Lemma>so , I feel sure that my poor internet experience be native to the Acer computer .</Lemma>
+	</Sentence>
+</Document>

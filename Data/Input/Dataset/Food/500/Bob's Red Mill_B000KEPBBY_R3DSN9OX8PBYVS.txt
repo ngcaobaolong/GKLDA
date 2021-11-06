@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm always on the lookout for meals that are palatable to my toddler and me and my husband .</Tokens>
+		<POS>PRP VBP RB IN DT NN IN NNS WDT VBP JJ TO PRP$ NN CC PRP CC PRP$ NN .</POS>
+		<Lemma>I be always on the lookout for meal that be palatable to my toddler and I and my husband .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This product passed the test .</Tokens>
+		<POS>DT NN VBD DT NN .</POS>
+		<Lemma>this product pass the test .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My version involves beef broth , a can of diced tomatoes , and whatever veggies are in my crisper that particular day .</Tokens>
+		<POS>PRP$ NN VBZ NN NN , DT NN IN JJ NNS , CC WDT NNS VBP IN PRP$ JJR WDT JJ NN .</POS>
+		<Lemma>my version involve beef broth , a can of diced tomato , and whatever veggy be in my crisper that particular day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Plus , one cup of this soup mix feeds our whole family with leftovers so one package goes a long way .</Tokens>
+		<POS>NN , CD NN IN DT NN NN VBZ PRP$ JJ NN IN NNS RB CD NN VBZ DT JJ NN .</POS>
+		<Lemma>plus , one cup of this soup mix feed we whole family with leftovers so one package go a long way .</Lemma>
+	</Sentence>
+</Document>

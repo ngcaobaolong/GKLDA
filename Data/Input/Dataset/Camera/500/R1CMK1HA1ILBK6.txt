@@ -1,0 +1,292 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A little background to give you perspective on the review .</Tokens>
+		<POS>DT JJ NN TO VB PRP NN IN DT NN .</POS>
+		<Lemma>a little background to give you perspective on the review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm an advanced amateur shooting for about 10 years .</Tokens>
+		<POS>PRP VBP DT JJ JJ NN IN IN CD NNS .</POS>
+		<Lemma>I be a advanced amateur shooting for about 10 year .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I also own a Canon 5D Mark II with some L Zoom lenses -LRB- 24-70 F2 .8 and the 70-200 F2 .8 -RRB- and the very good 50mm 1.8 prime and a Fuji X100 .</Tokens>
+		<POS>PRP RB VBP DT NNP NNP NNP NNP IN DT NN NN NNS -LRB- CD NN CD CC DT CD NN CD -RRB- CC DT RB JJ JJ CD JJ CC DT NNP NN .</POS>
+		<Lemma>I also own a Canon 5D Mark II with some l zoom lens -lrb- 24-70 f2 .8 and the 70-200 f2 .8 -rrb- and the very good 50mm 1.8 prime and a Fuji x100 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I spent a lot of time -LRB- probably over 40 hours -RRB- researching this camera , reading reviews etc. before buying it on Amazon from a third party seller .</Tokens>
+		<POS>PRP VBD DT NN IN NN -LRB- RB IN CD NNS -RRB- VBG DT NN , VBG NNS FW IN VBG PRP IN NNP IN DT JJ NN NN .</POS>
+		<Lemma>I spend a lot of time -lrb- probably over 40 hour -rrb- research this camera , read review etc. before buy it on Amazon from a third party seller .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've had it about a week now and shooting with with the Sony 18-200 Zoom Lens -LRB- SEL18200 -RRB- .</Tokens>
+		<POS>PRP VBP VBD PRP IN DT NN RB CC VBG IN IN DT NNP CD NNP NNP -LRB- NN -RRB- .</POS>
+		<Lemma>I have have it about a week now and shoot with with the Sony 18-200 Zoom Lens -lrb- sel18200 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Below are my observations : Good : 1 .</Tokens>
+		<POS>NNP VBP PRP$ NNS : JJ : CD .</POS>
+		<Lemma>Below be my observation : good : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Very small camera body , smaller than my X100 and feels a lot like my old S90 compact in terms of size -LRB- this is of course without the lens -RRB- .</Tokens>
+		<POS>RB JJ NN NN , JJR IN PRP$ NN CC VBZ DT NN IN PRP$ JJ NN NN IN NNS IN NN -LRB- DT VBZ IN NN IN DT NN -RRB- .</POS>
+		<Lemma>very small camera body , smaller than my x100 and feel a lot like my old s90 compact in term of size -lrb- this be of course without the lens -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>With the 18-200 lens its no longer pocketable but still small and very manageable compared to a SLR .</Tokens>
+		<POS>IN DT CD NN PRP$ DT JJR JJ CC RB JJ CC RB JJ VBN TO DT NN .</POS>
+		<Lemma>with the 18-200 lens its no longer pocketable but still small and very manageable compare to a slr .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Great build quality , tough body , I like the styling and I love the handgrip .</Tokens>
+		<POS>NNP VB NN , JJ NN , PRP VBP DT NN CC PRP VBP DT NN .</POS>
+		<Lemma>Great build quality , tough body , I like the styling and I love the handgrip .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Just the right size .</Tokens>
+		<POS>RB DT JJ NN .</POS>
+		<Lemma>just the right size .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Probably the fastest shutter I have ever used , very little shutter lag .</Tokens>
+		<POS>RB DT JJS NN PRP VBP RB VBN , RB JJ NN NN .</POS>
+		<Lemma>probably the fastest shutter I have ever use , very little shutter lag .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Easy to use menus\/interface etc. .</Tokens>
+		<POS>NNP TO VB JJ NN .</POS>
+		<Lemma>Easy to use menus\/interface etc. .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Lots of options and things like sweep panorama and other `` gadget '' type things work well although unlikely that I will use them much .</Tokens>
+		<POS>NNS IN NNS CC NNS IN NN NN CC JJ `` NN '' NN NNS VBP RB IN JJ IN PRP MD VB PRP RB .</POS>
+		<Lemma>lot of option and thing like sweep panorama and other `` gadget '' type thing work well although unlikely that I will use they much .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>5 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>5 .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Good battery life .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>good battery life .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I 'm easily getting the 400 or so shots per charge its rated for .</Tokens>
+		<POS>PRP VBP RB VBG DT CD CC RB NNS IN NN PRP$ VBN IN .</POS>
+		<Lemma>I be easily get the 400 or so shot per charge its rate for .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>6 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>6 .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Electronic viewfinder - The good part is that it works really well , focus is fast even in low light , for the not so good part relating to the viewfinder see below .</Tokens>
+		<POS>JJ NN : DT JJ NN VBZ IN PRP VBZ RB RB , NN VBZ RB RB IN JJ NN , IN DT RB RB JJ NN VBG TO DT NN VB IN .</POS>
+		<Lemma>electronic viewfinder - the good part be that it work really well , focus be fast even in low light , for the not so good part relate to the viewfinder see below .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Not so good 1 .</Tokens>
+		<POS>RB RB JJ CD .</POS>
+		<Lemma>not so good 1 .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The electronic viewfinder that gets rave reviews is simply not as good to my eyes as looking through glass .</Tokens>
+		<POS>DT JJ NN WDT VBZ VB NNS VBZ RB RB IN JJ TO PRP$ NNS IN VBG IN NN .</POS>
+		<Lemma>the electronic viewfinder that get rave review be simply not as good to my eye as look through glass .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Its a far cry from an optical viewfinder and I find the little `` noise\/dots '' in low light distracting .</Tokens>
+		<POS>PRP$ DT JJ NN IN DT JJ NN CC PRP VBP DT JJ `` NNS '' IN JJ JJ JJ .</POS>
+		<Lemma>its a far cry from a optical viewfinder and I find the little `` noise\/dots '' in low light distracting .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Images even when blown up do n't seem to show the same noise so this is definitely a viewfinder issue .</Tokens>
+		<POS>NNS RB WRB VBN RP VBP RB VB TO VB DT JJ NN RB DT VBZ RB DT NN NN .</POS>
+		<Lemma>image even when blow up do not seem to show the same noise so this be definitely a viewfinder issue .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>To give you context even with a lens cap on when the LCD is completely black the viewfinder has tiny dots dancing on it sort of like static on a TV screen , this does n't go away .</Tokens>
+		<POS>TO VB PRP NN RB IN DT NN NN IN WRB DT NNS VBZ RB JJ DT NN VBZ JJ NNS VBG IN PRP NN IN IN JJ IN DT NN NN , DT VBZ RB VB RB .</POS>
+		<Lemma>to give you context even with a lens cap on when the lcd be completely black the viewfinder have tiny dot dance on it sort of like static on a tv screen , this do not go away .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Internal Flash design needs work .</Tokens>
+		<POS>JJ NN NN VBZ NN .</POS>
+		<Lemma>internal flash design need work .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>When used with the SEL18200 lens there is noticeable shadow in images due to the lens blocking some of the light , to the point where I am currently not using the flash at all and will eventually invest in an external or wireless flash .</Tokens>
+		<POS>WRB VBN IN DT NN NN EX VBZ JJ NN IN NNS JJ TO DT NN VBG DT IN DT NN , TO DT NN WRB PRP VBP RB RB VBG DT NN IN DT CC MD RB VB IN DT JJ CC JJ NN .</POS>
+		<Lemma>when use with the sel18200 lens there be noticeable shadow in image due to the lens block some of the light , to the point where I be currently not use the flash at all and will eventually invest in a external or wireless flash .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Just simply providing the ability to bounce this off the ceiling would have helped .</Tokens>
+		<POS>RB RB VBG DT NN TO VB DT IN DT NN MD VB VBN .</POS>
+		<Lemma>just simply provide the ability to bounce this off the ceiling would have help .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>UPDATE : Someone in comments just pointed out and I verified that you can manually tilt the flash while shooting .</Tokens>
+		<POS>NNP : NN IN NNS RB VBD RP CC PRP VBD IN PRP MD RB VB DT NN IN NN .</POS>
+		<Lemma>UPDATE : someone in comment just point out and I verify that you can manually tilt the flash while shooting .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Solves my issue with the SEL18200 , thanks .</Tokens>
+		<POS>VBZ PRP$ NN IN DT NN , NNS .</POS>
+		<Lemma>solve my issue with the sel18200 , thanks .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>In the end what I really care about though is image quality .</Tokens>
+		<POS>IN DT NN WDT PRP RB VB IN RB VBZ NN NN .</POS>
+		<Lemma>in the end what I really care about though be image quality .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>In this the camera does not disappoint .</Tokens>
+		<POS>IN DT DT NN VBZ RB VB .</POS>
+		<Lemma>in this the camera do not disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>It does indoors just about as well as my Fuji X100 which to me is the best low light , auto WB adjustment under any kind of light shooter I have ever used and for landscapes and nature its almost as good as my 5D particularly in good light .</Tokens>
+		<POS>PRP VBZ RB RB IN RB RB IN PRP$ NNP NN WDT TO PRP VBZ DT JJS JJ NN , NN NN NN IN DT NN IN JJ NN PRP VBP RB VBN CC IN NNS CC NN PRP$ RB RB JJ IN PRP$ NN RB IN JJ NN .</POS>
+		<Lemma>it do indoors just about as well as my Fuji x100 which to I be the best low light , auto wb adjustment under any kind of light shooter I have ever use and for landscape and nature its almost as good as my 5d particularly in good light .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>I suspect with a better lens I would be hard pressed to see the difference , right now while the 18-200 f3 .5 is very versatile my Canon glass is definitely a little sharper , but at its size and lightweight appeal by guess is that the Sony will get a lot more at bats than the Canon .</Tokens>
+		<POS>PRP VBP IN DT JJR NN PRP MD VB JJ VBN TO VB DT NN , RB RB IN DT CD NN CD VBZ RB JJ PRP$ NNP NN VBZ RB DT JJ JJR , CC IN PRP$ NN CC JJ NN IN NN VBZ IN DT NNP MD VB DT NN RBR IN NNS IN DT NNP .</POS>
+		<Lemma>I suspect with a better lens I would be hard press to see the difference , right now while the 18-200 f3 .5 be very versatile my Canon glass be definitely a little sharper , but at its size and lightweight appeal by guess be that the Sony will get a lot more at bat than the Canon .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>Even when blown up to the size of a modern day LCD TV pictures look great and the zoom lens is great at bringing far away details closer .</Tokens>
+		<POS>RB WRB VBN RP TO DT NN IN DT JJ NN NNS NN NNS VBP JJ CC DT NN NN VBZ JJ IN VBG RB RB NNS RBR .</POS>
+		<Lemma>even when blow up to the size of a modern day lcd tv picture look great and the zoom lens be great at bring far away detail closer .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>The 24MP se ntilde ; sor does capture a lot of detail and does well in low light situations as well .</Tokens>
+		<POS>DT FW FW CC FW : NN VBZ VB DT NN IN NN CC VBZ RB IN JJ JJ NNS RB RB .</POS>
+		<Lemma>the 24mp se ntilde ; sor do capture a lot of detail and do well in low light situation as well .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>I 'm not really a high ISO shooter preferring flash or faster lenses where this becomes required but up to ISO 1600 have not noticed any issues with the picture quality even on a 63 '' screen .</Tokens>
+		<POS>PRP VBP RB RB DT JJ NN NN VBG NN CC JJR NNS WRB DT VBZ JJ CC RB TO NN CD VBP RB VBN DT NNS IN DT NN NN RB IN DT CD '' NN .</POS>
+		<Lemma>I be not really a high iso shooter prefer flash or faster lens where this become required but up to iso 1600 have not notice any issue with the picture quality even on a 63 '' screen .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>All in all I am very happy with my purchase and look forward to many years of shooting with it .</Tokens>
+		<POS>DT IN DT PRP VBP RB JJ IN PRP$ NN CC VB RB TO JJ NNS IN NN IN PRP .</POS>
+		<Lemma>all in all I be very happy with my purchase and look forward to many year of shooting with it .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>I 'd recommend it along with the SEL-18200 lens for anyone looking for a second camera as a go anywhere alternative to a SLR and lenses or as a very significant upgrade from a compact .</Tokens>
+		<POS>PRP MD VB PRP IN IN DT NN NN IN NN VBG IN DT JJ NN IN DT NN RB JJ TO DT NN CC NNS CC IN DT RB JJ NN IN DT JJ .</POS>
+		<Lemma>I would recommend it along with the sel-18200 lens for anyone look for a second camera as a go anywhere alternative to a slr and lens or as a very significant upgrade from a compact .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>This could also very easily become the only camera for an enthusiast\/advanced amateur type who would be willing to trade in the bulky DSLR .</Tokens>
+		<POS>DT MD RB RB RB VB DT JJ NN IN DT JJ JJ NN WP MD VB JJ TO VB IN DT JJ NN .</POS>
+		<Lemma>this could also very easily become the only camera for a enthusiast\/advanced amateur type who would be willing to trade in the bulky dslr .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>I definitely hope they make more high quality lenses for it as time goes by .</Tokens>
+		<POS>PRP RB VBP PRP VB JJR JJ NN NNS IN PRP IN NN VBZ IN .</POS>
+		<Lemma>I definitely hope they make more high quality lens for it as time go by .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>I was also looking at the 24mm F1 .8 Carl Zeiss prime -LRB- 36mm equivalent -RRB- but in the end opted for the versatility of the zoom particularly since my X100 gives me a dedicated 35mm point of view for about the same price but with camera body attached .</Tokens>
+		<POS>PRP VBD RB VBG IN DT CD NN CD NNP NNP JJ -LRB- JJ NN -RRB- CC IN DT NN VBD IN DT NN IN DT NN RB IN PRP$ NN VBZ PRP DT JJ CD NN IN NN IN IN DT JJ NN CC IN NN NN VBN .</POS>
+		<Lemma>I be also look at the 24mm f1 .8 Carl Zeiss prime -lrb- 36mm equivalent -rrb- but in the end opt for the versatility of the zoom particularly since my x100 give I a dedicated 35mm point of view for about the same price but with camera body attach .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>Update - I did some more comparisons to my X100 and liked the Nex 7 enough to sell the Fuji .</Tokens>
+		<POS>NNP : PRP VBD DT JJR NNS TO PRP$ NN CC VBD DT NNP CD JJ TO VB DT NNP .</POS>
+		<Lemma>Update - I do some more comparison to my x100 and like the Nex 7 enough to sell the Fuji .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>I used the proceeds to purchase the Carl Zeiss Sonnar 24mm F1 .8 e mount lens .</Tokens>
+		<POS>PRP VBD DT NNS TO VB DT NNP NNP NNP CD NN CD SYM VBP NN .</POS>
+		<Lemma>I use the proceeds to purchase the Carl Zeiss Sonnar 24mm f1 .8 e mount lens .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>I 'm finding this lens to mitigate some of my viewfinder issues since its bright enough and the little dancing dots seem at bay but not totally gone .</Tokens>
+		<POS>PRP VBP VBG DT NN TO VB DT IN PRP$ NN NNS IN PRP$ JJ JJ CC DT JJ NN NNS VBP IN NN CC RB RB VBN .</POS>
+		<Lemma>I be find this lens to mitigate some of my viewfinder issue since its bright enough and the little dancing dot seem at bay but not totally go .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>Also finding this lens to be of very high quality , auto-focus is very quick and indoor low light shooting a breeze .</Tokens>
+		<POS>RB VBG DT NN TO VB IN RB JJ NN , NN VBZ RB JJ CC JJ JJ NN VBG DT NN .</POS>
+		<Lemma>also find this lens to be of very high quality , auto-focus be very quick and indoor low light shoot a breeze .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Portraits are sharp and background is pleasantly de-focused , even in dimly lit rooms I am not using flash or high ISOs and outdoors or in good light its beautiful .</Tokens>
+		<POS>NNS VBP JJ CC NN VBZ RB JJ , RB IN RB VBN NNS PRP VBP RB VBG NN CC JJ NNS CC NNS CC IN JJ NN PRP$ JJ .</POS>
+		<Lemma>portrait be sharp and background be pleasantly de-focused , even in dimly light room I be not use flash or high iso and outdoors or in good light its beautiful .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>Update 2 - I have now been using the Nex 7 for almost three months .</Tokens>
+		<POS>NNP LS : PRP VBP RB VBN VBG DT NN CD IN RB CD NNS .</POS>
+		<Lemma>Update 2 - I have now be use the nex 7 for almost three month .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>I have to say I love it even more .</Tokens>
+		<POS>PRP VBP TO VB PRP VBP PRP RB RBR .</POS>
+		<Lemma>I have to say I love it even more .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>Its become my go to camera for a lot of different occasions and I recently traveled internationally with this and the Zeiss F1 .8 lens as my only camera .</Tokens>
+		<POS>PRP$ VBN PRP$ VB TO NN IN DT NN IN JJ NNS CC PRP RB VBD RB IN DT CC DT NNP NN CD NN IN PRP$ JJ NN .</POS>
+		<Lemma>its become my go to camera for a lot of different occasion and I recently travel internationally with this and the Zeiss f1 .8 lens as my only camera .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>Pictures of the trip came out beautiful , although I 'm not much of a dedicated 35mm shooter I found that there was enough there to make me very happy and in some cases crops etc. taking advantage of the ample resolution the Nex offers strengthened particular images .</Tokens>
+		<POS>NNS IN DT NN VBD RP JJ , IN PRP VBP RB JJ IN DT JJ CD NN PRP VBD IN EX VBD RB RB TO VB PRP RB JJ CC IN DT NNS NNS FW VBG NN IN DT JJ NN DT NNP VBZ JJ JJ NNS .</POS>
+		<Lemma>picture of the trip come out beautiful , although I be not much of a dedicated 35mm shooter I find that there be enough there to make I very happy and in some case crop etc. take advantage of the ample resolution the Nex offer strengthened particular image .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>I have also added the HVL20 flash to my collection and find it to be useful in low light , indoor types of situations and pretty compact still and recently added the Tamron 18-200 lens which I am liking a little more than the Sony SEL18200 since its a little smaller , lighter and produces about the same image quality .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NN TO PRP$ NN CC VB PRP TO VB JJ IN JJ NN , JJ NNS IN NNS CC RB JJ RB CC RB VBD DT NNP CD NN WDT PRP VBP VBG DT RB JJR IN DT NNP NN IN PRP$ DT JJ JJR , JJR CC VBZ IN DT JJ NN NN .</POS>
+		<Lemma>I have also add the hvl20 flash to my collection and find it to be useful in low light , indoor type of situation and pretty compact still and recently add the Tamron 18-200 lens which I be like a little more than the Sony sel18200 since its a little smaller , lighter and produce about the same image quality .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>Vain I know but I actually like the black of the Tamron lens more .</Tokens>
+		<POS>JJ PRP VBP CC PRP RB VBP DT JJ IN DT NNP NN RBR .</POS>
+		<Lemma>vain I know but I actually like the black of the Tamron lens more .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>I have been doing some tests also of portraits compared to my 5D Mark II and for me at least the Full Frame bokeh of the 5D ca n't be beat .</Tokens>
+		<POS>PRP VBP VBN VBG DT NNS RB IN NNS VBN TO PRP$ NN NNP NNP CC IN PRP IN JJS DT JJ NN NN IN DT NN MD RB VB VBN .</POS>
+		<Lemma>I have be do some test also of portrait compare to my 5d Mark II and for I at least the full frame bokeh of the 5d can not be beat .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>I do n't have a great portrait lens for the Nex yet so will reserve final judgement until I acquire one -LRB- 50mm F1 .8 on pre-order -RRB- but at near identical focal lengths and apertures the Canon 5D images have the 3D like pop to them that the Nex is missing ONLY when compared side by side , i.e. the Nex does render a little more detail in the background .</Tokens>
+		<POS>PRP VBP RB VB DT JJ NN NN IN DT NNP RB RB MD VB JJ NN IN PRP VBP CD -LRB- CD NN CD IN NN -RRB- CC IN JJ JJ JJ NNS CC NNS DT NNP NN NNS VBP DT NN IN NN TO PRP IN DT NNP VBZ VBG RB WRB VBN NN IN NN , FW DT NNP VBZ VB DT RB RBR NN IN DT NN .</POS>
+		<Lemma>I do not have a great portrait lens for the Nex yet so will reserve final judgement until I acquire one -lrb- 50mm f1 .8 on pre-order -rrb- but at near identical focal length and aperture the Canon 5d image have the 3d like pop to they that the Nex be miss only when compare side by side , i.e. the Nex do render a little more detail in the background .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>Outside of this extreme bit of detective work that likely has very little value in actual use I am extremely happy with Nex for portraits and for all others types of shooting including landscape with the Zeiss lens .</Tokens>
+		<POS>IN IN DT JJ NN IN NN NN WDT RB VBZ RB JJ NN IN JJ NN PRP VBP RB JJ IN NN IN NNS CC IN DT NNS NNS IN NN VBG NN IN DT NNP NN .</POS>
+		<Lemma>outside of this extreme bit of detective work that likely have very little value in actual use I be extremely happy with nex for portrait and for all other type of shooting include landscape with the Zeiss lens .</Lemma>
+	</Sentence>
+</Document>

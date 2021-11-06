@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I could n't believe how awesome this thing is .</Tokens>
+		<POS>PRP MD RB VB WRB JJ DT NN VBZ .</POS>
+		<Lemma>I could not believe how awesome this thing be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's easy to set up , and the quality it delivers is great !</Tokens>
+		<POS>PRP VBZ JJ TO VB RP , CC DT NN PRP VBZ VBZ JJ .</POS>
+		<Lemma>it be easy to set up , and the quality it deliver be great !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I also talked to several people using it as a hands free and they said I sounded fine .</Tokens>
+		<POS>PRP RB VBD TO JJ NNS VBG PRP IN DT NNS JJ CC PRP VBD PRP VBD NN .</POS>
+		<Lemma>I also talk to several people use it as a hand free and they say I sound fine .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Worth more than $ 50 !</Tokens>
+		<POS>NNP JJR IN $ CD .</POS>
+		<Lemma>Worth more than $ 50 !</Lemma>
+	</Sentence>
+</Document>

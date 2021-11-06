@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is my second Acer Aspire One .</Tokens>
+		<POS>DT VBZ PRP$ JJ NNP NNP CD .</POS>
+		<Lemma>this be my second Acer Aspire one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Model 722-0473 .</Tokens>
+		<POS>NNP CD .</POS>
+		<Lemma>Model 722-0473 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Perfect for my needs for writing , researching , light-weight travel portability and using my computer as a TV .</Tokens>
+		<POS>NNP IN PRP$ NNS IN VBG , VBG , JJ NN NN CC VBG PRP$ NN IN DT NN .</POS>
+		<Lemma>Perfect for my need for write , research , light-weight travel portability and use my computer as a tv .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I like the wider screen and keyboard .</Tokens>
+		<POS>PRP VBP DT JJR NN CC NN .</POS>
+		<Lemma>I like the wider screen and keyboard .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>A big plus is that Microsoft includes at least a starter version of programs such as Word and Excel with the Home Premium version .</Tokens>
+		<POS>DT JJ NN VBZ IN NNP VBZ IN JJS DT JJ NN IN NNS JJ IN NN CC NNP IN DT NNP NNP NN .</POS>
+		<Lemma>a big plus be that Microsoft include at least a starter version of program such as word and Excel with the Home Premium version .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have n't used either program enough yet to know how they differ from the full version .</Tokens>
+		<POS>PRP VBP RB VBN DT NN RB RB TO VB WRB PRP VBP IN DT JJ NN .</POS>
+		<Lemma>I have not use either program enough yet to know how they differ from the full version .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The main drawback is getting the hang of the hair-trigger mouse pad .</Tokens>
+		<POS>DT JJ NN VBZ VBG DT VB IN DT JJ NN NN .</POS>
+		<Lemma>the main drawback be get the hang of the hair-trigger mouse pad .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Tt highlights words and passages on its own , for one thing , making it too easy to accidentally delete something .</Tokens>
+		<POS>NN VBZ NNS CC NNS IN PRP$ JJ , IN CD NN , VBG PRP RB JJ TO RB VB NN .</POS>
+		<Lemma>tt highlight word and passage on its own , for one thing , make it too easy to accidentally delete something .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If there 's a way to tame the unruly mouse , it will get 5 stars .</Tokens>
+		<POS>IN EX VBZ DT NN TO JJ DT JJ NN , PRP MD VB CD NNS .</POS>
+		<Lemma>if there be a way to tame the unruly mouse , it will get 5 star .</Lemma>
+	</Sentence>
+</Document>

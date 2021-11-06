@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have this tablet , and can say for the most part does what is says , If your needing hard drive space make sure you buy an sd card for your files , or music as you will run out of harddrive space fast .</Tokens>
+		<POS>PRP VBP DT NN , CC MD VB IN DT JJS NN VBZ WP VBZ VBZ , IN PRP$ VBG JJ NN NN VBP JJ PRP VBP DT NN NN IN PRP$ NNS , CC NN IN PRP MD VB IN IN JJ NN RB .</POS>
+		<Lemma>I have this tablet , and can say for the most part do what be say , if you need hard drive space make sure you buy a sd card for you file , or music as you will run out of harddrive space fast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Run windows 8 consumer preview flawlessly , full hdmi support video , and audio through hdmi .</Tokens>
+		<POS>NNP NNS CD NN NN RB , JJ NNS VBP NN , CC NN IN NNS .</POS>
+		<Lemma>Run window 8 consumer preview flawlessly , full hdmus support video , and audio through hdmus .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Way over priced you can buy a 13 inch laptop with larger hard drive , and faster processors for the price .</Tokens>
+		<POS>NN IN VBN PRP MD VB DT CD NN NN IN JJR JJ NN , CC RBR NNS IN DT NN .</POS>
+		<Lemma>way over price you can buy a 13 inch laptop with larger hard drive , and faster processor for the price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If your thinking about this tablet wait until end of year .</Tokens>
+		<POS>IN PRP$ VBG IN DT JJ NN IN NN IN NN .</POS>
+		<Lemma>if you think about this tablet wait until end of year .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>windows 8 tablets will start coming out , price on this will drop .</Tokens>
+		<POS>NNS CD NNS MD VB VBG RB , NN IN DT MD VB .</POS>
+		<Lemma>window 8 tablet will start come out , price on this will drop .</Lemma>
+	</Sentence>
+</Document>

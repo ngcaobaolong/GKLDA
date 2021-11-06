@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is simply one of the best cereals available today .</Tokens>
+		<POS>DT VBZ RB CD IN DT JJS NNS JJ NN .</POS>
+		<Lemma>this be simply one of the best cereal available today .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is exactly what a person 's body needs to get going in the morning .</Tokens>
+		<POS>PRP VBZ RB WP DT NN POS NN VBZ TO VB VBG IN DT NN .</POS>
+		<Lemma>it be exactly what a person 's body need to get go in the morning .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love it !</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I love it !</Lemma>
+	</Sentence>
+</Document>

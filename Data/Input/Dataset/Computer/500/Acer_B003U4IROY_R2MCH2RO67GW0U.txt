@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this monitor because I frequently work from home , and got tired of staring at my tiny laptop screen .</Tokens>
+		<POS>PRP VBD DT NN IN PRP RB VBP IN NN , CC VBD VBN IN VBG IN PRP$ JJ NN NN .</POS>
+		<Lemma>I purchase this monitor because I frequently work from home , and get tire of stare at my tiny laptop screen .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This monitor is crystal clear , easy to set up , and takes up minimal space on my desk .</Tokens>
+		<POS>DT NN VBZ JJ JJ , JJ TO VB RP , CC VBZ RP JJ NN IN PRP$ NN .</POS>
+		<Lemma>this monitor be crystal clear , easy to set up , and take up minimal space on my desk .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It does n't have speakers , but I do not require them , so that is irrelevant to me .</Tokens>
+		<POS>PRP VBZ RB VB NNS , CC PRP VBP RB VB PRP , RB IN VBZ JJ TO PRP .</POS>
+		<Lemma>it do not have speaker , but I do not require they , so that be irrelevant to I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If you are looking for something to increase the viewing space of your laptop , then I HIGHLY recommend this product .</Tokens>
+		<POS>IN PRP VBP VBG IN NN TO VB DT VBG NN IN PRP$ NN , RB PRP RB VB DT NN .</POS>
+		<Lemma>if you be look for something to increase the view space of you laptop , then I highly recommend this product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you are looking for something for gaming , then I might not recommend this item .</Tokens>
+		<POS>IN PRP VBP VBG IN NN IN NN , RB PRP MD RB VB DT NN .</POS>
+		<Lemma>if you be look for something for gaming , then I might not recommend this item .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But as a working professional , I prefer this monitor to the one in my office at work .</Tokens>
+		<POS>CC IN DT VBG NN , PRP VBP DT NN TO DT CD IN PRP$ NN IN NN .</POS>
+		<Lemma>but as a work professional , I prefer this monitor to the one in my office at work .</Lemma>
+	</Sentence>
+</Document>

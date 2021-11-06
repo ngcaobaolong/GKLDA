@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This compact portable USB charger is ideal for keeping my cell and bluetooth headset supplied with all the energy I need for continous use .</Tokens>
+		<POS>DT JJ JJ JJ NN VBZ JJ IN VBG PRP$ NN CC NN NN VBN IN PDT DT NN PRP VBP IN JJ NN .</POS>
+		<Lemma>this compact portable usb charger be ideal for keep my cell and bluetooth headset supply with all the energy I need for continous use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It can use the auto cigarette plug , house current recepticle , one 9 volt or two AA batteries to supply a charge to two USB ports .</Tokens>
+		<POS>PRP MD VB DT NN NN NN , NN JJ NN , CD CD NN CC CD NN NNS TO VB DT NN TO CD JJ NNS .</POS>
+		<Lemma>it can use the auto cigarette plug , house current recepticle , one 9 volt or two aa battery to supply a charge to two usb port .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This flexability allows me to stay on the airewaves for quite an extended length of time .</Tokens>
+		<POS>DT NN VBZ PRP TO VB IN DT NNS IN RB DT JJ NN IN NN .</POS>
+		<Lemma>this flexability allow I to stay on the airewave for quite a extended length of time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have not yet had to hang up due to either my cell or bluetooth headset losing power .</Tokens>
+		<POS>PRP VBP RB RB VBD TO VB RP JJ TO CC PRP$ NN CC NN NN VBG NN .</POS>
+		<Lemma>I have not yet have to hang up due to either my cell or bluetooth headset lose power .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I would whole heartily recommend this device to anyone who needs the charging flexibilty this unit offers .</Tokens>
+		<POS>PRP MD JJ RB VB DT NN TO NN WP VBZ DT VBG NN DT NN VBZ .</POS>
+		<Lemma>I would whole heartily recommend this device to anyone who need the charge flexibilty this unit offer .</Lemma>
+	</Sentence>
+</Document>

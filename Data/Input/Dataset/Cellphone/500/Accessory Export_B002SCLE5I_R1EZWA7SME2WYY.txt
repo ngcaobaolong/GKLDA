@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It did work and increase my signal .</Tokens>
+		<POS>PRP VBD NN CC VB PRP$ NN .</POS>
+		<Lemma>it do work and increase my signal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Was not a big increase but did help hold my signal and increase to one bar or aleast hold the one bar in place where I had no bars .</Tokens>
+		<POS>VBD RB DT JJ NN CC VBD VB VB PRP$ NN CC NN TO CD NN CC JJ VBP DT CD NN IN NN WRB PRP VBD DT NNS .</POS>
+		<Lemma>be not a big increase but do help hold my signal and increase to one bar or aleast hold the one bar in place where I have no bar .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It says 10 pack but only one came .</Tokens>
+		<POS>PRP VBZ CD NN CC RB CD VBD .</POS>
+		<Lemma>it say 10 pack but only one come .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I guess what do you expect for under $ 3 .</Tokens>
+		<POS>PRP VBP WP VBP PRP VB IN IN $ CD .</POS>
+		<Lemma>I guess what do you expect for under $ 3 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Wanted to try putting one than one in my phone , may order another one and give it a try .</Tokens>
+		<POS>VBN TO VB VBG CD IN CD IN PRP$ NN , MD VB DT CD CC VB PRP DT NN .</POS>
+		<Lemma>want to try put one than one in my phone , may order another one and give it a try .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>From other reviews it looked like if you could put two it would be more helpful .</Tokens>
+		<POS>IN JJ NNS PRP VBD IN IN PRP MD VB CD PRP MD VB RBR JJ .</POS>
+		<Lemma>from other review it look like if you could put two it would be more helpful .</Lemma>
+	</Sentence>
+</Document>

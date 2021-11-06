@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I normally like red mill .</Tokens>
+		<POS>PRP RB IN JJ NN .</POS>
+		<Lemma>I normally like red mill .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The quality is quite good .</Tokens>
+		<POS>DT NN VBZ RB JJ .</POS>
+		<Lemma>the quality be quite good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But this harkens back to the brick bread of the seventies .</Tokens>
+		<POS>CC DT VBZ RB TO DT NN NN IN DT NNS .</POS>
+		<Lemma>but this harken back to the brick bread of the seventy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I could n't get it to rise .</Tokens>
+		<POS>PRP MD RB VB PRP TO VB .</POS>
+		<Lemma>I could not get it to rise .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It tasted good , in a brick like way .</Tokens>
+		<POS>PRP VBD JJ , IN DT NN IN NN .</POS>
+		<Lemma>it taste good , in a brick like way .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Unfortunate .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>unfortunate .</Lemma>
+	</Sentence>
+</Document>

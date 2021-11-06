@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love being able to use the same charger for AC and DC , but it does a very poor job of charging with battery .</Tokens>
+		<POS>PRP VBP VBG JJ TO VB DT JJ NN IN NN CC NN , CC PRP VBZ DT RB JJ NN IN VBG IN NN .</POS>
+		<Lemma>I love be able to use the same charger for ac and dc , but it do a very poor job of charge with battery .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have tried charging my iPod with the AA and the 9V and have not been successful at getting over a 45 % charge with either .</Tokens>
+		<POS>PRP VBP VBN VBG PRP$ NN IN DT NN CC DT NN CC VBP RB VBN JJ IN VBG IN DT CD NN NN IN CC .</POS>
+		<Lemma>I have try charge my ipod with the aa and the 9v and have not be successful at get over a 45 % charge with either .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I still have not tried to fully charge my phone with it .</Tokens>
+		<POS>PRP RB VBP RB VBN TO RB VB PRP$ NN IN PRP .</POS>
+		<Lemma>I still have not try to fully charge my phone with it .</Lemma>
+	</Sentence>
+</Document>

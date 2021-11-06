@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've been looking for good popcorn that does n't cost 4 arms and a leg like that Orville brand ... this really did the trick .</Tokens>
+		<POS>PRP VBP VBN VBG IN JJ NN WDT VBZ RB VB CD NNS CC DT NN IN DT NNP NN : DT RB VBD DT NN .</POS>
+		<Lemma>I have be look for good popcorn that do not cost 4 arm and a leg like that Orville brand ... this really do the trick .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Much better than any similarly priced popcorn I 've tried from grocery stores .</Tokens>
+		<POS>RB JJR IN DT RB VBN NN PRP VBP VBN IN NN NNS .</POS>
+		<Lemma>much better than any similarly price popcorn I have try from grocery store .</Lemma>
+	</Sentence>
+</Document>

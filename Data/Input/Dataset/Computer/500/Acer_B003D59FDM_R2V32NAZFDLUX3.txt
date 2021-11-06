@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Two months down the road , and I still love the crisp , bright image produced by this monitor .</Tokens>
+		<POS>CD NNS IN DT NN , CC PRP RB VBP DT JJ , JJ NN VBN IN DT NN .</POS>
+		<Lemma>two month down the road , and I still love the crisp , bright image produce by this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Wish I 'd bought two !</Tokens>
+		<POS>NNP PRP MD VBD CD .</POS>
+		<Lemma>Wish I would buy two !</Lemma>
+	</Sentence>
+</Document>

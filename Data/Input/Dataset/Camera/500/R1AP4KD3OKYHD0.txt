@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera for our family spring break vacation .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ NN NN NN NN .</POS>
+		<Lemma>I buy this camera for we family spring break vacation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After looking around this camera seemed to be the best available waterproof camera .</Tokens>
+		<POS>IN VBG IN DT NN VBD TO VB DT JJS JJ JJ NN .</POS>
+		<Lemma>after look around this camera seem to be the best available waterproof camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>so decided to buy it on Amazon through a vendor .</Tokens>
+		<POS>RB VBN TO VB PRP IN NNP IN DT NN .</POS>
+		<Lemma>so decide to buy it on Amazon through a vendor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Found out soon enough that the battery life was exceedingly limited and I kept running out of battery .</Tokens>
+		<POS>VBN RB RB JJ IN DT NN NN VBD RB JJ CC PRP VBD VBG IN IN NN .</POS>
+		<Lemma>find out soon enough that the battery life be exceedingly limited and I keep run out of battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The first day of snorkeling the battery died within 10 minutes of underwater usage .</Tokens>
+		<POS>DT JJ NN IN VBG DT NN VBD IN CD NNS IN JJ NN .</POS>
+		<Lemma>the first day of snorkele the battery die within 10 minute of underwater usage .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I was shooting video .</Tokens>
+		<POS>PRP VBD VBG NN .</POS>
+		<Lemma>I be shoot video .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The second day ... the camera stopped functioning while I was shooting underwater ... only to find water had entered the battery case !!</Tokens>
+		<POS>DT JJ NN : DT NN VBD VBG IN PRP VBD VBG JJ : RB TO VB NN VBD VBN DT NN NN IN</POS>
+		<Lemma>the second day ... the camera stop function while I be shoot underwater ... only to find water have enter the battery case !!</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>the LCD screen stopped working and obviously the battery terminals showed some corrosion due to the salt water .</Tokens>
+		<POS>DT NNS NN VBD VBG CC RB DT NN NNS VBD DT NN JJ TO DT NN NN .</POS>
+		<Lemma>the lcd screen stop work and obviously the battery terminal show some corrosion due to the salt water .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>So I am disappointed ... did not get the pictures I was dreaming of getting from our spring break vacation .</Tokens>
+		<POS>IN PRP VBP JJ : VBD RB VB DT NNS PRP VBD VBG IN VBG IN PRP$ NN NN NN .</POS>
+		<Lemma>so I be disappointed ... do not get the picture I be dream of get from we spring break vacation .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I have returned the camera and am back on the hunt for a better underwater camera .</Tokens>
+		<POS>PRP VBP VBN DT NN CC VBP RB IN DT NN IN DT JJR JJ NN .</POS>
+		<Lemma>I have return the camera and be back on the hunt for a better underwater camera .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Good picture even at night .</Tokens>
+		<POS>JJ NN RB IN NN .</POS>
+		<Lemma>good picture even at night .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Wired set up was fairly easy to do but the wireless set up was a pain .</Tokens>
+		<POS>JJ VBN RP VBD RB JJ TO VB CC DT JJ VBN RP VBD DT NN .</POS>
+		<Lemma>wired set up be fairly easy to do but the wireless set up be a pain .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Still unable to connect .</Tokens>
+		<POS>RB JJ TO VB .</POS>
+		<Lemma>still unable to connect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I will possibly return it .</Tokens>
+		<POS>PRP MD RB VB PRP .</POS>
+		<Lemma>I will possibly return it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am trying out the Uniden system .</Tokens>
+		<POS>PRP VBP VBG IN DT NNP NN .</POS>
+		<Lemma>I be try out the Uniden system .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I pop popcorn several times per week .</Tokens>
+		<POS>PRP VBP NN JJ NNS IN NN .</POS>
+		<Lemma>I pop popcorn several time per week .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've NEVER had such bad corn .</Tokens>
+		<POS>PRP VBP NN VBD JJ JJ NN .</POS>
+		<Lemma>I have never have such bad corn .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This stuff popped about 1\/2 of the kernals and it was small and lots of extra kernal debris .</Tokens>
+		<POS>DT NN VBN IN CD IN DT NNS CC PRP VBD JJ CC NNS IN JJ JJ NN .</POS>
+		<Lemma>this stuff pop about 1\/2 of the kernal and it be small and lot of extra kernal debris .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'd try to return it if I wanted to work that hard instead I 'll see if I can give it away to a co-worker or something .</Tokens>
+		<POS>PRP MD VB TO VB PRP IN PRP VBD TO VB DT JJ RB PRP MD VB IN PRP MD VB PRP RB TO DT NN CC NN .</POS>
+		<Lemma>I would try to return it if I want to work that hard instead I 'll see if I can give it away to a co-worker or something .</Lemma>
+	</Sentence>
+</Document>

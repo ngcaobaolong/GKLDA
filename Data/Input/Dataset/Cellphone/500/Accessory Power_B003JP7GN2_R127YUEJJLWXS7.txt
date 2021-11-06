@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I like this item because it has multiple functions to charge whatever it is you need charging ... Although my GPS would not charge when the USB cable was plugged into it ... I guess I just needed to use the charger that came with the GPS .</Tokens>
+		<POS>PRP VBP DT NN IN PRP VBZ JJ NNS TO VB WDT PRP VBZ PRP VBP VBG : IN PRP$ NNS MD RB VB WRB DT JJ NN VBD VBN IN PRP : PRP VBP PRP RB VBD TO VB DT NN WDT VBD IN DT NNP .</POS>
+		<Lemma>I like this item because it have multiple function to charge whatever it be you need charge ... although my gp would not charge when the usb cable be plug into it ... I guess I just need to use the charger that come with the GPS .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Overall I think it 's a good product .</Tokens>
+		<POS>JJ PRP VBP PRP VBZ DT JJ NN .</POS>
+		<Lemma>overall I think it be a good product .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First the monitor 's brightness is on the dark side and washes out if you try to adjust it with brightness\/contrast .</Tokens>
+		<POS>RB DT NN POS NN VBZ IN DT JJ NN CC VBZ RP IN PRP VBP TO VB PRP IN NN .</POS>
+		<Lemma>first the monitor 's brightness be on the dark side and wash out if you try to adjust it with brightness\/contrast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Within the last month or so , the pixels start to flipflop their color .</Tokens>
+		<POS>IN DT JJ NN CC RB , DT NNS VBP TO VB PRP$ NN .</POS>
+		<Lemma>within the last month or so , the pixel start to flipflop they color .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The reason that I 'm giving this monitor -LRB- Acer AL1912 -RRB- a low rating because Acer 's customer support will not pay to ship this thing back to them , plus they do not guarantee you they can fix it the first time you send it .</Tokens>
+		<POS>DT NN IN PRP VBP VBG DT NN -LRB- NN NN -RRB- DT JJ NN IN NNP POS NN NN MD RB VB TO VB DT NN RB TO PRP , CC PRP VBP RB VB PRP PRP MD VB PRP DT JJ NN PRP VBP PRP .</POS>
+		<Lemma>the reason that I be give this monitor -lrb- acer al1912 -rrb- a low rating because Acer 's customer support will not pay to ship this thing back to they , plus they do not guarantee you they can fix it the first time you send it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So at $ 35 a pop to ship this thing , you end up losing money quick .</Tokens>
+		<POS>RB IN $ CD DT NN TO VB DT NN , PRP VBP RP VBG NN JJ .</POS>
+		<Lemma>so at $ 35 a pop to ship this thing , you end up lose money quick .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We paid $ 235.00 for this monitor .</Tokens>
+		<POS>PRP VBD $ CD IN DT NN .</POS>
+		<Lemma>we pay $ 235.00 for this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Now with shipping the total cost will be $ 270.00 .</Tokens>
+		<POS>RB IN VBG DT JJ NN MD VB $ CD .</POS>
+		<Lemma>now with ship the total cost will be $ 270.00 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If they do n't fix it the first time , then I 'm going to have to spend another $ 35.00 to send it back again , and then I 'll be out $ 305.00 .</Tokens>
+		<POS>IN PRP VBP RB VB PRP DT JJ NN , RB PRP VBP VBG TO VB TO VB DT $ CD TO VB PRP RB RB , CC RB PRP MD VB RB $ CD .</POS>
+		<Lemma>if they do not fix it the first time , then I be go to have to spend another $ 35.00 to send it back again , and then I 'll be out $ 305.00 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>See the expotential increase ?</Tokens>
+		<POS>VB DT JJ NN .</POS>
+		<Lemma>see the expotential increase ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Their customer service rep could n't wait to get us off of the phone and apparently had no desire to help us .</Tokens>
+		<POS>PRP$ NN NN NN MD RB VB TO VB PRP IN IN DT NN CC RB VBD DT NN TO VB PRP .</POS>
+		<Lemma>they customer service rep could not wait to get we off of the phone and apparently have no desire to help we .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So hey Acer - I 'll never buy another one of your products again and just spreading the word a little about your weak warranty through Amazon !</Tokens>
+		<POS>RB RB NNP : PRP MD RB VB DT CD IN PRP$ NNS RB CC RB VBG DT NN DT JJ IN PRP$ JJ NN IN NNP .</POS>
+		<Lemma>so hey Acer - I 'll never buy another one of you product again and just spread the word a little about you weak warranty through Amazon !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 'm tired of paying top dollar for junk and to be treated badly !</Tokens>
+		<POS>PRP VBP JJ IN VBG JJ NN IN NN CC TO VB VBN RB .</POS>
+		<Lemma>I be tired of pay top dollar for junk and to be treat badly !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Heck , I can get treated badly for free at my local DMV !</Tokens>
+		<POS>NN , PRP MD VB VBN RB IN JJ IN PRP$ JJ NN .</POS>
+		<Lemma>heck , I can get treat badly for free at my local dmv !</Lemma>
+	</Sentence>
+</Document>

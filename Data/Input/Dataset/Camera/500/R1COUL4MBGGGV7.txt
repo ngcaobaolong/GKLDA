@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are looking for a good point and shoot digital camera that will take clear pictures and be true to color DO NOT buy this !</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN CC VB JJ NN WDT MD VB JJ NNS CC VB JJ TO VB NNP NNP VB DT .</POS>
+		<Lemma>if you be look for a good point and shoot digital camera that will take clear picture and be true to color DO NOT buy this !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>on auto mode the colors come out blueish when the white balance is set to incandescent and too sepia when in auto -LRB- for the white balance -RRB- , the coolpix I had -LRB- which was stolen so I though I upgraded -RRB- took clearer and better quality pictures .</Tokens>
+		<POS>IN NN NN DT NNS VBP RP JJ WRB DT JJ NN VBZ VBN TO JJ CC RB JJ WRB IN NN -LRB- IN DT JJ NN -RRB- , DT NN PRP VBD -LRB- WDT VBD VBN IN PRP IN PRP VBD -RRB- VBD JJR CC JJR NN NNS .</POS>
+		<Lemma>on auto mode the color come out blueish when the white balance be set to incandescent and too sepia when in auto -lrb- for the white balance -rrb- , the coolpix I have -lrb- which be steal so I though I upgrade -rrb- take clearer and better quality picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , if you are really looking for a camera that will take 3D shots - go right ahead this may be the one for you ; I just wish both were seamlessly fused .</Tokens>
+		<POS>RB , IN PRP VBP RB VBG IN DT NN WDT MD VB NN NNS : VB RB RB DT MD VB DT CD IN PRP : PRP RB VBP CC VBD RB VBN .</POS>
+		<Lemma>however , if you be really look for a camera that will take 3d shot - go right ahead this may be the one for you ; I just wish both be seamlessly fuse .</Lemma>
+	</Sentence>
+</Document>

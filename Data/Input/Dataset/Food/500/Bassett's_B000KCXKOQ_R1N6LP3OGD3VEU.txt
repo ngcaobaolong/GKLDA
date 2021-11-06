@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A co-worker of mine recommended this candy and I was anxious to try something new .</Tokens>
+		<POS>DT NN IN NN VBD DT NN CC PRP VBD JJ TO VB NN JJ .</POS>
+		<Lemma>a co-worker of mine recommend this candy and I be anxious to try something new .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I thought the flavors were nice and distinct .</Tokens>
+		<POS>PRP VBD DT NNS VBD JJ CC JJ .</POS>
+		<Lemma>I think the flavor be nice and distinct .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , the disintegrating\/grainy texture was less than desirable of a sensation to me .</Tokens>
+		<POS>RB , DT JJ NN VBD JJR IN JJ IN DT NN TO PRP .</POS>
+		<Lemma>however , the disintegrating\/grainy texture be less than desirable of a sensation to I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Also , the product was quite expensive for a small bag -LRB- but my rating does not reflect my unhappiness regarding the size of the item -RRB- .</Tokens>
+		<POS>RB , DT NN VBD RB JJ IN DT JJ NN -LRB- CC PRP$ NN VBZ RB VB PRP$ NN VBG DT NN IN DT NN -RRB- .</POS>
+		<Lemma>also , the product be quite expensive for a small bag -lrb- but my rating do not reflect my unhappiness regard the size of the item -rrb- .</Lemma>
+	</Sentence>
+</Document>

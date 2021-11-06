@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered the third generation and assumed that it came with everything you need .</Tokens>
+		<POS>PRP VBD DT JJ NN CC VBD IN PRP VBD IN NN PRP VBP .</POS>
+		<Lemma>I order the third generation and assume that it come with everything you need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not so .</Tokens>
+		<POS>RB RB .</POS>
+		<Lemma>not so .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has taken me hours searching the net to find the right cable to connect to hd tv .</Tokens>
+		<POS>PRP VBZ VBN PRP NNS VBG DT NN TO VB DT JJ NN TO VB TO VB NN .</POS>
+		<Lemma>it have take I hour search the net to find the right cable to connect to hd tv .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The different types of hdmi cables are very confusing .</Tokens>
+		<POS>DT JJ NNS IN NNS NNS VBP RB JJ .</POS>
+		<Lemma>the different type of hdmus cable be very confusing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It appears one needs a hdmi micro type d to a hdmi type a for this flip .</Tokens>
+		<POS>PRP VBZ CD VBZ DT NN JJ NN NN TO DT NN NN DT IN DT JJ .</POS>
+		<Lemma>it appear one need a hdmus micro type d to a hdmus type a for this flip .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Now I am waiting for cable to view my video on my hdtv .</Tokens>
+		<POS>RB PRP VBP VBG IN NN TO VB PRP$ NN IN PRP$ NN .</POS>
+		<Lemma>now I be wait for cable to view my video on my hdtv .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Using with my iPhone 4 in the NY\/NJ area .</Tokens>
+		<POS>VBG IN PRP$ NNP CD IN DT NNP NN .</POS>
+		<Lemma>use with my iPhone 4 in the NY\/NJ area .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Always get fantastic sound quality .</Tokens>
+		<POS>RB VB JJ JJ NN .</POS>
+		<Lemma>always get fantastic sound quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had one of those cheap $ 5 items , and this one gets so much less interference -LRB- as in almost never any with this one . -RRB-</Tokens>
+		<POS>PRP VBD CD IN DT JJ $ CD NNS , CC DT CD VBZ RB RB JJR NN -LRB- IN IN RB RB DT IN DT CD . -RRB-</POS>
+		<Lemma>I have one of those cheap $ 5 item , and this one get so much less interference -lrb- as in almost never any with this one . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Would immediately buy another one if this one broke .</Tokens>
+		<POS>MD RB VB DT CD IN DT CD VBD .</POS>
+		<Lemma>would immediately buy another one if this one break .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Bluetooth controls for playing , pause , etc. , work very intuitively with the iPhone .</Tokens>
+		<POS>DT NNP NNS IN NN , NN , NN , NN RB RB IN DT NNP .</POS>
+		<Lemma>the Bluetooth control for playing , pause , etc. , work very intuitively with the iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Note it does not come with an iPhone charger for the USB jack , but you can get one of those here for a buck .</Tokens>
+		<POS>VB PRP VBZ RB VBN IN DT NNP NN IN DT JJ NN , CC PRP MD VB CD IN DT RB IN DT NN .</POS>
+		<Lemma>note it do not come with a iPhone charger for the usb jack , but you can get one of those here for a buck .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love my new monitor .</Tokens>
+		<POS>PRP VBP PRP$ JJ NN .</POS>
+		<Lemma>I love my new monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have so much space on my desk now that I have a flat screen .</Tokens>
+		<POS>PRP VBP RB JJ NN IN PRP$ NN RB IN PRP VBP DT JJ NN .</POS>
+		<Lemma>I have so much space on my desk now that I have a flat screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's lightweight , so I can move it easily .</Tokens>
+		<POS>PRP VBZ JJ , IN PRP MD VB PRP RB .</POS>
+		<Lemma>it be lightweight , so I can move it easily .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My husband did have to download a small program , so that the screen dimensions would be right .</Tokens>
+		<POS>PRP$ NN VBD VB TO VB DT JJ NN , RB IN DT NN NNS MD VB RB .</POS>
+		<Lemma>my husband do have to download a small program , so that the screen dimension would be right .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Other than that , I 've had no problems with it so far .</Tokens>
+		<POS>JJ IN DT , PRP VBP VBD DT NNS IN PRP RB RB .</POS>
+		<Lemma>other than that , I have have no problem with it so far .</Lemma>
+	</Sentence>
+</Document>

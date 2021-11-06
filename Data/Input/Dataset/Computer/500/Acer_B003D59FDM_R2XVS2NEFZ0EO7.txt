@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This unit replaced a broken display on a server with limited space .</Tokens>
+		<POS>DT NN VBD DT JJ NN IN DT NN IN JJ NN .</POS>
+		<Lemma>this unit replace a broken display on a server with limited space .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It worked great and we just pluged it in .</Tokens>
+		<POS>PRP VBD JJ CC PRP RB VBD PRP IN .</POS>
+		<Lemma>it work great and we just pluge it in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Nothing fancy just reliable replacement .</Tokens>
+		<POS>NN JJ RB JJ NN .</POS>
+		<Lemma>nothing fancy just reliable replacement .</Lemma>
+	</Sentence>
+</Document>

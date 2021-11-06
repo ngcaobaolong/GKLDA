@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been using this bread mix since I discovered I am gluten intolerant .</Tokens>
+		<POS>PRP VBP VBN VBG DT NN NN IN PRP VBD PRP VBP NN JJ .</POS>
+		<Lemma>I have be use this bread mix since I discover I be gluten intolerant .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Buying it through Amazon saves money over my local store .</Tokens>
+		<POS>VBG PRP IN NNP VBZ NN IN PRP$ JJ NN .</POS>
+		<Lemma>buy it through Amazon save money over my local store .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I add a bit of salt and sugar to the mix and think it improves the flavor .</Tokens>
+		<POS>PRP VBP DT NN IN NN CC NN TO DT NN CC VB PRP VBZ DT NN .</POS>
+		<Lemma>I add a bit of salt and sugar to the mix and think it improve the flavor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You might want to experiment .</Tokens>
+		<POS>PRP MD VB TO NN .</POS>
+		<Lemma>you might want to experiment .</Lemma>
+	</Sentence>
+</Document>

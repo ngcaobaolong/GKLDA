@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I recently received my order and was very pleased with the everything so far .</Tokens>
+		<POS>PRP RB VBD PRP$ NN CC VBD RB JJ IN DT NN RB RB .</POS>
+		<Lemma>I recently receive my order and be very pleased with the everything so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It arrived quickly and on time .</Tokens>
+		<POS>PRP VBD RB CC IN NN .</POS>
+		<Lemma>it arrive quickly and on time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The item is easy to install and easy to use .</Tokens>
+		<POS>DT NN VBZ JJ TO VB CC JJ TO VB .</POS>
+		<Lemma>the item be easy to install and easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was skeptical if it would work when it first arrived , but it works .</Tokens>
+		<POS>PRP VBD JJ IN PRP MD VB WRB PRP RB VBD , CC PRP VBZ .</POS>
+		<Lemma>I be skeptical if it would work when it first arrive , but it work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I can control my iphone using the device and also talk on the phone on my radio as well .</Tokens>
+		<POS>PRP MD VB PRP$ NN VBG DT NN CC RB VB IN DT NN IN PRP$ NN RB RB .</POS>
+		<Lemma>I can control my iphone use the device and also talk on the phone on my radio as well .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You just need to find the right radio station that is clear .</Tokens>
+		<POS>PRP RB VBP TO VB DT JJ NN NN WDT VBZ JJ .</POS>
+		<Lemma>you just need to find the right radio station that be clear .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>My only negative comment is that there is not a an adapter suitable for an iphone to charge with through the device .</Tokens>
+		<POS>PRP$ JJ JJ NN VBZ IN EX VBZ RB DT DT NN JJ IN DT NN TO VB IN IN DT NN .</POS>
+		<Lemma>my only negative comment be that there be not a a adapter suitable for a iphone to charge with through the device .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Luckily I had an extra adapter that connected to the device .</Tokens>
+		<POS>RB PRP VBD DT JJ NN WDT VBD TO DT NN .</POS>
+		<Lemma>luckily I have a extra adapter that connect to the device .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Overall a good buy for the money .</Tokens>
+		<POS>RB DT JJ NN IN DT NN .</POS>
+		<Lemma>overall a good buy for the money .</Lemma>
+	</Sentence>
+</Document>

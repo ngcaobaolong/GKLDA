@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a sweet little computer .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN .</POS>
+		<Lemma>this be a sweet little computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Hard to beat at this price point .</Tokens>
+		<POS>JJ TO VB IN DT NN NN .</POS>
+		<Lemma>hard to beat at this price point .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I replaced an older Acer Aspire One 8 '' model that I carried on motorcycle trips with this one .</Tokens>
+		<POS>PRP VBD DT JJR NNP NNP CD CD '' NN IN PRP VBD IN NN NNS IN DT CD .</POS>
+		<Lemma>I replace a older Acer Aspire one 8 '' model that I carry on motorcycle trip with this one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is a far superior computer .</Tokens>
+		<POS>DT VBZ DT RB JJ NN .</POS>
+		<Lemma>this be a far superior computer .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Dual core processor , 64 bit Win 7 Home Premium , keyboard is well designed and usable , excellent battery life .</Tokens>
+		<POS>JJ NN NN , CD NN NN CD NNP NNP , NN VBZ RB VBN CC JJ , JJ NN NN .</POS>
+		<Lemma>dual core processor , 64 bit win 7 Home Premium , keyboard be well design and usable , excellent battery life .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Good video performance .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>good video performance .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I upgraded to 4GB memory - a highly recommended upgrade -LRB- only ~ $ 20 -RRB- for better performance .</Tokens>
+		<POS>PRP VBD TO NN NN : DT RB VBN NN -LRB- RB RB $ CD -RRB- IN JJR NN .</POS>
+		<Lemma>I upgrade to 4gb memory - a highly recommend upgrade -lrb- only ~ $ 20 -rrb- for better performance .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Upgrading memory also facilitates disabling the page file , further enhancing speed , as long as you 're not editing large files or running a lot of apps concurrently .</Tokens>
+		<POS>VBG NN RB VBZ VBG DT NN NN , RB VBG NN , RB RB IN PRP VBP RB NN JJ NNS CC VBG DT NN IN NNS RB .</POS>
+		<Lemma>upgrade memory also facilitate disable the page file , further enhance speed , as long as you be not editing large file or run a lot of app concurrently .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I replaced the standard hard drive with a solid state drive that I had on hand - also highly recommended for lower power consumption , higher speed performance , and ruggedness .</Tokens>
+		<POS>PRP VBD DT JJ JJ NN IN DT JJ NN NN IN PRP VBD IN NN : RB RB VBN IN JJR NN NN , JJR NN NN , CC NN .</POS>
+		<Lemma>I replace the standard hard drive with a solid state drive that I have on hand - also highly recommend for lower power consumption , higher speed performance , and ruggedness .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Memory and hard drive are easily accessible for upgrades .</Tokens>
+		<POS>NN CC JJ NN VBP RB JJ IN NNS .</POS>
+		<Lemma>memory and hard drive be easily accessible for upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Absolutely no issues so far .</Tokens>
+		<POS>RB DT NNS RB RB .</POS>
+		<Lemma>absolutely no issue so far .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I believe this model has been discontinued .</Tokens>
+		<POS>PRP VBP DT NN VBZ VBN VBN .</POS>
+		<Lemma>I believe this model have be discontinue .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Hopefully the replacement will be as good as this one .</Tokens>
+		<POS>RB DT NN MD VB RB JJ IN DT CD .</POS>
+		<Lemma>hopefully the replacement will be as good as this one .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I recommend grabbing one of these if you can find one .</Tokens>
+		<POS>PRP VBP VBG CD IN DT IN PRP MD VB CD .</POS>
+		<Lemma>I recommend grab one of these if you can find one .</Lemma>
+	</Sentence>
+</Document>

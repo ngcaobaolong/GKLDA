@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This natural sprouted grain cereal has become our `` staff of life '' !</Tokens>
+		<POS>DT JJ VBN NN NN VBZ VBN PRP$ `` NN IN NN '' .</POS>
+		<Lemma>this natural sprout grain cereal have become we `` staff of life '' !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Last year , I believe my 60 year old husband was a `` heart-attack waiting to happen '' - we changed our eating habits to organics , high omega3 foods , sprouted grains , a lot of leafy green veggies , exercise , a lot less carbohydrates , etc and a year later his cholesterol , blood pressure , homocysteine and all his other lab reports showed the blood work of `` someone in their 20 's '' , his doctor declared !</Tokens>
+		<POS>JJ NN , PRP VBP PRP$ CD NN JJ NN VBD DT `` NN VBG TO VB '' : PRP VBD PRP$ NN NNS TO NNS , JJ NN NNS , VBD NNS , DT NN IN JJ JJ NNS , NN , DT NN JJR NNS , NN CC DT NN RB PRP$ NN , NN NN , NN CC PDT PRP$ JJ NN NNS VBD DT NN NN IN `` NN IN PRP$ CD POS '' , PRP$ NN VBD .</POS>
+		<Lemma>last year , I believe my 60 year old husband be a `` heart-attack wait to happen '' - we change we eating habit to organic , high omega3 food , sprout grain , a lot of leafy green veggy , exercise , a lot less carbohydrate , etc and a year later he cholesterol , blood pressure , homocysteine and all he other lab report show the blood work of `` someone in they 20 's '' , he doctor declare !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I even make a `` granola '' with Ezekiel 4:9 , organic coconut , raisins , pecans , and cinnamon that he loves sprinkled in his yogurt .</Tokens>
+		<POS>PRP RB VBP DT `` NN '' IN NNP CD , JJ NN , NNS , NNS , CC NNP IN PRP VBZ VBN IN PRP$ NN .</POS>
+		<Lemma>I even make a `` granolum '' with Ezekiel 4:9 , organic coconut , raisin , pecan , and cinnamon that he love sprinkle in he yogurt .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>With no refined sugar , preservatives , artificial colors , flavors or shortening - we 're lovin ' it !</Tokens>
+		<POS>IN DT JJ NN , NNS , JJ NNS , NNS CC VBG : PRP VBP VBG '' PRP .</POS>
+		<Lemma>with no refined sugar , preservative , artificial color , flavor or shorten - we be lovin ' it !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>excellent , very good monitor to rest the price is pretty good , I recommendt he picture is sharp and in perfect condition came to Venezuela</Tokens>
+		<POS>JJ , RB JJ NN TO VB DT NN VBZ RB JJ , PRP VBP PRP NN VBZ JJ CC IN JJ NN VBD TO NNP</POS>
+		<Lemma>excellent , very good monitor to rest the price be pretty good , I recommendt he picture be sharp and in perfect condition come to Venezuela</Lemma>
+	</Sentence>
+</Document>

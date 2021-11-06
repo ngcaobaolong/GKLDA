@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought 2 units .</Tokens>
+		<POS>PRP VBD CD NNS .</POS>
+		<Lemma>I buy 2 unit .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The car charger of the first unit broke within the first 30 days .</Tokens>
+		<POS>DT NN NN IN DT JJ NN VBD IN DT JJ CD NNS .</POS>
+		<Lemma>the car charger of the first unit break within the first 30 day .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The second one is working just fine but I feel I just need to handle it with kid gloves .</Tokens>
+		<POS>DT JJ CD VBZ VBG RB JJ CC PRP VBP PRP RB VBP TO VB PRP IN NN NNS .</POS>
+		<Lemma>the second one be work just fine but I feel I just need to handle it with kid glove .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I hope it lasts for awhile .</Tokens>
+		<POS>PRP VBP PRP VBZ IN RB .</POS>
+		<Lemma>I hope it last for awhile .</Lemma>
+	</Sentence>
+</Document>

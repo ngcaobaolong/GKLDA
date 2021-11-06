@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>first off service was great as the product arrived within a few days of ordering - very fast !</Tokens>
+		<POS>RB IN NN VBD JJ IN DT NN VBD IN DT JJ NNS IN VBG : RB RB .</POS>
+		<Lemma>first off service be great as the product arrive within a few day of order - very fast !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>so far product has worked great !</Tokens>
+		<POS>RB RB NN VBZ VBN JJ .</POS>
+		<Lemma>so far product have work great !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>once i got my iphone i got rid of my ipod - only downside was the FM transmitter i had would n't work with my iphone - so i could n't get my music in the car anymore .</Tokens>
+		<POS>RB FW VBD PRP$ NN FW VBD JJ IN PRP$ NN : RB NN VBD DT NNP NN FW VBD MD RB VB IN PRP$ NN : RB FW MD RB VB PRP$ NN IN DT NN RB .</POS>
+		<Lemma>once i get my iphone i get rid of my ipod - only downside be the FM transmitter i have would not work with my iphone - so i could not get my music in the car anymore .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This product lets me play my iphone through the radio - and whats really nice is that it searches stations for you .</Tokens>
+		<POS>DT NN VBZ PRP VB PRP$ NN IN DT NN : CC NNS RB JJ VBZ IN PRP VBZ NNS IN PRP .</POS>
+		<Lemma>this product let I play my iphone through the radio - and what really nice be that it search station for you .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>it also has bluetooth so i can receive calls using the device and hear them through the radio as well .</Tokens>
+		<POS>PRP RB VBZ VBN RB FW MD VB NNS VBG DT NN CC VB PRP IN DT NN RB RB .</POS>
+		<Lemma>it also have bluetooth so i can receive call use the device and hear they through the radio as well .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>i would definitely recommend it !</Tokens>
+		<POS>LS MD RB VB PRP .</POS>
+		<Lemma>i would definitely recommend it !</Lemma>
+	</Sentence>
+</Document>

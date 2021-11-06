@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am really enjoying this video camera .</Tokens>
+		<POS>PRP VBP RB VBG DT NN NN .</POS>
+		<Lemma>I be really enjoy this video camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It takes great pictures .</Tokens>
+		<POS>PRP VBZ JJ NNS .</POS>
+		<Lemma>it take great picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It syncs with the computer and the television with ease .</Tokens>
+		<POS>PRP VBZ IN DT NN CC DT NN IN NN .</POS>
+		<Lemma>it sync with the computer and the television with ease .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Still getting used to its small size but that will get better .</Tokens>
+		<POS>RB VBG VBN TO PRP$ JJ NN CC DT MD VB JJR .</POS>
+		<Lemma>still get use to its small size but that will get better .</Lemma>
+	</Sentence>
+</Document>

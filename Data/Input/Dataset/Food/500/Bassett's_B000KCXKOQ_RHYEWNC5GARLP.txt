@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Jelly Babies were a hit with my family .</Tokens>
+		<POS>DT NNP NNS VBD DT VBN IN PRP$ NN .</POS>
+		<Lemma>the Jelly baby be a hit with my family .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I made a recent trip to London with a specific request to get Jelly Babies , but I mistakenly bought Jelly Bellys instead .</Tokens>
+		<POS>PRP VBD DT JJ NN TO NNP IN DT JJ NN TO VB NNP NNS , CC PRP RB VBD NNP NNP RB .</POS>
+		<Lemma>I make a recent trip to London with a specific request to get Jelly baby , but I mistakenly buy Jelly Bellys instead .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When I surprised them with the order from the British Shoppe , they were delighted .</Tokens>
+		<POS>WRB PRP VBD PRP IN DT NN IN DT JJ NN , PRP VBD JJ .</POS>
+		<Lemma>when I surprise they with the order from the british shoppe , they be delighted .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would highly recommend them to anyone who has a craving for a sweet and tasty treat .</Tokens>
+		<POS>PRP MD RB VB PRP TO NN WP VBZ DT NN IN DT JJ CC JJ NN .</POS>
+		<Lemma>I would highly recommend they to anyone who have a craving for a sweet and tasty treat .</Lemma>
+	</Sentence>
+</Document>

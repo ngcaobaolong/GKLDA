@@ -1,0 +1,137 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've been a long time -LRB- happy -RRB- customer of Canon point and shoot cameras .</Tokens>
+		<POS>PRP VBP VBN DT JJ NN -LRB- JJ -RRB- NN IN NNP NN CC VB NNS .</POS>
+		<Lemma>I have be a long time -lrb- happy -rrb- customer of Canon point and shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My last one , SD800IS Elph , finally quit working after years of reliable results - and I take a lot of pictures .</Tokens>
+		<POS>PRP$ JJ CD , NNP NNP , RB VBN VBG IN NNS IN JJ NNS : CC PRP VBP DT NN IN NNS .</POS>
+		<Lemma>my last one , SD800IS Elph , finally quit work after year of reliable result - and I take a lot of picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I also have a Canon SLR , but my pocket camera covers FAR more ground when I 'm on the go .</Tokens>
+		<POS>PRP RB VBP DT NNP NNP , CC PRP$ NN NN VBZ RB JJR NN WRB PRP VBP IN DT NN .</POS>
+		<Lemma>I also have a Canon SLR , but my pocket camera cover far more ground when I be on the go .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The SLR is great for creative photo shots when I plan ahead for special events , but nothing beats a good reliable point and shoot pocket camera to have with you when lugging an SLR is n't practical and you still want to capture the moment .</Tokens>
+		<POS>DT NN VBZ JJ IN JJ NN NNS WRB PRP VBP RB IN JJ NNS , CC NN VBZ DT JJ JJ NN CC NN NN NN TO VB IN PRP WRB VBG DT NN VBZ RB JJ CC PRP RB VBP TO VB DT NN .</POS>
+		<Lemma>the slr be great for creative photo shot when I plan ahead for special event , but nothing beat a good reliable point and shoot pocket camera to have with you when lug a slr be not practical and you still want to capture the moment .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So , when my 800IS camera went out , I naturally looked for a Canon replacement .</Tokens>
+		<POS>RB , WRB PRP$ NN NN VBD RB , PRP RB VBD IN DT NNP NN .</POS>
+		<Lemma>so , when my 800i camera go out , I naturally look for a Canon replacement .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Long story short , all indications are that Canon has really let the quality of their Elph series slip significantly in recent years since my last purchase .</Tokens>
+		<POS>JJ NN RB , DT NNS VBP IN NNP VBZ RB VB DT NN IN PRP$ NN NN VBP RB IN JJ NNS IN PRP$ JJ NN .</POS>
+		<Lemma>long story short , all indication be that Canon have really let the quality of they elph series slip significantly in recent year since my last purchase .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So , I opened my search up to Nikon pocket cameras .</Tokens>
+		<POS>RB , PRP VBD PRP$ NN IN TO NNP NN NNS .</POS>
+		<Lemma>so , I open my search up to Nikon pocket camera .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>While all cameras have their detractors , you have to look at the overall context of the various reviews .</Tokens>
+		<POS>IN DT NNS VBP PRP$ NNS , PRP VBP TO VB IN DT JJ NN IN DT JJ NNS .</POS>
+		<Lemma>while all camera have they detractor , you have to look at the overall context of the various review .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>After reading a lot of reviews , I eventually talked to a guy at a camera shop -LRB- that carries both Nikon and Canon cameras -RRB- and he recommended this model .</Tokens>
+		<POS>IN VBG DT NN IN NNS , PRP RB VBD TO DT NN IN DT NN NN -LRB- WDT VBZ DT NNP CC NNP NNS -RRB- CC PRP VBD DT NN .</POS>
+		<Lemma>after read a lot of review , I eventually talk to a guy at a camera shop -lrb- that carry both Nikon and Canon camera -rrb- and he recommend this model .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So , when I saw it on sale at Amazon a couple months back , I jumped on it .</Tokens>
+		<POS>RB , WRB PRP VBD PRP IN NN IN NNP DT NN NNS RB , PRP VBD IN PRP .</POS>
+		<Lemma>so , when I see it on sale at Amazon a couple month back , I jump on it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This camera is almost identical in size as my former Canon SD800IS .</Tokens>
+		<POS>DT NN VBZ RB JJ IN NN IN PRP$ JJ NNP NN .</POS>
+		<Lemma>this camera be almost identical in size as my former Canon sd800i .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The optical zoom on the Nikon is very good -LRB- much better than the my Canon -RRB- , and I like to use a lot of optical zoom -LRB- avoiding digital zoom -RRB- .</Tokens>
+		<POS>DT JJ NN IN DT NNP VBZ RB JJ -LRB- JJ JJR IN DT PRP$ NNP -RRB- , CC PRP VBP TO VB DT NN IN JJ NN -LRB- VBG JJ NN -RRB- .</POS>
+		<Lemma>the optical zoom on the Nikon be very good -lrb- much better than the my Canon -rrb- , and I like to use a lot of optical zoom -lrb- avoid digital zoom -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The photo quality also seems to be good .</Tokens>
+		<POS>DT JJ NN RB VBZ TO VB JJ .</POS>
+		<Lemma>the photo quality also seem to be good .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Also , the features of the Nikon are also fairly easy to use -LRB- however , the manufacturers are now focusing on adding too many features 98 % of point and shoot owners will never use , rather than keeping focus on improved image quality -RRB- .</Tokens>
+		<POS>RB , DT NNS IN DT NNP VBP RB RB JJ TO VB -LRB- RB , DT NNS VBP RB VBG IN VBG RB JJ NNS CD NN IN NN CC NN NNS MD RB VB , RB IN VBG NN IN VBN NN NN -RRB- .</POS>
+		<Lemma>also , the feature of the Nikon be also fairly easy to use -lrb- however , the manufacturer be now focus on add too many feature 98 % of point and shoot owner will never use , rather than keep focus on improve image quality -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The one thing I ca n't get past with this Nikon is the location of the Video Record button .</Tokens>
+		<POS>DT CD NN PRP MD RB VB JJ IN DT NNP VBZ DT NN IN DT NNP NNP NN .</POS>
+		<Lemma>the one thing I can not get past with this Nikon be the location of the Video Record button .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Nikon placed it right where you naturally grab the camera with your right-hand thumb .</Tokens>
+		<POS>NNP VBD PRP RB WRB PRP RB VB DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>Nikon place it right where you naturally grab the camera with you right-hand thumb .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>You ca n't avoid but push the button with your thumb when you pick up the camera to take a shot - there is no other place to put your thumb to grasp the camera !</Tokens>
+		<POS>PRP MD RB VB CC VB DT NN IN PRP$ NN WRB PRP VBP RP DT NN TO VB DT NN : EX VBZ DT JJ NN TO VB PRP$ NN TO VB DT NN .</POS>
+		<Lemma>you can not avoid but push the button with you thumb when you pick up the camera to take a shot - there be no other place to put you thumb to grasp the camera !</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I remembered seeing another reviewer complain about this , but thought it could n't be a show-stopper since not everyone was complaining .</Tokens>
+		<POS>PRP VBD VBG DT NN VBP IN DT , CC VBD PRP MD RB VB DT NN IN RB NN VBD VBG .</POS>
+		<Lemma>I remember see another reviewer complain about this , but think it could not be a show-stopper since not everyone be complain .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Even with the raised edges next to the button , I have n't been able to avoid pressing it , whereby missing my shot as I figure out what I did and to turn off recording before I can shoot .</Tokens>
+		<POS>RB IN DT VBN NNS JJ TO DT NN , PRP VBP RB VBN JJ TO VB VBG PRP , WRB VBG PRP$ NN IN PRP VBP RP WP PRP VBD CC TO VB RP NN IN PRP MD VB .</POS>
+		<Lemma>even with the raise edge next to the button , I have not be able to avoid press it , whereby miss my shot as I figure out what I do and to turn off recording before I can shoot .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I have no idea why Nikon would place the video record button in that location !</Tokens>
+		<POS>PRP VBP DT NN WRB NNP MD VB DT NN NN NN IN DT NN .</POS>
+		<Lemma>I have no idea why Nikon would place the video record button in that location !</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I want a snapshot camera , not a video camera !</Tokens>
+		<POS>PRP VBP DT NN NN , RB DT NN NN .</POS>
+		<Lemma>I want a snapshot camera , not a video camera !</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Shooting video from a pocket camera is a very small percentage of what I want a snapshot camera for .</Tokens>
+		<POS>NN NN IN DT NN NN VBZ DT RB JJ NN IN WP PRP VBP DT NN NN IN .</POS>
+		<Lemma>shooting video from a pocket camera be a very small percentage of what I want a snapshot camera for .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I just want a great photo -LRB- in both bright and dim light -RRB- , with basic features to help me get that shot -LRB- not the kitchen sink -RRB- , which are accessible and easy to use , such as force flash on or off , zoom .</Tokens>
+		<POS>PRP RB VBP DT JJ NN -LRB- IN DT JJ CC JJ NN -RRB- , IN JJ NNS TO VB PRP VB DT NN -LRB- RB DT NN NN -RRB- , WDT VBP JJ CC JJ TO VB , JJ IN NN NN IN CC RB , NN .</POS>
+		<Lemma>I just want a great photo -lrb- in both bright and dim light -rrb- , with basic feature to help I get that shot -lrb- not the kitchen sink -rrb- , which be accessible and easy to use , such as force flash on or off , zoom .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I 'm hoping I can adjust and get used to the placement of the record button so I can avoid pressing it all the time .</Tokens>
+		<POS>PRP VBP VBG PRP MD VB CC VB VBN TO DT NN IN DT NN NN IN PRP MD VB VBG PRP PDT DT NN .</POS>
+		<Lemma>I be hope I can adjust and get use to the placement of the record button so I can avoid press it all the time .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Given my track record thus far , I 'm not hopeful .</Tokens>
+		<POS>VBN PRP$ NN NN RB RB , PRP VBP RB JJ .</POS>
+		<Lemma>give my track record thus far , I be not hopeful .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I 'm also considering putting a small piece of tape over the button to help me ` feel ' the button and not press it !</Tokens>
+		<POS>PRP VBP RB VBG VBG DT JJ NN IN NN IN DT NN TO VB PRP `` VBP '' DT NN CC RB VB PRP .</POS>
+		<Lemma>I be also consider put a small piece of tape over the button to help I ` feel ' the button and not press it !</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>If you buy this , good luck !</Tokens>
+		<POS>IN PRP VBP DT , JJ NN .</POS>
+		<Lemma>if you buy this , good luck !</Lemma>
+	</Sentence>
+</Document>

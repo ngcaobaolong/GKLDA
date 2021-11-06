@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is awesome .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this monitor be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am really happy with this purchase and now I can enjoy high quality videos on my widescreen monitor for under 100 bucks .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN CC RB PRP MD VB JJ NN NNS IN PRP$ NNS VBP IN IN CD NNS .</POS>
+		<Lemma>I be really happy with this purchase and now I can enjoy high quality video on my widescreen monitor for under 100 buck .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use it in low contrast cause i 'm all about going green and this monitor comes with that energy efficiency option .</Tokens>
+		<POS>PRP VBP PRP IN JJ NN NN FW VBP DT IN VBG JJ CC DT NN VBZ IN DT NN NN NN .</POS>
+		<Lemma>I use it in low contrast cause i be all about go green and this monitor come with that energy efficiency option .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I give it a strong 5 out of 5 .</Tokens>
+		<POS>PRP VBP PRP DT JJ CD IN IN CD .</POS>
+		<Lemma>I give it a strong 5 out of 5 .</Lemma>
+	</Sentence>
+</Document>

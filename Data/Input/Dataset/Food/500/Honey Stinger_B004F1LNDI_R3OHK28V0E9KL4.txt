@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use this product for endurance mountain biking and training for races .</Tokens>
+		<POS>PRP VBP DT NN IN JJ NN NN CC NN IN NNS .</POS>
+		<Lemma>I use this product for endurance mountain biking and training for race .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These waffles are very tasty and a nice change-up from my other on-the-bike fueling options .</Tokens>
+		<POS>DT NNS VBP RB JJ CC DT JJ NN IN PRP$ JJ JJ NN NNS .</POS>
+		<Lemma>these waffle be very tasty and a nice change-up from my other on-the-bike fueling option .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only downside is that they have more fat than I prefer but this has n't caused any digestive issues .</Tokens>
+		<POS>DT JJ NN VBZ IN PRP VBP RBR JJ IN PRP VBP CC DT VBZ RB VBN DT JJ NNS .</POS>
+		<Lemma>the only downside be that they have more fat than I prefer but this have not cause any digestive issue .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Packaging is OK for eating on the fly - could be better but I 've seen worse .</Tokens>
+		<POS>NN VBZ JJ IN VBG IN DT NN : MD VB JJR CC PRP VBP VBN JJR .</POS>
+		<Lemma>packaging be ok for eat on the fly - could be better but I have see worse .</Lemma>
+	</Sentence>
+</Document>

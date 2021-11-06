@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Well its been 2 years now and I still have this monitor I like it a lot decent quality have had no problem and use it every day I got it for $ 279 at the time and that was the best price for like a year well worth the money .</Tokens>
+		<POS>UH PRP$ VBN CD NNS RB CC PRP RB VBP DT NN PRP VBP PRP DT NN JJ NN VBP VBN DT NN CC VB PRP DT NN CD VBD PRP IN $ CD IN DT NN CC DT VBD DT JJS NN IN IN DT NN RB IN DT NN .</POS>
+		<Lemma>well its be 2 year now and I still have this monitor I like it a lot decent quality have have no problem and use it every day i get it for $ 279 at the time and that be the best price for like a year well worth the money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Good color not a vivid as a the CRT monitors but still rocks for an LCD a good size 19 inches for the money would make a street walker scream .</Tokens>
+		<POS>JJ NN RB DT JJ IN DT DT NNP NNS CC RB NNS IN DT NNS DT JJ NN CD NNS IN DT NN MD VB DT NN NN NN .</POS>
+		<Lemma>good color not a vivid as a the CRT monitor but still rock for a lcd a good size 19 inch for the money would make a street walker scream .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would definetely buy it again and recommend it</Tokens>
+		<POS>PRP MD RB VB PRP RB CC VB PRP</POS>
+		<Lemma>I would definetely buy it again and recommend it</Lemma>
+	</Sentence>
+</Document>

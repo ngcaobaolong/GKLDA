@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this one to replace my older i-Inc .</Tokens>
+		<POS>PRP VBD DT CD TO VB PRP$ JJR NN .</POS>
+		<Lemma>I get this one to replace my older i-inc .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>monitor .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It really is an improvement .</Tokens>
+		<POS>PRP RB VBZ DT NN .</POS>
+		<Lemma>it really be a improvement .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Rich colors , really good contrast .</Tokens>
+		<POS>NNP NNS , RB JJ NN .</POS>
+		<Lemma>Rich color , really good contrast .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I calibrated it -LRB- crudely , by using software called MCW -RRB- .</Tokens>
+		<POS>PRP VBD PRP -LRB- RB , IN VBG NN VBD NNP -RRB- .</POS>
+		<Lemma>I calibrate it -lrb- crudely , by use software call MCW -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Really nice after calibration .</Tokens>
+		<POS>RB JJ IN NN .</POS>
+		<Lemma>really nice after calibration .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>One thing I did not like at all is how much side-illumination shows up .</Tokens>
+		<POS>CD NN PRP VBD RB VB IN DT VBZ WRB JJ NN VBZ RP .</POS>
+		<Lemma>one thing I do not like at all be how much side-illumination show up .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I guess those LEDs do need to be bright enough , but I never thought they would be THIS noticeable .</Tokens>
+		<POS>PRP VBP DT NNS VBP VB TO VB JJ RB , CC PRP RB VBD PRP MD VB JJ JJ .</POS>
+		<Lemma>I guess those led do need to be bright enough , but I never think they would be this noticeable .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It shows as a veil of dark gray around the perimeter of the screen .</Tokens>
+		<POS>PRP VBZ IN DT NN IN JJ JJ IN DT NN IN DT NN .</POS>
+		<Lemma>it show as a veil of dark gray around the perimeter of the screen .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And when whatever on the screen is dark enough you will see it .</Tokens>
+		<POS>CC WRB WDT IN DT NN VBZ JJ RB PRP MD VB PRP .</POS>
+		<Lemma>and when whatever on the screen be dark enough you will see it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Sometimes barely noticeable , sometimes annoyingly obvious .</Tokens>
+		<POS>RB RB JJ , RB RB JJ .</POS>
+		<Lemma>sometimes barely noticeable , sometimes annoyingly obvious .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>And one other thing .</Tokens>
+		<POS>CC CD JJ NN .</POS>
+		<Lemma>and one other thing .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The power supply is a separate brick - like in the laptop .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN : IN IN DT NN .</POS>
+		<Lemma>the power supply be a separate brick - like in the laptop .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Plan on locating it behind the monitor , etc. .</Tokens>
+		<POS>NN IN VBG PRP IN DT NN , FW .</POS>
+		<Lemma>plan on locate it behind the monitor , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Otherwise - a very nice monitor , no dead pixels , no other issues .</Tokens>
+		<POS>RB : DT RB JJ NN , DT JJ NNS , DT JJ NNS .</POS>
+		<Lemma>otherwise - a very nice monitor , no dead pixel , no other issue .</Lemma>
+	</Sentence>
+</Document>

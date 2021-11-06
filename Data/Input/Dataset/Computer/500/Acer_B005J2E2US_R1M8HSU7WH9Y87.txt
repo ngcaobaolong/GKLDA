@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We bought this as a travel computer .</Tokens>
+		<POS>PRP VBD DT IN DT NN NN .</POS>
+		<Lemma>we buy this as a travel computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The 1366x768 is now the standard entry level screen resolution .</Tokens>
+		<POS>DT NN VBZ RB DT JJ NN NN NN NN .</POS>
+		<Lemma>the 1366x768 be now the standard entry level screen resolution .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>With web pages , I just about always have to scroll down 1 '' to see what I want to read .</Tokens>
+		<POS>IN NN NNS , PRP RB IN RB VBP TO VB RP CD '' TO VB WP PRP VBP TO VB .</POS>
+		<Lemma>with web page , I just about always have to scroll down 1 '' to see what I want to read .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It gets tiring doing that on every web page .</Tokens>
+		<POS>PRP VBZ VBG VBG DT IN DT NN NN .</POS>
+		<Lemma>it get tire do that on every web page .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've connected it to my external monitor , a Samsung 205bw of 1680x1050 , which this laptop does n't support .</Tokens>
+		<POS>PRP VBP VBN PRP TO PRP$ JJ NN , DT NNP NN IN NN , WDT DT NN VBZ RB VB .</POS>
+		<Lemma>I have connect it to my external monitor , a Samsung 205bw of 1680x1050 , which this laptop do not support .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I had to choose 1400x1050 .</Tokens>
+		<POS>PRP VBD TO VB NN .</POS>
+		<Lemma>I have to choose 1400x1050 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I also have a Dell U2410 monitor with 1920x1200 , but this laptop does n't support any resolutions above 1600x1200 .</Tokens>
+		<POS>PRP RB VBP DT NNP NNP NN IN NN , CC DT NN VBZ RB VB DT NNS IN NN .</POS>
+		<Lemma>I also have a Dell U2410 monitor with 1920x1200 , but this laptop do not support any resolution above 1600x1200 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 'm disappointed that it does n't support all existing monitor resolutions .</Tokens>
+		<POS>PRP VBP JJ IN PRP VBZ RB VB DT VBG NN NNS .</POS>
+		<Lemma>I be disappointed that it do not support all exist monitor resolution .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Will I have to buy a new external monitor for each new generation of laptops because they wo n't support the old ones ?</Tokens>
+		<POS>MD PRP VB TO VB DT JJ JJ NN IN DT JJ NN IN NNS IN PRP MD RB VB DT JJ NNS .</POS>
+		<Lemma>will I have to buy a new external monitor for each new generation of laptop because they will not support the old one ?</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Otherwise , its a great little laptop .</Tokens>
+		<POS>RB , PRP$ DT JJ JJ NN .</POS>
+		<Lemma>otherwise , its a great little laptop .</Lemma>
+	</Sentence>
+</Document>

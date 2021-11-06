@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used this monitor for gaming , surfing the web and watching TV and movies .</Tokens>
+		<POS>PRP VBD DT NN IN NN , VBG DT NN CC VBG NN CC NNS .</POS>
+		<Lemma>I use this monitor for gaming , surf the web and watch tv and movie .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does them all just fine .</Tokens>
+		<POS>PRP VBZ PRP DT RB JJ .</POS>
+		<Lemma>it do they all just fine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My only gripe is that when I 'm looking at websites it can appear `` grainy '' there 's no real grain there it just is n't as crisp as a 1080P LCD TV would be if you were to use that as a monitor .</Tokens>
+		<POS>PRP$ JJ NN VBZ IN WRB PRP VBP VBG IN NNS PRP MD VB `` JJ '' EX VBZ DT JJ NN EX PRP RB VBZ RB IN JJ IN DT NN NNS NN MD VB IN PRP VBD TO VB IN IN DT NN .</POS>
+		<Lemma>my only gripe be that when I be look at website it can appear `` grainy '' there be no real grain there it just be not as crisp as a 1080p lcd tv would be if you be to use that as a monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As a monitor though it 's awesome .</Tokens>
+		<POS>IN DT NN IN PRP VBZ JJ .</POS>
+		<Lemma>as a monitor though it be awesome .</Lemma>
+	</Sentence>
+</Document>

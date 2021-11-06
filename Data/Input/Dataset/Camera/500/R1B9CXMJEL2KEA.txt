@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are interested in photography , but with a reduced Budget , this will be a great Camera for you , I 'm impressed with the photo quality , the sharpness , zoom and macro functions are awesome .</Tokens>
+		<POS>IN PRP VBP JJ IN NN , CC IN DT VBN NNP , DT MD VB DT JJ NN IN PRP , PRP VBP JJ IN DT JJ NN , DT NN , NN CC NN NNS VBP JJ .</POS>
+		<Lemma>if you be interested in photography , but with a reduce Budget , this will be a great camera for you , I be impressed with the photo quality , the sharpness , zoom and macro function be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Cons : The menu is very slow , but with some practice , you 'll not notice at all .</Tokens>
+		<POS>NNS : DT NN VBZ RB JJ , CC IN DT NN , PRP MD RB VB IN DT .</POS>
+		<Lemma>con : the menu be very slow , but with some practice , you 'll not notice at all .</Lemma>
+	</Sentence>
+</Document>

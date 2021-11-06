@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a very nice LCD monitor ... good for playing 16:9 videos\/DVDs or just general desktop work .</Tokens>
+		<POS>DT VBZ DT RB JJ NNS VBP : JJ IN VBG CD NNS CC RB JJ NN NN .</POS>
+		<Lemma>this be a very nice lcd monitor ... good for play 16:9 videos\/dvds or just general desktop work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great image , great pircure , solid colors , no noticable pixel\/dot .</Tokens>
+		<POS>JJ NN , JJ NN , JJ NNS , DT JJ NN .</POS>
+		<Lemma>great image , great pircure , solid color , no noticable pixel\/dot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just a great monitor at a great price .</Tokens>
+		<POS>RB DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>just a great monitor at a great price .</Lemma>
+	</Sentence>
+</Document>

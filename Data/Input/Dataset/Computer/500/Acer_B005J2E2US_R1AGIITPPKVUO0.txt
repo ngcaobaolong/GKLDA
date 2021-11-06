@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Normally I would n't touch Acer products , but this little netbook is a beast .</Tokens>
+		<POS>RB PRP MD RB VB NNP NNS , CC DT JJ NN VBZ DT NN .</POS>
+		<Lemma>normally I would not touch Acer product , but this little netbook be a beast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did quite a bit of research and even purchased an Asus Seashell , which I was very disappointed with .</Tokens>
+		<POS>PRP VBD RB DT NN IN NN CC RB VBD DT NNP NNP , WDT PRP VBD RB JJ IN .</POS>
+		<Lemma>I do quite a bit of research and even purchase a Asus Seashell , which I be very disappointed with .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I finally pulled the trigger on this Acer 722 and it 's been my sidekick ever since .</Tokens>
+		<POS>PRP RB VBD DT NN IN DT NN CD CC PRP VBZ VBN PRP$ NN RB IN .</POS>
+		<Lemma>I finally pull the trigger on this acer 722 and it be be my sidekick ever since .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Here 's why : Most netbooks these days are being shipped with Windows starter edition , which is a joke .</Tokens>
+		<POS>RB POS WRB : JJS NNS DT NNS VBP VBG VBN IN NNP JJ NN , WDT VBZ DT NN .</POS>
+		<Lemma>here 's why : most netbook these day be be ship with Windows starter edition , which be a joke .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is n't able to do everything a full installation of windows can do and it 's not compatible with all programs , so it may not be able to do what you purchased it for in the first place .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB NN DT JJ NN IN NNS MD VB CC PRP VBZ RB JJ IN DT NNS , IN PRP MD RB VB JJ TO VB WP PRP VBD PRP IN IN DT JJ NN .</POS>
+		<Lemma>it be not able to do everything a full installation of window can do and it be not compatible with all program , so it may not be able to do what you purchase it for in the first place .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The netbooks which ARE shipped with full installations of windows are coming with flimsy motherboards which are unable to take more than 2 gigs of RAM .</Tokens>
+		<POS>DT NNS WDT VBP VBN IN JJ NNS IN NNS VBP VBG IN JJ NNS WDT VBP JJ TO VB JJR IN CD NNS IN NNP .</POS>
+		<Lemma>the netbook which be ship with full installation of window be come with flimsy motherboard which be unable to take more than 2 gig of RAM .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This is unacceptable by Windows 7 standards .</Tokens>
+		<POS>DT VBZ JJ IN NNP CD NNS .</POS>
+		<Lemma>this be unacceptable by Windows 7 standard .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Netbooks which are being shipped with 4 gigs are overpriced .</Tokens>
+		<POS>NNS WDT VBP VBG VBN IN CD NNS VBP VBN .</POS>
+		<Lemma>netbook which be be ship with 4 gig be overprice .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So what do you do ?</Tokens>
+		<POS>RB WP VBP PRP VB .</POS>
+		<Lemma>so what do you do ?</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>You buy an Acer 722 .</Tokens>
+		<POS>PRP VBP DT NNP CD .</POS>
+		<Lemma>you buy a Acer 722 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It COMES with 2 gigs , but it 's upgradable to 4 .</Tokens>
+		<POS>PRP VBZ IN CD NNS , CC PRP VBZ JJ TO CD .</POS>
+		<Lemma>it come with 2 gig , but it be upgradable to 4 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>A 4 gig stick of RAM costs about $ 25 - so for the price of this netbook + $ 25 , you have it all .</Tokens>
+		<POS>DT CD NN NN IN NNP VBZ IN $ CD : RB IN DT NN IN DT NN CC $ CD , PRP VBP PRP DT .</POS>
+		<Lemma>a 4 gig stick of RAM cost about $ 25 - so for the price of this netbook + $ 25 , you have it all .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Not a computer person ?</Tokens>
+		<POS>RB DT NN NN .</POS>
+		<Lemma>not a computer person ?</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Do n't worry , if you can use a screwdriver you can change the RAM on this unit in about the time it took you to read this paragraph .</Tokens>
+		<POS>VBP RB VB , IN PRP MD VB DT NN PRP MD VB DT NNP IN DT NN IN IN DT NN PRP VBD PRP TO VB DT NN .</POS>
+		<Lemma>do not worry , if you can use a screwdriver you can change the RAM on this unit in about the time it take you to read this paragraph .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The CPU is also quite capable and the software is entirely stable - never once has it crashed or locked up .</Tokens>
+		<POS>DT NNP VBZ RB RB JJ CC DT NN VBZ RB JJ : RB RB VBZ PRP VBD CC VBN RP .</POS>
+		<Lemma>the CPU be also quite capable and the software be entirely stable - never once have it crash or lock up .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I used it heavily for a programming class in college and for minor video editing , it kept up the whole time .</Tokens>
+		<POS>PRP VBD PRP RB IN DT NN NN IN NN CC IN JJ NN NN , PRP VBD RP DT JJ NN .</POS>
+		<Lemma>I use it heavily for a programming class in college and for minor video editing , it keep up the whole time .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>There is one draw back , the speakers .</Tokens>
+		<POS>EX VBZ CD NN RB , DT NNS .</POS>
+		<Lemma>there be one draw back , the speaker .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>They are quiet and do n't put out very much sound , but considering all the pros it is easy to look past this minor flaw .</Tokens>
+		<POS>PRP VBP JJ CC VBP RB VB RP RB JJ NN , CC VBG PDT DT NNS PRP VBZ JJ TO VB IN DT JJ NN .</POS>
+		<Lemma>they be quiet and do not put out very much sound , but consider all the pro it be easy to look past this minor flaw .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Besides , if you are judging this netbook purchase off of its speakers your priorities are unrealistic .</Tokens>
+		<POS>IN , IN PRP VBP VBG DT NN NN IN IN PRP$ NNS PRP$ NNS VBP JJ .</POS>
+		<Lemma>besides , if you be judge this netbook purchase off of its speaker you priority be unrealistic .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Bottomline is the Acer 722 is the most solid netbook in it 's price range today .</Tokens>
+		<POS>NNP VBZ DT NNP CD VBZ DT RBS JJ NN IN PRP VBZ NN NN NN .</POS>
+		<Lemma>Bottomline be the Acer 722 be the most solid netbook in it be price range today .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Do n't be reeled in by the tablet craze , netbooks do still serve a very important purpose and for the money this one is worth every dollar .</Tokens>
+		<POS>VBP RB VB VBN IN IN DT NN NN , NNS VBP RB VB DT RB JJ NN CC IN DT NN DT CD VBZ JJ DT NN .</POS>
+		<Lemma>do not be reel in by the tablet craze , netbook do still serve a very important purpose and for the money this one be worth every dollar .</Lemma>
+	</Sentence>
+</Document>

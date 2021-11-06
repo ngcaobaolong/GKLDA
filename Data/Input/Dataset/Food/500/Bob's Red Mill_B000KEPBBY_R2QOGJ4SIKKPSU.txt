@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We are loving this soup mix , I agree with the other reviewer in that you do need to add a bit more water than specified , especially if you like your soup to have broth or are adding other ingredients like fresh carrots or potatoes .</Tokens>
+		<POS>PRP VBP JJ DT NN NN , PRP VBP IN DT JJ NN IN IN PRP VBP VB TO VB DT NN RBR NN IN VBN , RB IN PRP IN PRP$ NN TO VB NN CC VBP VBG JJ NNS IN JJ NNS CC NNS .</POS>
+		<Lemma>we be loving this soup mix , I agree with the other reviewer in that you do need to add a bit more water than specify , especially if you like you soup to have broth or be add other ingredient like fresh carrot or potato .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We only added salt , pepper the first time making it and used vegetable boulion cubes to flavor the water and it was good with just those ingredients .</Tokens>
+		<POS>PRP RB VBD NN , NN DT JJ NN VBG PRP CC VBN NN NN NNS TO NN DT NN CC PRP VBD JJ IN RB DT NNS .</POS>
+		<Lemma>we only add salt , pepper the first time make it and use vegetable boulion cube to flavor the water and it be good with just those ingredient .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The next time we made it we used water and vegetable broth and added some onion , garlic powder , salt , pepper and after the soup mix cooked for about half an hour added some thinly sliced fresh carrots and Potatoes -LRB- you can also cook the carrots for about ten minutes before adding them to the soup if you like them really soft -RRB- it was very good and the kids even asked for seconds !</Tokens>
+		<POS>DT JJ NN PRP VBD PRP PRP VBD NN CC NN NN CC VBD DT NN , JJ NN , NN , NN CC IN DT NN NN VBD IN IN PDT DT NN VBD DT RB VBN JJ NNS CC NNS -LRB- PRP MD RB VB DT NNS IN IN CD NNS IN VBG PRP TO DT NN IN PRP VBP PRP RB JJ -RRB- PRP VBD RB JJ CC DT NNS RB VBD IN NNS .</POS>
+		<Lemma>the next time we make it we use water and vegetable broth and add some onion , garlic powder , salt , pepper and after the soup mix cook for about half a hour add some thinly slice fresh carrot and potato -lrb- you can also cook the carrot for about ten minute before add they to the soup if you like they really soft -rrb- it be very good and the kid even ask for seconds !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is a great mix to have around , you can add any thing you like to the soup mix or use it by itself and it is still taste great .</Tokens>
+		<POS>DT VBZ DT JJ NN TO VB RB , PRP MD VB DT NN PRP VBP TO DT NN NN CC VB PRP IN PRP CC PRP VBZ RB VBP JJ .</POS>
+		<Lemma>this be a great mix to have around , you can add any thing you like to the soup mix or use it by itself and it be still taste great .</Lemma>
+	</Sentence>
+</Document>

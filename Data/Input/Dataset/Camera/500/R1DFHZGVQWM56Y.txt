@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera as a quick solution for my vacations photography .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN IN PRP$ NNS NN .</POS>
+		<Lemma>I buy this camera as a quick solution for my vacation photography .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Now every time when I have to use it I regret it .</Tokens>
+		<POS>RB DT NN WRB PRP VBP TO VB PRP PRP VBP PRP .</POS>
+		<Lemma>now every time when I have to use it I regret it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First of all - the camera is slow , its zoom makes me mad every time when I wish to get a particular part of the scene .</Tokens>
+		<POS>NNP IN DT : DT NN VBZ JJ , PRP$ NN VBZ PRP JJ DT NN WRB PRP VBP TO VB DT JJ NN IN DT NN .</POS>
+		<Lemma>First of all - the camera be slow , its zoom make I mad every time when I wish to get a particular part of the scene .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It always has its own way to zoom and rarely allows me to get the right zoom .</Tokens>
+		<POS>PRP RB VBZ PRP$ JJ NN TO VB CC RB VBZ PRP TO VB DT JJ NN .</POS>
+		<Lemma>it always have its own way to zoom and rarely allow I to get the right zoom .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Sometimes zoom stops in the middle of zooming and does n't want to go one or other way .</Tokens>
+		<POS>RB NN VBZ IN DT NN IN VBG CC VBZ RB VB TO VB CD CC JJ NN .</POS>
+		<Lemma>sometimes zoom stop in the middle of zoom and do not want to go one or other way .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The camera eats batteries like no other camera I had before .</Tokens>
+		<POS>DT NN VBZ NNS IN DT JJ NN PRP VBD RB .</POS>
+		<Lemma>the camera eat battery like no other camera I have before .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It can `` consume '' new batteries in a matter of a few hours , about 200 pictures .</Tokens>
+		<POS>PRP MD `` VB '' JJ NNS IN DT NN IN DT JJ NNS , RB CD NNS .</POS>
+		<Lemma>it can `` consume '' new battery in a matter of a few hour , about 200 picture .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Finally the funny Kodak RAW format that can not be converted by a standard graphics software .</Tokens>
+		<POS>RB DT JJ NNP NN NN WDT MD RB VB VBN IN DT JJ NNS NN .</POS>
+		<Lemma>finally the funny Kodak raw format that can not be convert by a standard graphic software .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You have to use the Kodak proprietary software that does not support batch conversion .</Tokens>
+		<POS>PRP VBP TO VB DT NNP NN NN WDT VBZ RB VB NN NN .</POS>
+		<Lemma>you have to use the Kodak proprietary software that do not support batch conversion .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>You have to convert your photographs one-by-one .</Tokens>
+		<POS>PRP VBP TO VB PRP$ NNS RB .</POS>
+		<Lemma>you have to convert you photograph one-by-one .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Any way - never more Kodak cameras .</Tokens>
+		<POS>DT NN , RB JJR NNP NNS .</POS>
+		<Lemma>any way - never more Kodak camera .</Lemma>
+	</Sentence>
+</Document>

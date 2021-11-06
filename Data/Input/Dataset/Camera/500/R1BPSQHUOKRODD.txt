@@ -1,0 +1,142 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>How do they do this for under 500 dollars !!!</Tokens>
+		<POS>WRB VBP PRP VBP DT IN IN CD NNS VBP</POS>
+		<Lemma>how do they do this for under 500 dollar !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>How often do you kick yourself for not having your DSLR ?</Tokens>
+		<POS>WRB RB VBP PRP VB PRP IN RB VBG PRP$ NN .</POS>
+		<Lemma>how often do you kick yourself for not have you dslr ?</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>How often do you leave the house and say to yourself ` nah , I do n't feel like lugging it along ' ?</Tokens>
+		<POS>WRB RB VBP PRP VB DT NN CC VB TO PRP `` RB , PRP VBP RB VB IN VBG PRP IN '' .</POS>
+		<Lemma>how often do you leave the house and say to yourself ` nah , I do not feel like lug it along ' ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This little camera has solved the ` dowp I wish I had my camera problem ' for me 100 % .</Tokens>
+		<POS>DT JJ NN VBZ VBN DT `` NN PRP VBP PRP VBD PRP$ NN NN '' IN PRP CD NN .</POS>
+		<Lemma>this little camera have solve the ` dowp I wish I have my camera problem ' for I 100 % .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The images I am getting are as good if not better than those I have gotten with my 20D and the key is that I am getting the images because I have the camera all the time .</Tokens>
+		<POS>DT NNS PRP VBP VBG VBP RB JJ IN RB JJR IN DT PRP VBP VBN IN PRP$ NN CC DT NN VBZ IN PRP VBP VBG DT NNS IN PRP VBP DT NN PDT DT NN .</POS>
+		<Lemma>the image I be get be as good if not better than those I have get with my 20d and the key be that I be get the image because I have the camera all the time .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Rangefinder is not quite useless but I guarantee you wont want to use it much .</Tokens>
+		<POS>NN VBZ RB RB JJ CC PRP VBP PRP JJ VBP TO VB PRP RB .</POS>
+		<Lemma>rangefinder be not quite useless but I guarantee you wont want to use it much .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The large swiveling LCD is just amazingly bright and accurate and will allow you to get shots you could never pull off if you had to be viewing through the rangefinder .</Tokens>
+		<POS>DT JJ VBG NNS VBZ RB RB JJ CC JJ CC MD VB PRP TO VB NNS PRP MD RB VB RP IN PRP VBD TO VB VBG IN DT NN .</POS>
+		<Lemma>the large swivel lcd be just amazingly bright and accurate and will allow you to get shot you could never pull off if you have to be view through the rangefinder .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>5 star point and shoot performance but the camera really comes to life in the program mode and manual modes .</Tokens>
+		<POS>CD NN NN CC VB NN CC DT NN RB VBZ TO NN IN DT NN NN CC JJ NNS .</POS>
+		<Lemma>5 star point and shoot performance but the camera really come to life in the program mode and manual mode .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Really more versatile than my full size DSLR .</Tokens>
+		<POS>RB RBR JJ IN PRP$ JJ NN NN .</POS>
+		<Lemma>really more versatile than my full size dslr .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Very comfortable to wear over the shoulder .</Tokens>
+		<POS>RB JJ TO VB IN DT NN .</POS>
+		<Lemma>very comfortable to wear over the shoulder .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Designed such that it lays flat against the rib cage and does not bob or swing at all .</Tokens>
+		<POS>VBN JJ IN PRP VBZ JJ IN DT NN NN CC VBZ RB NN CC NN IN DT .</POS>
+		<Lemma>design such that it lay flat against the rib cage and do not bob or swing at all .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I do not even feel that it is there really .</Tokens>
+		<POS>PRP VBP RB RB VB IN PRP VBZ EX RB .</POS>
+		<Lemma>I do not even feel that it be there really .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I think this is a great camera for people who do like to shoot in non automatic modes and geek out a little bit with their photography .</Tokens>
+		<POS>PRP VBP DT VBZ DT JJ NN IN NNS WP VBP IN TO VB IN JJ JJ NNS CC NN IN DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>I think this be a great camera for people who do like to shoot in non automatic mode and geek out a little bit with they photography .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>If you just want a point and shoot this is overkill .</Tokens>
+		<POS>IN PRP RB VBP DT NN CC VB DT VBZ NN .</POS>
+		<Lemma>if you just want a point and shoot this be overkill .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Two things to know before you buy : 1 .</Tokens>
+		<POS>CD NNS TO VB IN PRP VBP : CD .</POS>
+		<Lemma>two thing to know before you buy : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It is true that the function set button in the center of the control dial on the right rear of the camera is placed in such a way that it is very very easy to depress with the base of your thumb and change your settings in very significant ways .</Tokens>
+		<POS>PRP VBZ JJ IN DT NN VBN NN IN DT NN IN DT NN NN IN DT JJ NN IN DT NN VBZ VBN IN JJ DT NN IN PRP VBZ RB RB JJ TO VB IN DT NN IN PRP$ NN CC VB PRP$ NNS IN RB JJ NNS .</POS>
+		<Lemma>it be true that the function set button in the center of the control dial on the right rear of the camera be place in such a way that it be very very easy to depress with the base of you thumb and change you setting in very significant way .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>On a recent outing I ended up shooting all of my shots in a 1:1 ratio -LRB- little squares ! -RRB-</Tokens>
+		<POS>IN DT JJ NN PRP VBD RP VBG DT IN PRP$ NNS IN DT CD NN -LRB- JJ NNS . -RRB-</POS>
+		<Lemma>on a recent outing I end up shoot all of my shot in a 1:1 ratio -lrb- little square ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>because of this issue .</Tokens>
+		<POS>IN IN DT NN .</POS>
+		<Lemma>because of this issue .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>This is a camera for a person who does not mind being alert and watchful vis a vis what the camera is up to from shot to shot .</Tokens>
+		<POS>DT VBZ DT NN IN DT NN WP VBZ RB VB VBG JJ CC JJ FW DT FW WP DT NN VBZ RB TO IN NN TO NN .</POS>
+		<Lemma>this be a camera for a person who do not mind be alert and watchful vis a vis what the camera be up to from shot to shot .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I do feel that I will be able to overcome this button issue with more practice and the development of some muscle memory .</Tokens>
+		<POS>PRP VBP VB IN PRP MD VB JJ TO VB DT NN NN IN JJR NN CC DT NN IN DT NN NN .</POS>
+		<Lemma>I do feel that I will be able to overcome this button issue with more practice and the development of some muscle memory .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Zooming in and zooming out is very slow and clunky on this camera .</Tokens>
+		<POS>VBG IN CC VBG RP VBZ RB JJ CC JJ IN DT NN .</POS>
+		<Lemma>zoom in and zoom out be very slow and clunky on this camera .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>just know that ... this is not the camera to use for really fast paced shot composition .</Tokens>
+		<POS>RB VB IN : DT VBZ RB DT NN TO VB IN RB JJ JJ NN NN .</POS>
+		<Lemma>just know that ... this be not the camera to use for really fast paced shot composition .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Bottom line ?</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>bottom line ?</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Ridiculously low price given what is packed into this super fun yet serious little gem .</Tokens>
+		<POS>RB JJ NN VBN WP VBZ VBN IN DT JJ NN RB JJ JJ NN .</POS>
+		<Lemma>ridiculously low price give what be pack into this super fun yet serious little gem .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I say GO FOR IT !</Tokens>
+		<POS>PRP VBP NN IN PRP .</POS>
+		<Lemma>I say go for it !</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Oh and BTW the HD video is really , really good .</Tokens>
+		<POS>UH CC NNP DT NN NN VBZ RB , RB JJ .</POS>
+		<Lemma>oh and BTW the hd video be really , really good .</Lemma>
+	</Sentence>
+</Document>

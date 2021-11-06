@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this as replacement for my Zi8 when it goes to seaside vacation .</Tokens>
+		<POS>PRP VBD DT IN NN IN PRP$ NN WRB PRP VBZ TO JJ NN .</POS>
+		<Lemma>I buy this as replacement for my zi8 when it go to seaside vacation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Also I did a lot of side-by-side comparison .</Tokens>
+		<POS>RB PRP VBD DT NN IN RB NN .</POS>
+		<Lemma>also I do a lot of side-by-side comparison .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Zi8 is much better in the following aspects : 1 .</Tokens>
+		<POS>NN VBZ RB RBR IN DT VBG NNS : CD .</POS>
+		<Lemma>zi8 be much better in the follow aspect : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Much clear and sharper video 2 .</Tokens>
+		<POS>JJ JJ CC JJR NN CD .</POS>
+		<Lemma>much clear and sharper video 2 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Bigger and wide-angled screen 3 .</Tokens>
+		<POS>JJR CC JJ NN CD .</POS>
+		<Lemma>bigger and wide-angled screen 3 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>USB Plug built-in 4 .</Tokens>
+		<POS>JJ NN JJ CD .</POS>
+		<Lemma>usb plug built-in 4 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Replaceable battery ZX5 cons : 1 .</Tokens>
+		<POS>JJ NN NN NNS : CD .</POS>
+		<Lemma>replaceable battery zx5 con : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Muddy and unclear video , compared to Zi8 2 .</Tokens>
+		<POS>NNP CC JJ NN , VBN TO NN CD .</POS>
+		<Lemma>Muddy and unclear video , compare to zi8 2 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Screen has very limited viewing angles 3 .</Tokens>
+		<POS>NN VBZ RB JJ VBG NNS CD .</POS>
+		<Lemma>screen have very limited view angle 3 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>No manual macro switch 4 .</Tokens>
+		<POS>DT JJ NN NN CD .</POS>
+		<Lemma>no manual macro switch 4 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>No usb plug built-in Only one aspect where ZX5 wins over Zi8 is the video smoothness , it has much much less pronounced rolling shutter `` walking jelly '' effect than Zi8 .</Tokens>
+		<POS>DT NN NN JJ RB CD NN WRB NN VBZ IN NN VBZ DT NN NN , PRP VBZ RB RB RBR JJ JJ NN `` VBG RB '' NN IN NN .</POS>
+		<Lemma>no usb plug built-in only one aspect where zx5 win over zi8 be the video smoothness , it have much much less pronounced rolling shutter `` walk jelly '' effect than zi8 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Also , it is waterproof , but this is specific requirement .</Tokens>
+		<POS>RB , PRP VBZ JJ , CC DT VBZ JJ NN .</POS>
+		<Lemma>also , it be waterproof , but this be specific requirement .</Lemma>
+	</Sentence>
+</Document>

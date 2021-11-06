@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the cereal for the first time as an ingredient for an energy bar recipe .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN IN DT NN IN DT NN NN NN .</POS>
+		<Lemma>I buy the cereal for the first time as a ingredient for a energy bar recipe .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>That was about 4 yrs ago and we have been eating it consistently as cereal with vanilla soy milk , raisins and a banana .</Tokens>
+		<POS>DT VBD RB CD NNS RB CC PRP VBP VBN VBG PRP RB IN NN IN NN NN NN , NNS CC DT NN .</POS>
+		<Lemma>that be about 4 yr ago and we have be eat it consistently as cereal with vanilla soy milk , raisin and a banana .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Hubby eats it every morning .</Tokens>
+		<POS>NNP VBZ PRP DT NN .</POS>
+		<Lemma>Hubby eat it every morning .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So satisfying and crunchy .</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>so satisfying and crunchy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We have n't tried it with dairy milk but I can guess that it might need the sweetness of the soy milk or the banana , raisins .</Tokens>
+		<POS>PRP VBP RB VBN PRP IN NN NN CC PRP MD VB IN PRP MD VB DT NN IN DT NN NN CC DT NN , NNS .</POS>
+		<Lemma>we have not try it with dairy milk but I can guess that it might need the sweetness of the soy milk or the banana , raisin .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>All varieties are good .</Tokens>
+		<POS>DT NNS VBP JJ .</POS>
+		<Lemma>all variety be good .</Lemma>
+	</Sentence>
+</Document>

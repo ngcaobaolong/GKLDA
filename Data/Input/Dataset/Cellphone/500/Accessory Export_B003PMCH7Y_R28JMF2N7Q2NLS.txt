@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cable works great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this cable work great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Charges the Galaxy Nexus when not in use and driving .</Tokens>
+		<POS>NNS DT NNP NNP WRB RB IN NN CC NN .</POS>
+		<Lemma>charge the Galaxy Nexus when not in use and driving .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Does n't cost a ridiculous $ 25 + like the Verizon store would charge .</Tokens>
+		<POS>VBZ RB VB DT JJ $ CD CC IN DT NNP NN MD VB .</POS>
+		<Lemma>do not cost a ridiculous $ 25 + like the Verizon store would charge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Highly recommend it .</Tokens>
+		<POS>RB VB PRP .</POS>
+		<Lemma>highly recommend it .</Lemma>
+	</Sentence>
+</Document>

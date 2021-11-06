@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The GOgroove FlexSMART X2 ADVANCED Wireless In-Car Bluetooth FM Transmitter is exactly what I have been wishing for .</Tokens>
+		<POS>DT NN NN NN VBD NNP NNP NNP NNP NNP VBZ RB WP PRP VBP VBN VBG IN .</POS>
+		<Lemma>the gogroove flexsmart x2 advance Wireless In-Car Bluetooth FM Transmitter be exactly what I have be wish for .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No more cables on the way , EXCELLENT sound quality and hands free calling .</Tokens>
+		<POS>DT RBR NNS IN DT NN , JJ JJ NN CC NNS JJ VBG .</POS>
+		<Lemma>no more cable on the way , excellent sound quality and hand free call .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have an iPhone 4s and it works great with it .</Tokens>
+		<POS>PRP VBP DT NNP NNS CC PRP VBZ JJ IN PRP .</POS>
+		<Lemma>I have a iPhone 4 and it work great with it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have owned it for several weeks now and I love it .</Tokens>
+		<POS>PRP VBP VBN PRP IN JJ NNS RB CC PRP VBP PRP .</POS>
+		<Lemma>I have own it for several week now and I love it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great option if you have an older vehicle without all the bells and whistles of the new models .</Tokens>
+		<POS>JJ NN IN PRP VBP DT JJR NN IN PDT DT NNS CC NNS IN DT JJ NNS .</POS>
+		<Lemma>great option if you have a older vehicle without all the bell and whistle of the new model .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is the fourth FM transmitter I have owned and the best so far .</Tokens>
+		<POS>DT VBZ DT JJ NNP NN PRP VBP VBN CC DT JJS RB RB .</POS>
+		<Lemma>this be the fourth FM transmitter I have own and the best so far .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I highly recommend it .</Tokens>
+		<POS>PRP RB VB PRP .</POS>
+		<Lemma>I highly recommend it .</Lemma>
+	</Sentence>
+</Document>

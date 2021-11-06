@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the best soup mix I 've ever had .</Tokens>
+		<POS>DT VBZ DT JJS NN NN PRP VBP RB VBN .</POS>
+		<Lemma>this be the best soup mix I have ever have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's not only easy to make , but also , flling .</Tokens>
+		<POS>PRP VBZ RB RB JJ TO VB , CC RB , NN .</POS>
+		<Lemma>it be not only easy to make , but also , flling .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I added some cooked chicken , potatoes , carrots and celery to the mix and shared it with friends .</Tokens>
+		<POS>PRP VBD DT VBN NN , NNS , NNS CC NN TO DT NN CC VBD PRP IN NNS .</POS>
+		<Lemma>I add some cook chicken , potato , carrot and celery to the mix and share it with friend .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I almost did n't want to share so they would think I did it from scratch .</Tokens>
+		<POS>PRP RB VBD RB VB TO VB IN PRP MD VB PRP VBD PRP IN NN .</POS>
+		<Lemma>I almost do not want to share so they would think I do it from scratch .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Amazon says it is LED but what i receive is LCD and its not HD .</Tokens>
+		<POS>NNP VBZ PRP VBZ VBN CC WP FW VBP VBZ NNS CC PRP$ RB NN .</POS>
+		<Lemma>Amazon say it be lead but what i receive be lcd and its not hd .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Does not have HDMI port , just dont buy it</Tokens>
+		<POS>VBZ RB VB NN NN , RB JJ VB PRP</POS>
+		<Lemma>do not have hdmus port , just dont buy it</Lemma>
+	</Sentence>
+</Document>

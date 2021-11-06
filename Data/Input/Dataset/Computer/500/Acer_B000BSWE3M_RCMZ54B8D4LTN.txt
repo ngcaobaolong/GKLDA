@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this montior for $ 199.00 -LRB- with $ 50.00 rebate -RRB- .</Tokens>
+		<POS>PRP VBD DT NN IN $ CD -LRB- IN $ CD NN -RRB- .</POS>
+		<Lemma>I get this montior for $ 199.00 -lrb- with $ 50.00 rebate -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am in the computer business and could n't get it at this price from any of my suppliers .</Tokens>
+		<POS>PRP VBP IN DT NN NN CC MD RB VB PRP IN DT NN IN DT IN PRP$ NNS .</POS>
+		<Lemma>I be in the computer business and could not get it at this price from any of my supplier .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I expected it to be quite good , the specs were where they should be contrat , response time , etc. .</Tokens>
+		<POS>PRP VBD PRP TO VB RB JJ , DT NNS VBD WRB PRP MD VB NN , NN NN , FW .</POS>
+		<Lemma>I expect it to be quite good , the spec be where they should be contrat , response time , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was not disappointed .</Tokens>
+		<POS>PRP VBD RB VBN .</POS>
+		<Lemma>I be not disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was impressed .</Tokens>
+		<POS>PRP VBD JJ .</POS>
+		<Lemma>I be impressed .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The colors are bright , beautiful and clear .</Tokens>
+		<POS>DT NNS VBP JJ , JJ CC JJ .</POS>
+		<Lemma>the color be bright , beautiful and clear .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I am in the business and have seen many 19 '' LCD monitors that sell for much , much more , and aside from monitors with a higher resolution -LRB- ie 1600 x 1200 -RRB- , there is no noticable difference at all .</Tokens>
+		<POS>PRP VBP IN DT NN CC VBP VBN JJ CD '' NNS NNS WDT VBP IN RB , RB RBR , CC RB IN NNS IN DT JJR NN -LRB- FW CD CC CD -RRB- , EX VBZ DT JJ NN IN DT .</POS>
+		<Lemma>I be in the business and have see many 19 '' lcd monitor that sell for much , much more , and aside from monitor with a higher resolution -lrb- ie 1600 x 1200 -rrb- , there be no noticable difference at all .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This product is hard to beat at any price .</Tokens>
+		<POS>DT NN VBZ JJ TO VB IN DT NN .</POS>
+		<Lemma>this product be hard to beat at any price .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There were no tech specs listed on Amazon for this monitor , but here is what I found out about it from another source : - 19 '' TFT LCD - 1280 x 1024 native resolution - 500:1 contrast ratio - 140 ° \/ 140 ° horizontal\/vertical viewing angles - VGA connector - 250 cd\/m2 brightness - 12ms response time At its thickest point , this monitor is about 4 '' deep and the base measures about 8 '' deep , so it 's easy to push the monitor back to a comfortable viewing distance .</Tokens>
+		<POS>EX VBD DT NN NNS VBN IN NNP IN DT NN , CC RB VBZ WP PRP VBD RP IN PRP IN DT NN : : CD '' NNP NNS : CD CC CD JJ NN : CD NN NN : CD NN : CD CD JJ VBG NNS : NNP NN : CD NN NN : NNS NN NN IN PRP$ JJS NN , DT NN VBZ IN CD '' JJ CC DT NN VBZ IN CD '' RB , IN PRP VBZ JJ TO VB DT NN RB TO DT JJ VBG NN .</POS>
+		<Lemma>there be no tech spec list on Amazon for this monitor , but here be what I find out about it from another source : - 19 '' TFT lcd - 1280 x 1024 native resolution - 500:1 contrast ratio - 140 ° \/ 140 ° horizontal\/vertical view angle - VGA connector - 250 cd\/m2 brightness - 12m response time at its thickest point , this monitor be about 4 '' deep and the base measure about 8 '' deep , so it be easy to push the monitor back to a comfortable view distance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Viewable area appears to be a true 19 '' , which is nearly an inch more than my 19 '' CRT .</Tokens>
+		<POS>JJ NN VBZ TO VB DT JJ CD '' , WDT VBZ RB DT NN RBR IN PRP$ CD '' NNP .</POS>
+		<Lemma>viewable area appear to be a true 19 '' , which be nearly a inch more than my 19 '' CRT .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>While running the monitor at 1152x864 , I have a lot of room for toolbars & other panels in applications such as Photoshop and Frontpage .</Tokens>
+		<POS>IN VBG DT NN IN CD , PRP VBP DT NN IN NN IN NNS CC JJ NNS IN NNS JJ IN NNP CC NNP .</POS>
+		<Lemma>while run the monitor at 1152x864 , I have a lot of room for toolbar & other panel in application such as Photoshop and Frontpage .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The 500:1 contrast ratio offers plenty of contrast and brightness - so much in fact , that I had to turn the brightness WAY down before it was comfortable to look at .</Tokens>
+		<POS>DT CD NN NN VBZ NN IN NN CC NN : RB RB IN NN , IN PRP VBD TO VB DT NN NN IN IN PRP VBD JJ TO VB IN .</POS>
+		<Lemma>the 500:1 contrast ratio offer plenty of contrast and brightness - so much in fact , that I have to turn the brightness way down before it be comfortable to look at .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My office gets plenty of natural light during the daytime , but there is absolutely no glare on the screen .</Tokens>
+		<POS>PRP$ NN VBZ NN IN JJ NN IN DT JJ , CC EX VBZ RB DT NN IN DT NN .</POS>
+		<Lemma>my office get plenty of natural light during the daytime , but there be absolutely no glare on the screen .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The only area where it does n't measure up to a CRT is when displaying web pages with thin vertical lines or frames , which flicker a bit , but this is probably not an issue for business users -LRB- though I 'm not sure how it would affect gamers -RRB- .</Tokens>
+		<POS>DT JJ NN WRB PRP VBZ RB VB RP TO DT NNP VBZ WRB VBG NN NNS IN JJ JJ NNS CC NNS , WDT VBP DT NN , CC DT VBZ RB RB DT NN IN NN NNS -LRB- IN PRP VBP RB JJ WRB PRP MD VB NNS -RRB- .</POS>
+		<Lemma>the only area where it do not measure up to a CRT be when display web page with thin vertical line or frame , which flicker a bit , but this be probably not a issue for business user -lrb- though I be not sure how it would affect gamer -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Installation for WinXP 2nd Edition was as simple as plugging it in , so I never even inserted the CD or opened the manual .</Tokens>
+		<POS>NN IN NN JJ NN VBD RB JJ IN VBG PRP IN , IN PRP RB RB VBN DT NN CC VBD DT NN .</POS>
+		<Lemma>installation for winxp 2nd edition be as simple as plug it in , so I never even insert the cd or open the manual .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Overall , for $ 200 after a $ 50 rebate -LRB- plus I got free shipping , which may or not be offered now -RRB- , this is an exceptional deal .</Tokens>
+		<POS>RB , IN $ CD IN DT $ CD NN -LRB- CC PRP VBD JJ NN , WDT MD CC RB VB VBN RB -RRB- , DT VBZ DT JJ NN .</POS>
+		<Lemma>overall , for $ 200 after a $ 50 rebate -lrb- plus I get free shipping , which may or not be offer now -rrb- , this be a exceptional deal .</Lemma>
+	</Sentence>
+</Document>

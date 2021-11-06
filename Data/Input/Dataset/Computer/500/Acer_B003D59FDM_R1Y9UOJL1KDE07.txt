@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great monitor at a great price .</Tokens>
+		<POS>JJ NN IN DT JJ NN .</POS>
+		<Lemma>great monitor at a great price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Truly plug and play -- I did n't have to use the driver CD that came with it .</Tokens>
+		<POS>RB NN CC NN : PRP VBD RB VB TO VB DT NN NN WDT VBD IN PRP .</POS>
+		<Lemma>truly plug and play -- I do not have to use the driver cd that come with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sharp picture in a space-saving design makes it great for any work area .</Tokens>
+		<POS>JJ NN IN DT JJ NN VBZ PRP JJ IN DT NN NN .</POS>
+		<Lemma>sharp picture in a space-saving design make it great for any work area .</Lemma>
+	</Sentence>
+</Document>

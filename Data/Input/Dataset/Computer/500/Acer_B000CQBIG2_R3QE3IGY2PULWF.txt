@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor from computer direct a couple months ago , and I have been very satisfied with it so far .</Tokens>
+		<POS>PRP VBD DT NN IN NN VB DT NN NNS RB , CC PRP VBP VBN RB VBN IN PRP RB RB .</POS>
+		<Lemma>I buy this monitor from computer direct a couple month ago , and I have be very satisfy with it so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Some specifics from my purchase experience were : 1 .</Tokens>
+		<POS>DT NNS IN PRP$ NN NN VBD : CD .</POS>
+		<Lemma>some specifics from my purchase experience be : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The clarity and contrast are exactly what I was looking for in a monitor , and spec for spec , it is a bargain compared to other brands .</Tokens>
+		<POS>DT NN CC NN VBP RB WP PRP VBD VBG IN IN DT NN , CC NN IN NN , PRP VBZ DT NN VBN TO JJ NNS .</POS>
+		<Lemma>the clarity and contrast be exactly what I be look for in a monitor , and spec for spec , it be a bargain compare to other brand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The computer direct processing and shipping was outrageously fast .</Tokens>
+		<POS>DT NN JJ NN CC NN VBD RB RB .</POS>
+		<Lemma>the computer direct processing and shipping be outrageously fast .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I ordered it on a Monday afternoon -LRB- around 2 PM -RRB- and with no extra shipping costs , the monitor was at my door in Chicago by the time I got home from work Tuesday .</Tokens>
+		<POS>PRP VBD PRP IN DT NNP NN -LRB- IN CD NN -RRB- CC IN DT JJ NN NNS , DT NN VBD IN PRP$ NN IN NNP IN DT NN PRP VBD NN IN NN NNP .</POS>
+		<Lemma>I order it on a Monday afternoon -lrb- around 2 pm -rrb- and with no extra shipping cost , the monitor be at my door in Chicago by the time I get home from work Tuesday .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The stand is by far the most inferior aspect of this monitor .</Tokens>
+		<POS>DT NN VBZ IN RB DT RBS JJ NN IN DT NN .</POS>
+		<Lemma>the stand be by far the most inferior aspect of this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It will only move the monitor side to side -LRB- no up\/down or tilt feature -RRB- .</Tokens>
+		<POS>PRP MD RB VB DT NN NN TO NN -LRB- DT NN CC NN NN -RRB- .</POS>
+		<Lemma>it will only move the monitor side to side -lrb- no up\/down or tilt feature -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>However , the view angle on this thing is so big that you will see very clearly on any desk\/viewing situation you normally run across .</Tokens>
+		<POS>RB , DT NN NN IN DT NN VBZ RB JJ IN PRP MD VB RB RB IN DT VBG NN PRP RB VBP IN .</POS>
+		<Lemma>however , the view angle on this thing be so big that you will see very clearly on any desk\/viewing situation you normally run across .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Just in general , make sure your graphics card can handle the native screen resolution on this monitor .</Tokens>
+		<POS>RB IN JJ , VB JJ PRP$ NNS NN MD VB DT JJ NN NN IN DT NN .</POS>
+		<Lemma>just in general , make sure you graphic card can handle the native screen resolution on this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Many computers from 2003 or before may not be able to .</Tokens>
+		<POS>JJ NNS IN CD CC RB MD RB VB JJ TO .</POS>
+		<Lemma>many computer from 2003 or before may not be able to .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>5 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>5 .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I have seen no dead pixels or color bleeding that I 've heard about with other ACER models</Tokens>
+		<POS>PRP VBP VBN DT JJ NNS CC NN NN IN PRP VBP VBN IN IN JJ NNP NNS</POS>
+		<Lemma>I have see no dead pixel or color bleeding that I have hear about with other ACER model</Lemma>
+	</Sentence>
+</Document>

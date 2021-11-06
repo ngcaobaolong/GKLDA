@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It 's both good and good for you , at a good price through Amazon if you have a family that eats it often -- six boxes is a lot .</Tokens>
+		<POS>PRP VBZ DT JJ CC JJ IN PRP , IN DT JJ NN IN NNP IN PRP VBP DT NN WDT VBZ PRP RB : CD NNS VBZ DT NN .</POS>
+		<Lemma>it be both good and good for you , at a good price through Amazon if you have a family that eat it often -- six box be a lot .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We are generally very happy with our FlexSMART x2 , and this is really a `` 4.5 '' star review .</Tokens>
+		<POS>PRP VBP RB RB JJ IN PRP$ NN NN , CC DT VBZ RB DT `` CD '' NN NN .</POS>
+		<Lemma>we be generally very happy with we flexsmart x2 , and this be really a `` 4.5 '' star review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There 's just some things I 'd like to comment on ... 1 -RRB- We wish that the volume transmitter on the FlexSMART went just a little bit higher so we do n't have to crank the car radio .</Tokens>
+		<POS>EX VBZ RB DT NNS PRP MD VB TO VB IN : LS -RRB- PRP VBP IN DT NN NN IN DT NNP VBD RB DT JJ NN JJR IN PRP VBP RB VB TO VB DT NN NN .</POS>
+		<Lemma>there be just some thing I would like to comment on ... 1 -rrb- we wish that the volume transmitter on the FlexSMART go just a little bit higher so we do not have to crank the car radio .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do n't get me wrong , it 's perfectly audible and generally produces a nice clear sound -LRB- even in a busy radio area like Chicago -RRB- .</Tokens>
+		<POS>VBP RB VB PRP JJ , PRP VBZ RB JJ CC RB VBZ DT JJ JJ NN -LRB- RB IN DT JJ NN NN IN NNP -RRB- .</POS>
+		<Lemma>do not get I wrong , it be perfectly audible and generally produce a nice clear sound -lrb- even in a busy radio area like Chicago -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But transitioning from the FlexSMART x2 to radio can be a little startling if you forget to turn the radio volume back down .</Tokens>
+		<POS>CC VBG IN DT NN NN TO NN MD VB DT JJ JJ IN PRP VB TO VB DT NN NN RB RB .</POS>
+		<Lemma>but transition from the flexsmart x2 to radio can be a little startling if you forget to turn the radio volume back down .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>: -RRB- 2 -RRB- My husband and I both own iPhones and we carpool .</Tokens>
+		<POS>: -RRB- LS -RRB- PRP$ NN CC PRP DT JJ NNS CC PRP VBP .</POS>
+		<Lemma>: -rrb- 2 -rrb- my husband and I both own iphone and we carpool .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Having both phones in the car with the FlexSMART seems to confuse the unit .</Tokens>
+		<POS>VBG DT NNS IN DT NN IN DT NN VBZ TO VB DT NN .</POS>
+		<Lemma>have both phone in the car with the flexsmart seem to confuse the unit .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>One of us has to keep our phone on Airplane mode -LRB- or completely off -RRB- for the other to work .</Tokens>
+		<POS>CD IN PRP VBZ TO VB PRP$ NN IN NN NN -LRB- CC RB IN -RRB- IN DT JJ TO VB .</POS>
+		<Lemma>one of we have to keep we phone on airplane mode -lrb- or completely off -rrb- for the other to work .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>We never had to put in the `` 0000 '' sync code - it automatically synced with our phones .</Tokens>
+		<POS>PRP RB VBD TO VB IN DT `` CD '' NN NN : PRP RB VBD IN PRP$ NNS .</POS>
+		<Lemma>we never have to put in the `` 0000 '' sync code - it automatically synce with we phone .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I fear this is part of the problem with having two phones in proximity to the unit .</Tokens>
+		<POS>PRP VBP DT VBZ NN IN DT NN IN VBG CD NNS IN NN TO DT NN .</POS>
+		<Lemma>I fear this be part of the problem with have two phone in proximity to the unit .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Overall , we 're very pleased .</Tokens>
+		<POS>RB , PRP VBP RB JJ .</POS>
+		<Lemma>overall , we be very pleased .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would highly recommend !</Tokens>
+		<POS>PRP MD RB VB .</POS>
+		<Lemma>I would highly recommend !</Lemma>
+	</Sentence>
+</Document>

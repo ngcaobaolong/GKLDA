@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a really good popcorn .</Tokens>
+		<POS>DT VBZ DT RB JJ NN .</POS>
+		<Lemma>this be a really good popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>All but a very few kernels pop per batch in my handy dandy Presto air popper .</Tokens>
+		<POS>DT CC DT RB JJ NNS VBP IN NN IN PRP$ JJ JJ NNP NN NN .</POS>
+		<Lemma>all but a very few kernel pop per batch in my handy dandy Presto air popper .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I recommend this brand to anyone except my grandmother who has false teeth .</Tokens>
+		<POS>PRP VBP DT NN TO NN IN PRP$ NN WP VBZ JJ NNS .</POS>
+		<Lemma>I recommend this brand to anyone except my grandmother who have false tooth .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is a lot to mull over .</Tokens>
+		<POS>PRP VBZ DT NN TO VB RP .</POS>
+		<Lemma>it be a lot to mull over .</Lemma>
+	</Sentence>
+</Document>

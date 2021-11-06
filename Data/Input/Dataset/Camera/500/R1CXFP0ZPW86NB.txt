@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Amazing camera .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>amazing camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>F1 .8 makes photos like if they were taken with a DSLR .</Tokens>
+		<POS>NN CD VBZ NNS IN IN PRP VBD VBN IN DT NN .</POS>
+		<Lemma>f1 .8 make photo like if they be take with a dslr .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you attach a RICOH lens protector will interfere with the flash , but you wont need to use it anyways , night times pictures are stunning .</Tokens>
+		<POS>IN PRP VBP DT NNP NN NN MD VB IN DT NN , CC PRP VBP VB TO VB PRP RB , NN NNS NNS VBP JJ .</POS>
+		<Lemma>if you attach a RICOH lens protector will interfere with the flash , but you wont need to use it anyways , night time picture be stunning .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have the lumix LX3 and the olympus take much better photos , though it has a narrower lens -LRB- LX-3 24mm , really wide photos -RRB- Like other reviewers said the video quality is no match for current lumix cameras with AVCHDLite , or even the iphone 4 , but that 's not the point of having a camera .</Tokens>
+		<POS>PRP VBP DT NN NN CC DT NNS VBP RB JJR NNS , IN PRP VBZ DT JJR NN -LRB- NN CD , RB JJ NNS -RRB- IN JJ NNS VBD DT JJ NN VBZ DT NN IN JJ NN NNS IN NN , CC RB DT NN CD , CC DT VBZ RB DT NN IN VBG DT NN .</POS>
+		<Lemma>I have the lumix lx3 and the olympus take much better photo , though it have a narrower lens -lrb- lx-3 24mm , really wide photo -rrb- like other reviewer say the video quality be no match for current lumix camera with avchdlite , or even the iphone 4 , but that be not the point of have a camera .</Lemma>
+	</Sentence>
+</Document>

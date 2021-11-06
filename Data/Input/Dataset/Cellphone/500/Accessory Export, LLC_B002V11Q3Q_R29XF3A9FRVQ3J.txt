@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I recieved it in the time indicated and it works like it should .</Tokens>
+		<POS>PRP VBD PRP IN DT NN VBD CC PRP VBZ IN PRP MD .</POS>
+		<Lemma>I recieve it in the time indicate and it work like it should .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Glad I did n't have to spend $ 15 or $ 20 dollars on a whole new phone charger .</Tokens>
+		<POS>JJ PRP VBD RB VB TO VB $ CD CC $ CD NNS IN DT JJ JJ NN NN .</POS>
+		<Lemma>glad I do not have to spend $ 15 or $ 20 dollar on a whole new phone charger .</Lemma>
+	</Sentence>
+</Document>

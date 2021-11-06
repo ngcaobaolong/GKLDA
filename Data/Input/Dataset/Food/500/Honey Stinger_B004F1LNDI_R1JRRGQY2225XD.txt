@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this waffle hits the spot for a quick energy boost to a ride .</Tokens>
+		<POS>DT NN VBZ DT NN IN DT JJ NN NN TO DT NN .</POS>
+		<Lemma>this waffle hit the spot for a quick energy boost to a ride .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i ride casually , stopping 1\/2 way of my trek for much needed energy boost -LRB- drink -RRB- and protein -LRB- banana -RRB- .</Tokens>
+		<POS>LS NN RB , VBG CD NN IN PRP$ NN IN JJ VBN NN NN -LRB- NN -RRB- CC NN -LRB- NN -RRB- .</POS>
+		<Lemma>i ride casually , stop 1\/2 way of my trek for much need energy boost -lrb- drink -rrb- and protein -lrb- banana -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>well i began to incorporate the waffle into my routine and it compliments the regimen perfectly !!!</Tokens>
+		<POS>RB FW VBD TO VB DT NN IN PRP$ JJ CC PRP NNS DT NN RB IN</POS>
+		<Lemma>well i begin to incorporate the waffle into my routine and it compliment the regimen perfectly !!!</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The flex-smart gogroove is an excellent bluetooth transmitter .</Tokens>
+		<POS>DT JJ NN VBZ DT JJ NN NN .</POS>
+		<Lemma>the flex-smart gogroove be a excellent bluetooth transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I thought it good that the seller sent an email enquiringly if I was happy with the product and if i had any problems they would take care of it .</Tokens>
+		<POS>PRP VBD PRP JJ IN DT NN VBD DT NN RB IN PRP VBD JJ IN DT NN CC IN FW VBD DT NNS PRP MD VB NN IN PRP .</POS>
+		<Lemma>I think it good that the seller send a email enquiringly if I be happy with the product and if i have any problem they would take care of it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The gogroove is easy to set up and seamlessly interfaced with my car stereo and my Droid X. simple controls and the call quality is very good , music quality is decent but some songs sound better than others even though they come from the same source .</Tokens>
+		<POS>DT NN VBZ JJ TO VB RP CC RB VBN IN PRP$ NN NN CC PRP$ NNP NNP JJ NNS CC DT JJ NN VBZ RB JJ , NN NN VBZ JJ CC DT NNS VB JJR IN NNS RB IN PRP VBP IN DT JJ NN .</POS>
+		<Lemma>the gogroove be easy to set up and seamlessly interface with my car stereo and my Droid X. simple control and the call quality be very good , music quality be decent but some song sound better than other even though they come from the same source .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Overall i am very happy with the gogroove and use it daily .</Tokens>
+		<POS>JJ FW VBP RB JJ IN DT NN CC VB PRP RB .</POS>
+		<Lemma>overall i be very happy with the gogroove and use it daily .</Lemma>
+	</Sentence>
+</Document>

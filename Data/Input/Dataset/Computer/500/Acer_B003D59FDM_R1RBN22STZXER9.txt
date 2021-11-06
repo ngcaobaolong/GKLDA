@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Acer V173 Djb 17-Inch LCD Monitor - Black is an excellent monitor .</Tokens>
+		<POS>NNP NNP NNP NNP NNS NNP : NNP VBZ DT JJ NN .</POS>
+		<Lemma>Acer V173 Djb 17-Inch lcd Monitor - Black be a excellent monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has a very good resolution and very good colors .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN CC RB JJ NNS .</POS>
+		<Lemma>it have a very good resolution and very good color .</Lemma>
+	</Sentence>
+</Document>

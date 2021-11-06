@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor had a dead vertical pixel row right out of the box .</Tokens>
+		<POS>DT NN VBD DT JJ JJ NN NN NN IN IN DT NN .</POS>
+		<Lemma>the monitor have a dead vertical pixel row right out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This was a case of ` you get what you pay for ' .</Tokens>
+		<POS>DT VBD DT NN IN `` PRP VBP WP PRP VBP IN '' .</POS>
+		<Lemma>this be a case of ` you get what you pay for ' .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>`` Love this product !!!!</Tokens>
+		<POS>`` NN DT NN CD</POS>
+		<Lemma>`` love this product !!!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have a lot of `` leftover '' AA batteries , now I can use those to charge my Iphone , how cool is that ? ''</Tokens>
+		<POS>PRP VBP DT NN IN `` JJR '' NN NNS , RB PRP MD VB DT TO VB PRP$ NNP , WRB JJ VBZ IN . ''</POS>
+		<Lemma>I have a lot of `` leftover '' aa battery , now I can use those to charge my Iphone , how cool be that ? ''</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this charger to use specifically in my car and sadly that feature does n't work .</Tokens>
+		<POS>PRP VBD DT NN TO VB RB IN PRP$ NN CC RB IN NN VBZ RB VB .</POS>
+		<Lemma>I buy this charger to use specifically in my car and sadly that feature do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have used it ti charge in my home and it works great , but sadly the charger for the car does n't work .</Tokens>
+		<POS>PRP VBP VBN PRP FW NN IN PRP$ NN CC PRP VBZ JJ , CC RB DT NN IN DT NN VBZ RB VB .</POS>
+		<Lemma>I have use it ti charge in my home and it work great , but sadly the charger for the car do not work .</Lemma>
+	</Sentence>
+</Document>

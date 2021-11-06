@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The DC barrel that plugs into your car 's power supply is poorly constructed .</Tokens>
+		<POS>DT NN NN WDT VBZ IN PRP$ NN POS NN NN VBZ RB VBN .</POS>
+		<Lemma>the dc barrel that plug into you car 's power supply be poorly construct .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The barrel is held in the charger with rubber grips that ripped within 2 weeks of use and the unit would jiggle out of the power supply , causing interrupted phone calls and music .</Tokens>
+		<POS>DT NN VBZ VBN IN DT NN IN NN NNS WDT VBD IN CD NNS IN NN CC DT NN MD VB IN IN DT NN NN , VBG JJ NN NNS CC NN .</POS>
+		<Lemma>the barrel be hold in the charger with rubber grip that rip within 2 week of use and the unit would jiggle out of the power supply , cause interrupted phone call and music .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I thought the warranty would cover it , but the warranty company , Accessory Power , said that was `` normal wear and tear '' .</Tokens>
+		<POS>PRP VBD DT NN MD VB PRP , CC DT NN NN , NNP NNP , VBD DT VBD `` JJ NN CC VB '' .</POS>
+		<Lemma>I think the warranty would cover it , but the warranty company , Accessory Power , say that be `` normal wear and tear '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They refused to replace the barrel\/flex arm , and instead offered to send me a `` washer '' that would go over the barrel .</Tokens>
+		<POS>PRP VBD TO VB DT JJ NN , CC RB VBN TO VB PRP DT `` NN '' WDT MD VB IN DT NN .</POS>
+		<Lemma>they refuse to replace the barrel\/flex arm , and instead offer to send I a `` washer '' that would go over the barrel .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>No thanks .</Tokens>
+		<POS>DT NNS .</POS>
+		<Lemma>no thanks .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Luckily I was able to return it to Amazon .</Tokens>
+		<POS>RB PRP VBD JJ TO VB PRP TO NNP .</POS>
+		<Lemma>luckily I be able to return it to Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I also have the Mini , which has no rubber grips on the barrel ; all metal and therefore much more durable .</Tokens>
+		<POS>PRP RB VBP DT NNP , WDT VBZ DT NN NNS IN DT NN : DT NN CC RB RB RBR JJ .</POS>
+		<Lemma>I also have the Mini , which have no rubber grip on the barrel ; all metal and therefore much more durable .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Otherwise , the blutooth units are identical and excellent products .</Tokens>
+		<POS>RB , DT NN NNS VBP JJ CC JJ NNS .</POS>
+		<Lemma>otherwise , the blutooth unit be identical and excellent product .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Watch out for Accessory Power 's warranty terms though .</Tokens>
+		<POS>NNP RP IN NNP NNP POS NN NNS IN .</POS>
+		<Lemma>Watch out for Accessory Power 's warranty term though .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Not as helpful as you would think .</Tokens>
+		<POS>RB IN JJ IN PRP MD VB .</POS>
+		<Lemma>not as helpful as you would think .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Get the Mini : <a href="http://www.amazon.com/gp/product/B007OXLK82/ref=cm_cr_asin_lnk/182-1926019-0290136"> GOgroove SMARTmini BT ADVANCED Wireless In-Car Bluetooth FM Transmitter with Charging , Music Control and Hands-Free Calling for ANDROID , iPhone , Blackberry and Windows Smartphones </a></Tokens>
+		<POS>VB DT NNP : NN NN NN NNP NNP NNP NNP NNP NNP NN IN VBG , NNP NNP CC NNP VBG IN NNP , NNP , NNP CC NNP NNPS IN</POS>
+		<Lemma>get the Mini : <a href="http://www.amazon.com/gp/product/b007oxlk82/ref=cm_cr_asin_lnk/182-1926019-0290136"> gogroove smartminus BT ADVANCED Wireless In-Car Bluetooth FM transmitter with charge , Music Control and Hands-Free call for ANDROID , iPhone , Blackberry and Windows Smartphones </a></Lemma>
+	</Sentence>
+</Document>

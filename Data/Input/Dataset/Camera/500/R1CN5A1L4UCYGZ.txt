@@ -1,0 +1,117 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this camera mainly because of Kodak name .</Tokens>
+		<POS>VBN DT NN RB IN IN NNP NN .</POS>
+		<Lemma>buy this camera mainly because of Kodak name .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Now , I know why they 're bankrupt .</Tokens>
+		<POS>RB , PRP VBP WRB PRP VBP JJ .</POS>
+		<Lemma>now , I know why they be bankrupt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Like the majority of 1-star reviews , the camera leaked and shut down after only a few minutes in the water while swimming to a snorkling spot in the Caribbean .</Tokens>
+		<POS>IN DT NN IN JJ NNS , DT NN VBD CC VBD RP IN RB DT JJ NNS IN DT NN IN VBG TO DT VBG NN IN DT NNP .</POS>
+		<Lemma>like the majority of 1-star review , the camera leak and shut down after only a few minute in the water while swim to a snorkle spot in the Caribbean .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The camera was only inches beneath the surface and I took a couple of shots while swimming .</Tokens>
+		<POS>DT NN VBD RB NNS IN DT NN CC PRP VBD DT NN IN NNS IN NN .</POS>
+		<Lemma>the camera be only inch beneath the surface and I take a couple of shot while swimming .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Those were the only shots I got .</Tokens>
+		<POS>DT VBD DT JJ NNS PRP VBD .</POS>
+		<Lemma>those be the only shot I get .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>When I reached the snorkling spot the camera would not turn on though I had loaded new batteries before starting .</Tokens>
+		<POS>WRB PRP VBD DT VBG NN DT NN MD RB VB RP IN PRP VBD VBN JJ NNS IN VBG .</POS>
+		<Lemma>when I reach the snorkle spot the camera would not turn on though I have load new battery before start .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I got back and opened the camera I poured about 1\/4 teaspoon of water out of the battery compartment .</Tokens>
+		<POS>WRB PRP VBD RB CC VBD DT NN PRP VBD IN CD NN IN NN IN IN DT NN NN .</POS>
+		<Lemma>when I get back and open the camera I pour about 1\/4 teaspoon of water out of the battery compartment .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Lense was fogged and water was in the viewing screen .</Tokens>
+		<POS>NN VBD VBN CC NN VBD IN DT VBG NN .</POS>
+		<Lemma>lense be fog and water be in the view screen .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Tried to contact Kodak by email but each time I clicked the submit button , the form cleared and had to start over .</Tokens>
+		<POS>VBD TO VB NNP IN NN CC DT NN PRP VBD DT VBP NN , DT NN VBD CC VBD TO VB RP .</POS>
+		<Lemma>try to contact Kodak by email but each time I click the submit button , the form clear and have to start over .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Finally called on phone and explained problem to tech .</Tokens>
+		<POS>RB VBN IN NN CC VBD NN TO NN .</POS>
+		<Lemma>finally call on phone and explain problem to tech .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>He said I could send it in for repair only -LRB- not replacement -RRB- .</Tokens>
+		<POS>PRP VBD PRP MD VB PRP IN IN NN RB -LRB- RB NN -RRB- .</POS>
+		<Lemma>he say I could send it in for repair only -lrb- not replacement -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>He also said if they found I had abused camera they would advise me of the cost of repair and if I did n't agree to pay repair charges they would charge me $ 35.00 for trouble analysis .</Tokens>
+		<POS>PRP RB VBD IN PRP VBD PRP VBD VBN NN PRP MD VB PRP IN DT NN IN NN CC IN PRP VBD RB VB TO VB NN NNS PRP MD VB PRP $ CD IN NN NN .</POS>
+		<Lemma>he also say if they find I have abuse camera they would advise I of the cost of repair and if I do not agree to pay repair charge they would charge I $ 35.00 for trouble analysis .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Then said they would send instructions for sending camera in shortly after we terminated phone call .</Tokens>
+		<POS>RB VBD PRP MD VB NNS IN VBG NN IN RB IN PRP VBD NN NN .</POS>
+		<Lemma>then say they would send instruction for send camera in shortly after we terminate phone call .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It 's been two days and only thing I got was a survey on what kind of job the tech did .</Tokens>
+		<POS>PRP VBZ VBN CD NNS CC RB NN PRP VBD VBD DT NN IN WP NN IN NN DT NN VBD .</POS>
+		<Lemma>it be be two day and only thing I get be a survey on what kind of job the tech do .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Camera has not been abused though it 's got scratches on it from being in my camera case with my DSLR .</Tokens>
+		<POS>NN VBZ RB VBN JJ IN PRP VBZ VBN NNS IN PRP IN VBG IN PRP$ NN NN IN PRP$ NN .</POS>
+		<Lemma>camera have not be abused though it be get scratch on it from be in my camera case with my dslr .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It 's only been used once since I received it and that was a set of test pictures to make sure it worked .</Tokens>
+		<POS>PRP VBZ RB VBN VBN RB IN PRP VBD PRP CC DT VBD DT NN IN NN NNS TO VB JJ PRP VBD .</POS>
+		<Lemma>it be only be use once since I receive it and that be a set of test picture to make sure it work .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Otherwise , it 's never been out of the camera bag .</Tokens>
+		<POS>RB , PRP VBZ RB VBN IN IN DT NN NN .</POS>
+		<Lemma>otherwise , it be never be out of the camera bag .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Paint on camera is VERY thin and scratches easily .</Tokens>
+		<POS>VB IN NN VBZ RB JJ CC NNS RB .</POS>
+		<Lemma>paint on camera be very thin and scratch easily .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Good way for Kodak to claim abuse .</Tokens>
+		<POS>JJ NN IN NNP TO VB NN .</POS>
+		<Lemma>good way for Kodak to claim abuse .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>After thinking about it and considering other customer service complaints here , I do n't think I 'm gonna throw good money after bad by paying shipping to Kodak .</Tokens>
+		<POS>IN VBG IN PRP CC VBG JJ NN NN NNS RB , PRP VBP RB VB PRP VBP NNS VB JJ NN IN JJ IN VBG NN TO NNP .</POS>
+		<Lemma>after think about it and consider other customer service complaint here , I do not think I be gonna throw good money after bad by pay shipping to Kodak .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I certainly will not pay a $ 35.00 fee for trouble shooting a camera that 's still under warranty if they try to claim its been abused .</Tokens>
+		<POS>PRP RB MD RB VB DT $ CD NN IN NN VBG DT NN WDT VBZ RB IN NN IN PRP VBP TO VB PRP$ VBN VBN .</POS>
+		<Lemma>I certainly will not pay a $ 35.00 fee for trouble shoot a camera that be still under warranty if they try to claim its be abuse .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Think I 'll just hang the camera in a prominent place as a continuous reminder of my stupidity for buying a Kodak camera .</Tokens>
+		<POS>VB PRP MD RB VB DT NN IN DT JJ NN IN DT JJ NN IN PRP$ NN IN VBG DT NNP NN .</POS>
+		<Lemma>think I 'll just hang the camera in a prominent place as a continuous reminder of my stupidity for buy a Kodak camera .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Too late between purchase and first underwater use to return to Amazon .</Tokens>
+		<POS>RB JJ IN NN CC JJ JJ NN TO VB TO NNP .</POS>
+		<Lemma>too late between purchase and first underwater use to return to Amazon .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We live on a sheep ranch and we bought a handful of these cameras to monitor the pregnant sheep at night in the barn during lambing season .</Tokens>
+		<POS>PRP VBP IN DT NN NN CC PRP VBD DT NN IN DT NNS TO VB DT JJ NN IN NN IN DT NN IN NN NN .</POS>
+		<Lemma>we live on a sheep ranch and we buy a handful of these camera to monitor the pregnant sheep at night in the barn during lambing season .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The hardware on these cameras is amazing .</Tokens>
+		<POS>DT NN IN DT NNS VBZ JJ .</POS>
+		<Lemma>the hardware on these camera be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They really are extremely good .</Tokens>
+		<POS>PRP RB VBP RB JJ .</POS>
+		<Lemma>they really be extremely good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Living in a barn is not the easiest place for any electronics .</Tokens>
+		<POS>VBG IN DT NN VBZ RB DT JJS NN IN DT NNS .</POS>
+		<Lemma>live in a barn be not the easiest place for any electronics .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>These cameras are not rated for outdoor use and yet they 've outlived other electronics in the barn .</Tokens>
+		<POS>DT NNS VBP RB VBN IN JJ NN CC RB PRP VBP VBN JJ NNS IN DT NN .</POS>
+		<Lemma>these camera be not rate for outdoor use and yet they have outlive other electronics in the barn .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We bought these because they 're cheap enough to be disposable , but so far they 're all still ticking along just fine .</Tokens>
+		<POS>PRP VBD DT IN PRP VBP JJ JJ TO VB JJ , CC RB RB PRP VBP DT RB VBG RB RB JJ .</POS>
+		<Lemma>we buy these because they be cheap enough to be disposable , but so far they be all still tick along just fine .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>OK , the downside is the software that comes built in to the inbuilt webserver .</Tokens>
+		<POS>UH , DT NN VBZ DT NN WDT VBZ VBN IN TO DT JJ NN .</POS>
+		<Lemma>ok , the downside be the software that come build in to the inbuilt webserver .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's not terrible but it 's not awesome .</Tokens>
+		<POS>PRP VBZ RB JJ CC PRP VBZ RB JJ .</POS>
+		<Lemma>it be not terrible but it be not awesome .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My day job involves working with technology all day and I figured it all out with minimum fuss .</Tokens>
+		<POS>PRP$ NN NN VBZ VBG IN NN DT NN CC PRP VBD PRP DT RP IN JJ NN .</POS>
+		<Lemma>my day job involve work with technology all day and I figure it all out with minimum fuss .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But I could definitely see how someone who was n't tech savvy might be scratching their heads .</Tokens>
+		<POS>CC PRP MD RB VB WRB NN WP VBD RB NN JJ MD VB VBG PRP$ NNS .</POS>
+		<Lemma>but I could definitely see how someone who be not tech savvy might be scratch they head .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>-LRB- In summary , as with most wireless technology lacking a display , set it up using the WIRED connection first , then use the wired connection to set up the wireless connection -RRB- .</Tokens>
+		<POS>-LRB- IN NN , IN IN JJS JJ NN VBG DT NN , VBD PRP RP VBG DT VBN NN RB , RB VB DT VBN NN TO VB RP DT JJ NN -RRB- .</POS>
+		<Lemma>-lrb- in summary , as with most wireless technology lack a display , set it up use the wire connection first , then use the wire connection to set up the wireless connection -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I ended up reverse engineering their rest api and writing our own front-end which works better for us -LRB- multiple cameras all on a single display -RRB- .</Tokens>
+		<POS>PRP VBD RP JJ NN PRP$ NN NN CC VBG PRP$ JJ NN WDT VBZ RBR IN PRP -LRB- JJ NNS DT IN DT JJ NN -RRB- .</POS>
+		<Lemma>I end up reverse engineering they rest apus and write we own front-end which work better for we -lrb- multiple camera all on a single display -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>We 've successfully set up our ranch firewall to allow us to view the barn when we 're off traveling .</Tokens>
+		<POS>PRP VBP RB VBN RP PRP$ NN NN TO VB PRP TO VB DT NN WRB PRP VBP RP VBG .</POS>
+		<Lemma>we have successfully set up we ranch firewall to allow we to view the barn when we be off travel .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>In summary , I 'm extremely happy with these cameras and wo n't hesitate to buy more when we need to expand our coverage of the barn yard .</Tokens>
+		<POS>IN NN , PRP VBP RB JJ IN DT NNS CC MD RB VB TO VB JJR WRB PRP VBP TO VB PRP$ NN IN DT NN NN .</POS>
+		<Lemma>in summary , I be extremely happy with these camera and will not hesitate to buy more when we need to expand we coverage of the barn yard .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We cook a lot of Ethiopian food around here , and the traditional dish mesir wot requires red lentils to really taste right .</Tokens>
+		<POS>PRP VBP DT NN IN JJ NN IN RB , CC DT JJ NN NN NN VBZ JJ NNS TO RB VB NN .</POS>
+		<Lemma>we cook a lot of ethiopian food around here , and the traditional dish mesir wot require red lentil to really taste right .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These cook wonderfully , taste great .</Tokens>
+		<POS>DT VBP RB , NN JJ .</POS>
+		<Lemma>these cook wonderfully , taste great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am glad I subscribed .</Tokens>
+		<POS>PRP VBP JJ PRP VBD .</POS>
+		<Lemma>I be glad I subscribe .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Acer Monitor has an extremely bright screen and its design allows the placement in an area -LRB- from a heighth perspective -RRB- that many 20 '' screens will not fit in .</Tokens>
+		<POS>DT NNP NNP VBZ DT RB JJ NN CC PRP$ NN VBZ DT NN IN DT NN -LRB- IN DT NN NN -RRB- WDT JJ CD '' NNS MD RB VB RP .</POS>
+		<Lemma>the Acer Monitor have a extremely bright screen and its design allow the placement in a area -lrb- from a heighth perspective -rrb- that many 20 '' screen will not fit in .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Compared to the 19 '' Dell Monitor this replaced it is far brighter and weighs much less .</Tokens>
+		<POS>VBN TO DT CD '' NNP NNP DT VBD PRP VBZ RB RBR CC VBZ RB RBR .</POS>
+		<Lemma>compare to the 19 '' Dell Monitor this replace it be far brighter and weigh much less .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very easy to set up .</Tokens>
+		<POS>RB JJ TO VB RP .</POS>
+		<Lemma>very easy to set up .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Highly recommend this monitor - hard to beat at this price point .</Tokens>
+		<POS>RB VB DT NN : JJ TO VB IN DT NN NN .</POS>
+		<Lemma>highly recommend this monitor - hard to beat at this price point .</Lemma>
+	</Sentence>
+</Document>

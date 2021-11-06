@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Yeah ... this was a really tasty soup blend that was as easy as throwing in the crock pot for an hour or two with the 4 to 1 water to mix ratio .</Tokens>
+		<POS>UH : DT VBD DT RB JJ NN VB DT VBD RB JJ IN VBG IN DT NN NN IN DT NN CC CD IN DT CD TO CD NN TO VB NN .</POS>
+		<Lemma>yeah ... this be a really tasty soup blend that be as easy as throw in the crock pot for a hour or two with the 4 to 1 water to mix ratio .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I dont really think the pasta is evident in the soup , in that , i didnt really notice it , and the alphabet shapes were indistinct , lol .</Tokens>
+		<POS>PRP VBP RB VB DT NN VBZ JJ IN DT NN , IN DT , FW FW RB VB PRP , CC DT NN NNS VBD JJ , NN .</POS>
+		<Lemma>I dont really think the pasta be evident in the soup , in that , i didnt really notice it , and the alphabet shape be indistinct , lol .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Otherwise , it was just a good hearty soup .</Tokens>
+		<POS>RB , PRP VBD RB DT JJ JJ NN .</POS>
+		<Lemma>otherwise , it be just a good hearty soup .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A little goes a long way , so a 4 pack should last quite a while .</Tokens>
+		<POS>DT JJ VBZ DT JJ NN , IN DT CD NN MD VB RB DT NN .</POS>
+		<Lemma>a little go a long way , so a 4 pack should last quite a while .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Enjoy !</Tokens>
+		<POS>VB .</POS>
+		<Lemma>enjoy !</Lemma>
+	</Sentence>
+</Document>

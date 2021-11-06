@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have this plugged into a 2003 Chevrolet Cavalier , so this unit needs to be plugged in along the right side of the center console , near the passenger 's feet .</Tokens>
+		<POS>PRP VBP DT VBN IN DT CD NNP NNP , RB DT NN VBZ TO VB VBN IN IN DT JJ NN IN DT NN NN , IN DT NN POS NNS .</POS>
+		<Lemma>I have this plug into a 2003 Chevrolet Cavalier , so this unit need to be plug in along the right side of the center console , near the passenger 's foot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This car continues to provide power even when it is off , so I have to reach down and push the power button -LRB- it 's located on the base of the unit -RRB- every time I enter and exit the car .</Tokens>
+		<POS>DT NN VBZ TO VB NN RB WRB PRP VBZ RB , IN PRP VBP TO VB RB CC VB DT NN NN -LRB- PRP VBZ JJ IN DT NN IN DT NN -RRB- DT NN PRP VBP CC VBP DT NN .</POS>
+		<Lemma>this car continue to provide power even when it be off , so I have to reach down and push the power button -lrb- it be located on the base of the unit -rrb- every time I enter and exit the car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is n't a big deal because it reconnects to my phone automatically after a couple seconds and the placement ca n't be helped .</Tokens>
+		<POS>DT VBZ RB DT JJ NN IN PRP VBZ TO PRP$ NN RB IN DT NN NNS CC DT NN MD RB VB VBN .</POS>
+		<Lemma>this be not a big deal because it reconnect to my phone automatically after a couple seconds and the placement can not be help .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The biggest downside is that the `` flex '' cable -LRB- it stays pretty much rigid -RRB- is too short .</Tokens>
+		<POS>DT JJS NN VBZ IN DT `` JJ '' NN -LRB- PRP VBZ RB JJ JJ -RRB- VBZ RB JJ .</POS>
+		<Lemma>the biggest downside be that the `` flex '' cable -lrb- it stay pretty much rigid -rrb- be too short .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The head of this unit only comes about 2 inches above the level of the center console , just beside the cup holders .</Tokens>
+		<POS>DT NN IN DT NN RB VBZ IN CD NNS IN DT NN IN DT NN NN , RB IN DT NN NNS .</POS>
+		<Lemma>the head of this unit only come about 2 inch above the level of the center console , just beside the cup holder .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This makes it incredibly inconvenient to answer calls , change songs , or change settings .</Tokens>
+		<POS>DT VBZ PRP RB JJ TO VB NNS , NN NNS , CC VB NNS .</POS>
+		<Lemma>this make it incredibly inconvenient to answer call , change song , or change setting .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The concept of this device is great , but with a longer cable that is easier to form into place would make it an amazing product .</Tokens>
+		<POS>DT NN IN DT NN VBZ JJ , CC IN DT RBR NN WDT VBZ JJR TO VB IN NN MD VB PRP DT JJ NN .</POS>
+		<Lemma>the concept of this device be great , but with a longer cable that be easier to form into place would make it a amazing product .</Lemma>
+	</Sentence>
+</Document>

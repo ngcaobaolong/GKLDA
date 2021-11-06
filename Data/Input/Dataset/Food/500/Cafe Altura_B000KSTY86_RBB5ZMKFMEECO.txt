@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sense memories evocative of one 's childhood are just too strong to fight against .</Tokens>
+		<POS>NN NNS JJ IN CD POS NN VBP RB RB JJ TO VB IN .</POS>
+		<Lemma>sense memory evocative of one 's childhood be just too strong to fight against .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Such is the strength of the delicious aroma that greeted me when I ground my first sample of this bean .</Tokens>
+		<POS>JJ VBZ DT NN IN DT JJ NN WDT VBD PRP WRB PRP VBP PRP$ JJ NN IN DT NN .</POS>
+		<Lemma>such be the strength of the delicious aroma that greet I when I grind my first sample of this bean .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It took me back to my six-year-old self waiting in line with mother at the A & P , smelling the grind of the eight o'clock beans that were being pulverized in that giant red machine .</Tokens>
+		<POS>PRP VBD PRP RB TO PRP$ JJ NN VBG IN NN IN NN IN DT NNP CC NN , VBG DT NN IN DT CD RB NNS WDT VBD VBG VBN IN DT JJ JJ NN .</POS>
+		<Lemma>it take I back to my six-year-old self wait in line with mother at the A & p , smell the grind of the eight o'clock bean that be be pulverize in that giant red machine .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Have I had better coffee in my life ?</Tokens>
+		<POS>VBP PRP VBD JJR NN IN PRP$ NN .</POS>
+		<Lemma>have I have better coffee in my life ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>yes .</Tokens>
+		<POS>RB .</POS>
+		<Lemma>yes .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Did I pay much more for it ?</Tokens>
+		<POS>VBD PRP VBP RB RBR IN PRP .</POS>
+		<Lemma>do I pay much more for it ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>also yes .</Tokens>
+		<POS>RB UH .</POS>
+		<Lemma>also yes .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>However , this is the best I can find for this price point .</Tokens>
+		<POS>RB , DT VBZ DT JJS PRP MD VB IN DT NN NN .</POS>
+		<Lemma>however , this be the best I can find for this price point .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>For me I like a dark aromatic roast , a healthy long shelf life , and a coffee that will stand lingering in the pot for over an hour , in case I forget about it , and not turn into bitter motor oil sludge .</Tokens>
+		<POS>IN PRP PRP VBP DT JJ JJ NN , DT JJ JJ NN NN , CC DT NN WDT MD VB VBG IN DT NN IN IN DT NN , IN NN PRP VBP IN PRP , CC RB VB IN JJ NN NN NN .</POS>
+		<Lemma>for I I like a dark aromatic roast , a healthy long shelf life , and a coffee that will stand linger in the pot for over a hour , in case I forget about it , and not turn into bitter motor oil sludge .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>For these my three critical desires in a coffee ; this coffee is the perfect `` everyday '' bean .</Tokens>
+		<POS>IN DT PRP$ CD JJ NNS IN DT NN : DT NN VBZ DT JJ `` JJ '' NN .</POS>
+		<Lemma>for these my three critical desire in a coffee ; this coffee be the perfect `` everyday '' bean .</Lemma>
+	</Sentence>
+</Document>

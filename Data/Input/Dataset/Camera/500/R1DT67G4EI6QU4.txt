@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For the price , I think it was well worth it .</Tokens>
+		<POS>IN DT NN , PRP VBP PRP VBD RB JJ PRP .</POS>
+		<Lemma>for the price , I think it be well worth it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It takes great pictures but yet it wo n't devestate me if I were to lose it on vacation !</Tokens>
+		<POS>PRP VBZ JJ NNS CC RB PRP MD RB VB PRP IN PRP VBD TO VB PRP IN NN .</POS>
+		<Lemma>it take great picture but yet it will not devestate I if I be to lose it on vacation !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is great for driving and since its flexible ita easy to move and adjust to what suits you .</Tokens>
+		<POS>DT VBZ JJ IN VBG CC IN PRP$ JJ NN JJ TO VB CC VB TO WP NNS PRP .</POS>
+		<Lemma>this be great for drive and since its flexible ita easy to move and adjust to what suit you .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love that there is more than one way to connect my phone to play music either through bluetooth or the line in cable .</Tokens>
+		<POS>PRP VBP IN EX VBZ JJR IN CD NN TO VB PRP$ NN TO VB NN CC IN NN CC DT NN IN NN .</POS>
+		<Lemma>I love that there be more than one way to connect my phone to play music either through bluetooth or the line in cable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There is a slight hum you can hear over the radio using both line in and bluetooth but its not horrible .</Tokens>
+		<POS>EX VBZ DT JJ NN PRP MD VB IN DT NN VBG CC NN IN CC NN CC PRP$ RB JJ .</POS>
+		<Lemma>there be a slight hum you can hear over the radio use both line in and bluetooth but its not horrible .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The bluetooth music play and skip buttons are great but sometimes they do not work which can be frustrating while driving .</Tokens>
+		<POS>DT JJ NN NN CC VB NNS VBP JJ CC RB PRP VBP RB VB WDT MD VB VBG IN VBG .</POS>
+		<Lemma>the bluetooth music play and skip button be great but sometimes they do not work which can be frustrate while drive .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The knob is also a little sensitive and since you have to click it to change from the radio station changer to the volume control I often end up changing the radio station without wanting to and get an ear full of static .</Tokens>
+		<POS>DT NN VBZ RB DT JJ JJ CC IN PRP VBP TO VB PRP TO VB IN DT NN NN NN TO DT NN NN PRP RB VBP RP VBG DT NN NN IN VBG TO CC VB DT NN JJ IN JJ .</POS>
+		<Lemma>the knob be also a little sensitive and since you have to click it to change from the radio station changer to the volume control I often end up change the radio station without want to and get a ear full of static .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It would be better if it defaulted to volume control instead of the radio since im sure most people will set it to transmit to a station once and leave it on that as I do .</Tokens>
+		<POS>PRP MD VB JJR IN PRP VBD TO NN NN RB IN DT NN IN NN JJ JJS NNS MD VB PRP TO VB TO DT NN RB CC VB PRP IN DT IN PRP VBP .</POS>
+		<Lemma>it would be better if it default to volume control instead of the radio since im sure most people will set it to transmit to a station once and leave it on that as I do .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Other than the bluetooth music play buttons not working sometimes I love the go flex for its versatility , especially when the bbuttons work : -RRB-</Tokens>
+		<POS>JJ IN DT JJ NN NN NNS RB VBG RB PRP VBP DT NN NN IN PRP$ NN , RB WRB DT NNS NN : -RRB-</POS>
+		<Lemma>other than the bluetooth music play button not work sometimes I love the go flex for its versatility , especially when the bbutton work : -rrb-</Lemma>
+	</Sentence>
+</Document>

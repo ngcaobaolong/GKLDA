@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this as a Christmas gift for a friend , she is the type of person who has trouble operating anything more complex than a can opener and she was using the post to facebook feature within a half hour of receiving it .</Tokens>
+		<POS>VBN DT IN DT NNP NN IN DT NN , PRP VBZ DT NN IN NN WP VBZ NN VBG NN JJR NN IN DT MD NN CC PRP VBD VBG DT NN TO NN NN IN DT JJ NN IN VBG PRP .</POS>
+		<Lemma>buy this as a Christmas gift for a friend , she be the type of person who have trouble operate anything more complex than a can opener and she be use the post to facebook feature within a half hour of receive it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The picture quality is excellent for the type and price range , and as I have already backhandedly commented on its ease of use nothing more need be said .</Tokens>
+		<POS>DT NN NN VBZ JJ IN DT NN CC NN NN , CC IN PRP VBP RB RB VBD IN PRP$ NN IN NN NN JJR MD VB VBN .</POS>
+		<Lemma>the picture quality be excellent for the type and price range , and as I have already backhandedly comment on its ease of use nothing more need be say .</Lemma>
+	</Sentence>
+</Document>

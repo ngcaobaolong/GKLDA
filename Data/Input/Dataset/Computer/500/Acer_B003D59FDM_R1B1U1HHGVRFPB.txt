@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Doing business with Amazon is pleasant .</Tokens>
+		<POS>VBG NN IN NNP VBZ JJ .</POS>
+		<Lemma>do business with Amazon be pleasant .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We count on good products at a good price .</Tokens>
+		<POS>PRP VBP IN JJ NNS IN DT JJ NN .</POS>
+		<Lemma>we count on good product at a good price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Our purchase of an Acer Monitor was just as we expected .</Tokens>
+		<POS>PRP$ NN IN DT NNP NNP VBD RB IN PRP VBD .</POS>
+		<Lemma>we purchase of a Acer Monitor be just as we expect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No surprises .</Tokens>
+		<POS>DT NNS .</POS>
+		<Lemma>no surprise .</Lemma>
+	</Sentence>
+</Document>

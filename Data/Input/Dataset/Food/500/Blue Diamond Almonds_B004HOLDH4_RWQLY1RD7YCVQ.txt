@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very tasty and great for a late night snack , a sitting at your desk snack , and\/or a traveling treat .</Tokens>
+		<POS>RB JJ CC JJ IN DT JJ NN NN , DT VBG IN PRP$ NN NN , CC DT VBG NN .</POS>
+		<Lemma>very tasty and great for a late night snack , a sit at you desk snack , and\/or a travel treat .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If you 're not a big fan of salty treats , steer clear .</Tokens>
+		<POS>IN PRP VBP RB DT JJ NN IN JJ VBZ , VB JJ .</POS>
+		<Lemma>if you be not a big fan of salty treat , steer clear .</Lemma>
+	</Sentence>
+</Document>

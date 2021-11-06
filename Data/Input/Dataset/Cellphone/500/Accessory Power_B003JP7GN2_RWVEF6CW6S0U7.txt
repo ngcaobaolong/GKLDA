@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This charger works great for my HTC Evo !</Tokens>
+		<POS>DT NN VBZ JJ IN PRP$ NNP NNP .</POS>
+		<Lemma>this charger work great for my HTC Evo !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a nice travel charger and handy because it does n't restrict to only wall or car use .</Tokens>
+		<POS>PRP VBZ DT JJ NN NN CC JJ IN PRP VBZ RB VB TO RB NN CC NN NN .</POS>
+		<Lemma>it be a nice travel charger and handy because it do not restrict to only wall or car use .</Lemma>
+	</Sentence>
+</Document>

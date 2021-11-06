@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor at a `` Black Friday '' sale at Staples for a mere $ 99.00 .</Tokens>
+		<POS>PRP VBD DT NN IN DT `` JJ NNP '' NN IN NNP IN DT JJ $ CD .</POS>
+		<Lemma>I buy this monitor at a `` black Friday '' sale at Staples for a mere $ 99.00 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The picture quality is excellent ... could not believe the low price .</Tokens>
+		<POS>DT NN NN VBZ JJ : MD RB VB DT JJ NN .</POS>
+		<Lemma>the picture quality be excellent ... could not believe the low price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>An outstanding value .</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>a outstanding value .</Lemma>
+	</Sentence>
+</Document>

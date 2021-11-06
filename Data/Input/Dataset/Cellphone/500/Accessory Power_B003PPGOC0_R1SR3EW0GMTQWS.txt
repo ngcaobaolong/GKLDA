@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works !</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Works !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Charges , plays music , locks on to channel on its own , set up is quick and easy , hand free calling ... .</Tokens>
+		<POS>NNS , VBZ NN , NNS IN TO VB IN PRP$ JJ , VBN RP VBZ JJ CC JJ , NN JJ NN : .</POS>
+		<Lemma>charge , play music , lock on to channel on its own , set up be quick and easy , hand free calling ... .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>perfect .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>perfect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No complaints .</Tokens>
+		<POS>DT NNS .</POS>
+		<Lemma>no complaint .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Good clear music through the radio from the phone .</Tokens>
+		<POS>JJ JJ NN IN DT NN IN DT NN .</POS>
+		<Lemma>good clear music through the radio from the phone .</Lemma>
+	</Sentence>
+</Document>

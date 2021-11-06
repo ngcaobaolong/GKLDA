@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Yeah , it 's a really good tasting soup .</Tokens>
+		<POS>UH , PRP VBZ DT RB JJ NN NN .</POS>
+		<Lemma>yeah , it be a really good tasting soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to make .</Tokens>
+		<POS>NNP TO VB .</POS>
+		<Lemma>Easy to make .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Throw in some onions , and some pepper and it 's very tasty , very filling .</Tokens>
+		<POS>VB IN DT NNS , CC DT NN CC PRP VBZ RB JJ , RB VBG .</POS>
+		<Lemma>throw in some onion , and some pepper and it be very tasty , very fill .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't must like health food , but this stuff is genuinely good .</Tokens>
+		<POS>PRP VBP RB MD VB NN NN , CC DT NN VBZ RB JJ .</POS>
+		<Lemma>I do not must like health food , but this stuff be genuinely good .</Lemma>
+	</Sentence>
+</Document>

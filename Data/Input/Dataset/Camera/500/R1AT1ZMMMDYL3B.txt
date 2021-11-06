@@ -1,0 +1,372 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Executive summary : the video and stills quality is good ; the beast seems relatively rugged ; the mount design -LRB- or execution ? -RRB-</Tokens>
+		<POS>NNP NN : DT NN CC NNS NN VBZ JJ : DT NN VBZ RB JJ : DT VBP NN -LRB- CC NN . -RRB-</POS>
+		<Lemma>Executive summary : the video and still quality be good ; the beast seem relatively rugged ; the mount design -lrb- or execution ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>is flawed ; the software is NOT available for the Mac , so the GPS module is useless to Mac people .</Tokens>
+		<POS>VBZ VBN : DT NN VBZ RB JJ IN DT NNP , IN DT NN NN VBZ JJ TO NNP NNS .</POS>
+		<Lemma>be flaw ; the software be not available for the Mac , so the gp module be useless to Mac people .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In the order that the rating attributes were listed - BATTERY LIFE : seems ok .</Tokens>
+		<POS>IN DT NN IN DT NN NNS VBD VBN : NN NN : VBZ JJ .</POS>
+		<Lemma>in the order that the rating attribute be list - battery life : seem ok .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You need to be extra careful that the cable is _ fully _ seated in the camera 's socket .</Tokens>
+		<POS>PRP VBP TO VB JJ JJ IN DT NN VBZ JJ RB CD VBN IN DT NN POS NN .</POS>
+		<Lemma>you need to be extra careful that the cable be _ fully _ seat in the camera 's socket .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It will partially engage and _ seem _ to be doing something when it 's not .</Tokens>
+		<POS>PRP MD RB VB CC VB VBP CD TO VB VBG NN WRB PRP VBZ RB .</POS>
+		<Lemma>it will partially engage and _ seem _ to be do something when it be not .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The USB socket is inside the camera and can therefore be accessed only when the camera back is open .</Tokens>
+		<POS>DT JJ NN VBZ IN DT NN CC MD RB VB VBN RB WRB DT NN NN VBZ JJ .</POS>
+		<Lemma>the usb socket be inside the camera and can therefore be access only when the camera back be open .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Read carefully this next little bit ... it 's not really clear from the very limited product documentation .</Tokens>
+		<POS>VB RB DT JJ JJ NN : PRP VBZ RB RB JJ IN DT RB JJ NN NN .</POS>
+		<Lemma>read carefully this next little bit ... it be not really clear from the very limited product documentation .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If the camera is ON when you open the back and insert the USB cable , the display switches from showing what the lens sees , to showing a stylized picture of a USB cable ... then it blanks .</Tokens>
+		<POS>IN DT NN VBZ IN WRB PRP VBP DT NN CC VB DT JJ NN , DT NN VBZ IN VBG WP DT NN VBZ , TO VBG DT JJ NN IN DT JJ NN : RB PRP VBZ .</POS>
+		<Lemma>if the camera be on when you open the back and insert the usb cable , the display switch from show what the lens see , to show a stylized picture of a usb cable ... then it blank .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>In this mode , your computer can see the camera -LRB- if the SDHC card is still inserted -RRB- as a USB drive .</Tokens>
+		<POS>IN DT NN , PRP$ NN MD VB DT NN -LRB- IN DT NNP NN VBZ RB VBN -RRB- IN DT JJ NN .</POS>
+		<Lemma>in this mode , you computer can see the camera -lrb- if the SDHC card be still insert -rrb- as a usb drive .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The camera battery is NOT charging in this mode .</Tokens>
+		<POS>DT NN NN VBZ RB VBG IN DT NN .</POS>
+		<Lemma>the camera battery be not charge in this mode .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If the camera is OFF when you open the back and insert the USB cable , the red light on the front comes on , and the battery begins charging .</Tokens>
+		<POS>IN DT NN VBZ NN WRB PRP VBP DT NN CC VB DT JJ NN , DT JJ NN IN DT NN VBZ IN , CC DT NN VBZ VBG .</POS>
+		<Lemma>if the camera be off when you open the back and insert the usb cable , the red light on the front come on , and the battery begin charge .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The red light goes off when charging is complete .</Tokens>
+		<POS>DT JJ NN VBZ RP WRB VBG VBZ JJ .</POS>
+		<Lemma>the red light go off when charge be complete .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>In this mode , your connected computer ca n't see the camera as a device .</Tokens>
+		<POS>IN DT NN , PRP$ VBN NN MD RB VB DT NN IN DT NN .</POS>
+		<Lemma>in this mode , you connect computer can not see the camera as a device .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>You can charge , or you can transfer videos , but you ca n't do both at once , and you must disconnect , press buttons , and reconnect to switch between the two activities .</Tokens>
+		<POS>PRP MD VB , CC PRP MD VB NNS , CC PRP MD RB VB DT IN RB , CC PRP MD VB , NN NNS , CC VB TO VB IN DT CD NNS .</POS>
+		<Lemma>you can charge , or you can transfer video , but you can not do both at once , and you must disconnect , press button , and reconnect to switch between the two activity .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>EASE of USE : It 's fairly straightforward .</Tokens>
+		<POS>VB IN NNP : PRP VBZ RB JJ .</POS>
+		<Lemma>ease of USE : it be fairly straightforward .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Of the five little buttons on the back panel , one is power on\/off , so that leaves 4 for everything else .</Tokens>
+		<POS>IN DT CD JJ NNS IN DT JJ NN , CD VBZ NN JJ , IN IN VBZ CD IN NN RB .</POS>
+		<Lemma>of the five little button on the back panel , one be power on\/off , so that leave 4 for everything else .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Menus make sense , but are a bit un-handily nested for 3-button navigation .</Tokens>
+		<POS>NNS VBP NN , CC VBP DT NN JJ JJ IN JJ NN .</POS>
+		<Lemma>menu make sense , but be a bit un-handily nested for 3-button navigation .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>WHEN the camera is on , two big buttons on top of the lens barrel can start\/stop video or take photos .</Tokens>
+		<POS>WRB DT NN VBZ IN , CD JJ NNS IN NN IN DT NN NN MD VB NN CC VB NNS .</POS>
+		<Lemma>when the camera be on , two big button on top of the lens barrel can start\/stop video or take photo .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Good for when you are wearing gloves .</Tokens>
+		<POS>JJ IN WRB PRP VBP VBG NNS .</POS>
+		<Lemma>good for when you be wear glove .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>HOWEVER , the display blanks after the camera has been running for a while -LRB- battery-saving feature -RRB- , so you need to press once to wake up the display -LRB- and apparently the control interface -RRB- , then press again to stop recording .</Tokens>
+		<POS>RB , DT NN NNS IN DT NN VBZ VBN VBG IN DT NN -LRB- JJ NN -RRB- , RB PRP VBP TO VB RB TO VB RP DT NN -LRB- CC RB DT NN NN -RRB- , RB NN RB TO VB VBG .</POS>
+		<Lemma>however , the display blank after the camera have be run for a while -lrb- battery-saving feature -rrb- , so you need to press once to wake up the display -lrb- and apparently the control interface -rrb- , then press again to stop record .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>So , you ca n't operate this puppy blind .</Tokens>
+		<POS>RB , PRP MD RB VB DT NN JJ .</POS>
+		<Lemma>so , you can not operate this puppy blind .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>At least , I do n't trust it to be doing what I tell it unless I 'm looking at the display .</Tokens>
+		<POS>IN JJS , PRP VBP RB VB PRP TO VB VBG WP PRP VBP PRP IN PRP VBP VBG IN DT NN .</POS>
+		<Lemma>at least , I do not trust it to be do what I tell it unless I be look at the display .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The mounting system looks like a good idea , BUT , in order to be flexible , it has multiple piece-to-piece connections .</Tokens>
+		<POS>DT VBG NN VBZ IN DT JJ NN , NNP , IN NN TO VB JJ , PRP VBZ JJ NN NNS .</POS>
+		<Lemma>the mount system look like a good idea , BUT , in order to be flexible , it have multiple piece-to-piece connection .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>A lever-clamp ring encircles the barrel of the camera , quite snugly , but allows the camera to be twisted around its long axis , and locked at any degree -LRB- so you could top-mount , side-mount , under-mount and still have the camera taking pictures upright -RRB- .</Tokens>
+		<POS>DT JJ NN VBZ DT NN IN DT NN , RB RB , CC VBZ DT NN TO VB VBN IN PRP$ JJ NN , CC VBN IN DT NN -LRB- RB PRP MD VB , JJ , JJ CC RB VBP DT NN VBG NNS JJ -RRB- .</POS>
+		<Lemma>a lever-clamp ring encircle the barrel of the camera , quite snugly , but allow the camera to be twist around its long axis , and lock at any degree -lrb- so you could top-mount , side-mount , under-mount and still have the camera take picture upright -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>The ring 's base has a free-spinning knurled knob -LRB- about 3.5 cm across -RRB- , the underside of which is threaded .</Tokens>
+		<POS>DT NN POS NN VBZ DT JJ JJ NN -LRB- IN CD NN IN -RRB- , DT NN IN WDT VBZ VBN .</POS>
+		<Lemma>the ring 's base have a free-spinning knurled knob -lrb- about 3.5 cm across -rrb- , the underside of which be thread .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Next , there 's a piece with two spring tabs , that clips into a helmet mount or a bicycle handle-bar mount , exactly as headlights , bike computers , etc. do .</Tokens>
+		<POS>RB , EX VBZ DT NN IN CD NN NNS , IN NNS IN DT NN VBP CC DT NN NN VBP , RB IN NNS , NN NNS , FW VBP .</POS>
+		<Lemma>next , there be a piece with two spring tab , that clip into a helmet mount or a bicycle handle-bar mount , exactly as headlight , bike computer , etc. do .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>That piece has a threaded portion on its top , that fits into the base of the camera-holder ring .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN PRP$ JJ , IN VBZ IN DT NN IN DT NN NN .</POS>
+		<Lemma>that piece have a threaded portion on its top , that fit into the base of the camera-holder ring .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Then , that assembly snaps into a helmet mount or handlebar mount , and you can swivel the camera 360 degrees before you tighten-down the knurled ring .</Tokens>
+		<POS>RB , IN NN VBZ IN DT NN VBP CC NN VBP , CC PRP MD VB DT NN CD NNS IN PRP VBP DT JJ NN .</POS>
+		<Lemma>then , that assembly snap into a helmet mount or handlebar mount , and you can swivel the camera 360 degree before you tighten-down the knurled ring .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Basically , this arrangement allows you to spin\/rotate the camera in two axes and lock in place .</Tokens>
+		<POS>RB , DT NN VBZ PRP TO VB DT NN IN CD NNS CC NN IN NN .</POS>
+		<Lemma>basically , this arrangement allow you to spin\/rotate the camera in two axis and lock in place .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>BUT the snap-in piece that mates to your handle-bar or helmet is a bit undersized .</Tokens>
+		<POS>NNP DT JJ NN IN NNS TO PRP$ NN CC NN VBZ DT NN JJ .</POS>
+		<Lemma>BUT the snap-in piece that mate to you handle-bar or helmet be a bit undersized .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>This means it does not bind when you slide it in and out of a socket , but it also means that THE MOUNTED CAMERA WOBBLES ON ITS MOUNT .</Tokens>
+		<POS>DT VBZ PRP VBZ RB VB WRB PRP VBP PRP IN CC IN IN DT NN , CC PRP RB VBZ IN DT VBN NN VBZ IN NNP NNP .</POS>
+		<Lemma>this mean it do not bind when you slide it in and out of a socket , but it also mean that the mount camera wobble on ITS MOUNT .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Just a bit , but enough .</Tokens>
+		<POS>RB DT NN , CC RB .</POS>
+		<Lemma>just a bit , but enough .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>No matter how still you try to keep your head , every ripple in the road , every breath you take , causes the camera to wobble ever-so-slightly .</Tokens>
+		<POS>DT NN WRB RB PRP VBP TO VB PRP$ NN , DT NN IN DT NN , DT NN PRP VBP , VBZ DT NN TO VB RB .</POS>
+		<Lemma>no matter how still you try to keep you head , every ripple in the road , every breath you take , cause the camera to wobble ever-so-slightly .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>This translates to constant jiggling of the video .</Tokens>
+		<POS>DT VBZ TO JJ VBG IN DT NN .</POS>
+		<Lemma>this translate to constant jiggle of the video .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>About the only solution is to jack the camera into its clip-mount , then shove a shim into the mount , to take up the slack and stop the wobble .</Tokens>
+		<POS>IN DT JJ NN VBZ TO VB DT NN IN PRP$ JJ , RB VB DT NN IN DT VBP , TO VB RP DT NN CC VB DT NN .</POS>
+		<Lemma>about the only solution be to jack the camera into its clip-mount , then shove a shim into the mount , to take up the slack and stop the wobble .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Good luck finding a suitable shim .</Tokens>
+		<POS>JJ NN VBG DT JJ NN .</POS>
+		<Lemma>good luck find a suitable shim .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>I also find this camera , with this mount , useless for skydiving video .</Tokens>
+		<POS>PRP RB VBP DT NN , IN DT VBP , JJ IN VBG NN .</POS>
+		<Lemma>I also find this camera , with this mount , useless for skydive video .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>The shaking from the 130mph wind makes everything a blur .</Tokens>
+		<POS>DT VBG IN DT JJ NN VBZ NN DT NN .</POS>
+		<Lemma>the shake from the 130mph wind make everything a blur .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Under canopy , much better , but that 's only half the job ... If I need ten feet of duct tape to solidify a camera mount , I do n't want that camera to record a skydive .</Tokens>
+		<POS>IN NN , RB JJR , CC DT VBZ RB PDT DT NN : IN PRP VBP CD NNS IN NN NN TO VB DT NN VB , PRP VBP RB VB DT NN TO VB DT NN .</POS>
+		<Lemma>under canopy , much better , but that be only half the job ... if I need ten foot of duct tape to solidify a camera mount , I do not want that camera to record a skydive .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Also , I ca n't see the plastic mounting pieces surviving more than one or two hard openings .</Tokens>
+		<POS>RB , PRP MD RB VB DT NN VBG NNS VBG JJR IN CD CC CD JJ NNS .</POS>
+		<Lemma>also , I can not see the plastic mount piece survive more than one or two hard opening .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>MICROPHONE QUALITY sucks .</Tokens>
+		<POS>NN NN VBZ .</POS>
+		<Lemma>microphone quality suck .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>Part of the problem is that there 's an audible `` click '' each time the camera wobbles in its mounting socket .</Tokens>
+		<POS>NN IN DT NN VBZ IN EX VBZ DT JJ `` VB '' DT NN DT NN VBZ IN PRP$ VBG NN .</POS>
+		<Lemma>part of the problem be that there be a audible `` click '' each time the camera wobble in its mount socket .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>The other part is , it 's just muffled .</Tokens>
+		<POS>DT JJ NN VBZ , PRP VBZ RB VBN .</POS>
+		<Lemma>the other part be , it be just muffle .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>If the camera is on top of your helmet and you have a yelled conversation with somebody six feet away , it will mostly pick up your voice and mostly miss theirs entirely .</Tokens>
+		<POS>IN DT NN VBZ IN NN IN PRP$ NN CC PRP VBP DT VBN NN IN NN CD NNS RB , PRP MD RB VB RP PRP$ NN CC RB VBP JJ RB .</POS>
+		<Lemma>if the camera be on top of you helmet and you have a yell conversation with somebody six foot away , it will mostly pick up you voice and mostly miss theirs entirely .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>For skydiving , just cover the speaker\/mic vent with duct tape .</Tokens>
+		<POS>IN NN , RB VB DT JJ VB IN NN NN .</POS>
+		<Lemma>for skydiving , just cover the speaker\/mic vent with duct tape .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>VIDEO QUALITY : is pretty good in 30-frame-per-second 1080p mode - you can almost read the license plates of cars that overtake you , or that you overtake .</Tokens>
+		<POS>NN NN : VBZ RB JJ IN JJ NN NN : PRP MD RB VB DT NN NNS IN NNS WDT VBP PRP , CC IN PRP VBP .</POS>
+		<Lemma>video quality : be pretty good in 30-frame-per-second 1080p mode - you can almost read the license plate of car that overtake you , or that you overtake .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>In 720p mode , you do get the advertised smooth slow-mo , but those same license plates are an unreadable blur .</Tokens>
+		<POS>IN JJ NN , PRP VBP VB DT JJ JJ NN , CC DT JJ NN NNS VBP DT JJ NN .</POS>
+		<Lemma>in 720p mode , you do get the advertised smooth slow-mo , but those same license plate be a unreadable blur .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>Similarly , faces of cute chicks that you pass are blurry .</Tokens>
+		<POS>RB , NNS IN JJ NNS IN PRP VBP VBP JJ .</POS>
+		<Lemma>similarly , face of cute chick that you pass be blurry .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Oh .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>oh .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>Did I say that out loud ?</Tokens>
+		<POS>VBD PRP VBP IN RB JJ .</POS>
+		<Lemma>do I say that out loud ?</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>: - -RRB- However , this thing really wants a bright , sunny day .</Tokens>
+		<POS>: : -RRB- RB , DT NN RB VBZ DT JJ , JJ NN .</POS>
+		<Lemma>: - -rrb- however , this thing really want a bright , sunny day .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>If you were doing night-skiing -LRB- on a lit hill -RRB- , it would give a dark and dingy picture - the camera 's night mode does n't do much , that I could see .</Tokens>
+		<POS>IN PRP VBD VBG JJ -LRB- IN DT VBN NN -RRB- , PRP MD VB DT JJ CC JJ NN : DT NN POS NN NN VBZ RB VB RB , IN PRP MD VB .</POS>
+		<Lemma>if you be do night-skiing -lrb- on a light hill -rrb- , it would give a dark and dingy picture - the camera 's night mode do not do much , that I could see .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>I wanted it to capture A-holes doing stupid\/dangerous things in traffic -LRB- that I could later blog about -RRB- , while I commute by bike and on foot , but half the year , I 'm going home at dusk or under street-lights -LRB- we have winter here in Canada -RRB- .</Tokens>
+		<POS>PRP VBD PRP TO VB JJ VBG JJ NNS IN NN -LRB- IN PRP MD RB VB IN -RRB- , IN PRP NN IN NN CC IN NN , CC PDT DT NN , PRP VBP VBG NN IN NN CC IN NNS -LRB- PRP VBP NN RB IN NNP -RRB- .</POS>
+		<Lemma>I want it to capture a-holes do stupid\/dangerous thing in traffic -lrb- that I could later blog about -rrb- , while I commute by bike and on foot , but half the year , I be go home at dusk or under street-light -lrb- we have winter here in Canada -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>In those conditions , the camera does a poor job of capturing vehicle ID or idiot-driver faces even at a well-lit intersection with the offending car not six feet away .</Tokens>
+		<POS>IN DT NNS , DT NN VBZ DT JJ NN IN VBG NN NN CC NN VBZ RB IN DT JJ NN IN DT VBG NN RB CD NNS RB .</POS>
+		<Lemma>in those condition , the camera do a poor job of capture vehicle id or idiot-driver face even at a well-lit intersection with the offend car not six foot away .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>Y' know those general purpose video cameras that every family has ?</Tokens>
+		<POS>NN VBP DT JJ NN NN NNS WDT DT NN VBZ .</POS>
+		<Lemma>y' know those general purpose video camera that every family have ?</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>The ones with 30x optical zoom and all the features ?</Tokens>
+		<POS>DT NNS IN JJ JJ NN CC PDT DT NNS .</POS>
+		<Lemma>the one with 30x optical zoom and all the feature ?</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>The ones that can capture details in the smiling faces gathered around a birthday cake - lit by nothing but a few candles ?</Tokens>
+		<POS>DT NNS WDT MD VB NNS IN DT VBG VBZ VBN IN DT NN NN : VBN IN NN CC DT JJ NNS .</POS>
+		<Lemma>the one that can capture detail in the smile face gather around a birthday cake - light by nothing but a few candle ?</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>Yeah , well this camera absolutely does NOT have that kind of sensitivity or range\/adaptability across ambient lighting conditions -LRB- never mind zoom and other features that would be useless on a ruggedized action cam -RRB- .</Tokens>
+		<POS>UH , RB DT NN RB VBZ NNP VB DT NN IN NN CC NN IN JJ NN NNS -LRB- RB NN NN CC JJ NNS WDT MD VB JJ IN DT VBN NN NN -RRB- .</POS>
+		<Lemma>yeah , well this camera absolutely do NOT have that kind of sensitivity or range\/adaptability across ambient lighting condition -lrb- never mind zoom and other feature that would be useless on a ruggedize action cam -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>Even on a sunny day , if you drive from a lit patch of pavement to a stretch that 's shaded by some trees , the camera takes several seconds to adapt .</Tokens>
+		<POS>RB IN DT JJ NN , IN PRP VBP IN DT VBN NN IN NN TO DT NN WDT VBZ JJ IN DT NNS , DT NN VBZ JJ NNS TO VB .</POS>
+		<Lemma>even on a sunny day , if you drive from a light patch of pavement to a stretch that be shaded by some tree , the camera take several seconds to adapt .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>Then when you leave the shaded area , back into full sun , the camera washes everything out for a few seconds .</Tokens>
+		<POS>RB WRB PRP VBP DT JJ NN , RB IN JJ NN , DT NN VBZ NN IN IN DT JJ NNS .</POS>
+		<Lemma>then when you leave the shaded area , back into full sun , the camera wash everything out for a few seconds .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>On a road or path with lots of alternating light-and-shade stretches , you do n't get to see much , swinging from dark and gloom to over-driven glare while the camera tries to keep up .</Tokens>
+		<POS>IN DT NN CC NN IN NNS IN VBG JJ NNS , PRP VBP RB VB TO VB RB , VBG IN JJ CC NN TO JJ NN IN DT NN VBZ TO VB RP .</POS>
+		<Lemma>on a road or path with lot of alternate light-and-shade stretch , you do not get to see much , swing from dark and gloom to over-driven glare while the camera try to keep up .</Lemma>
+	</Sentence>
+	<Sentence id="61">
+		<Tokens>My poor old eyes adapt without effort and barely a noticeable delay .</Tokens>
+		<POS>PRP$ JJ JJ NNS VBP IN NN CC RB DT JJ NN .</POS>
+		<Lemma>my poor old eye adapt without effort and barely a noticeable delay .</Lemma>
+	</Sentence>
+	<Sentence id="62">
+		<Tokens>The camera needs better-optimized algorithms ... but I do n't see a way to update its onboard firmware , even if Oregon Scientific provides a download - remember , I 've got a Mac .</Tokens>
+		<POS>DT NN VBZ JJ NNS : CC PRP VBP RB VB DT NN TO VB PRP$ JJ NN , RB IN NNP NNP VBZ DT NN : VB , PRP VBP VBD DT NNP .</POS>
+		<Lemma>the camera need better-optimized algorithm ... but I do not see a way to update its onboard firmware , even if Oregon Scientific provide a download - remember , I have get a Mac .</Lemma>
+	</Sentence>
+	<Sentence id="63">
+		<Tokens>Given the failings of the mount , I think the camera really , really , really should have had image stabilization .</Tokens>
+		<POS>VBN DT NNS IN DT VBP , PRP VBP DT NN RB , RB , RB MD VB VBD NN NN .</POS>
+		<Lemma>give the failing of the mount , I think the camera really , really , really should have have image stabilization .</Lemma>
+	</Sentence>
+	<Sentence id="64">
+		<Tokens>I 'd pay another hundred or two for the same camera with either optical or digital image stabilization .</Tokens>
+		<POS>PRP MD VB DT CD CC CD IN DT JJ NN IN CC JJ CC JJ NN NN .</POS>
+		<Lemma>I would pay another hundred or two for the same camera with either optical or digital image stabilization .</Lemma>
+	</Sentence>
+	<Sentence id="65">
+		<Tokens>DURABILITY : Ca n't really comment on that , as I 've yet to really abuse it .</Tokens>
+		<POS>NN : MD RB RB VB IN DT , IN PRP VBP RB TO RB VB PRP .</POS>
+		<Lemma>durability : can not really comment on that , as I have yet to really abuse it .</Lemma>
+	</Sentence>
+	<Sentence id="66">
+		<Tokens>SOFTWARE : I 've got a Mac at home , so the software does n't exist for me .</Tokens>
+		<POS>NN : PRP VBP VBD DT NNP IN NN , IN DT NN VBZ RB VB IN PRP .</POS>
+		<Lemma>software : I have get a Mac at home , so the software do not exist for I .</Lemma>
+	</Sentence>
+	<Sentence id="67">
+		<Tokens>That means , the GPS module does n't exist for me either , since you can access it 's features only if your computer runs the software .</Tokens>
+		<POS>DT VBZ , DT NNP NN VBZ RB VB IN PRP RB , IN PRP MD VB PRP VBZ NNS RB IN PRP$ NN VBZ DT NN .</POS>
+		<Lemma>that mean , the GPS module do not exist for I either , since you can access it be feature only if you computer run the software .</Lemma>
+	</Sentence>
+	<Sentence id="68">
+		<Tokens>OVERALL : I guess I 'll keep it .</Tokens>
+		<POS>NNP : PRP VBP PRP MD VB PRP .</POS>
+		<Lemma>OVERALL : I guess I 'll keep it .</Lemma>
+	</Sentence>
+	<Sentence id="69">
+		<Tokens>Maybe buy a GoPro HERO 1080HD .</Tokens>
+		<POS>RB VB DT NNP NN NN .</POS>
+		<Lemma>maybe buy a GoPro hero 1080hd .</Lemma>
+	</Sentence>
+	<Sentence id="70">
+		<Tokens>Mount the Hero looking forward , and mount the ATC9K looking back .</Tokens>
+		<POS>NNP DT NN VBG RB , CC VB DT NN VBG RB .</POS>
+		<Lemma>Mount the hero look forward , and mount the atc9k look back .</Lemma>
+	</Sentence>
+	<Sentence id="71">
+		<Tokens>Knowing what I know now , I would\/should have gone GoPro .</Tokens>
+		<POS>VBG WP PRP VBP RB , PRP VBP VB VBN NNP .</POS>
+		<Lemma>know what I know now , I would\/should have go GoPro .</Lemma>
+	</Sentence>
+	<Sentence id="72">
+		<Tokens>Not by a huge margin , but ... Hope this helps somebody making their choice .</Tokens>
+		<POS>RB IN DT JJ NN , CC : NNP DT VBZ NN VBG PRP$ NN .</POS>
+		<Lemma>not by a huge margin , but ... Hope this help somebody make they choice .</Lemma>
+	</Sentence>
+	<Sentence id="73">
+		<Tokens>- kevin -LRB- Ottawa , Canada -RRB-</Tokens>
+		<POS>: NN -LRB- NNP , NNP -RRB-</POS>
+		<Lemma>- kevin -lrb- Ottawa , Canada -rrb-</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very good quality for me , works perfectly on nokia 5230 -LRB- nuron -RRB- , wiht all features , phone calls and music controls .</Tokens>
+		<POS>RB JJ NN IN PRP , VBZ RB IN NN CD -LRB- NN -RRB- , NN DT NNS , NN NNS CC NN NNS .</POS>
+		<Lemma>very good quality for I , work perfectly on nokium 5230 -lrb- nuron -rrb- , wiht all feature , phone call and music control .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The quality is very good in bluetooth , and even better with the 3.5 cable , ajusting the volume and the bass I could get a very good sound quality with bluetooth , with no wires , just LOVED it !</Tokens>
+		<POS>DT NN VBZ RB JJ IN NN , CC RB RBR IN DT CD NN , VBG DT NN CC DT NN PRP MD VB DT RB JJ JJ NN IN NN , IN DT NNS , RB VBD PRP .</POS>
+		<Lemma>the quality be very good in bluetooth , and even better with the 3.5 cable , ajust the volume and the bass I could get a very good sound quality with bluetooth , with no wire , just love it !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also , I live in a very big city with lots of radio stations and it worked perfectly with no interference at all .</Tokens>
+		<POS>RB , PRP VBP IN DT RB JJ NN IN NNS IN NN NNS CC PRP VBD RB IN DT NN IN DT .</POS>
+		<Lemma>also , I live in a very big city with lot of radio station and it work perfectly with no interference at all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I highly recommend this product !!</Tokens>
+		<POS>PRP RB VB DT NN NN</POS>
+		<Lemma>I highly recommend this product !!</Lemma>
+	</Sentence>
+</Document>

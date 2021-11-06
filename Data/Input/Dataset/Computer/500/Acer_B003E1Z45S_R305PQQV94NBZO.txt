@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These -LRB- bought 5 -RRB- acer monitors work just as well as the other 60 or so acer monitors we have .</Tokens>
+		<POS>DT -LRB- VBN LS -RRB- NN VBZ NN RB RB RB IN DT JJ CD CC RB JJ NNS PRP VBP .</POS>
+		<Lemma>these -lrb- buy 5 -rrb- acer monitor work just as well as the other 60 or so acer monitor we have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The backlights are a bit bright ... but it is a business environment so it is better than fine by me .</Tokens>
+		<POS>DT NNS VBP DT NN JJ : CC PRP VBZ DT NN NN IN PRP VBZ JJR IN NN IN PRP .</POS>
+		<Lemma>the backlight be a bit bright ... but it be a business environment so it be better than fine by I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Acer has a great track record witb us .</Tokens>
+		<POS>NNP VBZ DT JJ NN NN NN PRP .</POS>
+		<Lemma>Acer have a great track record witb we .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I also have about 50 computers by them which are usually a great value and last as we do not phase them out for 4 years which really means 6 years .</Tokens>
+		<POS>PRP RB VBP IN CD NNS IN PRP WDT VBP RB DT JJ NN CC JJ IN PRP VBP RB VB PRP RP IN CD NNS WDT RB VBZ CD NNS .</POS>
+		<Lemma>I also have about 50 computer by they which be usually a great value and last as we do not phase they out for 4 year which really mean 6 year .</Lemma>
+	</Sentence>
+</Document>

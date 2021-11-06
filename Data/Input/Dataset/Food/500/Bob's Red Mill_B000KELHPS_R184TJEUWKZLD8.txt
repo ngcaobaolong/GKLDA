@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We tried this bread mix because my wife has been diagnosed with celiac disease .</Tokens>
+		<POS>PRP VBD DT NN NN IN PRP$ NN VBZ VBN VBN IN JJ NN .</POS>
+		<Lemma>we try this bread mix because my wife have be diagnose with celiac disease .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We both like this seedy bread and would choose it over many wheat-based whole grain breads we have had in the past .</Tokens>
+		<POS>PRP DT IN DT JJ NN CC MD VB PRP IN JJ JJ JJ NN NNS PRP VBP VBN IN DT NN .</POS>
+		<Lemma>we both like this seedy bread and would choose it over many wheat-based whole grain bread we have have in the past .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>jlb</Tokens>
+		<POS>NN</POS>
+		<Lemma>jlb</Lemma>
+	</Sentence>
+</Document>

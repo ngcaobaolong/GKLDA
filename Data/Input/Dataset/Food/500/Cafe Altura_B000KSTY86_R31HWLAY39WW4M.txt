@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've bought this coffee for year .</Tokens>
+		<POS>PRP VBP VBN DT NN IN NN .</POS>
+		<Lemma>I have buy this coffee for year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's great !</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be great !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>At time ist has been difficult to find and I am so glad to see it here on your website .</Tokens>
+		<POS>IN NN NN VBZ VBN JJ TO VB CC PRP VBP RB JJ TO VB PRP RB IN PRP$ NN .</POS>
+		<Lemma>at time ist have be difficult to find and I be so glad to see it here on you website .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Well worth the time and money .</Tokens>
+		<POS>UH IN DT NN CC NN .</POS>
+		<Lemma>well worth the time and money .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens><a href="http://www.amazon.com/gp/product/B000KSTY86/ref=cm_cr_asin_lnk/182-7801514-7783748"> Cafe Altura Organic Coffee , Peruvian Dark , Whole Bean , 32-Ounce Bag </a></Tokens>
+		<POS>JJ NNP NNP NNP NNP , JJ JJ , JJ NNP , NNP NNP IN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b000ksty86/ref=cm_cr_asin_lnk/182-7801514-7783748"> Cafe Altura Organic Coffee , peruvian dark , whole Bean , 32-Ounce Bag </a></Lemma>
+	</Sentence>
+</Document>

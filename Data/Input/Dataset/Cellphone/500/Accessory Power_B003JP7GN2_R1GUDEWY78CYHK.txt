@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>NOT compatible with Motorola as advertised -LRB- the phone says that the charger is not compatible -RRB- however worked fine with HTC</Tokens>
+		<POS>RB JJ IN NNP IN VBN -LRB- DT NN VBZ IN DT NN VBZ RB JJ -RRB- RB VBD JJ IN NN</POS>
+		<Lemma>not compatible with Motorola as advertise -lrb- the phone say that the charger be not compatible -rrb- however work fine with htc</Lemma>
+	</Sentence>
+</Document>

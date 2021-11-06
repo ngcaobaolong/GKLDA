@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It paired up with my Samsung Captivate quickly and easily , and since the initial setup , I 've had no issues with it at all .</Tokens>
+		<POS>PRP VBD RP IN PRP$ NNP NNP RB CC RB , CC IN DT JJ NN , PRP VBP VBD DT NNS IN PRP IN DT .</POS>
+		<Lemma>it pair up with my Samsung Captivate quickly and easily , and since the initial setup , I have have no issue with it at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Mostly I use it for playing music through my car 's radio , but I 've also used it for hands free calls , and the call quality has been fine .</Tokens>
+		<POS>RB PRP VBP PRP IN VBG NN IN PRP$ NN POS NN , CC PRP VBP RB VBN PRP IN NNS JJ NNS , CC DT JJ NN VBZ VBN JJ .</POS>
+		<Lemma>mostly I use it for play music through my car 's radio , but I have also use it for hand free call , and the call quality have be fine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The shipping was quick and fast and the package was well packed .</Tokens>
+		<POS>DT NN VBD JJ CC JJ CC DT NN VBD RB VBN .</POS>
+		<Lemma>the shipping be quick and fast and the package be well pack .</Lemma>
+	</Sentence>
+</Document>

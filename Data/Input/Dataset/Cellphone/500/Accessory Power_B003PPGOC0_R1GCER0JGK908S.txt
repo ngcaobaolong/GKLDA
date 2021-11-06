@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this transmitter last Christmas after reading countless reviews because I was very wary of buying\/asking for anything this expensive and not getting my money 's worth .</Tokens>
+		<POS>PRP VBD DT NN JJ NNP IN VBG JJ NNS IN PRP VBD RB JJ IN VBG IN NN DT JJ CC RB VBG PRP$ NN POS NN .</POS>
+		<Lemma>I get this transmitter last Christmas after read countless review because I be very wary of buying\/asking for anything this expensive and not get my money 's worth .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After hours and hours of reading reviews on a myriad of transmitters , I decided on this one and I am SO happy I did !!</Tokens>
+		<POS>IN NNS CC NNS IN VBG NNS IN DT JJ IN NNS , PRP VBD IN DT CD CC PRP VBP RB JJ PRP VBD CD</POS>
+		<Lemma>after hour and hour of read review on a myriad of transmitter , I decide on this one and I be so happy I do !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This transmitter is everything I was hoping it would be !</Tokens>
+		<POS>DT NN VBZ NN PRP VBD VBG PRP MD VB .</POS>
+		<Lemma>this transmitter be everything I be hope it would be !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The sound is extremely clear and when I make phone calls using the Bluetooth features , the person on the other end has no trouble hearing me , and surprisingly enough , they ca n't hear themselves echoing from my end .</Tokens>
+		<POS>DT NN VBZ RB JJ CC WRB PRP VBP NN NNS VBG DT NNP NNS , DT NN IN DT JJ NN VBZ DT NN VBG PRP , CC RB RB , PRP MD RB VB PRP VBG IN PRP$ NN .</POS>
+		<Lemma>the sound be extremely clear and when I make phone call use the Bluetooth feature , the person on the other end have no trouble hear I , and surprisingly enough , they can not hear themselves echo from my end .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The call quality is fantastic !</Tokens>
+		<POS>DT JJ NN VBZ JJ .</POS>
+		<Lemma>the call quality be fantastic !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>When I just want to play music , I prefer to use the auxiliary cord because you get more bass , but the Bluetooth sound is still great quality !</Tokens>
+		<POS>WRB PRP RB VBP TO VB NN , PRP VBP TO VB DT JJ NN IN PRP VBP JJR NN , CC DT NNP NN VBZ RB JJ NN .</POS>
+		<Lemma>when I just want to play music , I prefer to use the auxiliary cord because you get more bass , but the Bluetooth sound be still great quality !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you turn the bass up on your stereo mixer , the Bluetooth sound sounds almost as great as the sound through the auxiliary cord .</Tokens>
+		<POS>IN PRP VBP DT NN RP IN PRP$ NN NN , DT NNP NN VBZ RB RB JJ IN DT NN IN DT JJ NN .</POS>
+		<Lemma>if you turn the bass up on you stereo mixer , the Bluetooth sound sound almost as great as the sound through the auxiliary cord .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I was so surprised with the sound quality .</Tokens>
+		<POS>PRP VBD RB JJ IN DT JJ NN .</POS>
+		<Lemma>I be so surprised with the sound quality .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I was waiting for it to distort when I played my first song on it -LRB- my last $ 0.67 transmitter distorted really bad -RRB- , and it did not distort !</Tokens>
+		<POS>PRP VBD VBG IN PRP TO VB WRB PRP VBD PRP$ JJ NN IN PRP -LRB- PRP$ JJ $ CD NN JJ RB JJ -RRB- , CC PRP VBD RB VB .</POS>
+		<Lemma>I be wait for it to distort when I play my first song on it -lrb- my last $ 0.67 transmitter distorted really bad -rrb- , and it do not distort !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>My boyfriend loves the quality of my transmitter and even asked for one for his birthday .</Tokens>
+		<POS>PRP$ NN VBZ DT NN IN PRP$ NN CC RB VBD IN CD IN PRP$ NN .</POS>
+		<Lemma>my boyfriend love the quality of my transmitter and even ask for one for he birthday .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I highly recommend this product to anyone who is looking for a great transmitter !</Tokens>
+		<POS>PRP RB VB DT NN TO NN WP VBZ VBG IN DT JJ NN .</POS>
+		<Lemma>I highly recommend this product to anyone who be look for a great transmitter !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Products like transmitters can be a real gamble , but this one -LRB- at least for me -RRB- turns out to be very rewarding !</Tokens>
+		<POS>NNPS IN NNS MD VB DT JJ NN , CC DT CD -LRB- IN JJS IN PRP -RRB- VBZ RP TO VB RB JJ .</POS>
+		<Lemma>Products like transmitter can be a real gamble , but this one -lrb- at least for I -rrb- turn out to be very rewarding !</Lemma>
+	</Sentence>
+</Document>

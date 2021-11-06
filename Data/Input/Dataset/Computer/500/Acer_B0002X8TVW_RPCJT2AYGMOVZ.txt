@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Monitor performs as expected and price was very good .</Tokens>
+		<POS>NNP VBZ IN VBN CC NN VBD RB JJ .</POS>
+		<Lemma>Monitor perform as expect and price be very good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Am pleased with value .</Tokens>
+		<POS>VBP JJ IN NN .</POS>
+		<Lemma>be pleased with value .</Lemma>
+	</Sentence>
+</Document>

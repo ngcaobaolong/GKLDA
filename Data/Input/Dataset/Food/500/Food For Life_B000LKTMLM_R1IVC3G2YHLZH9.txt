@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ezekiel Cereal is great !</Tokens>
+		<POS>NNP NN VBZ JJ .</POS>
+		<Lemma>Ezekiel cereal be great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have it every morning for breakfast with my own home made granola and fruit .</Tokens>
+		<POS>PRP VBP PRP DT NN IN NN IN PRP$ JJ NN VBD NN CC NN .</POS>
+		<Lemma>I have it every morning for breakfast with my own home make granolum and fruit .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is wonderful .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm never constipated and my fingernails look fab .</Tokens>
+		<POS>PRP VBP RB VBN CC PRP$ NNS VBP NN .</POS>
+		<Lemma>I be never constipate and my fingernail look fab .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I love the subscription plan with Amazon , and that I never run ou .</Tokens>
+		<POS>PRP VBP DT NN NN IN NNP , CC IN PRP RB VBP NN .</POS>
+		<Lemma>I love the subscription plan with Amazon , and that I never run ou .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Plus I do n't have to run to the store .</Tokens>
+		<POS>CC PRP VBP RB VB TO VB TO DT NN .</POS>
+		<Lemma>plus I do not have to run to the store .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I ca n't rate this high enough .</Tokens>
+		<POS>PRP MD RB VB DT JJ NN .</POS>
+		<Lemma>I can not rate this high enough .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Lillian</Tokens>
+		<POS>NNP</POS>
+		<Lemma>Lillian</Lemma>
+	</Sentence>
+</Document>

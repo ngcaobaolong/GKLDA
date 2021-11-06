@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am still a film guy at heart but wanted a little more than my point and shoot digital could deliver .</Tokens>
+		<POS>PRP VBP RB DT NN NN IN NN CC VBD DT RB JJR IN PRP$ NN CC VB JJ MD VB .</POS>
+		<Lemma>I be still a film guy at heart but want a little more than my point and shoot digital could deliver .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Nikon takes great pictures .</Tokens>
+		<POS>DT NNP VBZ JJ NNS .</POS>
+		<Lemma>the Nikon take great picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The wife can use it just like a point and shoot and I can change some settings to try to get the picture I want so we basically got a two for one .</Tokens>
+		<POS>DT NN MD VB PRP RB IN DT NN CC NN CC PRP MD VB DT NNS TO VB TO VB DT NN PRP VBP RB PRP RB VBD DT CD IN CD .</POS>
+		<Lemma>the wife can use it just like a point and shoot and I can change some setting to try to get the picture I want so we basically get a two for one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have read through the manual at least twice and still have to pull it out from time to time .</Tokens>
+		<POS>PRP VBP VBN IN DT NN IN JJS RB CC RB VBP TO VB PRP RP IN NN TO NN .</POS>
+		<Lemma>I have read through the manual at least twice and still have to pull it out from time to time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Mostly I get confused because there is often more than one way to do the same thing .</Tokens>
+		<POS>RB PRP VBP VBN IN EX VBZ RB RBR IN CD NN TO VB DT JJ NN .</POS>
+		<Lemma>mostly I get confuse because there be often more than one way to do the same thing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I do n't have big hands but my only real complaint is it is hard to hold .</Tokens>
+		<POS>PRP VBP RB VB JJ NNS CC PRP$ RB JJ NN VBZ PRP VBZ JJ TO VB .</POS>
+		<Lemma>I do not have big hand but my only real complaint be it be hard to hold .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I find myself accidentally pushing a button with my right hand while trying to get a good grip and I ca n't really figure out what to do with my left hand .</Tokens>
+		<POS>PRP VBP PRP RB VBG DT NN IN PRP$ JJ NN IN VBG TO VB DT JJ NN CC PRP MD RB RB VB RP WP TO VB IN PRP$ JJ NN .</POS>
+		<Lemma>I find myself accidentally push a button with my right hand while try to get a good grip and I can not really figure out what to do with my left hand .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I finally hooked up a wrist strap so I would n't have to worry about dropping it and I am doing much better .</Tokens>
+		<POS>PRP RB VBD RP DT NN NN IN PRP MD RB VB TO VB RB VBG PRP CC PRP VBP VBG RB JJR .</POS>
+		<Lemma>I finally hook up a wrist strap so I would not have to worry about drop it and I be do much better .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I like the view finder and the option of changing the diopter .</Tokens>
+		<POS>PRP VBP DT NN NN CC DT NN IN VBG DT NN .</POS>
+		<Lemma>I like the view finder and the option of change the diopter .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I wear glasses and this allows me to look through the view finder normally and still be able to see the detail clearly .</Tokens>
+		<POS>PRP VBP NNS CC DT VBZ PRP TO VB IN DT NN NN RB CC RB VB JJ TO VB DT NN RB .</POS>
+		<Lemma>I wear glass and this allow I to look through the view finder normally and still be able to see the detail clearly .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I have had absolutely no problems with the camera .</Tokens>
+		<POS>PRP VBP VBN RB DT NNS IN DT NN .</POS>
+		<Lemma>I have have absolutely no problem with the camera .</Lemma>
+	</Sentence>
+</Document>

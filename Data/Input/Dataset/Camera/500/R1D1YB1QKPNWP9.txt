@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a total piece of junk .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NN .</POS>
+		<Lemma>this be a total piece of junk .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The field of view is very tiny and it requires bright daylight to record anything .</Tokens>
+		<POS>DT NN IN NN VBZ RB JJ CC PRP VBZ JJ NN TO VB NN .</POS>
+		<Lemma>the field of view be very tiny and it require bright daylight to record anything .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>During the evening with normal household lighting it records nothing but shadows .</Tokens>
+		<POS>IN DT NN IN JJ NN NN PRP VBZ NN CC NNS .</POS>
+		<Lemma>during the evening with normal household lighting it record nothing but shadow .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No audio , just video .</Tokens>
+		<POS>DT NN , RB NN .</POS>
+		<Lemma>no audio , just video .</Lemma>
+	</Sentence>
+</Document>

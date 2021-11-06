@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used a small a small baby food jar as my measuring cup .</Tokens>
+		<POS>PRP VBD DT JJ DT JJ NN NN NN IN PRP$ VBG NN .</POS>
+		<Lemma>I use a small a small baby food jar as my measure cup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>To the pot , I added one jar full of the mix , two jar fulls of chicken stock , two jar fulls of water , and one sliced green onion and let it simmer covered for an hour .</Tokens>
+		<POS>TO DT NN , PRP VBD CD NN JJ IN DT NN , CD NN NNS IN NN NN , CD NN NNS IN NN , CC CD JJ JJ NN CC VB PRP VB VBN IN DT NN .</POS>
+		<Lemma>to the pot , I add one jar full of the mix , two jar full of chicken stock , two jar full of water , and one sliced green onion and let it simmer cover for a hour .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was really thick , so I added 4 more jar fulls of water , and it was perfect .</Tokens>
+		<POS>PRP VBD RB JJ , IN PRP VBD CD JJR NN NNS IN NN , CC PRP VBD JJ .</POS>
+		<Lemma>it be really thick , so I add 4 more jar full of water , and it be perfect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I added a touch of salt and a gob of pepper -LRB- I love pepper -RRB- , and it ended up very tasty and extremely filling .</Tokens>
+		<POS>PRP VBD DT NN IN NN CC DT NN IN NN -LRB- PRP VBP NN -RRB- , CC PRP VBD RB RB JJ CC RB VBG .</POS>
+		<Lemma>I add a touch of salt and a gob of pepper -lrb- I love pepper -rrb- , and it end up very tasty and extremely fill .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I think I will add some tomatoes and mushrooms next time I make it .</Tokens>
+		<POS>PRP VBP PRP MD VB DT NNS CC NNS JJ NN PRP VBP PRP .</POS>
+		<Lemma>I think I will add some tomato and mushroom next time I make it .</Lemma>
+	</Sentence>
+</Document>

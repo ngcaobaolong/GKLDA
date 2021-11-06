@@ -1,0 +1,162 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ok , I read all the negative links and was amazed at the comments .</Tokens>
+		<POS>NNP , PRP VBP PDT DT JJ NNS CC VBD VBN IN DT NNS .</POS>
+		<Lemma>Ok , I read all the negative link and be amaze at the comment .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You would think this is a devil 's device from Hell .</Tokens>
+		<POS>PRP MD VB DT VBZ DT NNP POS NN IN NNP .</POS>
+		<Lemma>you would think this be a devil 's device from Hell .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Wrong , wrong , wrong ... But , I know what is the problem .</Tokens>
+		<POS>JJ , JJ , JJ : CC , PRP VBP WP VBZ DT NN .</POS>
+		<Lemma>wrong , wrong , wrong ... but , I know what be the problem .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This little guy , unlike the throw-a-ways , is just too complicated for the average user to comprehend without studying and practice .</Tokens>
+		<POS>DT JJ NN , IN DT NNS , VBZ RB RB VBN IN DT JJ NN TO VB IN VBG CC NN .</POS>
+		<Lemma>this little guy , unlike the throw-a-way , be just too complicate for the average user to comprehend without study and practice .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Vivitar has incorporated most of the features of their higher end models .</Tokens>
+		<POS>NNP VBZ VBN JJS IN DT NNS IN PRP$ JJR NN NNS .</POS>
+		<Lemma>Vivitar have incorporate most of the feature of they higher end model .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>How do you work the camera ??</Tokens>
+		<POS>WRB VBP PRP VB DT NN NN</POS>
+		<Lemma>how do you work the camera ??</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Read the owner 's manual .</Tokens>
+		<POS>VB DT NN POS NN .</POS>
+		<Lemma>read the owner 's manual .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Woops , what owners manual ??</Tokens>
+		<POS>NNP , WP NNS JJ IN</POS>
+		<Lemma>Woops , what owner manual ??</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It 's on the CD disk .</Tokens>
+		<POS>PRP VBZ IN DT NNP NN .</POS>
+		<Lemma>it be on the CD disk .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Oh , but I do n't want their software , so who needs the disk ??</Tokens>
+		<POS>UH , CC PRP VBP RB VB PRP$ NN , RB WP VBZ DT NN NN</POS>
+		<Lemma>oh , but I do not want they software , so who need the disk ??</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Catch 22 .</Tokens>
+		<POS>VB CD .</POS>
+		<Lemma>catch 22 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Solution , download the owners manual from Vivitar 's website -LRB- many PDF pages -RRB- .</Tokens>
+		<POS>NN , VB DT NNS NN IN NNP POS NN -LRB- JJ NN NNS -RRB- .</POS>
+		<Lemma>solution , download the owner manual from Vivitar 's website -lrb- many pdf page -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>My camera takes GREAT still AND shake proof videos .</Tokens>
+		<POS>PRP$ NN VBZ JJ RB CC VB NN NNS .</POS>
+		<Lemma>my camera take great still and shake proof video .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Very sharp and clear , if you setup the proper mode of focus .</Tokens>
+		<POS>RB JJ CC JJ , IN PRP NN DT JJ NN IN NN .</POS>
+		<Lemma>very sharp and clear , if you setup the proper mode of focus .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Use lithium aaa batteries for many hundreds of pictures ... Yes , there are lots of features I have n't used , yet .</Tokens>
+		<POS>NNP NN NN NNS IN JJ NNS IN NNS : UH , EX VBP NNS IN NNS PRP VBP RB VBN , RB .</POS>
+		<Lemma>Use lithium aaa battery for many hundred of picture ... yes , there be lot of feature I have not use , yet .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>After setting up the basic camera , I have been using the default mode .</Tokens>
+		<POS>IN VBG RP DT JJ NN , PRP VBP VBN VBG DT NN NN .</POS>
+		<Lemma>after set up the basic camera , I have be use the default mode .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Works like a charm ... Do n't be afraid of this guy because of the low price .</Tokens>
+		<POS>NNP IN DT NN : VBP RB VB JJ IN DT NN IN IN DT JJ NN .</POS>
+		<Lemma>Works like a charm ... do not be afraid of this guy because of the low price .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>It is very sturdy and feels like quality ...</Tokens>
+		<POS>PRP VBZ RB JJ CC VBZ IN NN :</POS>
+		<Lemma>it be very sturdy and feel like quality ...</Lemma>
+	</Sentence>
+</Document>

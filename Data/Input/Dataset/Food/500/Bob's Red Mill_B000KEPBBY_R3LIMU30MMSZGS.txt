@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>An easy product to use .</Tokens>
+		<POS>DT JJ NN TO VB .</POS>
+		<Lemma>a easy product to use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just add to your original stock , cook to the desired consistency and enjoy .</Tokens>
+		<POS>RB VB TO PRP$ JJ NN , NN TO DT VBN NN CC VB .</POS>
+		<Lemma>just add to you original stock , cook to the desire consistency and enjoy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sure beats cutting up all those vegies .</Tokens>
+		<POS>JJ NNS VBG RP DT DT NNS .</POS>
+		<Lemma>sure beat cut up all those vegy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's very versatile , but it does n't last long around here .</Tokens>
+		<POS>PRP VBZ RB JJ , CC PRP VBZ RB JJ JJ RB RB .</POS>
+		<Lemma>it be very versatile , but it do not last long around here .</Lemma>
+	</Sentence>
+</Document>

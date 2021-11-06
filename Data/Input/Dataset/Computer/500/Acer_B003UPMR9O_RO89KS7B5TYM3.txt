@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Monitor was just what we wanted .</Tokens>
+		<POS>NNP VBD RB WP PRP VBD .</POS>
+		<Lemma>Monitor be just what we want .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Description was very accurate .</Tokens>
+		<POS>NN VBD RB JJ .</POS>
+		<Lemma>description be very accurate .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Delivered quickly .</Tokens>
+		<POS>VBN RB .</POS>
+		<Lemma>deliver quickly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Our old monitor just quit working and we had to replace it as soon as possible .</Tokens>
+		<POS>PRP$ JJ NN RB VBD VBG CC PRP VBD TO VB PRP RB RB IN JJ .</POS>
+		<Lemma>we old monitor just quit work and we have to replace it as soon as possible .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great monitor , great price , quick delivery .</Tokens>
+		<POS>JJ NN , JJ NN , JJ NN .</POS>
+		<Lemma>great monitor , great price , quick delivery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>What more could you ask for ?</Tokens>
+		<POS>WDT RBR MD PRP VB IN .</POS>
+		<Lemma>what more could you ask for ?</Lemma>
+	</Sentence>
+</Document>

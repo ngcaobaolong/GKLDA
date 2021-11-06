@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great size for reading Word Documents ... most of the screens are wide-screen now .</Tokens>
+		<POS>DT VBZ DT JJ NN IN VBG NNP NNS : JJS IN DT NNS VBP JJ RB .</POS>
+		<Lemma>this be a great size for read Word document ... most of the screen be wide-screen now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But also most good screens are backlit and have better quality .</Tokens>
+		<POS>CC RB RBS JJ NNS VBP JJ CC VB JJR NN .</POS>
+		<Lemma>but also most good screen be backlit and have better quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I got an LG screen -LRB- widescreen -RRB- that had five times the quality and appeal of this for about $ 20 more .</Tokens>
+		<POS>PRP VBD DT NNP NN -LRB- NN -RRB- WDT VBD CD NNS DT NN CC NN IN DT IN RB $ CD JJR .</POS>
+		<Lemma>I get a LG screen -lrb- widescreen -rrb- that have five time the quality and appeal of this for about $ 20 more .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This has a very flimsy feel to it , but was a good replacement for the tiny screens that came with my Dell computer -LRB- although they seemed a lot sturdier -RRB- .</Tokens>
+		<POS>DT VBZ DT RB JJ NN TO PRP , CC VBD DT JJ NN IN DT JJ NNS WDT VBD IN PRP$ NNP NN -LRB- IN PRP VBD DT NN JJR -RRB- .</POS>
+		<Lemma>this have a very flimsy feel to it , but be a good replacement for the tiny screen that come with my Dell computer -lrb- although they seem a lot sturdier -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's not as bright as a backlit computer and probably would n't be good for watching TV over the computer ... but for writing Word Documents , it 's the right height and width .</Tokens>
+		<POS>PRP VBZ RB IN JJ IN DT JJ NN CC RB MD RB VB JJ IN VBG NN IN DT NN : CC IN VBG NNP NNS , PRP VBZ DT JJ NN CC NN .</POS>
+		<Lemma>it be not as bright as a backlit computer and probably would not be good for watch tv over the computer ... but for write Word document , it be the right height and width .</Lemma>
+	</Sentence>
+</Document>

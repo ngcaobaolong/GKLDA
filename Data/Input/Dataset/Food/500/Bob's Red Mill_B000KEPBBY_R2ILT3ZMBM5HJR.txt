@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As with all Bob 's Red Mill products this soup excell 's easy to make and wow is it great in the winter !!!</Tokens>
+		<POS>IN IN DT NNP POS NNP NNP NNS DT NN NN POS JJ TO VB CC VB VBZ PRP JJ IN DT NN IN</POS>
+		<Lemma>as with all Bob 's Red Mill product this soup excell 's easy to make and wow be it great in the winter !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I highly recommend it , but as another reviewer pointed out increase the water by a bit ; Id go up to 5 parts water to 1 part mix ; -RRB-</Tokens>
+		<POS>PRP RB VB PRP , CC IN DT NN VBD RP NN DT NN IN DT NN : NN VB RB TO CD NNS NN TO CD NN NN : -RRB-</POS>
+		<Lemma>I highly recommend it , but as another reviewer point out increase the water by a bit ; id go up to 5 part water to 1 part mix ; -rrb-</Lemma>
+	</Sentence>
+</Document>

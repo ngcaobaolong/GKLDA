@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm sold on the product .</Tokens>
+		<POS>PRP VBP VBN IN DT NN .</POS>
+		<Lemma>I be sell on the product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use it as a part of my long distance bicycle riding nutrition for a pre ride energy bump .</Tokens>
+		<POS>PRP VBP PRP IN DT NN IN PRP$ JJ NN NN VBG NN IN DT JJ NN NN NN .</POS>
+		<Lemma>I use it as a part of my long distance bicycle ride nutrition for a pre ride energy bump .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But really , I eat it because they are so tasty .</Tokens>
+		<POS>CC RB , PRP VBP PRP IN PRP VBP RB JJ .</POS>
+		<Lemma>but really , I eat it because they be so tasty .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's a good thing they are individually packaged as there is a huge temptation to eat several at once .</Tokens>
+		<POS>PRP VBZ DT JJ NN PRP VBP RB VBN IN EX VBZ DT JJ NN TO VB JJ IN RB .</POS>
+		<Lemma>it be a good thing they be individually package as there be a huge temptation to eat several at once .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I buy two boxes at a time because the other riders in my house have discovered my pre-ride indulgence and I do n't want to run out .</Tokens>
+		<POS>PRP VBP CD NNS IN DT NN IN DT JJ NNS IN PRP$ NN VBP VBN PRP$ JJ NN CC PRP VBP RB VB TO VB RP .</POS>
+		<Lemma>I buy two box at a time because the other rider in my house have discover my pre-ride indulgence and I do not want to run out .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>-LRB- Though I suspect they pilfer a few in between rides as well ! -RRB-</Tokens>
+		<POS>-LRB- IN PRP VBP PRP VB DT JJ IN IN NNS RB RB . -RRB-</POS>
+		<Lemma>-lrb- though I suspect they pilfer a few in between ride as well ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'll admit they are little hard to eat while pedaling -LRB- pieces tend to break off -RRB- so I 've adapted to using it pre-ride or at a break stop .</Tokens>
+		<POS>PRP MD VB PRP VBP JJ JJ TO VB IN NN -LRB- NNS VBP TO VB RP -RRB- IN PRP VBP VBN TO VBG PRP JJ CC IN DT NN NN .</POS>
+		<Lemma>I 'll admit they be little hard to eat while pedaling -lrb- piece tend to break off -rrb- so I have adapt to use it pre-ride or at a break stop .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I give it 4 stars , not 5 , only because this last batch was not quite as fresh as I 've had in the past .</Tokens>
+		<POS>PRP VBP PRP CD NNS , RB CD , RB IN DT JJ NN VBD RB RB IN JJ IN PRP VBP VBN IN DT NN .</POS>
+		<Lemma>I give it 4 star , not 5 , only because this last batch be not quite as fresh as I have have in the past .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Oh what the heck .</Tokens>
+		<POS>UH WP DT NN .</POS>
+		<Lemma>oh what the heck .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>5 stars !</Tokens>
+		<POS>CD NNS .</POS>
+		<Lemma>5 star !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 'd write more but I hear a honey waffle calling my name .</Tokens>
+		<POS>PRP MD VB JJR CC PRP VBP DT NN NN VBG PRP$ NN .</POS>
+		<Lemma>I would write more but I hear a honey waffle call my name .</Lemma>
+	</Sentence>
+</Document>

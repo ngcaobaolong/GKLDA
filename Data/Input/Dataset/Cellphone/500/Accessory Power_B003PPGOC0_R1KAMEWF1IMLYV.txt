@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wonderful little device .</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>wonderful little device .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Super easy to set up , only took me 1 minute to hook up to my iphone .</Tokens>
+		<POS>NNP JJ TO VB RP , RB VBD PRP CD NN TO NN RP TO PRP$ NN .</POS>
+		<Lemma>Super easy to set up , only take I 1 minute to hook up to my iphone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Hand-free blue tooth allowed me to talk on phone with super clear sound .</Tokens>
+		<POS>JJ JJ NN VBD PRP TO VB IN NN IN JJ JJ NN .</POS>
+		<Lemma>hand-free blue tooth allow I to talk on phone with super clear sound .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Love it !</Tokens>
+		<POS>NN PRP .</POS>
+		<Lemma>love it !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Highly recommend this product .</Tokens>
+		<POS>RB VB DT NN .</POS>
+		<Lemma>highly recommend this product .</Lemma>
+	</Sentence>
+</Document>

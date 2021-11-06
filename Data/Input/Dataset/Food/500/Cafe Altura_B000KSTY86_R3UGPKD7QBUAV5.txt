@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We get a shipment of this regularly , because we MUST be well-stocked at all times .</Tokens>
+		<POS>PRP VBP DT NN IN DT RB , IN PRP VBP VB JJ IN DT NNS .</POS>
+		<Lemma>we get a shipment of this regularly , because we must be well-stocked at all time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has a deep , rich flavor with complex notes .</Tokens>
+		<POS>PRP VBZ DT JJ , JJ NN IN JJ NNS .</POS>
+		<Lemma>it have a deep , rich flavor with complex note .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The acidity is low , and while the beans are oily , it 's in just the right way .</Tokens>
+		<POS>DT NN VBZ JJ , CC IN DT NNS VBP RB , PRP VBZ IN RB DT JJ NN .</POS>
+		<Lemma>the acidity be low , and while the bean be oily , it be in just the right way .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have yet to find a burnt bean , as well !</Tokens>
+		<POS>PRP VBP RB TO VB DT JJ NN , RB RB .</POS>
+		<Lemma>I have yet to find a burnt bean , as well !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can tell there is some love and care that goes into the roasting of these beans .</Tokens>
+		<POS>PRP MD VB EX VBZ DT NN CC NN WDT VBZ IN DT NN IN DT NNS .</POS>
+		<Lemma>you can tell there be some love and care that go into the roasting of these bean .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We will buy these beans for as long as they continue roasting them !</Tokens>
+		<POS>PRP MD VB DT NNS IN RB JJ IN PRP VBP VBG PRP .</POS>
+		<Lemma>we will buy these bean for as long as they continue roast they !</Lemma>
+	</Sentence>
+</Document>

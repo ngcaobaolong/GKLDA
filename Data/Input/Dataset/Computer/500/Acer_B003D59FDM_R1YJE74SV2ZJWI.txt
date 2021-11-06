@@ -1,0 +1,127 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wow !</Tokens>
+		<POS>UH .</POS>
+		<Lemma>wow !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I used to have an old 17 '' Dell CRT monitor that weighed probably twenty pounds , then I got this one in the mail and thought it might not be in the box !</Tokens>
+		<POS>PRP VBD TO VB DT JJ CD '' NNP NNP NN WDT VBD RB CD NNS , RB PRP VBD DT CD IN DT NN CC VBD PRP MD RB VB IN DT NN .</POS>
+		<Lemma>I use to have a old 17 '' Dell CRT monitor that weigh probably twenty pound , then I get this one in the mail and think it might not be in the box !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Anyway , enough jokes and it does not matter how much it weighs .</Tokens>
+		<POS>RB , JJ NNS CC PRP VBZ RB VB WRB JJ PRP VBZ .</POS>
+		<Lemma>anyway , enough joke and it do not matter how much it weigh .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is the quality and usefulness of the product that counts .</Tokens>
+		<POS>PRP VBZ DT NN CC NN IN DT NN WDT VBZ .</POS>
+		<Lemma>it be the quality and usefulness of the product that count .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I gave it a rating of five stars because I just unpacked it then plugged it in .</Tokens>
+		<POS>PRP VBD PRP DT NN IN CD NNS IN PRP RB VBD PRP RB VBD PRP IN .</POS>
+		<Lemma>I give it a rating of five star because I just unpack it then plug it in .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Oh my goodness , what a difference !</Tokens>
+		<POS>UH PRP$ NN , WP DT NN .</POS>
+		<Lemma>oh my goodness , what a difference !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Everything is a lot larger and crystal clear !</Tokens>
+		<POS>NN VBZ DT NN JJR CC NN JJ .</POS>
+		<Lemma>everything be a lot larger and crystal clear !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Cons : -LRB- 1 -RRB- It was too bright !</Tokens>
+		<POS>NNS : -LRB- LS -RRB- PRP VBD RB JJ .</POS>
+		<Lemma>con : -lrb- 1 -rrb- it be too bright !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I adjusted the monitor 's settings to zero and it was still too bright !</Tokens>
+		<POS>PRP VBD DT NN POS NNS TO CD CC PRP VBD RB RB JJ .</POS>
+		<Lemma>I adjust the monitor 's setting to zero and it be still too bright !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Luckily , my Nvidia video card recognized the monitor and let me reduce the brightness even more .</Tokens>
+		<POS>RB , PRP$ NNP NN NN VBD DT NN CC VB PRP VB DT NN RB RBR .</POS>
+		<Lemma>luckily , my Nvidia video card recognize the monitor and let I reduce the brightness even more .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Now it is perfect !</Tokens>
+		<POS>RB PRP VBZ JJ .</POS>
+		<Lemma>now it be perfect !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>-LRB- 2 -RRB- I use the display resolution of 800x600 and it works fine .</Tokens>
+		<POS>-LRB- LS -RRB- PRP VBP DT NN NN IN NN CC PRP VBZ NN .</POS>
+		<Lemma>-lrb- 2 -rrb- I use the display resolution of 800x600 and it work fine .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If you use 1024x768 resolution , then I would suggest you purchase the Acer V193 which is 19 inches .</Tokens>
+		<POS>IN PRP VBP CD NN , RB PRP MD VB PRP VB DT NNP NN WDT VBZ CD NNS .</POS>
+		<Lemma>if you use 1024x768 resolution , then I would suggest you purchase the Acer v193 which be 19 inch .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>-LRB- 3 -RRB- You can not tilt the monitor up and down .</Tokens>
+		<POS>-LRB- LS -RRB- PRP MD RB VB DT NN RB CC RB .</POS>
+		<Lemma>-lrb- 3 -rrb- you can not tilt the monitor up and down .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It is static .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be static .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Pros : -LRB- 1 -RRB- Price , but I just noticed the price went up since I purchased it about a week ago .</Tokens>
+		<POS>NNS : -LRB- LS -RRB- NN , CC PRP RB VBD DT NN VBD RB IN PRP VBD PRP IN DT NN RB .</POS>
+		<Lemma>pro : -lrb- 1 -rrb- price , but I just notice the price go up since I purchase it about a week ago .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>You better get one now !</Tokens>
+		<POS>PRP RB VB CD RB .</POS>
+		<Lemma>you better get one now !</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>-LRB- 2 -RRB- You do n't need one of those expensive `` wide screen '' monitors to surf the internet , play videos , use your word processor or even play games .</Tokens>
+		<POS>-LRB- LS -RRB- PRP VBP RB VB CD IN DT JJ `` JJ NN '' NNS TO NN DT NN , VBP NNS , VB PRP$ NN NN CC RB VB NNS .</POS>
+		<Lemma>-lrb- 2 -rrb- you do not need one of those expensive `` wide screen '' monitor to surf the internet , play video , use you word processor or even play game .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>This monitor works perfect for all of those .</Tokens>
+		<POS>DT NN VBZ JJ IN DT IN DT .</POS>
+		<Lemma>this monitor work perfect for all of those .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>-LRB- 3 -RRB- Quality is unsurpassed .</Tokens>
+		<POS>-LRB- LS -RRB- NNP VBZ JJ .</POS>
+		<Lemma>-lrb- 3 -rrb- Quality be unsurpassed .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Not one pixel missing !</Tokens>
+		<POS>RB CD NN VBG .</POS>
+		<Lemma>not one pixel miss !</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>-LRB- 4 -RRB- I got an email from Amazon saying the monitor would arrive on Tuesday through Thursday .</Tokens>
+		<POS>-LRB- LS -RRB- PRP VBD DT NN IN NNP VBG DT NN MD VB IN NNP IN NNP .</POS>
+		<Lemma>-lrb- 4 -rrb- I get a email from Amazon say the monitor would arrive on Tuesday through Thursday .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I got it on Tuesday morning !</Tokens>
+		<POS>PRP VBD PRP IN NNP NN .</POS>
+		<Lemma>I get it on Tuesday morning !</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>This is a quality product and great for the home user that wants to upgrade their old computer , but does not want to spend a lot of money .</Tokens>
+		<POS>DT VBZ DT NN NN CC JJ IN DT NN NN WDT VBZ TO VB PRP$ JJ NN , CC VBZ RB VB TO VB DT NN IN NN .</POS>
+		<Lemma>this be a quality product and great for the home user that want to upgrade they old computer , but do not want to spend a lot of money .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I recommend it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I recommend it .</Lemma>
+	</Sentence>
+</Document>

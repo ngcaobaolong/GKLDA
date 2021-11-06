@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ok if you like very mild coffee , please dont bother .</Tokens>
+		<POS>NNP IN PRP IN RB JJ NN , VB NN VB .</POS>
+		<Lemma>Ok if you like very mild coffee , please dont bother .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But if you like a cup that is going to jump start your braincells in the morning , try it .</Tokens>
+		<POS>CC IN PRP IN DT NN WDT VBZ VBG TO VB VB PRP$ NNS IN DT NN , VBP PRP .</POS>
+		<Lemma>but if you like a cup that be go to jump start you braincell in the morning , try it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Next week Amazon is going to send me the 5th batch of this -LRB- I subscribe -RRB- and just in time too .</Tokens>
+		<POS>JJ NN NNP VBZ VBG TO VB PRP DT JJ NN IN DT -LRB- PRP VBP -RRB- CC RB IN NN RB .</POS>
+		<Lemma>next week Amazon be go to send I the 5th batch of this -lrb- I subscribe -rrb- and just in time too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I use my Rancilio to make 2 double 's before I go to the office in the morning and it is very good .</Tokens>
+		<POS>PRP VBP PRP$ NNP TO VB CD JJ POS IN PRP VBP TO DT NN IN DT NN CC PRP VBZ RB JJ .</POS>
+		<Lemma>I use my Rancilio to make 2 double 's before I go to the office in the morning and it be very good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Not as burned as Starbucks but has a kick to it .</Tokens>
+		<POS>RB IN VBN IN NNP CC VBZ DT NN TO PRP .</POS>
+		<Lemma>not as burn as Starbucks but have a kick to it .</Lemma>
+	</Sentence>
+</Document>

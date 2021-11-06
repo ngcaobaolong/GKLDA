@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I managed to get my monitor for $ 90 , and I think it 's absolutely great , especially compared to my old 14 inch CRT monitor .</Tokens>
+		<POS>PRP VBD TO VB PRP$ NN IN $ CD , CC PRP VBP PRP VBZ RB JJ , RB VBN TO PRP$ JJ CD NN NNP NN .</POS>
+		<Lemma>I manage to get my monitor for $ 90 , and I think it be absolutely great , especially compare to my old 14 inch CRT monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Here 's a list of pros and cons .</Tokens>
+		<POS>RB VBZ DT NN IN NNS CC NNS .</POS>
+		<Lemma>here be a list of pro and con .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pros : - Relatively cheap - Large 20 inch viewing area -1600 x900 high resolution - Very bright !</Tokens>
+		<POS>NNS : : RB JJ : JJ CD NN VBG NN CD NN JJ NN : RB JJ .</POS>
+		<Lemma>pro : - relatively cheap - large 20 inch view area -1600 x900 high resolution - very bright !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>- Super thin and only weighs a few pounds - Very energy efficient compared to a CRT and even an LCD monitor .</Tokens>
+		<POS>: NNP JJ CC RB VBZ DT JJ NNS : RB NN JJ VBN TO DT NNP CC RB DT NNS VBP .</POS>
+		<Lemma>- Super thin and only weigh a few pound - very energy efficient compare to a CRT and even a lcd monitor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Only uses about 13 watts .</Tokens>
+		<POS>RB VBZ IN CD NNS .</POS>
+		<Lemma>only use about 13 watt .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>- Beautiful color - White colors are actually white unlike my LCD monitors ' dull yellow whites Cons : - No labels on OSD control buttons makes it hard to change brightness , contrast , etc - Power button on bottom can be difficult to press - Glossy black edges , base , and neck scratch very easily - Appears to be edge-lit , not back-lit .</Tokens>
+		<POS>: JJ NN : NNP NNS VBP RB JJ IN PRP$ NNS NNS POS JJ JJ NNS NNS : : UH NNS IN NN NN NNS VBZ PRP JJ TO VB NN , NN , NN : NNP NN IN NN MD VB JJ TO NN : JJ JJ NNS , NN , CC NN NN RB RB : VBZ TO VB JJ , RB JJ .</POS>
+		<Lemma>- beautiful color - White color be actually white unlike my lcd monitor ' dull yellow whites con : - no label on osd control button make it hard to change brightness , contrast , etc - Power button on bottom can be difficult to press - glossy black edge , base , and neck scratch very easily - appear to be edge-lit , not back-lit .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Results in a glow around the edges , which is only noticeable in a dark room , or while the monitor is displaying a mostly black screen .</Tokens>
+		<POS>NNS IN DT NN IN DT NNS , WDT VBZ RB JJ IN DT JJ NN , CC IN DT NN VBZ VBG DT RB JJ NN .</POS>
+		<Lemma>result in a glow around the edge , which be only noticeable in a dark room , or while the monitor be display a mostly black screen .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>- Not 1080x1920 resoltion .</Tokens>
+		<POS>: RB CD NN .</POS>
+		<Lemma>- not 1080x1920 resoltion .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>1600x900 is still good , and this screen is probably to small to display 1080p well anyway , so not a big problem .</Tokens>
+		<POS>NN VBZ RB JJ , CC DT NN VBZ RB TO JJ TO VB RB RB RB , RB RB DT JJ NN .</POS>
+		<Lemma>1600x900 be still good , and this screen be probably to small to display 1080p well anyway , so not a big problem .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Pay $ 30 more for a 21 + inch monitor if you want full HD .</Tokens>
+		<POS>VB $ CD JJR IN DT CD CC NN NN IN PRP VBP JJ NN .</POS>
+		<Lemma>pay $ 30 more for a 21 + inch monitor if you want full hd .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>- I do n't THINK that the screen tilts .</Tokens>
+		<POS>: PRP VBP RB VB IN DT NN VBZ .</POS>
+		<Lemma>- I do not think that the screen tilt .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Please correct me if I 'm wrong .</Tokens>
+		<POS>VB VB PRP IN PRP VBP JJ .</POS>
+		<Lemma>please correct I if I be wrong .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Overall , this is a great budget monitor .</Tokens>
+		<POS>RB , DT VBZ DT JJ NN NN .</POS>
+		<Lemma>overall , this be a great budget monitor .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Unless you think the bright edges will annoy you , get this , and you wo n't be disappointed .</Tokens>
+		<POS>IN PRP VBP DT JJ NNS MD VB PRP , VB DT , CC PRP MD RB VB VBN .</POS>
+		<Lemma>unless you think the bright edge will annoy you , get this , and you will not be disappoint .</Lemma>
+	</Sentence>
+</Document>

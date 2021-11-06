@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Our vehicle audio system is built in and ca n't be swapped without major dash modification .</Tokens>
+		<POS>PRP$ NN NN NN VBZ VBN IN CC MD RB VB VBN IN JJ NN NN .</POS>
+		<Lemma>we vehicle audio system be build in and can not be swap without major dash modification .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Unfortunately it has no inputs .</Tokens>
+		<POS>RB PRP VBZ DT NNS .</POS>
+		<Lemma>unfortunately it have no input .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We have tried multiple FM adapters and found the same thing , you ca n't find a clear station .</Tokens>
+		<POS>PRP VBP VBN JJ NNP NNS CC VBD DT JJ NN , PRP MD RB VB DT JJ NN .</POS>
+		<Lemma>we have try multiple FM adapter and find the same thing , you can not find a clear station .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Flexmart X2 does that for you and takes the guesswork out of it .</Tokens>
+		<POS>DT NNP NN VBZ IN IN PRP CC VBZ DT NN IN IN PRP .</POS>
+		<Lemma>the Flexmart x2 do that for you and take the guesswork out of it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It has a powerful FM transmitter so it will broadcast over other weak FM signals .</Tokens>
+		<POS>PRP VBZ DT JJ NNP NN IN PRP MD VB IN JJ JJ NN NNS .</POS>
+		<Lemma>it have a powerful FM transmitter so it will broadcast over other weak fm signal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would highly recommend this product .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>I would highly recommend this product .</Lemma>
+	</Sentence>
+</Document>

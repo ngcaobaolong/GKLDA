@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera is priced significantly below other PTZ IP cameras .</Tokens>
+		<POS>DT NN VBZ VBN RB IN JJ NNP NNP NNS .</POS>
+		<Lemma>this camera be price significantly below other PTZ IP camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I found it easy to set up and access from the internet and my android phone .</Tokens>
+		<POS>PRP VBD PRP JJ TO VB RP CC NN IN DT NN CC PRP$ NN NN .</POS>
+		<Lemma>I find it easy to set up and access from the internet and my android phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , my basic understanding of routers and firewalls and email servers was helpful .</Tokens>
+		<POS>RB , PRP$ JJ NN IN NNS CC NNS CC NN NNS VBD JJ .</POS>
+		<Lemma>however , my basic understanding of router and firewall and email server be helpful .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A bonus for me was finding the android application IP Cam Viewer Lite which was free and easy to set up .</Tokens>
+		<POS>DT NN IN PRP VBD VBG DT NN NN NNP NNP NNP NNP WDT VBD JJ CC JJ TO VB RP .</POS>
+		<Lemma>a bonus for I be find the android application IP Cam Viewer Lite which be free and easy to set up .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can even move the camera by sliding your finger across the phones screen !</Tokens>
+		<POS>PRP MD RB VB DT NN IN VBG PRP$ NN IN DT NNS NN .</POS>
+		<Lemma>you can even move the camera by slide you finger across the phone screen !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The colors of the image are a little washed out but the image is overall pretty good .</Tokens>
+		<POS>DT NNS IN DT NN VBP DT JJ VBN RP CC DT NN VBZ JJ RB JJ .</POS>
+		<Lemma>the color of the image be a little wash out but the image be overall pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Night vision is very good .</Tokens>
+		<POS>NNP NN VBZ RB JJ .</POS>
+		<Lemma>Night vision be very good .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>However the night vision wo n't work if you are pointing the camera outside through a window .</Tokens>
+		<POS>RB DT NN NN MD RB VB IN PRP VBP VBG DT NN IN IN DT NN .</POS>
+		<Lemma>however the night vision will not work if you be point the camera outside through a window .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>While it is listed as a PTZ camera , I have n't found the zoom feature though pan and tilt work well and it has a wide range of motion .</Tokens>
+		<POS>IN PRP VBZ VBN IN DT NNP NN , PRP VBP RB VBN DT NN NN IN NN CC NN VBP RB CC PRP VBZ DT JJ NN IN NN .</POS>
+		<Lemma>while it be list as a PTZ camera , I have not find the zoom feature though pan and tilt work well and it have a wide range of motion .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I have only had this camera for a few weeks so I ca n't speak to it 's longevity but at the price that I paid , I can easily afford a spare unit .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN DT JJ NNS IN PRP MD RB VB TO PRP VBZ NN CC IN DT NN IN PRP VBD , PRP MD RB VB DT JJ NN .</POS>
+		<Lemma>I have only have this camera for a few week so I can not speak to it be longevity but at the price that I pay , I can easily afford a spare unit .</Lemma>
+	</Sentence>
+</Document>

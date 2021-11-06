@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this universal wall charger to make my life easier when I 'm traveling .</Tokens>
+		<POS>PRP VBD DT JJ NN NN TO VB PRP$ NN JJR WRB PRP VBP VBG .</POS>
+		<Lemma>I purchase this universal wall charger to make my life easier when I be travel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It works great with my Samsung Galaxy and with my iphone .</Tokens>
+		<POS>PRP VBZ JJ IN PRP$ NNP NNP CC IN PRP$ NN .</POS>
+		<Lemma>it work great with my Samsung Galaxy and with my iphone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have ended up carrying it in purse all the time -LRB- along with a retractable plug for my droid -RRB- , because it 's so small and lightweight , and it 's good in the car and for AC .</Tokens>
+		<POS>PRP VBP VBN RP VBG PRP IN NN PDT DT NN -LRB- IN IN DT JJ NN IN PRP$ NN -RRB- , IN PRP VBZ RB JJ CC JJ , CC PRP VBZ JJ IN DT NN CC IN NN .</POS>
+		<Lemma>I have end up carry it in purse all the time -lrb- along with a retractable plug for my droid -rrb- , because it be so small and lightweight , and it be good in the car and for ac .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I highly recommend it .</Tokens>
+		<POS>PRP RB VB PRP .</POS>
+		<Lemma>I highly recommend it .</Lemma>
+	</Sentence>
+</Document>

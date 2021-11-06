@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have owned this monitor for a little over a year ... actually I have owned three Acer monitors for a little over a year .</Tokens>
+		<POS>PRP VBP VBN DT NN IN DT JJ IN DT NN : RB PRP VBP VBN CD NNP NNS IN DT JJ IN DT NN .</POS>
+		<Lemma>I have own this monitor for a little over a year ... actually I have own three Acer monitor for a little over a year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I started with an Acer AL1912 , and the backlight died after about 48 hours .</Tokens>
+		<POS>PRP VBD IN DT NNP NNP , CC DT NN VBD IN RB CD NNS .</POS>
+		<Lemma>I start with a Acer AL1912 , and the backlight die after about 48 hour .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I really should have taken the hint then , but instead I sent it to Acer for repair .</Tokens>
+		<POS>PRP RB MD VB VBN DT NN RB , CC RB PRP VBD PRP TO NNP IN NN .</POS>
+		<Lemma>I really should have take the hint then , but instead I send it to Acer for repair .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The newly repaired monitor lasted about six months ... then one day the backlight was dead again !</Tokens>
+		<POS>DT RB VBN NN VBD RB CD NNS : RB CD NN DT NN VBD JJ RB .</POS>
+		<Lemma>the newly repair monitor last about six month ... then one day the backlight be dead again !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I sent it off to Acer again .</Tokens>
+		<POS>PRP VBD PRP RP TO NNP RB .</POS>
+		<Lemma>I send it off to Acer again .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This time they sent me an AL1914 since they did not make the old 1912 model anymore .</Tokens>
+		<POS>DT NN PRP VBD PRP DT NN IN PRP VBD RB VB DT JJ CD NN RB .</POS>
+		<Lemma>this time they send I a al1914 since they do not make the old 1912 model anymore .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>From what I have seen , they are of identical quality .</Tokens>
+		<POS>IN WP PRP VBP VBN , PRP VBP IN JJ NN .</POS>
+		<Lemma>from what I have see , they be of identical quality .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I did not even realize that it was a different model until about a week after I received the new one when I looked for the model number on the back .</Tokens>
+		<POS>PRP VBD RB RB VB IN PRP VBD DT JJ NN IN IN DT NN IN PRP VBD DT JJ CD WRB PRP VBD IN DT NN NN IN DT NN .</POS>
+		<Lemma>I do not even realize that it be a different model until about a week after I receive the new one when I look for the model number on the back .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I am just waiting for the day that the backlight does n't work anymore on this one .</Tokens>
+		<POS>PRP VBP RB VBG IN DT NN IN DT NN VBZ RB VB RB IN DT CD .</POS>
+		<Lemma>I be just wait for the day that the backlight do not work anymore on this one .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>When my monitor manages to turn on , I am disappointed with the image quality .</Tokens>
+		<POS>WRB PRP$ NN VBZ TO VB RP , PRP VBP VBN IN DT NN NN .</POS>
+		<Lemma>when my monitor manage to turn on , I be disappoint with the image quality .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It is impossible to change the brightness and contrast levels so that all of the values on a grayscale calibration strip are visible .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT NN CC NN NNS RB IN DT IN DT NNS IN DT NN NN NN VBP JJ .</POS>
+		<Lemma>it be impossible to change the brightness and contrast level so that all of the value on a grayscale calibration strip be visible .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The monitor uses the old D-Sub monitor cable , rather than the new DVI cable .</Tokens>
+		<POS>DT NN VBZ DT JJ NN NN NN , RB IN DT JJ NNP NN .</POS>
+		<Lemma>the monitor use the old d-sub monitor cable , rather than the new DVI cable .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Realistically , the only positive thing about this monitor is the price .</Tokens>
+		<POS>RB , DT JJ JJ NN IN DT NN VBZ DT NN .</POS>
+		<Lemma>realistically , the only positive thing about this monitor be the price .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Do yourself a favor , spend twenty bucks more , and get yourself something better .</Tokens>
+		<POS>VB PRP DT NN , VBP CD NNS RBR , CC VB PRP NN RB .</POS>
+		<Lemma>do yourself a favor , spend twenty buck more , and get yourself something better .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I 've already spent the difference on shipping my monitor in for repair .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN NN PRP$ NN IN IN NN .</POS>
+		<Lemma>I have already spend the difference on shipping my monitor in for repair .</Lemma>
+	</Sentence>
+</Document>

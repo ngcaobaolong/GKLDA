@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works as described for my HTC Incredible Android device .</Tokens>
+		<POS>NNP IN VBN IN PRP$ NNP JJ NN NN .</POS>
+		<Lemma>Works as describe for my HTC incredible android device .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just returned from a long trip with a Jabra Cruiser and three cell phones .</Tokens>
+		<POS>RB VBN IN DT JJ NN IN DT NNP NNP CC CD NN NNS .</POS>
+		<Lemma>just return from a long trip with a Jabra Cruiser and three cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Our devices never ran out of juice .</Tokens>
+		<POS>PRP$ NNS RB VBD IN IN NN .</POS>
+		<Lemma>we device never run out of juice .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The ability to charge two devices simultaneously makes this a very handy gadget .</Tokens>
+		<POS>DT NN TO VB CD NNS RB VBZ DT DT RB JJ NN .</POS>
+		<Lemma>the ability to charge two device simultaneously make this a very handy gadget .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens><a href="http://www.amazon.com/gp/product/B003JP9IT2/ref=cm_cr_asin_lnk/176-1248262-1779007"> TRANS4M Complete Travel Charging Solution for AT&T and Verizon Apple iPhone 3G \/ 3GS \/ 4G \/ iPod \/ Classic \/ Touch \/ Nano - ONE SMALL CHARGER for AC , DC , and Portable Backup Power - Includes USB Data Transfer Syncing Cable </a></Tokens>
+		<POS>NN NN JJ NN VBG NN IN NNP CC NNP NNP NNP NNP : NN : NN : NN : NNP : NNP : NNP : CD NNP NNP IN NN , NN , CC NNP NNP NNP : VBZ JJ NNS NN VBG NNP NN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b003jp9it2/ref=cm_cr_asin_lnk/176-1248262-1779007"> trans4m complete travel charge solution for AT&T and Verizon Apple iPhone 3G \/ 3g \/ 4g \/ ipod \/ Classic \/ Touch \/ Nano - one SMALL CHARGER for ac , dc , and Portable Backup Power - include usb datum transfer synce Cable </a></Lemma>
+	</Sentence>
+</Document>

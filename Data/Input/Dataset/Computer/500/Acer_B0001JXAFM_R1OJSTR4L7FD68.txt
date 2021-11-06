@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased my Acer from Amazon with great anticipation .</Tokens>
+		<POS>PRP VBD PRP$ NNP IN NNP IN JJ NN .</POS>
+		<Lemma>I purchase my Acer from Amazon with great anticipation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had read a lot of reviews about the various features and it seemed very promising .</Tokens>
+		<POS>PRP VBD VBN DT NN IN NNS IN DT JJ NNS CC PRP VBD RB JJ .</POS>
+		<Lemma>I have read a lot of review about the various feature and it seem very promising .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My son had also purchased one and he was pleased with it .</Tokens>
+		<POS>PRP$ NN VBD RB VBN CD CC PRP VBD VBN IN PRP .</POS>
+		<Lemma>my son have also purchase one and he be please with it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Mine came and I was very excited - but the fun lasted for a very short time .</Tokens>
+		<POS>NNP VBD CC PRP VBD RB JJ : CC DT NN VBN IN DT RB JJ NN .</POS>
+		<Lemma>Mine come and I be very excited - but the fun last for a very short time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Microsoft Tablet software -LRB- Journal and the free download trial version of OneNote -RRB- while being hyped as great - were n't .</Tokens>
+		<POS>DT NNP NNP NN -LRB- NNP CC DT JJ NN NN NN IN NN -RRB- IN VBG VBN IN JJ : VBD RB .</POS>
+		<Lemma>the Microsoft Tablet software -lrb- Journal and the free download trial version of onenote -rrb- while be hype as great - be not .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And so my productivity dreams vanished within a couple days .</Tokens>
+		<POS>CC RB PRP$ NN VBZ VBN IN DT NN NNS .</POS>
+		<Lemma>and so my productivity dream vanish within a couple day .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Then the screen became unpredictable , and in a short time I could not get it to work at all .</Tokens>
+		<POS>RB DT NN VBD JJ , CC IN DT JJ NN PRP MD RB VB PRP TO VB IN DT .</POS>
+		<Lemma>then the screen become unpredictable , and in a short time I could not get it to work at all .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I returned the unit to Amazon and now wonder if I will ever try another tablet pc .</Tokens>
+		<POS>PRP VBD DT NN TO NNP CC RB VBP IN PRP MD RB VB DT NN NN .</POS>
+		<Lemma>I return the unit to Amazon and now wonder if I will ever try another tablet pc .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Probably not , because the current software is designed for scribblers and note takers not organized document makers .</Tokens>
+		<POS>RB RB , IN DT JJ NN VBZ VBN IN NNS CC NN NNS RB VBN NN NNS .</POS>
+		<Lemma>probably not , because the current software be design for scribbler and note taker not organize document maker .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I really do hope that some company will take the tablet seriously enough to make it lightweight , cool , bright , and powerful enough to do the work of regular notebook .</Tokens>
+		<POS>PRP RB VBP VB IN DT NN MD VB DT NN RB RB TO VB PRP JJ , JJ , JJ , CC JJ JJ TO VB DT NN IN JJ NN .</POS>
+		<Lemma>I really do hope that some company will take the tablet seriously enough to make it lightweight , cool , bright , and powerful enough to do the work of regular notebook .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>And also for Microsoft to work on a tablet pc word processor at least a little bit like Word .</Tokens>
+		<POS>CC RB IN NNP TO VB IN DT JJ NN NN NN IN JJS DT JJ NN IN NN .</POS>
+		<Lemma>and also for Microsoft to work on a tablet pc word processor at least a little bit like word .</Lemma>
+	</Sentence>
+</Document>

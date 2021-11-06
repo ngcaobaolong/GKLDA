@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased the Trans4M expressly to charge the iPad and like others here was disappointed to discover that it is underpowered for this application -LRB- displays a ` Not Charging ' message -RRB- .</Tokens>
+		<POS>PRP VBD DT NN RB TO VB DT NN CC IN NNS RB VBD VBN TO VB IN PRP VBZ JJ IN DT NN -LRB- VBZ DT `` RB VBG '' NN -RRB- .</POS>
+		<Lemma>I purchase the trans4m expressly to charge the ipad and like other here be disappoint to discover that it be underpowered for this application -lrb- display a ` not charge ' message -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , on a hunch , I kept the charger attached to the iPad -LRB- while using A\/C power -RRB- and discovered that it in fact DOES charge the iPad , though at a slower rate than Apple 's standard iPad charger .</Tokens>
+		<POS>RB , IN DT NN , PRP VBD DT NN VBN TO DT NN -LRB- IN VBG NN NN -RRB- CC VBD IN PRP IN NN NNS VBP DT NNP , RB IN DT JJR NN IN NNP POS JJ NNP NN .</POS>
+		<Lemma>however , on a hunch , I keep the charger attach to the ipad -lrb- while use a\/c power -rrb- and discover that it in fact doe charge the iPad , though at a slower rate than Apple 's standard iPad charger .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This appears to be the case for most chargers designed for the iPhone .</Tokens>
+		<POS>DT VBZ TO VB DT NN IN JJS NNS VBN IN DT NNP .</POS>
+		<Lemma>this appear to be the case for most charger design for the iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unfortunately , the Trans4M 's AA battery capability is essentially worthless for the iPad .</Tokens>
+		<POS>RB , DT NN POS NN NN NN VBZ RB JJ IN DT NNP .</POS>
+		<Lemma>unfortunately , the trans4m 's aa battery capability be essentially worthless for the iPad .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was incapable of even slowing down the rate of discharge of the iPad 's internal battery , let alone actually recharge it .</Tokens>
+		<POS>PRP VBD JJ IN RB VBG RP DT NN IN NN IN DT NNP POS JJ NN , VB RB RB VB PRP .</POS>
+		<Lemma>it be incapable of even slow down the rate of discharge of the iPad 's internal battery , let alone actually recharge it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I did not try the TRANS4M under car battery power , but I would suspect the results would come in somewhere between the A\/C and AA battery options - i.e. inadequate .</Tokens>
+		<POS>PRP VBD RB VB DT NN IN NN NN NN , CC PRP MD VB DT NNS MD VB IN RB IN DT NN CC NN NN NNS : FW JJ .</POS>
+		<Lemma>I do not try the trans4m under car battery power , but I would suspect the result would come in somewhere between the a\/c and aa battery option - i.e. inadequate .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In summary , I would definitely NOT recommend purchasing this recharger for the iPad , though it could be used in a pinch under A\/C power .</Tokens>
+		<POS>IN NN , PRP MD RB RB VB VBG DT NN IN DT NNP , IN PRP MD VB VBN IN DT NN IN NN NN .</POS>
+		<Lemma>in summary , I would definitely not recommend purchase this recharger for the iPad , though it could be use in a pinch under a\/c power .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Instead I 'd recommend the ` inCase ' combination AC\/automobile charger available on Apple 's web store -LRB- under iPad accessories -RRB- .</Tokens>
+		<POS>RB PRP MD VB DT `` NN '' NN NN NN JJ IN NNP POS NN NN -LRB- IN NNP NNS -RRB- .</POS>
+		<Lemma>instead I would recommend the ` incase ' combination ac\/automobile charger available on Apple 's web store -lrb- under iPad accessory -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is significantly more expensive , but it works as advertised .</Tokens>
+		<POS>PRP VBZ RB RBR JJ , CC PRP VBZ IN VBN .</POS>
+		<Lemma>it be significantly more expensive , but it work as advertise .</Lemma>
+	</Sentence>
+</Document>

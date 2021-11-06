@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was n't too sure these would work , but I thought I 'd try them out .</Tokens>
+		<POS>PRP VBD RB RB JJ DT MD VB , CC PRP VBD PRP MD VB PRP RP .</POS>
+		<Lemma>I be not too sure these would work , but I think I would try they out .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My cell phone had very little service at my house and I decided it 'd be worth a shot .</Tokens>
+		<POS>PRP$ NN NN VBD RB JJ NN IN PRP$ NN CC PRP VBD PRP MD VB JJ DT NN .</POS>
+		<Lemma>my cell phone have very little service at my house and I decide it would be worth a shot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did as the directions said on the back , I took out my battery and placed one of the antenna boosters under it .</Tokens>
+		<POS>PRP VBD IN DT NNS VBD IN DT RB , PRP VBD RP PRP$ NN CC VBD CD IN DT NN NNS IN PRP .</POS>
+		<Lemma>I do as the direction say on the back , I take out my battery and place one of the antenna booster under it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I tried it out , and it did seem to work a little better .</Tokens>
+		<POS>PRP VBD PRP RP , CC PRP VBD VB TO VB DT JJ JJR .</POS>
+		<Lemma>I try it out , and it do seem to work a little better .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Than it suggested that if one did n't get the results I wanted to try two .</Tokens>
+		<POS>IN PRP VBD IN IN CD VBD RB VB DT NNS PRP VBD TO VB CD .</POS>
+		<Lemma>than it suggest that if one do not get the result I want to try two .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So , I did that and bam !</Tokens>
+		<POS>RB , PRP VBD DT CC NN .</POS>
+		<Lemma>so , I do that and bam !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 've got at least on more bar and sometimes two !</Tokens>
+		<POS>PRP VBP VBN IN JJS IN JJR NN CC RB CD .</POS>
+		<Lemma>I have get at least on more bar and sometimes two !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>My cousin who has the same cell phone service misses half her calls at my house , and even has to end up using my phone to call her husband because hers wont go through .</Tokens>
+		<POS>PRP$ NN WP VBZ DT JJ NN NN NN VBZ DT PRP$ NNS IN PRP$ NN , CC RB VBZ TO VB RP VBG PRP$ NN TO VB PRP$ NN IN NNS JJ VB IN .</POS>
+		<Lemma>my cousin who have the same cell phone service miss half she call at my house , and even have to end up use my phone to call she husband because hers wont go through .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There is even a few rooms in the house that I could n't get service at all and now has one bar to where I can text .</Tokens>
+		<POS>EX VBZ RB DT JJ NNS IN DT NN IN PRP MD RB VB NN IN DT CC RB VBZ CD NN TO WRB PRP MD NN .</POS>
+		<Lemma>there be even a few room in the house that I could not get service at all and now have one bar to where I can text .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So , yes these help your phone in a low service area , but as the back warns you if you are in a place that you ca n't get service in any spot , then it 's probably not going to help .</Tokens>
+		<POS>RB , UH DT NN PRP$ NN IN DT JJ NN NN , CC IN DT JJ VBZ PRP IN PRP VBP IN DT NN IN PRP MD RB VB NN IN DT NN , RB PRP VBZ RB RB VBG TO VB .</POS>
+		<Lemma>so , yes these help you phone in a low service area , but as the back warn you if you be in a place that you can not get service in any spot , then it be probably not go to help .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>So , if you are having trouble at your home with little service these will probably help you out .</Tokens>
+		<POS>RB , IN PRP VBP VBG NN IN PRP$ NN IN JJ NN DT MD RB VB PRP RP .</POS>
+		<Lemma>so , if you be have trouble at you home with little service these will probably help you out .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love that there is a 10 pack .</Tokens>
+		<POS>PRP VBP IN EX VBZ DT CD NN .</POS>
+		<Lemma>I love that there be a 10 pack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So I bought one .</Tokens>
+		<POS>IN PRP VBD CD .</POS>
+		<Lemma>so I buy one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I will purchase again and my next cell phone accessory purchase will be from this company .</Tokens>
+		<POS>PRP MD VB RB CC PRP$ JJ NN NN NN NN MD VB IN DT NN .</POS>
+		<Lemma>I will purchase again and my next cell phone accessory purchase will be from this company .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thank You .</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>thank you .</Lemma>
+	</Sentence>
+</Document>

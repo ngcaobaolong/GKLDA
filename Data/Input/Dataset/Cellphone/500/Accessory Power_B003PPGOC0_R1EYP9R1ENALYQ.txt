@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>`` I am so pleased with this device !!!</Tokens>
+		<POS>`` PRP VBP RB JJ IN DT NN IN</POS>
+		<Lemma>`` I be so pleased with this device !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Now I can listen to Pandora in my car and talk on the phone hands free through my speakers !</Tokens>
+		<POS>RB PRP MD VB TO NNP IN PRP$ NN CC NN IN DT NN NNS JJ IN PRP$ NNS .</POS>
+		<Lemma>now I can listen to Pandora in my car and talk on the phone hand free through my speaker !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great price and QUICK shipping !</Tokens>
+		<POS>JJ NN CC JJ NN .</POS>
+		<Lemma>great price and quick shipping !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Definitely recommend !</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>definitely recommend !</Lemma>
+	</Sentence>
+</Document>

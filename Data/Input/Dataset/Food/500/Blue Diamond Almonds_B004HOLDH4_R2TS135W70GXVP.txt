@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We like these almonds and were unable to get them at our local store anymore so found them on Amazon and ordered them .</Tokens>
+		<POS>PRP VBP DT NNS CC VBD JJ TO VB PRP IN PRP$ JJ NN RB RB VBD PRP IN NNP CC VBD PRP .</POS>
+		<Lemma>we like these almond and be unable to get they at we local store anymore so find they on Amazon and order they .</Lemma>
+	</Sentence>
+</Document>

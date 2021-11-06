@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor does n't have an HDMI output , and does n't say that it does .</Tokens>
+		<POS>DT NN VBZ RB VB DT NN NN , CC VBZ RB VB IN PRP VBZ .</POS>
+		<Lemma>this monitor do not have a hdmus output , and do not say that it do .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has DVI and VGA .</Tokens>
+		<POS>PRP VBZ NNP CC NNP .</POS>
+		<Lemma>it have DVI and VGA .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It comes with the necessary cables , and DVI should be good enough ; if you know you want HDMI , then this monitor is n't for you -- but do n't blame the manufacturer for misleading anybody .</Tokens>
+		<POS>PRP VBZ IN DT JJ NNS , CC NNP MD VB JJ RB : IN PRP VBP PRP VB NNP , RB DT NN VBZ RB IN PRP : CC VBP RB VB DT NN IN JJ NN .</POS>
+		<Lemma>it come with the necessary cable , and DVI should be good enough ; if you know you want HDMI , then this monitor be not for you -- but do not blame the manufacturer for misleading anybody .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The other drawback is that you ca n't adjust the height .</Tokens>
+		<POS>DT JJ NN VBZ IN PRP MD RB VB DT NN .</POS>
+		<Lemma>the other drawback be that you can not adjust the height .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can angle the monitor back a bit , but you ca n't spin it around and you ca n't raise or lower it .</Tokens>
+		<POS>PRP MD NN DT NN RB DT NN , CC PRP MD RB VB PRP IN CC PRP MD RB VB CC VB PRP .</POS>
+		<Lemma>you can angle the monitor back a bit , but you can not spin it around and you can not raise or lower it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Otherwise , it 's a great monitor for the price .</Tokens>
+		<POS>RB , PRP VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>otherwise , it be a great monitor for the price .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm satisfied .</Tokens>
+		<POS>PRP VBP JJ .</POS>
+		<Lemma>I be satisfied .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But it 's not a five-star product .</Tokens>
+		<POS>CC PRP VBZ RB DT JJ NN .</POS>
+		<Lemma>but it be not a five-star product .</Lemma>
+	</Sentence>
+</Document>

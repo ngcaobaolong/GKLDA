@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It may be whole grain and thus heart healthy but I did not like the taste at all .</Tokens>
+		<POS>PRP MD VB JJ NN CC RB NN JJ CC PRP VBD RB VB DT NN IN DT .</POS>
+		<Lemma>it may be whole grain and thus heart healthy but I do not like the taste at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I eat almost everything whole grain\/organic , so `` natural '' taste does suit me well but in this case the carraway seeds are overpowering .</Tokens>
+		<POS>PRP VBP RB NN JJ JJ , IN `` JJ '' NN VBZ VB PRP RB CC IN DT NN DT NN NNS VBP VBG .</POS>
+		<Lemma>I eat almost everything whole grain\/organic , so `` natural '' taste do suit I well but in this case the carraway seed be overpower .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I feel like I am eating a suet cake for birds .</Tokens>
+		<POS>PRP VBP IN PRP VBP VBG DT NN NN IN NNS .</POS>
+		<Lemma>I feel like I be eat a suet cake for bird .</Lemma>
+	</Sentence>
+</Document>

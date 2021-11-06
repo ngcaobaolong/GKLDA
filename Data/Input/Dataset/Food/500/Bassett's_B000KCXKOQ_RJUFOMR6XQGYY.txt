@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got 2 packs of these .</Tokens>
+		<POS>PRP VBD CD NNS IN DT .</POS>
+		<Lemma>I get 2 pack of these .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>One for a friend who is a huge fan of Dr. Who and one for me -LRB- out of curiosity -RRB- .</Tokens>
+		<POS>CD IN DT NN WP VBZ DT JJ NN IN NNP WP CC CD IN PRP -LRB- IN IN NN -RRB- .</POS>
+		<Lemma>one for a friend who be a huge fan of Dr. who and one for I -lrb- out of curiosity -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I liked them , they are cover in a powdered sugar and very flavorful .</Tokens>
+		<POS>PRP VBD PRP , PRP VBP VBG IN DT JJ NN CC RB JJ .</POS>
+		<Lemma>I like they , they be cover in a powdered sugar and very flavorful .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My wife however , hated them .</Tokens>
+		<POS>PRP$ NN RB , VBD PRP .</POS>
+		<Lemma>my wife however , hate they .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I suspect she was expecting more sugary sweet American type gummi type candy .</Tokens>
+		<POS>PRP VBP PRP VBD VBG JJR JJ JJ JJ NN NNS NN NN .</POS>
+		<Lemma>I suspect she be expect more sugary sweet american type gummus type candy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>These are more fruity , less sugary .</Tokens>
+		<POS>DT VBP RBR JJ , RBR JJ .</POS>
+		<Lemma>these be more fruity , less sugary .</Lemma>
+	</Sentence>
+</Document>

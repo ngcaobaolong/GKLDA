@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this camera for 6 months .</Tokens>
+		<POS>PRP VBP VBD DT NN IN CD NNS .</POS>
+		<Lemma>I have have this camera for 6 month .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I carry it in a pocket of my purse so I can take quality pictures anytime .</Tokens>
+		<POS>PRP VBP PRP IN DT NN IN PRP$ NN IN PRP MD VB NN NNS RB .</POS>
+		<Lemma>I carry it in a pocket of my purse so I can take quality picture anytime .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This past week we took it on vacation and my daughter fell into a stream while it was in her pocket so the camera was completely submerged -LRB- along with my daughter -RRB- .</Tokens>
+		<POS>DT JJ NN PRP VBD PRP IN NN CC PRP$ NN VBD IN DT NN IN PRP VBD IN PRP$ NN IN DT NN VBD RB VBN -LRB- IN IN PRP$ NN -RRB- .</POS>
+		<Lemma>this past week we take it on vacation and my daughter fall into a stream while it be in she pocket so the camera be completely submerge -lrb- along with my daughter -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It was dead and the SD card was empty .</Tokens>
+		<POS>PRP VBD JJ CC DT NN NN VBD JJ .</POS>
+		<Lemma>it be dead and the sd card be empty .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I pulled out the SD card and the battery and let it dry out .</Tokens>
+		<POS>PRP VBD RP DT NN NN CC DT NN CC VB PRP JJ RP .</POS>
+		<Lemma>I pull out the sd card and the battery and let it dry out .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>A few hours later , everything was as good as new !</Tokens>
+		<POS>DT JJ NNS RB , NN VBD RB JJ IN JJ .</POS>
+		<Lemma>a few hour later , everything be as good as new !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I was very impressed , I never expected a camera to survive a swim !</Tokens>
+		<POS>PRP VBD RB JJ , PRP RB VBD DT NN TO VB DT VBP .</POS>
+		<Lemma>I be very impressed , I never expect a camera to survive a swim !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The only drawback is that there are n't a lot of different options on the camera , the burst is pretty slow .</Tokens>
+		<POS>DT JJ NN VBZ IN EX VBP RB DT NN IN JJ NNS IN DT NN , DT NN VBZ RB JJ .</POS>
+		<Lemma>the only drawback be that there be not a lot of different option on the camera , the burst be pretty slow .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you do n't care much about the extra features , it 's a great camera !</Tokens>
+		<POS>IN PRP VBP RB VB JJ IN DT JJ NNS , PRP VBZ DT JJ NN .</POS>
+		<Lemma>if you do not care much about the extra feature , it be a great camera !</Lemma>
+	</Sentence>
+</Document>

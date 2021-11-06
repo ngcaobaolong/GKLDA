@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The unit arrived timely and was everything it was advertised to be .</Tokens>
+		<POS>DT NN VBD JJ CC VBD NN PRP VBD VBN TO VB .</POS>
+		<Lemma>the unit arrive timely and be everything it be advertise to be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Operation is simple and very intuitive .</Tokens>
+		<POS>NN VBZ JJ CC RB JJ .</POS>
+		<Lemma>operation be simple and very intuitive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My technophobe wife liked it so much I now have to buy her one .</Tokens>
+		<POS>PRP$ NN NN VBD PRP RB RB PRP RB VBP TO VB PRP$ CD .</POS>
+		<Lemma>my technophobe wife like it so much I now have to buy she one .</Lemma>
+	</Sentence>
+</Document>

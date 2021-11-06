@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A good price for what turns out to be a lot of great soup .</Tokens>
+		<POS>DT JJ NN IN WP VBZ RP TO VB DT NN IN JJ NN .</POS>
+		<Lemma>a good price for what turn out to be a lot of great soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use 1\/3 to 1\/2 of a pack , mixed with plenty of water and ample fresh vegetables to make great soup .</Tokens>
+		<POS>PRP VBP CD TO CD IN DT NN , VBN IN NN IN NN CC JJ JJ NNS TO VB JJ NN .</POS>
+		<Lemma>I use 1\/3 to 1\/2 of a pack , mix with plenty of water and ample fresh vegetable to make great soup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I guess I could just as easily add my own beans and pasta , but for whatever reason I find it much easier with this mix , and I make soup much more often than I would otherwise .</Tokens>
+		<POS>PRP VBP PRP MD RB RB RB VB PRP$ JJ NNS CC NN , CC IN WDT NN PRP VBP PRP RB RBR IN DT NN , CC PRP VBP NN RB RBR RB IN PRP MD RB .</POS>
+		<Lemma>I guess I could just as easily add my own bean and pasta , but for whatever reason I find it much easier with this mix , and I make soup much more often than I would otherwise .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My favorite : 1-2 sliced onions , potatoes , carrots , celery , curry powder , sausage -LRB- I use veggie -RRB- , salt + pepper to taste .</Tokens>
+		<POS>PRP$ JJ : CD JJ NNS , NNS , NNS , NN , VB NN , NN -LRB- PRP VBP NN -RRB- , NN CC NN TO NN .</POS>
+		<Lemma>my favorite : 1-2 sliced onion , potato , carrot , celery , curry powder , sausage -lrb- I use veggie -rrb- , salt + pepper to taste .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Super easy and delicious .</Tokens>
+		<POS>NNP JJ CC JJ .</POS>
+		<Lemma>Super easy and delicious .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Watch out for small rocks though -- my wife has had a few close calls biting into hard objects from the soup mix .</Tokens>
+		<POS>NNP RP IN JJ NNS RB : PRP$ NN VBZ VBN DT JJ JJ NNS VBG IN JJ NNS IN DT NN NN .</POS>
+		<Lemma>Watch out for small rock though -- my wife have have a few close call bite into hard object from the soup mix .</Lemma>
+	</Sentence>
+</Document>

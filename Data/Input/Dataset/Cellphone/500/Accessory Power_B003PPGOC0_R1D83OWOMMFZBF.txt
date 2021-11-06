@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Tried the Go groove FlexSmart as a way to transmit my music from a Samsung epic 4g to 07 Camry .</Tokens>
+		<POS>VBD DT NNP NN NNP IN DT NN TO VB PRP$ NN IN DT NNP NN NN TO CD NNP .</POS>
+		<Lemma>try the Go groove FlexSmart as a way to transmit my music from a Samsung epic 4g to 07 Camry .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The good part was easy to use and pair .</Tokens>
+		<POS>DT JJ NN VBD JJ TO VB CC VB .</POS>
+		<Lemma>the good part be easy to use and pair .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>To Pair it you just hold the talk button down for 2 seconds and then when it blinks you set your bluetooth device to connect and pair .</Tokens>
+		<POS>TO VB PRP PRP RB VBP DT NN NN IN IN CD NNS CC RB WRB PRP VBZ PRP VB PRP$ NN NN TO VB CC VB .</POS>
+		<Lemma>to pair it you just hold the talk button down for 2 seconds and then when it blink you set you bluetooth device to connect and pair .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Go groove FlexSmart did auto connect to my phone which was great .</Tokens>
+		<POS>VB NN NN VBD NN VB TO PRP$ NN WDT VBD JJ .</POS>
+		<Lemma>go groove flexsmart do auto connect to my phone which be great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The controls on the Go groove FlexSmart were easy to use and felt nice to the touch .</Tokens>
+		<POS>DT NNS IN DT NNP NN NNP VBD JJ TO VB CC VBD JJ TO DT NN .</POS>
+		<Lemma>the control on the Go groove FlexSmart be easy to use and feel nice to the touch .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>As for finding a station to set it to that might be the problem -LRB- for me -RRB- .</Tokens>
+		<POS>IN IN VBG DT NN TO VB PRP TO DT MD VB DT NN -LRB- IN PRP -RRB- .</POS>
+		<Lemma>as for find a station to set it to that might be the problem -lrb- for I -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Go groove FlexSmart was set to -LRB- 88.5 fm -RRB- out of the box which is a good choice but when I used it the sound had static and was not as clear or deep as I would like it -LRB- I know its not going to be great sounding but I expected more -RRB- .</Tokens>
+		<POS>VB NN NN VBD VBN TO -LRB- CD NN -RRB- IN IN DT NN WDT VBZ DT JJ NN CC WRB PRP VBD PRP DT NN VBD JJ CC VBD RB IN JJ CC JJ IN PRP MD VB PRP -LRB- PRP VBP PRP$ RB VBG TO VB JJ VBG CC PRP VBD RBR -RRB- .</POS>
+		<Lemma>go groove flexsmart be set to -lrb- 88.5 fm -rrb- out of the box which be a good choice but when I use it the sound have static and be not as clear or deep as I would like it -lrb- I know its not go to be great sound but I expect more -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So after using it in several areas of my car with no change in transmitter reception I tried the Go groove FlexSmart auxilery out put -LRB- 3.5 mm jack -RRB- and it was worse picked up all the engine noise .</Tokens>
+		<POS>RB IN VBG PRP IN JJ NNS IN PRP$ NN IN DT NN IN NN NN PRP VBD DT NNP NN NN NN IN NN -LRB- CD NN NN -RRB- CC PRP VBD JJR VBD RP PDT DT NN NN .</POS>
+		<Lemma>so after use it in several area of my car with no change in transmitter reception I try the Go groove flexsmart auxilery out put -lrb- 3.5 mm jack -rrb- and it be worse pick up all the engine noise .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I could of lived with it and tried to modify it , but the last draw was when I used it to make calls , to much road noise and clarity was worse .</Tokens>
+		<POS>PRP MD IN VBN IN PRP CC VBD TO VB PRP , CC DT JJ NN VBD WRB PRP VBD PRP TO VB NNS , TO JJ NN NN CC NN VBD JJR .</POS>
+		<Lemma>I could of live with it and try to modify it , but the last draw be when I use it to make call , to much road noise and clarity be worse .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Oh well ... Returning to Amazon .</Tokens>
+		<POS>UH RB : VBG TO NNP .</POS>
+		<Lemma>oh well ... return to Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Might work for others but not me .</Tokens>
+		<POS>NN NN IN NNS CC RB PRP .</POS>
+		<Lemma>might work for other but not I .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>2 stars for the easy set up and control .</Tokens>
+		<POS>CD NNS IN DT JJ VBN RP CC NN .</POS>
+		<Lemma>2 star for the easy set up and control .</Lemma>
+	</Sentence>
+</Document>

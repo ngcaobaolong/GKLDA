@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The popcorn is low in calories -LRB- 100 -RRB- and a delicious snack .</Tokens>
+		<POS>DT NN VBZ JJ IN NNS -LRB- CD -RRB- CC DT JJ NN .</POS>
+		<Lemma>the popcorn be low in calorie -lrb- 100 -rrb- and a delicious snack .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The aroma alone is worth the price .</Tokens>
+		<POS>DT NN RB VBZ JJ DT NN .</POS>
+		<Lemma>the aroma alone be worth the price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I pop a bag every morning and take it to work for a snack at mid-day .</Tokens>
+		<POS>PRP VBP DT NN DT NN CC VB PRP TO VB IN DT NN IN NN .</POS>
+		<Lemma>I pop a bag every morning and take it to work for a snack at mid-day .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Buying in bulk from Amazon is great -- the packages arrive quickly and I do n't have to think about it for quite a while , until the supply runs low .</Tokens>
+		<POS>VBG IN NN IN NNP VBZ JJ : DT NNS VBP RB CC PRP VBP RB VB TO VB IN PRP IN RB DT NN , IN DT NN VBZ JJ .</POS>
+		<Lemma>buy in bulk from Amazon be great -- the package arrive quickly and I do not have to think about it for quite a while , until the supply run low .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Then I just order again .</Tokens>
+		<POS>RB PRP RB NN RB .</POS>
+		<Lemma>then I just order again .</Lemma>
+	</Sentence>
+</Document>

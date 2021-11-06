@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a useful purchase that provides a lot of convenience .</Tokens>
+		<POS>DT VBD DT JJ NN WDT VBZ DT NN IN NN .</POS>
+		<Lemma>this be a useful purchase that provide a lot of convenience .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , it did not charge IPhone .</Tokens>
+		<POS>RB , PRP VBD RB VB NNP .</POS>
+		<Lemma>however , it do not charge IPhone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I appreciate that I was repeatedly called -LRB- emailed -RRB- to write a review , which means there was a keen interest to improve the product .</Tokens>
+		<POS>PRP VBP IN PRP VBD RB VBN -LRB- VBN -RRB- TO VB DT NN , WDT VBZ EX VBD DT JJ NN TO VB DT NN .</POS>
+		<Lemma>I appreciate that I be repeatedly call -lrb- email -rrb- to write a review , which mean there be a keen interest to improve the product .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In any case it was worth it for the price .</Tokens>
+		<POS>IN DT NN PRP VBD JJ PRP IN DT NN .</POS>
+		<Lemma>in any case it be worth it for the price .</Lemma>
+	</Sentence>
+</Document>

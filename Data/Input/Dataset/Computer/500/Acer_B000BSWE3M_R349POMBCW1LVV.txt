@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this -LRB- ... -RRB- and I must say the monitor is excellent .</Tokens>
+		<POS>PRP VBD DT -LRB- : -RRB- CC PRP MD VB DT NN VBZ JJ .</POS>
+		<Lemma>I buy this -lrb- ... -rrb- and I must say the monitor be excellent .</Lemma>
+	</Sentence>
+</Document>

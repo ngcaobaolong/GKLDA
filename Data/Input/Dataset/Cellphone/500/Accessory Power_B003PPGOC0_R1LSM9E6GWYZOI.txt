@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really wanted to like the GoGroove Flex X2 as I had been wanted to get a bluetooth FM transmitter .</Tokens>
+		<POS>PRP RB VBD TO VB DT NNP NNP NN IN PRP VBD VBN VBN TO VB DT NN NN NN .</POS>
+		<Lemma>I really want to like the GoGroove Flex x2 as I have be want to get a bluetooth fm transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I really liked that I did n't have to worry about battery life and that I could listen to my music through the radio .</Tokens>
+		<POS>PRP RB VBD IN PRP VBD RB VB TO VB IN NN NN CC IN PRP MD VB TO PRP$ NN IN DT NN .</POS>
+		<Lemma>I really like that I do not have to worry about battery life and that I could listen to my music through the radio .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , there were a few things that made this a return for me .</Tokens>
+		<POS>RB , EX VBD DT JJ NNS WDT VBD DT DT NN IN PRP .</POS>
+		<Lemma>however , there be a few thing that make this a return for I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The device could not handle the system prompts on my iPhone .</Tokens>
+		<POS>DT NN MD RB VB DT NN VBZ IN PRP$ NNP .</POS>
+		<Lemma>the device could not handle the system prompt on my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I could n't hear when the bluetooth was ready for my voice input .</Tokens>
+		<POS>PRP MD RB VB WRB DT NN VBD JJ IN PRP$ NN NN .</POS>
+		<Lemma>I could not hear when the bluetooth be ready for my voice input .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>When I made a call , I get an auditory confirmation of the person I 'm calling .</Tokens>
+		<POS>WRB PRP VBD DT NN , PRP VBP DT JJ NN IN DT NN PRP VBP VBG .</POS>
+		<Lemma>when I make a call , I get a auditory confirmation of the person I be call .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>However , since I ca n't really hear the system prompts , I do n't know if the voice recognition had recognized the correct contact .</Tokens>
+		<POS>RB , IN PRP MD RB RB VB DT NN VBZ , PRP VBP RB VB IN DT NN NN VBD VBN DT JJ NN .</POS>
+		<Lemma>however , since I can not really hear the system prompt , I do not know if the voice recognition have recognize the correct contact .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have a Motorola T215 and it is able to handle the system prompts without a problem .</Tokens>
+		<POS>PRP VBP DT NNP NN CC PRP VBZ JJ TO VB DT NN VBZ IN DT NN .</POS>
+		<Lemma>I have a Motorola t215 and it be able to handle the system prompt without a problem .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I called Accessory Power customer support -LRB- who had very courteous rep -RRB- and was told this issue with the system prompt is not a defect , but is the way the unit functions .</Tokens>
+		<POS>PRP VBD NNP NNP NN NN -LRB- WP VBD RB JJ NN -RRB- CC VBD VBN DT NN IN DT NN JJ VBZ RB DT NN , CC VBZ DT NN DT NN VBZ .</POS>
+		<Lemma>I call Accessory Power customer support -lrb- who have very courteous rep -rrb- and be tell this issue with the system prompt be not a defect , but be the way the unit function .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Additionally , one needs to hold the call button for 3 seconds prior to making a call .</Tokens>
+		<POS>RB , CD VBZ TO VB DT NN NN IN CD NNS RB TO VBG DT NN .</POS>
+		<Lemma>additionally , one need to hold the call button for 3 seconds prior to make a call .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>While 3 seconds is n't long , it is a bit strange to hold onto a button that long -LRB- as opposed to just simply pressing a button like with my T215 -RRB- while driving to make a call .</Tokens>
+		<POS>IN CD NNS VBZ RB RB , PRP VBZ DT NN JJ TO VB IN DT NN WDT RB -LRB- IN VBN TO RB RB VBG DT NN IN IN PRP$ NN -RRB- IN VBG TO VB DT NN .</POS>
+		<Lemma>while 3 seconds be not long , it be a bit strange to hold onto a button that long -lrb- as oppose to just simply press a button like with my t215 -rrb- while drive to make a call .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The audio streaming for music -LRB- and even video -RRB- files is decent .</Tokens>
+		<POS>DT JJ NN IN NN -LRB- CC RB NN -RRB- NNS VBZ JJ .</POS>
+		<Lemma>the audio streaming for music -lrb- and even video -rrb- file be decent .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The volume is less than it would be for a radio station so one needs to turn up the volume on the radio despite having the Flex X2 at its highest volume setting .</Tokens>
+		<POS>DT NN VBZ JJR IN PRP MD VB IN DT NN NN RB CD VBZ TO VB RP DT NN IN DT NN IN VBG DT NNP NN IN PRP$ JJS NN NN .</POS>
+		<Lemma>the volume be less than it would be for a radio station so one need to turn up the volume on the radio despite have the Flex x2 at its highest volume setting .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>For myself -LRB- which I appear to be in the minority -RRB- , the GoGroove is n't the bluetooth \/ FM transmitter device I can use due to its limitation on the calling experience .</Tokens>
+		<POS>IN PRP -LRB- WDT PRP VBP TO VB IN DT NN -RRB- , DT NNP VBZ RB DT NN : NNP NN NN PRP MD VB JJ TO PRP$ NN IN DT VBG NN .</POS>
+		<Lemma>for myself -lrb- which I appear to be in the minority -rrb- , the GoGroove be not the bluetooth \/ FM transmitter device I can use due to its limitation on the call experience .</Lemma>
+	</Sentence>
+</Document>

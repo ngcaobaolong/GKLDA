@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works well with a phone and also with the fm tuner .</Tokens>
+		<POS>NNP RB IN DT NN CC RB IN DT NN NN .</POS>
+		<Lemma>Works well with a phone and also with the fm tuner .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to pair with a phone and nice easy controls .</Tokens>
+		<POS>NNP TO VB IN DT NN CC JJ JJ NNS .</POS>
+		<Lemma>Easy to pair with a phone and nice easy control .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Cancels out a radio station to give quality sound .</Tokens>
+		<POS>VBZ RP DT NN NN TO VB NN NN .</POS>
+		<Lemma>cancel out a radio station to give quality sound .</Lemma>
+	</Sentence>
+</Document>

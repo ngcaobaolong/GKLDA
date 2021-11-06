@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is delicious !</Tokens>
+		<POS>DT VBZ JJ .</POS>
+		<Lemma>this be delicious !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As it would be served in India ... without the heavy cream .</Tokens>
+		<POS>IN PRP MD VB VBN IN NNP : IN DT JJ NN .</POS>
+		<Lemma>as it would be serve in India ... without the heavy cream .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The paneer is nice and moist as well .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ RB RB .</POS>
+		<Lemma>the paneer be nice and moist as well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am impressed !</Tokens>
+		<POS>PRP VBP JJ .</POS>
+		<Lemma>I be impressed !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am in the process of boxing up this camera to return to Best Buy today -LRB- darn restocking fee !! -RRB-</Tokens>
+		<POS>PRP VBP IN DT NN IN NN IN DT NN TO VB TO JJS JJ NN -LRB- JJ VBG NN NN -RRB-</POS>
+		<Lemma>I be in the process of boxing up this camera to return to best buy today -lrb- darn restock fee !! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have had it a little over a week and have decided it is not for me .</Tokens>
+		<POS>PRP VBP VBD PRP DT JJ IN DT NN CC VBP VBN PRP VBZ RB IN PRP .</POS>
+		<Lemma>I have have it a little over a week and have decide it be not for I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am an amateur but I know what I like : a good , clear , and bright picture .</Tokens>
+		<POS>PRP VBP DT JJ CC PRP VBP WP PRP VBP : DT JJ , JJ , CC JJ NN .</POS>
+		<Lemma>I be a amateur but I know what I like : a good , clear , and bright picture .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When I go on trips -LRB- Arizona especially -RRB- I like to have the ease of a good AUTO mode .</Tokens>
+		<POS>WRB PRP VBP IN NNS -LRB- NNP RB -RRB- PRP VBP TO VB DT NN IN DT JJ NNP NN .</POS>
+		<Lemma>when I go on trip -lrb- Arizona especially -rrb- I like to have the ease of a good AUTO mode .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This Canon 's AUTO mode stinks .</Tokens>
+		<POS>DT NNP POS NNP NN VBZ .</POS>
+		<Lemma>this Canon 's AUTO mode stink .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I normally use my aunt 's old Kodak 8mp camera in AUTO to take gorgeous , clear , and true to color pictures when I trek to Arizona .</Tokens>
+		<POS>PRP RB VB PRP$ NN POS JJ NNP JJ NN IN NNP TO VB JJ , JJ , CC JJ TO NN NNS WRB PRP VBP TO NNP .</POS>
+		<Lemma>I normally use my aunt 's old Kodak 8mp camera in AUTO to take gorgeous , clear , and true to color picture when I trek to Arizona .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I wanted to find my own camera instead of having to borrow one .</Tokens>
+		<POS>PRP VBD TO VB PRP$ JJ NN RB IN VBG TO VB CD .</POS>
+		<Lemma>I want to find my own camera instead of have to borrow one .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The shots of corn fields , grass and landscape are dull both in AUTO and Landscape on the Canon .</Tokens>
+		<POS>DT NNS IN NN NNS , NN CC NN VBP JJ CC IN NNP CC NNP IN DT NNP .</POS>
+		<Lemma>the shot of corn field , grass and landscape be dull both in AUTO and Landscape on the Canon .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The greenery is rather lackluster .</Tokens>
+		<POS>DT NN VBZ RB JJ .</POS>
+		<Lemma>the greenery be rather lackluster .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would be seriously ticked if I had used this camera to take pictures of those amazing Red Rocks in Arizona !</Tokens>
+		<POS>PRP MD VB RB VBN IN PRP VBD VBN DT NN TO VB NNS IN DT JJ NNP NNPS IN NNP .</POS>
+		<Lemma>I would be seriously tick if I have use this camera to take picture of those amazing Red Rocks in Arizona !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It was nice to be able to use the zoom to snap a photo of the full moon but that is not enough for me to keep it .</Tokens>
+		<POS>PRP VBD JJ TO VB JJ TO VB DT NN TO VB DT NN IN DT JJ NN CC DT VBZ RB RB IN PRP TO VB PRP .</POS>
+		<Lemma>it be nice to be able to use the zoom to snap a photo of the full moon but that be not enough for I to keep it .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I have messed with the settings enough to know that over all , this camera could be so much better .</Tokens>
+		<POS>PRP VBP VBN IN DT NNS RB TO VB DT IN DT , DT NN MD VB RB RB JJR .</POS>
+		<Lemma>I have mess with the setting enough to know that over all , this camera could be so much better .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I did like that I could manipulate my own settings in C1 and C2 and the reversing LCD monitor is cool .</Tokens>
+		<POS>PRP VBD IN IN PRP MD VB PRP$ JJ NNS IN NN CC NN CC DT VBG NNS NN VBZ JJ .</POS>
+		<Lemma>I do like that I could manipulate my own setting in c1 and c2 and the reverse lcd monitor be cool .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>While I am not ready for a DSLR , I will now be deciding whether I want a Nikon Coolpix P500 or Sony DSC-HX100 .</Tokens>
+		<POS>IN PRP VBP RB JJ IN DT NN , PRP MD RB VB VBG IN PRP VBP DT NNP NNP CD CC NNP NN .</POS>
+		<Lemma>while I be not ready for a dslr , I will now be decide whether I want a Nikon Coolpix p500 or Sony dsc-hx100 .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>From what I have researched the Sony takes great AUTO pics and better pictures overall .</Tokens>
+		<POS>IN WP PRP VBP VBN DT NNP VBZ JJ NNP NNS CC JJR NNS RB .</POS>
+		<Lemma>from what I have research the Sony take great AUTO pic and better picture overall .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>We 'll see .</Tokens>
+		<POS>PRP MD VB .</POS>
+		<Lemma>we 'll see .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera has some good features but there are limitations and compromises that buyers should weigh carefully .</Tokens>
+		<POS>DT NN VBZ DT JJ NNS CC EX VBP NNS CC NNS IN NNS MD VB RB .</POS>
+		<Lemma>this camera have some good feature but there be limitation and compromise that buyer should weigh carefully .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The best : high quality lens , 30x zoom actually works , readable lcd screen , competent menu system , very good quality video , broad array of features .</Tokens>
+		<POS>DT JJS : JJ NN NN , CD NN RB VBZ , JJ NN NN , JJ NN NN , RB JJ NN NN , JJ NN IN NNS .</POS>
+		<Lemma>the best : high quality lens , 30x zoom actually work , readable lcd screen , competent menu system , very good quality video , broad array of feature .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The problems : written documentation is really terrible , the software does not work on mac , no raw option , electronic range finder is mediocre , must buy separate battery charger or be stuck with the in camera charge system , menu is not intuitive , on camera documentation is only fair .</Tokens>
+		<POS>DT NNS : VBN NN VBZ RB JJ , DT NN VBZ RB VB IN NN , DT JJ NN , JJ NN NN VBZ JJ , MD VB JJ NN NN CC VB VBN IN DT IN NN NN NN , NN VBZ RB JJ , IN NN NN VBZ RB JJ .</POS>
+		<Lemma>the problem : write documentation be really terrible , the software do not work on mac , no raw option , electronic range finder be mediocre , must buy separate battery charger or be stick with the in camera charge system , menu be not intuitive , on camera documentation be only fair .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Like all compact or `` bridge '' digital cameras , the smaller sensor limits image size and quality , though the jpegs on the HX100 are adequate .</Tokens>
+		<POS>IN DT JJ CC `` NN '' JJ NNS , DT JJR NN NNS NN NN CC NN , IN DT NNS IN DT NN VBP JJ .</POS>
+		<Lemma>like all compact or `` bridge '' digital camera , the smaller sensor limit image size and quality , though the jpeg on the hx100 be adequate .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Did I mention that the documentation is bad ?</Tokens>
+		<POS>VBD PRP VB IN DT NN VBZ JJ .</POS>
+		<Lemma>do I mention that the documentation be bad ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Unless you -LRB- a -RRB- already know quite a bit about digital photography or -LRB- b -RRB- love to dive into a trial and error learning curve , you are going to be frustrated .</Tokens>
+		<POS>IN PRP -LRB- DT -RRB- RB VB RB DT NN IN JJ NN CC -LRB- LS -RRB- NN TO NN IN DT NN CC NN NN NN , PRP VBP VBG TO VB VBN .</POS>
+		<Lemma>unless you -lrb- a -rrb- already know quite a bit about digital photography or -lrb- b -rrb- love to dive into a trial and error learning curve , you be go to be frustrate .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There is a pipsqueak printed manual in the box , but it 's a trial even to download the more detailed manual from the CD .</Tokens>
+		<POS>EX VBZ DT NN VBD NN IN DT NN , CC PRP VBZ DT NN RB TO VB DT JJR JJ NN IN DT NNP .</POS>
+		<Lemma>there be a pipsqueak print manual in the box , but it be a trial even to download the more detailed manual from the CD .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There 's nothing automatic or intuitive about the download .</Tokens>
+		<POS>EX VBZ NN JJ CC JJ IN DT NN .</POS>
+		<Lemma>there be nothing automatic or intuitive about the download .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I am pretty comfortable with computers and I nearly gave up .</Tokens>
+		<POS>PRP VBP RB JJ IN NNS CC PRP RB VBD RP .</POS>
+		<Lemma>I be pretty comfortable with computer and I nearly give up .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Then , if you figure out how to open the manual and use it , you find it 's no more than a C + .</Tokens>
+		<POS>RB , IN PRP VBP RP WRB TO VB DT NN CC VB PRP , PRP VBP PRP VBZ DT JJR IN DT NN CC .</POS>
+		<Lemma>then , if you figure out how to open the manual and use it , you find it be no more than a c + .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Bottom line : Unless you have prior technical knowledge and are willing to roll up your sleeves to tackle the poorly documented -LRB- but otherwise adequate -RRB- menus , you will end up using `` Easy Mode '' all the time and missing out on the best features .</Tokens>
+		<POS>NN NN : IN PRP VBP RB JJ NN CC VBP JJ TO VB RP PRP$ NNS TO VB DT RB VBN -LRB- CC RB JJ -RRB- NNS , PRP MD VB RP VBG `` NNP NNP '' PDT DT NN CC VBG RP IN DT JJS NNS .</POS>
+		<Lemma>bottom line : unless you have prior technical knowledge and be willing to roll up you sleeve to tackle the poorly document -lrb- but otherwise adequate -rrb- menu , you will end up use `` Easy Mode '' all the time and miss out on the best feature .</Lemma>
+	</Sentence>
+</Document>

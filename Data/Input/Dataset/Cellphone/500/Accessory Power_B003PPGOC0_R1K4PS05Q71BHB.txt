@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this for an iPod to car stereo connection after reading a bunch of reviews on FM transmitters that had `` okay '' sound quality through the speakers .</Tokens>
+		<POS>PRP VBD DT IN DT NN TO NN NN NN IN VBG DT NN IN NNS IN NNP NNS WDT VBD `` JJ '' JJ NN IN DT NNS .</POS>
+		<Lemma>I buy this for a ipod to car stereo connection after read a bunch of review on FM transmitter that have `` okay '' sound quality through the speaker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What really drew me to this product was the true wireless capability , the style , functionality , and as I now know , the SUPERB audio quality .</Tokens>
+		<POS>WDT RB VBD PRP TO DT NN VBD DT JJ JJ NN , DT NN , NN , CC IN PRP RB VBP , DT JJ JJ NN .</POS>
+		<Lemma>what really draw I to this product be the true wireless capability , the style , functionality , and as I now know , the superb audio quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use the Bluetooth function on my iPod Touch 4G and it syncs beautifully and the quality is amazing !</Tokens>
+		<POS>PRP VBP DT NN NN IN PRP$ NN NN NN CC PRP VBZ RB CC DT NN VBZ JJ .</POS>
+		<Lemma>I use the bluetooth function on my ipod touch 4g and it sync beautifully and the quality be amazing !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have recommended this to many of my friends already and recommend it to everyone thinking about what FM transmitter to get .</Tokens>
+		<POS>PRP VBP VBN DT TO JJ IN PRP$ NNS RB CC VB PRP TO NN NN IN WP NNP NN TO VB .</POS>
+		<Lemma>I have recommend this to many of my friend already and recommend it to everyone thinking about what FM transmitter to get .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If your device is Bluetooth enabled , this is a very worthwhile investment !</Tokens>
+		<POS>IN PRP$ NN VBZ NNP VBD , DT VBZ DT RB JJ NN .</POS>
+		<Lemma>if you device be Bluetooth enable , this be a very worthwhile investment !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thanks !</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>thanks !</Lemma>
+	</Sentence>
+</Document>

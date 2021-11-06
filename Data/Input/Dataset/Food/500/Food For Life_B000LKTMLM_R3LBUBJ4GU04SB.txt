@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this cereal .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this cereal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But be careful as some of the wheat berries are extremely hard and could hurt your teeth .</Tokens>
+		<POS>CC VB JJ IN DT IN DT NN NNS VBP RB JJ CC MD VB PRP$ NNS .</POS>
+		<Lemma>but be careful as some of the wheat berry be extremely hard and could hurt you tooth .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I usually allow the cereal to sit in the milk for a few minutes before digging in .</Tokens>
+		<POS>PRP RB VBP DT NN TO VB IN DT NN IN DT JJ NNS IN NN IN .</POS>
+		<Lemma>I usually allow the cereal to sit in the milk for a few minute before digging in .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great with Almond milk .</Tokens>
+		<POS>JJ IN NNP NN .</POS>
+		<Lemma>great with Almond milk .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Love the taste and it 's very filling .</Tokens>
+		<POS>NN DT NN CC PRP VBZ RB VBG .</POS>
+		<Lemma>love the taste and it be very fill .</Lemma>
+	</Sentence>
+</Document>

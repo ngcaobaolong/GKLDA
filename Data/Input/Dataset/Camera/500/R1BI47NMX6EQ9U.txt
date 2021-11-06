@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Not sure what could be wrong with this Video Camera , it is very simple .</Tokens>
+		<POS>RB JJ WP MD VB JJ IN DT NNP NNP , PRP VBZ RB JJ .</POS>
+		<Lemma>not sure what could be wrong with this Video Camera , it be very simple .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My 1 year old has already made a video !</Tokens>
+		<POS>PRP$ CD NN JJ VBZ RB VBN DT NN .</POS>
+		<Lemma>my 1 year old have already make a video !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Love it .</Tokens>
+		<POS>NN PRP .</POS>
+		<Lemma>love it .</Lemma>
+	</Sentence>
+</Document>

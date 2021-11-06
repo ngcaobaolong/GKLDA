@@ -1,0 +1,817 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>AMAZON HAS ASSIGNED A DATE IN AUGUST .</Tokens>
+		<POS>NNP VBZ VBN DT NN IN NNP .</POS>
+		<Lemma>AMAZON have assign a date in AUGUST .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>THE FOLLOWING WAS WRITTEN IN FEBRUARY 2012 Update with info on RW2 -LRB- Panasonic RAW -RRB- -- 2\/18\/12 In case anyone else is having problems working with RW2 , I offer these findings .</Tokens>
+		<POS>DT VBG NNS NNP IN NNP CD NNP IN NN IN NN -LRB- NNP NN -RRB- : CD IN NN NN RB VBZ VBG NNS VBG IN NN , PRP VBP DT NNS .</POS>
+		<Lemma>the follow wa WRITTEN in FEBRUARY 2012 Update with info on rw2 -lrb- Panasonic raw -rrb- -- 2\/18\/12 in case anyone else be have problem work with rw2 , I offer these finding .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My main purpose with all of the viewing progrrams is -LRB- 1 -RRB- to be able to see what the images are , delete the bad ones , and -LRB- 2 -RRB- get the good ones into JPEG to archive , or into TIFF or PNG for PP with PhotoShop CS4 or PSE .</Tokens>
+		<POS>PRP$ JJ NN IN DT IN DT VBG NNS VBZ -LRB- LS -RRB- TO VB JJ TO VB WP DT NNS VBP , VBP DT JJ NNS , CC -LRB- LS -RRB- VB DT JJ NNS IN NN TO NN , CC IN NN CC NN IN NN IN NNP NNP CC NNP .</POS>
+		<Lemma>my main purpose with all of the view progrram be -lrb- 1 -rrb- to be able to see what the image be , delete the bad one , and -lrb- 2 -rrb- get the good one into jpeg to archive , or into tiff or png for pp with PhotoShop CS4 or PSE .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>-- Xnview : did n't measure up .</Tokens>
+		<POS>: NN : VBD RB VB RP .</POS>
+		<Lemma>-- xnview : do not measure up .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Color of larger thumbnail\/preview at bottom is washed out , almost gray .</Tokens>
+		<POS>NN IN JJR NN IN NN VBZ VBN RP , RB JJ .</POS>
+		<Lemma>color of larger thumbnail\/preview at bottom be wash out , almost gray .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Open the file : a dialog box says : `` This picture will be converted to RGB with 8bits per component . ''</Tokens>
+		<POS>VB DT NN : DT NN NN VBZ : `` DT NN MD VB VBN TO NN IN NNS IN NN . ''</POS>
+		<Lemma>open the file : a dialog box say : `` this picture will be convert to rgb with 8bit per component . ''</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Click OK .</Tokens>
+		<POS>VB UH .</POS>
+		<Lemma>click ok .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Open image .</Tokens>
+		<POS>VB NN .</POS>
+		<Lemma>open image .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Image is washed out , dimensions are shown as 4016x3016x24 , 14.33 MB .</Tokens>
+		<POS>NN VBZ VBN RP , NNS VBP VBN IN NN , CD NN .</POS>
+		<Lemma>image be wash out , dimension be show as 4016x3016x24 , 14.33 mb .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Save as RAW : icon shows Adobe RAW , but if I open it in CS4 or PSE6 the result is abstract gray smears .</Tokens>
+		<POS>VB IN NN : NN VBZ NNP NN , CC IN PRP VBP PRP IN NN CC NN DT NN VBZ JJ JJ NNS .</POS>
+		<Lemma>save as raw : icon show Adobe raw , but if I open it in cs4 or pse6 the result be abstract gray smear .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Forget this route .</Tokens>
+		<POS>VB DT NN .</POS>
+		<Lemma>forget this route .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Save as JPEG : Image is washed out , dimensions are 4016x3016 , 969KB !</Tokens>
+		<POS>VB IN NNP : NN VBZ VBN RP , NNS VBP CD , NN .</POS>
+		<Lemma>save as JPEG : image be wash out , dimension be 4016x3016 , 969kb !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>-- FastStone : love it for other file types , but not RW2 .</Tokens>
+		<POS>: NN : VB PRP IN JJ NN NNS , CC RB NN .</POS>
+		<Lemma>-- faststone : love it for other file type , but not rw2 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Full-sized RW2 images are beyond washed-out ; they have a serious color cast that is very difficult to correct .</Tokens>
+		<POS>JJ NN NNS VBP IN NN : PRP VBP DT JJ NN VBD DT VBZ RB JJ TO VB .</POS>
+		<Lemma>full-sized rw2 image be beyond washed-out ; they have a serious color cast that be very difficult to correct .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>There also appears to be detail degradation .</Tokens>
+		<POS>EX RB VBZ TO VB NN NN .</POS>
+		<Lemma>there also appear to be detail degradation .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>-- Irfanview : with extreme highlights , requires a very dark setting .</Tokens>
+		<POS>: NNP : IN JJ VBZ , VBZ DT RB JJ NN .</POS>
+		<Lemma>-- Irfanview : with extreme highlight , require a very dark setting .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>In an image containing breaking waves in sunlight the brightest parts of the foam are totally blown out .</Tokens>
+		<POS>IN DT NN VBG VBG NNS IN NN DT JJS NNS IN DT NN VBP RB VBN RP .</POS>
+		<Lemma>in a image contain break wave in sunlight the brightest part of the foam be totally blow out .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>-LRB- This does not occur with FastStone in spite of the other issue . -RRB-</Tokens>
+		<POS>-LRB- DT VBZ RB VB IN NN IN NN IN DT JJ NN . -RRB-</POS>
+		<Lemma>-lrb- this do not occur with faststone in spite of the other issue . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>One fix : Options -RRB- Properties\/Settings ... check only `` camera whilte balance ; '' set Brightness to 0.5 -LRB- default is 1.0 -RRB- .</Tokens>
+		<POS>CD NN : NNS -RRB- NNS : NN RB `` NN NN NN : '' VBN NN TO CD -LRB- NN VBZ CD -RRB- .</POS>
+		<Lemma>one fix : option -rrb- properties\/settings ... check only `` camera whilte balance ; '' set brightness to 0.5 -lrb- default be 1.0 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>This eliminated blown highlights and did n't appear to degrade color .</Tokens>
+		<POS>DT VBN VBN VBZ CC VBD RB VB TO VB NN .</POS>
+		<Lemma>this eliminate blow highlight and do not appear to degrade color .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>-- RawTherapee .</Tokens>
+		<POS>: NN .</POS>
+		<Lemma>-- rawtherapee .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Works well , but clunky .</Tokens>
+		<POS>NNP RB , CC JJ .</POS>
+		<Lemma>Works well , but clunky .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Seems to avoid the above problems .</Tokens>
+		<POS>VBZ TO VB DT JJ NNS .</POS>
+		<Lemma>seem to avoid the above problem .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I do n't like the UI as much , but it provides true color and luminance , and a variety of Save As ... choices .</Tokens>
+		<POS>PRP VBP RB VB DT NN RB RB , CC PRP VBZ JJ NN CC NN , CC DT NN IN NNP IN : NNS .</POS>
+		<Lemma>I do not like the uus as much , but it provide true color and luminance , and a variety of Save as ... choice .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>RawTherapee allows viewing of an image that retains the visual characteristics of the original RW2 image , shows the original pixel dimensions , and will save in a variety of formats at original pixel dimensions without perceptible change in visual characteristics .</Tokens>
+		<POS>NN VBZ NN IN DT NN WDT VBZ DT JJ NNS IN DT JJ NN NN , VBZ DT JJ NN NNS , CC MD VB IN DT NN IN NNS IN JJ NN NNS IN JJ NN IN JJ NNS .</POS>
+		<Lemma>rawtherapee allow viewing of a image that retain the visual characteristic of the original rw2 image , show the original pixel dimension , and will save in a variety of format at original pixel dimension without perceptible change in visual characteristic .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>-- Adobe DNG Converter : the key to a solution .</Tokens>
+		<POS>: NNP NNP NNP : DT NN TO DT NN .</POS>
+		<Lemma>-- Adobe DNG Converter : the key to a solution .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Not a viewer , but gets RW2 files into a more universal format .</Tokens>
+		<POS>RB DT NN , CC VBZ NN NNS IN DT RBR JJ NN .</POS>
+		<Lemma>not a viewer , but get rw2 file into a more universal format .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>NOTE : If you convert to DNG , viewing with some viewers may be misleading .</Tokens>
+		<POS>VB : IN PRP VBP TO NNP , VBG IN DT NNS MD VB JJ .</POS>
+		<Lemma>note : if you convert to DNG , view with some viewer may be misleading .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Apparently the JPEG embedded in DNG is 1\/4 size , rather than the 1\/2 size used by RW2 .</Tokens>
+		<POS>RB DT NN VBN IN NNP VBZ CD NN , RB IN DT CD NN VBN IN NN .</POS>
+		<Lemma>apparently the jpeg embed in DNG be 1\/4 size , rather than the 1\/2 size use by rw2 .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>As a result , images on screen will appear blurry with some viewers .</Tokens>
+		<POS>IN DT NN , NNS IN NN MD VB JJ IN DT NNS .</POS>
+		<Lemma>as a result , image on screen will appear blurry with some viewer .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>-- Windows Viewer -LRB- requires DNG codec ; see below -RRB- : did the trick .</Tokens>
+		<POS>: NNP NNP -LRB- VBZ NNP NN : VB IN -RRB- : VBD DT NN .</POS>
+		<Lemma>-- Windows Viewer -lrb- require DNG codec ; see below -rrb- : do the trick .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Ended up doing the best job for the purpose stated above .</Tokens>
+		<POS>VBN RP VBG DT JJS NN IN DT NN VBN IN .</POS>
+		<Lemma>end up do the best job for the purpose state above .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Windows Viewer gives a quick way to view 1\/2 size DNG images , clearly and with no visible chroma or luminance issues .</Tokens>
+		<POS>NNP NNP VBZ DT JJ NN TO VB CD NN NN NNS , RB CC IN DT JJ NN CC NN NNS .</POS>
+		<Lemma>Windows Viewer give a quick way to view 1\/2 size dng image , clearly and with no visible chroma or luminance issue .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>-LRB- The blown highlight issue persisted when viewing DNG with other viewers . -RRB-</Tokens>
+		<POS>-LRB- DT VBN NN NN VBD WRB VBG NN IN JJ NNS . -RRB-</POS>
+		<Lemma>-lrb- the blow highlight issue persist when view dng with other viewer . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>Unlike programs that open in half size and save in half size , with Winviewer you are one click away from opening a full-size image in Photoshop -LRB- CS or PSE -RRB- , with no change in visual attributes .</Tokens>
+		<POS>IN NNS WDT VBP IN DT NN CC VB IN DT NN , IN NNP PRP VBP CD VBP RB IN VBG DT JJ NN IN NNP -LRB- NNP CC NNP -RRB- , IN DT NN IN JJ NNS .</POS>
+		<Lemma>unlike program that open in half size and save in half size , with Winviewer you be one click away from open a full-size image in Photoshop -lrb- CS or PSE -rrb- , with no change in visual attribute .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>The codec is quickly downloaded and installed .</Tokens>
+		<POS>DT NN VBZ RB VBN CC VBN .</POS>
+		<Lemma>the codec be quickly download and install .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>If you want the codec , it 's at : http:\/\/labs.adobe.com\/wiki\/index.php\/DNG_Codec ... ... .</Tokens>
+		<POS>IN PRP VBP DT NN , PRP VBZ IN : NN : : .</POS>
+		<Lemma>if you want the codec , it be at : http:\/\/labs.adobe.com\/wiki\/index.php\/dng_codec ... ... .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Finally I was able to get the FZ150 from Amazon after flooding wiped out the factory in Thailand last fall .</Tokens>
+		<POS>RB PRP VBD JJ TO VB DT NN IN NNP IN VBG VBD RP DT NN IN NNP JJ NN .</POS>
+		<Lemma>finally I be able to get the fz150 from Amazon after flood wipe out the factory in Thailand last fall .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>All the shots described below were hand-held .</Tokens>
+		<POS>PDT DT NNS VBN IN VBD JJ .</POS>
+		<Lemma>all the shot describe below be hand-held .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>All shots were ISO 100 unless noted .</Tokens>
+		<POS>DT NNS VBD NN CD IN VBN .</POS>
+		<Lemma>all shot be iso 100 unless note .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>After using the camera , it is much better than I expected .</Tokens>
+		<POS>IN VBG DT NN , PRP VBZ RB JJR IN PRP VBD .</POS>
+		<Lemma>after use the camera , it be much better than I expect .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>One reason I bought it was that a number of camera review sites called it the best superzoom available today .</Tokens>
+		<POS>CD NN PRP VBD PRP VBD IN DT NN IN NN NN NNS VBD PRP DT JJS NN JJ NN .</POS>
+		<Lemma>one reason I buy it be that a number of camera review site call it the best superzoom available today .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>One site had the Canon SX40 rated as # 1 , then the next week they tested the FZ150 and it outranked the Canon .</Tokens>
+		<POS>CD NN VBD DT NNP NN VBN IN # CD , RB DT JJ NN PRP VBD DT NN CC PRP VBD DT NNP .</POS>
+		<Lemma>one site have the Canon sx40 rate as # 1 , then the next week they test the fz150 and it outrank the Canon .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>General consensus -LRB- by actual testing -RRB- seems to be that the Canon has slightly better IQ in terms of detail and sharpness , but the FZ150 is stronger in a number of other areas .</Tokens>
+		<POS>NNP NN -LRB- IN JJ NN -RRB- VBZ TO VB IN DT NNP VBZ RB JJR NNP IN NNS IN NN CC NN , CC DT NN VBZ JJR IN DT NN IN JJ NNS .</POS>
+		<Lemma>General consensus -lrb- by actual testing -rrb- seem to be that the Canon have slightly better IQ in term of detail and sharpness , but the fz150 be stronger in a number of other area .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>My observations -LRB- all still shots ; I will discuss video when I 've had a chance to use it -RRB- : I have some standard shots I take at full zoom , including structures 1300 and 1600 yards away , and shots of car license plates at distances ranging from 285 to 500 yards .</Tokens>
+		<POS>PRP$ NNS -LRB- DT RB NNS : PRP MD VB NN WRB PRP VBP VBD DT NN TO VB PRP -RRB- : PRP VBP DT JJ NNS PRP VBP IN JJ NN , VBG NNS CD CC CD NNS RB , CC NNS IN NN NN VBZ IN NNS VBG IN CD TO CD NNS .</POS>
+		<Lemma>my observation -lrb- all still shot ; I will discuss video when I have have a chance to use it -rrb- : I have some standard shot I take at full zoom , include structure 1300 and 1600 yard away , and shot of car license plate at distance range from 285 to 500 yard .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>-- At 1300 and 1600 yards using full zoom , you can count the roof tiles on a house if you enlarge the image on the computer .</Tokens>
+		<POS>: IN CD CC CD NNS VBG JJ NN , PRP MD VB DT NN NNS IN DT NN IN PRP VBP DT NN IN DT NN .</POS>
+		<Lemma>-- at 1300 and 1600 yard use full zoom , you can count the roof tile on a house if you enlarge the image on the computer .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>-- At about 300 yards , you can take a picture that allows you to easily read the license plate on a car .</Tokens>
+		<POS>: IN IN CD NNS , PRP MD VB DT NN WDT VBZ PRP TO RB VB DT NN NN IN DT NN .</POS>
+		<Lemma>-- at about 300 yard , you can take a picture that allow you to easily read the license plate on a car .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>At 500 yards , you can easily read street signs .</Tokens>
+		<POS>IN CD NNS , PRP MD RB VB NN NNS .</POS>
+		<Lemma>at 500 yard , you can easily read street sign .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>This compares amazingly well to a DSLR using 300mm zoom .</Tokens>
+		<POS>DT VBZ RB RB TO DT NN VBG CD NN .</POS>
+		<Lemma>this compare amazingly well to a dslr use 300mm zoom .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>-- Color is phenomenal right out of the box ; very natural .</Tokens>
+		<POS>: NN VBZ JJ NN IN IN DT NN : RB JJ .</POS>
+		<Lemma>-- color be phenomenal right out of the box ; very natural .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>-- CA\/PF was minimal even at full zoom ; only slight traces in high-contrast reflective areas -LRB- chrome bumper , in sunlight , against a black car -RRB- , and even then not noticeable unless the image was magnified .</Tokens>
+		<POS>: NN VBD JJ RB IN JJ NN : RB JJ NNS IN JJ JJ NNS -LRB- JJ NN , IN NN , IN DT JJ NN -RRB- , CC RB RB RB JJ IN DT NN VBD VBN .</POS>
+		<Lemma>-- ca\/pf be minimal even at full zoom ; only slight trace in high-contrast reflective area -lrb- chrome bumper , in sunlight , against a black car -rrb- , and even then not noticeable unless the image be magnify .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>-- RAW is a huge plus .</Tokens>
+		<POS>: NN VBZ DT JJ NN .</POS>
+		<Lemma>-- raw be a huge plus .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>-- Images are clean up through 8x10 , and in many cases 11x14 or a bit larger .</Tokens>
+		<POS>: NNS VBP JJ IN IN NN , CC IN JJ NNS NN CC DT NN JJR .</POS>
+		<Lemma>-- image be clean up through 8x10 , and in many case 11x14 or a bit larger .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>If you crop and\/or enlarge beyond that , there 's more noise than I would like , but keep the ISO low -LRB- 100-200 -RRB- and you 're OK .</Tokens>
+		<POS>IN PRP NN CC VB IN DT , EX VBZ JJR NN IN PRP MD VB , CC VB DT NN JJ -LRB- CD -RRB- CC PRP VBP UH .</POS>
+		<Lemma>if you crop and\/or enlarge beyond that , there be more noise than I would like , but keep the iso low -lrb- 100-200 -rrb- and you be ok .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>-- Zoom is very smooth and quiet , and AF works well during zoom .</Tokens>
+		<POS>: NN VBZ RB JJ CC JJ , CC NN VBZ RB IN NN .</POS>
+		<Lemma>-- zoom be very smooth and quiet , and af work well during zoom .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>-- Image stabilization is phenomenal : full zoom , hand-held , with subjects almost a mile away resulted in images with zero camera shake at a shutter speed of 1\/500 .</Tokens>
+		<POS>: NN NN VBZ JJ : JJ NN , JJ , IN NNS RB DT NN RB VBD IN NNS IN CD NN NN IN DT JJR NN IN CD .</POS>
+		<Lemma>-- image stabilization be phenomenal : full zoom , hand-held , with subject almost a mile away result in image with zero camera shake at a shutter speed of 1\/500 .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>-- AF is excellent , and actually performed better in complex visual environment than some DSLRs .</Tokens>
+		<POS>: NN VBZ JJ , CC RB VBN RBR IN JJ JJ NN IN DT NNS .</POS>
+		<Lemma>-- af be excellent , and actually perform better in complex visual environment than some dslr .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>So far , no hunting .</Tokens>
+		<POS>RB RB , DT NN .</POS>
+		<Lemma>so far , no hunting .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>I will have to see how this works in a flat light or low light environment .</Tokens>
+		<POS>PRP MD VB TO VB WRB DT VBZ IN DT JJ NN CC JJ JJ NN .</POS>
+		<Lemma>I will have to see how this work in a flat light or low light environment .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>-- Burst is great .</Tokens>
+		<POS>: NN VBZ JJ .</POS>
+		<Lemma>-- burst be great .</Lemma>
+	</Sentence>
+	<Sentence id="61">
+		<Tokens>I prefer 5.5 fps over 12fps because for birds , seals , breaking waves , and surfing shots -LRB- 99 % of the action I shoot -RRB- 12fps is overkill .</Tokens>
+		<POS>PRP VBP CD NNS IN NNS IN IN NNS , NNS , VBG NNS , CC VBG NNS -LRB- CD NN IN DT NN PRP VBP -RRB- NNS VBZ NN .</POS>
+		<Lemma>I prefer 5.5 fp over 12fp because for bird , seal , break wave , and surf shot -lrb- 99 % of the action I shoot -rrb- 12fp be overkill .</Lemma>
+	</Sentence>
+	<Sentence id="62">
+		<Tokens>At 5.5 fps I get about 3 seconds of action before the buffer fills and the camera starts to slow down .</Tokens>
+		<POS>IN CD NNS PRP VBP IN CD NNS IN NN IN DT NN VBZ CC DT NN VBZ TO VB RP .</POS>
+		<Lemma>at 5.5 fp I get about 3 seconds of action before the buffer fill and the camera start to slow down .</Lemma>
+	</Sentence>
+	<Sentence id="63">
+		<Tokens>I have n't timed the write time , but it is n't bad .</Tokens>
+		<POS>PRP VBP RB VBN DT VB NN , CC PRP VBZ RB JJ .</POS>
+		<Lemma>I have not time the write time , but it be not bad .</Lemma>
+	</Sentence>
+	<Sentence id="64">
+		<Tokens>The entire burst mode certainly compares favorably with some DSLRs .</Tokens>
+		<POS>DT JJ NN NN RB VBZ RB IN DT NNS .</POS>
+		<Lemma>the entire burst mode certainly compare favorably with some dslr .</Lemma>
+	</Sentence>
+	<Sentence id="65">
+		<Tokens>RAW files are bigger , so the buffer and write time get in the way a bit more , but the shooting speed is the same .</Tokens>
+		<POS>NN NNS VBP JJR , IN DT NN CC VB NN VB IN DT NN DT NN RBR , CC DT JJ NN VBZ DT JJ .</POS>
+		<Lemma>raw file be bigger , so the buffer and write time get in the way a bit more , but the shooting speed be the same .</Lemma>
+	</Sentence>
+	<Sentence id="66">
+		<Tokens>Operation : -- The dial -LRB- for aperture and shutter speed -RRB- is a bit small and a bit hard to turn .</Tokens>
+		<POS>NN : : DT NN -LRB- IN NN CC JJR NN -RRB- VBZ DT NN JJ CC DT NN JJ TO VB .</POS>
+		<Lemma>operation : -- the dial -lrb- for aperture and shutter speed -rrb- be a bit small and a bit hard to turn .</Lemma>
+	</Sentence>
+	<Sentence id="67">
+		<Tokens>Kind of cheap , actually , which is out of character for this otherwise very nicely-built and well-finished camera .</Tokens>
+		<POS>NNP IN JJ , RB , WDT VBZ IN IN NN IN DT RB RB JJ CC JJ NN .</POS>
+		<Lemma>Kind of cheap , actually , which be out of character for this otherwise very nicely-built and well-finished camera .</Lemma>
+	</Sentence>
+	<Sentence id="68">
+		<Tokens>-- A tripod mount will block the batter\/memory card door .</Tokens>
+		<POS>: DT NN VBP MD VB DT NN NN NN .</POS>
+		<Lemma>-- a tripod mount will block the batter\/memory card door .</Lemma>
+	</Sentence>
+	<Sentence id="69">
+		<Tokens>-- The EVF is pretty low quality -LRB- flickery -RRB- -- but a whole lot better than nothing .</Tokens>
+		<POS>: DT NN VBZ RB JJ NN -LRB- NN -RRB- : CC DT JJ NN JJR IN NN .</POS>
+		<Lemma>-- the evf be pretty low quality -lrb- flickery -rrb- -- but a whole lot better than nothing .</Lemma>
+	</Sentence>
+	<Sentence id="70">
+		<Tokens>You can use it while wearing sunglasses .</Tokens>
+		<POS>PRP MD VB PRP IN VBG NNS .</POS>
+		<Lemma>you can use it while wear sunglass .</Lemma>
+	</Sentence>
+	<Sentence id="71">
+		<Tokens>It 's satisfactory .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be satisfactory .</Lemma>
+	</Sentence>
+	<Sentence id="72">
+		<Tokens>-- The articulated screen , which can be folded against the camera to protect the surface when not in use , is outstanding .</Tokens>
+		<POS>: DT VBN NN , WDT MD VB VBN IN DT NN TO VB DT NN WRB RB IN NN , VBZ JJ .</POS>
+		<Lemma>-- the articulate screen , which can be fold against the camera to protect the surface when not in use , be outstanding .</Lemma>
+	</Sentence>
+	<Sentence id="73">
+		<Tokens>-- The Quick Menu , accessed by a simple touch of the button -LRB- which doubles as a delete button in the playback mode -RRB- , is very convenient .</Tokens>
+		<POS>: DT NNP NNP , VBN IN DT JJ NN IN DT NN -LRB- WDT VBZ IN DT VBP NN IN DT NN NN -RRB- , VBZ RB JJ .</POS>
+		<Lemma>-- the Quick Menu , access by a simple touch of the button -lrb- which double as a delete button in the playback mode -rrb- , be very convenient .</Lemma>
+	</Sentence>
+	<Sentence id="74">
+		<Tokens>-- EV and ISO buttons are a great feature .</Tokens>
+		<POS>: NN CC NN NNS VBP DT JJ NN .</POS>
+		<Lemma>-- ev and iso button be a great feature .</Lemma>
+	</Sentence>
+	<Sentence id="75">
+		<Tokens>-- Video button is a great feature .</Tokens>
+		<POS>: NNP NN VBZ DT JJ NN .</POS>
+		<Lemma>-- Video button be a great feature .</Lemma>
+	</Sentence>
+	<Sentence id="76">
+		<Tokens>-- Pany makes sure you do n't delete anything by mistake : you have to go through several choices and confirmations before delete happens .</Tokens>
+		<POS>: NN VBZ JJ PRP VBP RB VB NN IN NN : PRP VBP TO VB IN JJ NNS CC NNS IN VBP VBZ .</POS>
+		<Lemma>-- pany make sure you do not delete anything by mistake : you have to go through several choice and confirmation before delete happen .</Lemma>
+	</Sentence>
+	<Sentence id="77">
+		<Tokens>-- CAUTION : Photoshop and MSoft do not recognize the FZ150 's brand of RAW .</Tokens>
+		<POS>: NN : NNP CC NNP VBP RB VB DT NN POS NN IN NN .</POS>
+		<Lemma>-- caution : Photoshop and MSoft do not recognize the fz150 's brand of raw .</Lemma>
+	</Sentence>
+	<Sentence id="78">
+		<Tokens>And many folks do n't want the hassle of using the Pany softward .</Tokens>
+		<POS>CC JJ NNS VBP RB VB DT NN IN VBG DT NN NN .</POS>
+		<Lemma>and many folk do not want the hassle of use the pany softward .</Lemma>
+	</Sentence>
+	<Sentence id="79">
+		<Tokens>Luckily , a free program called FastStone does handle FZ150 RAW .</Tokens>
+		<POS>RB , DT JJ NN VBN NNP VBZ VB NNP NN .</POS>
+		<Lemma>luckily , a free program call FastStone do handle FZ150 raw .</Lemma>
+	</Sentence>
+	<Sentence id="80">
+		<Tokens>You can open the image in FastStone ; from there you can either do PP directly in FastStone or save the image as JPEG , PNG , etc. and then , with one click , open it in PhotoShop .</Tokens>
+		<POS>PRP MD VB DT NN IN NN : IN EX PRP MD RB VB NN RB IN NN CC VB DT NN IN NNP , NNP , FW CC RB , IN CD VBP , VBP PRP IN NNP .</POS>
+		<Lemma>you can open the image in faststone ; from there you can either do pp directly in faststone or save the image as JPEG , PNG , etc. and then , with one click , open it in PhotoShop .</Lemma>
+	</Sentence>
+	<Sentence id="81">
+		<Tokens>NOTE : PhotoShop will tell you that the image does not have a color profile associated with it , and will ask you if you want to assign a profile .</Tokens>
+		<POS>VB : NNP MD VB PRP IN DT NN VBZ RB VB DT NN NN VBN IN PRP , CC MD VB PRP IN PRP VBP TO VB DT NN .</POS>
+		<Lemma>note : PhotoShop will tell you that the image do not have a color profile associate with it , and will ask you if you want to assign a profile .</Lemma>
+	</Sentence>
+	<Sentence id="82">
+		<Tokens>You will get the best results if you select `` print '' profile .</Tokens>
+		<POS>PRP MD VB DT JJS NNS IN PRP VBP `` NN '' NN .</POS>
+		<Lemma>you will get the best result if you select `` print '' profile .</Lemma>
+	</Sentence>
+	<Sentence id="83">
+		<Tokens>Colors will be much deeper and richer .</Tokens>
+		<POS>NNS MD VB JJ JJR CC JJR .</POS>
+		<Lemma>color will be much deeper and richer .</Lemma>
+	</Sentence>
+	<Sentence id="84">
+		<Tokens>BOTTOM LINE : I am amazed at how good this camera is for a hopped-up PS with a tiny -LRB- 1\/2 .3 in -RRB- sensor .</Tokens>
+		<POS>NNP NNP : PRP VBP VBN IN WRB JJ DT NN VBZ IN DT JJ NN IN DT JJ -LRB- CD NN IN -RRB- NN .</POS>
+		<Lemma>BOTTOM LINE : I be amaze at how good this camera be for a hopped-up ps with a tiny -lrb- 1\/2 .3 in -rrb- sensor .</Lemma>
+	</Sentence>
+	<Sentence id="85">
+		<Tokens>I knew the feature set was great , but after buying an FZ100 and returning it because of abysmal IQ , I was n't sure that the new sensor had fixed the problem .</Tokens>
+		<POS>PRP VBD DT NN NN VBD JJ , CC IN VBG DT NN CC VBG PRP IN IN JJ NNP , PRP VBD RB JJ IN DT JJ NN VBD VBN DT NN .</POS>
+		<Lemma>I know the feature set be great , but after buy a fz100 and return it because of abysmal IQ , I be not sure that the new sensor have fix the problem .</Lemma>
+	</Sentence>
+	<Sentence id="86">
+		<Tokens>It has .</Tokens>
+		<POS>PRP VBZ .</POS>
+		<Lemma>it have .</Lemma>
+	</Sentence>
+	<Sentence id="87">
+		<Tokens>Additional information : I just took another of my standard test shots , of palm trees , tile roof and the ocean .</Tokens>
+		<POS>JJ NN : PRP RB VBD DT IN PRP$ JJ NN NNS , IN NN NNS , NN NN CC DT NN .</POS>
+		<Lemma>additional information : I just take another of my standard test shot , of palm tree , tile roof and the ocean .</Lemma>
+	</Sentence>
+	<Sentence id="88">
+		<Tokens>The tile roof is 400 yards away , the far palm tree about 440 yards .</Tokens>
+		<POS>DT NN NN VBZ CD NNS RB , DT JJ NN NN IN CD NNS .</POS>
+		<Lemma>the tile roof be 400 yard away , the far palm tree about 440 yard .</Lemma>
+	</Sentence>
+	<Sentence id="89">
+		<Tokens>The ocean is about 650 yards .</Tokens>
+		<POS>DT NN VBZ IN CD NNS .</POS>
+		<Lemma>the ocean be about 650 yard .</Lemma>
+	</Sentence>
+	<Sentence id="90">
+		<Tokens>There is quite a mix of colors and textures .</Tokens>
+		<POS>EX VBZ RB DT NN IN NNS CC NNS .</POS>
+		<Lemma>there be quite a mix of color and texture .</Lemma>
+	</Sentence>
+	<Sentence id="91">
+		<Tokens>Hand held , full zoom , f/4.2@1/500 using default color setting , converted to JPEG for uploading purposes .</Tokens>
+		<POS>NN VBD , JJ NN , CD VBG NN NN NN , VBD TO NNP IN VBG NNS .</POS>
+		<Lemma>hand hold , full zoom , f/4.2@1/500 use default color setting , convert to JPEG for upload purpose .</Lemma>
+	</Sentence>
+	<Sentence id="92">
+		<Tokens>I am frankly surprised at the IQ and resolution of these images .</Tokens>
+		<POS>PRP VBP RB VBN IN DT NNP CC NN IN DT NNS .</POS>
+		<Lemma>I be frankly surprise at the IQ and resolution of these image .</Lemma>
+	</Sentence>
+	<Sentence id="93">
+		<Tokens>They are better than some of the very same scene that I have shot with various DSLRs with kit lenses .</Tokens>
+		<POS>PRP VBP JJR IN DT IN DT RB JJ NN IN PRP VBP VBN IN JJ NNS IN NN NNS .</POS>
+		<Lemma>they be better than some of the very same scene that I have shoot with various dslr with kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="94">
+		<Tokens>They are slightly soft due to lower resolution of the camera , but they do not display any blotchiness or distortion or PF , unlike some DSLRs with kit lens .</Tokens>
+		<POS>PRP VBP RB JJ JJ TO JJR NN IN DT NN , CC PRP VBP RB VB DT NN CC NN CC NN , IN DT NNS IN NN NN .</POS>
+		<Lemma>they be slightly soft due to lower resolution of the camera , but they do not display any blotchiness or distortion or pf , unlike some dslr with kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="95">
+		<Tokens>And the softness can be reduced with minimal sharpening .</Tokens>
+		<POS>CC DT NN MD VB VBN IN JJ VBG .</POS>
+		<Lemma>and the softness can be reduce with minimal sharpen .</Lemma>
+	</Sentence>
+	<Sentence id="96">
+		<Tokens>-LRB- Before you tell me how kit lenses are not a real test , let me remind you that the lens on the FZ150 is a kit lens . -RRB-</Tokens>
+		<POS>-LRB- IN PRP VBP PRP WRB NN NNS VBP RB DT JJ NN , VB PRP VB PRP IN DT NN IN DT NN VBZ DT NN NN . -RRB-</POS>
+		<Lemma>-lrb- before you tell I how kit lens be not a real test , let I remind you that the lens on the fz150 be a kit lens . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="97">
+		<Tokens>More later , after I 've had a chance to do some action shooting outdoors in more challenging conditions .</Tokens>
+		<POS>RBR RB , IN PRP VBP VBD DT NN TO VB DT NN NN RB IN JJR JJ NNS .</POS>
+		<Lemma>more later , after I have have a chance to do some action shooting outdoors in more challenging condition .</Lemma>
+	</Sentence>
+	<Sentence id="98">
+		<Tokens>2\/16\/12 Just took a variety of hand-held shots around the ocean .</Tokens>
+		<POS>CD RB VBD DT NN IN JJ NNS IN DT NN .</POS>
+		<Lemma>2\/16\/12 just take a variety of hand-held shot around the ocean .</Lemma>
+	</Sentence>
+	<Sentence id="99">
+		<Tokens>All shots were ISO 100 .</Tokens>
+		<POS>DT NNS VBD NN CD .</POS>
+		<Lemma>all shot be iso 100 .</Lemma>
+	</Sentence>
+	<Sentence id="100">
+		<Tokens>The results : -- Native color\/WB is excellent , very true to life .</Tokens>
+		<POS>DT NNS : : JJ NN VBZ JJ , RB JJ TO NN .</POS>
+		<Lemma>the result : -- native color\/wb be excellent , very true to life .</Lemma>
+	</Sentence>
+	<Sentence id="101">
+		<Tokens>If you want to make colors more vivid or extreme , it 's easy to do with a number of settings .</Tokens>
+		<POS>IN PRP VBP TO VB NNS RBR JJ CC JJ , PRP VBZ JJ TO VB IN DT NN IN NNS .</POS>
+		<Lemma>if you want to make color more vivid or extreme , it be easy to do with a number of setting .</Lemma>
+	</Sentence>
+	<Sentence id="102">
+		<Tokens>-- Detail is very good .</Tokens>
+		<POS>: NN VBZ RB JJ .</POS>
+		<Lemma>-- detail be very good .</Lemma>
+	</Sentence>
+	<Sentence id="103">
+		<Tokens>At full zoom , things like scaffolding or venetian blinds are captured very clearly .</Tokens>
+		<POS>IN JJ NN , NNS IN NN CC JJ NNS VBP VBN RB RB .</POS>
+		<Lemma>at full zoom , thing like scaffolding or venetian blind be capture very clearly .</Lemma>
+	</Sentence>
+	<Sentence id="104">
+		<Tokens>If you 're printing up to about 11x14 or thereabouts , you should be happy with the results .</Tokens>
+		<POS>IN PRP VBP VBG RP TO IN NN CC NNS , PRP MD VB JJ IN DT NNS .</POS>
+		<Lemma>if you be print up to about 11x14 or thereabout , you should be happy with the result .</Lemma>
+	</Sentence>
+	<Sentence id="105">
+		<Tokens>-- For extreme high contrast in bright light -LRB- such as white foamy waves against a deep blue ocean -RRB- , to avoid highlight blowout it 's a good idea to shoot at -1 EV .</Tokens>
+		<POS>: IN JJ JJ NN IN JJ NN -LRB- JJ IN JJ JJ NNS IN DT JJ JJ NN -RRB- , TO VB NN VB PRP VBZ DT JJ NN TO VB IN CD NN .</POS>
+		<Lemma>-- for extreme high contrast in bright light -lrb- such as white foamy wave against a deep blue ocean -rrb- , to avoid highlight blowout it be a good idea to shoot at -1 ev .</Lemma>
+	</Sentence>
+	<Sentence id="106">
+		<Tokens>You can get good results anwhere between f\/5 .2 @ 1\/500sec and f\/6 .3 @ 1\/800sec ; for consistency it 's better to expose for the highlights and use the latter setting .</Tokens>
+		<POS>PRP MD VB JJ NNS VBP IN CD NN SYM CD CC CD NN SYM CD : IN NN PRP VBZ JJR TO VB IN DT VBZ CC VB DT JJ NN .</POS>
+		<Lemma>you can get good result anwhere between f\/5 .2 @ 1\/500sec and f\/6 .3 @ 1\/800sec ; for consistency it be better to expose for the highlight and use the latter setting .</Lemma>
+	</Sentence>
+	<Sentence id="107">
+		<Tokens>-- AF on flying birds was phenomenal .</Tokens>
+		<POS>: NN IN VBG NNS VBD JJ .</POS>
+		<Lemma>-- af on fly bird be phenomenal .</Lemma>
+	</Sentence>
+	<Sentence id="108">
+		<Tokens>Very quick and accurate .</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>very quick and accurate .</Lemma>
+	</Sentence>
+	<Sentence id="109">
+		<Tokens>You can get more resolution and better IQ with a DSLR , for sure .</Tokens>
+		<POS>PRP MD VB JJR NN CC JJR NNP IN DT NN , IN JJ .</POS>
+		<Lemma>you can get more resolution and better IQ with a dslr , for sure .</Lemma>
+	</Sentence>
+	<Sentence id="110">
+		<Tokens>On the other hand , many DSLR users report frustration with shots that are out of focus .</Tokens>
+		<POS>IN DT JJ NN , JJ NNP NNS VBP NN IN NNS WDT VBP IN IN NN .</POS>
+		<Lemma>on the other hand , many DSLR user report frustration with shot that be out of focus .</Lemma>
+	</Sentence>
+	<Sentence id="111">
+		<Tokens>A soft shot is better than no shot , and so far I have had zero shots out of focus .</Tokens>
+		<POS>DT JJ NN VBZ JJR IN DT NN , CC RB RB PRP VBP VBN CD NNS IN IN NN .</POS>
+		<Lemma>a soft shot be better than no shot , and so far I have have zero shot out of focus .</Lemma>
+	</Sentence>
+	<Sentence id="112">
+		<Tokens>Keep in mind that pelicans , cormorants and gulls flying along the shore come in sight , pass by , and disappear very quickly .</Tokens>
+		<POS>VB IN NN WDT VBZ , NNS CC NNS VBG IN DT NN VBN IN NN , NN IN , CC VB RB RB .</POS>
+		<Lemma>keep in mind that pelican , cormorant and gull fly along the shore come in sight , pass by , and disappear very quickly .</Lemma>
+	</Sentence>
+	<Sentence id="113">
+		<Tokens>There is no time to get set up for each shot ; you have to pick your settings and be prepared for something very much like skeet shooting when a subject appears .</Tokens>
+		<POS>EX VBZ DT NN TO VB VBN RP IN DT NN : PRP VBP TO VB PRP$ NNS CC VB VBN IN NN RB RB IN NN NN WRB DT NN VBZ .</POS>
+		<Lemma>there be no time to get set up for each shot ; you have to pick you setting and be prepare for something very much like skeet shooting when a subject appear .</Lemma>
+	</Sentence>
+	<Sentence id="114">
+		<Tokens>The FZ150 is very good in this regard .</Tokens>
+		<POS>DT NN VBZ RB JJ IN DT NN .</POS>
+		<Lemma>the fz150 be very good in this regard .</Lemma>
+	</Sentence>
+	<Sentence id="115">
+		<Tokens>Surfing shots are very easy by comparison .</Tokens>
+		<POS>VBG NNS VBP RB JJ IN NN .</POS>
+		<Lemma>surf shot be very easy by comparison .</Lemma>
+	</Sentence>
+	<Sentence id="116">
+		<Tokens>-- Zero PF so far in high contrast situations at the beach .</Tokens>
+		<POS>: NNP NNP RB RB IN JJ NN NNS IN DT NN .</POS>
+		<Lemma>-- Zero PF so far in high contrast situation at the beach .</Lemma>
+	</Sentence>
+	<Sentence id="117">
+		<Tokens>A major plus .</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>a major plus .</Lemma>
+	</Sentence>
+	<Sentence id="118">
+		<Tokens>-- My subjective impression was that in burst mode , shots were softer even though AF was on .</Tokens>
+		<POS>: PRP$ JJ NN VBD IN IN NN NN , NNS VBD JJR RB IN NN VBD IN .</POS>
+		<Lemma>-- my subjective impression be that in burst mode , shot be softer even though af be on .</Lemma>
+	</Sentence>
+	<Sentence id="119">
+		<Tokens>Not bad , but not as good as those captured by the larger-sensor -LRB- 2\/3in -RRB- Fuji S100fs in burst mode .</Tokens>
+		<POS>RB JJ , CC RB RB JJ IN DT VBN IN DT JJ -LRB- JJ -RRB- NNP NNS IN NN NN .</POS>
+		<Lemma>not bad , but not as good as those capture by the larger-sensor -lrb- 2\/3in -rrb- Fuji s100f in burst mode .</Lemma>
+	</Sentence>
+	<Sentence id="120">
+		<Tokens>All the shots were taken between 1\/500 and 1\/800 , which should have been enough to avoid blur due to motion ; it 's the same shutter speed range I always used with the Fuji .</Tokens>
+		<POS>PDT DT NNS VBD VBN IN CD CC CD , WDT MD VB VBN RB TO VB NN JJ TO NN : PRP VBZ DT JJ JJR NN NN PRP RB VBD IN DT NNP .</POS>
+		<Lemma>all the shot be take between 1\/500 and 1\/800 , which should have be enough to avoid blur due to motion ; it be the same shutter speed range I always use with the Fuji .</Lemma>
+	</Sentence>
+	<Sentence id="121">
+		<Tokens>-- The camera is small enough and light enough that you do n't feel it to be a burden , unlike DSLRs or big superzooms .</Tokens>
+		<POS>: DT NN VBZ JJ JJ CC JJ RB IN PRP VBP RB VB PRP TO VB DT NN , IN NNS CC JJ NNS .</POS>
+		<Lemma>-- the camera be small enough and light enough that you do not feel it to be a burden , unlike dslr or big superzoom .</Lemma>
+	</Sentence>
+	<Sentence id="122">
+		<Tokens>-- Took some shots indoors at the supermarket while waiting for my coffee to grind .</Tokens>
+		<POS>: VBD DT NNS RB IN DT NN IN VBG IN PRP$ NN TO VB .</POS>
+		<Lemma>-- take some shot indoors at the supermarket while wait for my coffee to grind .</Lemma>
+	</Sentence>
+	<Sentence id="123">
+		<Tokens>Hand-held , f\/2 .8 @ 1\/40sec , ISO 100 , no flash .</Tokens>
+		<POS>JJ , NN CD SYM CD , NN CD , DT NN .</POS>
+		<Lemma>hand-held , f\/2 .8 @ 1\/40sec , iso 100 , no flash .</Lemma>
+	</Sentence>
+	<Sentence id="124">
+		<Tokens>It 's not the brightest interior in the world , but the images were clear ; you could easily read the closer labels , etc. .</Tokens>
+		<POS>PRP VBZ RB DT JJS NN IN DT NN , CC DT NNS VBD JJ : PRP MD RB VB DT JJR NNS , FW .</POS>
+		<Lemma>it be not the brightest interior in the world , but the image be clear ; you could easily read the closer label , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="125">
+		<Tokens>No blurring , but the images were a bit soft .</Tokens>
+		<POS>DT VBG , CC DT NNS VBD DT NN JJ .</POS>
+		<Lemma>no blur , but the image be a bit soft .</Lemma>
+	</Sentence>
+	<Sentence id="126">
+		<Tokens>Exposure was perfect .</Tokens>
+		<POS>NN VBD JJ .</POS>
+		<Lemma>exposure be perfect .</Lemma>
+	</Sentence>
+	<Sentence id="127">
+		<Tokens>No complaints .</Tokens>
+		<POS>DT NNS .</POS>
+		<Lemma>no complaint .</Lemma>
+	</Sentence>
+	<Sentence id="128">
+		<Tokens>My subjective impression is that this is a better outdoor camera .</Tokens>
+		<POS>PRP$ JJ NN VBZ IN DT VBZ DT JJR JJ NN .</POS>
+		<Lemma>my subjective impression be that this be a better outdoor camera .</Lemma>
+	</Sentence>
+	<Sentence id="129">
+		<Tokens>-- Bottom line outdoors : DSLRs and 2\/3in sensors will get more detail , less softness , and higher IQ in most cases .</Tokens>
+		<POS>: NN NN NNS : NNS CC JJ NNS MD VB JJR NN , JJR NN , CC JJR NNP IN JJS NNS .</POS>
+		<Lemma>-- bottom line outdoors : dslr and 2\/3in sensor will get more detail , less softness , and higher IQ in most case .</Lemma>
+	</Sentence>
+	<Sentence id="130">
+		<Tokens>But the FZ150 is totally satisfactory for prints up to about 11x14 or so , the burst is outstanding , AF is great , and because the camera is less than half the weight of a DSLR or a Fuji 2\/3in , it 's a camera you will have with you .</Tokens>
+		<POS>CC DT NN VBZ RB JJ IN NNS IN TO IN NN CC RB , DT NN VBZ JJ , NN VBZ JJ , CC IN DT NN VBZ JJR IN PDT DT NN IN DT NN CC DT NNP NN , PRP VBZ DT NN PRP MD VB IN PRP .</POS>
+		<Lemma>but the fz150 be totally satisfactory for print up to about 11x14 or so , the burst be outstanding , af be great , and because the camera be less than half the weight of a dslr or a Fuji 2\/3in , it be a camera you will have with you .</Lemma>
+	</Sentence>
+	<Sentence id="131">
+		<Tokens>Which means you will get more shots , and more good shots .</Tokens>
+		<POS>WDT VBZ PRP MD VB JJR NNS , CC RBR JJ NNS .</POS>
+		<Lemma>which mean you will get more shot , and more good shot .</Lemma>
+	</Sentence>
+	<Sentence id="132">
+		<Tokens>... ... ... THE FEATURE SET I bought an FZ100 when it was a fairly new item .</Tokens>
+		<POS>: : : DT NN NN PRP VBD DT NN WRB PRP VBD DT RB JJ NN .</POS>
+		<Lemma>... ... ... the feature set I buy a fz100 when it be a fairly new item .</Lemma>
+	</Sentence>
+	<Sentence id="133">
+		<Tokens>It had all the features anyone could want , except one : it did not generate good images .</Tokens>
+		<POS>PRP VBD PDT DT NNS NN MD VB , IN CD : PRP VBD RB VB JJ NNS .</POS>
+		<Lemma>it have all the feature anyone could want , except one : it do not generate good image .</Lemma>
+	</Sentence>
+	<Sentence id="134">
+		<Tokens>I sent it back ; thank you Amazon , for standing behind the product and taking it back if it is n't up to snuff .</Tokens>
+		<POS>PRP VBD PRP RB : VB PRP NNP , IN VBG IN DT NN CC VBG PRP RB IN PRP VBZ RB RB TO VB .</POS>
+		<Lemma>I send it back ; thank you Amazon , for stand behind the product and take it back if it be not up to snuff .</Lemma>
+	</Sentence>
+	<Sentence id="135">
+		<Tokens>Even Panasonic had to recognize that the FZ100 was not a winner .</Tokens>
+		<POS>RB NNP VBD TO VB IN DT NN VBD RB DT NN .</POS>
+		<Lemma>even Panasonic have to recognize that the fz100 be not a winner .</Lemma>
+	</Sentence>
+	<Sentence id="136">
+		<Tokens>The FZ150 has a totally different sensor , with fewer megapixels to generate noise .</Tokens>
+		<POS>DT NN VBZ DT RB JJ NN , IN JJR NNS TO VB NN .</POS>
+		<Lemma>the fz150 have a totally different sensor , with fewer megapixel to generate noise .</Lemma>
+	</Sentence>
+	<Sentence id="137">
+		<Tokens>The IQ is much better .</Tokens>
+		<POS>DT NNP VBZ RB JJR .</POS>
+		<Lemma>the IQ be much better .</Lemma>
+	</Sentence>
+	<Sentence id="138">
+		<Tokens>What 's to like about this camera ?</Tokens>
+		<POS>WP VBZ TO VB IN DT NN .</POS>
+		<Lemma>what be to like about this camera ?</Lemma>
+	</Sentence>
+	<Sentence id="139">
+		<Tokens>Panasonic is making one of the few , if not the only , PS cameras with all the small features that enable serious picture taking .</Tokens>
+		<POS>NNP VBZ VBG CD IN DT JJ , IN RB DT RB , NN NNS IN PDT DT JJ NNS WDT VBP JJ NN VBG .</POS>
+		<Lemma>Panasonic be make one of the few , if not the only , ps camera with all the small feature that enable serious picture take .</Lemma>
+	</Sentence>
+	<Sentence id="140">
+		<Tokens>-- Front threads -LRB- 52mm -RRB- for filters .</Tokens>
+		<POS>: NN NNS -LRB- NN -RRB- IN NNS .</POS>
+		<Lemma>-- front thread -lrb- 52mm -rrb- for filter .</Lemma>
+	</Sentence>
+	<Sentence id="141">
+		<Tokens>This means being able to use CPL and other filters for great effects without having to resort to add-ons , apapters , etc. .</Tokens>
+		<POS>DT VBZ VBG JJ TO VB NNP CC JJ NNS IN JJ NNS IN VBG TO VB TO NNS , NNS , FW .</POS>
+		<Lemma>this mean be able to use CPL and other filter for great effect without have to resort to add-on , apapter , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="142">
+		<Tokens>The more you get into photography -LRB- especially in high-contrast or glare situations -RRB- , the more you 'll appreciate this .</Tokens>
+		<POS>DT JJR PRP VBP IN NN -LRB- RB IN JJ CC NN NNS -RRB- , DT RBR PRP MD VB DT .</POS>
+		<Lemma>the more you get into photography -lrb- especially in high-contrast or glare situation -rrb- , the more you 'll appreciate this .</Lemma>
+	</Sentence>
+	<Sentence id="143">
+		<Tokens>-- Articulated LCD .</Tokens>
+		<POS>: VBN NNS .</POS>
+		<Lemma>-- articulate lcd .</Lemma>
+	</Sentence>
+	<Sentence id="144">
+		<Tokens>This is truly convenient for odd angles , so you do n't have to get down in the dirt or climb a tree to get the low or high shot , or twist yourself into a pretzel for that perspective shot around the corner .</Tokens>
+		<POS>DT VBZ RB JJ IN JJ NNS , RB PRP VBP RB VB TO VB RP IN DT NN CC VB DT NN TO VB DT JJ CC JJ NN , CC NN PRP IN DT NN IN DT NN VBN IN DT NN .</POS>
+		<Lemma>this be truly convenient for odd angle , so you do not have to get down in the dirt or climb a tree to get the low or high shot , or twist yourself into a pretzel for that perspective shoot around the corner .</Lemma>
+	</Sentence>
+	<Sentence id="145">
+		<Tokens>Also good to avoid screen glare .</Tokens>
+		<POS>RB JJ TO VB NN NN .</POS>
+		<Lemma>also good to avoid screen glare .</Lemma>
+	</Sentence>
+	<Sentence id="146">
+		<Tokens>-- EVF .</Tokens>
+		<POS>: NN .</POS>
+		<Lemma>-- evf .</Lemma>
+	</Sentence>
+	<Sentence id="147">
+		<Tokens>The articulated LCD is great , but there are times , especially with bright sun or long range with full zoom , that you 'll see and frame your subject far more easily with the EVF than the screen .</Tokens>
+		<POS>DT VBN NNS VBZ JJ , CC EX VBP NNS , RB IN JJ NN CC JJ NN IN JJ NN , IN PRP MD VB CC VB PRP$ JJ RB RBR RB IN DT NN IN DT NN .</POS>
+		<Lemma>the articulate lcd be great , but there be time , especially with bright sun or long range with full zoom , that you 'll see and frame you subject far more easily with the evf than the screen .</Lemma>
+	</Sentence>
+	<Sentence id="148">
+		<Tokens>-- Serious continuous mode .</Tokens>
+		<POS>: JJ JJ NN .</POS>
+		<Lemma>-- serious continuous mode .</Lemma>
+	</Sentence>
+	<Sentence id="149">
+		<Tokens>12fps -LRB- no AF -RRB- or 5.5 fps -LRB- AF -RRB- at full resolution .</Tokens>
+		<POS>NNS -LRB- DT NN -RRB- CC CD NNS -LRB- NN -RRB- IN JJ NN .</POS>
+		<Lemma>12fp -lrb- no af -rrb- or 5.5 fp -lrb- af -rrb- at full resolution .</Lemma>
+	</Sentence>
+	<Sentence id="150">
+		<Tokens>Lots of cameras tout fairly high burst rates ; they do n't promote the fact that this is only possible at very low resolution , like 3mp .</Tokens>
+		<POS>NNS IN NNS VBP RB JJ NN NNS : PRP VBP RB VB DT NN IN DT VBZ RB JJ IN RB JJ NN , IN CD .</POS>
+		<Lemma>lot of camera tout fairly high burst rate ; they do not promote the fact that this be only possible at very low resolution , like 3mp .</Lemma>
+	</Sentence>
+	<Sentence id="151">
+		<Tokens>-- Decent buffer .</Tokens>
+		<POS>: JJ NN .</POS>
+		<Lemma>-- decent buffer .</Lemma>
+	</Sentence>
+	<Sentence id="152">
+		<Tokens>For many types of action shots , 5-6fps is adequate , so if you keep AF on and shoot JPEG at 5.5 fps you can get several seconds of action before there 's a slowdown .</Tokens>
+		<POS>IN JJ NNS IN NN NNS , NNS VBZ JJ , RB IN PRP VBP NN IN CC VB NNP IN CD NNS PRP MD VB JJ NNS IN NN IN EX VBZ DT NN .</POS>
+		<Lemma>for many type of action shot , 5-6fp be adequate , so if you keep af on and shoot JPEG at 5.5 fp you can get several seconds of action before there be a slowdown .</Lemma>
+	</Sentence>
+	<Sentence id="153">
+		<Tokens>Lots of cameras tout high burst speeds ; they do n't tout the fact that you only get 1 second of burst before the buffer is full .</Tokens>
+		<POS>NNS IN NNS VBP JJ NN NNS : PRP VBP RB VB DT NN IN PRP RB VBP CD JJ IN NN IN DT NN VBZ JJ .</POS>
+		<Lemma>lot of camera tout high burst speed ; they do not tout the fact that you only get 1 second of burst before the buffer be full .</Lemma>
+	</Sentence>
+	<Sentence id="154">
+		<Tokens>-- RAW .</Tokens>
+		<POS>: NN .</POS>
+		<Lemma>-- raw .</Lemma>
+	</Sentence>
+	<Sentence id="155">
+		<Tokens>If you care about color , this is major .</Tokens>
+		<POS>IN PRP VBP IN NN , DT VBZ JJ .</POS>
+		<Lemma>if you care about color , this be major .</Lemma>
+	</Sentence>
+	<Sentence id="156">
+		<Tokens>-- Remote .</Tokens>
+		<POS>: NN .</POS>
+		<Lemma>-- remote .</Lemma>
+	</Sentence>
+	<Sentence id="157">
+		<Tokens>Less commonly used , perhaps , but very useful if you need to put your tripod in an awkward place , where it would be difficult to trigger the shutter by hand .</Tokens>
+		<POS>RBR RB VBN , RB , CC RB JJ IN PRP VBP TO VB PRP$ NN IN DT JJ NN , WRB PRP MD VB JJ TO VB DT NN IN NN .</POS>
+		<Lemma>less commonly use , perhaps , but very useful if you need to put you tripod in a awkward place , where it would be difficult to trigger the shutter by hand .</Lemma>
+	</Sentence>
+	<Sentence id="158">
+		<Tokens>Also avoids tripod shake .</Tokens>
+		<POS>RB VBZ JJ NN .</POS>
+		<Lemma>also avoid tripod shake .</Lemma>
+	</Sentence>
+	<Sentence id="159">
+		<Tokens>-- Hot shoe .</Tokens>
+		<POS>: JJ NN .</POS>
+		<Lemma>-- hot shoe .</Lemma>
+	</Sentence>
+	<Sentence id="160">
+		<Tokens>I never use one , but for many people , it 's a must for better flash , etc. .</Tokens>
+		<POS>PRP RB VBP CD , CC IN JJ NNS , PRP VBZ DT MD IN JJR NN , FW .</POS>
+		<Lemma>I never use one , but for many people , it be a must for better flash , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="161">
+		<Tokens>-- Plenty of manual control , for getting the picture you want .</Tokens>
+		<POS>: NN IN NN NN , IN VBG DT NN PRP VBP .</POS>
+		<Lemma>-- plenty of manual control , for get the picture you want .</Lemma>
+	</Sentence>
+	<Sentence id="162">
+		<Tokens>In short , this camera has all the features of a good enthusiast DSLR , and some features that are lacking even on some DSLRs .</Tokens>
+		<POS>IN JJ , DT NN VBZ PDT DT NNS IN DT JJ NN NN , CC DT NNS WDT VBP VBG RB IN DT NNS .</POS>
+		<Lemma>in short , this camera have all the feature of a good enthusiast dslr , and some feature that be lack even on some dslr .</Lemma>
+	</Sentence>
+</Document>

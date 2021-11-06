@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really like all of the options this charger gives you for charging your cell phone .</Tokens>
+		<POS>PRP RB IN DT IN DT NNS DT NN VBZ PRP IN VBG PRP$ NN NN .</POS>
+		<Lemma>I really like all of the option this charger give you for charge you cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have used it in the car with the 12V adapter and it has worked very well .</Tokens>
+		<POS>PRP VBP VBN PRP IN DT NN IN DT NN NN CC PRP VBZ VBN RB RB .</POS>
+		<Lemma>I have use it in the car with the 12v adapter and it have work very well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have used the wall plug in , of course , and it charges very quickly .</Tokens>
+		<POS>PRP VBP VBN DT NN NN IN , IN NN , CC PRP VBZ RB RB .</POS>
+		<Lemma>I have use the wall plug in , of course , and it charge very quickly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can also charge your phone with 2 AA batteries -LRB- which I tried for just a few minutes and it seemed to work well -RRB- and also a square 9 Volt battery -LRB- which I have not tried , but I 'm sure works -RRB- which would be great if you are camping or away from an outlet or your car .</Tokens>
+		<POS>PRP MD RB VB PRP$ NN IN CD NN NNS -LRB- WDT PRP VBD IN RB DT JJ NNS CC PRP VBD TO VB RB -RRB- CC RB DT JJ CD NN NN -LRB- WDT PRP VBP RB VBN , CC PRP VBP JJ NNS -RRB- WDT MD VB JJ IN PRP VBP VBG CC RB IN DT NN CC PRP$ NN .</POS>
+		<Lemma>you can also charge you phone with 2 aa battery -lrb- which I try for just a few minute and it seem to work well -rrb- and also a square 9 volt battery -lrb- which I have not try , but I be sure work -rrb- which would be great if you be camp or away from a outlet or you car .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Another nice feature is the charger has 2 usb ports to use with any of those charging options , so if you have a phone charging cord that has a USB end this charger should work for you .</Tokens>
+		<POS>DT JJ NN VBZ DT NN VBZ CD NN NNS TO VB IN DT IN DT VBG NNS , RB IN PRP VBP DT NN VBG NN WDT VBZ DT JJ NN DT NN MD VB IN PRP .</POS>
+		<Lemma>another nice feature be the charger have 2 usb port to use with any of those charge option , so if you have a phone charge cord that have a usb end this charger should work for you .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The quality of the charger and cord is really good and sturdy .</Tokens>
+		<POS>DT NN IN DT NN CC NN VBZ RB JJ CC JJ .</POS>
+		<Lemma>the quality of the charger and cord be really good and sturdy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If I have a need for another one of these I would definitely purchase another one .</Tokens>
+		<POS>IN PRP VBP DT NN IN DT CD IN DT PRP MD RB VB DT CD .</POS>
+		<Lemma>if I have a need for another one of these I would definitely purchase another one .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+</Document>

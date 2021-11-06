@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sorta square , modestly sized monitors are hard to come by anymore .</Tokens>
+		<POS>NNP NN , RB VBN NNS VBP JJ TO VB IN RB .</POS>
+		<Lemma>Sorta square , modestly size monitor be hard to come by anymore .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have a funky old desk from the early '90s with a cubbyhole that wo n't fit a huge , widescreen monitor , so this compact LCD fits my needs perfectly .</Tokens>
+		<POS>PRP VBP DT JJ JJ NN IN DT JJ NNS IN DT NN WDT MD RB VB DT JJ , JJ NN , RB DT JJ NNS VBZ PRP$ NNS RB .</POS>
+		<Lemma>I have a funky old desk from the early '90 with a cubbyhole that will not fit a huge , widescreen monitor , so this compact lcd fit my need perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just got it today and am still fiddling with display controls , but no complaints .</Tokens>
+		<POS>RB VBD PRP NN CC VBP RB VBG IN NN NNS , CC DT NNS .</POS>
+		<Lemma>just get it today and be still fiddle with display control , but no complaint .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The screen is plenty big enough for web surfing , office suite use , graphics use , and even watching movies if you are not sitting across the room from it .</Tokens>
+		<POS>DT NN VBZ RB JJ RB IN NN NN , NN NN NN , NNS VBP , CC RB VBG NNS IN PRP VBP RB VBG IN DT NN IN PRP .</POS>
+		<Lemma>the screen be plenty big enough for web surfing , office suite use , graphic use , and even watch movie if you be not sit across the room from it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When you do n't have a lot of real estate to devote to a monitor , this form factor is really useful .</Tokens>
+		<POS>WRB PRP VBP RB VB DT NN IN JJ NN TO VB TO DT NN , DT NN NN VBZ RB JJ .</POS>
+		<Lemma>when you do not have a lot of real estate to devote to a monitor , this form factor be really useful .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And the installation was true plug and play , with no need to install drivers .</Tokens>
+		<POS>CC DT NN VBD JJ NN CC NN , IN DT NN TO VB NNS .</POS>
+		<Lemma>and the installation be true plug and play , with no need to install driver .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>One caveat - not that you really need a user guide anymore for monitors , but I bought this as an open box model , and a user guide was not included -LRB- neither was the disc that comes with a new monitor , but I did n't need it -RRB- .</Tokens>
+		<POS>CD NN : RB IN PRP RB VBP DT NN NN RB IN NNS , CC PRP VBD DT IN DT JJ NN NN , CC DT NN NN VBD RB VBN -LRB- CC VBD DT NN WDT VBZ IN DT JJ NN , CC PRP VBD RB VB PRP -RRB- .</POS>
+		<Lemma>one caveat - not that you really need a user guide anymore for monitor , but I buy this as a open box model , and a user guide be not include -lrb- neither be the disc that come with a new monitor , but I do not need it -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you find yourself in the same boat , the user guide and drivers , if necessary , are available for download from the Acer website .</Tokens>
+		<POS>IN PRP VBP PRP IN DT JJ NN , DT NN NN CC NNS , IN JJ , VBP JJ IN NN IN DT NNP NN .</POS>
+		<Lemma>if you find yourself in the same boat , the user guide and driver , if necessary , be available for download from the Acer website .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Just do a search for the brand\/model number .</Tokens>
+		<POS>RB VB DT NN IN DT NN NN .</POS>
+		<Lemma>just do a search for the brand\/model number .</Lemma>
+	</Sentence>
+</Document>

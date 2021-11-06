@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I could ` nt believe the price !</Tokens>
+		<POS>PRP MD `` NNS VBP DT NN .</POS>
+		<Lemma>I could ` nt believe the price !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>but when i got this monitor it was beautiful !</Tokens>
+		<POS>CC WRB FW VBD DT NN PRP VBD JJ .</POS>
+		<Lemma>but when i get this monitor it be beautiful !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My boyfriend loved it so much he bought one too .</Tokens>
+		<POS>PRP$ NN VBD PRP RB RB PRP VBD CD RB .</POS>
+		<Lemma>my boyfriend love it so much he buy one too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Being a part time photographer I noticed the clarity and vibrance right away !</Tokens>
+		<POS>VBG DT NN NN NNP PRP VBD DT NN CC NN RB RB .</POS>
+		<Lemma>be a part time photographer I notice the clarity and vibrance right away !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You know it cant be bad if the company `` Ferrari '' uses the same monitor brand .</Tokens>
+		<POS>PRP VBP PRP JJ VB JJ IN DT NN `` NNP '' VBZ DT JJ NN NN .</POS>
+		<Lemma>you know it cant be bad if the company `` Ferrari '' use the same monitor brand .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Nice and wide , clear as a bell .</Tokens>
+		<POS>JJ CC JJ , JJ IN DT NN .</POS>
+		<Lemma>nice and wide , clear as a bell .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The only flaw I can see is it really doesnt swivel .</Tokens>
+		<POS>DT JJ NN PRP MD VB VBZ PRP RB JJ NN .</POS>
+		<Lemma>the only flaw I can see be it really doesnt swivel .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But I swivel my chair instead .</Tokens>
+		<POS>CC PRP VBP PRP$ NN RB .</POS>
+		<Lemma>but I swivel my chair instead .</Lemma>
+	</Sentence>
+</Document>

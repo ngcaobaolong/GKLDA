@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent monitor .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>excellent monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Clear and crispy image .</Tokens>
+		<POS>JJ CC JJ NN .</POS>
+		<Lemma>clear and crispy image .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very , very satisfied with it .</Tokens>
+		<POS>RB , RB JJ IN PRP .</POS>
+		<Lemma>very , very satisfied with it .</Lemma>
+	</Sentence>
+</Document>

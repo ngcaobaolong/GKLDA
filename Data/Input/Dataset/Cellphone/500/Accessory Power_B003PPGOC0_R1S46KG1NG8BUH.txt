@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>`` I love this adapter .</Tokens>
+		<POS>`` PRP VBP DT NN .</POS>
+		<Lemma>`` I love this adapter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It worked immediately .</Tokens>
+		<POS>PRP VBD RB .</POS>
+		<Lemma>it work immediately .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I found the sound quality was greatly improved by increasing the base .</Tokens>
+		<POS>PRP VBD DT JJ NN VBD RB VBN IN VBG DT NN .</POS>
+		<Lemma>I find the sound quality be greatly improve by increase the base .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Excellent with my phone as well .</Tokens>
+		<POS>JJ IN PRP$ NN RB RB .</POS>
+		<Lemma>excellent with my phone as well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Do n't hesitate to try it . ''</Tokens>
+		<POS>VBP RB VB TO VB PRP . ''</POS>
+		<Lemma>do not hesitate to try it . ''</Lemma>
+	</Sentence>
+</Document>

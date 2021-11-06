@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works quite well with an iPhone 4 .</Tokens>
+		<POS>NNP RB RB IN DT NNP CD .</POS>
+		<Lemma>Works quite well with a iPhone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has a significantly better FM signal than the Griffin I was using ; in fact it is nearly perfect so far , with virtually no background noise or hum .</Tokens>
+		<POS>PRP VBZ DT RB JJR NN NN IN DT NNP PRP VBD VBG : IN NN PRP VBZ RB JJ RB RB , IN RB DT NN NN CC NN .</POS>
+		<Lemma>it have a significantly better fm signal than the Griffin I be use ; in fact it be nearly perfect so far , with virtually no background noise or hum .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The Bluetooth pairing worked well .</Tokens>
+		<POS>DT NNP NN VBD RB .</POS>
+		<Lemma>the Bluetooth pairing work well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The controls are easy to use , for both phone and for music .</Tokens>
+		<POS>DT NNS VBP JJ TO VB , IN DT NN CC IN NN .</POS>
+		<Lemma>the control be easy to use , for both phone and for music .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Two very minor quibbles , which they could fix on the next generation : first , the LED lights are a bit too bright ; second , it would make more sense for the volume control to be the primary function of the knob instead of the secondary function .</Tokens>
+		<POS>CD RB JJ NNS , WDT PRP MD VB IN DT JJ NN : RB , DT NNP NNS VBP DT NN RB JJ : RB , PRP MD VB JJR NN IN DT NN NN TO VB DT JJ NN IN DT NN RB IN DT JJ NN .</POS>
+		<Lemma>two very minor quibble , which they could fix on the next generation : first , the LED light be a bit too bright ; second , it would make more sense for the volume control to be the primary function of the knob instead of the secondary function .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>As it is , the knob controls the FM station selection and you push the knob once to enable volume control .</Tokens>
+		<POS>IN PRP VBZ , DT NN VBZ DT NNP NN NN CC PRP VBP DT NN RB TO VB NN NN .</POS>
+		<Lemma>as it be , the knob control the FM station selection and you push the knob once to enable volume control .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The reverse might make more sense .</Tokens>
+		<POS>DT NN MD VB JJR NN .</POS>
+		<Lemma>the reverse might make more sense .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>All in all , this is by far the best iPod\/iPhone car solution that I have found .</Tokens>
+		<POS>DT IN DT , DT VBZ IN RB DT JJS NN NN NN IN PRP VBP VBN .</POS>
+		<Lemma>all in all , this be by far the best ipod\/iphone car solution that I have find .</Lemma>
+	</Sentence>
+</Document>

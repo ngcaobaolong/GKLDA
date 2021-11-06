@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this transmitter several months ago because I needed something to play my iPhone music through my Audi A4 stereo -LRB- since I do n't have an AUX-IN and they wanted $ 900 to install one -RRB- .</Tokens>
+		<POS>PRP VBD DT NN JJ NNS RB IN PRP VBD NN TO VB PRP$ NNP NN IN PRP$ NNP NN NN -LRB- IN PRP VBP RB VB DT NN CC PRP VBD $ CD TO VB CD -RRB- .</POS>
+		<Lemma>I buy this transmitter several month ago because I need something to play my iPhone music through my Audi a4 stereo -lrb- since I do not have a aux-in and they want $ 900 to install one -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did n't really care about Bluetooth or the hands-free phone or the controls , I just needed a basic FM transmitter that actually worked .</Tokens>
+		<POS>PRP VBD RB RB VB IN NNP CC DT JJ NN CC DT NNS , PRP RB VBD DT JJ NNP NN WDT RB VBD .</POS>
+		<Lemma>I do not really care about Bluetooth or the hands-free phone or the control , I just need a basic FM transmitter that actually work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Turns out that the Blue-tooth , phone , and music control buttons are all REALLY GREAT .</Tokens>
+		<POS>VBZ RP IN DT NN , NN , CC NN NN NNS VBP DT RB JJ .</POS>
+		<Lemma>turn out that the blue-tooth , phone , and music control button be all really great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The most important part of any FM Transmitter is how good the sound is .</Tokens>
+		<POS>DT RBS JJ NN IN DT NNP NNP VBZ WRB JJ DT NN VBZ .</POS>
+		<Lemma>the most important part of any FM Transmitter be how good the sound be .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I find this one to be the best I 've ever used .</Tokens>
+		<POS>PRP VBP DT CD TO VB DT JJS PRP VBP RB VBN .</POS>
+		<Lemma>I find this one to be the best I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>There is very rarely static or interference with the transmission and the sound is somewhere between local radio quality and satellite .</Tokens>
+		<POS>EX VBZ RB RB JJ CC NN IN DT NN CC DT NN VBZ RB IN JJ NN NN CC NN .</POS>
+		<Lemma>there be very rarely static or interference with the transmission and the sound be somewhere between local radio quality and satellite .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm actually surprised at how often I turn the device off and I hear music playing from the station I 'm on .</Tokens>
+		<POS>PRP VBP RB VBN IN WRB RB PRP VBP DT NN RB CC PRP VBP NN NN IN DT NN PRP VBP IN .</POS>
+		<Lemma>I be actually surprise at how often I turn the device off and I hear music playing from the station I be on .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's strong enough to overcome even medium strength radio stations .</Tokens>
+		<POS>PRP VBZ JJ RB TO VB RB JJ NN NN NNS .</POS>
+		<Lemma>it be strong enough to overcome even medium strength radio station .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I live in Washington DC so there is something being broadcast on every station on the dial .</Tokens>
+		<POS>PRP VBP IN NNP NNP RB EX VBZ NN VBG VBN IN DT NN IN DT NN .</POS>
+		<Lemma>I live in Washington DC so there be something be broadcast on every station on the dial .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is the only FM transmitter I 've ever used that I do n't have to constantly look for another available station .</Tokens>
+		<POS>DT VBZ DT JJ NNP NN PRP VBP RB VBN IN PRP VBP RB VB TO RB VB IN DT JJ NN .</POS>
+		<Lemma>this be the only FM transmitter I have ever use that I do not have to constantly look for another available station .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Several of my friends now have this same device and they 've also told me they love it .</Tokens>
+		<POS>JJ IN PRP$ NNS RB VBP DT JJ NN CC PRP VBP RB VBN PRP PRP VBP PRP .</POS>
+		<Lemma>several of my friend now have this same device and they have also tell I they love it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>HIGHLY RECOMMENDED .</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Please note though : I have no idea if the charging works .</Tokens>
+		<POS>UH VB IN : PRP VBP DT NN IN DT VBG NNS .</POS>
+		<Lemma>please note though : I have no idea if the charge work .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 've never tried to use this feature .</Tokens>
+		<POS>PRP VBP RB VBN TO VB DT NN .</POS>
+		<Lemma>I have never try to use this feature .</Lemma>
+	</Sentence>
+</Document>

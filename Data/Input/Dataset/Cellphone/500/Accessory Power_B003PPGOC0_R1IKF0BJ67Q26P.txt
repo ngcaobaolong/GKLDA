@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received the GOgroove FlexSMART X2 ADVANCED Wireless In-Car Bluetooth FM Transmitter quickly and it works wonderful with my new iPhone .</Tokens>
+		<POS>PRP VBD DT NN NN NN VBD NNP NNP NNP NNP NNP RB CC PRP VBZ JJ IN PRP$ JJ NNP .</POS>
+		<Lemma>I receive the gogroove flexsmart x2 advance Wireless In-Car Bluetooth FM Transmitter quickly and it work wonderful with my new iPhone .</Lemma>
+	</Sentence>
+</Document>

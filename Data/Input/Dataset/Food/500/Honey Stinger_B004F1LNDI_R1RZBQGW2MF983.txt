@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love these waffles for a number of reasons , but the top ones include the natural ingredients , the kick they give you during long rides when you think there is no gas left in the tank , and how compact they are .</Tokens>
+		<POS>PRP VBP DT NNS IN DT NN IN NNS , CC DT JJ NNS VBP DT JJ NNS , DT NN PRP VBP PRP IN JJ NNS WRB PRP VBP EX VBZ DT NN VBD IN DT NN , CC WRB JJ PRP VBP .</POS>
+		<Lemma>I love these waffle for a number of reason , but the top one include the natural ingredient , the kick they give you during long ride when you think there be no gas leave in the tank , and how compact they be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have found that these and the stinger organic chews are very easy to consume while riding and are not followed up with a heavy\/rot gut feeling .</Tokens>
+		<POS>PRP VBP VBN IN DT CC DT NN JJ NNS VBP RB JJ TO VB IN VBG CC VBP RB VBN RP IN DT NN NN NN .</POS>
+		<Lemma>I have find that these and the stinger organic chew be very easy to consume while ride and be not follow up with a heavy\/rot gut feeling .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And to top it off , for those of us who are reduced saliva producers , you do n't need to consume half of a water bottle to get them down .</Tokens>
+		<POS>CC TO VB PRP RP , IN DT IN PRP WP VBP VBN NN NNS , PRP VBP RB VB TO VB NN IN DT NN NN TO VB PRP RP .</POS>
+		<Lemma>and to top it off , for those of we who be reduce saliva producer , you do not need to consume half of a water bottle to get they down .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+</Document>

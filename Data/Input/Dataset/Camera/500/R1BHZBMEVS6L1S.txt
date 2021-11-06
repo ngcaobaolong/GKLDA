@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>How come when I tried to turn off the Kodak playsport Zx5 , the screen has a grayish light , the power light is on ... no matter what you press , it just does n't do anything .</Tokens>
+		<POS>WRB VBN WRB PRP VBD TO VB RP DT NNP NN NN , DT NN VBZ DT JJ NN , DT NN NN VBZ IN : DT NN WDT PRP NN , PRP RB VBZ RB VB NN .</POS>
+		<Lemma>how come when I try to turn off the Kodak playsport zx5 , the screen have a grayish light , the power light be on ... no matter what you press , it just do not do anything .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The screen stays grayish color -LRB- it 's on but just gray screen -RRB- , and the power light is on ... you ca n't turn it off or on ... and you ca n't remove the battery to reset the thing either .</Tokens>
+		<POS>DT NN VBZ JJ NN -LRB- PRP VBZ IN CC RB JJ NN -RRB- , CC DT NN NN VBZ IN : PRP MD RB VB PRP RP CC IN : CC PRP MD RB VB DT NN TO VB DT NN RB .</POS>
+		<Lemma>the screen stay grayish color -lrb- it be on but just gray screen -rrb- , and the power light be on ... you can not turn it off or on ... and you can not remove the battery to reset the thing either .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>What am I supposed to do ???</Tokens>
+		<POS>WDT VBP PRP VBN TO VB CD</POS>
+		<Lemma>what be I suppose to do ???</Lemma>
+	</Sentence>
+</Document>

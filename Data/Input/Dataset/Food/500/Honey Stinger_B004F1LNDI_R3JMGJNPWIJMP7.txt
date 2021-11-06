@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These things are perfect for a mid-run refuel .</Tokens>
+		<POS>DT NNS VBP JJ IN DT JJ NN .</POS>
+		<Lemma>these thing be perfect for a mid-run refuel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After about 2 hrs I want something more substantial than the honey gels and these are perfect .</Tokens>
+		<POS>IN IN CD NNS PRP VBP NN RBR JJ IN DT NN NNS CC DT VBP JJ .</POS>
+		<Lemma>after about 2 hr I want something more substantial than the honey gel and these be perfect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The right amount of sweetness without being overwhelming .</Tokens>
+		<POS>DT JJ NN IN NN IN VBG JJ .</POS>
+		<Lemma>the right amount of sweetness without be overwhelming .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I never go on long runs or hikes without one .</Tokens>
+		<POS>PRP RB VBP RP JJ NNS CC NNS IN CD .</POS>
+		<Lemma>I never go on long run or hike without one .</Lemma>
+	</Sentence>
+</Document>

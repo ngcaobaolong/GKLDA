@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought a couple bags of this at a local health food store & was surprised at how far this soup mix goes .</Tokens>
+		<POS>PRP VBD DT NN NN IN DT IN DT JJ NN NN NN CC VBD VBN IN WRB RB DT NN NN VBZ .</POS>
+		<Lemma>I buy a couple bag of this at a local health food store & be surprise at how far this soup mix go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've had to add extra water while cooking & a little bit is filling .</Tokens>
+		<POS>PRP VBP VBN TO VB JJ NN IN NN CC DT JJ NN VBZ VBG .</POS>
+		<Lemma>I have have to add extra water while cooking & a little bit be fill .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The package I have reads 19g of fiber & 63g of carbs for those who are carb counting & also trying to add more fiber into your diet .</Tokens>
+		<POS>DT NN PRP VBP VBZ CD IN NN CC NN IN NNS IN DT WP VBP NN VBG CC RB VBG TO VB JJR NN IN PRP$ NN .</POS>
+		<Lemma>the package I have read 19g of fiber & 63g of carb for those who be carb count & also try to add more fiber into you diet .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Fiber is the main reason I picked this up at the health food store , & that it 's all natural .</Tokens>
+		<POS>NN VBZ DT JJ NN PRP VBD DT RP IN DT NN NN NN , CC IN PRP VBZ DT JJ .</POS>
+		<Lemma>fiber be the main reason I pick this up at the health food store , & that it be all natural .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was n't expecting it to taste good or anything .</Tokens>
+		<POS>PRP VBD RB VBG PRP TO VB JJ CC NN .</POS>
+		<Lemma>I be not expect it to taste good or anything .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My version I add a little spices , some beans & extra veggies with a little garlic powder .</Tokens>
+		<POS>PRP$ NN PRP VBP DT JJ NNS , DT NNS CC JJ NNS IN DT JJ JJ NN .</POS>
+		<Lemma>my version I add a little spice , some bean & extra veggy with a little garlic powder .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Like I said a little goes a long way .</Tokens>
+		<POS>IN PRP VBD DT JJ VBZ DT JJ NN .</POS>
+		<Lemma>like I say a little go a long way .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Rinse first though before you cook , that 's what I 've been told , so I try to do that with everything I buy .</Tokens>
+		<POS>VB RB IN IN PRP VBP , DT VBZ WP PRP VBP VBN VBN , IN PRP VBP TO VB DT IN NN PRP VBP .</POS>
+		<Lemma>rinse first though before you cook , that be what I have be tell , so I try to do that with everything I buy .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use this mix on a regular basis and find that I do need to add about a teaspoon of xanthan gum to it or else it does n't hold together for a good sandwich or bun .</Tokens>
+		<POS>PRP VBP DT NN IN DT JJ NN CC VB IN PRP VBP VB TO VB IN DT NN IN JJ NN TO PRP CC RB PRP VBZ RB VB RB IN DT JJ NN CC NN .</POS>
+		<Lemma>I use this mix on a regular basis and find that I do need to add about a teaspoon of xanthan gum to it or else it do not hold together for a good sandwich or bun .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've also found it 's better if I add 2 TBSP molasses to the liquid measure -LRB- reducing the water by that amount -RRB- .</Tokens>
+		<POS>PRP VBP RB VBN PRP VBZ JJR IN PRP VBP CD NN NNS TO DT JJ NN -LRB- VBG DT NN IN DT NN -RRB- .</POS>
+		<Lemma>I have also find it be better if I add 2 tbsp molasses to the liquid measure -lrb- reduce the water by that amount -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This mix also responds well to substituting ground flax seed gel for egg .</Tokens>
+		<POS>DT NN RB VBZ RB TO VBG NN NN NN NN IN NN .</POS>
+		<Lemma>this mix also respond well to substitute ground flax seed gel for egg .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It only seems to enhance the whole grain texture .</Tokens>
+		<POS>PRP RB VBZ TO VB DT JJ NN NN .</POS>
+		<Lemma>it only seem to enhance the whole grain texture .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I simply do n't have the patience for mixing half a dozen flours to make bread .</Tokens>
+		<POS>PRP RB VBP RB VB DT NN IN VBG PDT DT NN NNS TO VB NN .</POS>
+		<Lemma>I simply do not have the patience for mix half a dozen flour to make bread .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This mix and the Pamela 's mix allows me to have variety in the bread I make and every loaf -LRB- or batch of buns -RRB- come out consistently good .</Tokens>
+		<POS>DT NN CC DT NNP POS NN VBZ PRP TO VB NN IN DT NN PRP VBP CC DT NN -LRB- CC NN IN NNS -RRB- VBP RP RB JJ .</POS>
+		<Lemma>this mix and the Pamela 's mix allow I to have variety in the bread I make and every loaf -lrb- or batch of bun -rrb- come out consistently good .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It 's easy to make buns with any GF bread mix by using a muffin top pan .</Tokens>
+		<POS>PRP VBZ JJ TO VB NNS IN DT NN NN NN IN VBG DT NN JJ NN .</POS>
+		<Lemma>it be easy to make bun with any gf bread mix by use a muffin top pan .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Another tip is it 's easy to make sure your dough has the right temp to rise perfectly - use a heating pad under the dough set on low -LRB- yes , the same heating pad you use on your back -RRB- .</Tokens>
+		<POS>DT NN VBZ PRP VBZ JJ TO VB JJ PRP$ NN VBZ DT JJ NN TO VB RB : VB DT NN NN IN DT JJ NN IN JJ -LRB- UH , DT JJ NN NN PRP VBP IN PRP$ NN -RRB- .</POS>
+		<Lemma>another tip be it be easy to make sure you dough have the right temp to rise perfectly - use a heating pad under the dough set on low -lrb- yes , the same heating pad you use on you back -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you order this product under Subscribe & Save , you ca n't beat the price and if you 're living gluten free - you need all the price breaks you can get !</Tokens>
+		<POS>IN PRP VBP DT NN IN NNP CC NNP , PRP MD RB VB DT NN CC IN PRP VBP VBG NN JJ : PRP VBP PDT DT NN NNS PRP MD VB .</POS>
+		<Lemma>if you order this product under Subscribe & Save , you can not beat the price and if you be live gluten free - you need all the price break you can get !</Lemma>
+	</Sentence>
+</Document>

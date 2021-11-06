@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This usb car charger is a good value .</Tokens>
+		<POS>DT NN NN NN VBZ DT JJ NN .</POS>
+		<Lemma>this usb car charger be a good value .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It worked as advertised .</Tokens>
+		<POS>PRP VBD IN VBN .</POS>
+		<Lemma>it work as advertise .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The price was very reasonable .</Tokens>
+		<POS>DT NN VBD RB JJ .</POS>
+		<Lemma>the price be very reasonable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It was shipped quickly .</Tokens>
+		<POS>PRP VBD VBN RB .</POS>
+		<Lemma>it be ship quickly .</Lemma>
+	</Sentence>
+</Document>

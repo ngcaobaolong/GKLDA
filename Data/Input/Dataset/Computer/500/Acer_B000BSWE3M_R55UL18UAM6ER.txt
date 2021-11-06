@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ordered this monitor at night of 12\/22\/2005 using Free super saving shipping and received it in the morning of 12\/24\/2005 .</Tokens>
+		<POS>VBN DT NN IN NN IN CD VBG NNP JJ NN NN CC VBD PRP IN DT NN IN CD .</POS>
+		<Lemma>order this monitor at night of 12\/22\/2005 use Free super saving shipping and receive it in the morning of 12\/24\/2005 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Amazon shipped it with next day air !</Tokens>
+		<POS>NNP VBD PRP IN JJ NN NN .</POS>
+		<Lemma>Amazon ship it with next day air !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And I would say this is a great monitor .</Tokens>
+		<POS>CC PRP MD VB DT VBZ DT JJ NN .</POS>
+		<Lemma>and I would say this be a great monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Bright and crisp clear !</Tokens>
+		<POS>JJ CC JJ JJ .</POS>
+		<Lemma>bright and crisp clear !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Amazon ROCKS !</Tokens>
+		<POS>NNP NNP .</POS>
+		<Lemma>Amazon ROCKS !</Lemma>
+	</Sentence>
+</Document>

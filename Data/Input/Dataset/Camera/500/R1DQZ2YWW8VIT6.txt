@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very compact and well built with a very bright , clear screen .</Tokens>
+		<POS>RB JJ CC RB VBN IN DT RB JJ , JJ NN .</POS>
+		<Lemma>very compact and well build with a very bright , clear screen .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The panoramic mode works better than I expected .</Tokens>
+		<POS>DT JJ NN VBZ JJR IN PRP VBD .</POS>
+		<Lemma>the panoramic mode work better than I expect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Good battery life .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>good battery life .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pictures are very good quality with accurate color .</Tokens>
+		<POS>NNS VBP RB JJ NN IN JJ NN .</POS>
+		<Lemma>picture be very good quality with accurate color .</Lemma>
+	</Sentence>
+</Document>

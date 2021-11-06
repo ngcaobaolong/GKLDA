@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use an air popper made by cuisinart and there are only a few `` old maids '' and the popcorn is is great .</Tokens>
+		<POS>PRP VBP DT NN NN VBN IN NN CC EX VBP RB DT JJ `` JJ NNS '' CC DT NN VBZ VBZ JJ .</POS>
+		<Lemma>I use a air popper make by cuisinart and there be only a few `` old maid '' and the popcorn be be great .</Lemma>
+	</Sentence>
+</Document>

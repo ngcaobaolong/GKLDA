@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This laptop is awesome , I had such a great time with it .</Tokens>
+		<POS>DT NN VBZ JJ , PRP VBD JJ DT JJ NN IN PRP .</POS>
+		<Lemma>this laptop be awesome , I have such a great time with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It goes so fast that in a blink of an eye , I am able to play lots of games with it .</Tokens>
+		<POS>PRP VBZ RB JJ IN IN DT NN IN DT NN , PRP VBP JJ TO VB NNS IN NNS IN PRP .</POS>
+		<Lemma>it go so fast that in a blink of a eye , I be able to play lot of game with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It can go really fast as long as you play on it a little bit .</Tokens>
+		<POS>PRP MD VB RB RB IN RB IN PRP VBP IN PRP DT JJ NN .</POS>
+		<Lemma>it can go really fast as long as you play on it a little bit .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is really worth the money that is if you are willing to pay 300 dollars to 400 dollars .</Tokens>
+		<POS>PRP VBZ RB JJ DT NN WDT VBZ IN PRP VBP JJ TO VB CD NNS TO CD NNS .</POS>
+		<Lemma>it be really worth the money that be if you be willing to pay 300 dollar to 400 dollar .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>that is .</Tokens>
+		<POS>DT VBZ .</POS>
+		<Lemma>that be .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>To be honest it is an honor to me to have such a great computer .</Tokens>
+		<POS>TO VB JJ PRP VBZ DT NN TO PRP TO VB JJ DT JJ NN .</POS>
+		<Lemma>to be honest it be a honor to I to have such a great computer .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I really recommend it .</Tokens>
+		<POS>PRP RB VB PRP .</POS>
+		<Lemma>I really recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is an amazing computer and I have to admit I have not even found about all it crazy things .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC PRP VBP TO VB PRP VBP RB RB VBN IN DT PRP JJ NNS .</POS>
+		<Lemma>it be a amazing computer and I have to admit I have not even find about all it crazy thing .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is my favorite computer .</Tokens>
+		<POS>PRP VBZ PRP$ JJ NN .</POS>
+		<Lemma>it be my favorite computer .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I am proud to have this computer .</Tokens>
+		<POS>PRP VBP JJ TO VB DT NN .</POS>
+		<Lemma>I be proud to have this computer .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>: -RRB-</Tokens>
+		<POS>: -RRB-</POS>
+		<Lemma>: -rrb-</Lemma>
+	</Sentence>
+</Document>

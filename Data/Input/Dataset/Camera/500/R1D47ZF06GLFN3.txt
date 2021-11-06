@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I so thrilled with my recent purchase of my new digital camera .</Tokens>
+		<POS>PRP RB VBD IN PRP$ JJ NN IN PRP$ JJ JJ NN .</POS>
+		<Lemma>I so thrill with my recent purchase of my new digital camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We have some beautiful little creatures in our back yard , squirrels , all kinds of birds , hummingbirds , flowers , I truly love photo taking of all kinds .</Tokens>
+		<POS>PRP VBP DT JJ JJ NNS IN PRP$ JJ NN , NNS , DT NNS IN NNS , NNS , NNS , PRP RB VBP NN NN IN DT NNS .</POS>
+		<Lemma>we have some beautiful little creature in we back yard , squirrel , all kind of bird , hummingbird , flower , I truly love photo taking of all kind .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have a smaller little kodak camera that has been great but my photos of the hummingbirds have been blurry because the zoom was not good enough on my little camera .</Tokens>
+		<POS>PRP VBP DT JJR JJ NN NN WDT VBZ VBN JJ CC PRP$ NNS IN DT NNS VBP VBN JJ IN DT NN VBD RB JJ RB IN PRP$ JJ NN .</POS>
+		<Lemma>I have a smaller little kodak camera that have be great but my photo of the hummingbird have be blurry because the zoom be not good enough on my little camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>the kodak z5010 has already been awesome .</Tokens>
+		<POS>DT NN NN VBZ RB VBN JJ .</POS>
+		<Lemma>the kodak z5010 have already be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am more than happy with it so far .</Tokens>
+		<POS>PRP VBP JJR IN JJ IN PRP RB RB .</POS>
+		<Lemma>I be more than happy with it so far .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The camera has been easy to use and the photos are just beautiful .</Tokens>
+		<POS>DT NN VBZ VBN JJ TO VB CC DT NNS VBP RB JJ .</POS>
+		<Lemma>the camera have be easy to use and the photo be just beautiful .</Lemma>
+	</Sentence>
+</Document>

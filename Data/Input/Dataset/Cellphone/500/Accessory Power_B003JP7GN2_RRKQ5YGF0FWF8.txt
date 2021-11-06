@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this product , it delivers exactly what they promised , arrived promptly , and I can use it for pretty much any device as it has a micro and mini USB charger , as well as one for iPod\/iPhone .</Tokens>
+		<POS>PRP VBP DT NN , PRP VBZ RB WP PRP VBD , VBD RB , CC PRP MD VB PRP IN RB RB DT NN IN PRP VBZ DT JJ CC JJ JJ NN , RB RB IN CD IN NN .</POS>
+		<Lemma>I love this product , it deliver exactly what they promise , arrive promptly , and I can use it for pretty much any device as it have a micro and mini usb charger , as well as one for ipod\/iphone .</Lemma>
+	</Sentence>
+</Document>

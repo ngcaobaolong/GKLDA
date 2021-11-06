@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>IT WAS AN EARLY CHRISTMAS GIFT AND WAS PURCHASED FOR A DISNEY TRIP .</Tokens>
+		<POS>PRP VBD DT NNP NNP NNP CC NNS VBD IN DT NNP NN .</POS>
+		<Lemma>it be a EARLY CHRISTMAS GIFT and wa purchase for a DISNEY trip .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>IT WAS A HUGE SUCCESS AS THE VIDEOS CAPTURED ON THE TRIP WERE FANTASTIC AND EASE OF OPERATING AND COMPACT NATURE WAS EXTREMELY HELPFUL WITH ALL THE WALKING THAT WAS DONE WITHOUT THE EXCESS BAGGAGE AND WEIGHT .</Tokens>
+		<POS>PRP VBD DT JJ NN JJ DT NNS VBN IN DT NN VBD JJ CC VB IN NNP CC NNP NNP VBD RB JJ IN NN DT VBG WDT VBD NNP NNP DT JJ NN CC NN .</POS>
+		<Lemma>it be a huge success as the video capture on the trip be fantastic and ease of OPERATING and COMPACT NATURE be extremely helpful with all the walk that be DONE WITHOUT the excess baggage and weight .</Lemma>
+	</Sentence>
+</Document>

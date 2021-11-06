@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product for the price we used it for our church - United Christian Church -LRB- UCC -RRB- of Garland , Texas - -LRB- ... -RRB- for running our media programs in conjunction with our dual projectors .</Tokens>
+		<POS>JJ NN IN DT NN PRP VBD PRP IN PRP$ NN : NNP NNP NNP -LRB- NNP -RRB- IN NNP , NNP : -LRB- : -RRB- IN VBG PRP$ NNS NNS IN NN IN PRP$ JJ NNS .</POS>
+		<Lemma>great product for the price we use it for we church - United Christian Church -lrb- UCC -rrb- of Garland , Texas - -lrb- ... -rrb- for run we media program in conjunction with we dual projector .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very good price and the product seems to work perfectly I would recommend this product .</Tokens>
+		<POS>RB JJ NN CC DT NN VBZ TO VB RB PRP MD VB DT NN .</POS>
+		<Lemma>very good price and the product seem to work perfectly I would recommend this product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would loved to go with a touch screen but that price point occurs at a different level .</Tokens>
+		<POS>PRP MD VBD TO VB IN DT NN NN CC IN NN NN VBZ IN DT JJ NN .</POS>
+		<Lemma>I would love to go with a touch screen but that price point occur at a different level .</Lemma>
+	</Sentence>
+</Document>

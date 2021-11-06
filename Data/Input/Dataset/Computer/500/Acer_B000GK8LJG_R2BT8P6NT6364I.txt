@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>very good monitor , bought it on the 14 of last month and i am not complaining at all .</Tokens>
+		<POS>RB JJ NN , VBD PRP IN DT CD IN JJ NN CC FW VBP RB VBG IN DT .</POS>
+		<Lemma>very good monitor , buy it on the 14 of last month and i be not complain at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i know its not high def but when i watch movies its so much better than my pervious monitor -LRB- old CRT 20 '' monitor . -RRB-</Tokens>
+		<POS>LS VB PRP$ RB JJ NN CC WRB FW VBP NNS PRP$ RB RB JJR IN PRP$ JJ NN -LRB- JJ NNP CD '' NN . -RRB-</POS>
+		<Lemma>i know its not high def but when i watch movie its so much better than my pervious monitor -lrb- old CRT 20 '' monitor . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>that made `` noise '' and i had a constant headache from it .</Tokens>
+		<POS>IN VBN `` NN '' CC FW VBD DT JJ NN IN PRP .</POS>
+		<Lemma>that make `` noise '' and i have a constant headache from it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>so i got this one instead and couldnt have been more happier with a purchase .</Tokens>
+		<POS>RB FW VBD DT CD RB CC NN VBP VBN RBR JJR IN DT NN .</POS>
+		<Lemma>so i get this one instead and couldnt have be more happier with a purchase .</Lemma>
+	</Sentence>
+</Document>

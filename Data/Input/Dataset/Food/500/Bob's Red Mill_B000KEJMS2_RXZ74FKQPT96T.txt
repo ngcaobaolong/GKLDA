@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i usually order organic but did these by accident .</Tokens>
+		<POS>LS RB NN JJ CC VBD DT IN NN .</POS>
+		<Lemma>i usually order organic but do these by accident .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>still good , everything is good from bob 's .</Tokens>
+		<POS>RB JJ , NN VBZ JJ IN NN POS .</POS>
+		<Lemma>still good , everything be good from bob 's .</Lemma>
+	</Sentence>
+</Document>

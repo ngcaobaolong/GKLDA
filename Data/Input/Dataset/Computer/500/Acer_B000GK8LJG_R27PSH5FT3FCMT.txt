@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There are many comments about how people ca n't get the correct 1440 x 900 aspect ratio with this monitor ... but the problem is not with the monitor nor is it with the drivers .</Tokens>
+		<POS>EX VBP JJ NNS IN WRB NNS MD RB VB DT JJ CD CC CD NN NN IN DT NN : CC DT NN VBZ RB IN DT NN CC VBZ PRP IN DT NNS .</POS>
+		<Lemma>there be many comment about how people can not get the correct 1440 x 900 aspect ratio with this monitor ... but the problem be not with the monitor nor be it with the driver .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The problem is with their video card \/ adapter .</Tokens>
+		<POS>DT NN VBZ IN PRP$ NN NN : NN .</POS>
+		<Lemma>the problem be with they video card \/ adapter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just make sure your video adapter allows you to view 1440 x 900 and this monitor will work great .</Tokens>
+		<POS>RB VB JJ PRP$ NN NN VBZ PRP TO VB CD CC CD CC DT NN MD VB JJ .</POS>
+		<Lemma>just make sure you video adapter allow you to view 1440 x 900 and this monitor will work great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's a nice minotor with excellent resolution ... HD stuff looks great on it and it 's hard to beat the price .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN JJ NN : NN NN VBZ JJ IN PRP CC PRP VBZ JJ TO VB DT NN .</POS>
+		<Lemma>it be a nice minotor with excellent resolution ... hd stuff look great on it and it be hard to beat the price .</Lemma>
+	</Sentence>
+</Document>

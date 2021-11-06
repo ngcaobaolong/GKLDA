@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this charger when the one that can with my phone broke .</Tokens>
+		<POS>PRP VBD DT NN WRB DT CD WDT MD IN PRP$ NN VBD .</POS>
+		<Lemma>I purchase this charger when the one that can with my phone break .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have used the charger in my car and at home and it works great .</Tokens>
+		<POS>PRP VBP VBN DT NN IN PRP$ NN CC IN NN CC PRP VBZ JJ .</POS>
+		<Lemma>I have use the charger in my car and at home and it work great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am planning on using it with the batteries when i go camping in a few weeks .</Tokens>
+		<POS>PRP VBP VBG IN VBG PRP IN DT NNS WRB FW VB NN IN DT JJ NNS .</POS>
+		<Lemma>I be plan on use it with the battery when i go camping in a few week .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But so far I am very pleased with it .</Tokens>
+		<POS>CC RB RB PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>but so far I be very pleased with it .</Lemma>
+	</Sentence>
+</Document>

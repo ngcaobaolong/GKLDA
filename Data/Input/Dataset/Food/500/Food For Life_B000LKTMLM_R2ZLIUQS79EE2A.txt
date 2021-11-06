@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this product !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For those that find the taste bland , but are eating this for fiber , here is my suggestion : Mix small amounts -LRB- less than 1\/4 cup -RRB- of each of the following in a bowl : this cereal , Fiber One cereal , Wheat and Bran Shredded Wheat cereal , raw almonds , raw walnuts , and raw pecans .</Tokens>
+		<POS>IN DT WDT VBP DT NN NN , CC VBP VBG DT IN NN , RB VBZ PRP$ NN : NNP JJ NNS -LRB- JJR IN CD NN -RRB- IN DT IN DT VBG IN DT NN : DT NN , NNP CD NN , NN CC NNP NNP NNP NN , JJ NNS , JJ NNS , CC JJ NNS .</POS>
+		<Lemma>for those that find the taste bland , but be eat this for fiber , here be my suggestion : Mix small amount -lrb- less than 1\/4 cup -rrb- of each of the follow in a bowl : this cereal , Fiber one cereal , wheat and Bran Shredded Wheat cereal , raw almond , raw walnut , and raw pecan .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pour on your favorite soy milk .</Tokens>
+		<POS>VB IN PRP$ JJ NN NN .</POS>
+		<Lemma>pour on you favorite soy milk .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It tastes great !</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it taste great !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I eat this every morning .</Tokens>
+		<POS>PRP VBP DT DT NN .</POS>
+		<Lemma>I eat this every morning .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No more trouble with getting my daily fiber intake !</Tokens>
+		<POS>DT RBR NN IN VBG PRP$ JJ NN NN .</POS>
+		<Lemma>no more trouble with get my daily fiber intake !</Lemma>
+	</Sentence>
+</Document>

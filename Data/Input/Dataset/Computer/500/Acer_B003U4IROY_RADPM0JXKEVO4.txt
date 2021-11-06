@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought two of these and just wow .</Tokens>
+		<POS>VBN CD IN DT CC RB NN .</POS>
+		<Lemma>buy two of these and just wow .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>for the price these monitors are exactly what I needed , a 1080p DVI 22 '' Monitor .</Tokens>
+		<POS>IN DT NN DT NNS VBP RB WP PRP VBD , DT JJ NNP CD '' NNP .</POS>
+		<Lemma>for the price these monitor be exactly what I need , a 1080p DVI 22 '' Monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was a bit skeptical by the `` acer '' branding , but for no reason , out of the two i purchases , not a single dead pixel on either .</Tokens>
+		<POS>PRP VBD DT NN JJ IN DT `` NN '' VBG , CC IN DT NN , IN IN DT CD LS NNS , RB DT JJ JJ NN IN CC .</POS>
+		<Lemma>I be a bit skeptical by the `` acer '' brand , but for no reason , out of the two i purchase , not a single dead pixel on either .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Would highly recommend this monitor to anyone .</Tokens>
+		<POS>MD RB VB DT NN TO NN .</POS>
+		<Lemma>would highly recommend this monitor to anyone .</Lemma>
+	</Sentence>
+</Document>

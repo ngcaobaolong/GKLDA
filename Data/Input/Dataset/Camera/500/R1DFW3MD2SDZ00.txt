@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very nice camera that does everything it was promoted to do .</Tokens>
+		<POS>RB JJ NN WDT VBZ NN PRP VBD VBN TO VB .</POS>
+		<Lemma>very nice camera that do everything it be promote to do .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very happy with it .</Tokens>
+		<POS>RB JJ IN PRP .</POS>
+		<Lemma>very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Beach camera gave fantastic deal and I took them up on it to see if the first outrageous deal from them 4 years ago was a fluke or not .</Tokens>
+		<POS>NNP NN VBD JJ NN CC PRP VBD PRP RP IN PRP TO VB IN DT JJ JJ NN IN PRP CD NNS RB VBD DT NN CC RB .</POS>
+		<Lemma>Beach camera give fantastic deal and I take they up on it to see if the first outrageous deal from they 4 year ago be a fluke or not .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was not disappointed in the least .</Tokens>
+		<POS>PRP VBD RB VBN IN DT JJS .</POS>
+		<Lemma>I be not disappoint in the least .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Happy is as happy does !</Tokens>
+		<POS>JJ VBZ IN JJ VBZ .</POS>
+		<Lemma>happy be as happy do !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thanks to Amazon and Beach for a wonderful Holiday season !</Tokens>
+		<POS>NNS TO NNP CC NNP IN DT JJ NNP NN .</POS>
+		<Lemma>thanks to Amazon and Beach for a wonderful Holiday season !</Lemma>
+	</Sentence>
+</Document>

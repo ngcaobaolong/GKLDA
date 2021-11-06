@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got a car charger a year ago .</Tokens>
+		<POS>PRP VBD DT NN NN DT NN RB .</POS>
+		<Lemma>I get a car charger a year ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The price was cheap and it is still working properly .</Tokens>
+		<POS>DT NN VBD JJ CC PRP VBZ RB VBG RB .</POS>
+		<Lemma>the price be cheap and it be still work properly .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I tried to buy a similar one for my husband -LRB- could n't remember exactly which one I got last time as they all look the same -RRB- .</Tokens>
+		<POS>IN PRP VBD TO VB DT JJ CD IN PRP$ NN -LRB- MD RB VB RB WDT CD PRP VBD JJ NN IN PRP DT VBP DT JJ -RRB- .</POS>
+		<Lemma>so I try to buy a similar one for my husband -lrb- could not remember exactly which one I get last time as they all look the same -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This one did n't work at all .</Tokens>
+		<POS>DT NN VBD RB VB IN DT .</POS>
+		<Lemma>this one do not work at all .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They have sent me a defective product !</Tokens>
+		<POS>PRP VBP VBN PRP DT JJ NN .</POS>
+		<Lemma>they have send I a defective product !</Lemma>
+	</Sentence>
+</Document>

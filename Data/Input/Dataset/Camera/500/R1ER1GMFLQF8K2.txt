@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great buy for the price !</Tokens>
+		<POS>JJ NN IN DT NN .</POS>
+		<Lemma>great buy for the price !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Bought this camera for my wife , she loves it .</Tokens>
+		<POS>VBN DT NN IN PRP$ NN , PRP VBZ PRP .</POS>
+		<Lemma>buy this camera for my wife , she love it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I also got this one for my mother she takes it everywhere .</Tokens>
+		<POS>PRP RB VBD DT CD IN PRP$ NN PRP VBZ PRP RB .</POS>
+		<Lemma>I also get this one for my mother she take it everywhere .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great camera , very compact too !</Tokens>
+		<POS>JJ NN , RB JJ RB .</POS>
+		<Lemma>great camera , very compact too !</Lemma>
+	</Sentence>
+</Document>

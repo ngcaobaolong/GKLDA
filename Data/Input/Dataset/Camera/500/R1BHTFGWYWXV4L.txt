@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>nice camera , and the price is good , sorry that the cam dont has a flash , it make it a perfect bloggie cam</Tokens>
+		<POS>JJ NN , CC DT NN VBZ JJ , JJ IN DT NN NN VBZ DT NN , PRP VBP PRP DT JJ NN NN</POS>
+		<Lemma>nice camera , and the price be good , sorry that the cam dont have a flash , it make it a perfect bloggie cam</Lemma>
+	</Sentence>
+</Document>

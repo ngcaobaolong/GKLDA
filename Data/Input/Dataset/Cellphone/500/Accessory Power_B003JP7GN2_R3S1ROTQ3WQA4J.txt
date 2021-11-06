@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>How often do you buy a product that does everything it promises and more .</Tokens>
+		<POS>WRB RB VBP PRP VB DT NN WDT VBZ NN PRP VBZ CC RBR .</POS>
+		<Lemma>how often do you buy a product that do everything it promise and more .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does each function well .</Tokens>
+		<POS>PRP VBZ DT NN RB .</POS>
+		<Lemma>it do each function well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Finally when I travel I have a charging device that does it all .</Tokens>
+		<POS>RB WRB PRP VBP PRP VBP DT VBG NN WDT VBZ PRP DT .</POS>
+		<Lemma>finally when I travel I have a charge device that do it all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>9V battery chaging is fantastic .</Tokens>
+		<POS>NN NN NN VBZ JJ .</POS>
+		<Lemma>9v battery chaging be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When your on the go you do n't want to pull off the protective cover from your phone and then attempt to pry open the back so you can change its battery .</Tokens>
+		<POS>WRB PRP$ IN DT NN PRP VBP RB VB TO VB RP DT JJ NN IN PRP$ NN CC RB NN TO VB JJ DT RB RB PRP MD VB PRP$ NN .</POS>
+		<Lemma>when you on the go you do not want to pull off the protective cover from you phone and then attempt to pry open the back so you can change its battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Now I simply plug it in as usual and never skip a beat .</Tokens>
+		<POS>RB PRP RB VB PRP IN RB JJ CC RB VB DT NN .</POS>
+		<Lemma>now I simply plug it in as usual and never skip a beat .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I can chage right in my jacket pocket with AA while I nap on the plane\/bus\/anywhere .</Tokens>
+		<POS>PRP MD VB NN IN PRP$ NN NN IN NN IN PRP VBP IN DT NN .</POS>
+		<Lemma>I can chage right in my jacket pocket with aa while I nap on the plane\/bus\/anywhere .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is a must have charger for anyone who uses portable USB chagable devices .</Tokens>
+		<POS>DT VBZ DT MD VB NN IN NN WP VBZ JJ JJ JJ NNS .</POS>
+		<Lemma>this be a must have charger for anyone who use portable usb chagable device .</Lemma>
+	</Sentence>
+</Document>

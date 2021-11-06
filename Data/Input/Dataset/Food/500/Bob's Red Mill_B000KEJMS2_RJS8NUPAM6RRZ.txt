@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These beans are delicious and super easy to prepare .</Tokens>
+		<POS>DT NNS VBP JJ CC JJ JJ TO VB .</POS>
+		<Lemma>these bean be delicious and super easy to prepare .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We have purchased other products from Bob as well and we have yet to be disappointed .</Tokens>
+		<POS>PRP VBP VBN JJ NNS IN NNP RB RB CC PRP VBP RB TO VB VBN .</POS>
+		<Lemma>we have purchase other product from Bob as well and we have yet to be disappoint .</Lemma>
+	</Sentence>
+</Document>

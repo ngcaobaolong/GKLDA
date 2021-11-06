@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have tried receivers before and been disappointed .</Tokens>
+		<POS>PRP VBP VBN NNS IN CC VBN VBN .</POS>
+		<Lemma>I have try receiver before and be disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one works very well and I am satisfied with it .</Tokens>
+		<POS>DT CD VBZ RB RB CC PRP VBP VBN IN PRP .</POS>
+		<Lemma>this one work very well and I be satisfy with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy set up and good quality sound .</Tokens>
+		<POS>NNP VBD RP CC JJ NN NN .</POS>
+		<Lemma>Easy set up and good quality sound .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a Christmas present from my wife .</Tokens>
+		<POS>DT VBD DT NNP JJ IN PRP$ NN .</POS>
+		<Lemma>this be a Christmas present from my wife .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I like it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy to set up and the resolution is excellent .</Tokens>
+		<POS>NNP TO VB RP CC DT NN VBZ JJ .</POS>
+		<Lemma>Easy to set up and the resolution be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do not game but use it for spreadsheets , word processing , email , and general web browsing so the widescreen is handy .</Tokens>
+		<POS>PRP VBP RB NN CC VBP PRP IN NNS , NN NN , NN , CC JJ NN VBG IN DT NN VBZ JJ .</POS>
+		<Lemma>I do not game but use it for spreadsheet , word processing , email , and general web browse so the widescreen be handy .</Lemma>
+	</Sentence>
+</Document>

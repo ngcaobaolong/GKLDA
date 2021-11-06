@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great cereal .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great cereal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Similar to , but better texture and taste than Grape Nuts .</Tokens>
+		<POS>JJ TO , CC JJR NN CC NN IN NN NNS .</POS>
+		<Lemma>similar to , but better texture and taste than grape nut .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also , these are not made from flour like Grape Nuts .</Tokens>
+		<POS>RB , DT VBP RB VBN IN NN IN NN NNS .</POS>
+		<Lemma>also , these be not make from flour like grape nut .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great source of protein .</Tokens>
+		<POS>JJ NN IN NN .</POS>
+		<Lemma>great source of protein .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Throw on some sliced bananas and your favorite honey , and this is a treat !</Tokens>
+		<POS>VB IN DT JJ NNS CC PRP$ JJ NN , CC DT VBZ DT NN .</POS>
+		<Lemma>throw on some sliced banana and you favorite honey , and this be a treat !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Amazon has these at a price I have n't been able to match -LRB- except for the almond flavor -RRB- , and occasionally has them as deals of the day for a few cents cheaper .</Tokens>
+		<POS>NNP VBZ DT IN DT NN PRP VBP RB VBN JJ TO VB -LRB- IN IN DT NN NN -RRB- , CC RB VBZ PRP IN NNS IN DT NN IN DT JJ NNS JJR .</POS>
+		<Lemma>Amazon have these at a price I have not be able to match -lrb- except for the almond flavor -rrb- , and occasionally have they as deal of the day for a few cent cheaper .</Lemma>
+	</Sentence>
+</Document>

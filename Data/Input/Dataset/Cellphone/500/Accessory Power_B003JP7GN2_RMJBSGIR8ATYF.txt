@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Does not charge my Evo smartphoneor my Samsung Galaxy tab at all ... even tho its advertised to do so .</Tokens>
+		<POS>VBZ RB VB PRP$ NNP NN PRP$ NNP NNP NN IN DT : RB VB PRP$ VBN TO VB RB .</POS>
+		<Lemma>do not charge my Evo smartphoneor my Samsung Galaxy tab at all ... even tho its advertise to do so .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Once pluged in for use it just keeps the devices at bay not to shut off .</Tokens>
+		<POS>RB VBN IN IN NN PRP RB VBZ DT NNS IN NN RB TO VB RP .</POS>
+		<Lemma>once pluge in for use it just keep the device at bay not to shut off .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Other then that this product is vood when it has charging duties to perform .</Tokens>
+		<POS>JJ RB IN DT NN VBZ NN WRB PRP VBZ VBG NNS TO VB .</POS>
+		<Lemma>other then that this product be vood when it have charge duty to perform .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would like to have a refund or exchange .</Tokens>
+		<POS>PRP MD VB TO VB DT NN CC NN .</POS>
+		<Lemma>I would like to have a refund or exchange .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Mike@216-832-8171</Tokens>
+		<POS>NN</POS>
+		<Lemma>mike@216-832-8171</Lemma>
+	</Sentence>
+</Document>

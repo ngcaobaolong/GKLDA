@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The product came in very good working condition and is exactly as is described .</Tokens>
+		<POS>DT NN VBD IN RB JJ VBG NN CC VBZ RB RB VBZ VBN .</POS>
+		<Lemma>the product come in very good work condition and be exactly as be describe .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Maybe a little too exact as a matter of fact .</Tokens>
+		<POS>RB DT JJ RB JJ IN DT NN IN NN .</POS>
+		<Lemma>maybe a little too exact as a matter of fact .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My only beef is it came without a lens cover being a refurbished camera .</Tokens>
+		<POS>PRP$ JJ NN VBZ PRP VBD IN DT NN NN VBG DT VBN NN .</POS>
+		<Lemma>my only beef be it come without a lens cover be a refurbish camera .</Lemma>
+	</Sentence>
+</Document>

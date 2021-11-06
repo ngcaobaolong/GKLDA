@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a Christmas gift for our children and they love it !</Tokens>
+		<POS>DT VBD DT NNP NN IN PRP$ NNS CC PRP VBP PRP .</POS>
+		<Lemma>this be a Christmas gift for we child and they love it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We did upgrade the 2GB to a 4GB RAM .</Tokens>
+		<POS>PRP VBD VB DT NN TO DT NN NNP .</POS>
+		<Lemma>we do upgrade the 2gb to a 4gb RAM .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We really like the size of the computer mainly because of how easy it is to travel with\/store .</Tokens>
+		<POS>PRP RB IN DT NN IN DT NN RB IN IN WRB JJ PRP VBZ TO VB NN .</POS>
+		<Lemma>we really like the size of the computer mainly because of how easy it be to travel with\/store .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The kids have played games , surfed the net , etc and have had no problems so far .</Tokens>
+		<POS>DT NNS VBP VBN NNS , VBD DT NN , NN CC VBP VBN DT NNS RB RB .</POS>
+		<Lemma>the kid have play game , surf the net , etc and have have no problem so far .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very happy with our purchase !!</Tokens>
+		<POS>RB JJ IN PRP$ NN IN</POS>
+		<Lemma>very happy with we purchase !!</Lemma>
+	</Sentence>
+</Document>

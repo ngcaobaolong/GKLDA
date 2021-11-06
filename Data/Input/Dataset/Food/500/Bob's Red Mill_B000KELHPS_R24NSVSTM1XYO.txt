@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Reminiscent of old world dark breads and cooks up perfectly in my bread machine .</Tokens>
+		<POS>JJ IN JJ NN JJ NNS CC NNS IN RB IN PRP$ NN NN .</POS>
+		<Lemma>reminiscent of old world dark bread and cook up perfectly in my bread machine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>4 grams of fiber per slice .</Tokens>
+		<POS>CD NNS IN NN IN NN .</POS>
+		<Lemma>4 gram of fiber per slice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Reminds me of rye bread or pumpernickel bread only better since it is gluten free .</Tokens>
+		<POS>VBZ PRP IN NN NN CC NN NN RB RB IN PRP VBZ VBN JJ .</POS>
+		<Lemma>remind I of rye bread or pumpernickel bread only better since it be gluten free .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Every bite had a nutty taste as you bite into sunflower seeds , sesame seeds , and caraway seeds .</Tokens>
+		<POS>DT NN VBD DT JJ NN IN PRP VBP IN NN NNS , FW NNS , CC NN NNS .</POS>
+		<Lemma>every bite have a nutty taste as you bite into sunflower seed , sesame seed , and caraway seed .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I like bob 's Wonderful Homemade Bread mix but I LOVE this bread !</Tokens>
+		<POS>PRP VBP NN POS JJ NNP NNP NN CC PRP VBP DT NN .</POS>
+		<Lemma>I like bob 's wonderful Homemade Bread mix but I love this bread !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What a joke .</Tokens>
+		<POS>WP DT NN .</POS>
+		<Lemma>what a joke .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It barly worked for about a day and now it does n't work at all ... would probably cost more to return than I paid , so in the trash it will go .</Tokens>
+		<POS>PRP RB VBD IN IN DT NN CC RB PRP VBZ RB VB IN DT : MD RB VB JJR TO VB IN PRP VBD , RB IN DT NN PRP MD VB .</POS>
+		<Lemma>it barly work for about a day and now it do not work at all ... would probably cost more to return than I pay , so in the trash it will go .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do n't waste your money .</Tokens>
+		<POS>VBP RB VB PRP$ NN .</POS>
+		<Lemma>do not waste you money .</Lemma>
+	</Sentence>
+</Document>

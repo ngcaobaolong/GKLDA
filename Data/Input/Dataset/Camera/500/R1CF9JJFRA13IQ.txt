@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Received this a few days ago and ca n't say enough great things about it ... Setup is simple but there are two catches ... I had to match the DNS network settings to other cameras I have -LRB- 168.95.1.1 -RRB- and I ca n't get the audio to work ... other than that it works perfectly ... I 'm using and android app -LRB- it 's free -RRB- called `` net eye camera '' to view and control on my phone ... I 'll buy more soon .</Tokens>
+		<POS>VBN DT DT JJ NNS RB CC MD RB VB RB JJ NNS IN PRP : NN VBZ JJ CC EX VBP CD NNS : PRP VBD TO VB DT NNP NN NNS TO JJ NNS PRP VBP -LRB- CD -RRB- CC PRP MD RB VB DT NN TO VB : JJ IN IN PRP VBZ RB : PRP VBP VBG CC NN NN -LRB- PRP VBZ JJ -RRB- VBN `` JJ NN NN '' TO VB CC VB IN PRP$ NN : PRP MD VB JJR RB .</POS>
+		<Lemma>receive this a few day ago and can not say enough great thing about it ... setup be simple but there be two catch ... I have to match the DNS network setting to other camera I have -lrb- 168.95.1.1 -rrb- and I can not get the audio to work ... other than that it work perfectly ... I be use and android app -lrb- it be free -rrb- call `` net eye camera '' to view and control on my phone ... I 'll buy more soon .</Lemma>
+	</Sentence>
+</Document>

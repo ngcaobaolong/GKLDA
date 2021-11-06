@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought something at an airport store that worked as a charger for my i phone .</Tokens>
+		<POS>PRP VBD NN IN DT NN NN WDT VBD IN DT NN IN PRP$ FW NN .</POS>
+		<Lemma>I buy something at a airport store that work as a charger for my i phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I used it to charge my i phone .</Tokens>
+		<POS>PRP VBD PRP TO VB PRP$ FW NN .</POS>
+		<Lemma>I use it to charge my i phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I liked it so much that I sent it to my daughter and attempted to order another one for myself .</Tokens>
+		<POS>PRP VBD PRP RB RB IN PRP VBD PRP TO PRP$ NN CC VBN TO VB DT CD IN PRP .</POS>
+		<Lemma>I like it so much that I send it to my daughter and attempt to order another one for myself .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This product is different and the description is deceptive .</Tokens>
+		<POS>DT NN VBZ JJ CC DT NN VBZ JJ .</POS>
+		<Lemma>this product be different and the description be deceptive .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It has no way to connect with an i phone without another attachment part .</Tokens>
+		<POS>PRP VBZ DT NN TO VB IN DT FW NN IN DT NN NN .</POS>
+		<Lemma>it have no way to connect with a i phone without another attachment part .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>When I tried to order an attachment part , I learned it was unavailable .</Tokens>
+		<POS>WRB PRP VBD TO VB DT NN NN , PRP VBD PRP VBD JJ .</POS>
+		<Lemma>when I try to order a attachment part , I learn it be unavailable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>IF you have an i phone YOU WANT TO CHARGE do n't get this .</Tokens>
+		<POS>IN PRP VBP DT FW NN PRP VBD TO NNP VBP RB VB DT .</POS>
+		<Lemma>if you have a i phone you want to CHARGE do not get this .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is useless .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be useless .</Lemma>
+	</Sentence>
+</Document>

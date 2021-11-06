@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for a new monitor to replace my Acer 17 '' LCD monitor which was starting to fail .</Tokens>
+		<POS>PRP VBD VBG IN DT JJ NN TO VB PRP$ NNP CD '' NNS VBP WDT VBD VBG TO VB .</POS>
+		<Lemma>I be look for a new monitor to replace my Acer 17 '' lcd monitor which be start to fail .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was n't really interested in a widescreen monitor and was looking to get the same size or bigger -LRB- 19 '' -RRB- non-widescreen .</Tokens>
+		<POS>PRP VBD RB RB JJ IN DT JJ NN CC VBD VBG TO VB DT JJ NN CC JJR -LRB- CD '' -RRB- JJ .</POS>
+		<Lemma>I be not really interested in a widescreen monitor and be look to get the same size or bigger -lrb- 19 '' -rrb- non-widescreen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However it is next to impossible to find one of those these days .</Tokens>
+		<POS>RB PRP VBZ JJ TO JJ TO VB CD IN DT DT NNS .</POS>
+		<Lemma>however it be next to impossible to find one of those these day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My desk space was limited and I was interested in keeping the same vertical space in my replacement monitor .</Tokens>
+		<POS>PRP$ NN NN VBD VBN CC PRP VBD JJ IN VBG DT JJ JJ NN IN PRP$ NN NN .</POS>
+		<Lemma>my desk space be limit and I be interested in keep the same vertical space in my replacement monitor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So it had to be just as tall or taller than a 17 '' monitor and no less than 1024 pixels high .</Tokens>
+		<POS>IN PRP VBD TO VB RB IN JJ CC JJR IN DT CD '' NN CC DT JJR IN CD NNS JJ .</POS>
+		<Lemma>so it have to be just as tall or taller than a 17 '' monitor and no less than 1024 pixel high .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The space limitation meant I could only go on a widescreen up to 22 '' .</Tokens>
+		<POS>DT NN NN VBD PRP MD RB VB IN DT VBN RP TO CD '' .</POS>
+		<Lemma>the space limitation mean I could only go on a widescreen up to 22 '' .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The problem was that at this size nearly all monitors are 1600x900 which meant I was losing some vertical space .</Tokens>
+		<POS>DT NN VBD IN IN DT NN RB DT NNS VBP CD WDT VBD PRP VBD VBG DT JJ NN .</POS>
+		<Lemma>the problem be that at this size nearly all monitor be 1600x900 which mean I be lose some vertical space .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Then the 1920x1080 ones were very expensive .</Tokens>
+		<POS>RB DT CD NNS VBD RB JJ .</POS>
+		<Lemma>then the 1920x1080 one be very expensive .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I think I struck gold with the Acer S211HL monitor .</Tokens>
+		<POS>PRP VBP PRP VBD NN IN DT NNP NNP NN .</POS>
+		<Lemma>I think I strike gold with the Acer S211HL monitor .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Perfect price , fit my available space perfectly and complied with no less than 1024 pixels high requirement .</Tokens>
+		<POS>NNP NN , VB PRP$ JJ NN RB CC VBN IN DT JJR IN CD NNS JJ NN .</POS>
+		<Lemma>Perfect price , fit my available space perfectly and comply with no less than 1024 pixel high requirement .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>So far very crisp image .</Tokens>
+		<POS>RB RB RB JJ NN .</POS>
+		<Lemma>so far very crisp image .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I am using it through the DVI port .</Tokens>
+		<POS>PRP VBP VBG PRP IN DT NNP NN .</POS>
+		<Lemma>I be use it through the DVI port .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The only thing was that it comes from the factory too bright .</Tokens>
+		<POS>DT JJ NN VBD IN PRP VBZ IN DT NN RB JJ .</POS>
+		<Lemma>the only thing be that it come from the factory too bright .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I had to decrease the brightness to 45 to get a comfortable brightness even in a brightly lit room .</Tokens>
+		<POS>PRP VBD TO VB DT NN TO CD TO VB DT JJ NN RB IN DT RB VBN NN .</POS>
+		<Lemma>I have to decrease the brightness to 45 to get a comfortable brightness even in a brightly light room .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pretty much every kernel pops when I use it in my <a href="http://www.amazon.com/gp/product/B00006IUWA/ref=cm_cr_asin_lnk/175-7206297-2469117"> Presto 114316 04820 PopLite Hot Air Corn Popper </a> .</Tokens>
+		<POS>NNP RB DT NN VBZ WRB PRP VBP PRP IN PRP$ NN NN CD CD NNP NNP NNP NNP NNP NN .</POS>
+		<Lemma>Pretty much every kernel pop when I use it in my <a href="http://www.amazon.com/gp/product/b00006iuwa/ref=cm_cr_asin_lnk/175-7206297-2469117"> presto 114316 04820 PopLite Hot Air Corn Popper </a> .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Tastes great , and I expect it will last me absolutely forever .</Tokens>
+		<POS>NNS JJ , CC PRP VBP PRP MD VB PRP RB RB .</POS>
+		<Lemma>taste great , and I expect it will last I absolutely forever .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do be careful with the bag , though - spill a few pounds of corn kernels , and you will definitely regret it !</Tokens>
+		<POS>VB VB JJ IN DT NN , IN : VB DT JJ NNS IN NN NNS , CC PRP MD RB VB PRP .</POS>
+		<Lemma>do be careful with the bag , though - spill a few pound of corn kernel , and you will definitely regret it !</Lemma>
+	</Sentence>
+</Document>

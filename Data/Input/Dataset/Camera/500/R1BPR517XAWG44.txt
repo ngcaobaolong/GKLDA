@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera for my dive trips ... NOT to use in the water , but to take on the boat when it can get splashed occasionally .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ NN NNS : RB TO VB IN DT NN , CC TO VB RP DT NN WRB PRP MD VB VBN RB .</POS>
+		<Lemma>I buy this camera for my dive trip ... not to use in the water , but to take on the boat when it can get splash occasionally .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It works great for this .</Tokens>
+		<POS>PRP VBZ JJ IN DT .</POS>
+		<Lemma>it work great for this .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For those people who think this is an underwater camera ... you are idiots .</Tokens>
+		<POS>IN DT NNS WP VBP DT VBZ DT JJ NN : PRP VBP NNS .</POS>
+		<Lemma>for those people who think this be a underwater camera ... you be idiot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>That is NOT what this camera says .</Tokens>
+		<POS>DT VBZ RB WP DT NN VBZ .</POS>
+		<Lemma>that be not what this camera say .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is waterproof in case you drop it in a puddle , or it gets splashed at the pool .</Tokens>
+		<POS>PRP VBZ JJ IN NN PRP VBP PRP IN DT NN , CC PRP VBZ VBN IN DT NN .</POS>
+		<Lemma>it be waterproof in case you drop it in a puddle , or it get splash at the pool .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Get real people .</Tokens>
+		<POS>VB JJ NNS .</POS>
+		<Lemma>get real people .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Underwater cameras cost hundreds more and have an o-ring seal to keep water out .</Tokens>
+		<POS>JJ NNS VBD NNS RBR CC VBP DT NN NN TO VB NN IN .</POS>
+		<Lemma>underwater camera cost hundred more and have a o-ring seal to keep water out .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>As far as the pictures go ... this is definitely a mid-quality camera .</Tokens>
+		<POS>IN RB IN DT NNS VBP : DT VBZ RB DT JJ NN .</POS>
+		<Lemma>as far as the picture go ... this be definitely a mid-quality camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have had better in the same price range , but as I said I bought this one for my travels , it fits in my pocket , and if I happen to drop it -LRB- how I broke the last travel camera -RRB- , it should n't break .</Tokens>
+		<POS>PRP VBP VBN RBR IN DT JJ NN NN , CC IN PRP VBD PRP VBD DT CD IN PRP$ NNS , PRP VBZ IN PRP$ NN , CC IN PRP VB TO VB PRP -LRB- WRB PRP VBD DT JJ NN NN -RRB- , PRP MD RB VB .</POS>
+		<Lemma>I have have better in the same price range , but as I say I buy this one for my travels , it fit in my pocket , and if I happen to drop it -lrb- how I break the last travel camera -rrb- , it should not break .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I take it hiking in the mountains , I take it on dive boats ... no problems at all in the past 2 years .</Tokens>
+		<POS>PRP VBP PRP VBG IN DT NNS , PRP VBP PRP IN NN NNS : DT NNS IN DT IN DT JJ CD NNS .</POS>
+		<Lemma>I take it hike in the mountain , I take it on dive boat ... no problem at all in the past 2 year .</Lemma>
+	</Sentence>
+</Document>

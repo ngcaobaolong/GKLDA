@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got 2 long cables and 3 short cables when I ordered a quantity of 5 .</Tokens>
+		<POS>PRP VBD CD JJ NNS CC CD JJ NNS WRB PRP VBD DT NN IN CD .</POS>
+		<Lemma>I get 2 long cable and 3 short cable when I order a quantity of 5 .</Lemma>
+	</Sentence>
+</Document>

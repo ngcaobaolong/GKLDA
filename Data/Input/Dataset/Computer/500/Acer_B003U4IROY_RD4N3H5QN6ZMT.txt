@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Yes , mine had a dead pixel out of the box , about three inches from the center of the screen , so I notice it a lot .</Tokens>
+		<POS>UH , PRP VBD DT JJ NN IN IN DT NN , IN CD NNS IN DT NN IN DT NN , IN PRP VBP PRP DT NN .</POS>
+		<Lemma>yes , mine have a dead pixel out of the box , about three inch from the center of the screen , so I notice it a lot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Paying for shipping to return it would have turned a great deal into a non-deal -- and I did n't want to take the risk of ending up with another one with a dead pixel -- so I 'm still dealing with it .</Tokens>
+		<POS>VBG IN VBG TO VB PRP MD VB VBN DT JJ NN IN DT JJ : CC PRP VBD RB VB TO VB DT NN IN VBG RP IN DT CD IN DT JJ NN : IN PRP VBP RB VBG IN PRP .</POS>
+		<Lemma>pay for ship to return it would have turn a great deal into a non-deal -- and I do not want to take the risk of end up with another one with a dead pixel -- so I be still deal with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That 's the sad part of my story .</Tokens>
+		<POS>DT VBZ DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>that be the sad part of my story .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The happy part of the story : apart from the dead pixel , this thing is great .</Tokens>
+		<POS>DT JJ NN IN DT NN : RB IN DT JJ NN , DT NN VBZ JJ .</POS>
+		<Lemma>the happy part of the story : apart from the dead pixel , this thing be great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It really is thin , which I expected , but what I did n't expect was how sturdy it seems .</Tokens>
+		<POS>PRP RB VBZ JJ , WDT PRP VBD , CC WP PRP VBD RB VB VBD WRB JJ PRP VBZ .</POS>
+		<Lemma>it really be thin , which I expect , but what I do not expect be how sturdy it seem .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I had a 24 '' Westinghouse previously , and that thing had a really lightweight , cheapy , all-plastic base , and the monitor swayed every time I bumped the desk .</Tokens>
+		<POS>PRP VBD DT CD '' NNP RB , CC IN NN VBD DT RB JJ , JJ , JJ NN , CC DT NN VBD DT NN PRP VBD DT NN .</POS>
+		<Lemma>I have a 24 '' Westinghouse previously , and that thing have a really lightweight , cheapy , all-plastic base , and the monitor sway every time I bump the desk .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It also made a buzzing noise after a while .</Tokens>
+		<POS>PRP RB VBD DT VBG NN IN DT NN .</POS>
+		<Lemma>it also make a buzz noise after a while .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This Acer has a much heavier-duty base with metal beneath the plastic , and the whole thing stays together nice and firm .</Tokens>
+		<POS>DT NNP VBZ DT JJ NN NN IN NN IN DT NN , CC DT JJ NN VBZ RB JJ CC NN .</POS>
+		<Lemma>this Acer have a much heavier-duty base with metal beneath the plastic , and the whole thing stay together nice and firm .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>And it 's silent .</Tokens>
+		<POS>CC PRP VBZ JJ .</POS>
+		<Lemma>and it be silent .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I 'm not real hardcore about the colors and brightness and so on , but it looks good to me .</Tokens>
+		<POS>PRP VBP RB JJ NN IN DT NNS CC NN CC RB IN , CC PRP VBZ JJ TO PRP .</POS>
+		<Lemma>I be not real hardcore about the color and brightness and so on , but it look good to I .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Except that one pixel !</Tokens>
+		<POS>IN DT CD NN .</POS>
+		<Lemma>except that one pixel !</Lemma>
+	</Sentence>
+</Document>

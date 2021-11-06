@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cord does not charge your device .</Tokens>
+		<POS>DT NN VBZ RB VB PRP$ NN .</POS>
+		<Lemma>this cord do not charge you device .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Good thing I didnt waste any more money on it .</Tokens>
+		<POS>JJ NN PRP VBP NN DT JJR NN IN PRP .</POS>
+		<Lemma>good thing I didnt waste any more money on it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Waste of money .</Tokens>
+		<POS>NNP IN NN .</POS>
+		<Lemma>Waste of money .</Lemma>
+	</Sentence>
+</Document>

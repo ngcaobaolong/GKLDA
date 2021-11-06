@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have not received this product .</Tokens>
+		<POS>PRP VBP RB VBN DT NN .</POS>
+		<Lemma>I have not receive this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I need some way to find out what has happened to it .</Tokens>
+		<POS>PRP VBP DT NN TO VB RP WP VBZ VBN TO PRP .</POS>
+		<Lemma>I need some way to find out what have happen to it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Please will Amazon report on the situation as soon as possible .</Tokens>
+		<POS>VB MD NNP NN IN DT NN RB RB IN JJ .</POS>
+		<Lemma>please will Amazon report on the situation as soon as possible .</Lemma>
+	</Sentence>
+</Document>

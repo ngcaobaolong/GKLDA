@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I already have a Toshiba L255 Satellite laptop which I bought at Best Buy closeout as they were making room for the newer models - I paid $ 329 .</Tokens>
+		<POS>PRP RB VBP DT NNP NNP NNP NN WDT PRP VBD IN JJS JJ NN IN PRP VBD VBG NN IN DT JJR NNS : PRP VBD $ CD .</POS>
+		<Lemma>I already have a Toshiba L255 Satellite laptop which I buy at best buy closeout as they be make room for the newer model - I pay $ 329 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I create a free current events e-newsletter through Constant Contact and if I feel like going to Starbucks or another public locations with Wi-Fi I do n't like taking my Toshiba because it has personal documents on it .</Tokens>
+		<POS>PRP VBP DT JJ JJ NNS NN IN JJ NN CC IN PRP VBP IN VBG TO NNP CC DT JJ NNS IN NN PRP VBP RB VB VBG PRP$ NNP IN PRP VBZ JJ NNS IN PRP .</POS>
+		<Lemma>I create a free current event e-newsletter through constant contact and if I feel like go to Starbucks or another public location with wi-fus I do not like take my Toshiba because it have personal document on it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Now I know about security and all of that but I 'd prefer to have a completely separate tool to use exclusively for browsing news , creating my e-newsletter , playing games and reading books .</Tokens>
+		<POS>RB PRP VBP IN NN CC DT IN DT CC PRP MD VB TO VB DT RB JJ NN TO VB RB IN VBG NN , VBG PRP$ NN , VBG NNS CC VBG NNS .</POS>
+		<Lemma>now I know about security and all of that but I would prefer to have a completely separate tool to use exclusively for browse news , create my e-newsletter , play game and read book .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So I went shopping for an inexpensive laptop\/netbook and was thrilled to come across the Acer for $ 289 .</Tokens>
+		<POS>IN PRP VBD NN IN DT JJ NN CC VBD VBN TO VB IN DT NNP IN $ CD .</POS>
+		<Lemma>so I go shopping for a inexpensive laptop\/netbook and be thrill to come across the Acer for $ 289 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For those who are not aware , the black Acer has a larger hard drive -LRB- 320 GB -RRB- over the red\/blue Acer at a cost of only $ 18 more .</Tokens>
+		<POS>IN DT WP VBP RB JJ , DT JJ NNP VBZ DT JJR JJ NN -LRB- CD NN -RRB- IN DT NNP NNP IN DT NN IN RB $ CD JJR .</POS>
+		<Lemma>for those who be not aware , the black Acer have a larger hard drive -lrb- 320 gb -rrb- over the red\/blue Acer at a cost of only $ 18 more .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>When I got it home , One of the first things I did was remove McAfee and Norton products from the Acer as they have had a history of problems .</Tokens>
+		<POS>WRB PRP VBD PRP RB , CD IN DT JJ NNS PRP VBD VBD VB NNP CC NNP NNS IN DT NNP IN PRP VBP VBD DT NN IN NNS .</POS>
+		<Lemma>when I get it home , one of the first thing I do be remove McAfee and Norton product from the Acer as they have have a history of problem .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I chose a trustworthy anti-virus program called Avast which I have used for several years .</Tokens>
+		<POS>PRP VBD DT JJ JJ NN VBN NNP WDT PRP VBP VBN IN JJ NNS .</POS>
+		<Lemma>I choose a trustworthy anti-virus program call Avast which I have use for several year .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>In fact , there is a free version of Avast and the first time I loaded it on my Toshiba laptop , it found 5 Trojan horses that Norton never identified .</Tokens>
+		<POS>IN NN , EX VBZ DT JJ NN IN NNP CC DT JJ NN PRP VBD PRP IN PRP$ NNP NN , PRP VBD CD NNP NNS WDT NNP RB VBD .</POS>
+		<Lemma>in fact , there be a free version of Avast and the first time I load it on my Toshiba laptop , it find 5 Trojan horse that Norton never identify .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Avast can be downloaded from Cnet .</Tokens>
+		<POS>NNP MD VB VBN IN NNP .</POS>
+		<Lemma>Avast can be download from Cnet .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The next thing I did was to remove from the Acer all the non-essential programs , transferred all of my RSS news feed links , Kindle books , games , music , e-newsletter files from my Toshiba to my Acer .</Tokens>
+		<POS>DT JJ NN PRP VBD VBD TO VB IN DT NNP PDT DT JJ NNS , VBN DT IN PRP$ NN NN NN NNS , NN NNS , NNS , NN , NN NNS IN PRP$ NNP TO PRP$ NNP .</POS>
+		<Lemma>the next thing I do be to remove from the Acer all the non-essential program , transfer all of my rss news feed link , kindle book , game , music , e-newsletter file from my Toshiba to my Acer .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>So now my Toshiba is for personal tasks and my Acer is for public tasks .</Tokens>
+		<POS>RB RB PRP$ NNP VBZ IN JJ NNS CC PRP$ NNP VBZ IN JJ NNS .</POS>
+		<Lemma>so now my Toshiba be for personal task and my Acer be for public task .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The Acer is small enough that I can take it to work to read , play games or use as a travel computer .</Tokens>
+		<POS>DT NNP VBZ JJ RB IN PRP MD VB PRP TO VB TO VB , VB NNS CC VB IN DT NN NN .</POS>
+		<Lemma>the Acer be small enough that I can take it to work to read , play game or use as a travel computer .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I also found a great Targus padded case with pockets and handle for $ 14 .</Tokens>
+		<POS>PRP RB VBD DT JJ NNP JJ NN IN NNS CC VB IN $ CD .</POS>
+		<Lemma>I also find a great Targus padded case with pocket and handle for $ 14 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Great buy and I am very happy with it .</Tokens>
+		<POS>JJ NN CC PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>great buy and I be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>By the way , anyone interested in receiving my e-newsletter called TAV , you can email me at tav10truth@gmail.com</Tokens>
+		<POS>IN DT NN , NN JJ IN VBG PRP$ NN VBN NNP , PRP MD NN PRP IN NN</POS>
+		<Lemma>by the way , anyone interested in receive my e-newsletter call TAV , you can email I at tav10truth@gmail.com</Lemma>
+	</Sentence>
+</Document>

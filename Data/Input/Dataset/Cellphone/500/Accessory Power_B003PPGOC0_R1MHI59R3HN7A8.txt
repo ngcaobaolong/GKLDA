@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This item was an impulse buy and I 'm actually happy !</Tokens>
+		<POS>DT NN VBD DT NN NN CC PRP VBP RB JJ .</POS>
+		<Lemma>this item be a impulse buy and I be actually happy !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Now I can talk on my phone hands-free and listen to music , podcasts etc through my iPhone .</Tokens>
+		<POS>RB PRP MD VB IN PRP$ NN NN CC VB TO NN , NNS FW IN PRP$ NNP .</POS>
+		<Lemma>now I can talk on my phone hands-free and listen to music , podcast etc through my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>: -RRB-</Tokens>
+		<POS>: -RRB-</POS>
+		<Lemma>: -rrb-</Lemma>
+	</Sentence>
+</Document>

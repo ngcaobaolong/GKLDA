@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am in awe of the new Kodak PlaySport Zx5 cameras .</Tokens>
+		<POS>PRP VBP IN NN IN DT JJ NNP NNP NN NNS .</POS>
+		<Lemma>I be in awe of the new Kodak PlaySport zx5 camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I picked up one of the last Flips cameras made ... top of the line ... but the Kodak does it all , and also does it so very much much better , than the Flip .</Tokens>
+		<POS>PRP VBD RP CD IN DT JJ NNP NNS VBD : NN IN DT NN : CC DT NNP VBZ PRP RB , CC RB VBZ PRP RB RB RB RB JJR , IN DT NN .</POS>
+		<Lemma>I pick up one of the last Flips camera make ... top of the line ... but the Kodak do it all , and also do it so very much much better , than the flip .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is a very good quality niche camera ... with a list of impressive features .</Tokens>
+		<POS>DT VBZ DT RB JJ NN NN NN : IN DT NN IN JJ NNS .</POS>
+		<Lemma>this be a very good quality niche camera ... with a list of impressive feature .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The camera takes decent quality video , great still shots , is totally idiot proof , is also water proof ... shock resistant ... pocket sized ... can do great macro ... zooms right in effortlessly ... and has an optional remote control .</Tokens>
+		<POS>DT NN VBZ JJ NN NN , JJ RB NNS , VBZ RB JJ NN , VBZ RB NN NN : NN JJ : NN VBD : MD VB JJ NN : VBZ JJ IN RB : CC VBZ DT JJ JJ NN .</POS>
+		<Lemma>the camera take decent quality video , great still shot , be totally idiot proof , be also water proof ... shock resistant ... pocket size ... can do great macro ... zoom right in effortlessly ... and have a optional remote control .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>What is not to like ?</Tokens>
+		<POS>WP VBZ RB TO VB .</POS>
+		<Lemma>what be not to like ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This camera is not meant to replace a higher quality camera , and it does not pretend to do so , but it does have its ' place .</Tokens>
+		<POS>DT NN VBZ RB VBN TO VB DT JJR NN NN , CC PRP VBZ RB VB TO VB RB , CC PRP VBZ VB PRP$ '' NN .</POS>
+		<Lemma>this camera be not mean to replace a higher quality camera , and it do not pretend to do so , but it do have its ' place .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It really is an exceptional bargain .</Tokens>
+		<POS>PRP RB VBZ DT JJ NN .</POS>
+		<Lemma>it really be a exceptional bargain .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>You have to experience it , to fully appreciate it .</Tokens>
+		<POS>PRP VBP TO VB PRP , TO RB VB PRP .</POS>
+		<Lemma>you have to experience it , to fully appreciate it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It definitely warrants five stars ... simply for what it is capable of .</Tokens>
+		<POS>PRP RB VBZ CD NNS : RB IN WP PRP VBZ JJ IN .</POS>
+		<Lemma>it definitely warrant five star ... simply for what it be capable of .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is most definitely a very capable little camera .</Tokens>
+		<POS>DT VBZ RBS RB DT RB JJ JJ NN .</POS>
+		<Lemma>this be most definitely a very capable little camera .</Lemma>
+	</Sentence>
+</Document>

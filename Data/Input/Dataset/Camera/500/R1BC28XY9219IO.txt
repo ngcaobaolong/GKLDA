@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The picture and video quality is nice .</Tokens>
+		<POS>DT NN CC JJ NN VBZ JJ .</POS>
+		<Lemma>the picture and video quality be nice .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The amount of coverage from 24mm to 840mm is incredible .</Tokens>
+		<POS>DT NN IN NN IN CD TO CD VBZ JJ .</POS>
+		<Lemma>the amount of coverage from 24mm to 840mm be incredible .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But I had to return it .</Tokens>
+		<POS>CC PRP VBD TO VB PRP .</POS>
+		<Lemma>but I have to return it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My objective was to shoot sports .</Tokens>
+		<POS>PRP$ NN VBD TO VB NNS .</POS>
+		<Lemma>my objective be to shoot sport .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Even with the fastest Sandisk Pro the slow buffer lag time in between frames failed to keep up with the action .</Tokens>
+		<POS>RB IN DT JJS NNP FW DT JJ NN NN NN IN IN NNS VBD TO VB RP IN DT NN .</POS>
+		<Lemma>even with the fastest Sandisk pro the slow buffer lag time in between frame fail to keep up with the action .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The burst mode is only good if the subject is not moving across the screen .</Tokens>
+		<POS>DT NN NN VBZ RB JJ IN DT NN VBZ RB VBG IN DT NN .</POS>
+		<Lemma>the burst mode be only good if the subject be not move across the screen .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>-LRB- Golf swings and tennis serves -RRB- For field sports , by the time the screen came back on , the action was long gone .</Tokens>
+		<POS>-LRB- NNP NNS CC NN VBZ -RRB- IN NN NNS , IN DT NN DT NN VBD RB IN , DT NN VBD JJ VBN .</POS>
+		<Lemma>-lrb- Golf swing and tennis serve -rrb- for field sport , by the time the screen come back on , the action be long go .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The screen blackening out momentarily reminds me of early digital cameras when they first came out .</Tokens>
+		<POS>DT NN VBG RP RB VBZ PRP IN JJ JJ NNS WRB PRP RB VBD RP .</POS>
+		<Lemma>the screen blacken out momentarily remind I of early digital camera when they first come out .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The lens focus-hunts too frequently on the long end .</Tokens>
+		<POS>DT NN NNS RB RB IN DT JJ NN .</POS>
+		<Lemma>the lens focus-hunt too frequently on the long end .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is one step forward and two steps back for Canon .</Tokens>
+		<POS>DT VBZ CD NN RB CC CD NNS RB IN NNP .</POS>
+		<Lemma>this be one step forward and two step back for Canon .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>You 'll see the price on this drop quickly .</Tokens>
+		<POS>PRP MD VB DT NN IN DT NN RB .</POS>
+		<Lemma>you 'll see the price on this drop quickly .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The local Frys this week has it for $ 299 .</Tokens>
+		<POS>DT JJ NNS DT NN VBZ PRP IN $ CD .</POS>
+		<Lemma>the local fry this week have it for $ 299 .</Lemma>
+	</Sentence>
+</Document>

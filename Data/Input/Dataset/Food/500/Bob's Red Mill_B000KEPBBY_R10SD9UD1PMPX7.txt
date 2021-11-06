@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just had my first helping of this soup and enjoyed it !</Tokens>
+		<POS>RB VBD PRP$ JJ VBG IN DT NN CC VBD PRP .</POS>
+		<Lemma>just have my first help of this soup and enjoy it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For the reviews who find it tastless ... .</Tokens>
+		<POS>IN DT NNS WP VBP PRP JJ : .</POS>
+		<Lemma>for the review who find it tastless ... .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>this is a true soup stock and not something you might find in a can .</Tokens>
+		<POS>DT VBZ DT JJ NN NN CC RB NN PRP MD VB IN DT NN .</POS>
+		<Lemma>this be a true soup stock and not something you might find in a can .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Use your imagination to make it what you want .</Tokens>
+		<POS>VB PRP$ NN TO VB PRP WP PRP VBP .</POS>
+		<Lemma>use you imagination to make it what you want .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Just added a few pork chops .</Tokens>
+		<POS>RB VBN DT JJ NN NNS .</POS>
+		<Lemma>just add a few pork chop .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>onions and chicken stock .</Tokens>
+		<POS>NNS CC NN NN .</POS>
+		<Lemma>onion and chicken stock .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Many possibilities to this product .</Tokens>
+		<POS>JJ NNS TO DT NN .</POS>
+		<Lemma>many possibility to this product .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Not something with a lot of salt and other fillers to it .</Tokens>
+		<POS>RB NN IN DT NN IN NN CC JJ NNS TO PRP .</POS>
+		<Lemma>not something with a lot of salt and other filler to it .</Lemma>
+	</Sentence>
+</Document>

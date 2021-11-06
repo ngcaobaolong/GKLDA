@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Well , it was nice while it lasted .</Tokens>
+		<POS>RB , PRP VBD JJ IN PRP VBD .</POS>
+		<Lemma>well , it be nice while it last .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The wall charger just stopped working .</Tokens>
+		<POS>DT NN NN RB VBD VBG .</POS>
+		<Lemma>the wall charger just stop work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When plugged in , it used to have a little red light turn on , but that does n't work either .</Tokens>
+		<POS>WRB VBN IN , PRP VBD TO VB DT JJ JJ NN VB RP , CC DT VBZ RB VB RB .</POS>
+		<Lemma>when plug in , it use to have a little red light turn on , but that do not work either .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Has a 3 year warranty but I did n't see the `` register within 30 days requirement '' so guess that 's it for this one .</Tokens>
+		<POS>VBZ DT CD NN NN CC PRP VBD RB VB DT `` NN IN CD NNS NN '' IN NN WDT VBZ PRP IN DT CD .</POS>
+		<Lemma>have a 3 year warranty but I do not see the `` register within 30 day requirement '' so guess that be it for this one .</Lemma>
+	</Sentence>
+</Document>

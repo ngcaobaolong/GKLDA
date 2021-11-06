@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the frst popcorn I have been able to pop without the bag burning .</Tokens>
+		<POS>DT VBZ DT JJ NN PRP VBP VBN JJ TO VB IN DT NN NN .</POS>
+		<Lemma>this be the frst popcorn I have be able to pop without the bag burning .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The popped bag results in a big snack .</Tokens>
+		<POS>DT VBN NN NNS IN DT JJ NN .</POS>
+		<Lemma>the pop bag result in a big snack .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>filling .</Tokens>
+		<POS>VBG .</POS>
+		<Lemma>fill .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>all the kernnels popped .</Tokens>
+		<POS>DT DT NNS VBN .</POS>
+		<Lemma>all the kernnel pop .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Has a slight salt buttery taste .</Tokens>
+		<POS>VBZ DT JJ NN JJ NN .</POS>
+		<Lemma>have a slight salt buttery taste .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>and the best part is the exp .</Tokens>
+		<POS>CC DT JJS NN VBZ DT NN .</POS>
+		<Lemma>and the best part be the exp .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>date is a yr from now and it is fresh crunchy popcorn .</Tokens>
+		<POS>NN VBZ DT NN IN RB CC PRP VBZ JJ JJ NN .</POS>
+		<Lemma>date be a yr from now and it be fresh crunchy popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Would recommend this product to all you popcorn lovers .</Tokens>
+		<POS>MD VB DT NN TO DT PRP NN NNS .</POS>
+		<Lemma>would recommend this product to all you popcorn lover .</Lemma>
+	</Sentence>
+</Document>

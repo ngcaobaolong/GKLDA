@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a good camera-for what it 's intended for .</Tokens>
+		<POS>DT VBZ DT JJ NN WDT PRP VBZ VBN IN .</POS>
+		<Lemma>this be a good camera-for what it be intend for .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Which is for hiking on bright sunny days and the form factor .</Tokens>
+		<POS>WDT VBZ IN VBG IN JJ JJ NNS CC DT NN NN .</POS>
+		<Lemma>which be for hike on bright sunny day and the form factor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That 's it .</Tokens>
+		<POS>DT VBZ PRP .</POS>
+		<Lemma>that be it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is not a camera for indoor or flash pictures .</Tokens>
+		<POS>DT VBZ RB DT NN IN JJ CC NN NNS .</POS>
+		<Lemma>this be not a camera for indoor or flash picture .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Do not even consider this camera if that is over 30 % of your use .</Tokens>
+		<POS>VBP RB RB VB DT NN IN DT VBZ IN CD NN IN PRP$ NN .</POS>
+		<Lemma>do not even consider this camera if that be over 30 % of you use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Go elsewhere .</Tokens>
+		<POS>VB RB .</POS>
+		<Lemma>go elsewhere .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But adding a polarizing filter or warm filter you can get some stunning images without the need to photoshop .</Tokens>
+		<POS>CC VBG DT VBG NN CC JJ NN PRP MD VB DT JJ NNS IN DT NN TO NN .</POS>
+		<Lemma>but add a polarize filter or warm filter you can get some stunning image without the need to photoshop .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I bought mine later than everone else here so no firmware update needed .</Tokens>
+		<POS>PRP VBD NN RB IN NN RB RB IN DT NN VBP VBN .</POS>
+		<Lemma>I buy mine later than everone else here so no firmware update need .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is fine if this is all you want it for-portability and less photoshoping on relatively bright sunny days .</Tokens>
+		<POS>PRP VBZ JJ IN DT VBZ DT PRP VBP PRP NN CC JJR NN IN RB JJ JJ NNS .</POS>
+		<Lemma>it be fine if this be all you want it for-portability and less photoshoping on relatively bright sunny day .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If that is not a concern , definately go with a DSLR ,</Tokens>
+		<POS>IN DT VBZ RB DT NN , RB VB IN DT NN ,</POS>
+		<Lemma>if that be not a concern , definately go with a dslr ,</Lemma>
+	</Sentence>
+</Document>

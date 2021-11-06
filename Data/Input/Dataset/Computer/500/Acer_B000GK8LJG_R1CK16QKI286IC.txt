@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Received this item within a few days of ordering .</Tokens>
+		<POS>VBN DT NN IN DT JJ NNS IN VBG .</POS>
+		<Lemma>receive this item within a few day of order .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to hook up .</Tokens>
+		<POS>NNP TO NN RP .</POS>
+		<Lemma>Easy to hook up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great picture .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great picture .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am very happy with this monitor .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be very happy with this monitor .</Lemma>
+	</Sentence>
+</Document>

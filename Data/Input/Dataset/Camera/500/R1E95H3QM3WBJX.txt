@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What can I say ... Its a super fast high quality digital camera and video recorder in one .</Tokens>
+		<POS>WDT MD PRP VB : PRP$ DT JJ JJ JJ NN JJ NN CC NN NN IN CD .</POS>
+		<Lemma>what can I say ... its a super fast high quality digital camera and video recorder in one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The 18-55mm lens is good to start with .</Tokens>
+		<POS>DT JJ NN VBZ JJ TO VB IN .</POS>
+		<Lemma>the 18-55mm lens be good to start with .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I also picked up a Tamron 75-300mm and a fish eye attachment .</Tokens>
+		<POS>PRP RB VBD RP DT NNP NN CC DT NN NN NN .</POS>
+		<Lemma>I also pick up a Tamron 75-300mm and a fish eye attachment .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The HD video is amazing however the software out there is not common for viewing and editing the .</Tokens>
+		<POS>DT NN NN VBZ JJ RB DT NN IN EX VBZ RB JJ IN VBG CC NN DT .</POS>
+		<Lemma>the hd video be amazing however the software out there be not common for view and editing the .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>MTS files format .</Tokens>
+		<POS>NNP VBZ NN .</POS>
+		<Lemma>MTS file format .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The audio on the video is crisp and clear , just do n't you -LRB- the photographer -RRB- say anything because it will be very loud in comparison .</Tokens>
+		<POS>DT NN IN DT NN VBZ JJ CC JJ , RB VBP RB PRP -LRB- DT NNP -RRB- VBP NN IN PRP MD VB RB JJ IN NN .</POS>
+		<Lemma>the audio on the video be crisp and clear , just do not you -lrb- the photographer -rrb- say anything because it will be very loud in comparison .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The menu is different from the out dated Sony menu I was used to , but easy enough to use .</Tokens>
+		<POS>DT NN VBZ JJ IN DT JJ JJ NNP NN PRP VBD VBN TO , CC JJ JJ TO VB .</POS>
+		<Lemma>the menu be different from the out dated Sony menu I be use to , but easy enough to use .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For those who need a quick camera and video to match , this is the camera for you .</Tokens>
+		<POS>IN DT WP VBP DT JJ NN CC NN TO VB , DT VBZ DT NN IN PRP .</POS>
+		<Lemma>for those who need a quick camera and video to match , this be the camera for you .</Lemma>
+	</Sentence>
+</Document>

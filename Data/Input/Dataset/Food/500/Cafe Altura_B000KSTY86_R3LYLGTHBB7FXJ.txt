@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm generally a little leery of single beans for espresso , but this makes a really good shot with a nice crema and excellent flavor .</Tokens>
+		<POS>PRP VBP RB DT JJ JJ IN JJ NNS IN NN , CC DT VBZ DT RB JJ NN IN DT JJ NN CC JJ NN .</POS>
+		<Lemma>I be generally a little leery of single bean for espresso , but this make a really good shot with a nice crema and excellent flavor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Amzon had a sale on it a couple of months ago and I tried it and was pleasantly surprised , tastes similar to southern italian espresso .</Tokens>
+		<POS>NNP VBD DT NN IN PRP DT NN IN NNS RB CC PRP VBD PRP CC VBD RB JJ , NNS JJ TO JJ JJ NN .</POS>
+		<Lemma>Amzon have a sale on it a couple of month ago and I try it and be pleasantly surprised , taste similar to southern italian espresso .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use a pretty good machine and grinder but the shots are uniformly good and low acid .</Tokens>
+		<POS>PRP VBP DT RB JJ NN CC NN CC DT NNS VBP RB JJ CC JJ NN .</POS>
+		<Lemma>I use a pretty good machine and grinder but the shot be uniformly good and low acid .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>there are some chocolate overtones to the flavor .</Tokens>
+		<POS>EX VBP DT NN NNS TO DT NN .</POS>
+		<Lemma>there be some chocolate overtone to the flavor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>One of the nicer coffee 's I have tried</Tokens>
+		<POS>CD IN DT JJR NN POS PRP VBP VBN</POS>
+		<Lemma>one of the nicer coffee 's I have try</Lemma>
+	</Sentence>
+</Document>

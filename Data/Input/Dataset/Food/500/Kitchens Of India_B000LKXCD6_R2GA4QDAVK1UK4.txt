@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love Indian food and find this particular Paneer very tasty .</Tokens>
+		<POS>PRP VBP JJ NN CC VB DT JJ NNP RB JJ .</POS>
+		<Lemma>I love indian food and find this particular Paneer very tasty .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But I add some of my own spinach to it to make it a little `` gutsier '' and more like a vegetable side dish .</Tokens>
+		<POS>CC PRP VBP DT IN PRP$ JJ NN TO PRP TO VB PRP DT JJ `` JJR '' CC RBR IN DT NN NN NN .</POS>
+		<Lemma>but I add some of my own spinach to it to make it a little `` gutsier '' and more like a vegetable side dish .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>One of these packs to one -LRB- cooked -RRB- frozen block of spinach , or one pack to a comparable amount of fresh cooked spinach makes for the perfect consistency and taste for me and my family .</Tokens>
+		<POS>CD IN DT NNS TO CD -LRB- VBN -RRB- JJ NN IN NN , CC CD NN TO DT JJ NN IN JJ VBN NN VBZ IN DT JJ NN CC NN IN PRP CC PRP$ NN .</POS>
+		<Lemma>one of these pack to one -lrb- cook -rrb- frozen block of spinach , or one pack to a comparable amount of fresh cook spinach make for the perfect consistency and taste for I and my family .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought two and use them with MyTouch 4gs .</Tokens>
+		<POS>PRP VBD CD CC VB PRP IN NN NNS .</POS>
+		<Lemma>I buy two and use they with mytouch 4g .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They may be a touch slow but you ca n't beat the price !</Tokens>
+		<POS>PRP MD VB DT NN JJ CC PRP MD RB VB DT NN .</POS>
+		<Lemma>they may be a touch slow but you can not beat the price !</Lemma>
+	</Sentence>
+</Document>

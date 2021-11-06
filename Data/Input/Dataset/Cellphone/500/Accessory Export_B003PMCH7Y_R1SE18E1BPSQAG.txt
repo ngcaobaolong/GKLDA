@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Does what it says and works great .</Tokens>
+		<POS>VBZ WP PRP VBZ CC VBZ JJ .</POS>
+		<Lemma>do what it say and work great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A + + + Awesome product for its price .</Tokens>
+		<POS>DT CC CC CC JJ NN IN PRP$ NN .</POS>
+		<Lemma>a + + + awesome product for its price .</Lemma>
+	</Sentence>
+</Document>

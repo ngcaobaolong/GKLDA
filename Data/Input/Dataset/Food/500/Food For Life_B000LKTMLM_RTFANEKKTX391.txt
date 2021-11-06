@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ok , I know this is an organic grain product but flavor has to count for something .</Tokens>
+		<POS>NNP , PRP VBP DT VBZ DT JJ NN NN CC NN VBZ TO VB IN NN .</POS>
+		<Lemma>Ok , I know this be a organic grain product but flavor have to count for something .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This stuff is like eating little chunks of wood .</Tokens>
+		<POS>DT NN VBZ IN VBG JJ NNS IN NN .</POS>
+		<Lemma>this stuff be like eat little chunk of wood .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has no flavor whatsoever .</Tokens>
+		<POS>PRP VBZ DT NN RB .</POS>
+		<Lemma>it have no flavor whatsoever .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It take a while to put a bowl of this stuff away because it 's very hard -- even when soaked in milk .</Tokens>
+		<POS>PRP VBP DT NN TO VB DT NN IN DT NN RB IN PRP VBZ RB JJ : RB WRB VBN IN NN .</POS>
+		<Lemma>it take a while to put a bowl of this stuff away because it be very hard -- even when soak in milk .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- I use rice milk because it 's sweeter than soy milk . -RRB-</Tokens>
+		<POS>-LRB- PRP VBP NN NN IN PRP VBZ JJR IN NN NN . -RRB-</POS>
+		<Lemma>-lrb- I use rice milk because it be sweeter than soy milk . -rrb-</Lemma>
+	</Sentence>
+</Document>

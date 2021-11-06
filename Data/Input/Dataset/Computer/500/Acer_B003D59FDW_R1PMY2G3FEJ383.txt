@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>With fast shipping and a great price I hooked this up in no time , clear crisp picture , fits my desk perfectly !</Tokens>
+		<POS>IN JJ NN CC DT JJ NN PRP VBD DT RP IN DT NN , JJ JJ NN , VBZ PRP$ NN RB .</POS>
+		<Lemma>with fast shipping and a great price I hook this up in no time , clear crisp picture , fit my desk perfectly !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If U need a new screen this is for you</Tokens>
+		<POS>IN NNP VBP DT JJ NN DT VBZ IN PRP</POS>
+		<Lemma>if U need a new screen this be for you</Lemma>
+	</Sentence>
+</Document>

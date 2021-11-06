@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>FOR YEARS I HAVE USED THE BIGGER MONITOR , BUT SINCE MY PURCHASE THRU AMAZON , WITH THIS NEW 19 IN ACER MONITOR , WOW , WHAT A DIFFERENCE .</Tokens>
+		<POS>IN NNS PRP VBP VBN DT JJR NN , NNP NNP NNP NNP NNP NNP , IN NNS JJ CD IN NNP NNP , NNP , WDT DT NN .</POS>
+		<Lemma>for year I have use the bigger monitor , BUT SINCE MY PURCHASE THRU AMAZON , with this new 19 in ACER MONITOR , WOW , what a difference .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I ESPECIALLY LIKED THE FAST SHIPPING .</Tokens>
+		<POS>PRP RB VBD DT NN NNP .</POS>
+		<Lemma>I especially like the fast SHIPPING .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>THANKS AMAZON !!!</Tokens>
+		<POS>NNS NNP CD</POS>
+		<Lemma>thanks AMAZON !!!</Lemma>
+	</Sentence>
+</Document>

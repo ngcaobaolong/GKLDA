@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've used the gopro before , and this is definitely a step up in video quality .</Tokens>
+		<POS>PRP VBP VBN DT NN RB , CC DT VBZ RB DT NN RB IN JJ NN .</POS>
+		<Lemma>I have use the gopro before , and this be definitely a step up in video quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The mounts fit perfect on my helmet or handlebars -LRB- I 'm using it on a bicycle -RRB- .</Tokens>
+		<POS>DT VBZ JJ JJ IN PRP$ NN CC NNS -LRB- PRP VBP VBG PRP IN DT NN -RRB- .</POS>
+		<Lemma>the mount fit perfect on my helmet or handlebars -lrb- I be use it on a bicycle -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Footage came out smooth , and the videos went right to my computer from the SD drive .</Tokens>
+		<POS>NN VBD RP JJ , CC DT NNS VBD RB TO PRP$ NN IN DT NN NN .</POS>
+		<Lemma>footage come out smooth , and the video go right to my computer from the sd drive .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No issues despite plenty of bumps , jumps , water , and crashes .</Tokens>
+		<POS>DT NNS IN NN IN NNS , VBZ , NN , CC NNS .</POS>
+		<Lemma>no issue despite plenty of bump , jump , water , and crash .</Lemma>
+	</Sentence>
+</Document>

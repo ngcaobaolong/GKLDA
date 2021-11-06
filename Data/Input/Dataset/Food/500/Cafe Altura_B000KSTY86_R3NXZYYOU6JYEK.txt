@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love this coffee .</Tokens>
+		<POS>NN DT NN .</POS>
+		<Lemma>love this coffee .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great flavor , not bitter .</Tokens>
+		<POS>JJ NN , RB JJ .</POS>
+		<Lemma>great flavor , not bitter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>These beans are the prettiest beans I have ever seen .</Tokens>
+		<POS>DT NNS VBP DT JJS NNS PRP VBP RB VBN .</POS>
+		<Lemma>these bean be the prettiest bean I have ever see .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I LOVE Indian food and have eaten palak paneer and enjoyed it , BUT this was TERRIBLE , spinach sauce tasted like it was made with canned spinach , and the cheese had a horrible texture , I had one bite and threw the rest away -LRB- did not even swallow the one bite -RRB- .</Tokens>
+		<POS>PRP VBP JJ NN CC VBP VBN NN NN CC VBD PRP , NNP DT VBD NNP , NN NN VBD IN PRP VBD VBN IN VBN NN , CC DT NN VBD DT JJ NN , PRP VBD CD NN CC VBD DT NN RB -LRB- VBD RB RB VB DT CD NN -RRB- .</POS>
+		<Lemma>I love indian food and have eat palak paneer and enjoy it , BUT this be TERRIBLE , spinach sauce taste like it be make with can spinach , and the cheese have a horrible texture , I have one bite and throw the rest away -lrb- do not even swallow the one bite -rrb- .</Lemma>
+	</Sentence>
+</Document>

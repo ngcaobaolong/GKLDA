@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These things do absolutely NOTHING !</Tokens>
+		<POS>DT NNS VBP RB VBG .</POS>
+		<Lemma>these thing do absolutely nothing !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Please do n't waste your money on this obvious scam they are nothing more than plastic with a design on it .</Tokens>
+		<POS>VB VB RB VB PRP$ NN IN DT JJ NN PRP VBP NN JJR IN NN IN DT NN IN PRP .</POS>
+		<Lemma>please do not waste you money on this obvious scam they be nothing more than plastic with a design on it .</Lemma>
+	</Sentence>
+</Document>

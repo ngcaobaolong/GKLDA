@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is one beautiful monitor .</Tokens>
+		<POS>DT VBZ CD JJ NN .</POS>
+		<Lemma>this be one beautiful monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The screen has a slick high gloss finish that looks as good when it 's off as when it 's on .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ VBP NN WDT VBZ RB JJ WRB PRP VBZ RP IN WRB PRP VBZ IN .</POS>
+		<Lemma>the screen have a slick high gloss finish that look as good when it be off as when it be on .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Controls on base look and feel expensive .</Tokens>
+		<POS>NNP IN NN NN CC VB JJ .</POS>
+		<Lemma>Controls on base look and feel expensive .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very sharp and bright .</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>very sharp and bright .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also noteworthy is the way it can shift down from its native resolution -LRB- 1280x1024 -RRB- to 1024x768 with very little loss of sharpness , which is useful to know if you want to use a LCD with an older computer that may not have a top notch graphics card .</Tokens>
+		<POS>RB JJ VBZ DT NN PRP MD VB RB IN PRP$ JJ NN -LRB- NN -RRB- TO CD IN RB JJ NN IN NN , WDT VBZ JJ TO VB IN PRP VBP TO VB DT NNS IN DT JJR NN WDT MD RB VB DT JJ NN NNS NN .</POS>
+		<Lemma>also noteworthy be the way it can shift down from its native resolution -lrb- 1280x1024 -rrb- to 1024x768 with very little loss of sharpness , which be useful to know if you want to use a lcd with a older computer that may not have a top notch graphic card .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Convenient headphone jack in base .</Tokens>
+		<POS>JJ NN NN IN NN .</POS>
+		<Lemma>convenient headphone jack in base .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Power supply externally connected , easy to replace if necessary .</Tokens>
+		<POS>NNP NN RB VBN , JJ TO VB IN JJ .</POS>
+		<Lemma>Power supply externally connect , easy to replace if necessary .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>All this plus a 3 YEAR WARRANTY !</Tokens>
+		<POS>PDT DT CC DT CD NN NN .</POS>
+		<Lemma>all this plus a 3 year warranty !</Lemma>
+	</Sentence>
+</Document>

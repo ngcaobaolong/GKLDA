@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great little gadget that I bought for my Droid Incredible .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN IN PRP VBD IN PRP$ NNP JJ .</POS>
+		<Lemma>this be a great little gadget that I buy for my Droid incredible .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm very glad that so many cell phone companies seem to be using the same size plug for charging .</Tokens>
+		<POS>PRP VBP RB JJ IN RB JJ NN NN NNS VBP TO VB VBG DT JJ NN NN IN VBG .</POS>
+		<Lemma>I be very glad that so many cell phone company seem to be use the same size plug for charge .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This fits my phone and my Bluetooth , and using the USB plug-in point , I can charge my GPS , iPod , or my Kindle , too .</Tokens>
+		<POS>DT VBZ PRP$ NN CC PRP$ NNP , CC VBG DT JJ JJ NN , PRP MD VB PRP$ NNS , NN , CC PRP$ NNP , RB .</POS>
+		<Lemma>this fit my phone and my Bluetooth , and use the usb plug-in point , I can charge my gp , ipod , or my Kindle , too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I really like all of the options for charging : wall plug , car charger , AA batteries , and even a 9V .</Tokens>
+		<POS>PRP RB IN DT IN DT NNS IN VBG : NN NN , NN NN , NN NNS , CC RB DT NN .</POS>
+		<Lemma>I really like all of the option for charge : wall plug , car charger , aa battery , and even a 9v .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I carry it with me all the time .</Tokens>
+		<POS>PRP VBP PRP IN PRP PDT DT NN .</POS>
+		<Lemma>I carry it with I all the time .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So far , no complaints at all .</Tokens>
+		<POS>RB RB , DT NNS IN DT .</POS>
+		<Lemma>so far , no complaint at all .</Lemma>
+	</Sentence>
+</Document>

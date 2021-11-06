@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this as a gift for my father .</Tokens>
+		<POS>PRP VBD DT IN DT NN IN PRP$ NN .</POS>
+		<Lemma>I buy this as a gift for my father .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We 're both crazy for popcorn and we agree that it is better than any other popcorn we 've bought yet .</Tokens>
+		<POS>PRP VBP DT JJ IN NN CC PRP VBP IN PRP VBZ JJR IN DT JJ NN PRP VBP VBN RB .</POS>
+		<Lemma>we be both crazy for popcorn and we agree that it be better than any other popcorn we have buy yet .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you eat a lot of popcorn , you 'd be crazy not to buy this at a price this cheap .</Tokens>
+		<POS>IN PRP VBP DT NN IN NN , PRP MD VB JJ RB TO VB DT IN DT NN DT JJ .</POS>
+		<Lemma>if you eat a lot of popcorn , you would be crazy not to buy this at a price this cheap .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , do be prepared to have a few large containers on hand to store the popcorn after you open the bag .</Tokens>
+		<POS>RB , VBP VB VBN TO VB DT JJ JJ NNS IN NN TO VB DT NN IN PRP VBP DT NN .</POS>
+		<Lemma>however , do be prepare to have a few large container on hand to store the popcorn after you open the bag .</Lemma>
+	</Sentence>
+</Document>

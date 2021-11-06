@@ -1,0 +1,177 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>By chance , I sat on a plane next to the camera reviewer from PCMag.com .</Tokens>
+		<POS>IN NN , PRP VBD IN DT NN JJ TO DT NN NN IN NNP .</POS>
+		<Lemma>by chance , I sit on a plane next to the camera reviewer from PCMag.com .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'd been in the market for an enthusiast point-and-shoot , and was leaning towards the Canon S100 .</Tokens>
+		<POS>PRP MD VBN IN DT NN IN DT NN NN , CC VBD VBG IN DT NNP NN .</POS>
+		<Lemma>I would be in the market for a enthusiast point-and-shoot , and be lean towards the Canon s100 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>He pulled a NEX-5n out of his bag and completely changed my mind .</Tokens>
+		<POS>PRP VBD DT NN IN IN PRP$ NN CC RB VBD PRP$ NN .</POS>
+		<Lemma>he pull a nex-5n out of he bag and completely change my mind .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>He was using an adaptor with a Leica lens , and I immediately thought of my old Canon FD lenses , my Canon bellows , etc. , and realized I could put all that glass back to work .</Tokens>
+		<POS>PRP VBD VBG DT NN IN DT NNP NN , CC PRP RB VBD IN PRP$ JJ NNP NNP NNS , PRP$ NNP NNS , FW , CC VBD PRP MD VB DT DT NN RB TO VB .</POS>
+		<Lemma>he be use a adaptor with a Leica lens , and I immediately think of my old Canon FD lens , my Canon bellows , etc. , and realize I could put all that glass back to work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>With an inexpensive Fotodiox Lens Mount Adapter , Canon FD , New FD , FL Lens to Sony Alpha Nex E-mount Camera Adapter , fit Sony NEX 3 , Nex 5 , NEX-VG10 , Fits Original FD lens and New FD lenses , I 've got a great range of primes , plus the Sony kit zoom .</Tokens>
+		<POS>IN DT JJ NN NNP NNP NNP NNP , NNP NNP , NNP NNP , NN NNP TO NNP NNP NNP NNP NNP NNP , JJ NNP NNP CD , NNP CD , NN , VBZ JJ NN NN CC JJ NN NNS VBP , PRP VBP VBD DT JJ NN IN VBZ , CC DT NNP NN NN .</POS>
+		<Lemma>with a inexpensive Fotodiox Lens Mount Adapter , Canon FD , New FD , fl Lens to Sony Alpha Nex E-mount Camera Adapter , fit Sony NEX 3 , Nex 5 , nex-vg10 , fit original fd lens and new fd lens , I have get a great range of prime , plus the Sony kit zoom .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I do a lot of close-up and macro photography for my business and my old digital camera was intolerably slow , with unattractive barrel distortion in the macro shots .</Tokens>
+		<POS>PRP VBP DT NN IN NN CC NN NN IN PRP$ NN CC PRP$ JJ JJ NN VBD RB JJ , IN JJ NN NN IN DT NN NNS .</POS>
+		<Lemma>I do a lot of close-up and macro photography for my business and my old digital camera be intolerably slow , with unattractive barrel distortion in the macro shot .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The old Canon glass or a Schneider Componon enlarger lens on the bellows give me perfect macro shots .</Tokens>
+		<POS>DT JJ NNP NN CC DT NNP NNP NN NN IN DT NNS VBP PRP JJ NN NNS .</POS>
+		<Lemma>the old Canon glass or a Schneider Componon enlarger lens on the bellows give I perfect macro shot .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The 18-55 lens is sharp , but has the distortions you 'd expect with an inexpensive zoom .</Tokens>
+		<POS>DT CD NN VBZ JJ , CC VBZ DT NNS PRP MD VB IN DT JJ NN .</POS>
+		<Lemma>the 18-55 lens be sharp , but have the distortion you would expect with a inexpensive zoom .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>They 're easy to correct in Lightroom or AfterShot Pro , however .</Tokens>
+		<POS>PRP VBP JJ TO VB IN NNP CC NNP FW , RB .</POS>
+		<Lemma>they be easy to correct in Lightroom or AfterShot pro , however .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The lens is incredibly light , as is the body , but magnesium instead of plastic makes for a sturdy-feeling unit .</Tokens>
+		<POS>DT NN VBZ RB JJ , IN VBZ DT NN , CC NN RB IN JJ NNS IN DT JJ NN .</POS>
+		<Lemma>the lens be incredibly light , as be the body , but magnesium instead of plastic make for a sturdy-feeling unit .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's a bit bulky for a grab-and-go , too big for a pocket , but the picture quality and system capabilities far outweigh that .</Tokens>
+		<POS>PRP VBZ DT NN JJ IN DT NN , RB JJ IN DT NN , CC DT NN NN CC NN NNS RB VBP IN .</POS>
+		<Lemma>it be a bit bulky for a grab-and-go , too big for a pocket , but the picture quality and system capability far outweigh that .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Two things I like best about the NEX-5n 's operation are the touch screen and the customizable buttons .</Tokens>
+		<POS>CD NNS PRP VBP JJS IN DT NN POS NN VBP DT NN NN CC DT JJ NNS .</POS>
+		<Lemma>two thing I like best about the nex-5n 's operation be the touch screen and the customizable button .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I did not expect to like the touch screen , but it 's an excellent feature .</Tokens>
+		<POS>PRP VBD RB VB TO VB DT NN NN , CC PRP VBZ DT JJ NN .</POS>
+		<Lemma>I do not expect to like the touch screen , but it be a excellent feature .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I could quibble with the location of some of the items , whether they 're under `` Camera '' or `` Setup , '' but overall , it 's easy to get to the features you want .</Tokens>
+		<POS>PRP MD VB IN DT NN IN DT IN DT NNS , IN PRP VBP IN `` NNP '' CC `` NNP , '' CC RB , PRP VBZ JJ TO VB TO DT NNS PRP VBP .</POS>
+		<Lemma>I could quibble with the location of some of the item , whether they be under `` Camera '' or `` Setup , '' but overall , it be easy to get to the feature you want .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Even better , you can assign almost any function you want to two of the buttons , and one of them lets you scroll through five additional choices .</Tokens>
+		<POS>RB RBR , PRP MD VB RB DT NN PRP VBP TO CD IN DT NNS , CC CD IN PRP VBZ PRP VBP IN CD JJ NNS .</POS>
+		<Lemma>even better , you can assign almost any function you want to two of the button , and one of they let you scroll through five additional choice .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>So you customize the camera to work the way you use it most .</Tokens>
+		<POS>IN PRP VBP DT NN TO VB DT NN PRP VBP PRP RBS .</POS>
+		<Lemma>so you customize the camera to work the way you use it most .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>If you touch the screen in some modes , the camera will follow-focus on whatever you pointed at .</Tokens>
+		<POS>IN PRP VBP DT NN IN DT NNS , DT NN MD VB IN WDT PRP VBD IN .</POS>
+		<Lemma>if you touch the screen in some mode , the camera will follow-focus on whatever you point at .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I have not used the smile detector , face tracker , or the scene modes , but all those features are there for convenience shooting .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NN , NN NN , CC DT NN NNS , CC PDT DT NNS VBP EX IN NN NN .</POS>
+		<Lemma>I have not use the smile detector , face tracker , or the scene mode , but all those feature be there for convenience shooting .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The other excellent feature of the screen is that it flips up horizontally , for looking down , waist-level or tripod shooting ; it also folds to a down-facing position , so you can look up at the screen when you 're shooting over heads in a crowd .</Tokens>
+		<POS>DT JJ JJ NN IN DT NN VBZ IN PRP VBZ RP RB , IN VBG RP , JJ CC NN NN : PRP RB VBZ TO DT JJ NN , RB PRP MD VB RP IN DT NN WRB PRP VBP VBG IN NNS IN DT NN .</POS>
+		<Lemma>the other excellent feature of the screen be that it flip up horizontally , for look down , waist-level or tripod shooting ; it also fold to a down-facing position , so you can look up at the screen when you be shoot over head in a crowd .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The quality of the photos from RAW or fine JPEG is stunning , the equal of many full-size DSLRs .</Tokens>
+		<POS>DT NN IN DT NNS IN NN CC JJ NN VBZ JJ , DT JJ IN JJ JJ NNS .</POS>
+		<Lemma>the quality of the photo from raw or fine jpeg be stunning , the equal of many full-size dslr .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>With or without onboard noise reduction , you can use the higher ISO settings with excellent results .</Tokens>
+		<POS>IN CC IN JJ NN NN , PRP MD VB DT JJR NN NNS IN JJ NNS .</POS>
+		<Lemma>with or without onboard noise reduction , you can use the higher iso setting with excellent result .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Night shots or high f-number shots are surprisingly good .</Tokens>
+		<POS>NNP NNS CC JJ NN NNS VBP RB JJ .</POS>
+		<Lemma>Night shot or high f-number shot be surprisingly good .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I have n't shot much video yet , but what I 've done so far is quite good .</Tokens>
+		<POS>PRP VBP RB VBN RB JJ RB , CC WP PRP VBP VBN RB RB VBZ RB JJ .</POS>
+		<Lemma>I have not shoot much video yet , but what I have do so far be quite good .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I would probably trade off a slightly larger body for anti-shake in the camera instead of the lens .</Tokens>
+		<POS>PRP MD RB VB RP DT RB JJR NN IN NN IN DT NN RB IN DT NN .</POS>
+		<Lemma>I would probably trade off a slightly larger body for anti-shake in the camera instead of the lens .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>It would make my old primes more useful .</Tokens>
+		<POS>PRP MD VB PRP$ JJ VBZ JJR JJ .</POS>
+		<Lemma>it would make my old prime more useful .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>But I can save my pennies for some of the fine E-mount lenses being offered .</Tokens>
+		<POS>CC PRP MD VB PRP$ NNS IN DT IN DT JJ NN NNS VBG VBN .</POS>
+		<Lemma>but I can save my penny for some of the fine e-mount lens be offer .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>So far I have not missed having a flash\/accessory shoe .</Tokens>
+		<POS>RB RB PRP VBP RB VBN VBG DT JJ NN .</POS>
+		<Lemma>so far I have not miss have a flash\/accessory shoe .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>The viewfinder is an expensive accessory .</Tokens>
+		<POS>DT NN VBZ DT JJ NN .</POS>
+		<Lemma>the viewfinder be a expensive accessory .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>It 's probably necessary for sports or action photography , but I have n't found a need yet .</Tokens>
+		<POS>PRP VBZ RB JJ IN NNS CC NN NN , CC PRP VBP RB VBN DT NN RB .</POS>
+		<Lemma>it be probably necessary for sport or action photography , but I have not find a need yet .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>I got the Sony HVLF20S Flash for Sony Nex Series , which fits into a small , hidden socket on top of the NEX body .</Tokens>
+		<POS>PRP VBD DT NN NNP NNPS NNP IN NNP NNP NNP NNP , WDT VBZ IN DT JJ , JJ NN IN NN IN DT NNP NN .</POS>
+		<Lemma>I get the Sony HVLF20S Flash for Sony Nex Series , which fit into a small , hidden socket on top of the NEX body .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>It is kind of fiddly to attach , but is secure once mounted .</Tokens>
+		<POS>PRP VBZ NN IN JJ TO VB , CC VBZ JJ RB VBN .</POS>
+		<Lemma>it be kind of fiddly to attach , but be secure once mount .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>The flash is absurdly powerful ; In tele mode , it gives you adequate light 25-30 feet away .</Tokens>
+		<POS>DT NN VBZ RB JJ : IN NN NN , PRP VBZ PRP JJ JJ JJ NNS RB .</POS>
+		<Lemma>the flash be absurdly powerful ; in tele mode , it give you adequate light 25-30 foot away .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Along with the minimalist NEX body , the flash gives the camera that I 'm - from-the-future look and feel .</Tokens>
+		<POS>IN IN DT JJ NNP NN , DT NN VBZ DT NN IN PRP VBP : NN NN CC VB .</POS>
+		<Lemma>along with the minimalist NEX body , the flash give the camera that I be - from-the-future look and feel .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>Overall , this is a great enthusiast camera with a handy zoom range and reasonable apertures .</Tokens>
+		<POS>RB , DT VBZ DT JJ NN NN IN DT JJ NN NN CC JJ NNS .</POS>
+		<Lemma>overall , this be a great enthusiast camera with a handy zoom range and reasonable aperture .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>The wide variety of available lens adapters make it a wonderfully small digital back for manual shooting .</Tokens>
+		<POS>DT JJ NN IN JJ NN NNS VBP PRP DT RB JJ JJ NN IN JJ NN .</POS>
+		<Lemma>the wide variety of available lens adapter make it a wonderfully small digital back for manual shooting .</Lemma>
+	</Sentence>
+</Document>

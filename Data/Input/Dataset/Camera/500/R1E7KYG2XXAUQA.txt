@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera itself has a good build quality and it 's fairly small .</Tokens>
+		<POS>DT NN PRP VBZ DT JJ VB NN CC PRP VBZ RB JJ .</POS>
+		<Lemma>the camera itself have a good build quality and it be fairly small .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You lose the zoom function when the camera is it to 1080P .</Tokens>
+		<POS>PRP VBP DT NN NN WRB DT NN VBZ PRP TO NN .</POS>
+		<Lemma>you lose the zoom function when the camera be it to 1080p .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It appears you only have the zoom when the camera is set to 720P .</Tokens>
+		<POS>PRP VBZ PRP RB VBP DT NN WRB DT NN VBZ VBN TO NNP .</POS>
+		<Lemma>it appear you only have the zoom when the camera be set to 720P .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The remote function works great .</Tokens>
+		<POS>DT JJ NN VBZ JJ .</POS>
+		<Lemma>the remote function work great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They provide alot of different attachments for the camera to be mounted to something .</Tokens>
+		<POS>PRP VBP NN IN JJ NNS IN DT NN TO VB VBN TO NN .</POS>
+		<Lemma>they provide alot of different attachment for the camera to be mount to something .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For my purposes which is to video ski runs and kayak runs , this camera fits the bill .</Tokens>
+		<POS>IN PRP$ NNS WDT VBZ TO JJ NN NNS CC NN NNS , DT NN VBZ DT NN .</POS>
+		<Lemma>for my purpose which be to video ski run and kayak run , this camera fit the bill .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The waterproof at the time of purchase is not readily available .</Tokens>
+		<POS>DT JJ IN DT NN IN NN VBZ RB RB JJ .</POS>
+		<Lemma>the waterproof at the time of purchase be not readily available .</Lemma>
+	</Sentence>
+</Document>

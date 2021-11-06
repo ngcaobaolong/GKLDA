@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I followed the instructions very carefully , but it did not work on my Motorola Droid .</Tokens>
+		<POS>PRP VBD DT NNS RB RB , CC PRP VBD RB VB IN PRP$ NNP NNP .</POS>
+		<Lemma>I follow the instruction very carefully , but it do not work on my Motorola Droid .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Signal stayed at -70 dBm with no improvement .</Tokens>
+		<POS>NN VBD IN CD NN IN DT NN .</POS>
+		<Lemma>signal stay at -70 dbm with no improvement .</Lemma>
+	</Sentence>
+</Document>

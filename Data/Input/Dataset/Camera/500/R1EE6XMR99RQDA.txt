@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought the Pentax kr from CostCo with the two lens package .</Tokens>
+		<POS>VBN DT NNP NN IN NNP IN DT CD NN NN .</POS>
+		<Lemma>buy the Pentax kr from CostCo with the two lens package .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Kept it for two days and returned it .</Tokens>
+		<POS>VBN PRP IN CD NNS CC VBD PRP .</POS>
+		<Lemma>keep it for two day and return it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The little red focus indicator did not always light up consistently .</Tokens>
+		<POS>DT JJ JJ NN NN VBD RB RB JJ IN RB .</POS>
+		<Lemma>the little red focus indicator do not always light up consistently .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I went outside and took pictures at 3PM on a nice , sunny day in the auto mode .</Tokens>
+		<POS>PRP VBD JJ CC VBD NNS IN NN IN DT JJ , JJ NN IN DT NN NN .</POS>
+		<Lemma>I go outside and take picture at 3pm on a nice , sunny day in the auto mode .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Two of them came out so underexposed as to be unusable .</Tokens>
+		<POS>CD IN PRP VBD RP RB VBN IN TO VB JJ .</POS>
+		<Lemma>two of they come out so underexpose as to be unusable .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>During the same session all the rest were OK .</Tokens>
+		<POS>IN DT JJ NN PDT DT NN VBD JJ .</POS>
+		<Lemma>during the same session all the rest be ok .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>My LCD screen also went so dim you could hardly see it , then , in the same session , it came back to normal brightness .</Tokens>
+		<POS>PRP$ NNS NN RB VBD RB JJ PRP MD RB VB PRP , RB , IN DT JJ NN , PRP VBD RB TO JJ NN .</POS>
+		<Lemma>my lcd screen also go so dim you could hardly see it , then , in the same session , it come back to normal brightness .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is a noisy camera with non-auto focus video which makes it very clumsy if you need to pan around .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN JJ NN NN WDT VBZ PRP RB JJ IN PRP VBP TO VB RP .</POS>
+		<Lemma>it be a noisy camera with non-auto focus video which make it very clumsy if you need to pan around .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My Panasonic FZ35 has a much better video mode even at the same 720p setting .</Tokens>
+		<POS>PRP$ NNP NN VBZ DT RB JJR NN NN RB IN DT JJ NN NN .</POS>
+		<Lemma>my Panasonic fz35 have a much better video mode even at the same 720p setting .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I found the Pentax extremely hard to focus in manual mode with no focus aid like in my old Pentax ME Super film camera which I dearly loved .</Tokens>
+		<POS>PRP VBD DT NNP RB JJ TO VB IN JJ NN IN DT NN NN IN IN PRP$ JJ NNP NNP NNP NN NN WDT PRP RB VBD .</POS>
+		<Lemma>I find the Pentax extremely hard to focus in manual mode with no focus aid like in my old Pentax ME Super film camera which I dearly love .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I thought I was buying a real winner because of the sensor rating on the DOXM -LRB- ? -RRB-</Tokens>
+		<POS>PRP VBD PRP VBD VBG DT JJ NN IN IN DT NN NN IN DT NN -LRB- . -RRB-</POS>
+		<Lemma>I think I be buy a real winner because of the sensor rating on the doxm -lrb- ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>websit and the Imaging Resource Comparometer .</Tokens>
+		<POS>NN CC DT NNP NNP NNP .</POS>
+		<Lemma>websit and the Imaging Resource Comparometer .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I seemed to have gotten a camera which teetered on the edge of imminent total failure .</Tokens>
+		<POS>PRP VBD TO VB VBN DT NN WDT VBD IN DT NN IN JJ JJ NN .</POS>
+		<Lemma>I seem to have get a camera which teeter on the edge of imminent total failure .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Alas , I really liked the quality feel when I unboxed it .</Tokens>
+		<POS>RB , PRP RB VBD DT NN VB WRB PRP VBD PRP .</POS>
+		<Lemma>alas , I really like the quality feel when I unbox it .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I will not try another .</Tokens>
+		<POS>PRP MD RB VB DT .</POS>
+		<Lemma>I will not try another .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I am now torn between the Panasonic G3 , the Nikon D5100 or the Canon T3i .</Tokens>
+		<POS>PRP VBP RB VBN IN DT NNP NN , DT NNP NN CC DT NNP NN .</POS>
+		<Lemma>I be now tear between the Panasonic g3 , the Nikon d5100 or the Canon t3us .</Lemma>
+	</Sentence>
+</Document>

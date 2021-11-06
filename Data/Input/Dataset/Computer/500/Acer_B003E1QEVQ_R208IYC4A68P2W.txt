@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After working in a law office for 10 years while aging up to 65 and looking at a 10 year old 17 '' monitor , I thought my eyes were going with my age .</Tokens>
+		<POS>IN VBG IN DT NN NN IN CD NNS IN VBG RP TO CD CC VBG IN DT CD NN JJ CD '' NN , PRP VBD PRP$ NNS VBD VBG IN PRP$ NN .</POS>
+		<Lemma>after work in a law office for 10 year while age up to 65 and look at a 10 year old 17 '' monitor , I think my eye be go with my age .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This monitor has proven to me that I 'm not as old as I felt .</Tokens>
+		<POS>DT NN VBZ VBN TO PRP IN PRP VBP RB IN JJ IN PRP VBD .</POS>
+		<Lemma>this monitor have prove to I that I be not as old as I feel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>THANK YOU ACER !</Tokens>
+		<POS>VB PRP NN .</POS>
+		<Lemma>thank you acer !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Needed the square version because the new oblongs do n't give me near the clarity for word processing , not to mention my desk wo n't hold one that has as much view screen as this 19 '' square variety .</Tokens>
+		<POS>VBN DT JJ NN IN DT JJ NNS VBP RB VB PRP IN DT NN IN NN NN , RB TO VB PRP$ NN MD RB VB CD WDT VBZ RB JJ NN NN IN DT CD '' JJ NN .</POS>
+		<Lemma>need the square version because the new oblong do not give I near the clarity for word processing , not to mention my desk will not hold one that have as much view screen as this 19 '' square variety .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this monitor .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is huge -LRB- to me anyway -RRB- .</Tokens>
+		<POS>PRP VBZ JJ -LRB- TO PRP RB -RRB- .</POS>
+		<Lemma>it be huge -lrb- to I anyway -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has good resolution .</Tokens>
+		<POS>PRP VBZ JJ NN .</POS>
+		<Lemma>it have good resolution .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I only have one negative thing to say and that is that I could never find the speaker wire to hook up to the computer and it is supposed to have speakers .</Tokens>
+		<POS>PRP RB VBP CD JJ NN TO VB CC DT VBZ IN PRP MD RB VB DT NN NN TO NN RP TO DT NN CC PRP VBZ VBN TO VB NNS .</POS>
+		<Lemma>I only have one negative thing to say and that be that I could never find the speaker wire to hook up to the computer and it be suppose to have speaker .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Fortunately , I had a pair of speakers of my own and I am using them .</Tokens>
+		<POS>RB , PRP VBD DT NN IN NNS IN PRP$ JJ CC PRP VBP VBG PRP .</POS>
+		<Lemma>fortunately , I have a pair of speaker of my own and I be use they .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I love having this big screen because I do n't have to scroll back and forth to get the whole picture and for my games it is spectacular .</Tokens>
+		<POS>PRP VBP VBG DT JJ NN IN PRP VBP RB VB TO VB RB CC RB TO VB DT JJ NN CC IN PRP$ NNS PRP VBZ JJ .</POS>
+		<Lemma>I love have this big screen because I do not have to scroll back and forth to get the whole picture and for my game it be spectacular .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I can recommend this product to anyone looking for a large screen at a reasonable price .</Tokens>
+		<POS>PRP MD VB DT NN TO NN VBG IN DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>I can recommend this product to anyone look for a large screen at a reasonable price .</Lemma>
+	</Sentence>
+</Document>

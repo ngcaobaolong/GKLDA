@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was a little skeptical about buying a package mix , since I make all of my own bread from scratch , but this was so easy and it 's delicious .</Tokens>
+		<POS>PRP VBD DT JJ JJ IN VBG DT NN NN , IN PRP VBP DT IN PRP$ JJ NN IN NN , CC DT VBD RB JJ CC PRP VBZ JJ .</POS>
+		<Lemma>I be a little skeptical about buy a package mix , since I make all of my own bread from scratch , but this be so easy and it be delicious .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I made it in my bread machine , but I used the `` dough only '' feature and when it had risen properly , I shut the machine down and told it to `` bake '' .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ NN NN , CC PRP VBD DT `` NN RB '' NN CC WRB PRP VBD VBN RB , PRP VBD DT NN RB CC VBD PRP TO `` VB '' .</POS>
+		<Lemma>I make it in my bread machine , but I use the `` dough only '' feature and when it have rise properly , I shut the machine down and tell it to `` bake '' .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was perfect and I love all the nuts and grains in it .</Tokens>
+		<POS>PRP VBD JJ CC PRP VBP PDT DT NNS CC NNS IN PRP .</POS>
+		<Lemma>it be perfect and I love all the nut and grain in it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It would have taken me a lot of money and time to gather all the ingredients in this bread .</Tokens>
+		<POS>PRP MD VB VBN PRP DT NN IN NN CC NN TO VB PDT DT NNS IN DT NN .</POS>
+		<Lemma>it would have take I a lot of money and time to gather all the ingredient in this bread .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's much easier this way .</Tokens>
+		<POS>PRP VBZ JJ RBR DT NN .</POS>
+		<Lemma>it be much easier this way .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Give it a try .</Tokens>
+		<POS>VB PRP DT NN .</POS>
+		<Lemma>give it a try .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You 'll like it .</Tokens>
+		<POS>PRP MD VB PRP .</POS>
+		<Lemma>you 'll like it .</Lemma>
+	</Sentence>
+</Document>

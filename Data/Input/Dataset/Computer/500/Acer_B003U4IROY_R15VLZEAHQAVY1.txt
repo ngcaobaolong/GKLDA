@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>love this screen .</Tokens>
+		<POS>NN DT NN .</POS>
+		<Lemma>love this screen .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>great picture quality .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>great picture quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>better then my LG and my other Acer monitor .</Tokens>
+		<POS>RB RB PRP$ NNP CC PRP$ JJ NNP NN .</POS>
+		<Lemma>better then my LG and my other Acer monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>i use this as my main monitor in my dual screen setup .</Tokens>
+		<POS>LS NN DT IN PRP$ JJ NN IN PRP$ JJ NN NN .</POS>
+		<Lemma>i use this as my main monitor in my dual screen setup .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>my other monitor is just a 17 inch Acer i use for instructional videos -LRB- i do online schooling -RRB- this is the monitor i use for everything else .</Tokens>
+		<POS>PRP$ JJ NN VBZ RB DT CD NN NNP FW NN IN JJ NNS -LRB- FW VBP JJ NN -RRB- DT VBZ DT NN FW VB IN NN RB .</POS>
+		<Lemma>my other monitor be just a 17 inch Acer i use for instructional video -lrb- i do online schooling -rrb- this be the monitor i use for everything else .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>has a VGA port , and an HDMI port .</Tokens>
+		<POS>VBZ DT NNP NN , CC DT NN NN .</POS>
+		<Lemma>have a VGA port , and a hdmus port .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>it 's very slim so they use a power brick instead of a regular power cable most monitors and TV 's use .</Tokens>
+		<POS>PRP VBZ RB JJ IN PRP VBP DT NN NN RB IN DT JJ NN NN RBS NNS CC NN POS NN .</POS>
+		<Lemma>it be very slim so they use a power brick instead of a regular power cable most monitor and tv 's use .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>had i known that i do n't know if i 'd buy another as i do n't like power bricks .</Tokens>
+		<POS>VBD FW VBN IN FW VBP RB VB IN FW MD VB DT IN FW VBP RB VB NN NNS .</POS>
+		<Lemma>have i know that i do not know if i would buy another as i do not like power brick .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>but overall this is a great product .</Tokens>
+		<POS>CC RB DT VBZ DT JJ NN .</POS>
+		<Lemma>but overall this be a great product .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>shipped perfect with no dead pixels or any other type of defect .</Tokens>
+		<POS>VBN JJ IN DT JJ NNS CC DT JJ NN IN NN .</POS>
+		<Lemma>ship perfect with no dead pixel or any other type of defect .</Lemma>
+	</Sentence>
+</Document>

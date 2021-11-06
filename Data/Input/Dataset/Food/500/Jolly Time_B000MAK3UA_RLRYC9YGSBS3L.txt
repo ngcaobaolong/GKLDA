@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered this item because the 1-point WW popcorn is hard to find in the stores ; and when i received it last night , it was the 3-point WW popcorn .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN NN VBZ JJ TO VB IN DT NNS : CC WRB FW VBD PRP JJ NN , PRP VBD DT JJ NN NN .</POS>
+		<Lemma>I order this item because the 1-point ww popcorn be hard to find in the store ; and when i receive it last night , it be the 3-point ww popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was sent the wrong item ; but the popcorn is delicious .</Tokens>
+		<POS>PRP VBD VBN DT JJ NN : CC DT NN VBZ JJ .</POS>
+		<Lemma>I be send the wrong item ; but the popcorn be delicious .</Lemma>
+	</Sentence>
+</Document>

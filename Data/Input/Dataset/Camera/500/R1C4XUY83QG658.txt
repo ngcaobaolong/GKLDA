@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I broke my z1012 , and got this z990 six months ago .</Tokens>
+		<POS>PRP VBD PRP$ NN , CC VBD DT NN CD NNS RB .</POS>
+		<Lemma>I break my z1012 , and get this z990 six month ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Amazon is always so easy to buy at .</Tokens>
+		<POS>NNP VBZ RB RB JJ TO VB IN .</POS>
+		<Lemma>Amazon be always so easy to buy at .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>What I think of the z990 Pros : It takes great video , I love the combination of camera and video camera -LRB- only problem is you have to announce you are taking a video or they all pose for a pic -RRB- It does do great low light pictures , and some others do come out great , I did like my z1012 better for most pictures Cons : I miss the easy share charging and transfer station where I just put my camera on it and everything is done .</Tokens>
+		<POS>WP PRP VBP IN DT NN NNS : PRP VBZ JJ NN , PRP VBP DT NN IN NN CC NN NN -LRB- RB NN VBZ PRP VBP TO VB PRP VBP VBG DT NN CC PRP DT VBP IN DT NN -RRB- PRP VBZ VB JJ JJ NN NNS , CC DT NNS VBP VB RP JJ , PRP VBD VB PRP$ NN RBR IN JJS NNS NNS : PRP VBP DT JJ NN VBG CC VB NN WRB PRP RB VBD PRP$ NN IN PRP CC NN VBZ VBN .</POS>
+		<Lemma>what I think of the z990 pro : it take great video , I love the combination of camera and video camera -lrb- only problem be you have to announce you be take a video or they all pose for a pic -rrb- it do do great low light picture , and some other do come out great , I do like my z1012 better for most picture con : I miss the easy share charge and transfer station where I just put my camera on it and everything be do .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't like taking the batteries out each time .</Tokens>
+		<POS>PRP VBP RB VB VBG DT NNS IN DT NN .</POS>
+		<Lemma>I do not like take the battery out each time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It takes too long to take consecutive pictures -LRB- with the 1012 I could push the shutter button down half way and skip the pic viewing -RRB- This is a great point and shoot camera , and it is fun to use so long as I do n't need to take pictures quickly -LRB- with kids being active that is always -RRB- I hope KODAK can take some of the best of both of these and make the perfect camera someday .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB JJ NNS -LRB- IN DT CD PRP MD VB DT NN NN IN DT NN CC VB DT JJ NN -RRB- DT VBZ DT JJ NN CC VB NN , CC PRP VBZ NN TO VB RB RB IN PRP VBP RB VB TO VB NNS RB -LRB- IN NNS VBG JJ DT VBZ RB -RRB- PRP VBP NNP MD VB DT IN DT JJS IN DT IN DT CC VB DT JJ NN RB .</POS>
+		<Lemma>it take too long to take consecutive picture -lrb- with the 1012 I could push the shutter button down half way and skip the pic viewing -rrb- this be a great point and shoot camera , and it be fun to use so long as I do not need to take picture quickly -lrb- with kid be active that be always -rrb- I hope KODAK can take some of the best of both of these and make the perfect camera someday .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Of course what I really want is to someday buy a nice SLR digital camera , maybe when the kids are older .</Tokens>
+		<POS>IN NN WDT PRP RB VBP VBZ TO RB VB DT JJ NN JJ NN , RB WRB DT NNS VBP JJR .</POS>
+		<Lemma>of course what I really want be to someday buy a nice slr digital camera , maybe when the kid be older .</Lemma>
+	</Sentence>
+</Document>

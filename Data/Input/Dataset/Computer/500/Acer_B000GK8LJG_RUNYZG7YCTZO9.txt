@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For $ 200 , I guess it 's pretty okay .</Tokens>
+		<POS>IN $ CD , PRP VBP PRP VBZ RB JJ .</POS>
+		<Lemma>for $ 200 , I guess it be pretty okay .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's bright and big , which is really all I thought I wanted .</Tokens>
+		<POS>PRP VBZ JJ CC JJ , WDT VBZ RB DT PRP VBD PRP VBD .</POS>
+		<Lemma>it be bright and big , which be really all I think I want .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is n't quite as sharp as I 'd hoped , and no matter how hard I try I ca n't get the colors to match my MacBook display .</Tokens>
+		<POS>PRP VBZ RB RB IN JJ IN PRP MD VBN , CC DT NN WRB JJ PRP VBP PRP MD RB VB DT NNS TO VB PRP$ NNP NN .</POS>
+		<Lemma>it be not quite as sharp as I would hope , and no matter how hard I try I can not get the color to match my MacBook display .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm pretty picky though .</Tokens>
+		<POS>PRP VBP RB JJ IN .</POS>
+		<Lemma>I be pretty picky though .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But here 's the real problem : Right out of the box , my monitor has a dead pixel .</Tokens>
+		<POS>CC RB VBZ DT JJ NN : NNP IN IN DT NN , PRP$ NN VBZ DT JJ NN .</POS>
+		<Lemma>but here be the real problem : Right out of the box , my monitor have a dead pixel .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is n't even off in the corner ; it 's right smack dab in the middle of the screen .</Tokens>
+		<POS>PRP VBZ RB RB IN IN DT NN : PRP VBZ JJ VBP NN IN DT NN IN DT NN .</POS>
+		<Lemma>it be not even off in the corner ; it be right smack dab in the middle of the screen .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The Acer website is pretty easy to navigate and I got a warentee ticket submitted right away , but now I have to send the monitor to Texas to get it fixed .</Tokens>
+		<POS>DT NNP NN VBZ RB JJ TO VB CC PRP VBD DT NN NN VBN RB RB , CC RB PRP VBP TO VB DT NN TO NNP TO VB PRP VBN .</POS>
+		<Lemma>the Acer website be pretty easy to navigate and I get a warentee ticket submit right away , but now I have to send the monitor to Texas to get it fix .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Lame .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>lame .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Still , I ca n't say I would n't recommend this monitor to a friend who could n't afford something a little bit nicer .</Tokens>
+		<POS>RB , PRP MD RB VB PRP MD RB VB DT NN TO DT NN WP MD RB VB NN DT JJ NN JJR .</POS>
+		<Lemma>still , I can not say I would not recommend this monitor to a friend who could not afford something a little bit nicer .</Lemma>
+	</Sentence>
+</Document>

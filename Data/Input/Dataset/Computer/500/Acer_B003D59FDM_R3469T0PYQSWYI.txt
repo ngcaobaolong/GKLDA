@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>All of the monitors I saw in stores were the newer wide screen style which I do n't like for my PC .</Tokens>
+		<POS>DT IN DT NNS PRP VBD IN NNS VBD DT JJR JJ NN NN WDT PRP VBP RB VB IN PRP$ NN .</POS>
+		<Lemma>all of the monitor I see in store be the newer wide screen style which I do not like for my pc .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one was exactly what I was looking for at a great price .</Tokens>
+		<POS>DT NN VBD RB WP PRP VBD VBG IN IN DT JJ NN .</POS>
+		<Lemma>this one be exactly what I be look for at a great price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Color , resolution and performance is great as well .</Tokens>
+		<POS>NNP , NN CC NN VBZ JJ RB RB .</POS>
+		<Lemma>Color , resolution and performance be great as well .</Lemma>
+	</Sentence>
+</Document>

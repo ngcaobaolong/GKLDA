@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It takes awhile to set up , ie you must read the instructions , but once its set up its easy to use and VERY convenient .</Tokens>
+		<POS>PRP VBZ RB TO VB RP , FW PRP MD VB DT NNS , CC RB PRP$ VBN RP PRP$ JJ TO VB CC RB JJ .</POS>
+		<Lemma>it take awhile to set up , ie you must read the instruction , but once its set up its easy to use and very convenient .</Lemma>
+	</Sentence>
+</Document>

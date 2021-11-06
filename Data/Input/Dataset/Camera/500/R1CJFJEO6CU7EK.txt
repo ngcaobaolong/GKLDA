@@ -1,0 +1,197 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received my first Contour GPS HD camera as a Christmas present 2010 , and in the nearly 4 weeks I toyed with the first camera , I can say I 'm very impressed with the video quality BUT the GPS is totally worthless .</Tokens>
+		<POS>PRP VBD PRP$ JJ NNP NNP NNP NN IN DT NNP JJ CD , CC IN DT RB CD NNS PRP VBD IN DT JJ NN , PRP MD VB PRP VBP RB JJ IN DT JJ NN NNP DT NNP VBZ RB JJ .</POS>
+		<Lemma>I receive my first Contour GPS HD camera as a Christmas present 2010 , and in the nearly 4 week I toy with the first camera , I can say I be very impressed with the video quality BUT the GPS be totally worthless .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Save your money and buy the less expensive Contour HD camera instead .</Tokens>
+		<POS>VB PRP$ NN CC VB DT RBR JJ NNP NNP NN RB .</POS>
+		<Lemma>save you money and buy the less expensive Contour HD camera instead .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was under the impression the Contour GPS would function similar to my Beacon GPS Tracking Device , that allows a user to go off on an adventure , then plug the small `` Beacon '' module into a computer and in a matter of seconds see on a map where your adventure was tracked\/trailed on map .</Tokens>
+		<POS>PRP VBD IN DT NN DT NNP NNP MD VB JJ TO PRP$ NNP NNP NNP NNP , WDT VBZ DT NN TO VB RP IN DT NN , RB VB DT JJ `` NNP '' NN IN DT NN CC IN DT NN IN NNS VBP IN DT NN WRB PRP$ NN VBD VBN IN NN .</POS>
+		<Lemma>I be under the impression the Contour GPS would function similar to my Beacon GPS Tracking Device , that allow a user to go off on a adventure , then plug the small `` Beacon '' module into a computer and in a matter of seconds see on a map where you adventure be tracked\/trailed on map .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Beacon does n't show elevation\/altitude and speed , as I was lead to believe the Contour would .</Tokens>
+		<POS>DT NNP VBZ RB VB NN CC NN , IN PRP VBD JJ TO VB DT NNP MD .</POS>
+		<Lemma>the Beacon do not show elevation\/altitude and speed , as I be lead to believe the Contour would .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I finally managed to get the people at Countour to take this camera back and send me a replacement .</Tokens>
+		<POS>PRP RB VBD TO VB DT NNS IN NNP TO VB DT NN RB CC VB PRP DT NN .</POS>
+		<Lemma>I finally manage to get the people at Countour to take this camera back and send I a replacement .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The replacement arrived and worked well for a few weeks and it rapidly locked onto the satellites .</Tokens>
+		<POS>DT NN VBD CC VBD RB IN DT JJ NNS CC PRP RB VBD IN DT NNS .</POS>
+		<Lemma>the replacement arrive and work well for a few week and it rapidly lock onto the satellite .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>At first I was able to use Countour 's `` Storyteller '' software to see my GPS data .</Tokens>
+		<POS>IN JJ PRP VBD JJ TO VB NNP POS `` NNP '' NN TO VB PRP$ NNP NNS .</POS>
+		<Lemma>at first I be able to use Countour 's `` Storyteller '' software to see my GPS datum .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I had been using this camera in my airplane and it was very usefull to see the altitude , speed details for Search and Rescue flights I had been flying on .</Tokens>
+		<POS>PRP VBD VBN VBG DT NN IN PRP$ NN CC PRP VBD RB JJ TO VB DT NN , NN NNS IN VB CC NN NNS PRP VBD VBN VBG IN .</POS>
+		<Lemma>I have be use this camera in my airplane and it be very usefull to see the altitude , speed detail for search and rescue flight I have be fly on .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The ability to pinpoint a spot on the ground with the Countour GPS and then show the flight to a ground based `` boots on the ground '' team was useful .</Tokens>
+		<POS>DT NN TO VB DT NN IN DT NN IN DT NNP NNP CC RB VBP DT NN TO DT NN VBN `` NNS IN DT NN '' NN VBD JJ .</POS>
+		<Lemma>the ability to pinpoint a spot on the ground with the Countour GPS and then show the flight to a ground base `` boot on the ground '' team be useful .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>BUT , the software and the GPS feature in the Contour is not dependable .</Tokens>
+		<POS>NNP , DT NN CC DT NNP NN IN DT NNP VBZ RB JJ .</POS>
+		<Lemma>BUT , the software and the GPS feature in the Contour be not dependable .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Contour is constantly asking owners to download the latest `` fix '' for their cameras and it is frustrating .</Tokens>
+		<POS>NNP VBZ RB VBG NNS TO VB DT JJS `` NN '' IN PRP$ NNS CC PRP VBZ JJ .</POS>
+		<Lemma>Contour be constantly ask owner to download the latest `` fix '' for they camera and it be frustrating .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It is almost like if you wanted to go somewhere in your car , and the maker asks you to gap your spark plugs once a week , or re-adjust your seats and brake pedal Monday and Thursday before using their product .</Tokens>
+		<POS>PRP VBZ RB IN IN PRP VBD TO VB RB IN PRP$ NN , CC DT NN VBZ PRP TO NN PRP$ VB NNS RB DT NN , CC VB PRP$ NNS CC NNP NNP NNP CC NNP IN VBG PRP$ NN .</POS>
+		<Lemma>it be almost like if you want to go somewhere in you car , and the maker ask you to gap you spark plug once a week , or re-adjust you seat and brake pedal Monday and Thursday before use they product .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I wish there was a way to turn the laser lights off .</Tokens>
+		<POS>PRP VBP EX VBD DT NN TO VB DT NN NNS RB .</POS>
+		<Lemma>I wish there be a way to turn the laser light off .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I feel there might be some liability issues here .</Tokens>
+		<POS>PRP VBP RB MD VB DT NN NNS RB .</POS>
+		<Lemma>I feel there might be some liability issue here .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>If a user turns on their Contour and it is accidentally pointed at someone 's eye with the lasers turned on , the laser could damage a retina .</Tokens>
+		<POS>IN DT NN VBZ IN PRP$ NNP CC PRP VBZ RB VBN IN NN POS NN IN DT NNS VBD RP , DT NN MD VB DT NN .</POS>
+		<Lemma>if a user turn on they Contour and it be accidentally point at someone 's eye with the laser turn on , the laser could damage a retina .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>-LRB- Google `` damaged retina , laser pointer '' and see the problem yourself '' ... -RRB- Also , it seems to me , the lasers over-burden the tiny battery inside the camera .</Tokens>
+		<POS>-LRB- NNP `` VBD NN , NN NN '' CC VB DT NN PRP '' : -RRB- RB , PRP VBZ TO PRP , DT NNS VBP DT JJ NN IN DT NN .</POS>
+		<Lemma>-lrb- Google `` damage retina , laser pointer '' and see the problem yourself '' ... -rrb- also , it seem to I , the laser over-burden the tiny battery inside the camera .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>A `` laser-off '' feature would be helpful .</Tokens>
+		<POS>DT `` JJ '' NN MD VB JJ .</POS>
+		<Lemma>a `` laser-off '' feature would be helpful .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The `` HIDDEN BUTTON '' is a pain in the `` finger '' .</Tokens>
+		<POS>DT `` JJ NN '' VBZ DT NN IN DT `` NN '' .</POS>
+		<Lemma>the `` hidden button '' be a pain in the `` finger '' .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>It is impossible to know if by pressing on their `` mystery spot '' if you actually engaged the contacts for the `` hidden button '' .</Tokens>
+		<POS>PRP VBZ JJ TO VB IN IN VBG IN PRP$ `` NN NN '' IN PRP RB VBD DT NNS IN DT `` JJ NN '' .</POS>
+		<Lemma>it be impossible to know if by press on they `` mystery spot '' if you actually engage the contact for the `` hidden button '' .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The thin membrane that conceals the `` hidden button '' does n't impress me as durable at all .</Tokens>
+		<POS>DT JJ NN WDT VBZ DT `` JJ NN '' VBZ RB VB PRP IN JJ IN DT .</POS>
+		<Lemma>the thin membrane that conceal the `` hidden button '' do not impress I as durable at all .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I wonder why Contour did n't make this button easy to see by placing it somewhere where it was easy to turn the button on and off .</Tokens>
+		<POS>PRP VBP WRB NNP VBD RB VB DT NN JJ TO VB IN VBG PRP RB WRB PRP VBD JJ TO VB DT NN IN CC IN .</POS>
+		<Lemma>I wonder why Contour do not make this button easy to see by place it somewhere where it be easy to turn the button on and off .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I purchased the small bluetooth `` Connect View '' card so I could use my iPhone as a viewfinder with the Contour GPS-HD but this has been a total failure as well .</Tokens>
+		<POS>PRP VBD DT JJ NN `` NNP NNP '' NN IN PRP MD VB PRP$ NNP IN DT NN IN DT NNP NN CC DT VBZ VBN DT JJ NN RB RB .</POS>
+		<Lemma>I purchase the small bluetooth `` Connect View '' card so I could use my iPhone as a viewfinder with the Contour gps-hd but this have be a total failure as well .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Contour seems to be fighting a fix for a bug with this as well , and there are way too many `` downloads '' and updates that do not fix the problem .</Tokens>
+		<POS>NNP VBZ TO VB VBG DT NN IN DT NN IN DT RB RB , CC EX VBP RB RB JJ `` NNS '' CC NNS WDT VBP RB VB DT NN .</POS>
+		<Lemma>Contour seem to be fight a fix for a bug with this as well , and there be way too many `` download '' and update that do not fix the problem .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>About two weeks after I had the first camera I was no longer recording audio .</Tokens>
+		<POS>IN CD NNS IN PRP VBD DT JJ NN PRP VBD RB RB VBG NN .</POS>
+		<Lemma>about two week after I have the first camera I be no longer record audio .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I e-mailed Contour and they quickly replied on how to fix this by reformatting the internal SD card and their tips indeed did the trick , enabling me to record audio once again .</Tokens>
+		<POS>PRP VBD NNP CC PRP RB VBD IN WRB TO VB DT IN VBG DT JJ NN NN CC PRP$ NNS RB VBD DT NN , VBG PRP TO VB NN RB RB .</POS>
+		<Lemma>I e-mail Contour and they quickly reply on how to fix this by reformat the internal sd card and they tip indeed do the trick , enable I to record audio once again .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>NOW FOR THE `` PROS '' I am easily able to incorporate video into iMovie HD and the scenes are easy to edit and add effects to .</Tokens>
+		<POS>RB IN DT `` NN '' PRP VBP RB JJ TO VB NN IN NNP NNP CC DT NNS VBP JJ TO VB CC VB NNS TO .</POS>
+		<Lemma>now for the `` pro '' I be easily able to incorporate video into iMovie HD and the scene be easy to edit and add effect to .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>The image quality -LRB- for such a small camera -RRB- is stunning .</Tokens>
+		<POS>DT NN NN -LRB- IN PDT DT JJ NN -RRB- VBZ JJ .</POS>
+		<Lemma>the image quality -lrb- for such a small camera -rrb- be stunning .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>I judge this video on my 30 years of working in television and film .</Tokens>
+		<POS>PRP VBP DT NN IN PRP$ CD NNS IN VBG IN NN CC NN .</POS>
+		<Lemma>I judge this video on my 30 year of work in television and film .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>No , the video ca n't compare to that as seen on ESPN Sports , but for me , I 'm totally happy with the image quality .</Tokens>
+		<POS>DT , DT NN MD RB VB TO DT IN VBN IN NNP NNP , CC IN PRP , PRP VBP RB JJ IN DT NN NN .</POS>
+		<Lemma>no , the video can not compare to that as see on ESPN Sports , but for I , I be totally happy with the image quality .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>The people in their `` help '' department deserve a gold star on their report card .</Tokens>
+		<POS>DT NNS IN PRP$ `` NN '' NN VBP DT NN NN IN PRP$ NN NN .</POS>
+		<Lemma>the people in they `` help '' department deserve a gold star on they report card .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>They are quick to respond but the people who engineered this camera need to be tarred and feathered .</Tokens>
+		<POS>PRP VBP JJ TO VB CC DT NNS WP VBD DT NN NN TO VB VBN CC JJ .</POS>
+		<Lemma>they be quick to respond but the people who engineer this camera need to be tar and feathered .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>I suspect not only are there numerous engineering and design flaws , but the camera is probably made in a sweat-shop in China and the build-quality suffers .</Tokens>
+		<POS>PRP VBP RB RB VBP EX JJ NN CC NN NNS , CC DT NN VBZ RB VBN IN DT NN IN NNP CC DT JJ VBZ .</POS>
+		<Lemma>I suspect not only be there numerous engineering and design flaw , but the camera be probably make in a sweat-shop in China and the build-quality suffer .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>I bought the windshield mount and it works well even on the plexiglass windows in my airplane and continues to stick despite the vibrations and bouncy landings I make on grass airstrips .</Tokens>
+		<POS>PRP VBD DT NN VB CC PRP VBZ RB RB IN DT JJ NNS IN PRP$ NN CC VBZ TO VB IN DT NNS CC JJ NNS PRP VBP IN NN NNS .</POS>
+		<Lemma>I buy the windshield mount and it work well even on the plexiglass window in my airplane and continue to stick despite the vibration and bouncy landing I make on grass airstrip .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>The lens caps are made of a very slippery silicon material and they fall off the lens very easily .</Tokens>
+		<POS>DT NN NNS VBP VBN IN DT RB JJ NN NN CC PRP VBP RP DT NN RB RB .</POS>
+		<Lemma>the lens cap be make of a very slippery silicon material and they fall off the lens very easily .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>The fit onto the external area of the lens is n't very snug at all .</Tokens>
+		<POS>DT JJ IN DT JJ NN IN DT NN VBZ RB RB JJ IN DT .</POS>
+		<Lemma>the fit onto the external area of the lens be not very snug at all .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Bottom line , I would have given this camera `` O '' stars because of the unreliable features that do n't work with this camera -LRB- GPS and viewfinder -RRB- .</Tokens>
+		<POS>NN NN , PRP MD VB VBN DT NN `` NN '' NNS IN IN DT JJ NNS WDT VBP RB VB IN DT NN -LRB- NN CC NN -RRB- .</POS>
+		<Lemma>bottom line , I would have give this camera `` o '' star because of the unreliable feature that do not work with this camera -lrb- gp and viewfinder -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>I might cut the camera in half on my band-saw and post a video on YouTube advising how this camera should be avoided .</Tokens>
+		<POS>PRP MD VB DT NN IN NN IN PRP$ NN CC VB DT NN IN NNP VBG WRB DT NN MD VB VBN .</POS>
+		<Lemma>I might cut the camera in half on my band-saw and post a video on YouTube advise how this camera should be avoid .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>For me , it is a nearly total failed experiment and $ 350 -LRB- $ 450 + including the mount and `` connect view '' -RRB- and I wish I had purchased something else instead .</Tokens>
+		<POS>IN PRP , PRP VBZ DT RB JJ VBD NN CC $ CD -LRB- $ CD CC VBG DT VB CC `` VB NN '' -RRB- CC PRP VBP PRP VBD VBN NN RB RB .</POS>
+		<Lemma>for I , it be a nearly total fail experiment and $ 350 -lrb- $ 450 + include the mount and `` connect view '' -rrb- and I wish I have purchase something else instead .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>I do n't suspect Contour will stay in business much longer because too many customers are so disappointed in their product .</Tokens>
+		<POS>PRP VBP RB VB NNP MD VB IN NN RB RBR IN RB JJ NNS VBP RB JJ IN PRP$ NN .</POS>
+		<Lemma>I do not suspect Contour will stay in business much longer because too many customer be so disappointed in they product .</Lemma>
+	</Sentence>
+</Document>

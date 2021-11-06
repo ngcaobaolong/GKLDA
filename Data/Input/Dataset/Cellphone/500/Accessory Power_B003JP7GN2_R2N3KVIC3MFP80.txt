@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this charger for my Dell Mini Streak 5 and this has to be the most unique charging system I have seen .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ NNP NNP NNP CD CC DT VBZ TO VB DT RBS JJ VBG NN PRP VBP VBN .</POS>
+		<Lemma>I purchase this charger for my Dell Mini Streak 5 and this have to be the most unique charge system I have see .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>First of all , it 's compact but the big bonus is in it 's features .</Tokens>
+		<POS>NNP IN DT , PRP VBZ JJ CC DT JJ NN VBZ IN PRP VBZ NNS .</POS>
+		<Lemma>First of all , it be compact but the big bonus be in it be feature .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You actually have the ability to power this charger from a wall outlet , the same charger has a car charging port .</Tokens>
+		<POS>PRP RB VBP DT NN TO NN DT NN IN DT NN NN , DT JJ NN VBZ DT NN VBG NN .</POS>
+		<Lemma>you actually have the ability to power this charger from a wall outlet , the same charger have a car charge port .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now if that is n't enough , just open the lid and place batteries in it for a third power source .</Tokens>
+		<POS>RB IN DT VBZ RB RB , RB VB DT NN CC NN NNS IN PRP IN DT JJ NN NN .</POS>
+		<Lemma>now if that be not enough , just open the lid and place battery in it for a third power source .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,162 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this portable camcorder for a few months now , and I can say that it is a very good portable HD camcorder .</Tokens>
+		<POS>NN NN NN : : CD NNS VBP PRP VBP VBD DT JJ NN IN DT JJ NNS RB , CC PRP MD VB IN PRP VBZ DT RB JJ JJ NN NN .</POS>
+		<Lemma>I have have this portable camcorder for a few month now , and I can say that it be a very good portable hd camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would not use it to replace my Canon HFS100 , but it fits in my jacket pocket in a pinch -LRB- like running late to a kid 's party -RRB- and takes decent HD videos .</Tokens>
+		<POS>PRP MD RB VB PRP TO VB PRP$ NNP NNP , CC PRP VBZ IN PRP$ NN NN IN DT NN -LRB- IN VBG RB TO DT NN POS NN -RRB- CC VBZ JJ NN NNS .</POS>
+		<Lemma>I would not use it to replace my Canon HFS100 , but it fit in my jacket pocket in a pinch -lrb- like run late to a kid 's party -rrb- and take decent hd video .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pros - Small and compact in size .</Tokens>
+		<POS>NNS : JJ CC JJ IN NN .</POS>
+		<Lemma>pro - small and compact in size .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For those with small to normal size hands , this is quite easy to hold .</Tokens>
+		<POS>IN DT IN JJ TO JJ NN NNS , DT VBZ RB JJ TO VB .</POS>
+		<Lemma>for those with small to normal size hand , this be quite easy to hold .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However , for those with larger hands , this may be a bit awkward to use .</Tokens>
+		<POS>RB , IN DT IN JJR NNS , DT MD VB DT NN JJ TO VB .</POS>
+		<Lemma>however , for those with larger hand , this may be a bit awkward to use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It fits in my shirt pocket without causing an uncomfortable droop .</Tokens>
+		<POS>PRP VBZ IN PRP$ NN NN IN VBG DT JJ NN .</POS>
+		<Lemma>it fit in my shirt pocket without cause a uncomfortable droop .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>- The battery life was surprisingly longer than I anticipated .</Tokens>
+		<POS>: DT NN NN VBD RB JJR IN PRP VBD .</POS>
+		<Lemma>- the battery life be surprisingly longer than I anticipate .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I can go through a whole kid 's party with a single charge .</Tokens>
+		<POS>PRP MD VB IN DT JJ NN POS NN IN DT JJ NN .</POS>
+		<Lemma>I can go through a whole kid 's party with a single charge .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>- The clarity and resolution in HD is acceptable .</Tokens>
+		<POS>: DT NN CC NN IN NN VBZ JJ .</POS>
+		<Lemma>- the clarity and resolution in hd be acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If I did not have a Kodak Zi8 or Canon HD camcorder to compare , I would probably be content with this .</Tokens>
+		<POS>IN PRP VBD RB VB DT NNP NN CC NNP NNP NN TO VB , PRP MD RB VB JJ IN DT .</POS>
+		<Lemma>if I do not have a Kodak zi8 or Canon HD camcorder to compare , I would probably be content with this .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>- The SD slot is a big plus .</Tokens>
+		<POS>: DT NN NN VBZ DT JJ NN .</POS>
+		<Lemma>- the sd slot be a big plus .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>- Waterproof -LRB- up to 3m , or about 10 feet -RRB- .</Tokens>
+		<POS>: JJ -LRB- RB TO NN , CC IN CD NNS -RRB- .</POS>
+		<Lemma>- waterproof -lrb- up to 3m , or about 10 foot -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I tried it in a bathtub , and it worked well enough -LRB- ie .</Tokens>
+		<POS>PRP VBD PRP IN DT NN , CC PRP VBD RB JJ -LRB- FW .</POS>
+		<Lemma>I try it in a bathtub , and it work well enough -lrb- ie .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>water did not get in the camera -RRB- .</Tokens>
+		<POS>NN VBD RB VB IN DT NN -RRB- .</POS>
+		<Lemma>water do not get in the camera -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>But , I do n't think I will be taking it to a waterpark or diving anytime .</Tokens>
+		<POS>CC , PRP VBP RB VB PRP MD VB VBG PRP TO DT NN CC JJ RB .</POS>
+		<Lemma>but , I do not think I will be take it to a waterpark or diving anytime .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>One has to understand the limitations of this unit .</Tokens>
+		<POS>CD VBZ TO VB DT NNS IN DT NN .</POS>
+		<Lemma>one have to understand the limitation of this unit .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>- Photos are sub-par in quality .</Tokens>
+		<POS>: NNS VBP JJ IN NN .</POS>
+		<Lemma>- photo be sub-par in quality .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Stick with your point-and-shoot or iPhone\/Android phone to take pictures .</Tokens>
+		<POS>NNP IN PRP$ NN CC NN NN TO VB NNS .</POS>
+		<Lemma>Stick with you point-and-shoot or iphone\/android phone to take picture .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>- USB connector is short .</Tokens>
+		<POS>: JJ NN VBZ JJ .</POS>
+		<Lemma>- usb connector be short .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>It works best using a laptop , so that the camera can lie next to the laptop on a table .</Tokens>
+		<POS>PRP VBZ JJS VBG DT NN , RB IN DT NN MD VB JJ TO DT NN IN DT NN .</POS>
+		<Lemma>it work best use a laptop , so that the camera can lie next to the laptop on a table .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Otherwise , I could not make it work with a desktop without using a USB extension cable .</Tokens>
+		<POS>RB , PRP MD RB VB PRP VB IN DT NN IN VBG DT JJ NN NN .</POS>
+		<Lemma>otherwise , I could not make it work with a desktop without use a usb extension cable .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>- The video is decent , but when compared to the Kodak Zi8 -LRB- for example -RRB- you can see the difference in sharpness , clarity , and color levels .</Tokens>
+		<POS>: DT NN VBZ JJ , CC WRB VBN TO DT NNP NN -LRB- IN NN -RRB- PRP MD VB DT NN IN NN , NN , CC NN NNS .</POS>
+		<Lemma>- the video be decent , but when compare to the Kodak zi8 -lrb- for example -rrb- you can see the difference in sharpness , clarity , and color level .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The Zi8 videos are sharper and higher clarity , and the color does not look washed like the PlayFull .</Tokens>
+		<POS>DT NN NNS VBP JJR CC JJR NN , CC DT NN VBZ RB VB VBN IN DT NNP .</POS>
+		<Lemma>the zi8 video be sharper and higher clarity , and the color do not look wash like the PlayFull .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Of course , this is only obvious when viewed side-by-side .</Tokens>
+		<POS>IN NN , DT VBZ RB JJ WRB VBN RB .</POS>
+		<Lemma>of course , this be only obvious when view side-by-side .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I will upload this comparison along with this review .</Tokens>
+		<POS>PRP MD NN DT NN IN IN DT NN .</POS>
+		<Lemma>I will upload this comparison along with this review .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>- There is no tripod mount -LRB- like the Zi8 -RRB- - There is no mic input -LRB- like the Zi8 -RRB- .</Tokens>
+		<POS>: EX VBZ DT NN VBP -LRB- IN DT NN -RRB- : EX VBZ DT JJ NN -LRB- IN DT NN -RRB- .</POS>
+		<Lemma>- there be no tripod mount -lrb- like the zi8 -rrb- - there be no mic input -lrb- like the zi8 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Also , the mic is not as `` loud '' as the Zi8 , and with the lack of a mic input you have no option to capture audio -LRB- except offline with an digital recorder -RRB- .</Tokens>
+		<POS>RB , DT JJ VBZ RB IN `` JJ '' IN DT NN , CC IN DT NN IN DT JJ NN PRP VBP DT NN TO VB NN -LRB- IN NN IN DT JJ NN -RRB- .</POS>
+		<Lemma>also , the mic be not as `` loud '' as the zi8 , and with the lack of a mic input you have no option to capture audio -lrb- except offline with a digital recorder -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>The video is a side-by-side comparison of the Kodak PlayFull -LRB- left side -RRB- - vs - Kodak Zi8 -LRB- right side -RRB- .</Tokens>
+		<POS>DT NN VBZ DT RB NN IN DT NNP NNP -LRB- JJ NN -RRB- : CC : NNP NN -LRB- JJ NN -RRB- .</POS>
+		<Lemma>the video be a side-by-side comparison of the Kodak PlayFull -lrb- left side -rrb- - vs - Kodak zi8 -lrb- right side -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>These are unprocessed videos , taken with default settings .</Tokens>
+		<POS>DT VBP JJ NNS , VBN IN NN NNS .</POS>
+		<Lemma>these be unprocessed video , take with default setting .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>I apologize for the `` Blair Witch '' jitter effect .</Tokens>
+		<POS>PRP VBP IN DT `` NNP NN '' NN NN .</POS>
+		<Lemma>I apologize for the `` Blair witch '' jitter effect .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>If you understand and accept these limitations , then this video camera will work very well for you .</Tokens>
+		<POS>IN PRP VBP CC VBP DT NNS , RB DT NN NN MD VB RB RB IN PRP .</POS>
+		<Lemma>if you understand and accept these limitation , then this video camera will work very well for you .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Recommended .</Tokens>
+		<POS>VBN .</POS>
+		<Lemma>recommend .</Lemma>
+	</Sentence>
+</Document>

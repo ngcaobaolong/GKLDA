@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had this net book for over 6 months and it screams performance .</Tokens>
+		<POS>PRP VBD DT JJ NN IN IN CD NNS CC PRP VBZ NN .</POS>
+		<Lemma>I have this net book for over 6 month and it scream performance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As a college student , I needed a small computing device so I did n't have to take a larger 15 '' HP to class .</Tokens>
+		<POS>IN DT NN NN , PRP VBD DT JJ NN NN IN PRP VBD RB VB TO VB DT JJR CD '' NNP TO NN .</POS>
+		<Lemma>as a college student , I need a small computing device so I do not have to take a larger 15 '' HP to class .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The laptop is very light and can last a while on a single charge .</Tokens>
+		<POS>DT NN VBZ RB JJ CC MD VB DT NN IN DT JJ NN .</POS>
+		<Lemma>the laptop be very light and can last a while on a single charge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I mainly use it for word processing , web browsing and as a back-up computer .</Tokens>
+		<POS>PRP RB VBP PRP IN NN NN , NN NN CC IN DT JJ NN .</POS>
+		<Lemma>I mainly use it for word processing , web browsing and as a back-up computer .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I speculated on purchasing a tablet PC because they are the `` new mobile device to use '' however for the price it was not worth it , in upwards of $ 500 - $ 600 .</Tokens>
+		<POS>PRP VBD IN VBG DT JJ NN IN PRP VBP DT `` JJ JJ NN TO VB '' RB IN DT NN PRP VBD RB JJ PRP , IN NNS IN $ CD : $ CD .</POS>
+		<Lemma>I speculate on purchase a tablet pc because they be the `` new mobile device to use '' however for the price it be not worth it , in upward of $ 500 - $ 600 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I got this for $ 320 and it runs WIN7 64 bit which is rare to find at this price compared to a $ 300 HP net book that has WIN 7 starter -LRB- which is very limited -RRB- .</Tokens>
+		<POS>PRP VBD DT IN $ CD CC PRP VBZ NN CD NN WDT VBZ JJ TO VB IN DT NN VBN TO DT $ CD NNP JJ NN WDT VBZ NN CD JJ -LRB- WDT VBZ RB JJ -RRB- .</POS>
+		<Lemma>I get this for $ 320 and it run win7 64 bit which be rare to find at this price compare to a $ 300 HP net book that have win 7 starter -lrb- which be very limited -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would recommend though immediately purchasing a 4GB ram stick , preferable Corsair because of their performance and lifetime warranty .</Tokens>
+		<POS>PRP MD VB IN RB VBG DT NN NN NN , JJ NNP IN IN PRP$ NN CC NN NN .</POS>
+		<Lemma>I would recommend though immediately purchase a 4gb ram stick , preferable Corsair because of they performance and lifetime warranty .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is no need to buy a 1333MHz stick because the FSB on this machine is only 1066MHz .</Tokens>
+		<POS>EX VBZ DT NN TO VB DT NN NN IN DT NN IN DT NN VBZ RB NN .</POS>
+		<Lemma>there be no need to buy a 1333mhz stick because the fsb on this machine be only 1066mhz .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It should be about $ 20 .</Tokens>
+		<POS>PRP MD VB RB $ CD .</POS>
+		<Lemma>it should be about $ 20 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I am currently considering putting in an Intel 520 Series SSD to boast performance but this is not necessary to do .</Tokens>
+		<POS>PRP VBP RB VBG VBG IN DT NNP CD NNP NNP TO VB NN CC DT VBZ RB JJ TO VB .</POS>
+		<Lemma>I be currently consider put in a Intel 520 Series SSD to boast performance but this be not necessary to do .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you consider price to performance this has to be the best .</Tokens>
+		<POS>IN PRP VBP NN TO NN DT VBZ TO VB DT JJS .</POS>
+		<Lemma>if you consider price to performance this have to be the best .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Because of the Dual-Core processor and 768P display as well as a large size Hard drive , It is a great media PC for it can also play some older gaming titles such as Call of Duty 2 on medium to high graphics at 768p getting around 30-40FPS , so in conclusion , It can do pretty much everything for a small price .</Tokens>
+		<POS>IN IN DT NNP NN CC NN VBP RB RB IN DT JJ NN JJ NN , PRP VBZ DT JJ NNS NN IN PRP MD RB VB DT JJR NN NNS JJ IN NN IN NN CD IN NN TO JJ NNS IN CD VBG IN NNP , RB IN NN , PRP MD VB RB RB NN IN DT JJ NN .</POS>
+		<Lemma>because of the Dual-Core processor and 768p display as well as a large size hard drive , it be a great media pc for it can also play some older gaming title such as call of duty 2 on medium to high graphic at 768p get around 30-40FPS , so in conclusion , it can do pretty much everything for a small price .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I would recommend this for a student or for the business traveler , you wont regret .</Tokens>
+		<POS>PRP MD VB DT IN DT NN CC IN DT NN NN , PRP VBP NN .</POS>
+		<Lemma>I would recommend this for a student or for the business traveler , you wont regret .</Lemma>
+	</Sentence>
+</Document>

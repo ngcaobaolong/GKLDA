@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>An Acer monitor with more than just an attractive cost , this product performs admirably .</Tokens>
+		<POS>DT NNP NN IN JJR IN RB DT JJ NN , DT NN VBZ RB .</POS>
+		<Lemma>a Acer monitor with more than just a attractive cost , this product perform admirably .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Adjustment controls abound and provide more than enough image selection options .</Tokens>
+		<POS>NNP VBZ VBP CC VBP JJR IN JJ NN NN NNS .</POS>
+		<Lemma>Adjustment control abound and provide more than enough image selection option .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Performance is excellent with sharp text and beautiful images .</Tokens>
+		<POS>NNP VBZ JJ IN JJ NN CC JJ NNS .</POS>
+		<Lemma>Performance be excellent with sharp text and beautiful image .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Monitor external controls have a definite high-tech feel .</Tokens>
+		<POS>NNP JJ NNS VBP DT JJ JJ NN .</POS>
+		<Lemma>Monitor external control have a definite high-tech feel .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This big-name unit has superb value and provided a high level of satisfaction on my part .</Tokens>
+		<POS>DT JJ NN VBZ JJ NN CC VBD DT JJ NN IN NN IN PRP$ NN .</POS>
+		<Lemma>this big-name unit have superb value and provide a high level of satisfaction on my part .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>A great 1280x1024 resolution choice .</Tokens>
+		<POS>DT JJ NN NN NN .</POS>
+		<Lemma>a great 1280x1024 resolution choice .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Its an exelent camera , thats beyond expentations !</Tokens>
+		<POS>PRP$ DT JJ NN , VBZ IN NNS .</POS>
+		<Lemma>its a exelent camera , that beyond expentation !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought it a cousin of my wife has the G11 .</Tokens>
+		<POS>PRP VBD PRP DT NN IN PRP$ NN VBZ DT NN .</POS>
+		<Lemma>I buy it a cousin of my wife have the g11 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But this new model is much more in every aspects !</Tokens>
+		<POS>CC DT JJ NN VBZ RB RBR IN DT NNS .</POS>
+		<Lemma>but this new model be much more in every aspect !</Lemma>
+	</Sentence>
+</Document>

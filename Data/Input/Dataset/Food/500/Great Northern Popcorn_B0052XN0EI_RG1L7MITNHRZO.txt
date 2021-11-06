@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is popcorn , plain and simple .</Tokens>
+		<POS>DT VBZ NN , JJ CC JJ .</POS>
+		<Lemma>this be popcorn , plain and simple .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not the best tasting or freshest in the world , but it tastes better than the bulk kernels I get at whole foods and the price is n't bad .</Tokens>
+		<POS>RB DT JJS NN CC JJS IN DT NN , CC PRP VBZ JJR IN DT NN NNS PRP VBP IN JJ NNS CC DT NN VBZ RB JJ .</POS>
+		<Lemma>not the best tasting or freshest in the world , but it taste better than the bulk kernel I get at whole food and the price be not bad .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In any case , it 's WAY better than buying microwave popcorn , which - unless you 're into artificial favors - is a total scam !</Tokens>
+		<POS>IN DT NN , PRP VBZ NNP JJR IN VBG NN NN , WDT : IN PRP VBP IN JJ NNS : VBZ DT JJ NN .</POS>
+		<Lemma>in any case , it be WAY better than buy microwave popcorn , which - unless you be into artificial favor - be a total scam !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can pop popcorn kernels in the microwave for free in a plain paper bag , or get an all-you-can-eat air popper for like $ 15-20 .</Tokens>
+		<POS>PRP MD VB NN NNS IN DT NN IN JJ IN DT JJ NN NN , CC VB DT JJ NN NN IN IN $ CD .</POS>
+		<Lemma>you can pop popcorn kernel in the microwave for free in a plain paper bag , or get a all-you-can-eat air popper for like $ 15-20 .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The unit worked as intended in all operational modes and overall appears well made with the exception of the battery cover .</Tokens>
+		<POS>DT NN VBD IN VBN IN DT JJ NNS CC JJ VBZ RB VBN IN DT NN IN DT NN NN .</POS>
+		<Lemma>the unit work as intend in all operational mode and overall appear well make with the exception of the battery cover .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The battery cover 's latch is too simplistic and detaches easily making breakage over time likely .</Tokens>
+		<POS>DT NN NN POS VB VBZ RB JJ CC VBZ RB VBG NN IN NN JJ .</POS>
+		<Lemma>the battery cover 's latch be too simplistic and detach easily make breakage over time likely .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Since the ability to recharge using AA batteries was not a high priority for me , I decided to buy a cheaper DC Car adapter -LRB- Griffin branded dual USB outlet -RRB- and separate AC adapter .</Tokens>
+		<POS>IN DT NN TO VB VBG NN NNS VBD RB DT JJ NN IN PRP , PRP VBD TO VB DT JJR NN NN NN -LRB- NNP VBD JJ JJ NN -RRB- CC JJ NN NN .</POS>
+		<Lemma>since the ability to recharge use aa battery be not a high priority for I , I decide to buy a cheaper dc car adapter -lrb- Griffin brand dual usb outlet -rrb- and separate ac adapter .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very excellent resolution .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very excellent resolution .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And the the colors are crisp and exceedingly vibrant and accurate .</Tokens>
+		<POS>CC DT DT NNS VBP JJ CC RB JJ CC JJ .</POS>
+		<Lemma>and the the color be crisp and exceedingly vibrant and accurate .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I like the 19 inch rectangular version much better than ` wide screen ' , expecially for Excel and other MS Office programs .</Tokens>
+		<POS>PRP VBP DT CD NN JJ NN RB JJR IN `` JJ NN '' , RB IN NNP CC JJ NN NNP NNS .</POS>
+		<Lemma>I like the 19 inch rectangular version much better than ` wide screen ' , expecially for Excel and other m Office program .</Lemma>
+	</Sentence>
+</Document>

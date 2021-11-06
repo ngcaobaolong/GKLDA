@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great buy ` Bright high quality screen with wide angle viewing .</Tokens>
+		<POS>JJ NN `` JJ JJ NN NN IN JJ NN NN .</POS>
+		<Lemma>great buy ` bright high quality screen with wide angle viewing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just plug and play . ''</Tokens>
+		<POS>RB VB CC VB . ''</POS>
+		<Lemma>just plug and play . ''</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Will buy another when needed .</Tokens>
+		<POS>MD VB DT WRB VBN .</POS>
+		<Lemma>will buy another when need .</Lemma>
+	</Sentence>
+</Document>

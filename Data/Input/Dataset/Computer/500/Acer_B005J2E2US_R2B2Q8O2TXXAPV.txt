@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Absolutely !</Tokens>
+		<POS>RB .</POS>
+		<Lemma>absolutely !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I purchased two !</Tokens>
+		<POS>PRP VBD CD .</POS>
+		<Lemma>I purchase two !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Yesterday , I had to return the first ; the operating system was n't loaded .</Tokens>
+		<POS>NN , PRP VBD TO VB DT JJ : DT NN NN VBD RB VBN .</POS>
+		<Lemma>yesterday , I have to return the first ; the operating system be not load .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A call to Target tech support and in five minutes I was advised to return it to the store and exchange it .</Tokens>
+		<POS>DT NN TO NN NN NN CC IN CD NNS PRP VBD VBN TO VB PRP TO DT NN CC NN PRP .</POS>
+		<Lemma>a call to target tech support and in five minute I be advise to return it to the store and exchange it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I spent another 5 minutes in the store , got the exchange , went home , fired it up and perfect !</Tokens>
+		<POS>PRP VBD DT CD NNS IN DT NN , VBD DT NN , VBD NN , VBD PRP RP CC JJ .</POS>
+		<Lemma>I spend another 5 minute in the store , get the exchange , go home , fire it up and perfect !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Today , I got a second one .</Tokens>
+		<POS>NN , PRP VBD DT JJ CD .</POS>
+		<Lemma>today , I get a second one .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It worked perfectly !</Tokens>
+		<POS>PRP VBD RB .</POS>
+		<Lemma>it work perfectly !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>You ca n't lose at this price and Target 's customer service !</Tokens>
+		<POS>PRP MD RB VB IN DT NN CC NN POS NN NN .</POS>
+		<Lemma>you can not lose at this price and target 's customer service !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I concur with all of the other 5-star rating reviews .</Tokens>
+		<POS>PRP VBP IN DT IN DT JJ JJ NN NNS .</POS>
+		<Lemma>I concur with all of the other 5-star rating review .</Lemma>
+	</Sentence>
+</Document>

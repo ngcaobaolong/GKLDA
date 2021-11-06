@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Does NOT have a flimsy feel .</Tokens>
+		<POS>VBZ NNP VB DT JJ NN .</POS>
+		<Lemma>do NOT have a flimsy feel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I agree with previous reviewer that says if you need it brighter then turn up the brightness .</Tokens>
+		<POS>PRP VBP IN JJ NN WDT VBZ IN PRP VBP PRP RBR RB VB RP DT NN .</POS>
+		<Lemma>I agree with previous reviewer that say if you need it brighter then turn up the brightness .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There is an easy to use front panel control for that .</Tokens>
+		<POS>EX VBZ DT JJ TO VB JJ NN NN IN DT .</POS>
+		<Lemma>there be a easy to use front panel control for that .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Not much to say about it .</Tokens>
+		<POS>RB RB TO VB IN PRP .</POS>
+		<Lemma>not much to say about it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you are looking for a good 17 '' lcd monitor at an excellent price , then buy this one .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ CD '' VBD NN IN DT JJ NN , RB VB DT CD .</POS>
+		<Lemma>if you be look for a good 17 '' lcd monitor at a excellent price , then buy this one .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you want something else like a widescreen then buy that instead .</Tokens>
+		<POS>IN PRP VBP NN RB IN DT NN RB VB IN RB .</POS>
+		<Lemma>if you want something else like a widescreen then buy that instead .</Lemma>
+	</Sentence>
+</Document>

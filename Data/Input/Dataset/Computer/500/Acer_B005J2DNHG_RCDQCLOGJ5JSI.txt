@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>its a decent for a small netbook .</Tokens>
+		<POS>PRP$ DT JJ IN DT JJ NN .</POS>
+		<Lemma>its a decent for a small netbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i know it freezes or lags but i cant complain till i upgrade the ram , but so far its great .</Tokens>
+		<POS>LS VB PRP VBZ CC VBZ CC FW FW VBP IN FW VBP DT NN , CC RB RB PRP$ JJ .</POS>
+		<Lemma>i know it freeze or lag but i cant complain till i upgrade the ram , but so far its great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>update 12\/30\/11 i have had this computer for 3 days already .</Tokens>
+		<POS>VB CD FW VBP VBN DT NN IN CD NNS RB .</POS>
+		<Lemma>update 12\/30\/11 i have have this computer for 3 day already .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>i have stopped the lags\/freezing by erasing all the junk on it .</Tokens>
+		<POS>LS VBP VBN DT NN IN VBG PDT DT NN IN PRP .</POS>
+		<Lemma>i have stop the lags\/freezing by erase all the junk on it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>but today i upgraded the ram to 2gb -LRB- i read this some were on amazon saying you cant upgrade to 2gb with windows starter .</Tokens>
+		<POS>CC NN FW VBN DT NN TO JJ -LRB- FW VB DT DT VBD IN NN VBG PRP JJ NN TO VB IN NNS JJ .</POS>
+		<Lemma>but today i upgrade the ram to 2gb -lrb- i read this some be on amazon say you cant upgrade to 2gb with window starter .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>but dont belive it i am still on starter . -RRB-</Tokens>
+		<POS>CC JJ JJ PRP FW VBP RB IN JJ . -RRB-</POS>
+		<Lemma>but dont belive it i be still on starter . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>its alot faster i went from boot time 124 sec to 34 sec 's .</Tokens>
+		<POS>PRP$ NN RBR FW VBD IN NN NN CD NN TO CD NN POS .</POS>
+		<Lemma>its alot faster i go from boot time 124 sec to 34 sec 's .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>i do recomment this product to my friends .</Tokens>
+		<POS>LS VBP NN DT NN TO PRP$ NNS .</POS>
+		<Lemma>i do recomment this product to my friend .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>i actually like this laptop more then my toshiba laptop 15 inch that i bought that cost me 700 $ .</Tokens>
+		<POS>LS RB IN DT NN RBR RB PRP$ NN NN CD NN WDT FW VBD DT NN PRP CD $ .</POS>
+		<Lemma>i actually like this laptop more then my toshiba laptop 15 inch that i buy that cost I 700 $ .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>i was going to give this laptop to my son but instead i gave him the toshiba that how much i liked this laptop .</Tokens>
+		<POS>LS VBD VBG TO VB DT NN TO PRP$ NN CC RB FW VBD PRP DT NN WDT WRB JJ FW VBD DT NN .</POS>
+		<Lemma>i be go to give this laptop to my son but instead i give he the toshiba that how much i like this laptop .</Lemma>
+	</Sentence>
+</Document>

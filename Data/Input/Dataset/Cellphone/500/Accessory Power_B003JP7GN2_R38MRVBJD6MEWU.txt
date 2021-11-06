@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've spent up to $ 40 on so-called `` rapid chargers '' that can plug into the wall and car , but this baby not only did the job well , it charges FASTER than my $ 40 charger !</Tokens>
+		<POS>PRP VBP VBN RP TO $ CD IN JJ `` JJ NNS '' WDT MD VB IN DT NN CC NN , CC DT NN RB RB VBD DT NN RB , PRP VBZ RBR IN PRP$ $ CD NN .</POS>
+		<Lemma>I have spend up to $ 40 on so-called `` rapid charger '' that can plug into the wall and car , but this baby not only do the job well , it charge faster than my $ 40 charger !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It fits snugly in my car outlet , absolutely works with a 9 volt or two AA batteries , and is my lifesaver when I 'm near a wall outlet and need a quick boost .</Tokens>
+		<POS>PRP VBZ RB IN PRP$ NN NN , RB VBZ IN DT CD NN CC CD NN NNS , CC VBZ PRP$ NN WRB PRP VBP IN DT NN NN CC VB DT JJ NN .</POS>
+		<Lemma>it fit snugly in my car outlet , absolutely work with a 9 volt or two aa battery , and be my lifesaver when I be near a wall outlet and need a quick boost .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It may look cheap , and it may cost cheap , but this baby packs a punch that totally knocks out the big name branded competition .</Tokens>
+		<POS>PRP MD VB JJ , CC PRP MD VB JJ , CC DT NN VBZ DT NN WDT RB VBZ RP DT JJ NN JJ NN .</POS>
+		<Lemma>it may look cheap , and it may cost cheap , but this baby pack a punch that totally knock out the big name branded competition .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Get one today .</Tokens>
+		<POS>VB CD NN .</POS>
+		<Lemma>get one today .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Heck , get TWO and give one to a friend !</Tokens>
+		<POS>NN , VB CD CC VB CD TO DT NN .</POS>
+		<Lemma>heck , get two and give one to a friend !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was pretty Impreesed of this Product since It Nice , Cheaper and Worthy Than Any other Camera for this price , Yeah It Cost More 17 $ .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NN IN PRP JJ , JJR CC JJ IN DT JJ NNP IN DT NN , UH PRP NN RBR CD $ .</POS>
+		<Lemma>I be pretty impreesed of this product since it nice , cheaper and worthy than any other Camera for this price , yeah it cost more 17 $ .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nice Purchasing form Your Site .</Tokens>
+		<POS>JJ NNP NN PRP$ NN .</POS>
+		<Lemma>nice Purchasing form you site .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thanks a LOT AMAZON .</Tokens>
+		<POS>NNS DT NNP NNP .</POS>
+		<Lemma>thanks a LOT AMAZON .</Lemma>
+	</Sentence>
+</Document>

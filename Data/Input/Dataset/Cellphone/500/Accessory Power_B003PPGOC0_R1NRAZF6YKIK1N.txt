@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This FM Transmitter is wonderful !</Tokens>
+		<POS>DT NNP NNP VBZ JJ .</POS>
+		<Lemma>this FM Transmitter be wonderful !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was very easy to install .</Tokens>
+		<POS>PRP VBD RB JJ TO VB .</POS>
+		<Lemma>it be very easy to install .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>With my other transmitters , I had a problem with my iPhone being too heavy to stay seated on the transmitter which was a nusance .</Tokens>
+		<POS>IN PRP$ JJ NNS , PRP VBD DT NN IN PRP$ NNP VBG RB JJ TO VB VBN IN DT NN WDT VBD DT NN .</POS>
+		<Lemma>with my other transmitter , I have a problem with my iPhone be too heavy to stay seat on the transmitter which be a nusance .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I no longer have that problem with the FlexSmart X2 .</Tokens>
+		<POS>PRP RB RB VBP DT NN IN DT NNP NN .</POS>
+		<Lemma>I no longer have that problem with the FlexSmart x2 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It works beautifully with my phone 's voice commands when making phone calls and my music has a crisper sound .</Tokens>
+		<POS>PRP VBZ RB IN PRP$ NN POS NN VBZ WRB VBG NN NNS CC PRP$ NN VBZ DT JJR NN .</POS>
+		<Lemma>it work beautifully with my phone 's voice command when make phone call and my music have a crisper sound .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am very pleased with this product !</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I be very pleased with this product !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I also purchased the Mountek CD slot mount to give me better visibility of my phone while driving .</Tokens>
+		<POS>PRP RB VBD DT NNP NNP NN VB TO VB PRP JJR NN IN PRP$ NN IN VBG .</POS>
+		<Lemma>I also purchase the Mountek CD slot mount to give I better visibility of my phone while drive .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This mount was a perfect addition to my FlexSmart X2 transmitter .</Tokens>
+		<POS>DT VBP VBD DT JJ NN TO PRP$ NNP NN NN .</POS>
+		<Lemma>this mount be a perfect addition to my FlexSmart x2 transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My USB phone charger fits perfectly through the bottom of the mount and plugs into the transmitter to allow my phone to charge while I 'm listening to my music in my commute to work .</Tokens>
+		<POS>PRP$ JJ NN NN VBZ RB IN DT NN IN DT VBP CC VBZ IN DT NN TO VB PRP$ NN TO VB IN PRP VBP VBG TO PRP$ NN IN PRP$ NN TO VB .</POS>
+		<Lemma>my usb phone charger fit perfectly through the bottom of the mount and plug into the transmitter to allow my phone to charge while I be listen to my music in my commute to work .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you are looking for a workable solution in the car for your iPhone , this is ticket !</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN IN DT NN IN PRP$ NNP , DT VBZ NN .</POS>
+		<Lemma>if you be look for a workable solution in the car for you iPhone , this be ticket !</Lemma>
+	</Sentence>
+</Document>

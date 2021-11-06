@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This charger is a must-have for iPhone users .</Tokens>
+		<POS>DT NN VBZ DT JJ IN NNP NNS .</POS>
+		<Lemma>this charger be a must-have for iPhone user .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Plugs into car or wall socket or can be run on 9 volt or even AA batteries .</Tokens>
+		<POS>VBZ IN NN CC NN NN CC MD VB VBN IN CD NN CC RB NN NNS .</POS>
+		<Lemma>plug into car or wall socket or can be run on 9 volt or even aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Two cautions though : it 's not very well made - the plastic is cheap and does n't feel like it can take much abuse - and I could n't get it to charge an iPad - the iPad did n't recognize it as a charging device .</Tokens>
+		<POS>CD VBZ IN : PRP VBZ RB RB RB VBN : DT NN VBZ JJ CC VBZ RB VB IN PRP MD VB JJ NN : CC PRP MD RB VB PRP TO VB DT NN : DT NN VBD RB VB PRP IN DT VBG NN .</POS>
+		<Lemma>two caution though : it be not very well make - the plastic be cheap and do not feel like it can take much abuse - and I could not get it to charge a ipad - the ipad do not recognize it as a charge device .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Another plus is that it appears to use a standard mini-usb to iPhone cable - the other brand of charger like this that I had used a built-in proprietary cable which broke on two of them rendering the devices useless .</Tokens>
+		<POS>DT CC VBZ IN PRP VBZ TO VB DT JJ NN TO NNP NN : DT JJ NN IN NN IN DT IN PRP VBD VBN DT JJ JJ NN WDT VBD IN CD IN PRP VBG DT NNS JJ .</POS>
+		<Lemma>another plus be that it appear to use a standard mini-usb to iPhone cable - the other brand of charger like this that I have use a built-in proprietary cable which break on two of they render the device useless .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Really , Really , Really great product !!!</Tokens>
+		<POS>RB , RB , RB JJ NN IN</POS>
+		<Lemma>really , really , really great product !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love this transmitter !!!!!!!</Tokens>
+		<POS>PRP VBP DT NN NN</POS>
+		<Lemma>I love this transmitter !!!!!!!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's so convenient and adds major safety using my radio apps , rhapsody , and making and receiving phone calls !!</Tokens>
+		<POS>PRP VBZ RB JJ CC VBZ JJ NN VBG PRP$ NN NNS , NN , CC VBG CC VBG NN NNS VBP</POS>
+		<Lemma>it be so convenient and add major safety use my radio app , rhapsody , and make and receive phone call !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I recommend this to anyone with a compatible phone .</Tokens>
+		<POS>PRP VBP DT TO NN IN DT JJ NN .</POS>
+		<Lemma>I recommend this to anyone with a compatible phone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The company is great and I know because I have a charger from them and it had to be exchanged because it broke .</Tokens>
+		<POS>DT NN VBZ JJ CC PRP VBP IN PRP VBP DT NN IN PRP CC PRP VBD TO VB VBN IN PRP VBD .</POS>
+		<Lemma>the company be great and I know because I have a charger from they and it have to be exchange because it break .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The exchange was very easy and like this product , it is backed with a 3 year accessory genie warranty .</Tokens>
+		<POS>DT NN VBD RB JJ CC IN DT NN , PRP VBZ VBN IN DT CD NN NN NN NN .</POS>
+		<Lemma>the exchange be very easy and like this product , it be back with a 3 year accessory genie warranty .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Best company I 've dealt with on amazon yet !!!</Tokens>
+		<POS>JJS NN PRP VBP VBN IN IN NN RB CD</POS>
+		<Lemma>best company I have deal with on amazon yet !!!</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Keep up the good work accessory genie !!!!!</Tokens>
+		<POS>VB RP DT JJ NN NN NN CD</POS>
+		<Lemma>keep up the good work accessory genie !!!!!</Lemma>
+	</Sentence>
+</Document>

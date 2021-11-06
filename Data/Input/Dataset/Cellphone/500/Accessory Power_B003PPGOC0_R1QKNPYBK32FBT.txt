@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had high hopes for this device , but it did not even power on for me .</Tokens>
+		<POS>PRP VBD JJ NNS IN DT NN , CC PRP VBD RB RB NN IN IN PRP .</POS>
+		<Lemma>I have high hope for this device , but it do not even power on for I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I work at radioshack , so I understand how these work .</Tokens>
+		<POS>PRP VBP IN NN , IN PRP VBP WRB DT NN .</POS>
+		<Lemma>I work at radioshack , so I understand how these work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was fully pushed into the outlet .</Tokens>
+		<POS>PRP VBD RB VBN IN DT NN .</POS>
+		<Lemma>it be fully push into the outlet .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>To make sure it was , I plugged in another device and compared how deep each went , they were both identical .</Tokens>
+		<POS>TO VB JJ PRP VBD , PRP VBD IN DT NN CC VBN WRB JJ DT VBD , PRP VBD DT JJ .</POS>
+		<Lemma>to make sure it be , I plug in another device and compare how deep each go , they be both identical .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I replaced the fuse , still no luck .</Tokens>
+		<POS>PRP VBD DT NN , RB DT NN .</POS>
+		<Lemma>I replace the fuse , still no luck .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Of course I hit the power button and even checked the contacts .</Tokens>
+		<POS>IN NN PRP VBD DT NN NN CC RB VBD DT NNS .</POS>
+		<Lemma>of course I hit the power button and even check the contact .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Tried it in two cars and each outlets .</Tokens>
+		<POS>VBD PRP IN CD NNS CC DT NNS .</POS>
+		<Lemma>try it in two car and each outlet .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I will be returning it and buying another and hopefully it works .</Tokens>
+		<POS>PRP MD VB VBG PRP CC VBG DT CC RB PRP VBZ .</POS>
+		<Lemma>I will be return it and buy another and hopefully it work .</Lemma>
+	</Sentence>
+</Document>

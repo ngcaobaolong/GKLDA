@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Best yet !</Tokens>
+		<POS>JJS RB .</POS>
+		<Lemma>best yet !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very nutritious , versitile , and digests well in the system .</Tokens>
+		<POS>RB JJ , NN , CC VBZ RB IN DT NN .</POS>
+		<Lemma>very nutritious , versitile , and digest well in the system .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've used it as a cereal base and added fruit and nuts .</Tokens>
+		<POS>PRP VBP VBN PRP IN DT NN NN CC VBD NN CC NNS .</POS>
+		<Lemma>I have use it as a cereal base and add fruit and nut .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've also used it in cookies , as well as , a replacement for meat in meals .</Tokens>
+		<POS>PRP VBP RB VBN PRP IN NNS , RB RB IN , DT NN IN NN IN NNS .</POS>
+		<Lemma>I have also use it in cookie , as well as , a replacement for meat in meal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's a staple in our home .</Tokens>
+		<POS>PRP VBZ DT NN IN PRP$ NN .</POS>
+		<Lemma>it be a staple in we home .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I love it !</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I love it !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,712 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is an extensively revised review , as I have had a chance to spend lots of time with this camera over the last ten weeks and taken roughly 5000 pictures - for sure one of the best electronics purchases I have made in the last 10 years .</Tokens>
+		<POS>DT VBZ DT RB VBN NN , IN PRP VBP VBD DT NN TO VB NNS IN NN IN DT NN IN DT JJ CD NNS CC VBN RB CD NNS : IN JJ CD IN DT JJS NNS NNS PRP VBP VBN IN DT JJ CD NNS .</POS>
+		<Lemma>this be a extensively revise review , as I have have a chance to spend lot of time with this camera over the last ten week and take roughly 5000 picture - for sure one of the best electronics purchase I have make in the last 10 year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Some of the initial problems I saw -LRB- flash overexposure for one -RRB- have been addressed in firmware updates -LRB- or require some user adjustments -RRB- .</Tokens>
+		<POS>DT IN DT JJ NNS PRP VBD -LRB- NN NN IN CD -RRB- VBP VBN VBN IN NN NNS -LRB- CC VB DT NN NNS -RRB- .</POS>
+		<Lemma>some of the initial problem I see -lrb- flash overexposure for one -rrb- have be address in firmware update -lrb- or require some user adjustment -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>JPEGs -LRB- Sony 's default jpeg algorithm could use some tweaking\/sharpening -RRB- print out sharply at 30 by 20 print sizes -LRB- as long as I stay to no higher than ISO 800 -RRB- .</Tokens>
+		<POS>NNS -LRB- NNP POS NN NN NN MD VB DT NN -RRB- VBP RP RB IN CD IN CD NN NNS -LRB- RB RB IN PRP VBP TO DT JJR IN NN CD -RRB- .</POS>
+		<Lemma>jpeg -lrb- Sony 's default jpeg algorithm could use some tweaking\/sharpening -rrb- print out sharply at 30 by 20 print size -lrb- as long as I stay to no higher than iso 800 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>RAW images at low ISO will print sharp to 36x24 easily .</Tokens>
+		<POS>NN NNS IN JJ NN MD VB JJ TO NN RB .</POS>
+		<Lemma>raw image at low iso will print sharp to 36x24 easily .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When paired with the new Sony 16-50mm 2.8 lens -LRB- see separate review for this terrific lens -RRB- , takes some of the best pictures this side of a Nikon D3x -LRB- $ 8000 full frame pro camera -RRB- - if you stay to ISO 800 and under .</Tokens>
+		<POS>WRB VBN IN DT JJ NNP NN CD NN -LRB- VB JJ NN IN DT JJ NN -RRB- , VBZ DT IN DT JJS NNS DT NN IN DT NNP NN -LRB- $ CD JJ NN JJ NN -RRB- : IN PRP VBP TO NN CD CC IN .</POS>
+		<Lemma>when pair with the new Sony 16-50mm 2.8 lens -lrb- see separate review for this terrific lens -rrb- , take some of the best picture this side of a Nikon d3x -lrb- $ 8000 full frame pro camera -rrb- - if you stay to iso 800 and under .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Pros : 1 -RRB- Best viewfinder in the business -LRB- 2.4 million dot OLED -RRB- , as bright as any full frame viewfinder , and with far more useful information .</Tokens>
+		<POS>NNS : LS -RRB- JJS NN IN DT NN -LRB- CD CD NN NN -RRB- , IN JJ IN DT JJ NN NN , CC IN RB JJR JJ NN .</POS>
+		<Lemma>pro : 1 -rrb- best viewfinder in the business -lrb- 2.4 million dot oled -rrb- , as bright as any full frame viewfinder , and with far more useful information .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Once you 've used it , you wo n't be able to go back .</Tokens>
+		<POS>RB PRP VBP VBN PRP , PRP MD RB VB JJ TO VB RB .</POS>
+		<Lemma>once you have use it , you will not be able to go back .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Paradigm changing - once you experience what you can do creatively with this new tool , optical viewfinders seem primitive and confining .</Tokens>
+		<POS>NN VBG : RB PRP VBP WP PRP MD VB RB IN DT JJ NN , JJ NNS VBP JJ CC NN .</POS>
+		<Lemma>paradigm change - once you experience what you can do creatively with this new tool , optical viewfinder seem primitive and confining .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>2 -RRB- Class leading 24 megapixel resolution -LRB- at low to medium ISO , yields remarkably detailed images , esp in RAW -RRB- .</Tokens>
+		<POS>LS -RRB- NN VBG CD NN NN -LRB- IN JJ TO NN NN , NNS RB JJ NNS , NN IN NN -RRB- .</POS>
+		<Lemma>2 -rrb- class lead 24 megapixel resolution -lrb- at low to medium iso , yield remarkably detailed image , esp in raw -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>3 -RRB- Many useful shooting modes including terrific panorama and high dynamic range modes .</Tokens>
+		<POS>LS -RRB- JJ JJ NN NNS VBG JJ NN CC JJ JJ NN NNS .</POS>
+		<Lemma>3 -rrb- many useful shooting mode include terrific panorama and high dynamic range mode .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Intuitive and yet deep customizable operating system .</Tokens>
+		<POS>JJ CC RB JJ CC JJ NN NN .</POS>
+		<Lemma>intuitive and yet deep customizable operating system .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>But can be put in simple AUTO and AUTO + modes for the less technical .</Tokens>
+		<POS>CC MD VB VBN IN JJ NNP CC NNP CC NNS IN DT JJR JJ .</POS>
+		<Lemma>but can be put in simple AUTO and AUTO + mode for the less technical .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>4 -RRB- Full-time live view system - far better than the clunky live view systems ` tacked on ' in traditional DSLRs .</Tokens>
+		<POS>LS -RRB- JJ JJ NN NN : RB JJR IN DT JJ JJ NN NNS `` VBD RP '' IN JJ NNS .</POS>
+		<Lemma>4 -rrb- full-time live view system - far better than the clunky live view system ` tack on ' in traditional dslr .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>5 -RRB- Class-leading video resolution -LRB- 1080 at 60p -RRB- with as good video capabilities as any camcorder .</Tokens>
+		<POS>LS -RRB- JJ NN NN -LRB- CD IN JJ -RRB- IN RB JJ NN NNS IN DT NN .</POS>
+		<Lemma>5 -rrb- class-leading video resolution -lrb- 1080 at 60p -rrb- with as good video capability as any camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Takes better video than any DSLR if you shoot in 60p .</Tokens>
+		<POS>VBZ JJR NN IN DT NN IN PRP VBP IN NN .</POS>
+		<Lemma>take better video than any dslr if you shoot in 60p .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>6 -RRB- Intuitive and well thought-out ergonomics .</Tokens>
+		<POS>CD -RRB- JJ CC RB JJ NNS .</POS>
+		<Lemma>6 -rrb- intuitive and well thought-out ergonomics .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>7 -RRB- Fast and responsive operation .</Tokens>
+		<POS>CD -RRB- JJ CC JJ NN .</POS>
+		<Lemma>7 -rrb- fast and responsive operation .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Fastest continuous shooting in class -LRB- 10 frames per second -RRB- .</Tokens>
+		<POS>JJS JJ NN IN NN -LRB- CD NNS IN NN -RRB- .</POS>
+		<Lemma>fastest continuous shooting in class -lrb- 10 frame per second -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Fast focusing , decent menu speed -LRB- improved w \/ new firmware -RRB- 8 -RRB- Excellent image stabilization system -LRB- and no more sensor overheating from the IS that plagued the Sony A55 ! -RRB-</Tokens>
+		<POS>JJ VBG , JJ NN NN -LRB- VBN NN : JJ NN -RRB- CD -RRB- JJ NN NN NN -LRB- CC DT JJR NN VBG IN DT VBZ IN VBD DT NNP NN . -RRB-</POS>
+		<Lemma>fast focus , decent menu speed -lrb- improve w \/ new firmware -rrb- 8 -rrb- excellent image stabilization system -lrb- and no more sensor overheate from the be that plague the Sony a55 ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>9 -RRB- In-camera GPS -LRB- can be defeated -RRB- .</Tokens>
+		<POS>CD -RRB- NNP NNP -LRB- MD VB VBN -RRB- .</POS>
+		<Lemma>9 -rrb- In-camera GPS -lrb- can be defeat -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>10 -RRB- Decent battery life -LRB- significant battery upgrade from the Alpha 55 -RRB- given that EVF sucks down a lot of battery .</Tokens>
+		<POS>CD -RRB- JJ NN NN -LRB- JJ NN NN IN DT NNP CD -RRB- VBN IN NN VBZ RP DT NN IN NN .</POS>
+		<Lemma>10 -rrb- decent battery life -lrb- significant battery upgrade from the Alpha 55 -rrb- give that evf suck down a lot of battery .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>11 -RRB- Best features\/price ratio in the middle to high-end consumer\/prosumer model DSLR group .</Tokens>
+		<POS>CD -RRB- JJS NN NN IN DT JJ TO JJ NN NN NN NN .</POS>
+		<Lemma>11 -rrb- best features\/price ratio in the middle to high-end consumer\/prosumer model dslr group .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>12 -RRB- Easy access to any Minolta lens and a decent selection of Sony lenses for reasonable money , particularly a superb new 16-50 mm 2.8 lens -LRB- see separate review -RRB- .</Tokens>
+		<POS>CD -RRB- NNP NN TO DT NNP NN CC DT JJ NN IN NNP NNS IN JJ NN , RB DT JJ JJ CD NN CD NN -LRB- VB JJ NN -RRB- .</POS>
+		<Lemma>12 -rrb- Easy access to any Minolta lens and a decent selection of Sony lens for reasonable money , particularly a superb new 16-50 mm 2.8 lens -lrb- see separate review -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>13 -RRB- Ability to remove virtually all CA , distortion , and vignetting in increasing number of Sony lens -LRB- firmware-based -RRB- .</Tokens>
+		<POS>CD -RRB- NN TO VB RB DT NNP , NN , CC VBG IN VBG NN IN NNP NN -LRB- JJ -RRB- .</POS>
+		<Lemma>13 -rrb- ability to remove virtually all CA , distortion , and vignet in increase number of Sony lens -lrb- firmware-based -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>When used with the new 16-50mm 2.8 lens , produces very sharp images , w\/out any visible classic optical distortions -LRB- CA , vignetting , barrel distortion , etc -RRB- .</Tokens>
+		<POS>WRB VBN IN DT JJ JJ CD NN , VBZ RB JJ NNS , VB DT JJ JJ JJ NNS -LRB- NNP , NN , NN NN , NN -RRB- .</POS>
+		<Lemma>when use with the new 16-50mm 2.8 lens , produce very sharp image , w\/out any visible classic optical distortion -lrb- CA , vignetting , barrel distortion , etc -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Firmware correction of lens optical aberrations has to be one of most under-appreciated but valuable features of this new camera 's operating system .</Tokens>
+		<POS>NN NN IN NN JJ NNS VBZ TO VB CD IN JJS JJ CC JJ NNS IN DT JJ NN POS NN NN .</POS>
+		<Lemma>firmware correction of lens optical aberration have to be one of most under-appreciated but valuable feature of this new camera 's operating system .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>These corrections work with many popular Sony lenses -LRB- such as popular kit and tele zooms -RRB- , w \/ more included in future firmware -LRB- wish Sony would make that list more available to SLT owners ! -RRB-</Tokens>
+		<POS>DT NNS VBP IN JJ JJ NNP NNS -LRB- JJ IN JJ NN CC NN VBZ -RRB- , NN : JJR VBN IN JJ NN -LRB- NN NNP MD VB DT NN RBR JJ TO NNP NNS . -RRB-</POS>
+		<Lemma>these correction work with many popular Sony lens -lrb- such as popular kit and tele zoom -rrb- , w \/ more include in future firmware -lrb- wish Sony would make that list more available to SLT owner ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>This software correction makes a VERY discernible difference in large prints , and means that these classic distortions are basically a non-issue for corrected lenses -LRB- see DP Reviews treatment of this in their A65 review -RRB- .</Tokens>
+		<POS>DT NN NN VBZ DT RB JJ NN IN JJ NNS , CC VBZ IN DT JJ NNS VBP RB DT JJ IN VBN NNS -LRB- VB NN NNS NN IN DT IN PRP$ NN NN -RRB- .</POS>
+		<Lemma>this software correction make a very discernible difference in large print , and mean that these classic distortion be basically a non-issue for correct lens -lrb- see dp review treatment of this in they a65 review -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Cons : 1 -RRB- Some increase in noise at higher ISO , particularly in RAW images without NR -LRB- noise reduction -RRB- .</Tokens>
+		<POS>NNS : LS -RRB- DT NN IN NN IN JJR NN , RB IN NN NNS IN NN -LRB- NN NN -RRB- .</POS>
+		<Lemma>con : 1 -rrb- some increase in noise at higher iso , particularly in raw image without nr -lrb- noise reduction -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Not surprising in view of increased pixel density -LRB- see # 9 below -RRB- .</Tokens>
+		<POS>RB JJ IN NN IN VBN NN NN -LRB- VB # CD IN -RRB- .</POS>
+		<Lemma>not surprising in view of increase pixel density -lrb- see # 9 below -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>2 -RRB- Early firmware bugs - some have been improved , but still room for more improvements ?</Tokens>
+		<POS>LS -RRB- JJ NN NNS : DT VBP VBN VBN , CC RB NN IN JJR NNS .</POS>
+		<Lemma>2 -rrb- early firmware bug - some have be improve , but still room for more improvement ?</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>-LRB- i.e. , Sony 's HVL-F42 flash yields still badly overexposed pictures - this happens mostly with bounce flash .</Tokens>
+		<POS>-LRB- FW , NNP POS NN NN NNS RB RB VBN NNS : DT VBZ RB IN NN NN .</POS>
+		<Lemma>-lrb- i.e. , Sony 's hvl-f42 flash yield still badly overexpose picture - this happen mostly with bounce flash .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>Other firmware bugs and weaknesses -LRB- like JPEG definitions -RRB- could also be improved .</Tokens>
+		<POS>JJ NN NNS CC NNS -LRB- IN NN NNS -RRB- MD RB VB VBN .</POS>
+		<Lemma>other firmware bug and weakness -lrb- like jpeg definition -rrb- could also be improve .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>3 -RRB- As great as the EVF is , sometimes the view is too contrasty , yielding either blown highlights or ` blackout ' regions - needs contrast adjustment function .</Tokens>
+		<POS>LS -RRB- IN JJ IN DT NN VBZ , RB DT NN VBZ RB JJ , VBG CC VBN VBZ CC `` NN '' NNS : NNS NN NN NN .</POS>
+		<Lemma>3 -rrb- as great as the evf be , sometimes the view be too contrasty , yield either blow highlight or ` blackout ' region - need contrast adjustment function .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>4 -RRB- Not as svelte as the Alpha 55 -LRB- but for those with big hands , the extra heft and size work -RRB- .</Tokens>
+		<POS>LS -RRB- RB IN JJ IN DT NNP CD -LRB- CC IN DT IN JJ NNS , DT JJ NN CC NN NN -RRB- .</POS>
+		<Lemma>4 -rrb- not as svelte as the Alpha 55 -lrb- but for those with big hand , the extra heft and size work -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>A bit porky with the 16-50 2.8 .</Tokens>
+		<POS>DT NN JJ IN DT CD CD .</POS>
+		<Lemma>a bit porky with the 16-50 2.8 .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>5 -RRB- Limited control in high-speed shooting modes .</Tokens>
+		<POS>LS -RRB- JJ NN IN JJ NN NNS .</POS>
+		<Lemma>5 -rrb- limited control in high-speed shooting mode .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>6 -RRB- Screen blacks out once you fill up the buffer in high-speed shooting and you have to wait until all the images are dumped onto your card .</Tokens>
+		<POS>CD -RRB- NN NNS IN RB PRP VB RP DT NN IN JJ NN CC PRP VBP TO VB IN PDT DT NNS VBP VBN IN PRP$ NN .</POS>
+		<Lemma>6 -rrb- screen black out once you fill up the buffer in high-speed shooting and you have to wait until all the image be dump onto you card .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>7 -RRB- Loss of live view in high-speed shooting modes can make aiming the camera a bit tricky .</Tokens>
+		<POS>CD -RRB- NN IN JJ NN IN JJ NN NNS MD VB VBG DT NN DT NN JJ .</POS>
+		<Lemma>7 -rrb- loss of live view in high-speed shooting mode can make aim the camera a bit tricky .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>8 -RRB- Switching between viewing photos vs. videos is still a bit cumbersome and awkward .</Tokens>
+		<POS>CD -RRB- VBG IN VBG NNS CC NNS VBZ RB DT NN JJ CC JJ .</POS>
+		<Lemma>8 -rrb- switch between view photo vs. video be still a bit cumbersome and awkward .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>9 -RRB- Default JPEG settings are both too soft -LRB- need sharpening -RRB- , and too noisy at higher ISO - requires users understand menu options and make adjustments to get best possible JPEGs -LRB- set NR to high on high ISO , and sharpening to 3 + gives you the best JPEGs -RRB- .</Tokens>
+		<POS>CD -RRB- NNP NNP NNS VBP CC RB JJ -LRB- NN VBG -RRB- , CC RB JJ IN JJR NN : VBZ NNS VB NN NNS CC VB NNS TO VB JJS JJ NNS -LRB- VBN NN TO JJ IN JJ NN , CC VBG TO CD CC VBZ PRP DT JJS NNS -RRB- .</POS>
+		<Lemma>9 -rrb- Default JPEG setting be both too soft -lrb- need sharpen -rrb- , and too noisy at higher iso - require user understand menu option and make adjustment to get best possible jpeg -lrb- set nr to high on high iso , and sharpen to 3 + give you the best jpeg -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>BEST IN CLASS SPECIFICATIONS ?</Tokens>
+		<POS>NNP IN NNP NNS .</POS>
+		<Lemma>BEST in CLASS specification ?</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>Although the Sony Alpha 65 might have flown under the radar in the context of the simultaneous release of Sony 's flagship Alpha 77 , I believe it 's actually the better deal for everyone who 's not interested in a pro-style body .</Tokens>
+		<POS>IN DT NNP NNP CD MD VB VBN IN DT NN IN DT NN IN DT JJ NN IN NNP POS NN NN CD , PRP VBP PRP VBZ RB DT JJR NN IN NN WP VBZ RB JJ IN DT JJ NN .</POS>
+		<Lemma>although the Sony Alpha 65 might have fly under the radar in the context of the simultaneous release of Sony 's flagship alpha 77 , I believe it be actually the better deal for everyone who be not interested in a pro-style body .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>It contains most of the high technology of the flagship model Alpha 77 , minus the top LCD panel and the 12 frame per second shooting rate -LRB- you 'll have to suffer along with a measly 10 frames per second -RRB- , a slightly less complex AF system , and a few other minor ` downgrades ' .</Tokens>
+		<POS>PRP VBZ JJS IN DT JJ NN IN DT NN NN NN CD , CC DT JJ NNS NN CC DT CD NN IN JJ NN NN -LRB- PRP MD VB TO VB RP IN DT JJ CD NNS IN NN -RRB- , DT RB RBR JJ NN NN , CC DT JJ JJ JJ `` NNS POS .</POS>
+		<Lemma>it contain most of the high technology of the flagship model alpha 77 , minus the top lcd panel and the 12 frame per second shooting rate -lrb- you 'll have to suffer along with a measly 10 frame per second -rrb- , a slightly less complex af system , and a few other minor ` downgrade ' .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>But the sensor and the EVF -LRB- in my judgment , the most important innovations of the A77 -RRB- are intact .</Tokens>
+		<POS>CC DT NN CC DT NN -LRB- IN PRP$ NN , DT RBS JJ NNS IN DT NN -RRB- VBP JJ .</POS>
+		<Lemma>but the sensor and the evf -lrb- in my judgment , the most important innovation of the a77 -rrb- be intact .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>All this for a significant reduction in Price -LRB- $ 949 for body only versus $ 1449 for the Alpha 77 -RRB- .</Tokens>
+		<POS>PDT DT IN DT JJ NN IN NN -LRB- $ CD IN NN RB CC $ CD IN DT NNP CD -RRB- .</POS>
+		<Lemma>all this for a significant reduction in price -lrb- $ 949 for body only versus $ 1449 for the Alpha 77 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Unfortunately , it 's very tough to get this model right now - minimal supply and lots of demand .</Tokens>
+		<POS>RB , PRP VBZ RB JJ TO VB DT NN RB RB : JJ NN CC NNS IN NN .</POS>
+		<Lemma>unfortunately , it be very tough to get this model right now - minimal supply and lot of demand .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>If you 're interested in video , there is nothing right now that beats the video specification of this camera as most DSLRs will only shoot in 60i -LRB- often times interpolated from 30p -RRB- , whereas this camera will shoot a true 60 frames a second in progressive scan .</Tokens>
+		<POS>IN PRP VBP JJ IN NN , EX VBZ NN RB RB IN VBZ DT NN NN IN DT NN IN JJS NNS MD RB VB IN NNS -LRB- RB NNS VBN IN CD -RRB- , IN DT NN MD VB DT JJ CD NNS DT JJ IN JJ VB .</POS>
+		<Lemma>if you be interested in video , there be nothing right now that beat the video specification of this camera as most dslr will only shoot in 60us -lrb- often time interpolate from 30p -rrb- , whereas this camera will shoot a true 60 frame a second in progressive scan .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>Still pictures are spectacular , and with more resolution than virtually anything outside of the full frame 24 megapixel Nikon D3X .</Tokens>
+		<POS>RB NNS VBP JJ , CC IN JJR NN IN RB NN JJ IN DT JJ NN CD NN NNP NNP .</POS>
+		<Lemma>still picture be spectacular , and with more resolution than virtually anything outside of the full frame 24 megapixel Nikon D3X .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>A large 19x13 printout of a standard test image shows the A65 very , very close in detail to the Nikon D3x -LRB- the current resolution king in 35mm photography and able to resolve detail comparable to 35mm Kodachrome 64 -LRB- remember that stuff ?? -RRB-</Tokens>
+		<POS>DT JJ NN NN IN DT JJ NN NN VBZ DT NN RB , RB RB IN NN TO DT NNP NN -LRB- DT JJ NN NN IN CD NN CC JJ TO VB NN JJ TO CD NNP CD -LRB- VB DT NN NN -RRB-</POS>
+		<Lemma>a large 19x13 printout of a standard test image show the a65 very , very close in detail to the Nikon d3x -lrb- the current resolution king in 35mm photography and able to resolve detail comparable to 35mm Kodachrome 64 -lrb- remember that stuff ?? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>-LRB- UPDATE - the new full frame Nikon D800 will have a 36MP sensor - but will cost $ 3000 - and will really compete with Sony 's new A99 full frame pro camera . -RRB-</Tokens>
+		<POS>-LRB- NN : DT JJ JJ NN NNP NN MD VB DT NN NN : CC MD VB $ CD : CC MD RB VB IN NNP POS JJ NN JJ NN JJ NN . -RRB-</POS>
+		<Lemma>-lrb- update - the new full frame Nikon d800 will have a 36mp sensor - but will cost $ 3000 - and will really compete with Sony 's new a99 full frame pro camera . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>Nothing in the subframe APS-C market will outresolve the A65 in fair to decent light - or provide better video .</Tokens>
+		<POS>NN IN DT NN NN NN MD VB DT NN IN JJ TO JJ NN : CC VB JJR NN .</POS>
+		<Lemma>nothing in the subframe aps-c market will outresolve the a65 in fair to decent light - or provide better video .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>LOW LIGHT PROBLEMS ?</Tokens>
+		<POS>RB NN NNS .</POS>
+		<Lemma>low light problem ?</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>Although the recent Digital Photography Review -LRB- the closest thing to a definitive source on digital cameras on the web -RRB- slammed the Alpha 77 -LRB- same sensor and basic image engine as the A65 -RRB- for its high noise particularly in RAW , and its somewhat ` mushy ' JPEG rendering , I generally agree , but think some clarifications are called for .</Tokens>
+		<POS>IN DT JJ NNP NNP NNP -LRB- DT JJS NN TO DT JJ NN IN JJ NNS IN DT NN -RRB- VBD DT NNP CD -LRB- JJ NN CC JJ NN NN IN DT NN -RRB- IN PRP$ JJ NN RB IN NN , CC PRP$ RB `` JJ '' NN NN , PRP RB VBP , CC VBP DT NNS VBP VBN IN .</POS>
+		<Lemma>although the recent Digital Photography Review -lrb- the closest thing to a definitive source on digital camera on the web -rrb- slam the Alpha 77 -lrb- same sensor and basic image engine as the a65 -rrb- for its high noise particularly in raw , and its somewhat ` mushy ' jpeg rendering , I generally agree , but think some clarification be call for .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>First of all , the default JPEGs can be significantly sharpened .</Tokens>
+		<POS>NNP IN DT , DT NN NNS MD VB RB VBN .</POS>
+		<Lemma>First of all , the default jpeg can be significantly sharpen .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>I run the camera in the standard mode -LRB- one among several ` creative modes ' -RRB- but with sharpening maxed out .</Tokens>
+		<POS>PRP VBP DT NN IN DT JJ NN -LRB- CD IN JJ `` JJ NNS POS -RRB- CC IN VBG VBN RP .</POS>
+		<Lemma>I run the camera in the standard mode -lrb- one among several ` creative mode ' -rrb- but with sharpen max out .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>You would n't want to do this with a Canon -LRB- they are already a bit crunchy in terms of their default JPEG settings -RRB- , but there is no artifact effect that I have been able to find , and it gets much closer to the maximum detail out of the 24MP sensor .</Tokens>
+		<POS>PRP MD RB VB TO VB DT IN DT NNP -LRB- PRP VBP RB DT NN JJ IN NNS IN PRP$ NN NN NNS -RRB- , CC EX VBZ DT NN NN IN PRP VBP VBN JJ TO VB , CC PRP VBZ RB JJR TO DT NN NN IN IN DT NN NN .</POS>
+		<Lemma>you would not want to do this with a Canon -lrb- they be already a bit crunchy in term of they default jpeg setting -rrb- , but there be no artifact effect that I have be able to find , and it get much closer to the maximum detail out of the 24mp sensor .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>Also , you have the set the HIGH ISO NR to high , instead of its default .</Tokens>
+		<POS>RB , PRP VBP DT VBN DT NNP NN NN TO JJ , RB IN PRP$ NN .</POS>
+		<Lemma>also , you have the set the HIGH iso nr to high , instead of its default .</Lemma>
+	</Sentence>
+	<Sentence id="61">
+		<Tokens>This combination gets much more out of the sensor than its default settings .</Tokens>
+		<POS>DT NN VBZ RB RBR IN IN DT NN IN PRP$ NN NNS .</POS>
+		<Lemma>this combination get much more out of the sensor than its default setting .</Lemma>
+	</Sentence>
+	<Sentence id="62">
+		<Tokens>Someone at Sony is -LRB- my guess -RRB- just too enamored of the ` smooth ' look - all of their cameras are set up with default JPEG definitions that could benefit from modest sharpening .</Tokens>
+		<POS>NN IN NNP VBZ -LRB- PRP$ NN -RRB- RB RB JJ IN DT `` JJ '' NN : DT IN PRP$ NNS VBP VBN RP IN NN NN NNS WDT MD VB IN JJ VBG .</POS>
+		<Lemma>someone at Sony be -lrb- my guess -rrb- just too enamored of the ` smooth ' look - all of they camera be set up with default jpeg definition that could benefit from modest sharpen .</Lemma>
+	</Sentence>
+	<Sentence id="63">
+		<Tokens>Furthermore , DP Review 's own images show that even at those soft and somewhat noisy default settings , the camera does pretty well compared to the competition - and really quite well indeed given the high pixel count .</Tokens>
+		<POS>RB , NN NN POS JJ NNS VBP IN RB IN DT JJ CC RB JJ NN NNS , DT NN VBZ RB RB VBN TO DT NN : CC RB RB RB RB VBN DT JJ NN NN .</POS>
+		<Lemma>furthermore , dp review 's own image show that even at those soft and somewhat noisy default setting , the camera do pretty well compare to the competition - and really quite well indeed give the high pixel count .</Lemma>
+	</Sentence>
+	<Sentence id="64">
+		<Tokens>If you look on the DP reviews website , and use their very revealing and useful standard studio scene comparator tool , and pull up images from several full frame cameras like the Sony 900 , and the Nikon D3S and the pro-Canon EOS - 1D Mark IV , the Sony A65 more than holds its own at low ISO , with frankly more detail than any 35mm camera -LRB- outside of the Nikon D3x and the NEX 7 -RRB- , only giving ground a bit as ISOs get above 1600 -LRB- with a much higher pixel density as a major disadvantage -RRB- .</Tokens>
+		<POS>IN PRP VBP IN DT NN VBZ NN , CC VB PRP$ RB JJ CC JJ JJ NN NN NN NN , CC VB RP NNS IN JJ JJ NN NNS IN DT NNP CD , CC DT NNP NN CC DT JJ NN : NN NNP CD , DT NNP NN JJR IN VBZ PRP$ JJ IN JJ NN , IN RB JJR NN IN DT CD NN -LRB- NN IN DT NNP NN CC DT NN CD -RRB- , RB VBG NN DT NN IN NNS VBP IN CD -LRB- IN DT RB JJR NN NN IN DT JJ NN -RRB- .</POS>
+		<Lemma>if you look on the dp review website , and use they very revealing and useful standard studio scene comparator tool , and pull up image from several full frame camera like the Sony 900 , and the Nikon d3 and the pro-canon eo - 1d Mark iv , the Sony a65 more than hold its own at low iso , with frankly more detail than any 35mm camera -lrb- outside of the Nikon d3x and the nex 7 -rrb- , only give ground a bit as iso get above 1600 -lrb- with a much higher pixel density as a major disadvantage -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="65">
+		<Tokens>Even there , in low light , I believe that the camera does a credible job , and trades off a little of its resolution advantage for more noise reduction .</Tokens>
+		<POS>RB RB , IN JJ NN , PRP VBP IN DT NN VBZ DT JJ NN , CC VBZ RP DT JJ IN PRP$ NN NN IN JJR NN NN .</POS>
+		<Lemma>even there , in low light , I believe that the camera do a credible job , and trade off a little of its resolution advantage for more noise reduction .</Lemma>
+	</Sentence>
+	<Sentence id="66">
+		<Tokens>However , as it has more detail than any of the other cameras in its class , competing well with full frame 24MP pro cameras at low ISO , it 's got headroom to trade .</Tokens>
+		<POS>RB , IN PRP VBZ JJR NN IN DT IN DT JJ NNS IN PRP$ NN , VBG RB IN JJ NN NN JJ NNS IN JJ NN , PRP VBZ VBN NN TO VB .</POS>
+		<Lemma>however , as it have more detail than any of the other camera in its class , compete well with full frame 24mp pro camera at low iso , it be get headroom to trade .</Lemma>
+	</Sentence>
+	<Sentence id="67">
+		<Tokens>Even in head-to-head comparisons with the A900 -LRB- full frame 24MP sensor -RRB- , the A65 does a very credible job as ISO rises - and with the disadvantage of a smaller APS-C sensor .</Tokens>
+		<POS>RB IN JJ NNS IN DT NN -LRB- JJ NN NN NN -RRB- , DT NN VBZ DT RB JJ NN IN NN VBZ : CC IN DT NN IN DT JJR NN NN .</POS>
+		<Lemma>even in head-to-head comparison with the a900 -lrb- full frame 24mp sensor -rrb- , the a65 do a very credible job as iso rise - and with the disadvantage of a smaller aps-c sensor .</Lemma>
+	</Sentence>
+	<Sentence id="68">
+		<Tokens>Admittedly , the full frame Nikon D3x and Canon 5D Mark II -LRB- and esp .</Tokens>
+		<POS>RB , DT JJ NN NNP NN CC NNP NNP NNP NNP -LRB- CC NN .</POS>
+		<Lemma>admittedly , the full frame Nikon d3x and Canon 5D Mark II -lrb- and esp .</Lemma>
+	</Sentence>
+	<Sentence id="69">
+		<Tokens>the new Canon EOS 1Dx - a low-light phenom -RRB- are going to beat it soundly at 3200 and 6400 , but realistically , who willingly or often shoots at 3200 and above ??</Tokens>
+		<POS>DT JJ NNP NNP NN : DT JJ NN -RRB- VBP VBG TO VB PRP RB IN CD CC CD , CC RB , WP RB CC RB VBZ IN CD CC IN NN</POS>
+		<Lemma>the new Canon EOS 1dx - a low-light phenom -rrb- be go to beat it soundly at 3200 and 6400 , but realistically , who willingly or often shoot at 3200 and above ??</Lemma>
+	</Sentence>
+	<Sentence id="70">
+		<Tokens>I certainly do n't .</Tokens>
+		<POS>PRP RB VBP RB .</POS>
+		<Lemma>I certainly do not .</Lemma>
+	</Sentence>
+	<Sentence id="71">
+		<Tokens>Plus , both the Nikon D3x and Canon EOS 1Dx are HUGE full frame cameras , costing roughly 8 times what this camera costs ... really not a fair comparison .</Tokens>
+		<POS>NN , CC DT NNP NN CC NNP NNP NN VBP JJ JJ NN NNS , VBG RB CD NNS WP DT NN NNS : RB RB DT JJ NN .</POS>
+		<Lemma>plus , both the Nikon d3x and Canon EOS 1dx be huge full frame camera , cost roughly 8 time what this camera cost ... really not a fair comparison .</Lemma>
+	</Sentence>
+	<Sentence id="72">
+		<Tokens>That 's almost as unfair as comparing an APS-C sensor with a point and shoot sensor - the sensor with the low pixel density always looks better in low light -LRB- all other things being equal -RRB- .</Tokens>
+		<POS>DT VBZ RB RB JJ IN VBG DT NN NN IN DT NN CC VB NN : DT NN IN DT JJ NN NN RB VBZ JJR IN JJ NN -LRB- DT JJ NNS VBG JJ -RRB- .</POS>
+		<Lemma>that be almost as unfair as compare a aps-c sensor with a point and shoot sensor - the sensor with the low pixel density always look better in low light -lrb- all other thing be equal -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="73">
+		<Tokens>More telling are the comparisons on a level playing field .</Tokens>
+		<POS>JJR VBG VBP DT NNS IN DT NN NN NN .</POS>
+		<Lemma>more tell be the comparison on a level playing field .</Lemma>
+	</Sentence>
+	<Sentence id="74">
+		<Tokens>A recent comparison of this camera with the Canon EOS 7D -LRB- at the same price point as the A65 and also an APS-C sensor -RRB- showed that the although the Canon 7D kept a somewhat higher percentage of its ISO 100 resolution at 1600 , the Sony was still handily out-resolving it at ISO 1600 .</Tokens>
+		<POS>DT JJ NN IN DT NN IN DT NNP NNP NN -LRB- IN DT JJ NN NN IN DT NN CC RB DT NN NN -RRB- VBD IN DT IN DT NNP NNP VBD DT RB JJR NN IN PRP$ NN CD NN IN CD , DT NNP VBD RB RB VBG PRP IN NN CD .</POS>
+		<Lemma>a recent comparison of this camera with the Canon EOS 7d -lrb- at the same price point as the a65 and also a aps-c sensor -rrb- show that the although the Canon 7D keep a somewhat higher percentage of its iso 100 resolution at 1600 , the Sony be still handily out-resolve it at iso 1600 .</Lemma>
+	</Sentence>
+	<Sentence id="75">
+		<Tokens>So take the `` low-light noise '' knock on this camera with a large grain of salt .</Tokens>
+		<POS>RB VB DT `` JJ NN '' VB IN DT NN IN DT JJ NN IN NN .</POS>
+		<Lemma>so take the `` low-light noise '' knock on this camera with a large grain of salt .</Lemma>
+	</Sentence>
+	<Sentence id="76">
+		<Tokens>Given that the A65 does just fine up to ISO 1600 in terms of noise , I think the modest bashing of the camera by some -LRB- not all -RRB- of the DP press and few disgruntled low-light fanatics is somewhat overblown .</Tokens>
+		<POS>VBN IN DT NN VBZ RB JJ IN TO NN CD IN NNS IN NN , PRP VBP DT JJ VBG IN DT NN IN DT -LRB- RB DT -RRB- IN DT NN NN CC JJ JJ JJ NNS VBZ RB JJ .</POS>
+		<Lemma>give that the a65 do just fine up to iso 1600 in term of noise , I think the modest bash of the camera by some -lrb- not all -rrb- of the dp press and few disgruntled low-light fanatic be somewhat overblown .</Lemma>
+	</Sentence>
+	<Sentence id="77">
+		<Tokens>If it beats some full frame cameras in low light -LRB- think Sony A900 - admittedly not a low light phenom -RRB- , it ca n't be terrible .</Tokens>
+		<POS>IN PRP VBZ DT JJ NN NNS IN JJ NN -LRB- VB NNP NN : RB RB DT JJ NN NN -RRB- , PRP MD RB VB JJ .</POS>
+		<Lemma>if it beat some full frame camera in low light -lrb- think Sony a900 - admittedly not a low light phenom -rrb- , it can not be terrible .</Lemma>
+	</Sentence>
+	<Sentence id="78">
+		<Tokens>As much as I often agree with almost everything that DP Review says , they put too much emphasis on RAW noise , and not enough on overall image quality .</Tokens>
+		<POS>RB RB IN PRP RB VBP IN RB NN WDT NN NN VBZ , PRP VBD RB JJ NN IN NN NN , CC RB RB IN JJ NN NN .</POS>
+		<Lemma>as much as I often agree with almost everything that dp review say , they put too much emphasis on raw noise , and not enough on overall image quality .</Lemma>
+	</Sentence>
+	<Sentence id="79">
+		<Tokens>If you shoot in RAW , you will have to use significant noise reduction at higher ISOs , but you 've got more resolution to begin with to trade against .</Tokens>
+		<POS>IN PRP VBP IN NN , PRP MD VB TO VB JJ NN NN IN JJR NNS , CC PRP VBP VBN RBR NN TO VB IN TO VB IN .</POS>
+		<Lemma>if you shoot in raw , you will have to use significant noise reduction at higher iso , but you have get more resolution to begin with to trade against .</Lemma>
+	</Sentence>
+	<Sentence id="80">
+		<Tokens>If you need convincing , check out DP Reviews JPEG image comparator for yourself .</Tokens>
+		<POS>IN PRP VBP NN , VB RP NN NNS VBP NN NN IN PRP .</POS>
+		<Lemma>if you need convincing , check out dp review jpeg image comparator for yourself .</Lemma>
+	</Sentence>
+	<Sentence id="81">
+		<Tokens>Pixel peepers only .</Tokens>
+		<POS>NNP NNS RB .</POS>
+		<Lemma>Pixel peeper only .</Lemma>
+	</Sentence>
+	<Sentence id="82">
+		<Tokens>Also , I would expect that its low light performance might still improve somewhat as firmware updates progress - there has been huge progress in that area from early firmware to current 1.04 versions .</Tokens>
+		<POS>RB , PRP MD VB DT PRP$ JJ JJ NN MD RB VB RB IN NN NNS NN : EX VBZ VBN JJ NN IN DT NN IN JJ NN TO JJ CD NNS .</POS>
+		<Lemma>also , I would expect that its low light performance might still improve somewhat as firmware update progress - there have be huge progress in that area from early firmware to current 1.04 version .</Lemma>
+	</Sentence>
+	<Sentence id="83">
+		<Tokens>Admittedly , its JPEG definition could be sharper to show off all the detail the 24MP sensor is capable of , but hopefully this can be addressed in new firmwares -LRB- see Cons -RRB- .</Tokens>
+		<POS>RB , PRP$ NNP NN MD VB JJR TO VB RP PDT DT NN DT NN NN VBZ JJ IN , CC RB DT MD VB VBN IN JJ NNS -LRB- VB NNS -RRB- .</POS>
+		<Lemma>admittedly , its JPEG definition could be sharper to show off all the detail the 24mp sensor be capable of , but hopefully this can be address in new firmware -lrb- see con -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="84">
+		<Tokens>BOTTOM LINE - SONY AND THE BIG TWO ?</Tokens>
+		<POS>NNP NNP : NNP CC DT NNP CD .</POS>
+		<Lemma>BOTTOM LINE - SONY and the BIG two ?</Lemma>
+	</Sentence>
+	<Sentence id="85">
+		<Tokens>It 's all about which tradeoffs you want to make .</Tokens>
+		<POS>PRP VBZ DT IN WDT NNS PRP VBP TO VB .</POS>
+		<Lemma>it be all about which tradeoff you want to make .</Lemma>
+	</Sentence>
+	<Sentence id="86">
+		<Tokens>Sony made a clear decision to trade low light ability for speed , resolution and detail in better light .</Tokens>
+		<POS>NNP VBD DT JJ NN TO VB JJ NN NN IN NN , NN CC NN IN JJR NN .</POS>
+		<Lemma>Sony make a clear decision to trade low light ability for speed , resolution and detail in better light .</Lemma>
+	</Sentence>
+	<Sentence id="87">
+		<Tokens>For me , that 's a good-to-great tradeoff , but for some others , perhaps not so much .</Tokens>
+		<POS>IN PRP , DT VBZ DT NN NN , CC IN DT NNS , RB RB RB JJ .</POS>
+		<Lemma>for I , that be a good-to-great tradeoff , but for some other , perhaps not so much .</Lemma>
+	</Sentence>
+	<Sentence id="88">
+		<Tokens>Obviously , it 's just a matter of priorities and personal preferences .</Tokens>
+		<POS>RB , PRP VBZ RB DT NN IN NNS CC JJ NNS .</POS>
+		<Lemma>obviously , it be just a matter of priority and personal preference .</Lemma>
+	</Sentence>
+	<Sentence id="89">
+		<Tokens>You really ca n't have everything .</Tokens>
+		<POS>PRP RB MD RB VB NN .</POS>
+		<Lemma>you really can not have everything .</Lemma>
+	</Sentence>
+	<Sentence id="90">
+		<Tokens>In bright light , the A65 is going to outresolve both the new Canon EOS 1Dx and the Nikon D4 for lots less money , and some Canon devotees are upset about potentially spending 7-8 grand when this new pro camera comes out , and getting only 18 MP worth of detail .</Tokens>
+		<POS>IN JJ NN , DT NN VBZ VBG TO VB CC DT JJ NNP NNP NN CC DT NNP NN IN NNS JJR NN , CC DT NNP NNS VBP JJ IN RB VBG CD JJ WRB DT JJ JJ NN VBZ RP , CC VBG RB CD NN NN IN NN .</POS>
+		<Lemma>in bright light , the a65 be go to outresolve both the new Canon EOS 1dx and the Nikon d4 for lot less money , and some Canon devotee be upset about potentially spend 7-8 grand when this new pro camera come out , and get only 18 mp worth of detail .</Lemma>
+	</Sentence>
+	<Sentence id="91">
+		<Tokens>On the other hand , that camera -LRB- and the new Nikon D4 -RRB- will take good to great pictures in the virtual dark .</Tokens>
+		<POS>IN DT JJ NN , WDT NN -LRB- CC DT JJ NNP NN -RRB- MD VB JJ TO JJ NNS IN DT JJ NN .</POS>
+		<Lemma>on the other hand , that camera -lrb- and the new Nikon d4 -rrb- will take good to great picture in the virtual dark .</Lemma>
+	</Sentence>
+	<Sentence id="92">
+		<Tokens>If you love to shoot in very low light , get one of the new Nikon or Canon full frame cameras -LRB- just bring a truckload of money for the camera and lens systems ! -RRB-</Tokens>
+		<POS>IN PRP VBP TO VB IN RB JJ NN , VB CD IN DT JJ NNP CC NNP JJ NN NNS -LRB- RB VB DT NN IN NN IN DT NN CC NN NNS . -RRB-</POS>
+		<Lemma>if you love to shoot in very low light , get one of the new Nikon or Canon full frame camera -lrb- just bring a truckload of money for the camera and lens system ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="93">
+		<Tokens>If you are willing to trade some of the low light ability for 1 -RRB- more compact lenses\/body ; 2 -RRB- much less money than a full frame system ; 3 -RRB- the best video you 've ever seen from a DSLR camera , then this system is for you ... and is a very good deal .</Tokens>
+		<POS>IN PRP VBP JJ TO VB DT IN DT JJ NN NN IN CD -RRB- RBR JJ NN : LS -RRB- RB JJR NN IN DT JJ NN NN : LS -RRB- DT JJS NN PRP VBP RB VBN IN DT NNP NN , RB DT NN VBZ IN PRP : CC VBZ DT RB JJ NN .</POS>
+		<Lemma>if you be willing to trade some of the low light ability for 1 -rrb- more compact lenses\/body ; 2 -rrb- much less money than a full frame system ; 3 -rrb- the best video you have ever see from a DSLR camera , then this system be for you ... and be a very good deal .</Lemma>
+	</Sentence>
+	<Sentence id="94">
+		<Tokens>If you believe -LRB- like some purists -RRB- that HD video is a modern corruption of the original function of SLRs , you probably are n't someone who is going to like Sony 's approach anyway .</Tokens>
+		<POS>IN PRP VBP -LRB- IN DT NNS -RRB- WDT NNP NN VBZ DT JJ NN IN DT JJ NN IN NNS , PRP RB VBP RB NN WP VBZ VBG TO IN NNP POS NN RB .</POS>
+		<Lemma>if you believe -lrb- like some purist -rrb- that HD video be a modern corruption of the original function of slr , you probably be not someone who be go to like Sony 's approach anyway .</Lemma>
+	</Sentence>
+	<Sentence id="95">
+		<Tokens>Bottom line - there is n't another camera for $ 900 -LRB- body only -RRB- that even comes close to this feature set , and with impressive speed and ergonomics .</Tokens>
+		<POS>NN NN : EX VBZ RB DT NN IN $ CD -LRB- NN RB -RRB- WDT RB VBZ RB TO DT NN NN , CC IN JJ NN CC NNS .</POS>
+		<Lemma>bottom line - there be not another camera for $ 900 -lrb- body only -rrb- that even come close to this feature set , and with impressive speed and ergonomics .</Lemma>
+	</Sentence>
+	<Sentence id="96">
+		<Tokens>This is a shot across the bow that both Nikon and Canon are very concerned about .</Tokens>
+		<POS>DT VBZ DT NN IN DT NN IN CC NNP CC NNP VBP RB JJ IN .</POS>
+		<Lemma>this be a shot across the bow that both Nikon and Canon be very concerned about .</Lemma>
+	</Sentence>
+	<Sentence id="97">
+		<Tokens>Anyone who compares this to the Nikon 7000 or the Canon EOS 60D -LRB- two other prosumer models - with the A65 slightly cheaper than either -RRB- has to walk away thinking that the Sony is the better deal - and simply a more capable camera - except in very low light .</Tokens>
+		<POS>NN WP VBZ DT TO DT NNP CD CC DT NNP NNP NN -LRB- CD JJ NN NNS : IN DT NN RB JJR IN DT -RRB- VBZ TO VB RB VBG IN DT NNP VBZ DT JJR NN : CC RB DT RBR JJ NN : IN IN RB JJ NN .</POS>
+		<Lemma>anyone who compare this to the Nikon 7000 or the Canon EOS 60d -lrb- two other prosumer model - with the a65 slightly cheaper than either -rrb- have to walk away think that the Sony be the better deal - and simply a more capable camera - except in very low light .</Lemma>
+	</Sentence>
+	<Sentence id="98">
+		<Tokens>If you 're interested in live view , the live view on this is so much better than the clunky live view on both the Canon and Nikon it 's not even funny .</Tokens>
+		<POS>IN PRP VBP JJ IN JJ NN , DT JJ NN IN DT VBZ RB RB JJR IN DT JJ JJ NN IN CC DT NNP CC NNP PRP VBZ RB RB JJ .</POS>
+		<Lemma>if you be interested in live view , the live view on this be so much better than the clunky live view on both the Canon and Nikon it be not even funny .</Lemma>
+	</Sentence>
+	<Sentence id="99">
+		<Tokens>And one look through their dim optical viewfinders , after you 've used the amazing EVF on the Sony Alpha 65 , and you wo n't be able to go back to Canikon .</Tokens>
+		<POS>CC CD NN IN PRP$ JJ JJ NNS , IN PRP VBP VBN DT JJ NN IN DT NNP NNP CD , CC PRP MD RB VB JJ TO VB RB TO NNP .</POS>
+		<Lemma>and one look through they dim optical viewfinder , after you have use the amazing evf on the Sony Alpha 65 , and you will not be able to go back to Canikon .</Lemma>
+	</Sentence>
+	<Sentence id="100">
+		<Tokens>The viewfinder alone is a paradigm-shifting experience - once you 've used it , optical viewfinders in traditional sub-frame DSLRs seem primitive and confining .</Tokens>
+		<POS>DT NN RB VBZ DT JJ NN : RB PRP VBP VBN PRP , JJ NNS IN JJ JJ NNS VBP JJ CC NN .</POS>
+		<Lemma>the viewfinder alone be a paradigm-shifting experience - once you have use it , optical viewfinder in traditional sub-frame dslr seem primitive and confining .</Lemma>
+	</Sentence>
+	<Sentence id="101">
+		<Tokens>Overall , this is an amazing value - there is no other camera for under a grand that can compete - at least in decent light - with full pro cameras , while beating them all in video quality .</Tokens>
+		<POS>RB , DT VBZ DT JJ NN : EX VBZ DT JJ NN IN IN DT JJ WDT MD VB : IN JJS IN JJ NN : IN JJ JJ NNS , IN VBG PRP DT IN JJ NN .</POS>
+		<Lemma>overall , this be a amazing value - there be no other camera for under a grand that can compete - at least in decent light - with full pro camera , while beat they all in video quality .</Lemma>
+	</Sentence>
+	<Sentence id="102">
+		<Tokens>Videos shot in 60p are just stunning , as are most photos at ISO 100-400 .</Tokens>
+		<POS>NNS VBN IN NN VBP RB JJ , RB VBP RBS NNS IN NN CD .</POS>
+		<Lemma>video shoot in 60p be just stunning , as be most photo at iso 100-400 .</Lemma>
+	</Sentence>
+	<Sentence id="103">
+		<Tokens>If you look at Digital Photography Reviews over the last 18 months -LRB- the closest thing to a definitive reference on the Internet about digital photography -RRB- , they have given four APS-C Sony cameras highly coveted Gold Awards in the last year and a half -LRB- the Alpha 65 , Alpha 55 -LRB- its predecessor which also won Camera of the Year from Popular Photography in 2010 -RRB- , the NEX 5N , and just recently , the NEX 7 .</Tokens>
+		<POS>IN PRP VBP IN NNP NNP NNPS IN DT JJ CD NNS -LRB- DT JJS NN TO DT JJ NN IN DT NN IN JJ NN -RRB- , PRP VBP VBN CD NN NNP NNS RB VBD NNP NNS IN DT JJ NN CC DT NN -LRB- DT NN CD , NN CD -LRB- PRP$ NN WDT RB VBD NNP IN DT NN IN NNP NNP IN CD -RRB- , DT NNP NN , CC RB RB , DT NN CD .</POS>
+		<Lemma>if you look at Digital Photography Reviews over the last 18 month -lrb- the closest thing to a definitive reference on the internet about digital photography -rrb- , they have give four aps-c Sony camera highly covet Gold award in the last year and a half -lrb- the alpha 65 , alpha 55 -lrb- its predecessor which also win Camera of the year from Popular Photography in 2010 -rrb- , the NEX 5n , and just recently , the nex 7 .</Lemma>
+	</Sentence>
+	<Sentence id="104">
+		<Tokens>They have also given four Silver Awards to Sony -LRB- the NEX 3C , the Alpha 77 and Alpha 35 , another silver to the more traditional DSLR Alpha A580 -RRB- .</Tokens>
+		<POS>PRP VBP RB VBN CD NN NNS TO NNP -LRB- DT NN NN , DT NNP CD CC NNP CD , DT NN TO DT RBR JJ NNP NNP NN -RRB- .</POS>
+		<Lemma>they have also give four silver award to Sony -lrb- the nex 3c , the Alpha 77 and Alpha 35 , another silver to the more traditional DSLR Alpha a580 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="105">
+		<Tokens>Four Silver and four Gold Awards in 18 months .</Tokens>
+		<POS>CD NN CC CD NN NNS IN CD NNS .</POS>
+		<Lemma>four silver and four gold award in 18 month .</Lemma>
+	</Sentence>
+	<Sentence id="106">
+		<Tokens>NO OTHER CAMERA MANUFACTURER HAS EVEN BEEN WITHIN SPITTING DISTANCE OF THIS PERFORMANCE ON THE PODIUM IN THE LAST YEAR OR TWO .</Tokens>
+		<POS>DT NNP NNP NNP VBZ RB JJ IN VBG NN IN NNP NN IN DT NN IN DT NN NN NN CD .</POS>
+		<Lemma>no OTHER CAMERA MANUFACTURER have even been within spit distance of THIS performance on the podium in the last year or two .</Lemma>
+	</Sentence>
+	<Sentence id="107">
+		<Tokens>If you put all of Nikon 's and Canon 's awards in the DSLR and APS-C classes together during the same period , they are n't even close to this medal haul .</Tokens>
+		<POS>IN PRP VBP DT IN NNP POS CC NNP POS NNS IN DT NN CC NN NNS RB IN DT JJ NN , PRP VBP RB RB VB TO DT NN NN .</POS>
+		<Lemma>if you put all of Nikon 's and Canon 's award in the dslr and aps-c class together during the same period , they be not even close to this medal haul .</Lemma>
+	</Sentence>
+	<Sentence id="108">
+		<Tokens>This suggests that a subtle but real shift of power is taking place in digital photography .</Tokens>
+		<POS>DT VBZ IN DT JJ CC JJ NN IN NN VBZ VBG NN IN JJ NN .</POS>
+		<Lemma>this suggest that a subtle but real shift of power be take place in digital photography .</Lemma>
+	</Sentence>
+	<Sentence id="109">
+		<Tokens>Although professionals still clearly gravitate toward the Big Two -LRB- where Sony has been seen as an interesting distraction and lightweight -RRB- , there is increasing reason now to seriously consider Sony , at least in the APS-C segment .</Tokens>
+		<POS>IN NNS RB RB VB IN DT JJ CD -LRB- WRB NNP VBZ VBN VBN IN DT JJ NN CC JJ -RRB- , EX VBZ VBG NN RB TO RB VB NNP , IN JJS IN DT NN NN .</POS>
+		<Lemma>although professional still clearly gravitate toward the big two -lrb- where Sony have be see as a interesting distraction and lightweight -rrb- , there be increase reason now to seriously consider Sony , at least in the aps-c segment .</Lemma>
+	</Sentence>
+	<Sentence id="110">
+		<Tokens>Most believe that Sony is now making the best compact ILC cameras -LRB- the NEX series -RRB- , and starting to challenge Canon and Nikon in areas of their traditional dominance .</Tokens>
+		<POS>JJS VBP IN NNP VBZ RB VBG DT JJS JJ NNP NNS -LRB- DT NN NN -RRB- , CC VBG TO VB NNP CC NNP IN NNS IN PRP$ JJ NN .</POS>
+		<Lemma>most believe that Sony be now make the best compact ILC camera -lrb- the nex series -rrb- , and start to challenge Canon and Nikon in area of they traditional dominance .</Lemma>
+	</Sentence>
+	<Sentence id="111">
+		<Tokens>In the space of just over one year , Sony has made traditional DSLRs look clunky , limiting and ... well , almost obsolete .</Tokens>
+		<POS>IN DT NN IN RB IN CD NN , NNP VBZ VBN JJ NNS VBP JJ , VBG CC : RB , RB JJ .</POS>
+		<Lemma>in the space of just over one year , Sony have make traditional dslr look clunky , limit and ... well , almost obsolete .</Lemma>
+	</Sentence>
+	<Sentence id="112">
+		<Tokens>Unless you are ideologically married to an optical viewfinder - or shoot in the virtual dark - you 'll love this camera .</Tokens>
+		<POS>IN PRP VBP RB VBN TO DT JJ NN : CC VB IN DT JJ NN : PRP MD VB DT NN .</POS>
+		<Lemma>unless you be ideologically marry to a optical viewfinder - or shoot in the virtual dark - you 'll love this camera .</Lemma>
+	</Sentence>
+	<Sentence id="113">
+		<Tokens>There is nothing better in the APS-C segment right now .</Tokens>
+		<POS>EX VBZ NN JJR IN DT NN NN RB RB .</POS>
+		<Lemma>there be nothing better in the aps-c segment right now .</Lemma>
+	</Sentence>
+	<Sentence id="114">
+		<Tokens>As far as the high-end full frame pro market is concerned , let 's see how the upcoming full frame Sony A99 stacks up against the full frame Canon 5D Mark III and the new Nikon D800 -LRB- all in the pricy 3-grand-and-up range -RRB- .</Tokens>
+		<POS>IN RB IN DT JJ JJ NN JJ NN VBZ VBN , VB POS VB WRB DT VBG JJ NN NNP NNP VBZ RP IN DT JJ NN NNP NNP NNP NNP CC DT JJ NNP NN -LRB- DT IN DT NN JJ NN -RRB- .</POS>
+		<Lemma>as far as the high-end full frame pro market be concern , let 's see how the upcome full frame Sony A99 stack up against the full frame Canon 5D Mark III and the new Nikon d800 -lrb- all in the pricy 3-grand-and-up range -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="115">
+		<Tokens>Although Canikon have completely dominated that market , they may finally have some serious competition , even in the pro territory .</Tokens>
+		<POS>IN NN VBP RB VBN IN NN , PRP MD RB VB DT JJ NN , RB IN DT JJ NN .</POS>
+		<Lemma>although canikon have completely dominate that market , they may finally have some serious competition , even in the pro territory .</Lemma>
+	</Sentence>
+	<Sentence id="116">
+		<Tokens>April 2012 UPDATE Several interesting new developments .</Tokens>
+		<POS>NNP CD NNP JJ JJ JJ NNS .</POS>
+		<Lemma>April 2012 UPDATE several interesting new development .</Lemma>
+	</Sentence>
+	<Sentence id="117">
+		<Tokens>First of all , the new Nikon D800 has blown away the competition in terms of resolution , and with surprisingly good low light abilities too - might be the best sensor residing in any camera including medium format -LRB- and most people believe it 's a Sony sensor too , probably roughly the same sensor as the new Sony A99 will have , with different microlenses -RRB- .</Tokens>
+		<POS>NNP IN DT , DT JJ NNP NN VBZ VBN RP DT NN IN NNS IN NN , CC IN RB JJ JJ NN NNS RB : MD VB DT JJS NN VBG IN DT NN VBG NN NN -LRB- CC JJS NNS VBP PRP VBZ DT NNP NN RB , RB RB DT JJ NN IN DT JJ NNP NN MD VB , IN JJ NNS -RRB- .</POS>
+		<Lemma>First of all , the new Nikon d800 have blow away the competition in term of resolution , and with surprisingly good low light ability too - might be the best sensor reside in any camera include medium format -lrb- and most people believe it be a Sony sensor too , probably roughly the same sensor as the new Sony a99 will have , with different microlens -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="118">
+		<Tokens>Just need 3 grand to get the Nikon D800 body -LRB- and $ 3400 for the Canon 5D Mark III -RRB- , making the A65 still the best deal for almost the same level of detail , at least in decent to moderate light .</Tokens>
+		<POS>RB VB CD JJ TO VB DT NNP NN NN -LRB- CC $ CD IN DT NNP NNP NNP NNP -RRB- , VBG DT NN RB DT JJS NN IN RB DT JJ NN IN NN , IN JJS IN JJ TO JJ NN .</POS>
+		<Lemma>just need 3 grand to get the Nikon d800 body -lrb- and $ 3400 for the Canon 5D Mark III -rrb- , make the a65 still the best deal for almost the same level of detail , at least in decent to moderate light .</Lemma>
+	</Sentence>
+	<Sentence id="119">
+		<Tokens>These two new cameras are about 1.5 -LRB- Nikon -RRB- to 2 stops -LRB- Canon -RRB- better in terms of noise than the A65\/77 , but it will be really interesting to see what the new full frame Sony A99 brings to this heated up pro camera territory - sometime this summer or fall .</Tokens>
+		<POS>DT CD JJ NNS VBP IN CD -LRB- NNP -RRB- TO CD NNS -LRB- NN -RRB- RBR IN NNS IN NN IN DT NN , CC PRP MD VB RB JJ TO VB WP DT JJ JJ NN NNP NNP VBZ TO DT VBN RP JJ NN NN : RB DT NN CC NN .</POS>
+		<Lemma>these two new camera be about 1.5 -lrb- Nikon -rrb- to 2 stop -lrb- canon -rrb- better in term of noise than the a65\/77 , but it will be really interesting to see what the new full frame Sony A99 bring to this heat up pro camera territory - sometime this summer or fall .</Lemma>
+	</Sentence>
+	<Sentence id="120">
+		<Tokens>Sony will have its work cut out for them , given the kind of initial reviews that both the new Nikon and Canon FF -LRB- full frame -RRB- cameras are getting .</Tokens>
+		<POS>NNP MD VB PRP$ NN VBD RP IN PRP , VBN DT NN IN JJ NNS WDT CC DT JJ NNP CC NNP NN -LRB- JJ NN -RRB- NNS VBP VBG .</POS>
+		<Lemma>Sony will have its work cut out for they , give the kind of initial review that both the new Nikon and Canon ff -lrb- full frame -rrb- camera be get .</Lemma>
+	</Sentence>
+	<Sentence id="121">
+		<Tokens>You will see a full review of both the Canon 5D MkIII and Nikon D800 on Digital Photography Reviews website soon .</Tokens>
+		<POS>PRP MD VB DT JJ NN IN CC DT NNP NN NN CC NNP NN IN NNP NNP NNP NN RB .</POS>
+		<Lemma>you will see a full review of both the Canon 5d mkiius and Nikon d800 on Digital Photography Reviews website soon .</Lemma>
+	</Sentence>
+	<Sentence id="122">
+		<Tokens>I expect them both to easily secure Gold Awards .</Tokens>
+		<POS>PRP VBP PRP DT TO RB VB NNP NNS .</POS>
+		<Lemma>I expect they both to easily secure Gold award .</Lemma>
+	</Sentence>
+	<Sentence id="123">
+		<Tokens>Pressure will be on Sony to hold serve .</Tokens>
+		<POS>NN MD VB IN NNP TO VB VB .</POS>
+		<Lemma>pressure will be on Sony to hold serve .</Lemma>
+	</Sentence>
+	<Sentence id="124">
+		<Tokens>The problem is , historically anyway , Sony is not really into competing in the high-end pro FF arena - two cameras there over the last 5-6 years compared to , what , 10-12 FF Canikons ?</Tokens>
+		<POS>DT NN VBZ , RB RB , NNP VBZ RB RB IN VBG IN DT JJ JJ NN NN : CD NNS RB IN DT JJ CD NNS VBN TO , WP , CD NN NNS .</POS>
+		<Lemma>the problem be , historically anyway , Sony be not really into compete in the high-end pro ff arena - two camera there over the last 5-6 year compare to , what , 10-12 ff canikon ?</Lemma>
+	</Sentence>
+	<Sentence id="125">
+		<Tokens>Sony appears to have decided that APS-C is its preferred market .</Tokens>
+		<POS>NNP VBZ TO VB VBN IN NN VBZ PRP$ JJ NN .</POS>
+		<Lemma>Sony appear to have decide that aps-c be its preferred market .</Lemma>
+	</Sentence>
+	<Sentence id="126">
+		<Tokens>Hope they really give a full effort on a new FF A99 .</Tokens>
+		<POS>NNP PRP RB VBP DT JJ NN IN DT JJ NN NN .</POS>
+		<Lemma>Hope they really give a full effort on a new ff a99 .</Lemma>
+	</Sentence>
+	<Sentence id="127">
+		<Tokens>Could be something special .</Tokens>
+		<POS>MD VB NN JJ .</POS>
+		<Lemma>could be something special .</Lemma>
+	</Sentence>
+	<Sentence id="128">
+		<Tokens>On the home front , the new Sony firmware 1.05 -LRB- for both the A65\/77 -RRB- is a huge improvement in several areas - it -LRB- mostly -RRB- resolves the overexposure problem in ADI flash mode , speeds up picture preview -LRB- it 's now virtually instantaneous -RRB- , provides correction profiles for some additional Sony lenses -LRB- distortion , chromatic aberration , and vignetting corrections -RRB- including the 70-300 mm G -LRB- pro -RRB- telephoto -LRB- good news for me simply because I own that lens -RRB- , and fixes a few other items .</Tokens>
+		<POS>IN DT NN NN , DT JJ NNP NN CD -LRB- IN CC DT NN -RRB- VBZ DT JJ NN IN JJ NNS : PRP -LRB- RB -RRB- VBZ DT NN NN IN NNP VBP NN , NNS IN NN NN -LRB- PRP VBZ RB RB JJ -RRB- , VBZ NN NNS IN DT JJ NNP NNS -LRB- NN , JJ NN , CC VBG NNS -RRB- VBG DT CD NN NN -LRB- NN -RRB- NN -LRB- JJ NN IN PRP RB IN PRP VBP IN NN -RRB- , CC NNS DT JJ JJ NNS .</POS>
+		<Lemma>on the home front , the new Sony firmware 1.05 -lrb- for both the a65\/77 -rrb- be a huge improvement in several area - it -lrb- mostly -rrb- resolve the overexposure problem in ADI flash mode , speed up picture preview -lrb- it be now virtually instantaneous -rrb- , provide correction profile for some additional Sony lens -lrb- distortion , chromatic aberration , and vignet correction -rrb- include the 70-300 mm g -lrb- pro -rrb- telephoto -lrb- good news for I simply because I own that lens -rrb- , and fix a few other item .</Lemma>
+	</Sentence>
+	<Sentence id="129">
+		<Tokens>The speed of preview is really impressive .</Tokens>
+		<POS>DT NN IN NN VBZ RB JJ .</POS>
+		<Lemma>the speed of preview be really impressive .</Lemma>
+	</Sentence>
+	<Sentence id="130">
+		<Tokens>As soon as you finish the shot , it is available for review on the LCD .</Tokens>
+		<POS>RB RB IN PRP VBP DT NN , PRP VBZ JJ IN NN IN DT NNS .</POS>
+		<Lemma>as soon as you finish the shot , it be available for review on the lcd .</Lemma>
+	</Sentence>
+	<Sentence id="131">
+		<Tokens>Shutdown is MUCH quicker .</Tokens>
+		<POS>NN VBZ NNP JJR .</POS>
+		<Lemma>shutdown be MUCH quicker .</Lemma>
+	</Sentence>
+	<Sentence id="132">
+		<Tokens>Nice job Sony .</Tokens>
+		<POS>JJ NN NNP .</POS>
+		<Lemma>nice job Sony .</Lemma>
+	</Sentence>
+	<Sentence id="133">
+		<Tokens>June 2012 UPDATE Not surprisingly , both the new Canon 5D Mark III and the Nikon D800 easily secured Gold awards on DP Reviews .</Tokens>
+		<POS>NNP CD NNP RB RB , CC DT JJ NNP NNP NNP NNP CC DT NNP NN RB VBN NN NNS IN NN NNS .</POS>
+		<Lemma>June 2012 UPDATE not surprisingly , both the new Canon 5D Mark III and the Nikon d800 easily secure gold award on dp review .</Lemma>
+	</Sentence>
+	<Sentence id="134">
+		<Tokens>I think just to avoid controversy and bickering between the two camps , they gave them both the identical score -LRB- 82 -RRB- .</Tokens>
+		<POS>PRP VBP RB TO VB NN CC NN IN DT CD NNS , PRP VBD PRP CC DT JJ NN -LRB- CD -RRB- .</POS>
+		<Lemma>I think just to avoid controversy and bickering between the two camp , they give they both the identical score -lrb- 82 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="135">
+		<Tokens>Sony 's full frame A99 however appears delayed and probably is not going to be out this summer .</Tokens>
+		<POS>NNP POS JJ NN NN RB VBZ VBN CC RB VBZ RB VBG TO VB IN DT NN .</POS>
+		<Lemma>Sony 's full frame a99 however appear delay and probably be not go to be out this summer .</Lemma>
+	</Sentence>
+	<Sentence id="136">
+		<Tokens>I continue to be impressed overall with the A65 and have now taken at least 8000 pictures .</Tokens>
+		<POS>PRP VBP TO VB JJ JJ IN DT NN CC VBP RB VBN IN JJS CD NNS .</POS>
+		<Lemma>I continue to be impressed overall with the a65 and have now take at least 8000 picture .</Lemma>
+	</Sentence>
+	<Sentence id="137">
+		<Tokens>Clearly the one Achilles ' heel of the Sony A65\/77 is low light noise , particularly above ISO 1600 .</Tokens>
+		<POS>RB DT CD NNPS POS NN IN DT NNP NN VBZ JJ NN NN , RB IN NN CD .</POS>
+		<Lemma>clearly the one Achilles ' heel of the Sony a65\/77 be low light noise , particularly above iso 1600 .</Lemma>
+	</Sentence>
+	<Sentence id="138">
+		<Tokens>However , with the current 16-50 2.8 lens -LRB- with F4 being very sharp -RRB- , I get a full two stop advantage , relative to a typical kit lens which has to be stopped down to get really sharp , which pretty much balances out the two stop noise disadvantage that this camera has relative to a full frame camera like the Nikon D800 or Canon 5D Mark III -LRB- shooting at F8 -RRB- .</Tokens>
+		<POS>RB , IN DT JJ CD CD NN -LRB- IN NN VBG RB JJ -RRB- , PRP VBP DT JJ CD NN NN , JJ TO DT JJ NN NN WDT VBZ TO VB VBN RP TO VB RB JJ , WDT RB RB VBZ RP DT CD NN NN NN IN DT NN VBZ JJ TO DT JJ NN NN IN DT NNP NN CC NNP NNP NNP NNP -LRB- NN IN NN -RRB- .</POS>
+		<Lemma>however , with the current 16-50 2.8 lens -lrb- with f4 be very sharp -rrb- , I get a full two stop advantage , relative to a typical kit lens which have to be stop down to get really sharp , which pretty much balance out the two stop noise disadvantage that this camera have relative to a full frame camera like the Nikon d800 or Canon 5D Mark III -lrb- shooting at f8 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="139">
+		<Tokens>There are a few times when I wish the camera had somewhat better performance at ISO 3200 , and certainly the RAW files have significant noise at that setting , but Sony 's RAW editing software can potentially do a pretty good job with even those somewhat noisy files in terms of cleaning up the noise without losing all the fine detail .</Tokens>
+		<POS>EX VBP DT JJ NNS WRB PRP VBP DT NN VBD RB JJR NN IN NN CD , CC RB DT NN NNS VBP JJ NN IN DT NN , CC NNP POS NN NN NN MD RB VB DT RB JJ NN IN RB DT RB JJ NNS IN NNS IN VBG RP DT NN IN VBG PDT DT JJ NN .</POS>
+		<Lemma>there be a few time when I wish the camera have somewhat better performance at iso 3200 , and certainly the raw file have significant noise at that setting , but Sony 's raw editing software can potentially do a pretty good job with even those somewhat noisy file in term of clean up the noise without lose all the fine detail .</Lemma>
+	</Sentence>
+	<Sentence id="140">
+		<Tokens>I think if you want to put the extra time into shoot RAW you can mitigate the low light disadvantage of this sensor , although still this is its one weakness .</Tokens>
+		<POS>PRP VBP IN PRP VBP TO VB DT JJ NN IN NN NN PRP MD VB DT JJ NN NN IN DT NN , IN RB DT VBZ PRP$ CD NN .</POS>
+		<Lemma>I think if you want to put the extra time into shoot raw you can mitigate the low light disadvantage of this sensor , although still this be its one weakness .</Lemma>
+	</Sentence>
+	<Sentence id="141">
+		<Tokens>Again if you are shooting in bright conditions , or using flash , this really never is an issue .</Tokens>
+		<POS>RB IN PRP VBP VBG IN JJ NNS , CC VBG NN , DT RB RB VBZ DT NN .</POS>
+		<Lemma>again if you be shoot in bright condition , or use flash , this really never be a issue .</Lemma>
+	</Sentence>
+</Document>

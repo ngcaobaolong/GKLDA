@@ -1,0 +1,122 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This Panasonic Lumix DMC-S3 replaces BOTH an older Kodak EasyShare and Fuji-Finepix Point Shoot budget digital cameras .</Tokens>
+		<POS>DT NNP NNP NN VBZ DT DT JJR NNP NNP CC NNP NNP CC NNP NN JJ NNS .</POS>
+		<Lemma>this Panasonic Lumix dmc-s3 replace both a older Kodak EasyShare and Fuji-Finepix Point Shoot budget digital camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is small and compact fits well in the hand .</Tokens>
+		<POS>PRP VBZ JJ CC JJ NNS RB IN DT NN .</POS>
+		<Lemma>it be small and compact fit well in the hand .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Make sure you use the included wrist strap the camera does n't look like it 's sturdy enough to survive being dropped .</Tokens>
+		<POS>NNP JJ PRP VBP DT VBN NN NN DT NN VBZ RB VB IN PRP VBZ JJ RB TO VB VBG VBN .</POS>
+		<Lemma>Make sure you use the include wrist strap the camera do not look like it be sturdy enough to survive be drop .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Although still in the entry\/budget end of the digital photography spectrum , this camera provides a leap ahead from 3.5 - 5.0 Megapixels to 14.1 MP and is amazing .</Tokens>
+		<POS>IN RB IN DT NN NN IN DT JJ NN NN , DT NN VBZ DT NN RB IN CD : CD NNS TO CD NN CC VBZ JJ .</POS>
+		<Lemma>although still in the entry\/budget end of the digital photography spectrum , this camera provide a leap ahead from 3.5 - 5.0 megapixel to 14.1 mp and be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Outside well-lit pictures are fantastic from this camera .</Tokens>
+		<POS>JJ JJ NNS VBP JJ IN DT NN .</POS>
+		<Lemma>outside well-lit picture be fantastic from this camera .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Inside lighting pictures even with the built-in flash are n't so good .</Tokens>
+		<POS>IN NN NNS RB IN DT JJ NN VBP RB RB JJ .</POS>
+		<Lemma>inside lighting picture even with the built-in flash be not so good .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Even so , this camera is a value buy and offers a lot of good stuff .</Tokens>
+		<POS>RB RB , DT NN VBZ DT NN NN CC VBZ DT NN IN JJ NN .</POS>
+		<Lemma>even so , this camera be a value buy and offer a lot of good stuff .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Due to the improved technology , there 's all these features : a 28mm wide-angle 4x zoom lens , .</Tokens>
+		<POS>JJ TO DT VBN NN , EX VBZ DT DT NNS : DT JJ JJ NN NN NN , .</POS>
+		<Lemma>due to the improve technology , there be all these feature : a 28mm wide-angle 4x zoom lens , .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Optical Image Stabilizer , Intelligent Scene Selector , 2.7 inch LCD screen and 720p HD movie recording .</Tokens>
+		<POS>NNP NN NNP , NNP NNP NNP , CD NN NNS NN CC JJ NN NN NN .</POS>
+		<Lemma>Optical image Stabilizer , Intelligent Scene Selector , 2.7 inch lcd screen and 720p hd movie recording .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The menu and features are intuitive , easy to operate and the pictures are better than those taken with my cell phone .</Tokens>
+		<POS>DT NN CC NNS VBP JJ , JJ TO VB CC DT NNS VBP JJR IN DT VBN IN PRP$ NN NN .</POS>
+		<Lemma>the menu and feature be intuitive , easy to operate and the picture be better than those take with my cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>There 's a selection from four different types of operation : normal , intelligent auto , scene and movie , with standard selection of options .</Tokens>
+		<POS>EX VBZ DT NN IN CD JJ NNS IN NN : JJ , JJ NN , NN CC NN , IN JJ NN IN NNS .</POS>
+		<Lemma>there be a selection from four different type of operation : normal , intelligent auto , scene and movie , with standard selection of option .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The included battery and charger worked fast and well , compared to issues I had with the Kodak and Fuji cameras .</Tokens>
+		<POS>DT VBN NN CC NN VBD RB CC RB , VBN TO NNS PRP VBD IN DT NNP CC NNP NNS .</POS>
+		<Lemma>the include battery and charger work fast and well , compare to issue I have with the Kodak and Fuji camera .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I had problems loading the software so there 's still more `` fiddling '' to do .</Tokens>
+		<POS>PRP VBD NNS VBG DT NN RB EX VBZ RB RBR `` JJ '' TO VB .</POS>
+		<Lemma>I have problem load the software so there be still more `` fiddling '' to do .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I do n't Photo Shop or upload video\/pictures to the internet so I ca n't provide you a review of those activities using this camera or features .</Tokens>
+		<POS>PRP VBP RB NNP NNP CC NN NNS TO DT NN IN PRP MD RB VB PRP DT NN IN DT NNS VBG DT NN CC NNS .</POS>
+		<Lemma>I do not Photo Shop or upload video\/pictures to the internet so I can not provide you a review of those activity use this camera or feature .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>You get good photo shots and HD videos which can be easily uploaded to Social Networking sites like YouTube and Face Book , but I do n't do that .</Tokens>
+		<POS>PRP VBP JJ NN NNS CC NN NNS WDT MD VB RB VBN TO NNP NNP NNS IN NNP CC NNP NNP , CC PRP VBP RB VB DT .</POS>
+		<Lemma>you get good photo shot and hd video which can be easily upload to Social Networking site like YouTube and Face Book , but I do not do that .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I believe the teenagers and young adults will like this camera in any of the colors offered : black , white , purple , blue and red .</Tokens>
+		<POS>PRP VBP DT NNS CC JJ NNS MD VB DT NN IN DT IN DT NNS VBD : JJ , JJ , JJ , JJ CC JJ .</POS>
+		<Lemma>I believe the teenager and young adult will like this camera in any of the color offer : black , white , purple , blue and red .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Included : Battery Charger , Battery Pack , USB Cable , AC Cable , Hand Strap , CD-ROM -- PHOTOfunSTUDIO 6.0 \/ Quick Time \/ Adobe Reader , Built-in Flash , 70MB Memory This camera is something that I 'd easily carry around with me everyday .</Tokens>
+		<POS>VBN : NNP NNP , NNP NNP , JJ NNP , NN NNP , NNP NNP , NN : NN CD : NNP NNP : NNP NNP , JJ NNP , NNP NN DT NN VBZ NN IN PRP MD RB VB RP IN PRP JJ .</POS>
+		<Lemma>include : Battery Charger , Battery Pack , usb Cable , ac Cable , Hand Strap , cd-rom -- photofunstudio 6.0 \/ Quick Time \/ Adobe Reader , built-in Flash , 70MB memory this camera be something that I would easily carry around with I everyday .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I believe there 's a memory card and another battery to be ordered as the summer approaches : -RRB- UPDATE 6\/25\/2011 : Getting Panasonic Accessories is difficult whether through Panasonic , Amazon , Adorama , BHPhoto , AR Photo , Willoghby 's et al ... not sure if it 's Japan 's tsunami and nuclear meltdown OR if the product is being discontinued .</Tokens>
+		<POS>PRP VBP EX VBZ DT NN NN CC DT NN TO VB VBN IN DT NN NNS : -RRB- VBP CD : VBG NNP NNP VBZ JJ IN IN NNP , NNP , NNP , NNP , NNP NNP , NNP POS FW FW : RB JJ IN PRP VBZ NNP POS NN CC JJ NN NN IN DT NN VBZ VBG VBN .</POS>
+		<Lemma>I believe there be a memory card and another battery to be order as the summer approach : -rrb- update 6\/25\/2011 : get Panasonic Accessories be difficult whether through Panasonic , Amazon , Adorama , BHPhoto , AR Photo , Willoghby 's et al ... not sure if it be Japan 's tsunami and nuclear meltdown or if the product be be discontinue .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>It 's a bit disconcerting when Panasonic Technical Support says `` you do n't need the AC adaptor anyway , just get another battery and keep them both charged .</Tokens>
+		<POS>PRP VBZ DT NN JJ WRB NNP NNP NN VBZ `` PRP VBP RB VB DT NN NN RB , RB VB DT NN CC VB PRP DT VBN .</POS>
+		<Lemma>it be a bit disconcerting when Panasonic Technical support say `` you do not need the ac adaptor anyway , just get another battery and keep they both charge .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>That 's what we do here . ''</Tokens>
+		<POS>DT VBZ WP PRP VBP RB . ''</POS>
+		<Lemma>that be what we do here . ''</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Comparison shop for the battery\/battery pack for a decent price ; the range is from $ 14 - $ 50 .</Tokens>
+		<POS>NN NN IN DT NN NN IN DT JJ NN : DT NN VBZ IN $ CD : $ CD .</POS>
+		<Lemma>comparison shop for the battery\/battery pack for a decent price ; the range be from $ 14 - $ 50 .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>The audio-visual cable is no where to be found and\/or back-ordered for up to THREE WEEKS and the vendors will be charging your card as soon as you order it NOT when the item ships .</Tokens>
+		<POS>DT JJ NN VBZ DT WRB TO VB VBN CC VBN IN RB TO CD NNS CC DT NNS MD VB VBG PRP$ NN RB RB IN PRP VBP PRP RB WRB DT NN NNS .</POS>
+		<Lemma>the audio-visual cable be no where to be find and\/or back-order for up to three week and the vendor will be charge you card as soon as you order it not when the item ship .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I was even willing to spring for a Camera Accessories Bundle , hoping I could snag desired items at a decent price .</Tokens>
+		<POS>PRP VBD RB JJ TO NN IN DT NNP NNP NNP , VBG PRP MD NN VBN NNS IN DT JJ NN .</POS>
+		<Lemma>I be even willing to spring for a Camera Accessories Bundle , hope I could snag desire item at a decent price .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Ca n't find one for this LUMIX model : - -LRB-</Tokens>
+		<POS>NN RB VB CD IN DT NNP NN : : -LRB-</POS>
+		<Lemma>ca not find one for this LUMIX model : - -lrb-</Lemma>
+	</Sentence>
+</Document>

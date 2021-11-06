@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great replacement at great price for an older bulky and heavy monitor .</Tokens>
+		<POS>JJ NN IN JJ NN IN DT JJR JJ CC JJ NN .</POS>
+		<Lemma>great replacement at great price for a older bulky and heavy monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Color and contrast are perfect for my needs .</Tokens>
+		<POS>NNP CC NN VBP JJ IN PRP$ NNS .</POS>
+		<Lemma>Color and contrast be perfect for my need .</Lemma>
+	</Sentence>
+</Document>

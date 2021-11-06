@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I returned this item because in did not like the quality of the pics .</Tokens>
+		<POS>PRP VBD DT NN IN IN VBD RB VB DT NN IN DT NNS .</POS>
+		<Lemma>I return this item because in do not like the quality of the pic .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's an entry level digital camera , and i got what i paid for .</Tokens>
+		<POS>PRP VBZ DT NN NN JJ NN , CC FW VBD WP FW VBN IN .</POS>
+		<Lemma>it be a entry level digital camera , and i get what i pay for .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But if you understand just a little bit of photography , i recomend you to run away from this camera .</Tokens>
+		<POS>CC IN PRP VBP RB DT JJ NN IN NN , FW VB PRP TO VB RB IN DT NN .</POS>
+		<Lemma>but if you understand just a little bit of photography , i recomend you to run away from this camera .</Lemma>
+	</Sentence>
+</Document>

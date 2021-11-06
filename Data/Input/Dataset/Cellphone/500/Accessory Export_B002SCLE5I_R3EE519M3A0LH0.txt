@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Did n't work for me ... even with two of those at the same time .</Tokens>
+		<POS>VBD RB VB IN PRP : RB IN CD IN DT IN DT JJ NN .</POS>
+		<Lemma>do not work for I ... even with two of those at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I live in Los Angeles and just did n't get me any more bars !!</Tokens>
+		<POS>PRP VBP IN NNP NNP CC RB VBD RB VB PRP DT JJR NNS IN</POS>
+		<Lemma>I live in Los Angeles and just do not get I any more bar !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+</Document>

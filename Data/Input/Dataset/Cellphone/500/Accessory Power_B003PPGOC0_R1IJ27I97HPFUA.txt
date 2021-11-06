@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Easy to use and my wife said it sounded very clear on the other end .</Tokens>
+		<POS>NNP TO VB CC PRP$ NN VBD PRP VBD RB JJ IN DT JJ NN .</POS>
+		<Lemma>Easy to use and my wife say it sound very clear on the other end .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I drive an Odyssey and it 's installed bellow the cup holder .</Tokens>
+		<POS>PRP VBP DT NN CC PRP VBZ VBN IN DT NN NN .</POS>
+		<Lemma>I drive a odyssey and it be install bellow the cup holder .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That was my only concern because of the distance between the unit and where I would speak .</Tokens>
+		<POS>DT VBD PRP$ JJ NN IN IN DT NN IN DT NN CC WRB PRP MD VB .</POS>
+		<Lemma>that be my only concern because of the distance between the unit and where I would speak .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But so far it works great even where it is located .</Tokens>
+		<POS>CC RB RB PRP VBZ JJ RB WRB PRP VBZ JJ .</POS>
+		<Lemma>but so far it work great even where it be located .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>She liked it and I bought another one for her car .</Tokens>
+		<POS>PRP VBD PRP CC PRP VBD DT CD IN PRP$ NN .</POS>
+		<Lemma>she like it and I buy another one for she car .</Lemma>
+	</Sentence>
+</Document>

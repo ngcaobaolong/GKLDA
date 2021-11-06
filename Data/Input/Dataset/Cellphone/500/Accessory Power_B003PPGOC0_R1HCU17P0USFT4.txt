@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this item to work with my HTC Android phone and though it took a couple of tries to get the bluetooth pairing to connect initially , it now connects flawlessly without any setup other than just turning it on .</Tokens>
+		<POS>PRP VBD DT NN TO VB IN PRP$ NNP NNP NN CC IN PRP VBD DT NN IN VBZ TO VB DT NN NN TO VB RB , PRP RB VBZ RB IN DT NN JJ IN RB VBG PRP IN .</POS>
+		<Lemma>I purchase this item to work with my HTC Android phone and though it take a couple of try to get the bluetooth pairing to connect initially , it now connect flawlessly without any setup other than just turn it on .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I certainly give it very high marks for ease of use .</Tokens>
+		<POS>PRP RB VBP PRP RB JJ NNS IN NN IN NN .</POS>
+		<Lemma>I certainly give it very high mark for ease of use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The hands-free calling is also just as easy to use and I absolutely love that feature .</Tokens>
+		<POS>DT JJ NN VBZ RB RB IN JJ TO VB CC PRP RB VBP IN NN .</POS>
+		<Lemma>the hands-free calling be also just as easy to use and I absolutely love that feature .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only reason I gave it 4 stars instead of 5 is because even though the last-used radio station is stored so that when you turn it off and back on again you do n't have to change the station settings , the volume setting resets each time you turn it off .</Tokens>
+		<POS>DT JJ NN PRP VBD PRP CD NNS RB IN CD VBZ IN RB IN DT JJ NN NN VBZ VBN RB IN WRB PRP VBP PRP RB CC RB IN RB PRP VBP RB VB TO VB DT NN NNS , DT NN NN VBZ DT NN PRP VBP PRP RP .</POS>
+		<Lemma>the only reason I give it 4 star instead of 5 be because even though the last-used radio station be store so that when you turn it off and back on again you do not have to change the station setting , the volume setting reset each time you turn it off .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Though that is annoying , I still would recommend this product to anyone .</Tokens>
+		<POS>IN DT VBZ JJ , PRP RB MD VB DT NN TO NN .</POS>
+		<Lemma>though that be annoying , I still would recommend this product to anyone .</Lemma>
+	</Sentence>
+</Document>

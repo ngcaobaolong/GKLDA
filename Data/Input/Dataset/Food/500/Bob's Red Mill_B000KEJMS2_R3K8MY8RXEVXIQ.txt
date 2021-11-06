@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bob 's Red Mill Red Lentils , are not really Red upon closer examination , they are more pink , but I think calling them Pink Lentils would infuriate many people for reasons having to do with the role of masculinity in society .</Tokens>
+		<POS>NNP POS NNP NNP NNP NNPS , VBP RB RB JJ IN JJR NN , PRP VBP RBR JJ , CC PRP VBP VBG PRP NNP NNP MD VB JJ NNS IN NNS VBG TO VB IN DT NN IN NN IN NN .</POS>
+		<Lemma>Bob 's Red Mill Red Lentils , be not really red upon closer examination , they be more pink , but I think call they Pink Lentils would infuriate many people for reason have to do with the role of masculinity in society .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not many men would eat Pink Lentils , I myself , would n't mind , since I am colorblind .</Tokens>
+		<POS>RB JJ NNS MD VB NNP NNP , PRP PRP , MD RB VB , IN PRP VBP JJ .</POS>
+		<Lemma>not many man would eat Pink Lentils , I myself , would not mind , since I be colorblind .</Lemma>
+	</Sentence>
+</Document>

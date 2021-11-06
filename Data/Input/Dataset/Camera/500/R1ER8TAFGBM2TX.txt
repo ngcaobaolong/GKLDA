@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Limited time and knowing the only way I could really test some of these functions would be in the shower or bathtub -LRB- that is an ugly image -RRB- I loaned this to a guy I know who shoots video all over the world for a living .</Tokens>
+		<POS>JJ NN CC VBG DT JJ NN PRP MD RB VB DT IN DT NNS MD VB IN DT NN CC NN -LRB- DT VBZ DT JJ NN -RRB- PRP VBD DT TO DT NN PRP VBP WP VBZ NN DT IN DT NN IN DT NN .</POS>
+		<Lemma>limited time and know the only way I could really test some of these function would be in the shower or bathtub -lrb- that be a ugly image -rrb- I loan this to a guy I know who shoot video all over the world for a living .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Here is his review word for word : The Kodak ... makes good still and video images and the built-in microphone is adequate for close to camera sound capture .</Tokens>
+		<POS>RB VBZ PRP$ NN NN IN NN : DT NNP : VBZ JJ RB CC NN NNS CC DT JJ NN VBZ JJ IN JJ TO NN NN NN .</POS>
+		<Lemma>here be he review word for word : the Kodak ... make good still and video image and the built-in microphone be adequate for close to camera sound capture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's intuitive user menu , automatic camera settings , and the simplicity of downloading images make the camera easy to use .</Tokens>
+		<POS>PRP VBZ JJ NN NN , JJ NN NNS , CC DT NN IN VBG NNS VBP DT NN JJ TO VB .</POS>
+		<Lemma>it be intuitive user menu , automatic camera setting , and the simplicity of download image make the camera easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The still camera works fine in bright daylight but is slow in lower light situations and can be problematic when it comes to camera or subject motion .</Tokens>
+		<POS>DT RB NN VBZ NN IN JJ NN CC VBZ JJ IN JJR JJ NNS CC MD VB JJ WRB PRP VBZ TO NN CC JJ NN .</POS>
+		<Lemma>the still camera work fine in bright daylight but be slow in lower light situation and can be problematic when it come to camera or subject motion .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Images tend to blur if you are not holding the camera perfectly still .</Tokens>
+		<POS>NNS VBP TO VB IN PRP VBP RB VBG DT NN RB RB .</POS>
+		<Lemma>image tend to blur if you be not hold the camera perfectly still .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The lens itself has a nice wide field of view that makes for good picture composition .</Tokens>
+		<POS>DT NN PRP VBZ DT JJ JJ NN IN NN WDT VBZ IN JJ NN NN .</POS>
+		<Lemma>the lens itself have a nice wide field of view that make for good picture composition .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>As for the underwater capabilities of the camera , I can only recommend using the camera in freshwater at or just below surface level .</Tokens>
+		<POS>IN IN DT JJ NNS IN DT NN , PRP MD RB VB VBG DT NN IN NN IN CC RB IN NN NN .</POS>
+		<Lemma>as for the underwater capability of the camera , I can only recommend use the camera in freshwater at or just below surface level .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It seems to me to be really more of a good splash camera .</Tokens>
+		<POS>PRP VBZ TO PRP TO VB RB JJR IN DT JJ NN NN .</POS>
+		<Lemma>it seem to I to be really more of a good splash camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I tested the camera in a saltwater fish tank and it performed well .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN NN NN CC PRP VBD RB .</POS>
+		<Lemma>I test the camera in a saltwater fish tank and it perform well .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Then I tested it in the spray coming off the bow of a speedboat , and the camera failed .</Tokens>
+		<POS>RB PRP VBD PRP IN DT NN VBG RP DT NN IN DT NN , CC DT NN VBD .</POS>
+		<Lemma>then I test it in the spray come off the bow of a speedboat , and the camera fail .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The camera failed to turn off and none of the function buttons would operate .</Tokens>
+		<POS>DT NN VBD TO VB RP CC NN IN DT NN NNS MD VB .</POS>
+		<Lemma>the camera fail to turn off and none of the function button would operate .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The good thing was that after leaving it to dry for a number of hours and charging the battery back up the camera seemed to work just fine .</Tokens>
+		<POS>DT JJ NN VBD IN IN VBG PRP TO JJ IN DT NN IN NNS CC VBG DT NN RB IN DT NN VBD TO VB RB JJ .</POS>
+		<Lemma>the good thing be that after leave it to dry for a number of hour and charge the battery back up the camera seem to work just fine .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I would recommend this camera for the price point and ease of use but I would be concerned about it 's performance for anything more than very shallow underwater use in a swimming pool or as a splash camera .</Tokens>
+		<POS>PRP MD VB DT NN IN DT NN NN CC NN IN NN CC PRP MD VB VBN IN PRP VBZ NN IN NN JJR IN RB JJ JJ NN IN DT NN NN CC IN DT NN NN .</POS>
+		<Lemma>I would recommend this camera for the price point and ease of use but I would be concern about it be performance for anything more than very shallow underwater use in a swimming pool or as a splash camera .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>From the NON-Professional : As the owner of the camera , I am impressed by the size and weight , as well as the easy to figure out functionality .</Tokens>
+		<POS>IN DT NNP : IN DT NN IN DT NN , PRP VBP VBN IN DT NN CC NN , RB RB IN DT JJ TO VB RP NN .</POS>
+		<Lemma>from the NON-Professional : as the owner of the camera , I be impress by the size and weight , as well as the easy to figure out functionality .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I think for under 200 , this is a great value .</Tokens>
+		<POS>PRP VBP IN IN CD , DT VBZ DT JJ NN .</POS>
+		<Lemma>I think for under 200 , this be a great value .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I like simple , this is simple .</Tokens>
+		<POS>PRP VBP JJ , DT VBZ JJ .</POS>
+		<Lemma>I like simple , this be simple .</Lemma>
+	</Sentence>
+</Document>

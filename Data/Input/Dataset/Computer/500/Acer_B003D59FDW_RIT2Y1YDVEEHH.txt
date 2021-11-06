@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received the monitor in about a week , plugged it in and it 's worked beautifully .</Tokens>
+		<POS>PRP VBD DT NN IN IN DT NN , VBD PRP IN CC PRP VBZ VBN RB .</POS>
+		<Lemma>I receive the monitor in about a week , plug it in and it be work beautifully .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It replaced an ancient CRT monitor and is a baby step for the ultimate replacementof my computer .</Tokens>
+		<POS>PRP VBD DT JJ NNP NN CC VBZ DT NN NN IN DT JJ NN PRP$ NN .</POS>
+		<Lemma>it replace a ancient CRT monitor and be a baby step for the ultimate replacementof my computer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>-LRB- From MS to Mac -RRB- Very pleased with my first computer hardware purchase via Amazon .</Tokens>
+		<POS>-LRB- IN NN TO NNP -RRB- RB JJ IN PRP$ JJ NN NN NN IN NNP .</POS>
+		<Lemma>-lrb- from m to Mac -rrb- very pleased with my first computer hardware purchase via Amazon .</Lemma>
+	</Sentence>
+</Document>

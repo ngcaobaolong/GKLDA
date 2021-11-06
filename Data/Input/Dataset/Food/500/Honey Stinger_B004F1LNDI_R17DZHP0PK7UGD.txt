@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm a big fan of waffles and honey , so when Honey Stinger came up with this product I had to check it out .</Tokens>
+		<POS>PRP VBP DT JJ NN IN NNS CC NN , RB WRB NNP NNP VBD RP IN DT NN PRP VBD TO VB PRP RP .</POS>
+		<Lemma>I be a big fan of waffle and honey , so when Honey Stinger come up with this product I have to check it out .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The taste is delicious - sweet honey and toasted waffle goodness .</Tokens>
+		<POS>DT NN VBZ JJ : JJ NN CC VBD NN NN .</POS>
+		<Lemma>the taste be delicious - sweet honey and toast waffle goodness .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My only complaint is the portion size , which at 1oz left me craving more !</Tokens>
+		<POS>PRP$ JJ NN VBZ DT NN NN , WDT IN CD VBD PRP NN RBR .</POS>
+		<Lemma>my only complaint be the portion size , which at 1oz leave I craving more !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They fit well in a jersey pocket for snacks during long rides and open fairly easily , even while riding .</Tokens>
+		<POS>PRP VBP RB IN DT NN NN IN NNS IN JJ NNS CC JJ RB RB , RB IN VBG .</POS>
+		<Lemma>they fit well in a jersey pocket for snack during long ride and open fairly easily , even while ride .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>All in all , I think they 're a good source of energy for periodic re-fueling .</Tokens>
+		<POS>DT IN DT , PRP VBP PRP VBP DT JJ NN IN NN IN JJ NN .</POS>
+		<Lemma>all in all , I think they be a good source of energy for periodic re-fueling .</Lemma>
+	</Sentence>
+</Document>

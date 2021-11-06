@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this one a few months ago after extensive searching for a solid , well built camera that could create sharp photos and allow considerable creative control .</Tokens>
+		<POS>PRP VBD DT CD DT JJ NNS RB IN JJ VBG IN DT JJ , RB VBN NN WDT MD VB JJ NNS CC VB JJ JJ NN .</POS>
+		<Lemma>I buy this one a few month ago after extensive search for a solid , well build camera that could create sharp photo and allow considerable creative control .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has met my expectations .</Tokens>
+		<POS>PRP VBZ VBN PRP$ NNS .</POS>
+		<Lemma>it have meet my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Its build is definately better than most cameras , and the G12 feels more solid than most entry level DSLRs with bodies or lenses that creak .</Tokens>
+		<POS>PRP$ VB VBZ RB JJR IN JJS NNS , CC DT NN VBZ RBR JJ IN JJS NN NN NNS IN NNS CC NNS WDT VBP .</POS>
+		<Lemma>its build be definately better than most camera , and the g12 feel more solid than most entry level dslr with body or lens that creak .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The 5X zoom covers the vast majority of what I want to do with a camera .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN IN WP PRP VBP TO VB IN DT NN .</POS>
+		<Lemma>the 5x zoom cover the vast majority of what I want to do with a camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The number of exposure options and creative filters are staggering , yet you have the option to set everything for `` auto '' if you prefer .</Tokens>
+		<POS>DT NN IN NN NNS CC JJ NNS VBP JJ , RB PRP VBP DT NN TO VB NN IN `` NN '' IN PRP VBP .</POS>
+		<Lemma>the number of exposure option and creative filter be staggering , yet you have the option to set everything for `` auto '' if you prefer .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I really like the numerous manual control buttons for instant access to items such as ISO settings , exposure compensation , etc. .</Tokens>
+		<POS>PRP RB IN DT JJ NN NN NNS IN JJ NN TO NNS JJ IN NN NNS , NN NN , FW .</POS>
+		<Lemma>I really like the numerous manual control button for instant access to item such as iso setting , exposure compensation , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The control dial is a bit touchy and requires some practice to avoid setting off the wrong function .</Tokens>
+		<POS>DT NN NN VBZ DT NN JJ CC VBZ DT NN TO VB VBG RP DT JJ NN .</POS>
+		<Lemma>the control dial be a bit touchy and require some practice to avoid set off the wrong function .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The ability to fit filters and external flash units is another plus missing from most smaller cameras .</Tokens>
+		<POS>DT NN TO VB NNS CC JJ NN NNS VBZ DT CC VBG IN JJS JJR NNS .</POS>
+		<Lemma>the ability to fit filter and external flash unit be another plus miss from most smaller camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I strongly recommend getting a Canon filter adapter and a 58mm circular polarizer filter -LRB- CPL -RRB- , to naturally enhance color saturation while reducing haze and reflections .</Tokens>
+		<POS>PRP RB VB VBG DT NNP NN NN CC DT JJ JJ NN NN -LRB- NN -RRB- , TO RB VB NN NN IN VBG NN CC NNS .</POS>
+		<Lemma>I strongly recommend get a Canon filter adapter and a 58mm circular polarizer filter -lrb- cpl -rrb- , to naturally enhance color saturation while reduce haze and reflection .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>As for bags , I wanted one that could fit all these accessories , including an extra battery , battery charger , cable and extra memory cards .</Tokens>
+		<POS>IN IN NNS , PRP VBD CD WDT MD VB PDT DT NNS , VBG DT JJ NN , NN NN , NN CC JJ NN NNS .</POS>
+		<Lemma>as for bag , I want one that could fit all these accessory , include a extra battery , battery charger , cable and extra memory card .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The Lowepro Edit 110 works great for this , and it is well built too .</Tokens>
+		<POS>DT NNP NNP CD NNS JJ IN DT , CC PRP VBZ RB VBN RB .</POS>
+		<Lemma>the Lowepro Edit 110 work great for this , and it be well build too .</Lemma>
+	</Sentence>
+</Document>

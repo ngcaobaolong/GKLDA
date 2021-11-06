@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just got it in the mail and basically it did n't line up right with my IPhone 4 .</Tokens>
+		<POS>PRP RB VBD PRP IN DT NN CC RB PRP VBD RB NN RB RB IN PRP$ NN CD .</POS>
+		<Lemma>I just get it in the mail and basically it do not line up right with my iphone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There are two holes and I suppose one is for the camera -LRB- did n't line up regardless of how you applied it -RRB- and audio -LRB- small hole that is not as loud as audio hole -RRB- .</Tokens>
+		<POS>EX VBP CD NNS CC PRP VBP CD VBZ IN DT NN -LRB- VBD RB NN RP RB IN WRB PRP VBD PRP -RRB- CC NN -LRB- JJ NN WDT VBZ RB RB JJ IN JJ NN -RRB- .</POS>
+		<Lemma>there be two hole and I suppose one be for the camera -lrb- do not line up regardless of how you apply it -rrb- and audio -lrb- small hole that be not as loud as audio hole -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It applied without bubbles but it looks stupid on my iphone because there are two holes that do n't match up at all .</Tokens>
+		<POS>PRP VBD IN NNS CC PRP VBZ JJ IN PRP$ NN IN EX VBP CD NNS WDT VBP RB VB RP IN DT .</POS>
+		<Lemma>it apply without bubble but it look stupid on my iphone because there be two hole that do not match up at all .</Lemma>
+	</Sentence>
+</Document>

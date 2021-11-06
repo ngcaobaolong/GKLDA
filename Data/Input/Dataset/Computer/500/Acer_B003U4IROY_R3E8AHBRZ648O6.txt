@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>From a broad field of 1920x1080 monitors by Viewsonic , Samsung , Acer and others , all with largely identical specs , I purchased the Acer S211HL based on price , monitor design , and power consumption .</Tokens>
+		<POS>IN DT JJ NN IN CD NNS IN NNP , NNP , NNP CC NNS , DT IN RB JJ NNS , PRP VBD DT NNP NN VBN IN NN , NN NN , CC NN NN .</POS>
+		<Lemma>from a broad field of 1920x1080 monitor by Viewsonic , Samsung , Acer and other , all with largely identical spec , I purchase the Acer s211hl base on price , monitor design , and power consumption .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is an attractive and efficient monitor , and seems well built , but has one large glaring defect : dancing ants everywhere !</Tokens>
+		<POS>DT VBZ DT JJ CC JJ NN , CC VBZ RB VBN , CC VBZ CD JJ JJ NN : NN NNS RB .</POS>
+		<Lemma>this be a attractive and efficient monitor , and seem well build , but have one large glaring defect : dancing ant everywhere !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The scan lines are highly visible , annoyingly so .</Tokens>
+		<POS>DT VB NNS VBP RB JJ , RB RB .</POS>
+		<Lemma>the scan line be highly visible , annoyingly so .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ordered a second monitor thinking that perhaps I 'd managed to get a rare lemon .</Tokens>
+		<POS>PRP VBD DT JJ NN VBG IN RB PRP MD VBN TO VB DT JJ JJ .</POS>
+		<Lemma>I order a second monitor think that perhaps I would manage to get a rare lemon .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Nope .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>nope .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The second monitor suffers from the same problem .</Tokens>
+		<POS>DT JJ NN VBZ IN DT JJ NN .</POS>
+		<Lemma>the second monitor suffer from the same problem .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I ca n't recommend this monitor .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>I can not recommend this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The price is great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the price be great .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It 's very sleek , and thin , but the picture quality is horrible .</Tokens>
+		<POS>PRP VBZ RB JJ , CC JJ , CC DT NN NN VBZ JJ .</POS>
+		<Lemma>it be very sleek , and thin , but the picture quality be horrible .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I 'm no graphic artist .</Tokens>
+		<POS>PRP VBP DT JJ NN .</POS>
+		<Lemma>I be no graphic artist .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I just use it for CAD work , but it is headache inducing to use this monitor .</Tokens>
+		<POS>PRP RB VBP PRP IN NN NN , CC PRP VBZ NN VBG TO VB DT NN .</POS>
+		<Lemma>I just use it for cad work , but it be headache induce to use this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Both monitors will be returned .</Tokens>
+		<POS>DT NNS MD VB VBN .</POS>
+		<Lemma>both monitor will be return .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>What a waste of time and shipping .</Tokens>
+		<POS>WP DT NN IN NN CC NN .</POS>
+		<Lemma>what a waste of time and shipping .</Lemma>
+	</Sentence>
+</Document>

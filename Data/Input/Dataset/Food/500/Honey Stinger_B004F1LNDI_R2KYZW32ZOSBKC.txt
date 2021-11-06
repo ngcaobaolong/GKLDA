@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are perfect for those early mornings when you gotta get out there but you do n't want to take the time to feed yourself .</Tokens>
+		<POS>DT VBP JJ IN DT JJ NNS WRB PRP VBP VB IN RB CC PRP VBP RB VB TO VB DT NN TO VB PRP .</POS>
+		<Lemma>these be perfect for those early morning when you gotta get out there but you do not want to take the time to feed yourself .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Everyone knows you get a better workout when you 're properly fueled but eating when you do n't feel like it sucks .</Tokens>
+		<POS>NN VBZ PRP VB DT JJR NN WRB PRP VBP RB VBN CC VBG WRB PRP VBP RB VB IN PRP VBZ .</POS>
+		<Lemma>everyone know you get a better workout when you be properly fuel but eat when you do not feel like it suck .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I just wanna get out there !</Tokens>
+		<POS>PRP RB VBP VB IN RB .</POS>
+		<Lemma>I just wanna get out there !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>These help me do that .</Tokens>
+		<POS>DT VBP PRP VB DT .</POS>
+		<Lemma>these help I do that .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Because they are made to be consumed on the run , no cramps or bloating .</Tokens>
+		<POS>IN PRP VBP VBN TO VB VBN IN DT NN , DT NNS CC NN .</POS>
+		<Lemma>because they be make to be consume on the run , no cramp or bloating .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Although , you need to bring plenty of fluid , they will make you thirsty .</Tokens>
+		<POS>IN , PRP VBP TO VB NN IN NN , PRP MD VB PRP JJ .</POS>
+		<Lemma>although , you need to bring plenty of fluid , they will make you thirsty .</Lemma>
+	</Sentence>
+</Document>

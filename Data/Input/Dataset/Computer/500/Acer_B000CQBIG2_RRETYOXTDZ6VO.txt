@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The acer ferrari 20-inch LCD is a masterpiece .</Tokens>
+		<POS>DT NN NN JJ NNS VBZ DT NN .</POS>
+		<Lemma>the acer ferrarus 20-inch lcd be a masterpiece .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The external looks justify the badge - sleek black surround and a glossy rich red stand .</Tokens>
+		<POS>DT JJ VBZ VB DT NN : JJ JJ VB CC DT JJ JJ JJ NN .</POS>
+		<Lemma>the external look justify the badge - sleek black surround and a glossy rich red stand .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>controls are discreetly tucked away to the side but easily accessible , and ports on the back are hidden but easy to find .</Tokens>
+		<POS>NNS VBP RB VBN RB TO DT NN CC RB JJ , CC NNS IN DT NN VBP VBN CC JJ TO VB .</POS>
+		<Lemma>control be discreetly tuck away to the side but easily accessible , and port on the back be hide but easy to find .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>performance is great - blacks are rich and dark , colors well saturated , and speed eminently up to scratch .</Tokens>
+		<POS>NN VBZ JJ : NNS VBP JJ CC JJ , NNS RB JJ , CC NN RB RB TO NN .</POS>
+		<Lemma>performance be great - black be rich and dark , color well saturated , and speed eminently up to scratch .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have yet to try playing DVDs but gaming -LRB- half-life 2 , call of duty -RRB- is superb .</Tokens>
+		<POS>PRP VBP RB TO VB VBG NNS CC NN -LRB- NN CD , NN IN NN -RRB- VBZ JJ .</POS>
+		<Lemma>I have yet to try play dvd but gaming -lrb- half-life 2 , call of duty -rrb- be superb .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Well and truly a bargain .</Tokens>
+		<POS>RB CC RB DT NN .</POS>
+		<Lemma>well and truly a bargain .</Lemma>
+	</Sentence>
+</Document>

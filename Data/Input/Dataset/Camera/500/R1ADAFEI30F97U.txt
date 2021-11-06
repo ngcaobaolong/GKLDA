@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>College student who wants a new hobby .</Tokens>
+		<POS>NNP NN WP VBZ DT JJ NN .</POS>
+		<Lemma>College student who want a new hobby .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Found a camera in my price range .</Tokens>
+		<POS>VBN DT NN IN PRP$ NN NN .</POS>
+		<Lemma>find a camera in my price range .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Amazing picture quality .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>amazing picture quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm a scientist and it takes great details to macro biological shots I take .</Tokens>
+		<POS>PRP VBP DT NN CC PRP VBZ JJ NNS TO VB JJ NNS PRP VBP .</POS>
+		<Lemma>I be a scientist and it take great detail to macro biological shot I take .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Thank you , Fuji .</Tokens>
+		<POS>VB PRP , NNP .</POS>
+		<Lemma>thank you , Fuji .</Lemma>
+	</Sentence>
+</Document>

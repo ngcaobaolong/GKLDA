@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We ordered this popcorn thinking it was really movie theater popcorn .</Tokens>
+		<POS>PRP VBD DT NN VBG PRP VBD RB NN NN NN .</POS>
+		<Lemma>we order this popcorn think it be really movie theater popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We were expecting large kernels , not too much hulls and a lot of flavor .</Tokens>
+		<POS>PRP VBD VBG JJ NNS , RB RB JJ NNS CC DT NN IN NN .</POS>
+		<Lemma>we be expect large kernel , not too much hull and a lot of flavor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This corn is small and pops up small , has more hulls than usual , and is just ok on taste .</Tokens>
+		<POS>DT NN VBZ JJ CC VBZ RP JJ , VBZ JJR NNS IN JJ , CC VBZ RB VB IN NN .</POS>
+		<Lemma>this corn be small and pop up small , have more hull than usual , and be just ok on taste .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A local farm in our area grows much better popcorn .</Tokens>
+		<POS>DT JJ NN IN PRP$ NN VBZ RB JJR NN .</POS>
+		<Lemma>a local farm in we area grow much better popcorn .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just got this monitor and I 'm very pleased so far .</Tokens>
+		<POS>RB VBD DT NN CC PRP VBP RB JJ RB RB .</POS>
+		<Lemma>just get this monitor and I be very pleased so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's hooked up to new HP Pavilion .</Tokens>
+		<POS>PRP VBZ VBN RP TO JJ NNP NNP .</POS>
+		<Lemma>it be hook up to new HP Pavilion .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great colors ; very bright .</Tokens>
+		<POS>JJ NNS : RB JJ .</POS>
+		<Lemma>great color ; very bright .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Adjustment contols kind of clumsy but adequate .</Tokens>
+		<POS>NNP VBZ NN IN JJ CC JJ .</POS>
+		<Lemma>Adjustment contol kind of clumsy but adequate .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Really a great price -LRB- $ 99 -RRB- .</Tokens>
+		<POS>RB DT JJ NN -LRB- $ CD -RRB- .</POS>
+		<Lemma>really a great price -lrb- $ 99 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Not sure why all the complaints about a halo and blurring .</Tokens>
+		<POS>RB JJ WRB PDT DT NNS IN DT NN CC VBG .</POS>
+		<Lemma>not sure why all the complaint about a halo and blur .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>May be due to the machine they 're connected to or a graphics card issue .</Tokens>
+		<POS>MD VB JJ TO DT NN PRP VBP VBN TO CC DT NNS NN NN .</POS>
+		<Lemma>may be due to the machine they be connect to or a graphic card issue .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>No issues like that here .</Tokens>
+		<POS>DT NNS IN DT RB .</POS>
+		<Lemma>no issue like that here .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I would highly recommend this great value monitor .</Tokens>
+		<POS>PRP MD RB VB DT JJ NN NN .</POS>
+		<Lemma>I would highly recommend this great value monitor .</Lemma>
+	</Sentence>
+</Document>

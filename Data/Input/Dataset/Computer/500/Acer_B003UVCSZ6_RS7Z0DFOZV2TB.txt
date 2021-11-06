@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The design is very poor .</Tokens>
+		<POS>DT NN VBZ RB JJ .</POS>
+		<Lemma>the design be very poor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The monitor is not adjustable and the preset monitor angle leans forward .</Tokens>
+		<POS>DT NN VBZ RB JJ CC DT JJ NN NN VBZ RB .</POS>
+		<Lemma>the monitor be not adjustable and the preset monitor angle lean forward .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought two of these for my office and both are being returned .</Tokens>
+		<POS>PRP VBD CD IN DT IN PRP$ NN CC DT VBP VBG VBN .</POS>
+		<Lemma>I buy two of these for my office and both be be return .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only way to use it , is to but it under a book so the screen sits more upright .</Tokens>
+		<POS>DT JJ NN TO VB PRP , VBZ TO CC PRP IN DT NN IN DT NN VBZ JJR NN .</POS>
+		<Lemma>the only way to use it , be to but it under a book so the screen sit more upright .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This needs to be adjustable or moved back 20 degrees .</Tokens>
+		<POS>DT VBZ TO VB JJ CC VBD RB CD NNS .</POS>
+		<Lemma>this need to be adjustable or move back 20 degree .</Lemma>
+	</Sentence>
+</Document>

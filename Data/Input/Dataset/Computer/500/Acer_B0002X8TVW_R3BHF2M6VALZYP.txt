@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor , the Acer 19 '' LCD FP , is an EXCELLENT product at an EXCELLENT price .</Tokens>
+		<POS>DT NN , DT NNP CD '' NNS NN , VBZ DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>this monitor , the Acer 19 '' lcd fp , be a excellent product at a excellent price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I dearly suffer from buyer 's remorse , but after using this monitor for a month now ... well , I could n't be happier .</Tokens>
+		<POS>PRP RB VBP IN NN POS NN , CC IN VBG DT NN IN DT NN RB : RB , PRP MD RB VB JJR .</POS>
+		<Lemma>I dearly suffer from buyer 's remorse , but after use this monitor for a month now ... well , I could not be happier .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This monitor has excellent resolution and wonderful colors , AND it 's 19 '' .</Tokens>
+		<POS>DT NN VBZ JJ NN CC JJ NNS , CC PRP VBZ CD '' .</POS>
+		<Lemma>this monitor have excellent resolution and wonderful color , and it be 19 '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am definitely a guy who loves his electronic toys and I would recommend this to anyone ... even my mother !</Tokens>
+		<POS>PRP VBP RB DT NN WP VBZ PRP$ JJ NNS CC PRP MD VB DT TO NN : RB PRP$ NN .</POS>
+		<Lemma>I be definitely a guy who love he electronic toy and I would recommend this to anyone ... even my mother !</Lemma>
+	</Sentence>
+</Document>

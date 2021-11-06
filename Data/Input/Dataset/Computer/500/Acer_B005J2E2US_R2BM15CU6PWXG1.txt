@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So this was a bit of a pain to get working with Ubuntu .</Tokens>
+		<POS>RB DT VBD DT NN IN DT NN TO VB VBG IN NNP .</POS>
+		<Lemma>so this be a bit of a pain to get work with Ubuntu .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The main issue is the wireless card driver .</Tokens>
+		<POS>DT JJ NN VBZ DT JJ NN NN .</POS>
+		<Lemma>the main issue be the wireless card driver .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For some reason , older versions of Ubuntu -LRB- anything before 11.10 -RRB- wo n't read that a wireless driver even exists .</Tokens>
+		<POS>IN DT NN , JJR NNS IN NNP -LRB- NN IN CD -RRB- MD RB VB IN DT JJ NN RB VBZ .</POS>
+		<Lemma>for some reason , older version of Ubuntu -lrb- anything before 11.10 -rrb- will not read that a wireless driver even exist .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I tried having it recognize the driver from my Windows partition , but it still would n't get any wireless signals .</Tokens>
+		<POS>PRP VBD VBG PRP VB DT NN IN PRP$ NNP NN , CC PRP RB MD RB VB DT JJ NNS .</POS>
+		<Lemma>I try have it recognize the driver from my Windows partition , but it still would not get any wireless signal .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Eventually I went with downloading 11.10 -LRB- started with 10.10 -RRB- and the wireless kind of works now .</Tokens>
+		<POS>RB PRP VBD IN VBG CD -LRB- VBN IN CD -RRB- CC DT JJ NN IN NNS RB .</POS>
+		<Lemma>eventually I go with download 11.10 -lrb- start with 10.10 -rrb- and the wireless kind of work now .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It will freeze the whole screen in Ubuntu upon awakening from sleep or hibernate\/suspend still though , but upon initial start-up the wireless works fine .</Tokens>
+		<POS>PRP MD VB DT JJ NN IN NNP IN VBG IN NN CC NN RB RB , CC IN JJ NN DT JJ NNS NN .</POS>
+		<Lemma>it will freeze the whole screen in Ubuntu upon awaken from sleep or hibernate\/suspend still though , but upon initial start-up the wireless work fine .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I browsed through forums on this topic , and it seems that my conclusion is pretty common with Acer netbooks in general in regards to Ubuntu .</Tokens>
+		<POS>PRP VBD IN NNS IN DT NN , CC PRP VBZ IN PRP$ NN VBZ RB JJ IN NNP NNS IN JJ IN VBZ TO NNP .</POS>
+		<Lemma>I browse through forum on this topic , and it seem that my conclusion be pretty common with Acer netbook in general in regard to Ubuntu .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Hopefully Ubuntu 12.04 fixes this bug .</Tokens>
+		<POS>NNP NNP CD NNS DT NN .</POS>
+		<Lemma>Hopefully Ubuntu 12.04 fix this bug .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Besides getting the wireless to work , this netbook is fantastic .</Tokens>
+		<POS>IN VBG DT JJ TO VB , DT NN VBZ JJ .</POS>
+		<Lemma>besides get the wireless to work , this netbook be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The power is amazing given the size of it -LRB- that 's what she said -RRB- .</Tokens>
+		<POS>DT NN VBZ JJ VBN DT NN IN PRP -LRB- DT VBZ WP PRP VBD -RRB- .</POS>
+		<Lemma>the power be amazing give the size of it -lrb- that be what she say -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Anyway , I would highly recommend this netbook , especially to students .</Tokens>
+		<POS>RB , PRP MD RB VB DT NN , RB TO NNS .</POS>
+		<Lemma>anyway , I would highly recommend this netbook , especially to student .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The ability to upgrade this to 4G RAM is excellent , as it is hard to find a netbook that does n't have its RAM soldered down .</Tokens>
+		<POS>DT NN TO VB DT TO NN NNP VBZ JJ , IN PRP VBZ JJ TO VB DT NN WDT VBZ RB VB PRP$ NNP VBD RP .</POS>
+		<Lemma>the ability to upgrade this to 4g RAM be excellent , as it be hard to find a netbook that do not have its RAM solder down .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Think about it this way : its a netbook with 4G RAM , 350G memory , 6hr battery life , and it costs less than $ 350 total -LRB- including the upgrade -RRB- .</Tokens>
+		<POS>VB IN PRP DT NN : PRP$ DT NN IN NN NNP , NNP NN , JJ NN NN , CC PRP VBZ JJR IN $ CD NN -LRB- VBG DT NN -RRB- .</POS>
+		<Lemma>think about it this way : its a netbook with 4g RAM , 350G memory , 6hr battery life , and it cost less than $ 350 total -lrb- include the upgrade -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Damn good deal .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>damn good deal .</Lemma>
+	</Sentence>
+</Document>

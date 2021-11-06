@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used a 32ounce low sodium beef broth as the liquid , you could use vegetable , chicken or your own broth for added flavor .</Tokens>
+		<POS>PRP VBD DT NN JJ NN NN NN IN DT NN , PRP MD VB NN , NN CC PRP$ JJ NN IN VBN NN .</POS>
+		<Lemma>I use a 32ounce low sodium beef broth as the liquid , you could use vegetable , chicken or you own broth for add flavor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I added 2 tablespoons dehydrated celery flakes , 1 tablespoon minced onion flakes and dehydrated garlic flakes , with a pinch of salt after cooking .</Tokens>
+		<POS>PRP VBD CD NNS JJ NN NNS , CD NN VBN NN NNS CC JJ JJ NNS , IN DT NN IN NN IN NN .</POS>
+		<Lemma>I add 2 tablespoon dehydrated celery flake , 1 tablespoon mince onion flake and dehydrated garlic flake , with a pinch of salt after cooking .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Simmered for an hour and it was wonderful !!</Tokens>
+		<POS>NNP IN DT NN CC PRP VBD JJ NN</POS>
+		<Lemma>Simmered for a hour and it be wonderful !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I bought mine at Job Lot and it was cheaper at $ 3.50 per package .</Tokens>
+		<POS>PRP VBD NN IN NNP NN CC PRP VBD JJR IN $ CD IN NN .</POS>
+		<Lemma>I buy mine at Job lot and it be cheaper at $ 3.50 per package .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I ate half + put the rest in the refrigerator for tomorrow .</Tokens>
+		<POS>PRP VBD NN CC VBD DT NN IN DT NN IN NN .</POS>
+		<Lemma>I eat half + put the rest in the refrigerator for tomorrow .</Lemma>
+	</Sentence>
+</Document>

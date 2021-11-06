@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>very nice good color great picture .</Tokens>
+		<POS>RB JJ JJ NN JJ NN .</POS>
+		<Lemma>very nice good color great picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have had 2 ACER computers and they have been great .</Tokens>
+		<POS>PRP VBP VBN CD NNP NNS CC PRP VBP VBN JJ .</POS>
+		<Lemma>I have have 2 ACER computer and they have be great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I thought what the heck .</Tokens>
+		<POS>IN PRP VBD WP DT NN .</POS>
+		<Lemma>so I think what the heck .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Turned out to be a good purchase .</Tokens>
+		<POS>VBN RP TO VB DT JJ NN .</POS>
+		<Lemma>turn out to be a good purchase .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>You can not find a healthier option for soup !</Tokens>
+		<POS>PRP MD RB VB DT JJR NN IN NN .</POS>
+		<Lemma>you can not find a healthier option for soup !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Making the soup mix as is provides excellent nutrition but when you add even more veggies to it - wow - it is a bowl full of health !</Tokens>
+		<POS>VBG DT NN NN IN VBZ VBZ JJ NN CC WRB PRP VBP RB RBR NNS TO PRP : SYM : PRP VBZ DT NN JJ IN NN .</POS>
+		<Lemma>make the soup mix as be provide excellent nutrition but when you add even more veggy to it - wow - it be a bowl full of health !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Super high in fiber , iron and protein while being almost fat-free !</Tokens>
+		<POS>NNP JJ IN NN , NN CC NN IN VBG RB NN .</POS>
+		<Lemma>Super high in fiber , iron and protein while be almost fat-free !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I like the basic nature of the soup mix as I can add my own spices\/flavors and make a completely different soup each time !</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT NN NN IN PRP MD VB PRP$ JJ NNS CC VB DT RB JJ NN DT NN .</POS>
+		<Lemma>I like the basic nature of the soup mix as I can add my own spices\/flavors and make a completely different soup each time !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I make a big batch at least once a month and freeze some so I have super healthy lunches ready to go !</Tokens>
+		<POS>PRP VBP DT JJ NN IN JJS RB DT NN CC VB DT IN PRP VBP JJ JJ NNS JJ TO VB .</POS>
+		<Lemma>I make a big batch at least once a month and freeze some so I have super healthy lunch ready to go !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Throw in whatever you have left in the crisper ; carrots , celery , onion , asparagus , broccoli , peppers , ...</Tokens>
+		<POS>VB IN WDT PRP VBP VBN IN DT NN : NNS , NN , NN , NN , NNS , NNS , :</POS>
+		<Lemma>throw in whatever you have leave in the crisper ; carrot , celery , onion , asparagus , broccoli , pepper , ...</Lemma>
+	</Sentence>
+</Document>

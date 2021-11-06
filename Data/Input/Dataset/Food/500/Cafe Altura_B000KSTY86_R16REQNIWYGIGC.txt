@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We 've tried many of the other Cafe Altura coffees , but this one is our favorite .</Tokens>
+		<POS>PRP VBP VBN JJ IN DT JJ NNP NNP NNS , CC DT CD VBZ PRP$ JJ .</POS>
+		<Lemma>we have try many of the other Cafe Altura coffee , but this one be we favorite .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a darker coffee with a very smooth flavor .</Tokens>
+		<POS>PRP VBZ DT JJR NN IN DT RB JJ NN .</POS>
+		<Lemma>it be a darker coffee with a very smooth flavor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's also very easy on my stomach and does n't seem to be as acidic as other dark coffees .</Tokens>
+		<POS>PRP VBZ RB RB JJ IN PRP$ NN CC VBZ RB VB TO VB IN JJ IN JJ JJ NNS .</POS>
+		<Lemma>it be also very easy on my stomach and do not seem to be as acidic as other dark coffee .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've added this one to my Subscribe & Save list to be delivered every month !</Tokens>
+		<POS>PRP VBP VBN DT CD TO PRP$ NNP CC NNP NN TO VB VBN DT NN .</POS>
+		<Lemma>I have add this one to my Subscribe & Save list to be deliver every month !</Lemma>
+	</Sentence>
+</Document>

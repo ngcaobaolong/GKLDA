@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For the most part , this baby monitor does what it is supposed to .</Tokens>
+		<POS>IN DT JJS NN , DT NN NN VBZ WP PRP VBZ VBN TO .</POS>
+		<Lemma>for the most part , this baby monitor do what it be suppose to .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It allows you to monitor your baby from another room with the `` parental '' unit either in it 's charging\/power stand , or running on battery clipped to your belt as you work around the house .</Tokens>
+		<POS>PRP VBZ PRP TO VB PRP$ NN IN DT NN IN DT `` JJ '' NN CC IN PRP VBZ JJ NN , CC VBG IN NN VBD TO PRP$ NN IN PRP VBP IN DT NN .</POS>
+		<Lemma>it allow you to monitor you baby from another room with the `` parental '' unit either in it be charging\/power stand , or run on battery clip to you belt as you work around the house .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The range is pretty good , although not as good as advertised , but good enough that it should work for the majority of users .</Tokens>
+		<POS>DT NN VBZ RB JJ , IN RB RB JJ IN VBN , CC JJ RB IN PRP MD VB IN DT NN IN NNS .</POS>
+		<Lemma>the range be pretty good , although not as good as advertise , but good enough that it should work for the majority of user .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The temperature sensor is a nice feature too .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN RB .</POS>
+		<Lemma>the temperature sensor be a nice feature too .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's a good way to find out if the baby 's room gets cooler than the rest of the house when the door is closed .</Tokens>
+		<POS>PRP VBZ DT JJ NN TO VB RP IN DT NN POS NN VBZ JJR IN DT NN IN DT NN WRB DT NN VBZ VBN .</POS>
+		<Lemma>it be a good way to find out if the baby 's room get cooler than the rest of the house when the door be close .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I found the system to be a bit staticy when the units are either near the end of their range or when too close together , as well as when the battery is running down , which takes about 5 - 8 hours .</Tokens>
+		<POS>PRP VBD DT NN TO VB DT NN NN WRB DT NNS VBP RB IN DT NN IN PRP$ NN CC WRB RB JJ RB , RB RB IN WRB DT NN VBZ VBG RB , WDT VBZ RB CD : CD NNS .</POS>
+		<Lemma>I find the system to be a bit staticy when the unit be either near the end of they range or when too close together , as well as when the battery be run down , which take about 5 - 8 hour .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The music is pretty tinny and about the same quality as a cheap cell phone 's polyphonic ringtones .</Tokens>
+		<POS>DT NN VBZ RB JJ CC IN DT JJ NN IN DT JJ NN NN POS JJ NNS .</POS>
+		<Lemma>the music be pretty tinny and about the same quality as a cheap cell phone 's polyphonic ringtone .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The flashlight is a nice touch and gets used quite a bit .</Tokens>
+		<POS>DT NN VBZ DT JJ NN CC VBZ VBN RB DT NN .</POS>
+		<Lemma>the flashlight be a nice touch and get use quite a bit .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Overall , this does what it is supposed to , but it could be a bit better quality with regard to sound quality , which is the only thing keeping me from rating it four stars .</Tokens>
+		<POS>RB , DT VBZ WP PRP VBZ VBN TO , CC PRP MD VB DT RB JJR NN IN NN TO VB NN , WDT VBZ DT JJ NN VBG PRP IN NN PRP CD NNS .</POS>
+		<Lemma>overall , this do what it be suppose to , but it could be a bit better quality with regard to sound quality , which be the only thing keep I from rating it four star .</Lemma>
+	</Sentence>
+</Document>

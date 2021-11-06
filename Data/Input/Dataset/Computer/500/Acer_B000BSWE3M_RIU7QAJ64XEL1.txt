@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this in 12\/05 .</Tokens>
+		<POS>PRP VBD DT IN CD .</POS>
+		<Lemma>I buy this in 12\/05 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>within a 2 month timeframe a pixel had gone bad .</Tokens>
+		<POS>IN DT CD NN VBD DT NN VBD VBN JJ .</POS>
+		<Lemma>within a 2 month timeframe a pixel have go bad .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>after literally hours of time on the phone with hourly employees and supervisors i was forced to ship back at my cost .</Tokens>
+		<POS>IN RB NNS IN NN IN DT NN IN JJ NNS CC NNS FW VBD VBN TO VB RB IN PRP$ NN .</POS>
+		<Lemma>after literally hour of time on the phone with hourly employee and supervisor i be force to ship back at my cost .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>brand new and I am paying for this .</Tokens>
+		<POS>NN JJ CC PRP VBP VBG IN DT .</POS>
+		<Lemma>brand new and I be pay for this .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Oh well I sucked it up and shipped it back for the $ 15 .</Tokens>
+		<POS>UH UH PRP VBD PRP RP CC VBD PRP RP IN DT $ CD .</POS>
+		<Lemma>oh well I suck it up and ship it back for the $ 15 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Upon return of the item it had a washed out appearance in the cornmer of the screen that had the bad pixel .</Tokens>
+		<POS>IN NN IN DT NN PRP VBD DT VBN RP NN IN DT NN IN DT NN WDT VBD DT JJ NN .</POS>
+		<Lemma>upon return of the item it have a wash out appearance in the cornmer of the screen that have the bad pixel .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The bad pixel still existed , even though they informed me they fixed it .</Tokens>
+		<POS>DT JJ NN RB VBD , RB IN PRP VBD PRP PRP VBD PRP .</POS>
+		<Lemma>the bad pixel still exist , even though they inform I they fix it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>After being on hold for 40 minutes , Jason informed me they have a 4 pixel policy in the warranty .</Tokens>
+		<POS>IN VBG IN NN IN CD NNS , NNP VBD PRP PRP VBP DT CD NN NN IN DT NN .</POS>
+		<Lemma>after be on hold for 40 minute , Jason inform I they have a 4 pixel policy in the warranty .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I searched my copy up and down and it says nothing about this `` 4 pixel policy '' .</Tokens>
+		<POS>PRP VBD PRP$ NN RB CC RB CC PRP VBZ NN IN DT `` CD NN NN '' .</POS>
+		<Lemma>I search my copy up and down and it say nothing about this `` 4 pixel policy '' .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>He outright refused to accept it back for repair !!!</Tokens>
+		<POS>PRP RB VBD TO VB PRP RB IN NN CD</POS>
+		<Lemma>he outright refuse to accept it back for repair !!!</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It has been the most absurd runaround i have gotten from any big company , and i have gotten many run arounds .</Tokens>
+		<POS>PRP VBZ VBN DT RBS JJ NN FW VBP VBN IN DT JJ NN , CC FW VBP VBN JJ VBP NNS .</POS>
+		<Lemma>it have be the most absurd runaround i have get from any big company , and i have get many run around .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>These people absolutely will not stand behind their product .</Tokens>
+		<POS>DT NNS RB MD RB VB IN PRP$ NN .</POS>
+		<Lemma>these people absolutely will not stand behind they product .</Lemma>
+	</Sentence>
+</Document>

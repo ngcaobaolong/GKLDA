@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this monitor is awesome and i will probably end up buying another just to have a pair .</Tokens>
+		<POS>DT NN VBZ JJ CC FW MD RB VB RP VBG DT RB TO VB DT NN .</POS>
+		<Lemma>this monitor be awesome and i will probably end up buy another just to have a pair .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>it is the lightest monitor i have ever had and is brighter than my sony plasma tv</Tokens>
+		<POS>PRP VBZ DT JJS NN FW VBP RB VBN CC VBZ RBR IN PRP$ NN NN NN</POS>
+		<Lemma>it be the lightest monitor i have ever have and be brighter than my sony plasma tv</Lemma>
+	</Sentence>
+</Document>

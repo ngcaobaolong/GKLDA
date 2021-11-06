@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>incredible camera , perfect images quality , strong built camera , nice features , good images at manual control with expousore compensation , great point and shoot camera</Tokens>
+		<POS>JJ NN , JJ NNS NN , JJ VBN NN , JJ NNS , JJ NNS IN NN NN IN NN NN , JJ NN CC VB NN</POS>
+		<Lemma>incredible camera , perfect image quality , strong build camera , nice feature , good image at manual control with expousore compensation , great point and shoot camera</Lemma>
+	</Sentence>
+</Document>

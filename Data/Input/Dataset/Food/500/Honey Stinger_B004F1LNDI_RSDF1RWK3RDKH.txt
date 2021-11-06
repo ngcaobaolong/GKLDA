@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Honey Stinger Waffles have become my go-to prerace breakfast .</Tokens>
+		<POS>NNP NNP NNP VBP VBN PRP$ JJ JJ NN .</POS>
+		<Lemma>Honey Stinger Waffles have become my go-to prerace breakfast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For a half marathon , I 'll usually eat one about 2 hours before the race , another about 45 minutes before the start , and then I 'm good to go .</Tokens>
+		<POS>IN DT NN NN , PRP MD RB VB CD IN CD NNS IN DT NN , DT IN CD NNS IN DT NN , CC RB PRP VBP JJ TO VB .</POS>
+		<Lemma>for a half marathon , I 'll usually eat one about 2 hour before the race , another about 45 minute before the start , and then I be good to go .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are tasty and very easy to digest .</Tokens>
+		<POS>PRP VBP JJ CC RB JJ TO VB .</POS>
+		<Lemma>they be tasty and very easy to digest .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The strawberry and vanilla varieties are also good , but the honey is my favorite .</Tokens>
+		<POS>DT NN CC NN NNS VBP RB JJ , CC DT NN VBZ PRP$ JJ .</POS>
+		<Lemma>the strawberry and vanilla variety be also good , but the honey be my favorite .</Lemma>
+	</Sentence>
+</Document>

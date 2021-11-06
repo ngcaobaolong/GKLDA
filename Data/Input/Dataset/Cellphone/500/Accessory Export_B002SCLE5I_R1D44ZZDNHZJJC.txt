@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have used these on all my phones for the past 5 years .</Tokens>
+		<POS>PRP VBP VBN DT IN DT PRP$ NNS IN DT JJ CD NNS .</POS>
+		<Lemma>I have use these on all my phone for the past 5 year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only way they work is if you follow the instructions to the letter .</Tokens>
+		<POS>DT JJ NN PRP VBP VBZ IN PRP VBP DT NNS TO DT NN .</POS>
+		<Lemma>the only way they work be if you follow the instruction to the letter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Most of all keep your oily figures off the surface , handle by only using the edges !</Tokens>
+		<POS>JJS IN DT VB PRP$ JJ NNS IN DT NN , VB IN RB VBG DT NNS .</POS>
+		<Lemma>most of all keep you oily figure off the surface , handle by only use the edge !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You must have at least 1 bar ... It will take it up to 2 or more bars ... I also use a repeater antenna in my car which adds another bar !</Tokens>
+		<POS>PRP MD VB IN JJS CD NN : PRP MD VB PRP RP TO CD CC JJR NNS : PRP RB VBP DT NN NN IN PRP$ NN WDT VBZ DT NN .</POS>
+		<Lemma>you must have at least 1 bar ... it will take it up to 2 or more bar ... I also use a repeater antenna in my car which add another bar !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Buying 10 at a time makes for a great give away to friends and family !</Tokens>
+		<POS>VBG CD IN DT NN VBZ IN DT JJ VB RP TO NNS CC NN .</POS>
+		<Lemma>buy 10 at a time make for a great give away to friend and family !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>very cool camera for the price and the pics under water come out better than you would think .</Tokens>
+		<POS>RB JJ NN IN DT NN CC DT NNS IN NN VB RB RB IN PRP MD VB .</POS>
+		<Lemma>very cool camera for the price and the pic under water come out better than you would think .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>have to laugh at my bro cause he just bought a camera for 1500.00 and he cant take awsome water pics like i can</Tokens>
+		<POS>VB TO NN IN PRP$ NN NN PRP RB VBD DT NN IN CD CC PRP VBD VB JJ NN NNS IN FW MD</POS>
+		<Lemma>have to laugh at my bro cause he just buy a camera for 1500.00 and he cant take awsome water pic like i can</Lemma>
+	</Sentence>
+</Document>

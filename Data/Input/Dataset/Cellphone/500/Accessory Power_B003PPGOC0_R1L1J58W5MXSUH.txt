@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The GOgroove FlexSMART X2 ADVANCED Wireless In-Car Bluetooth FM Transmitter is the best device for playing music from you iPhone on FM Radio .</Tokens>
+		<POS>DT NN NN NN VBD NNP NNP NNP NNP NNP VBZ DT JJS NN IN VBG NN IN PRP NNP IN NNP NNP .</POS>
+		<Lemma>the gogroove flexsmart x2 advance Wireless In-Car Bluetooth FM Transmitter be the best device for play music from you iPhone on FM Radio .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The sound quality is crystal clear .</Tokens>
+		<POS>DT JJ NN VBZ JJ JJ .</POS>
+		<Lemma>the sound quality be crystal clear .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The Bluetooth connection is simple .</Tokens>
+		<POS>DT NNP NN VBZ JJ .</POS>
+		<Lemma>the Bluetooth connection be simple .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Just press play and go !</Tokens>
+		<POS>RB NN NN CC VB .</POS>
+		<Lemma>just press play and go !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Definitely a great product .</Tokens>
+		<POS>RB DT JJ NN .</POS>
+		<Lemma>definitely a great product .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Went back and forth for a month before I finally bought this .</Tokens>
+		<POS>VBD RB CC RB IN DT NN IN PRP RB VBD DT .</POS>
+		<Lemma>go back and forth for a month before I finally buy this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works great , even if you co n't plug it in , you can stop and get some AA or 9v batteries and keep going .</Tokens>
+		<POS>NNP JJ , RB IN PRP VBP RB VB PRP IN , PRP MD VB CC VB DT NN CC NN NNS CC VB VBG .</POS>
+		<Lemma>Works great , even if you co not plug it in , you can stop and get some aa or 9v battery and keep go .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Caution , it will get warm when charging a phone with batteries .</Tokens>
+		<POS>NN , PRP MD VB JJ WRB VBG DT NN IN NNS .</POS>
+		<Lemma>caution , it will get warm when charge a phone with battery .</Lemma>
+	</Sentence>
+</Document>

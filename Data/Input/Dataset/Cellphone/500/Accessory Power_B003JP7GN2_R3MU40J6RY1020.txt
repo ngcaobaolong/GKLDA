@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this charger !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this charger !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is so convenient !</Tokens>
+		<POS>PRP VBZ RB JJ .</POS>
+		<Lemma>it be so convenient !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was about to buy a car phone charger at Verizon that costs $ 25 : -LRB- Good thing I looked this baby up on amazon !</Tokens>
+		<POS>PRP VBD RB TO VB DT NN NN NN IN NNP WDT VBZ $ CD : -LRB- JJ NN PRP VBD DT NN RP IN NN .</POS>
+		<Lemma>I be about to buy a car phone charger at Verizon that cost $ 25 : -lrb- good thing I look this baby up on amazon !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Its around the same price but you can use this charger 4,5 different ways !</Tokens>
+		<POS>PRP$ IN DT JJ NN CC PRP MD VB DT NN CD JJ NNS .</POS>
+		<Lemma>its around the same price but you can use this charger 4,5 different way !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I can charge my phone while I 'm driving and my friend who has a BB can also charge their phone at the same time .</Tokens>
+		<POS>PRP MD VB PRP$ NN IN PRP VBP VBG CC PRP$ NN WP VBZ DT NN MD RB VB PRP$ NN IN DT JJ NN .</POS>
+		<Lemma>I can charge my phone while I be drive and my friend who have a bb can also charge they phone at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I can also charge my cell in my room or use batteries and charge it while I 'm camping : -RRB- I can also charge my cell just with the cord by plugging it into a computer .</Tokens>
+		<POS>PRP MD RB VB PRP$ NN IN PRP$ NN CC NN NNS CC VB PRP IN PRP VBP VBG : -RRB- PRP MD RB VB PRP$ NN RB IN DT NN IN VBG PRP IN DT NN .</POS>
+		<Lemma>I can also charge my cell in my room or use battery and charge it while I be camp : -rrb- I can also charge my cell just with the cord by plug it into a computer .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This phone charger is versatile .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>this phone charger be versatile .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's amazing .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>MUST BUY !</Tokens>
+		<POS>NNP NNP .</POS>
+		<Lemma>MUST BUY !</Lemma>
+	</Sentence>
+</Document>

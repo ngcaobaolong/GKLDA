@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I set this product up and it worked , the next time I went for a drive -LRB- few hours later -RRB- it would n't connect to my phone nor go into pairing mode .</Tokens>
+		<POS>PRP VBP DT NN RB CC PRP VBD , DT JJ NN PRP VBD IN DT NN -LRB- JJ NNS RB -RRB- PRP MD RB VB TO PRP$ NN CC VB IN NN NN .</POS>
+		<Lemma>I set this product up and it work , the next time I go for a drive -lrb- few hour later -rrb- it would not connect to my phone nor go into pairing mode .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Returned the product and am now waiting for amazon to receive my return ...</Tokens>
+		<POS>VBD DT NN CC VBP RB VBG IN NN TO VB PRP$ NN :</POS>
+		<Lemma>return the product and be now wait for amazon to receive my return ...</Lemma>
+	</Sentence>
+</Document>

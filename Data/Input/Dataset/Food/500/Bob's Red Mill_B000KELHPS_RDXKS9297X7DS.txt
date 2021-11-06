@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We bought this multigrain bread mix after we bought our breadmaker .</Tokens>
+		<POS>PRP VBD DT JJ NN NN IN PRP VBD PRP$ NN .</POS>
+		<Lemma>we buy this multigrain bread mix after we buy we breadmaker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a great mix .</Tokens>
+		<POS>PRP VBZ DT JJ NN .</POS>
+		<Lemma>it be a great mix .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A little crumbly when you slice it , but it slices fairly well .</Tokens>
+		<POS>DT JJ RB WRB PRP VBP PRP , CC PRP VBZ RB RB .</POS>
+		<Lemma>a little crumbly when you slice it , but it slice fairly well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Good for sandwiches .</Tokens>
+		<POS>JJ IN NNS .</POS>
+		<Lemma>good for sandwich .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Lasts only about a week .</Tokens>
+		<POS>VBZ RB IN DT NN .</POS>
+		<Lemma>last only about a week .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Great price .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great price .</Lemma>
+	</Sentence>
+</Document>

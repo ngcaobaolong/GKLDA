@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had bought a cheap transmitter off of ebay and I do regret it .</Tokens>
+		<POS>PRP VBD VBN DT JJ NN IN IN NN CC PRP VBP VB PRP .</POS>
+		<Lemma>I have buy a cheap transmitter off of ebay and I do regret it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was a bit skeptical on this product because I was not sure how well blue tooth would handle the sound and I was wrong .</Tokens>
+		<POS>PRP VBD DT NN JJ IN DT NN IN PRP VBD RB JJ WRB RB JJ NN MD VB DT NN CC PRP VBD JJ .</POS>
+		<Lemma>I be a bit skeptical on this product because I be not sure how well blue tooth would handle the sound and I be wrong .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The music \/ sound quality is awesome !</Tokens>
+		<POS>DT NN : JJ NN VBZ JJ .</POS>
+		<Lemma>the music \/ sound quality be awesome !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have no static and no interruptions at all .</Tokens>
+		<POS>PRP VBP DT JJ CC DT NNS IN DT .</POS>
+		<Lemma>I have no static and no interruption at all .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I recommend this product to anyone interested in a good transmitter .</Tokens>
+		<POS>PRP VBP DT NN TO NN JJ IN DT JJ NN .</POS>
+		<Lemma>I recommend this product to anyone interested in a good transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I currently use my Nexus one phone to play all the music .</Tokens>
+		<POS>PRP RB VBP PRP$ NNP CD NN TO VB PDT DT NN .</POS>
+		<Lemma>I currently use my Nexus one phone to play all the music .</Lemma>
+	</Sentence>
+</Document>

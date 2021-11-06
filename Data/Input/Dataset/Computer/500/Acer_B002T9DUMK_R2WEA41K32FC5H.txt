@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am an extremely experienced computer user .</Tokens>
+		<POS>PRP VBP DT RB JJ NN NN .</POS>
+		<Lemma>I be a extremely experienced computer user .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>In my home I have two servers , five desktop computers , and six different monitors .</Tokens>
+		<POS>IN PRP$ NN PRP VBP CD NNS , CD NN NNS , CC CD JJ NNS .</POS>
+		<Lemma>in my home I have two server , five desktop computer , and six different monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I spend 8-12 hours a day on a computer and often have eyestrain by the end of the night .</Tokens>
+		<POS>PRP VBP CD NNS DT NN IN DT NN CC RB VBP VBN IN DT NN IN DT NN .</POS>
+		<Lemma>I spend 8-12 hour a day on a computer and often have eyestrain by the end of the night .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As a result I am always looking for a better monitor .</Tokens>
+		<POS>IN DT NN PRP VBP RB VBG IN DT JJR NN .</POS>
+		<Lemma>as a result I be always look for a better monitor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This LED monitor is fantastic !!!</Tokens>
+		<POS>DT VBD NN VBZ JJ IN</POS>
+		<Lemma>this lead monitor be fantastic !!!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I bought mine a few months ago and after just a week I noticed that my eyes felt better at night .</Tokens>
+		<POS>PRP VBD PRP DT JJ NNS RB CC RB RB DT NN PRP VBD IN PRP$ NNS VBD RBR IN NN .</POS>
+		<Lemma>I buy mine a few month ago and after just a week I notice that my eye feel better at night .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Image clarity is great -LRB- I do a lot of work in PhotoShop with 18MB RAW image files and noticed the difference immediately -RRB- .</Tokens>
+		<POS>NN NN VBZ JJ -LRB- PRP VBP DT NN IN NN IN NNP IN NNP NN NN NNS CC VBD DT NN RB -RRB- .</POS>
+		<Lemma>image clarity be great -lrb- I do a lot of work in PhotoShop with 18MB raw image file and notice the difference immediately -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I also see a difference when surfing the web or using Microsoft Office applications .</Tokens>
+		<POS>PRP RB VBP DT NN WRB VBG DT NN CC VBG NNP NNP NNS .</POS>
+		<Lemma>I also see a difference when surf the web or use Microsoft Office application .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>All my future monitors will be LED .</Tokens>
+		<POS>DT PRP$ JJ NNS MD VB VBN .</POS>
+		<Lemma>all my future monitor will be lead .</Lemma>
+	</Sentence>
+</Document>

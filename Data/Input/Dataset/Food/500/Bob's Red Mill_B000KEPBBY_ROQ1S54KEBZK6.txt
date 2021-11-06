@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I absolutely love this soup mix !</Tokens>
+		<POS>PRP RB VBP DT NN NN .</POS>
+		<Lemma>I absolutely love this soup mix !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has become a staple in my diet .</Tokens>
+		<POS>PRP VBZ VBN DT NN IN PRP$ NN .</POS>
+		<Lemma>it have become a staple in my diet .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is quite easy to make , and it tastes great .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB , CC PRP VBZ JJ .</POS>
+		<Lemma>it be quite easy to make , and it taste great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I also love how cheap it is .</Tokens>
+		<POS>PRP RB VBP WRB JJ PRP VBZ .</POS>
+		<Lemma>I also love how cheap it be .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I use 1 cup of mix per batch , and there are 4 cups -LRB- approx -RRB- per bag .</Tokens>
+		<POS>PRP VBP CD NN IN NN IN NN , CC EX VBP CD NNS -LRB- RB -RRB- IN NN .</POS>
+		<Lemma>I use 1 cup of mix per batch , and there be 4 cup -lrb- approx -rrb- per bag .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Each batch gives me 4 large servings .</Tokens>
+		<POS>DT NN VBZ PRP CD JJ NNS .</POS>
+		<Lemma>each batch give I 4 large serving .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So that means this box gives me 64 servings !</Tokens>
+		<POS>IN DT VBZ DT NN VBZ PRP CD NNS .</POS>
+		<Lemma>so that mean this box give I 64 serving !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>At the subscribe and save price that means $ 0.20 per serving !</Tokens>
+		<POS>IN DT VBP CC VBP NN WDT VBZ $ CD IN VBG .</POS>
+		<Lemma>at the subscribe and save price that mean $ 0.20 per serve !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I dare you to find a meal that fills you up this much , is this good for you , and only costs $ 0.20 !!!!</Tokens>
+		<POS>PRP VBP PRP TO VB DT NN WDT VBZ PRP RP DT JJ , VBZ DT JJ IN PRP , CC RB VBZ $ CD CD</POS>
+		<Lemma>I dare you to find a meal that fill you up this much , be this good for you , and only cost $ 0.20 !!!!</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Here 's my recipe : 1 cup of the Veggie Soup Mix 6 cups of water 6 TB of Vegetable Broth Powder -LRB- you can also use bullion or liquid broth -RRB- 1 can of Tomatoes -LRB- either diced , stewed or half of each -RRB- season with Basil , Oregano , Marjoram , Salt & Pepper to taste Throw all this in a pot and cook for 1 hour , stirring occasionally .</Tokens>
+		<POS>RB POS PRP$ NN : CD NN IN DT NNP NNP NNP CD NNS IN NN CD NN IN NNP NNP NNP -LRB- PRP MD RB VB NN CC JJ NN -RRB- CD MD IN NNP -LRB- CC VBN , VBN CC NN IN DT -RRB- NN IN NNP , NNP , NNP , NNP CC NNP TO VB VB PDT DT IN DT NN CC NN IN CD NN , VBG RB .</POS>
+		<Lemma>here 's my recipe : 1 cup of the Veggie Soup Mix 6 cup of water 6 tb of Vegetable Broth Powder -lrb- you can also use bullion or liquid broth -rrb- 1 can of Tomatoes -lrb- either dice , stew or half of each -rrb- season with Basil , Oregano , Marjoram , Salt & Pepper to taste throw all this in a pot and cook for 1 hour , stir occasionally .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's that simple !</Tokens>
+		<POS>PRP VBZ IN JJ .</POS>
+		<Lemma>it be that simple !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Try it , you wo n't regret it ...</Tokens>
+		<POS>VB PRP , PRP MD RB VB PRP :</POS>
+		<Lemma>try it , you will not regret it ...</Lemma>
+	</Sentence>
+</Document>

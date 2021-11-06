@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have used this to charge two phones -LRB- one iPhone and one Droid -RRB- at the same time off of both AC and 12V DC supplies with no issues .</Tokens>
+		<POS>PRP VBP VBN DT TO VB CD NNS -LRB- CD NNP CC CD NN -RRB- IN DT JJ NN IN IN DT NN CC NN NN NNS IN DT NNS .</POS>
+		<Lemma>I have use this to charge two phone -lrb- one iPhone and one droid -rrb- at the same time off of both ac and 12v dc supplies with no issue .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's great to keep in my bag since it takes the place of two or more chargers .</Tokens>
+		<POS>PRP VBZ JJ TO VB IN PRP$ NN IN PRP VBZ DT NN IN CD CC JJR NNS .</POS>
+		<Lemma>it be great to keep in my bag since it take the place of two or more charger .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would have given 5 stars but have not tested the AA or 9v battery functions .</Tokens>
+		<POS>PRP MD VB VBN CD NNS CC VBP RB VBN DT NN CC NN NN NNS .</POS>
+		<Lemma>I would have give 5 star but have not test the aa or 9v battery function .</Lemma>
+	</Sentence>
+</Document>

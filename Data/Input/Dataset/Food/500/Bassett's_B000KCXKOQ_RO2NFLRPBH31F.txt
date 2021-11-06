@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love these Jelly Babies .</Tokens>
+		<POS>PRP VBP DT NNP NNS .</POS>
+		<Lemma>I love these Jelly baby .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I learned about them from and English facebook friend who told me about how good they are .</Tokens>
+		<POS>PRP VBD IN PRP IN CC JJ NN NN WP VBD PRP IN WRB JJ PRP VBP .</POS>
+		<Lemma>I learn about they from and english facebook friend who tell I about how good they be .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought some of a different brand to try from a candy store near where I live .</Tokens>
+		<POS>PRP VBD DT IN DT JJ NN TO VB IN DT NN NN IN WRB PRP VBP .</POS>
+		<Lemma>I buy some of a different brand to try from a candy store near where I live .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Those were good , but the Bassett 's , I love even more .</Tokens>
+		<POS>DT VBD JJ , CC DT NNP POS , PRP VBP RB RBR .</POS>
+		<Lemma>those be good , but the Bassett 's , I love even more .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They have to be my favorite gelatin candy now .</Tokens>
+		<POS>PRP VBP TO VB PRP$ JJ NN NN RB .</POS>
+		<Lemma>they have to be my favorite gelatin candy now .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>There 's something about the firmer texture on the outside and the softer inside that I love , and then the taste is wonderful .</Tokens>
+		<POS>EX VBZ NN IN DT JJR NN IN DT JJ CC DT JJR IN IN PRP VBP , CC RB DT NN VBZ JJ .</POS>
+		<Lemma>there be something about the firmer texture on the outside and the softer inside that I love , and then the taste be wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I can easily see why these candies are so popular in the UK .</Tokens>
+		<POS>PRP MD RB VB WRB DT NNS VBP RB JJ IN DT NNP .</POS>
+		<Lemma>I can easily see why these candy be so popular in the UK .</Lemma>
+	</Sentence>
+</Document>

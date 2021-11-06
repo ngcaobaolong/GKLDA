@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Yup , no stray pieces , just whole brown almonds .</Tokens>
+		<POS>RB , DT JJ NNS , RB JJ JJ NNS .</POS>
+		<Lemma>yup , no stray piece , just whole brown almond .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Which is to say that these are not `` blanched '' - blanching being the process that removes the actual skin of the almond -LRB- not the husk -RRB- and leaves a pale buff-colored product .</Tokens>
+		<POS>WDT VBZ TO VB IN DT VBP RB `` VBN '' : VBG VBG DT NN WDT VBZ DT JJ NN IN DT NN -LRB- RB DT NN -RRB- CC VBZ DT JJ JJ NN .</POS>
+		<Lemma>which be to say that these be not `` blanch '' - blanch be the process that remove the actual skin of the almond -lrb- not the husk -rrb- and leave a pale buff-colored product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And the description of `` lightly salted '' is accurate .</Tokens>
+		<POS>CC DT NN IN `` RB VBN '' VBZ JJ .</POS>
+		<Lemma>and the description of `` lightly salt '' be accurate .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I can barely taste it .</Tokens>
+		<POS>PRP MD RB VB PRP .</POS>
+		<Lemma>I can barely taste it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The can says the ingredients are almonds , vegetable oil -LRB- canola , safflower and\/or sunflower -RRB- and salt .</Tokens>
+		<POS>DT MD VBZ DT NNS VBP NNS , NN NN -LRB- NN , NN CC NN -RRB- CC NN .</POS>
+		<Lemma>the can say the ingredient be almond , vegetable oil -lrb- canolum , safflower and\/or sunflower -rrb- and salt .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>That 's it .</Tokens>
+		<POS>DT VBZ PRP .</POS>
+		<Lemma>that be it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Gluten-free .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>gluten-free .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Interestingly enough , there is no indication on either the can or their website whether these are raw or roasted .</Tokens>
+		<POS>RB RB , EX VBZ DT NN IN CC DT MD CC PRP$ NN IN DT VBP JJ CC JJ .</POS>
+		<Lemma>interestingly enough , there be no indication on either the can or they website whether these be raw or roasted .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>And I could n't tell by eating them .</Tokens>
+		<POS>CC PRP MD RB VB IN VBG PRP .</POS>
+		<Lemma>and I could not tell by eat they .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But Blue Diamond responded to my email query , saying they are in fact oil roasted - have to be `` Pasteurized '' , per a new California law .</Tokens>
+		<POS>CC NNP NNP VBD TO PRP$ NN NN , VBG PRP VBP IN NN NN JJ : VB TO VB `` VBN '' , IN DT JJ NNP NN .</POS>
+		<Lemma>but Blue Diamond respond to my email query , say they be in fact oil roasted - have to be `` pasteurize '' , per a new California law .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>-LRB- You might want to know that this is a `` light '' roasting .</Tokens>
+		<POS>-LRB- PRP MD VB TO VB IN DT VBZ DT `` JJ '' NN .</POS>
+		<Lemma>-lrb- you might want to know that this be a `` light '' roasting .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I would say that it goes part way to a roasted flavor , remaining as healthy as possible while conforming to the legislation I mentioned .</Tokens>
+		<POS>PRP MD VB IN PRP VBZ NN NN TO DT JJ NN , VBG IN JJ IN JJ IN VBG TO DT NN PRP VBD .</POS>
+		<Lemma>I would say that it go part way to a roasted flavor , remain as healthy as possible while conform to the legislation I mention .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>My taste preference is actually for the flavor of a fully roasted almond , bad me . -RRB-</Tokens>
+		<POS>PRP$ NN NN VBZ RB IN DT NN IN DT RB JJ NN , JJ PRP . -RRB-</POS>
+		<Lemma>my taste preference be actually for the flavor of a fully roasted almond , bad I . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>They taste fresh and almondy , as they should .</Tokens>
+		<POS>PRP VBP JJ CC JJ , IN PRP MD .</POS>
+		<Lemma>they taste fresh and almondy , as they should .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>They make a wonderful addition in both taste and appearance , to my just-created Nonpareil Trail Mix which is lo-carb and gluten-free as I am trying even harder to follow this kind of diet .</Tokens>
+		<POS>PRP VBP DT JJ NN IN CC NN CC NN , TO PRP$ JJ NNP NN NNP WDT VBZ JJ CC JJ IN PRP VBP VBG RB JJR TO VB DT NN IN NN .</POS>
+		<Lemma>they make a wonderful addition in both taste and appearance , to my just-created Nonpareil trail Mix which be lo-carb and gluten-free as I be try even harder to follow this kind of diet .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I 'm pleased to report that these Blue Diamond Almonds are properly dated : on the bottom of the can it says `` BEST BEFORE JUL 20 14 '' .</Tokens>
+		<POS>PRP VBP JJ TO VB IN DT JJ NNP NNP VBP RB VBN : IN DT NN IN DT MD PRP VBZ `` NNP NNP NNP CD CD '' .</POS>
+		<Lemma>I be pleased to report that these blue Diamond Almonds be properly date : on the bottom of the can it say `` BEST BEFORE JUL 20 14 '' .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>That gives plenty of time to use up six little cans .</Tokens>
+		<POS>DT VBZ NN IN NN TO VB RP CD JJ NNS .</POS>
+		<Lemma>that give plenty of time to use up six little can .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>And about the cans , they seem to be metal bottom and sides , making them superior for storage although the plastic replaceable top with sealed metallic foil under it might be breachable by the ubiquitous rodent .</Tokens>
+		<POS>CC IN DT NNS , PRP VBP TO VB JJ NN CC NNS , VBG PRP JJ IN NN IN DT NN JJ NN IN JJ JJ NN IN PRP MD VB JJ IN DT JJ JJ .</POS>
+		<Lemma>and about the can , they seem to be metal bottom and side , make they superior for storage although the plastic replaceable top with sealed metallic foil under it might be breachable by the ubiquitous rodent .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The little cans are nicely reusable .</Tokens>
+		<POS>DT JJ NNS VBP RB JJ .</POS>
+		<Lemma>the little can be nicely reusable .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great device ... small and compact yet so diverse .</Tokens>
+		<POS>DT VBZ DT JJ NN : JJ CC JJ RB RB JJ .</POS>
+		<Lemma>this be a great device ... small and compact yet so diverse .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You can use it in an electrical outlet , in the car , via batteries -LRB- both AA and 9 volt -RRB- .</Tokens>
+		<POS>PRP MD VB PRP IN DT JJ NN , IN DT NN , IN NNS -LRB- CC NN CC CD NN -RRB- .</POS>
+		<Lemma>you can use it in a electrical outlet , in the car , via battery -lrb- both aa and 9 volt -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Tons of options for this guy ... you should never be out of power .</Tokens>
+		<POS>NNS IN NNS IN DT NN : PRP MD RB VB IN IN NN .</POS>
+		<Lemma>ton of option for this guy ... you should never be out of power .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Also , a very good buying experience ... quick , convenient and no hassle .</Tokens>
+		<POS>RB , DT RB JJ NN NN : JJ , JJ CC DT NN .</POS>
+		<Lemma>also , a very good buying experience ... quick , convenient and no hassle .</Lemma>
+	</Sentence>
+</Document>

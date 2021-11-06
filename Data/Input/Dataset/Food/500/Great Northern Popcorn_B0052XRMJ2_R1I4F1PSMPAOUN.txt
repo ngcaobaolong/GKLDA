@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wonderful popcorn !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>wonderful popcorn !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought this bag of organic popcorn to go along with a popcorn popper as a gift for christmas .</Tokens>
+		<POS>PRP VBD DT NN IN JJ NN TO VB RP IN DT NN NN IN DT NN IN NNS .</POS>
+		<Lemma>I buy this bag of organic popcorn to go along with a popcorn popper as a gift for christmas .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The kernels pop up great and taste wonderful .</Tokens>
+		<POS>DT NNS VBP RP JJ CC NN JJ .</POS>
+		<Lemma>the kernel pop up great and taste wonderful .</Lemma>
+	</Sentence>
+</Document>

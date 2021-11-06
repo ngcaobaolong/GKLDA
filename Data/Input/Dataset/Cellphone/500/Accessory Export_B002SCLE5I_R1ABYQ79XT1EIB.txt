@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Universal Generation X cell phone boosters are nothing but a gold looking antenna things painted on sticky back tape .</Tokens>
+		<POS>NNP NNP NN NN NN NNS VBP NN CC DT NN VBG NN NNS VBN IN JJ JJ NN .</POS>
+		<Lemma>Universal Generation x cell phone booster be nothing but a gold look antenna thing paint on sticky back tape .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The paint wears off as soon as it rubs something .</Tokens>
+		<POS>DT NN VBZ RP RB RB IN PRP VBZ NN .</POS>
+		<Lemma>the paint wear off as soon as it rub something .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just a scam gimmick , Glad I only payed $ -LRB- ... -RRB- for 10 and not $ -LRB- ... -RRB- for 1 .</Tokens>
+		<POS>RB DT NN NN , JJ PRP RB VBD $ -LRB- : -RRB- IN CD CC RB $ -LRB- : -RRB- IN CD .</POS>
+		<Lemma>just a scam gimmick , glad I only pay $ -lrb- ... -rrb- for 10 and not $ -lrb- ... -rrb- for 1 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Saw 1 good rating and just had to try it ... ... A big joke .</Tokens>
+		<POS>NN CD JJ NN CC RB VBD TO VB PRP : : DT JJ NN .</POS>
+		<Lemma>saw 1 good rating and just have to try it ... ... a big joke .</Lemma>
+	</Sentence>
+</Document>

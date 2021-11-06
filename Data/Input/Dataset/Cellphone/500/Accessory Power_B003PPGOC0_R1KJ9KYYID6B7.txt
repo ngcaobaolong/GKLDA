@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use it mostly for transmitting internet radio from my phone in the car .</Tokens>
+		<POS>PRP VBP PRP RB IN VBG NN NN IN PRP$ NN IN DT NN .</POS>
+		<Lemma>I use it mostly for transmit internet radio from my phone in the car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It works well , and the FM signal is good , very little interference .</Tokens>
+		<POS>PRP VBZ RB , CC DT NNP NN VBZ JJ , RB JJ NN .</POS>
+		<Lemma>it work well , and the FM signal be good , very little interference .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>One thing I do n't like is after I adjust the volume on the transmitter , but it always goes back to the default level the next the I start the car .</Tokens>
+		<POS>CD NN PRP VBP RB VB VBZ IN PRP VBP DT NN IN DT NN , CC PRP RB VBZ RB TO DT NN NN DT JJ DT PRP VBP DT NN .</POS>
+		<Lemma>one thing I do not like be after I adjust the volume on the transmitter , but it always go back to the default level the next the I start the car .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The manual does n't mention it but you can change the FM station just by rotating the knob .</Tokens>
+		<POS>DT NN VBZ RB VB PRP CC PRP MD VB DT NNP NN RB IN VBG DT NN .</POS>
+		<Lemma>the manual do not mention it but you can change the FM station just by rotate the knob .</Lemma>
+	</Sentence>
+</Document>

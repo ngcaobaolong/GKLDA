@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This computer for my daughter word processing and some internet , plus low price in case it gets misplaced\/lost , teenage minds are not yet mature .</Tokens>
+		<POS>DT NN IN PRP$ NN NN NN CC DT NN , CC JJ NN IN NN PRP VBZ RB , JJ NNS VBP RB RB JJ .</POS>
+		<Lemma>this computer for my daughter word processing and some internet , plus low price in case it get misplaced\/lost , teenage mind be not yet mature .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its OK but super slow .</Tokens>
+		<POS>PRP$ JJ CC JJ JJ .</POS>
+		<Lemma>its ok but super slow .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was cheap , only $ 300 .</Tokens>
+		<POS>PRP VBD JJ , RB $ CD .</POS>
+		<Lemma>it be cheap , only $ 300 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am used to fast ones , sorry .</Tokens>
+		<POS>PRP VBP VBN TO JJ NNS , JJ .</POS>
+		<Lemma>I be use to fast one , sorry .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It takes 1\/2 hour to shut down for 29 windows updates .</Tokens>
+		<POS>PRP VBZ CD NN TO VB RP IN CD NNS NNS .</POS>
+		<Lemma>it take 1\/2 hour to shut down for 29 window update .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Next time I will pay more for more performance , or I will let her decide and buy .</Tokens>
+		<POS>JJ NN PRP MD VB JJR IN JJR NN , CC PRP MD VB PRP VB CC VB .</POS>
+		<Lemma>next time I will pay more for more performance , or I will let she decide and buy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Its not a bad computer , and I am sure fills a niche .</Tokens>
+		<POS>PRP$ RB DT JJ NN , CC PRP VBP JJ VBZ DT NN .</POS>
+		<Lemma>its not a bad computer , and I be sure fill a niche .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have gotten spoiled by i5 and i7 .</Tokens>
+		<POS>PRP VBP VBN VBN IN NN CC NN .</POS>
+		<Lemma>I have get spoil by i5 and i7 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I wish I had played with it more before committing to keep .</Tokens>
+		<POS>PRP VBP PRP VBD VBN IN PRP RBR IN VBG TO VB .</POS>
+		<Lemma>I wish I have play with it more before commit to keep .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Buyer beware as usual .</Tokens>
+		<POS>NNP NN IN JJ .</POS>
+		<Lemma>Buyer beware as usual .</Lemma>
+	</Sentence>
+</Document>

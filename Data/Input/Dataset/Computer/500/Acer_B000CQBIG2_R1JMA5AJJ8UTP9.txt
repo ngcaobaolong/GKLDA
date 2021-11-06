@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've looked everywhere for a 1080p monitor with a glossy screen and this was the closest thing I have been able to find -LRB- 1680x1050 , which is close enough -RRB- .</Tokens>
+		<POS>PRP VBP VBD RB IN DT JJ NN IN DT JJ NN CC DT VBD DT JJS NN PRP VBP VBN JJ TO VB -LRB- CD , WDT VBZ RB JJ -RRB- .</POS>
+		<Lemma>I have look everywhere for a 1080p monitor with a glossy screen and this be the closest thing I have be able to find -lrb- 1680x1050 , which be close enough -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm pleasantly surprised to find that there is no noticable glare on the glossy screen : the anti-reflective surface works exactly as advertised , whether exposed to sunlight or artificial light .</Tokens>
+		<POS>PRP VBP RB VBN TO VB IN EX VBZ DT JJ NN IN DT JJ NN : DT JJ NN VBZ RB IN VBN , IN VBN TO NN CC JJ NN .</POS>
+		<Lemma>I be pleasantly surprise to find that there be no noticable glare on the glossy screen : the anti-reflective surface work exactly as advertise , whether expose to sunlight or artificial light .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm afraid those who laud the benefits of anti-glare -LRB- matte -RRB- screens have never seen a good anti-reflective screen .</Tokens>
+		<POS>PRP VBP JJ DT WP VBP DT NNS IN JJ -LRB- NN -RRB- NNS VBP RB VBN DT JJ JJ NN .</POS>
+		<Lemma>I be afraid those who laud the benefit of anti-glare -lrb- matte -rrb- screen have never see a good anti-reflective screen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The colors are bright and the contrast is superb ; the monitor doubles well as a TV or video display , unlike typical -LRB- matte -RRB- LCD monitors which appear dull and washed out in comparison .</Tokens>
+		<POS>DT NNS VBP JJ CC DT NN VBZ JJ : DT NN VBZ RB IN DT NN CC NN NN , IN JJ -LRB- NN -RRB- NNS NNS WDT VBP JJ CC VBN RP IN NN .</POS>
+		<Lemma>the color be bright and the contrast be superb ; the monitor double well as a tv or video display , unlike typical -lrb- matte -rrb- lcd monitor which appear dull and wash out in comparison .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The `` glass '' effects in Vista and Ubuntu Beryl look particularly realistic on this monitor .</Tokens>
+		<POS>DT `` NN '' NNS IN NNP CC NNP NNP VB RB JJ IN DT NN .</POS>
+		<Lemma>the `` glass '' effect in Vista and Ubuntu Beryl look particularly realistic on this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My only minor complaint would be that like most Acer monitors , switching between inputs -LRB- e.g. DVI vs. VGA -RRB- is a bit slow and awkward .</Tokens>
+		<POS>PRP$ JJ JJ NN MD VB IN IN JJS NNP NNS , NN IN NNS -LRB- FW NNP FW NNP -RRB- VBZ DT RB JJ CC JJ .</POS>
+		<Lemma>my only minor complaint would be that like most Acer monitor , switching between input -lrb- e.g. DVI vs. VGA -rrb- be a bit slow and awkward .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Fortunately I 've recently converted my three attached PCs -LRB- Vista , Ubuntu and OSX -RRB- to DVI on a KVM switch .</Tokens>
+		<POS>RB PRP VBP RB VBN PRP$ CD VBN NNS -LRB- NNP , NNP CC NNP -RRB- TO NNP IN DT NN NN .</POS>
+		<Lemma>fortunately I have recently convert my three attach pc -lrb- Vista , Ubuntu and OSX -rrb- to DVI on a kvm switch .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Also note that the bottom of the stand is quite sharp and will scratch a wood surface if it is moved without lifting it .</Tokens>
+		<POS>RB NN IN DT NN IN DT NN VBZ RB JJ CC MD VB DT NN NN IN PRP VBZ VBN IN VBG PRP .</POS>
+		<Lemma>also note that the bottom of the stand be quite sharp and will scratch a wood surface if it be move without lift it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I only hope Acer eventually sees fit to release a glossy-surfaced monitor at a true 1080p resolution .</Tokens>
+		<POS>PRP RB VBP NNP RB VBZ JJ TO VB DT JJ NN IN DT JJ NN NN .</POS>
+		<Lemma>I only hope Acer eventually see fit to release a glossy-surfaced monitor at a true 1080p resolution .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Unfortunately they say that they currently have no plans to do so .</Tokens>
+		<POS>RB PRP VBP IN PRP RB VBP DT NNS TO VB RB .</POS>
+		<Lemma>unfortunately they say that they currently have no plan to do so .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>EDIT : I have to add that after having owned the monitor for about a year my opinion of it and Acer has changed for the worse .</Tokens>
+		<POS>NNP : PRP VBP TO VB IN IN VBG VBN DT NN IN IN DT NN PRP$ NN IN PRP CC NNP VBZ VBN IN DT JJR .</POS>
+		<Lemma>EDIT : I have to add that after have own the monitor for about a year my opinion of it and Acer have change for the worse .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The resolution autodetect communication logic -LRB- EDID -RRB- spontaneously died and the monitor now -LRB- effectively -RRB- only works in VGA mode .</Tokens>
+		<POS>DT NN NN NN NN -LRB- NN -RRB- RB VBD CC DT NN RB -LRB- RB -RRB- RB VBZ IN NNP NN .</POS>
+		<Lemma>the resolution autodetect communication logic -lrb- edid -rrb- spontaneously die and the monitor now -lrb- effectively -rrb- only work in VGA mode .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It took me a massive amount of effort to diagnose and understand the problem , with absolutely no help from Acer , who also wo n't do the right thing and repair it .</Tokens>
+		<POS>PRP VBD PRP DT JJ NN IN NN TO VB CC VB DT NN , IN RB DT NN IN NNP , WP RB MD RB VB DT JJ NN CC VB PRP .</POS>
+		<Lemma>it take I a massive amount of effort to diagnose and understand the problem , with absolutely no help from Acer , who also will not do the right thing and repair it .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 'll be avoiding Acer products in the future .</Tokens>
+		<POS>PRP MD VB VBG NNP NNS IN DT NN .</POS>
+		<Lemma>I 'll be avoid Acer product in the future .</Lemma>
+	</Sentence>
+</Document>

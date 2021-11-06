@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a delicious whole grain bread that tastes like real bread .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN NN WDT VBZ IN JJ NN .</POS>
+		<Lemma>this be a delicious whole grain bread that taste like real bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Hearty and like a rye bread .</Tokens>
+		<POS>NNP CC IN DT NN NN .</POS>
+		<Lemma>Hearty and like a rye bread .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I chose it because I need a whole grain product that has some fiber in it .</Tokens>
+		<POS>PRP VBD PRP IN PRP VBP DT JJ NN NN WDT VBZ DT NN IN PRP .</POS>
+		<Lemma>I choose it because I need a whole grain product that have some fiber in it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unfortunately , after eating it for four weeks it became certain that the bean flour was making me quite sick .</Tokens>
+		<POS>RB , IN VBG PRP IN CD NNS PRP VBD JJ IN DT NN NN VBD VBG PRP RB JJ .</POS>
+		<Lemma>unfortunately , after eat it for four week it become certain that the bean flour be make I quite sick .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Not sure whether it is the garbanza bean or fava bean flour in it but I had to stop eating it .</Tokens>
+		<POS>RB JJ IN PRP VBZ DT NN NN CC NN NN NN IN PRP CC PRP VBD TO VB VBG PRP .</POS>
+		<Lemma>not sure whether it be the garbanza bean or fava bean flour in it but I have to stop eat it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My digestion was a mess .</Tokens>
+		<POS>PRP$ NN VBD DT NN .</POS>
+		<Lemma>my digestion be a mess .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Too bad for me .</Tokens>
+		<POS>RB JJ IN PRP .</POS>
+		<Lemma>too bad for I .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It was really delicious .</Tokens>
+		<POS>PRP VBD RB JJ .</POS>
+		<Lemma>it be really delicious .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I had the best results for baking by not putting the whole mix into one loaf pan .</Tokens>
+		<POS>PRP VBD DT JJS NNS IN VBG IN RB VBG DT JJ NN IN CD NN NN .</POS>
+		<Lemma>I have the best result for bake by not put the whole mix into one loaf pan .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It would rise too much and overflow .</Tokens>
+		<POS>PRP MD VB RB JJ CC NN .</POS>
+		<Lemma>it would rise too much and overflow .</Lemma>
+	</Sentence>
+</Document>

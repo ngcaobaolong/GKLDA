@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very good !</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very good !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Practical and efficient .</Tokens>
+		<POS>NNP CC JJ .</POS>
+		<Lemma>Practical and efficient .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has everything I need and works perfectly .</Tokens>
+		<POS>PRP VBZ NN PRP VBP CC VBZ RB .</POS>
+		<Lemma>it have everything I need and work perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would definitely recommend this product .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>I would definitely recommend this product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great experience .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great experience .</Lemma>
+	</Sentence>
+</Document>

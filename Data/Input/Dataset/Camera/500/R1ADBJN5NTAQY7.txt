@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for a high-end compact camera , specially with good optical zoom .</Tokens>
+		<POS>PRP VBD VBG IN DT JJ JJ NN , RB IN JJ JJ NN .</POS>
+		<Lemma>I be look for a high-end compact camera , specially with good optical zoom .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I was searching for such a camera , I found Sony HX9V .</Tokens>
+		<POS>WRB PRP VBD VBG IN PDT DT NN , PRP VBD NNP NN .</POS>
+		<Lemma>when I be search for such a camera , I find Sony hx9v .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There are a number of features which makes it a SLR equivalent Point Shoot camera .</Tokens>
+		<POS>EX VBP DT NN IN NNS WDT VBZ PRP DT NN JJ NNP CC NNP NN .</POS>
+		<Lemma>there be a number of feature which make it a slr equivalent Point Shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>More importantly , this camera has amazing advanced features that will last for atleast next 4 years .</Tokens>
+		<POS>RBR RB , DT NN VBZ JJ CC JJ NNS WDT MD VB IN NN JJ CD NNS .</POS>
+		<Lemma>more importantly , this camera have amazing advanced feature that will last for atleast next 4 year .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't think , it will get outdated before 4-5 years .</Tokens>
+		<POS>PRP VBP RB VB , PRP MD VB VBN IN CD NNS .</POS>
+		<Lemma>I do not think , it will get outdate before 4-5 year .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So you can very well go for this , if you are looking for a compact camera with rich SLR features .</Tokens>
+		<POS>IN PRP MD RB RB VB IN DT , IN PRP VBP VBG IN DT JJ NN IN JJ NN NNS .</POS>
+		<Lemma>so you can very well go for this , if you be look for a compact camera with rich slr feature .</Lemma>
+	</Sentence>
+</Document>

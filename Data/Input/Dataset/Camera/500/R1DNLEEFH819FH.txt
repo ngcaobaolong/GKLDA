@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm still learning the various settings but it is getting better .</Tokens>
+		<POS>PRP VBP RB VBG DT JJ NNS CC PRP VBZ VBG RBR .</POS>
+		<Lemma>I be still learn the various setting but it be get better .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Only problem - no user booklet came with the camera but got some online info .</Tokens>
+		<POS>RB NN : DT NN NN VBD IN DT NN CC VBD DT JJ NN .</POS>
+		<Lemma>only problem - no user booklet come with the camera but get some online info .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I take a lot of close up photos and they are good .</Tokens>
+		<POS>PRP VBP DT NN IN NN IN NNS CC PRP VBP JJ .</POS>
+		<Lemma>I take a lot of close up photo and they be good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Light settings excellent .</Tokens>
+		<POS>JJ NNS JJ .</POS>
+		<Lemma>light setting excellent .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Nice durable camera .</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>nice durable camera .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a pretty good monitor , have n't noticed any backlighting issues and there were no dead pixels in the two I bought .</Tokens>
+		<POS>DT VBZ DT RB JJ NN , VBP RB VBN DT NN NNS CC EX VBD DT JJ NNS IN DT CD PRP VBD .</POS>
+		<Lemma>this be a pretty good monitor , have not notice any backlighting issue and there be no dead pixel in the two I buy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Resolution is nice and the 5ms refresh rate means you can use it for games without any problem .</Tokens>
+		<POS>NN VBZ JJ CC DT NNS VBP NN VBZ PRP MD VB PRP IN NNS IN DT NN .</POS>
+		<Lemma>resolution be nice and the 5m refresh rate mean you can use it for game without any problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only problem I found is that this monitor does n't have a DVI input .</Tokens>
+		<POS>DT JJ NN PRP VBD VBZ IN DT NN VBZ RB VB DT NNP NN .</POS>
+		<Lemma>the only problem I find be that this monitor do not have a DVI input .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Although the description does n't mention the monitor having one -LRB- which would have changed my rating to zero since it would have been a lie -RRB- , its not something you look carefully at , as one would expect a 19W monitor to have a DVI input by default .</Tokens>
+		<POS>IN DT NN VBZ RB VB DT NN VBG CD -LRB- WDT MD VB VBN PRP$ NN TO CD IN PRP MD VB VBN DT NN -RRB- , PRP$ RB NN PRP VBP RB IN , IN CD MD VB DT NN NN TO VB DT NNP NN IN NN .</POS>
+		<Lemma>although the description do not mention the monitor have one -lrb- which would have change my rating to zero since it would have be a lie -rrb- , its not something you look carefully at , as one would expect a 19w monitor to have a DVI input by default .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can buy an adapter for that , but it just feels like a blemish on an otherwise excellent product .</Tokens>
+		<POS>PRP MD VB DT NN IN DT , CC PRP RB VBZ IN DT NN IN DT RB JJ NN .</POS>
+		<Lemma>you can buy a adapter for that , but it just feel like a blemish on a otherwise excellent product .</Lemma>
+	</Sentence>
+</Document>

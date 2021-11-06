@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Can not stand -LRB- ppl % so I am not in to supporting anything from them .</Tokens>
+		<POS>MD RB VB -LRB- CD NN IN PRP VBP RB IN TO VBG NN IN PRP .</POS>
+		<Lemma>can not stand -lrb- ppl % so I be not in to support anything from they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Android is certainly the way to go for a tablet , but I wanted a real NIC port as I need that for my job .</Tokens>
+		<POS>NNP VBZ RB DT NN TO VB IN DT NN , CC PRP VBD DT JJ NN NN IN PRP VBP IN IN PRP$ NN .</POS>
+		<Lemma>Android be certainly the way to go for a tablet , but I want a real nic port as I need that for my job .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This model is the perfect fit - much lighter than my clumsy work laptop and does the job just a quick and in style .</Tokens>
+		<POS>DT NN VBZ DT JJ NN : JJ JJR IN PRP$ JJ NN NN CC VBZ DT NN RB DT JJ CC IN NN .</POS>
+		<Lemma>this model be the perfect fit - much lighter than my clumsy work laptop and do the job just a quick and in style .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Customers always use it as a talking point .</Tokens>
+		<POS>NNS RB VBP PRP IN DT VBG NN .</POS>
+		<Lemma>customer always use it as a talk point .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Windows Starter is cute and that is it .</Tokens>
+		<POS>NNP NNP VBZ JJ CC DT VBZ PRP .</POS>
+		<Lemma>Windows Starter be cute and that be it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Purchase the 2GB ram , and install any 64Bit version of Win7 .</Tokens>
+		<POS>NN DT NN NN , CC VB DT NN NN IN NN .</POS>
+		<Lemma>purchase the 2gb ram , and install any 64bit version of win7 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>My performance index jumped .9 just by loading a fresh install of x64 WIN7 PRO .</Tokens>
+		<POS>PRP$ NN NN VBD CD RB IN VBG DT JJ VB IN NN NN FW .</POS>
+		<Lemma>my performance index jump .9 just by load a fresh install of x64 win7 pro .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Great purchase at a great price .</Tokens>
+		<POS>JJ NN IN DT JJ NN .</POS>
+		<Lemma>great purchase at a great price .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The display will blow you away compared to a laptop ...</Tokens>
+		<POS>DT NN MD VB PRP RB VBD TO DT NN :</POS>
+		<Lemma>the display will blow you away compare to a laptop ...</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We got the camera for our 8 yr old .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ CD NN JJ .</POS>
+		<Lemma>we get the camera for we 8 yr old .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I got it at first I liked it .</Tokens>
+		<POS>WRB PRP VBD PRP IN JJ PRP VBD PRP .</POS>
+		<Lemma>when I get it at first I like it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was a simple camera for him to use and learn with .</Tokens>
+		<POS>PRP VBD DT JJ NN IN PRP TO VB CC VB IN .</POS>
+		<Lemma>it be a simple camera for he to use and learn with .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Until yesterday ... ... he took it with him to a swimming party .</Tokens>
+		<POS>IN NN : : PRP VBD PRP IN PRP TO DT VBG NN .</POS>
+		<Lemma>until yesterday ... ... he take it with he to a swim party .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>First time it had hit the water , it quit working .</Tokens>
+		<POS>JJ NN PRP VBD VBN DT NN , PRP VBD VBG .</POS>
+		<Lemma>first time it have hit the water , it quit work .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We opened it all up to see if was the batteries to find water !</Tokens>
+		<POS>PRP VBD PRP DT RP TO VB IN VBD DT NNS TO VB NN .</POS>
+		<Lemma>we open it all up to see if be the battery to find water !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In the area that was supposed to be water proof !!!!</Tokens>
+		<POS>IN DT NN WDT VBD VBN TO VB NN NN IN</POS>
+		<Lemma>in the area that be suppose to be water proof !!!!</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Looking at it again this morning , and there is water under the screen ... guess it is going to the trash !</Tokens>
+		<POS>VBG IN PRP RB DT NN , CC EX VBZ NN IN DT NN : VB PRP VBZ VBG TO DT NN .</POS>
+		<Lemma>look at it again this morning , and there be water under the screen ... guess it be go to the trash !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Hate to say it but very upset on this buy ... STAY AWAY from this camera - unless you keep it out of the water !</Tokens>
+		<POS>NN TO VB PRP CC RB JJ IN DT NN : VB RB IN DT NN : IN PRP VBP PRP IN IN DT NN .</POS>
+		<Lemma>hate to say it but very upset on this buy ... stay away from this camera - unless you keep it out of the water !</Lemma>
+	</Sentence>
+</Document>

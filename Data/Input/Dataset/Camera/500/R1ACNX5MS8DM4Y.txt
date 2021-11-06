@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this product last week because I was going to the beach and wanted a waterproof camera .</Tokens>
+		<POS>PRP VBD DT NN JJ NN IN PRP VBD VBG TO DT NN CC VBD DT JJ NN .</POS>
+		<Lemma>I buy this product last week because I be go to the beach and want a waterproof camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>On the second day there I accidentally knocked it off the table and it landed on the floor .</Tokens>
+		<POS>IN DT JJ NN RB PRP RB VBD PRP RP DT NN CC PRP VBD IN DT NN .</POS>
+		<Lemma>on the second day there I accidentally knock it off the table and it land on the floor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Although this camera claims to be shockproof up to 1.5 meters , it broke after falling only 3 feet .</Tokens>
+		<POS>IN DT NN VBZ TO VB JJ IN TO CD NNS , PRP VBD IN VBG RB CD NNS .</POS>
+		<Lemma>although this camera claim to be shockproof up to 1.5 meter , it break after fall only 3 foot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm sending the camera in to be serviced but accidental\/water damage is not covered under the Kodak warranty -LRB- even on a shockproof\/waterproof camera -RRB- so I cant wait to see what the bill is going to be !</Tokens>
+		<POS>PRP VBP VBG DT NN IN TO VB VBN CC NN NN VBZ RB VBN IN DT NNP NN -LRB- RB IN DT JJ NN -RRB- IN PRP VBP VB TO VB WP DT NN VBZ VBG TO VB .</POS>
+		<Lemma>I be send the camera in to be service but accidental\/water damage be not cover under the Kodak warranty -lrb- even on a shockproof\/waterproof camera -rrb- so I cant wait to see what the bill be go to be !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Other then that , the camera is just OK as long as you do not drop it .</Tokens>
+		<POS>JJ RB IN , DT NN VBZ RB JJ RB RB IN PRP VBP RB VB PRP .</POS>
+		<Lemma>other then that , the camera be just ok as long as you do not drop it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Hope this helps !</Tokens>
+		<POS>NNP DT VBZ .</POS>
+		<Lemma>Hope this help !</Lemma>
+	</Sentence>
+</Document>

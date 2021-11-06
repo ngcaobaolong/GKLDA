@@ -1,0 +1,142 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So this review is the only thing I will type on my `` new '' ACER monitor .</Tokens>
+		<POS>RB DT NN VBZ DT JJ NN PRP MD NN IN PRP$ `` JJ '' NNP NN .</POS>
+		<Lemma>so this review be the only thing I will type on my `` new '' ACER monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Pros : none Cons : 1 .</Tokens>
+		<POS>NNS : NN NNS : CD .</POS>
+		<Lemma>pro : none con : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Screen autoadjusts to a crappy , pastel hue with a slight blurr to everything .</Tokens>
+		<POS>NN NNS TO DT JJ , JJ NN IN DT JJ NN TO NN .</POS>
+		<Lemma>screen autoadjust to a crappy , pastel hue with a slight blurr to everything .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Umm , no. .</Tokens>
+		<POS>NNP , NNP .</POS>
+		<Lemma>Umm , no. .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>That will not work for me .</Tokens>
+		<POS>DT MD RB VB IN PRP .</POS>
+		<Lemma>that will not work for I .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Screen has a sharpness issue .</Tokens>
+		<POS>NN VBZ DT NN NN .</POS>
+		<Lemma>screen have a sharpness issue .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Every letter is blurred , very very slightly .</Tokens>
+		<POS>DT NN VBZ VBN , RB RB RB .</POS>
+		<Lemma>every letter be blur , very very slightly .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>By the time I am done writing this , it is very noticeable .</Tokens>
+		<POS>IN DT NN PRP VBP VBN VBG DT , PRP VBZ RB JJ .</POS>
+		<Lemma>by the time I be do write this , it be very noticeable .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The stand is unadjustable .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the stand be unadjustable .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>You ca n't tilt or rotate the screen .</Tokens>
+		<POS>PRP MD RB VB CC VB DT NN .</POS>
+		<Lemma>you can not tilt or rotate the screen .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The stand puts the screen exactly vertical , which is a problem if your head is higher than your keyboard .</Tokens>
+		<POS>DT NN VBZ DT NN RB JJ , WDT VBZ DT NN IN PRP$ NN VBZ JJR IN PRP$ NN .</POS>
+		<Lemma>the stand put the screen exactly vertical , which be a problem if you head be higher than you keyboard .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>If you are taller than 5 ' -4 '' the position of the screen on your computer makes you feel like you are looking down .</Tokens>
+		<POS>IN PRP VBP JJR IN CD '' CD '' DT NN IN DT NN IN PRP$ NN VBZ PRP VB IN PRP VBP VBG RP .</POS>
+		<Lemma>if you be taller than 5 ' -4 '' the position of the screen on you computer make you feel like you be look down .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>After propping it up with a pen and book , I 'm thinking `` Why did I just do that ... oh , it is because my screen is not built with a tilt stand '' 5 .</Tokens>
+		<POS>IN VBG PRP RP IN DT NN CC NN , PRP VBP VBG `` WRB VBD PRP RB VBP DT : UH , PRP VBZ IN PRP$ NN VBZ RB VBN IN DT NN VB '' CD .</POS>
+		<Lemma>after prop it up with a pen and book , I be think `` why do I just do that ... oh , it be because my screen be not build with a tilt stand '' 5 .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The `` adjustment '' menu has a timer on it , at which point it kicks off .</Tokens>
+		<POS>DT `` NN '' NN VBZ DT NN IN PRP , IN WDT NN PRP VBZ RP .</POS>
+		<Lemma>the `` adjustment '' menu have a timer on it , at which point it kick off .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The timer is about 5 seconds .</Tokens>
+		<POS>DT NN VBZ IN CD NNS .</POS>
+		<Lemma>the timer be about 5 seconds .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Ummm , no. .</Tokens>
+		<POS>NNP , NNP .</POS>
+		<Lemma>Ummm , no. .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>That will not work for me .</Tokens>
+		<POS>DT MD RB VB IN PRP .</POS>
+		<Lemma>that will not work for I .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>6 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>6 .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Other reviews by users who have \* surprise \* a single written review and it just so happens to be for this screen ... umm no. .</Tokens>
+		<POS>JJ NNS IN NNS WP VBP SYM NN SYM DT JJ VBN NN CC PRP RB RB VBZ TO VB IN DT NN : JJ NN .</POS>
+		<Lemma>other review by user who have \* surprise \* a single write review and it just so happen to be for this screen ... umm no. .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Acer employees typing stuff up on their lunch hour will also not work for me .</Tokens>
+		<POS>NNP NNS NN NN RB IN PRP$ NN NN MD RB RB VB IN PRP .</POS>
+		<Lemma>Acer employee typing stuff up on they lunch hour will also not work for I .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I have owned this thing for 10 minutes and it will be going back to Staples tomorrow .</Tokens>
+		<POS>PRP VBP VBN DT NN IN CD NNS CC PRP MD VB VBG RB TO NNP NN .</POS>
+		<Lemma>I have own this thing for 10 minute and it will be go back to Staples tomorrow .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I bought another ACER last year and that screen rocked .</Tokens>
+		<POS>PRP VBD DT NNP JJ NN CC IN NN VBD .</POS>
+		<Lemma>I buy another ACER last year and that screen rock .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>HIghly dissapointed in this piece of trash .</Tokens>
+		<POS>RB JJ IN DT NN IN NN .</POS>
+		<Lemma>highly dissapointed in this piece of trash .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>UPDATE : I went back and bought a Dell ST2220 ... .100 % better all the way .</Tokens>
+		<POS>NNP : PRP VBD RB CC VBD DT NNP NN : CD NN JJR PDT DT NN .</POS>
+		<Lemma>UPDATE : I go back and buy a Dell st2220 ... .100 % better all the way .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Finally , a good computer screen .</Tokens>
+		<POS>RB , DT JJ NN NN .</POS>
+		<Lemma>finally , a good computer screen .</Lemma>
+	</Sentence>
+</Document>

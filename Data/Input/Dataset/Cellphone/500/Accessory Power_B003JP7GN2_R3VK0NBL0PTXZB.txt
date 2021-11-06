@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is really a versatile & handy charger .</Tokens>
+		<POS>DT VBZ RB DT JJ CC JJ NN .</POS>
+		<Lemma>this be really a versatile & handy charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have used it to charge my wifes Ipod Nano from a wall receptacle and my Galaxy S phone from my vehicle .</Tokens>
+		<POS>PRP VBP VBN PRP TO VB PRP$ NNS NNP NNP IN DT NN NN CC PRP$ NNP NN NN IN PRP$ NN .</POS>
+		<Lemma>I have use it to charge my wife Ipod Nano from a wall receptacle and my Galaxy s phone from my vehicle .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Works as described and at a decent price for all that it can do .</Tokens>
+		<POS>NNP IN VBN CC IN DT JJ NN IN DT IN PRP MD VB .</POS>
+		<Lemma>Works as describe and at a decent price for all that it can do .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I definitely recommend !</Tokens>
+		<POS>PRP RB VB .</POS>
+		<Lemma>I definitely recommend !</Lemma>
+	</Sentence>
+</Document>

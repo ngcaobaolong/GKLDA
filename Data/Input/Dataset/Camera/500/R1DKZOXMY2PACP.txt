@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very basic camera worth the money .</Tokens>
+		<POS>RB JJ NN IN DT NN .</POS>
+		<Lemma>very basic camera worth the money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Go for it , enjoy your trips with easy snapshots .</Tokens>
+		<POS>VB IN PRP , VB PRP$ NNS IN JJ NNS .</POS>
+		<Lemma>go for it , enjoy you trip with easy snapshot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Those who are in need of camera that is too easy to use and not in need of extreme special quality , this is for you .</Tokens>
+		<POS>DT WP VBP IN NN IN NN WDT VBZ RB JJ TO VB CC RB IN NN IN JJ JJ NN , DT VBZ IN PRP .</POS>
+		<Lemma>those who be in need of camera that be too easy to use and not in need of extreme special quality , this be for you .</Lemma>
+	</Sentence>
+</Document>

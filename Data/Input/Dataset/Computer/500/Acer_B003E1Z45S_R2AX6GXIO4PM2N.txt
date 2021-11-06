@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor I received is defective and simply turns itself off all the time and wo n't come back until you unplug the power cable .</Tokens>
+		<POS>DT NN PRP VBD VBZ JJ CC RB VBZ PRP RP PDT DT NN CC MD RB VB RB IN PRP VBP DT NN NN .</POS>
+		<Lemma>the monitor I receive be defective and simply turn itself off all the time and will not come back until you unplug the power cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It seems to work at most for 20 minutes before it starts to flickr on\/off .</Tokens>
+		<POS>PRP VBZ TO VB IN JJS IN CD NNS IN PRP VBZ TO VB JJ .</POS>
+		<Lemma>it seem to work at most for 20 minute before it start to flickr on\/off .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Tried on multiple computers both PC and Mac with the DVI and vga cable , in all cases it is doing the same thing .</Tokens>
+		<POS>VBD IN JJ NNS CC NN CC NN IN DT NNP CC NN NN , IN DT NNS PRP VBZ VBG DT JJ NN .</POS>
+		<Lemma>try on multiple computer both pc and mac with the DVI and vga cable , in all case it be do the same thing .</Lemma>
+	</Sentence>
+</Document>

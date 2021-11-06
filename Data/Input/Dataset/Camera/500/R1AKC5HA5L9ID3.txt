@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The wireless connection is not a selling point .</Tokens>
+		<POS>DT JJ NN VBZ RB DT NN NN .</POS>
+		<Lemma>the wireless connection be not a selling point .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera will lose connection and you need to re-establish with an IP connection and string CAT6 to your camera .</Tokens>
+		<POS>DT NN MD VB NN CC PRP VBP TO VB IN DT NNP NN CC NN NN TO PRP$ NN .</POS>
+		<Lemma>this camera will lose connection and you need to re-establish with a IP connection and string cat6 to you camera .</Lemma>
+	</Sentence>
+</Document>

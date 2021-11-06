@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I LOVE this soup mix .</Tokens>
+		<POS>PRP VBP DT NN NN .</POS>
+		<Lemma>I love this soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am most definitely NOT a good cook -- but this makes the easiest best soup ever .</Tokens>
+		<POS>PRP VBP RBS RB RB DT JJ NN : CC DT VBZ DT JJS JJS NN RB .</POS>
+		<Lemma>I be most definitely not a good cook -- but this make the easiest best soup ever .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I measure out a cup and put it in the soup pan .</Tokens>
+		<POS>PRP VBP RP DT NN CC VBD PRP IN DT NN NN .</POS>
+		<Lemma>I measure out a cup and put it in the soup pan .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Then I rinse and drain the mix about four or five times until the water is clear .</Tokens>
+		<POS>RB PRP VB CC VB DT NN IN CD CC CD NNS IN DT NN VBZ JJ .</POS>
+		<Lemma>then I rinse and drain the mix about four or five time until the water be clear .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>After draining the mix the last time , I pour a 48 ounce can of Swanson 's All Natural , Low sodium , no MSG chicken broth into the soup pan with the mix .</Tokens>
+		<POS>IN VBG DT NN DT JJ NN , PRP VBP DT CD NN MD IN NNP POS DT JJ , JJ NN , DT NNP NN NN IN DT NN NN IN DT NN .</POS>
+		<Lemma>after drain the mix the last time , I pour a 48 ounce can of Swanson 's all natural , low sodium , no MSG chicken broth into the soup pan with the mix .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Finally just simmer , covered , on medium heat for an hour or so .</Tokens>
+		<POS>RB RB VB , VBN , IN NN NN IN DT NN CC RB .</POS>
+		<Lemma>finally just simmer , cover , on medium heat for a hour or so .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The longer you let it simmer , the thicker it gets .</Tokens>
+		<POS>DT JJR PRP VBP PRP VB , DT JJR PRP VBZ .</POS>
+		<Lemma>the longer you let it simmer , the thicker it get .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's really simple , good , and healthy .</Tokens>
+		<POS>PRP VBZ RB JJ , JJ , CC JJ .</POS>
+		<Lemma>it be really simple , good , and healthy .</Lemma>
+	</Sentence>
+</Document>

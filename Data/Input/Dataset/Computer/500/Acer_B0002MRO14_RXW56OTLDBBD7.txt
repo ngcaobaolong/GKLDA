@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>One of the most affordable 19 '' LCD monitors around , this Acer flat screens has average image quality and performance .</Tokens>
+		<POS>CD IN DT RBS JJ CD '' NNS NNS RB , DT NNP JJ NNS VBZ JJ NN NN CC NN .</POS>
+		<Lemma>one of the most affordable 19 '' lcd monitor around , this Acer flat screen have average image quality and performance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Do n't be fooled by the `` fast 16ms response time '' marketing talk .</Tokens>
+		<POS>VBP RB VB VBN IN DT `` JJ NNS NN NN '' NN NN .</POS>
+		<Lemma>do not be fool by the `` fast 16m response time '' marketing talk .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Most decent LCD monitors these days have 16ms response time .</Tokens>
+		<POS>JJS JJ NNS VBZ DT NNS VBP NNS NN NN .</POS>
+		<Lemma>most decent lcd monitor these day have 16m response time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Acer has only so-so image quality .</Tokens>
+		<POS>DT NNP VBZ RB JJ NN NN .</POS>
+		<Lemma>the Acer have only so-so image quality .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Text is not as crisp as on better brands like Sharp or NEC .</Tokens>
+		<POS>NN VBZ RB IN JJ IN IN JJR NNS IN JJ CC NNP .</POS>
+		<Lemma>text be not as crisp as on better brand like sharp or NEC .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Colors are a bit washed out but still acceptable .</Tokens>
+		<POS>NNS VBP DT NN VBN RP CC RB JJ .</POS>
+		<Lemma>color be a bit wash out but still acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Brightness is lower than most recent LCD monitors , and the 140 '' viewing angle is narrower than today 's typical 160 '' .</Tokens>
+		<POS>NN VBZ JJR IN JJS JJ NNS NNS , CC DT CD '' VBG NN VBZ JJR IN NN POS JJ CD '' .</POS>
+		<Lemma>brightness be lower than most recent lcd monitor , and the 140 '' view angle be narrower than today 's typical 160 '' .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>In short , you are getting a value-oriented LCD monitor which wo n't disappoint you most of the time .</Tokens>
+		<POS>IN JJ , PRP VBP VBG DT JJ NNS VBP WDT MD RB VB PRP JJS IN DT NN .</POS>
+		<Lemma>in short , you be get a value-oriented lcd monitor which will not disappoint you most of the time .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>But if you demand excellent image , go with a Sharp or NEC or Mitsubishi or even a Sceptre -LRB- a relatively new brand , also sold here on amazon -RRB- .</Tokens>
+		<POS>CC IN PRP VBP JJ NN , VB IN DT JJ CC NNP CC NNP CC RB DT NNP -LRB- DT RB JJ NN , RB VBN RB IN NN -RRB- .</POS>
+		<Lemma>but if you demand excellent image , go with a sharp or NEC or Mitsubishi or even a Sceptre -lrb- a relatively new brand , also sell here on amazon -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>E-mail me if you have any LCD questions and I 'll see if I can help .</Tokens>
+		<POS>NN PRP IN PRP VBP DT NNS NNS CC PRP MD VB IN PRP MD VB .</POS>
+		<Lemma>e-mail I if you have any lcd question and I 'll see if I can help .</Lemma>
+	</Sentence>
+</Document>

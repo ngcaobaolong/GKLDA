@@ -1,0 +1,257 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Finally got the A55 couple of days ago .</Tokens>
+		<POS>RB VBD DT NN NN IN NNS RB .</POS>
+		<Lemma>finally get the a55 couple of day ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There are a lot of features in this camera -LRB- I am a slow learner -RRB- .</Tokens>
+		<POS>EX VBP DT NN IN NNS IN DT NN -LRB- PRP VBP DT JJ NN -RRB- .</POS>
+		<Lemma>there be a lot of feature in this camera -lrb- I be a slow learner -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just some quick feedback from a newbie .</Tokens>
+		<POS>RB DT JJ NN IN DT NN .</POS>
+		<Lemma>just some quick feedback from a newbie .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is my first DSLR - my last SLR was a Canon AE1 - which I really enjoyed -LRB- talk about ancient ! -RRB-</Tokens>
+		<POS>DT VBZ PRP$ JJ NN : PRP$ JJ NN VBD DT NNP NN : WDT PRP RB VBD -LRB- NN IN JJ . -RRB-</POS>
+		<Lemma>this be my first dslr - my last slr be a Canon ae1 - which I really enjoy -lrb- talk about ancient ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have had a couple of digital PS -LRB- Canon G2 and sd860 -RRB- .</Tokens>
+		<POS>PRP VBP VBD DT NN IN JJ NN -LRB- NN NN CC NN -RRB- .</POS>
+		<Lemma>I have have a couple of digital ps -lrb- canon g2 and sd860 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I bought this to build a system around the alpha mount , if I did n't like it I figured I could just sell this and move on to another system .</Tokens>
+		<POS>PRP VBD DT TO VB DT NN IN DT NN VB , IN PRP VBD RB IN PRP PRP VBD PRP MD RB VB DT CC VB IN TO DT NN .</POS>
+		<Lemma>I buy this to build a system around the alpha mount , if I do not like it I figure I could just sell this and move on to another system .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>1 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>1 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Size\/weight : Quite a difference in `` heft '' .</Tokens>
+		<POS>NNP : RB DT NN IN `` NN '' .</POS>
+		<Lemma>Size\/weight : quite a difference in `` heft '' .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It is even lighter than the Canon G2 .</Tokens>
+		<POS>PRP VBZ RB JJR IN DT NNP NN .</POS>
+		<Lemma>it be even lighter than the Canon g2 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I do n't think it is a bad thing though .</Tokens>
+		<POS>PRP VBP RB VB PRP VBZ DT JJ NN IN .</POS>
+		<Lemma>I do not think it be a bad thing though .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It is easier to carry around .</Tokens>
+		<POS>PRP VBZ JJR TO VB RP .</POS>
+		<Lemma>it be easier to carry around .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Feel : It does feel somewhat cheap -LRB- with the kit lens -RRB- .</Tokens>
+		<POS>NNP : PRP VBZ VB RB JJ -LRB- IN DT NN NN -RRB- .</POS>
+		<Lemma>Feel : it do feel somewhat cheap -lrb- with the kit lens -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Not sure if it this is an indication of build quality .</Tokens>
+		<POS>RB JJ IN PRP DT VBZ DT NN IN VB NN .</POS>
+		<Lemma>not sure if it this be a indication of build quality .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>So long as it withstands the inevitable `` bumps '' I am okay .</Tokens>
+		<POS>RB RB IN PRP VBZ DT JJ `` NNS '' PRP VBP JJ .</POS>
+		<Lemma>so long as it withstand the inevitable `` bump '' I be okay .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Only time will tell .</Tokens>
+		<POS>RB NN MD VB .</POS>
+		<Lemma>only time will tell .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I guess if one is careful , it should be okay .</Tokens>
+		<POS>PRP VBP IN CD VBZ JJ , PRP MD VB JJ .</POS>
+		<Lemma>I guess if one be careful , it should be okay .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Pictures\/IQ : I have not had a lot of chances to explore the different modes yet .</Tokens>
+		<POS>NNP : PRP VBP RB VBN DT NN IN NNS TO VB DT JJ NNS RB .</POS>
+		<Lemma>Pictures\/IQ : I have not have a lot of chance to explore the different mode yet .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Like I said above , there are way too many choices for me .</Tokens>
+		<POS>IN PRP VBD RB , EX VBP RB RB JJ NNS IN PRP .</POS>
+		<Lemma>like I say above , there be way too many choice for I .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>My only experience so far has been at the Saturday soccer game , mid-afternoon , outdoors , sunny .</Tokens>
+		<POS>PRP$ JJ NN RB RB VBZ VBN IN DT NNP NN NN , NN , RB , JJ .</POS>
+		<Lemma>my only experience so far have be at the Saturday soccer game , mid-afternoon , outdoors , sunny .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Really liked the 10 fps , I felt that the camera did not track the subject as I had wanted it to -LRB- I may be doing something wrong here -RRB- .</Tokens>
+		<POS>RB VBD DT CD NNS , PRP VBD IN DT NN VBD RB VB DT JJ IN PRP VBD VBN PRP TO -LRB- PRP MD VB VBG NN JJ RB -RRB- .</POS>
+		<Lemma>really like the 10 fp , I feel that the camera do not track the subject as I have want it to -lrb- I may be do something wrong here -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Unfortunately , I only had a class 4 SDHC with me -LRB- not the limit though , as I never held the shutter down long enough to get more than 8 shots .</Tokens>
+		<POS>RB , PRP RB VBD DT NN CD NN IN PRP -LRB- RB DT NN RB , IN PRP RB VBD DT NN RB RB RB TO VB JJR IN CD NNS .</POS>
+		<Lemma>unfortunately , I only have a class 4 sdhc with I -lrb- not the limit though , as I never hold the shutter down long enough to get more than 8 shot .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>jpeg\/fine mode -RRB- .</Tokens>
+		<POS>NN NN -RRB- .</POS>
+		<Lemma>jpeg\/fine mode -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>The kit lens -LRB- 18-55mm -RRB- is not the best choice here -LRB- for sports\/action -RRB- .</Tokens>
+		<POS>DT NN NN -LRB- NN -RRB- VBZ RB DT JJS NN RB -LRB- IN NN -RRB- .</POS>
+		<Lemma>the kit lens -lrb- 18-55mm -rrb- be not the best choice here -lrb- for sports\/action -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I do not pixel peep , but like to view it on my 23 '' full screen and found the images to be quite nice .</Tokens>
+		<POS>PRP VBP RB VB NN , CC IN TO VB PRP IN PRP$ CD '' JJ NN CC VBD DT NNS TO VB RB JJ .</POS>
+		<Lemma>I do not pixel peep , but like to view it on my 23 '' full screen and find the image to be quite nice .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Never ran into any overheat issues during the shooting .</Tokens>
+		<POS>RB VBD IN DT NN NNS IN DT NN .</POS>
+		<Lemma>never run into any overheat issue during the shooting .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Video : This seems to be the overarching concern with this camera with the sensor overheat issues .</Tokens>
+		<POS>NNP : DT VBZ TO VB DT JJ NN IN DT NN IN DT NN NN NNS .</POS>
+		<Lemma>Video : this seem to be the overarching concern with this camera with the sensor overheat issue .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Did a simple test , shot video inside the home -LRB- about 69 deg F\/21 deg C -RRB- , and the overheat warning came on at ~ 7:45 min and camera shut down at ~ 8:45 min .</Tokens>
+		<POS>VBD DT JJ NN , NN NN IN DT NN -LRB- IN CD NN NN NN NN -RRB- , CC DT JJ NN VBD IN IN CD CD NN CC NN VBD RP IN CD CD NN .</POS>
+		<Lemma>do a simple test , shot video inside the home -lrb- about 69 deg f\/21 deg c -rrb- , and the overheat warning come on at ~ 7:45 min and camera shut down at ~ 8:45 min .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>The SSS was on and I handheld the camera -LRB- let it AF on various objects -RRB- .</Tokens>
+		<POS>DT NNP VBD IN CC PRP JJ DT NN -LRB- VB PRP NN IN JJ NNS -RRB- .</POS>
+		<Lemma>the SSS be on and I handheld the camera -lrb- let it af on various object -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>I do n't think this to be a limitation .</Tokens>
+		<POS>PRP VBP RB VB DT TO VB DT NN .</POS>
+		<Lemma>I do not think this to be a limitation .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>The video quality was good , but the mic did pick up some noise from the SAM motor -LRB- in the lens -RRB- .</Tokens>
+		<POS>DT JJ NN VBD JJ , CC DT JJ VBD VB RP DT NN IN DT NNP NN -LRB- IN DT NN -RRB- .</POS>
+		<Lemma>the video quality be good , but the mic do pick up some noise from the SAM motor -lrb- in the lens -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>5 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>5 .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Battery : The battery runs out fairly quickly .</Tokens>
+		<POS>NN : DT NN VBZ RP RB RB .</POS>
+		<Lemma>battery : the battery run out fairly quickly .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>It is somewhat weak to support this camera\/features .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB DT NNS .</POS>
+		<Lemma>it be somewhat weak to support this camera\/features .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>I would like a new battery , but am waiting to see if I can find some good batteries from the third party manufacturers -LRB- reviews found here show them to have some size issues -RRB- .</Tokens>
+		<POS>PRP MD VB DT JJ NN , CC VBP VBG TO VB IN PRP MD VB DT JJ NNS IN DT JJ NN NNS -LRB- NNS VBN RB VBP PRP TO VB DT NN NNS -RRB- .</POS>
+		<Lemma>I would like a new battery , but be wait to see if I can find some good battery from the third party manufacturer -lrb- review find here show they to have some size issue -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Sony battery is too expensive .</Tokens>
+		<POS>NNP NN VBZ RB JJ .</POS>
+		<Lemma>Sony battery be too expensive .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>6 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>6 .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>LCD\/EVF : It will take me a while to get used to the EVF .</Tokens>
+		<POS>NN : PRP MD VB PRP DT NN TO VB VBN TO DT NN .</POS>
+		<Lemma>lcd\/evf : it will take I a while to get use to the evf .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>For whatever reason keeping my eye on the EVF , then defocusing , makes me feel dizzy .</Tokens>
+		<POS>IN WDT NN VBG PRP$ NN IN DT NN , RB VBG , VBZ PRP VB JJ .</POS>
+		<Lemma>for whatever reason keep my eye on the evf , then defocus , make I feel dizzy .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>I had become very reliant on the LCD -LRB- from my digital PS -RRB- , I guess .</Tokens>
+		<POS>PRP VBD VBN RB JJ IN DT NNS -LRB- IN PRP$ JJ NN -RRB- , PRP VBP .</POS>
+		<Lemma>I have become very reliant on the lcd -lrb- from my digital ps -rrb- , I guess .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>The LCD smudges very easily , but is really nice .</Tokens>
+		<POS>DT NNS VBZ RB RB , CC VBZ RB JJ .</POS>
+		<Lemma>the lcd smudge very easily , but be really nice .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>Final thoughts : I have nothing more to add than what has already been said .</Tokens>
+		<POS>JJ NNS : PRP VBP NN JJR TO VB IN WP VBZ RB VBN VBN .</POS>
+		<Lemma>final thought : I have nothing more to add than what have already be say .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>I am being guarded in my comments till I have had a chance to play\/explore with all options on this camera , and will update this review .</Tokens>
+		<POS>PRP VBP VBG VBN IN PRP$ NNS IN PRP VBP VBD DT NN TO VB IN DT NNS IN DT NN , CC MD VB DT NN .</POS>
+		<Lemma>I be be guard in my comment till I have have a chance to play\/explore with all option on this camera , and will update this review .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>This is a keeper for me .</Tokens>
+		<POS>DT VBZ DT NN IN PRP .</POS>
+		<Lemma>this be a keeper for I .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>My experience so far has prompted me to buy the following -LRB- have n't got them yet -RRB- : a -RRB- Panasonic 8 GB High Speed 22MB\/s SDHC Class 10 Memory Card RP-SDW08GU1K b -RRB- Digital Camera Anti-Fingerprint Display Protection Film -LRB- Pro Guard AF -RRB- for Sony Alpha NEX-5 \/ NEX-3 and Alpha 55 \/ 33 c -RRB- Sony 55-200mm f\/4 -5.6 SAM DT Telephoto Zoom Lens for Sony Alpha Digital SLR Cameras I would like to add more lenses .</Tokens>
+		<POS>PRP$ NN RB RB VBZ VBN PRP TO VB DT NN -LRB- VBP RB VBD PRP RB -RRB- : DT -RRB- NN NNP CD NNP NNP NN NNS NNP NNP CD NN NN NN NN NN -RRB- NN NNP NNP NNP NNP NNP NNP -LRB- FW NN NN -RRB- IN NNP NNP NN : NN CC NN CD : CD NN NN -RRB- NN NNP JJ NN CD NNP NNP NNP NNP NNP IN NNP NNP NNP NNP NNPS NN PRP MD VB TO VB JJR NNS .</POS>
+		<Lemma>my experience so far have prompt I to buy the following -lrb- have not get they yet -rrb- : a -rrb- Panasonic 8 GB High speed 22mb\/s SDHC Class 10 memory card rp-sdw08gu1k b -rrb- Digital Camera Anti-Fingerprint Display Protection Film -lrb- pro guard af -rrb- for Sony Alpha nex-5 \/ nex-3 and alpha 55 \/ 33 c -rrb- Sony 55-200mm f\/4 -5.6 SAM DT Telephoto Zoom Lens for Sony Alpha Digital SLR Cameras I would like to add more lens .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>I am concerned about the size of camera - will the mount be stressed by the heavier lenses ?</Tokens>
+		<POS>PRP VBP VBN IN DT NN IN NN : MD DT VB VB VBN IN DT JJR NNS .</POS>
+		<Lemma>I be concern about the size of camera - will the mount be stress by the heavier lens ?</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>I am interested in getting the Tamron\/Sigma 70-200mm \/ f2 .8 -LRB- more appropriate for sports\/action -RRB- , then a few primes -LRB- CZ 135 , Sony 50\/1 .4 -RRB- to start with .</Tokens>
+		<POS>PRP VBP JJ IN VBG DT NN CD : CD CD -LRB- JJR JJ IN NN -RRB- , RB DT JJ VBZ -LRB- NN CD , NNP CD CD -RRB- TO VB IN .</POS>
+		<Lemma>I be interested in get the tamron\/sigma 70-200mm \/ f2 .8 -lrb- more appropriate for sports\/action -rrb- , then a few prime -lrb- cz 135 , Sony 50\/1 .4 -rrb- to start with .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>I will update after I get these lenses\/try them with this camera .</Tokens>
+		<POS>PRP MD VB IN PRP VBP DT JJ PRP IN DT NN .</POS>
+		<Lemma>I will update after I get these lenses\/try they with this camera .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 1st tried these at the pro races in Aspen , Co in 2011 .</Tokens>
+		<POS>PRP CD VBD DT IN DT JJ NNS IN NNP , NNP IN CD .</POS>
+		<Lemma>I 1st try these at the pro race in Aspen , Co in 2011 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>they were awesome , & I wished I 'd had them for all my previous long rides , short rides or anytime .</Tokens>
+		<POS>PRP VBD JJ , CC PRP VBD PRP MD VBD PRP IN DT PRP$ JJ JJ NNS , JJ NNS CC RB .</POS>
+		<Lemma>they be awesome , & I wish I would have they for all my previous long ride , short ride or anytime .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The box I received seemed like the product was dry & a little stale compared to the ones direct from the honey stinger team at the pro races .</Tokens>
+		<POS>DT NN PRP VBD VBD IN DT NN VBD JJ CC DT JJ JJ VBN TO DT NNS VBP IN DT NN NN NN IN DT JJ NNS .</POS>
+		<Lemma>the box I receive seem like the product be dry & a little stale compare to the one direct from the honey stinger team at the pro race .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This suprised me considering the expire date was march 2013 .</Tokens>
+		<POS>DT JJ PRP VBG DT VBP NN VBD VB CD .</POS>
+		<Lemma>this suprised I consider the expire date be march 2013 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They taste okay , but fall apart .</Tokens>
+		<POS>PRP VBP JJ , CC VBP RB .</POS>
+		<Lemma>they taste okay , but fall apart .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And if i 'm not careful while riding , I lose half the waffle while trying to get some out of the package .</Tokens>
+		<POS>CC IN FW VBP RB JJ IN VBG , PRP VBP PDT DT NN IN VBG TO VB DT IN IN DT NN .</POS>
+		<Lemma>and if i be not careful while ride , I lose half the waffle while try to get some out of the package .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Love the product , but concerned about shelf life .</Tokens>
+		<POS>NN DT NN , CC JJ IN NN NN .</POS>
+		<Lemma>love the product , but concerned about shelf life .</Lemma>
+	</Sentence>
+</Document>

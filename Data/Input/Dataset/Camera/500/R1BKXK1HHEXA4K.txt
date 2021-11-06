@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i bought this because my brother has the wx9 so i thought i would get the step higher but that is not the case the wx9 has better color when takeing vids .</Tokens>
+		<POS>LS VBD DT IN PRP$ NN VBZ DT NN RB FW VBD FW MD VB DT NN RBR CC DT VBZ RB DT NN DT NN VBZ JJR NN WRB VBG NNS .</POS>
+		<Lemma>i buy this because my brother have the wx9 so i think i would get the step higher but that be not the case the wx9 have better color when takee vid .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>the pics of the wx10 is vary nice and clear and has great color .</Tokens>
+		<POS>DT NNS IN DT NN VBZ VBP JJ CC JJ CC VBZ JJ NN .</POS>
+		<Lemma>the pic of the wx10 be vary nice and clear and have great color .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>the wx10 has alot more features then the wx9 and also takes clearer shaper pic .</Tokens>
+		<POS>DT NN VBZ RB JJR NNS RB DT NN CC RB VBZ JJR NN NN .</POS>
+		<Lemma>the wx10 have alot more feature then the wx9 and also take clearer shaper pic .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>the camera has a really nice feel alot better then the wx9 feels like it is going to break .</Tokens>
+		<POS>DT NN VBZ DT RB JJ NN RB RBR RB DT NN VBZ IN PRP VBZ VBG TO VB .</POS>
+		<Lemma>the camera have a really nice feel alot better then the wx9 feel like it be go to break .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>the batter life on the wx10 is 100 times better then the wx9 .</Tokens>
+		<POS>DT NN NN IN DT NN VBZ CD NNS JJR RB DT NN .</POS>
+		<Lemma>the batter life on the wx10 be 100 time better then the wx9 .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased 2 of the Acer 19 '' monitors and when they arrived 4 days later I was able to plug them in and both worked .</Tokens>
+		<POS>PRP VBD CD IN DT NNP CD '' NNS CC WRB PRP VBD CD NNS RB PRP VBD JJ TO VB PRP IN CC DT VBD .</POS>
+		<Lemma>I purchase 2 of the Acer 19 '' monitor and when they arrive 4 day later I be able to plug they in and both work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are clear , bright and easy to use .</Tokens>
+		<POS>PRP VBP JJ , JJ CC JJ TO VB .</POS>
+		<Lemma>they be clear , bright and easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You press just one button once and the monitor adjusts it 's self .</Tokens>
+		<POS>PRP VBP RB CD NN RB CC DT NN VBZ PRP VBZ NN .</POS>
+		<Lemma>you press just one button once and the monitor adjust it be self .</Lemma>
+	</Sentence>
+</Document>

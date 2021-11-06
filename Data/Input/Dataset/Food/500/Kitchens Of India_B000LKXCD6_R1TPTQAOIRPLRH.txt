@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>PROS : This dish is delicious .</Tokens>
+		<POS>NNS : DT NN VBZ JJ .</POS>
+		<Lemma>pro : this dish be delicious .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The flavor is not at all hot-spicy , but there is plenty of body to it .</Tokens>
+		<POS>DT NN VBZ RB IN DT NN , CC EX VBZ NN IN NN TO PRP .</POS>
+		<Lemma>the flavor be not at all hot-spicy , but there be plenty of body to it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The cheese is firm .</Tokens>
+		<POS>DT NN VBZ NN .</POS>
+		<Lemma>the cheese be firm .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It was really easy to prepare , too .</Tokens>
+		<POS>PRP VBD RB JJ TO VB , RB .</POS>
+		<Lemma>it be really easy to prepare , too .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I just tossed the bag into a pot of boiling water for 4 minutes , as recommended by the preparation instructions .</Tokens>
+		<POS>PRP RB VBD DT NN IN DT NN IN JJ NN IN CD NNS , IN VBN IN DT NN NNS .</POS>
+		<Lemma>I just toss the bag into a pot of boiling water for 4 minute , as recommend by the preparation instruction .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>CONS : The texture is lacking .</Tokens>
+		<POS>NNS : DT NN VBZ VBG .</POS>
+		<Lemma>con : the texture be lack .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It 's almost as if the spinach was pureed ; this makes it a little too soup-like .</Tokens>
+		<POS>PRP VBZ RB IN IN DT NN VBD VBN : DT VBZ PRP DT JJ RB JJ .</POS>
+		<Lemma>it be almost as if the spinach be puree ; this make it a little too soup-like .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Also , the sodium content seems a little too high .</Tokens>
+		<POS>RB , DT NN NN VBZ DT JJ RB JJ .</POS>
+		<Lemma>also , the sodium content seem a little too high .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The nutrition info on the package says there is 800 mg\/serving -LRB- 33 % daily value -RRB- and about 2.5 servings\/package ; so if you eat this all at once like me , you 'll be ingesting about 2000mg of sodium -LRB- about 82.5 % of the daily value -RRB- .</Tokens>
+		<POS>DT NN NN IN DT NN VBZ EX VBZ CD NN -LRB- CD NN JJ NN -RRB- CC IN CD NN : RB IN PRP VBP DT DT IN RB IN PRP , PRP MD VB VBG IN NN IN NN -LRB- IN CD NN IN DT JJ NN -RRB- .</POS>
+		<Lemma>the nutrition info on the package say there be 800 mg\/serving -lrb- 33 % daily value -rrb- and about 2.5 servings\/package ; so if you eat this all at once like I , you 'll be ingest about 2000mg of sodium -lrb- about 82.5 % of the daily value -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But for the texture , I would be happy to find this on my plate in a restaurant .</Tokens>
+		<POS>CC IN DT NN , PRP MD VB JJ TO VB DT IN PRP$ NN IN DT NN .</POS>
+		<Lemma>but for the texture , I would be happy to find this on my plate in a restaurant .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am addicted to popcorn and have been searching on Amazon for a well-priced product that was n't too high in calories .</Tokens>
+		<POS>PRP VBP VBN TO NN CC VBP VBN VBG IN NNP IN DT JJ NN WDT VBD RB RB JJ IN NNS .</POS>
+		<Lemma>I be addict to popcorn and have be search on Amazon for a well-priced product that be not too high in calorie .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I typically eat Orville Redenbacker , but none of the Smart Pop versions were eligible for Amazon Prime .</Tokens>
+		<POS>PRP RB VBP NNP NNP , CC NN IN DT NNP NN NNS VBD JJ IN NNP NNP .</POS>
+		<Lemma>I typically eat Orville Redenbacker , but none of the Smart pop version be eligible for Amazon Prime .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This shipped quickly and the popcorn is really good .</Tokens>
+		<POS>DT VBN RB CC DT NN VBZ RB JJ .</POS>
+		<Lemma>this ship quickly and the popcorn be really good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'll definitely be re-ordering .</Tokens>
+		<POS>PRP MD RB VB VBG .</POS>
+		<Lemma>I 'll definitely be re-order .</Lemma>
+	</Sentence>
+</Document>

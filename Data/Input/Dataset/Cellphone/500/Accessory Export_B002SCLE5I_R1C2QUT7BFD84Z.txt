@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>THIS ITEM WAS NOT AS EXPECTED AND DID NOT WORK A SMALL AMOUNT FOR NO CELLPHONE .</Tokens>
+		<POS>NNP NNP VBD RB JJ NN CC NN RB VBP DT NNP NNP IN NN NN .</POS>
+		<Lemma>THIS ITEM be not as expected and did not work a SMALL AMOUNT for no cellphone .</Lemma>
+	</Sentence>
+</Document>

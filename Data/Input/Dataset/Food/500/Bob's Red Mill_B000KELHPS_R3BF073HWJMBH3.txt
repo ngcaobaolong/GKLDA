@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We love this bread mix !</Tokens>
+		<POS>PRP VBP DT NN NN .</POS>
+		<Lemma>we love this bread mix !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Excellent texture , taste and easy to bake .</Tokens>
+		<POS>JJ NN , NN CC JJ TO VB .</POS>
+		<Lemma>excellent texture , taste and easy to bake .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As with nearly all GF products be sure and refrigerate the second or third day after baking .</Tokens>
+		<POS>IN IN RB DT NN NNS VB JJ CC VB DT JJ CC JJ NN IN VBG .</POS>
+		<Lemma>as with nearly all gf product be sure and refrigerate the second or third day after bake .</Lemma>
+	</Sentence>
+</Document>

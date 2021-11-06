@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera turned out to be the best purchase I 've made on Amazon yet !!</Tokens>
+		<POS>DT NN VBD RP TO VB DT JJS NN PRP VBP VBN IN NNP CC SYM</POS>
+		<Lemma>this camera turn out to be the best purchase I have make on Amazon yet !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We purchased this just before we left on our two week driving vacation , and we could n't be happier !</Tokens>
+		<POS>PRP VBD DT RB IN PRP VBD IN PRP$ CD NN VBG NN , CC PRP MD RB VB JJR .</POS>
+		<Lemma>we purchase this just before we leave on we two week drive vacation , and we could not be happier !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It took some amazing shots of Mount Rushmore , and anywhere else we went !</Tokens>
+		<POS>PRP VBD DT JJ NNS IN NNP NNP , CC RB RB PRP VBD .</POS>
+		<Lemma>it take some amazing shot of Mount Rushmore , and anywhere else we go !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>An amazing deal for a reasonable price !!!</Tokens>
+		<POS>DT JJ NN IN DT JJ NN IN</POS>
+		<Lemma>a amazing deal for a reasonable price !!!</Lemma>
+	</Sentence>
+</Document>

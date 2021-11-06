@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Positive : Did n't pay much .</Tokens>
+		<POS>JJ : VBD RB VB RB .</POS>
+		<Lemma>positive : do not pay much .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Negative : They do n't work at all .</Tokens>
+		<POS>JJ : PRP VBP RB VB IN DT .</POS>
+		<Lemma>negative : they do not work at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I tried a couple on one cell phone after just one would n't work , and it just never did anything at all .</Tokens>
+		<POS>PRP VBD DT NN IN CD NN NN IN RB CD MD RB VB , CC PRP RB RB VBD NN IN DT .</POS>
+		<Lemma>I try a couple on one cell phone after just one would not work , and it just never do anything at all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So if you want to take a chance that they might work , it 's worth it to only pay a couple bucks , but if you have to be gifted in telekinesis apparently to get these to work .</Tokens>
+		<POS>RB IN PRP VBP TO VB DT NN IN PRP MD VB , PRP VBZ JJ PRP TO RB VB DT NN NNS , CC IN PRP VBP TO VB JJ IN NN RB TO VB DT TO VB .</POS>
+		<Lemma>so if you want to take a chance that they might work , it be worth it to only pay a couple buck , but if you have to be gifted in telekinesis apparently to get these to work .</Lemma>
+	</Sentence>
+</Document>

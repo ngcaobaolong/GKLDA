@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had an Acer 22 '' monitor for 3 years and it has been excellent .</Tokens>
+		<POS>PRP VBP VBD DT NNP CD '' NN IN CD NNS CC PRP VBZ VBN JJ .</POS>
+		<Lemma>I have have a Acer 22 '' monitor for 3 year and it have be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This monitor is even better in its picture quality which is tops .</Tokens>
+		<POS>DT NN VBZ RB RBR IN PRP$ NN NN WDT VBZ NNS .</POS>
+		<Lemma>this monitor be even better in its picture quality which be top .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love this monitor .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would have given it 5 \* except for its poor manual which is on the CD you receive and the fact that the picture controls are under the front of the monitor where they can not be seen and are therefore difficult to use .</Tokens>
+		<POS>PRP MD VB VBN PRP CD SYM IN IN PRP$ JJ NN WDT VBZ IN DT NNP PRP VBP CC DT NN IN DT NN NNS VBP IN DT NN IN DT NN WRB PRP MD RB VB VBN CC VBP RB JJ TO VB .</POS>
+		<Lemma>I would have give it 5 \* except for its poor manual which be on the CD you receive and the fact that the picture control be under the front of the monitor where they can not be see and be therefore difficult to use .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The monitor came out of the box in full working condition .</Tokens>
+		<POS>DT NN VBD IN IN DT NN IN JJ VBG NN .</POS>
+		<Lemma>the monitor come out of the box in full work condition .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I used the DVI connection and had to set the resultion to the 1920x1080 native resolution .</Tokens>
+		<POS>PRP VBD DT NNP NN CC VBD TO VB DT NN TO DT CD JJ NN .</POS>
+		<Lemma>I use the DVI connection and have to set the resultion to the 1920x1080 native resolution .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There were no bad pixels .</Tokens>
+		<POS>EX VBD DT JJ NNS .</POS>
+		<Lemma>there be no bad pixel .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The monitor automatically sized the screen and all other parameters .</Tokens>
+		<POS>DT NN RB VBD DT NN CC DT JJ NNS .</POS>
+		<Lemma>the monitor automatically size the screen and all other parameter .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>However , the brightness was much too high .</Tokens>
+		<POS>RB , DT NN VBD RB RB JJ .</POS>
+		<Lemma>however , the brightness be much too high .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I had to chat online with Acer to find out where the picture controls were since the poor manual did not show it .</Tokens>
+		<POS>PRP VBD TO VB NN IN NNP TO VB RP WRB DT NN NNS VBD IN DT JJ NN VBD RB VB PRP .</POS>
+		<Lemma>I have to chat online with Acer to find out where the picture control be since the poor manual do not show it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>There are five push buttons under the right front end of the monitor which are not easy to use .</Tokens>
+		<POS>EX VBP CD NN NNS IN DT JJ NN NN IN DT NN WDT VBP RB JJ TO VB .</POS>
+		<Lemma>there be five push button under the right front end of the monitor which be not easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The manual again was not specific in how and in what sequence to use the buttons to make the changes I wished .</Tokens>
+		<POS>DT NN RB VBD RB JJ IN WRB CC IN WP NN TO VB DT NNS TO VB DT NNS PRP VBD .</POS>
+		<Lemma>the manual again be not specific in how and in what sequence to use the button to make the change I wish .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I had to fiddle with the controls for almost 20 minutes until I finally was able to determine how to manuever to get what I wanted .</Tokens>
+		<POS>PRP VBD TO NN IN DT NNS IN RB CD NNS IN PRP RB VBD JJ TO VB WRB TO VB TO VB WP PRP VBD .</POS>
+		<Lemma>I have to fiddle with the control for almost 20 minute until I finally be able to determine how to manuever to get what I want .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I turned the brightness down from 72 to 50 and the monitor is still plenty bright .</Tokens>
+		<POS>PRP VBD DT NN RB IN CD TO CD CC DT NN VBZ RB JJ JJ .</POS>
+		<Lemma>I turn the brightness down from 72 to 50 and the monitor be still plenty bright .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>One of the adjustments is the time the on screen display stays on .</Tokens>
+		<POS>CD IN DT NNS VBZ DT NN DT IN NN NN VBZ IN .</POS>
+		<Lemma>one of the adjustment be the time the on screen display stay on .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The default is 10 seconds which is much too short when you are struggling to figure out how to make changes .</Tokens>
+		<POS>DT NN VBZ CD NNS WDT VBZ RB RB JJ WRB PRP VBP VBG TO VB RP WRB TO VB NNS .</POS>
+		<Lemma>the default be 10 seconds which be much too short when you be struggle to figure out how to make change .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I strongly suggest the first thing you do when you bring up the onscreen display is to change the time to 20 seconds to give you the time you require to make the changes .</Tokens>
+		<POS>PRP RB VBP DT JJ NN PRP VBP WRB PRP VBP RP DT JJ NN VBZ TO VB DT NN TO CD NNS TO VB PRP DT NN PRP VBP TO VB DT NNS .</POS>
+		<Lemma>I strongly suggest the first thing you do when you bring up the onscreen display be to change the time to 20 seconds to give you the time you require to make the change .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>There is no HDMI input , but it comes with both the DVI-D cable and the VGA cable .</Tokens>
+		<POS>EX VBZ DT NN NN , CC PRP VBZ IN CC DT NN NN CC DT NNP NN .</POS>
+		<Lemma>there be no hdmus input , but it come with both the dvi-d cable and the VGA cable .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>You will not go wrong buying this monitor provided you have the patience to fiddle with the picture controls .</Tokens>
+		<POS>PRP MD RB VB JJ NN DT NN VBN PRP VBP DT NN TO NN IN DT NN NNS .</POS>
+		<Lemma>you will not go wrong buying this monitor provide you have the patience to fiddle with the picture control .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>This is only a one time setup so it is not a major reason not to buy it .</Tokens>
+		<POS>DT VBZ RB DT CD NN NN IN PRP VBZ RB DT JJ NN RB TO VB PRP .</POS>
+		<Lemma>this be only a one time setup so it be not a major reason not to buy it .</Lemma>
+	</Sentence>
+</Document>

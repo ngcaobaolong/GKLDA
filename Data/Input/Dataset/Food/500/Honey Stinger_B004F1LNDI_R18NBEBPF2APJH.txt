@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Tired of gels , chews , bloks , & beans ?</Tokens>
+		<POS>JJ IN NNS , NNS , NNS , CC NNS .</POS>
+		<Lemma>tired of gel , chew , blok , & bean ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am .</Tokens>
+		<POS>PRP VBP .</POS>
+		<Lemma>I be .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I saw the ads for this and thought `` what next '' .</Tokens>
+		<POS>PRP VBD DT NNS IN DT CC VBN `` WP RB '' .</POS>
+		<Lemma>I see the ad for this and think `` what next '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Then I tried one .</Tokens>
+		<POS>RB PRP VBD CD .</POS>
+		<Lemma>then I try one .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Man , these are the bomb !!</Tokens>
+		<POS>NN , DT VBP DT NN NN</POS>
+		<Lemma>man , these be the bomb !!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They are a delicious change from all the other stuff out there .</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT DT JJ NN IN RB .</POS>
+		<Lemma>they be a delicious change from all the other stuff out there .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>They are dry , but easy to eat with a dry mouth .</Tokens>
+		<POS>PRP VBP JJ , CC JJ TO VB IN DT JJ NN .</POS>
+		<Lemma>they be dry , but easy to eat with a dry mouth .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>They are n't very sticky either so they are easy to eat while running .</Tokens>
+		<POS>PRP VBP RB RB JJ CC IN PRP VBP JJ TO VB IN VBG .</POS>
+		<Lemma>they be not very sticky either so they be easy to eat while run .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>They wo n't melt when kept in my hydration vest pocket or SPI Belt .</Tokens>
+		<POS>PRP MD RB VB WRB VBN IN PRP$ NN NN NN CC NNP NNP .</POS>
+		<Lemma>they will not melt when keep in my hydration vest pocket or SPI Belt .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I like em when I 'm dong 13 + mile runs now .</Tokens>
+		<POS>PRP VBP NN WRB PRP VBP JJ CD CC NN NNS RB .</POS>
+		<Lemma>I like em when I be dong 13 + mile run now .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I usually eat one every 40 minutes with Honey Stinger chews in between .</Tokens>
+		<POS>PRP RB VBP CD DT CD NNS IN NNP NNP NNS IN IN .</POS>
+		<Lemma>I usually eat one every 40 minute with Honey Stinger chew in between .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>They are about 170 calories , but the about 3.5 gm of saturated fat .</Tokens>
+		<POS>PRP VBP IN CD NNS , CC DT RB CD NN IN JJ NN .</POS>
+		<Lemma>they be about 170 calorie , but the about 3.5 gm of saturated fat .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Seems like alot for something like this .</Tokens>
+		<POS>VBZ IN NNS IN NN IN DT .</POS>
+		<Lemma>seem like alot for something like this .</Lemma>
+	</Sentence>
+</Document>

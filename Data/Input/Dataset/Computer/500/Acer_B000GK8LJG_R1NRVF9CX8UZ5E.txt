@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I gave this to my girlfriend and she loves it ... it was easy to hook up , the clarity is awsome .</Tokens>
+		<POS>PRP VBD DT TO PRP$ NN CC PRP VBZ PRP : PRP VBD JJ TO NN RP , DT NN VBZ JJ .</POS>
+		<Lemma>I give this to my girlfriend and she love it ... it be easy to hook up , the clarity be awsome .</Lemma>
+	</Sentence>
+</Document>

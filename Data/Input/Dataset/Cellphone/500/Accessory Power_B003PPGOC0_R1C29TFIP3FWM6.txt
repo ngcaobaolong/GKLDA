@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the 4th device I 've gotten to play music and take calls for my iPhone 3GS through my car stereo .</Tokens>
+		<POS>DT VBZ DT JJ NN PRP VBP VBN TO VB NN CC VB NNS IN PRP$ NNP NN IN PRP$ NN NN .</POS>
+		<Lemma>this be the 4th device I have get to play music and take call for my iPhone 3g through my car stereo .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Quite honestly , I should 've listened to the other reviews and just bought this one first and saved a lot of time and money .</Tokens>
+		<POS>RB RB , PRP MD VB VBD TO DT JJ NNS CC RB VBD DT CD JJ CC VBD DT NN IN NN CC NN .</POS>
+		<Lemma>quite honestly , I should have listen to the other review and just buy this one first and save a lot of time and money .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Excellent sound quality .</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>excellent sound quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've had to sync the bluetooth once when I got it and now I just start the car powering up the device and it automatically finds it without a hitch .</Tokens>
+		<POS>PRP VBP VBN TO NN DT NN RB WRB PRP VBD PRP CC RB PRP RB VBP DT NN VBG RP DT NN CC PRP RB VBZ PRP IN DT NN .</POS>
+		<Lemma>I have have to sync the bluetooth once when I get it and now I just start the car power up the device and it automatically find it without a hitch .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When I receive a call , I just simply hit the phone button on the end of the device and the music pauses and the call comes through over your car stereo speakers - clear as a bell .</Tokens>
+		<POS>WRB PRP VBP DT NN , PRP RB RB VB DT NN NN IN DT NN IN DT NN CC DT NN VBZ CC DT NN VBZ IN IN PRP$ NN NN NNS : JJ IN DT NN .</POS>
+		<Lemma>when I receive a call , I just simply hit the phone button on the end of the device and the music pause and the call come through over you car stereo speaker - clear as a bell .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The microphone on the device works excellent too .</Tokens>
+		<POS>DT NN IN DT NN VBZ JJ RB .</POS>
+		<Lemma>the microphone on the device work excellent too .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 've spoken to dozens of people on hundreds of calls and all of them say they can hear me just as if I had the phone up to my ear and mouth talking directly into the phone .</Tokens>
+		<POS>PRP VBP VBN TO NNS IN NNS IN NNS IN NNS CC DT IN PRP VBP PRP MD VB PRP RB IN IN PRP VBD DT NN IN TO PRP$ NN CC NN VBG RB IN DT NN .</POS>
+		<Lemma>I have speak to dozen of people on hundred of call and all of they say they can hear I just as if I have the phone up to my ear and mouth talk directly into the phone .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Giving only four stars because , I will admit , I have not made as many outgoing phone calls with this device , so I ca n't comment based on the little experience I 've had making outgoing calls .</Tokens>
+		<POS>VBG RB CD NNS RB , PRP MD VB , PRP VBP RB VBN IN JJ JJ NN NNS IN DT NN , IN PRP MD RB VB VBN IN DT JJ NN PRP VBP VBD VBG JJ NNS .</POS>
+		<Lemma>give only four star because , I will admit , I have not make as many outgoing phone call with this device , so I can not comment base on the little experience I have have make outgoing call .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If that works as well as the other fuctions , I 'd have no problem giving five stars .</Tokens>
+		<POS>IN DT VBZ RB RB IN DT JJ NNS , PRP MD VB DT NN VBG CD NNS .</POS>
+		<Lemma>if that work as well as the other fuction , I would have no problem give five star .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>That aside , I 'd say stop looking .</Tokens>
+		<POS>DT RB , PRP MD VB VB VBG .</POS>
+		<Lemma>that aside , I would say stop look .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This is the bluetooth device you 're looking for in your car .</Tokens>
+		<POS>DT VBZ DT NN NN PRP VBP VBG IN IN PRP$ NN .</POS>
+		<Lemma>this be the bluetooth device you be look for in you car .</Lemma>
+	</Sentence>
+</Document>

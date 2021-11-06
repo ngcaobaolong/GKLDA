@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Tastes kind of plain with milk , but if you eat it in a bowl with some honey , it 's delicious - the healthiest `` granola '' ever !</Tokens>
+		<POS>NNS NN IN JJ IN NN , CC IN PRP VBP PRP IN DT NN IN DT NN , PRP VBZ JJ : DT JJS `` NN '' RB .</POS>
+		<Lemma>taste kind of plain with milk , but if you eat it in a bowl with some honey , it be delicious - the healthiest `` granolum '' ever !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My fav ezekial cereal is the one with the almonds</Tokens>
+		<POS>PRP$ NN JJ NN VBZ DT CD IN DT NNS</POS>
+		<Lemma>my fav ezekial cereal be the one with the almond</Lemma>
+	</Sentence>
+</Document>

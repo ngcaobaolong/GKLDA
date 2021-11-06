@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am sooooo happy with my camera .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP$ NN .</POS>
+		<Lemma>I be sooooo happy with my camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is my first SLR Camera and for it being used , not one scratch .</Tokens>
+		<POS>DT VBZ PRP$ JJ NNP NNP CC IN PRP VBG VBN , RB CD NN .</POS>
+		<Lemma>this be my first SLR Camera and for it be use , not one scratch .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If ya ask me it looks like new !!</Tokens>
+		<POS>IN PRP VB PRP PRP VBZ IN JJ NN</POS>
+		<Lemma>if ya ask I it look like new !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The seller even wrote a comment on the reciept , in pencil about the product .</Tokens>
+		<POS>DT NN RB VBD DT NN IN DT NN , IN NN IN DT NN .</POS>
+		<Lemma>the seller even write a comment on the reciept , in pencil about the product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I can tell the seller cares about his customers and goes the extra mile for them .</Tokens>
+		<POS>PRP MD VB DT NN VBZ IN PRP$ NNS CC VBZ DT JJ NN IN PRP .</POS>
+		<Lemma>I can tell the seller care about he customer and go the extra mile for they .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am over-joyed with my camera !!</Tokens>
+		<POS>PRP VBP JJ IN PRP$ NN IN</POS>
+		<Lemma>I be over-joyed with my camera !!</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And according to consumer reports , the rebel t3 is better photo quality than the 2ti and the 2ti is rated the same as the t3i .</Tokens>
+		<POS>CC VBG TO NN NNS , DT NN NN VBZ RBR JJ NN IN DT JJ CC DT NNS VBZ VBN DT JJ IN DT NNS .</POS>
+		<Lemma>and accord to consumer report , the rebel t3 be better photo quality than the 2ti and the 2tus be rate the same as the t3us .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If ya ask me I got an amazing deal on this camera !!</Tokens>
+		<POS>IN PRP VB PRP PRP VBD DT JJ NN IN DT NN NN</POS>
+		<Lemma>if ya ask I I get a amazing deal on this camera !!</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Trust this seller !!</Tokens>
+		<POS>NNP DT NN IN</POS>
+		<Lemma>Trust this seller !!</Lemma>
+	</Sentence>
+</Document>

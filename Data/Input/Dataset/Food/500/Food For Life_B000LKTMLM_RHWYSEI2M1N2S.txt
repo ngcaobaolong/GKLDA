@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cereal holds me all morning unlike many others where I get hungry .</Tokens>
+		<POS>DT NN VBZ PRP DT NN IN JJ NNS WRB PRP VBP JJ .</POS>
+		<Lemma>this cereal hold I all morning unlike many other where I get hungry .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Buying online like this makes it more affordable .</Tokens>
+		<POS>VBG NN IN DT VBZ PRP RBR JJ .</POS>
+		<Lemma>buy online like this make it more affordable .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>cell phone antenna booster signal enhancers i got diferent results on diferents phones , i cant tell if it works or not</Tokens>
+		<POS>NN NN NN NN NN NNS FW VBD JJ NNS IN NNS NNS , FW FW VB IN PRP VBZ CC RB</POS>
+		<Lemma>cell phone antenna booster signal enhancer i get diferent result on diferent phone , i cant tell if it work or not</Lemma>
+	</Sentence>
+</Document>

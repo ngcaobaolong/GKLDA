@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Es perfecto .</Tokens>
+		<POS>NNS VBP .</POS>
+		<Lemma>e perfecto .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>En mi 01 F150 .</Tokens>
+		<POS>IN FW FW NN .</POS>
+		<Lemma>en mi 01 f150 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>facil de instalar preciona el boton de go y solo encontrara la estacion mas clara y luego buscala en el estereo del carro .</Tokens>
+		<POS>NN FW FW FW FW FW FW VB JJ NN FW FW FW FW FW FW FW FW FW FW FW FW FW .</POS>
+		<Lemma>facil de instalar preciona el boton de go y solo encontrara la estacion mas clara y luego buscala en el estereo del carro .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>puedes hacer llamadas y recibir tambi&eacute;n ... if you have a lillte problem installing the accessory go to you tube and is better explained ... I 'm almost expend about 200 $ in car tunes .</Tokens>
+		<POS>NNS VBP FW FW FW NN : IN PRP VBP DT NN NN VBG DT NN VB TO PRP NN CC VBZ JJR VBD : PRP VBP RB VB RB CD $ IN NN NNS .</POS>
+		<Lemma>puede hacer llamadas y recibir tambi&eacute;n ... if you have a lillte problem install the accessory go to you tube and be better explain ... I be almost expend about 200 $ in car tune .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>this item works beautiful for the price .</Tokens>
+		<POS>DT NN VBZ JJ IN DT NN .</POS>
+		<Lemma>this item work beautiful for the price .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I saved big money ...</Tokens>
+		<POS>PRP VBD JJ NN :</POS>
+		<Lemma>I save big money ...</Lemma>
+	</Sentence>
+</Document>

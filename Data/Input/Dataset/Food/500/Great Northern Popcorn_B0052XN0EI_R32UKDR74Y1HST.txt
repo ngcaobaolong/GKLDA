@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Tastes great - easier to manage size bags for older ones .</Tokens>
+		<POS>NNS JJ : JJR TO VB NN NNS IN JJR NNS .</POS>
+		<Lemma>taste great - easier to manage size bag for older one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Love the ease of ordering and receiving at my door .</Tokens>
+		<POS>NN DT NN IN VBG CC VBG IN PRP$ NN .</POS>
+		<Lemma>love the ease of order and receive at my door .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Highly recommend !</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>highly recommend !</Lemma>
+	</Sentence>
+</Document>

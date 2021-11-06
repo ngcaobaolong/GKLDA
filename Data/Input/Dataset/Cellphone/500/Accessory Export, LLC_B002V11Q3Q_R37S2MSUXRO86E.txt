@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I plug one end to my phone , and the other to the USB port on the computer , and the phone connects and charges .</Tokens>
+		<POS>PRP VBP CD NN TO PRP$ NN , CC DT JJ TO DT JJ NN IN DT NN , CC DT NN VBZ CC VBZ .</POS>
+		<Lemma>I plug one end to my phone , and the other to the usb port on the computer , and the phone connect and charge .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You ca n't ask much more from a cable .</Tokens>
+		<POS>PRP MD RB VB RB RBR IN DT NN .</POS>
+		<Lemma>you can not ask much more from a cable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The order arrived quickly , before the predicted delivery date .</Tokens>
+		<POS>DT NN VBD RB , IN DT VBN NN NN .</POS>
+		<Lemma>the order arrive quickly , before the predict delivery date .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So far so good .</Tokens>
+		<POS>RB RB RB JJ .</POS>
+		<Lemma>so far so good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy set up .</Tokens>
+		<POS>NNP VBD RP .</POS>
+		<Lemma>Easy set up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Reception is very clear .</Tokens>
+		<POS>NN VBZ RB JJ .</POS>
+		<Lemma>reception be very clear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I think I found the product I 've been looking for .</Tokens>
+		<POS>PRP VBP PRP VBD DT NN PRP VBP VBN VBG IN .</POS>
+		<Lemma>I think I find the product I have be look for .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have n't really used the device for talking only for listening to music from my iPhone .</Tokens>
+		<POS>PRP VBP RB RB VBN DT NN IN VBG RB IN VBG TO NN IN PRP$ NNP .</POS>
+		<Lemma>I have not really use the device for talk only for listen to music from my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I love it !!</Tokens>
+		<POS>PRP VBP PRP IN</POS>
+		<Lemma>I love it !!</Lemma>
+	</Sentence>
+</Document>

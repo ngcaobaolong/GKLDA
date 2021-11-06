@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Easy to use and makes a pretty good soup .</Tokens>
+		<POS>NNP TO VB CC VBZ DT RB JJ NN .</POS>
+		<Lemma>Easy to use and make a pretty good soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Needs some a variety of beans added to make it a five star .</Tokens>
+		<POS>NNS DT DT NN IN NNS VBD TO VB PRP DT CD NN .</POS>
+		<Lemma>need some a variety of bean add to make it a five star .</Lemma>
+	</Sentence>
+</Document>

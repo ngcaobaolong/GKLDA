@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this camera after having read reviews on several different models and not being super tech oriented .</Tokens>
+		<POS>PRP VBD DT NN IN VBG VBN NNS IN JJ JJ NNS CC RB VBG JJ NN VBN .</POS>
+		<Lemma>I purchase this camera after have read review on several different model and not be super tech orient .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Although I have a camera -LRB- Canon powershot SD1000 -RRB- for photos that has a video feature I wanted higher quality video .</Tokens>
+		<POS>IN PRP VBP DT NN -LRB- NN NN NN -RRB- IN NNS WDT VBZ DT NN NN PRP VBD JJR NN NN .</POS>
+		<Lemma>although I have a camera -lrb- canon powershot sd1000 -rrb- for photo that have a video feature I want higher quality video .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love the Canon I own - it takes wonderful photos with little effort , so decided to stick with Canon for video .</Tokens>
+		<POS>PRP VBP DT NNP PRP VBP : PRP VBZ JJ NNS IN JJ NN , RB VBD TO VB IN NNP IN NN .</POS>
+		<Lemma>I love the Canon I own - it take wonderful photo with little effort , so decide to stick with Canon for video .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After reading the reviews and looking at the product description I decided to try this one .</Tokens>
+		<POS>IN VBG DT NNS CC VBG IN DT NN NN PRP VBD TO VB DT CD .</POS>
+		<Lemma>after read the review and look at the product description I decide to try this one .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My only concern was that somewhere in a review I read that it was not compatible with Mac for editing etc. .</Tokens>
+		<POS>PRP$ JJ NN VBD IN RB IN DT NN PRP VBP IN PRP VBD RB JJ IN NNP IN NN NN .</POS>
+		<Lemma>my only concern be that somewhere in a review I read that it be not compatible with Mac for editing etc. .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have had no trouble uploading to imovie - you just have to use the cable provided rather than the sd card and it goes right into imovie .</Tokens>
+		<POS>PRP VBP VBN DT NN VBG TO VB : PRP RB VBP TO VB DT NN VBN RB IN DT NN NN CC PRP VBZ RB IN NN .</POS>
+		<Lemma>I have have no trouble upload to imovie - you just have to use the cable provide rather than the sd card and it go right into imovie .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have n't tried to edit yet but I do n't anticipate any problems once I figure it out .</Tokens>
+		<POS>PRP VBP RB VBN TO VB RB CC PRP VBP RB VB DT NNS IN PRP VBP PRP RP .</POS>
+		<Lemma>I have not try to edit yet but I do not anticipate any problem once I figure it out .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have used the camera for a week on vacation taking video of family wake boarding and tubing off a boat , and I am very impressed with the quality of the video .</Tokens>
+		<POS>PRP VBP VBN DT NN IN DT NN IN NN VBG NN IN NN NN VBG CC VBG RP DT NN , CC PRP VBP RB JJ IN DT NN IN DT NN .</POS>
+		<Lemma>I have use the camera for a week on vacation take video of family wake board and tube off a boat , and I be very impressed with the quality of the video .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It has been very difficult in the past to get video that was n't very shaky and this camera did an excellent job .</Tokens>
+		<POS>PRP VBZ VBN RB JJ IN DT NN TO VB NN WDT VBD RB RB JJ CC DT NN VBD DT JJ NN .</POS>
+		<Lemma>it have be very difficult in the past to get video that be not very shaky and this camera do a excellent job .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I am very pleased with it and would recommend it .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP CC MD VB PRP .</POS>
+		<Lemma>I be very pleased with it and would recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I have just ordered extra batteries and a neck strap , which is important on a boat ... Also just took video of our dog swimming in the pond and it did a great job .</Tokens>
+		<POS>PRP VBP RB VBN JJ NNS CC DT NN NN , WDT VBZ JJ IN DT NN : RB RB VBD NN IN PRP$ NN NN IN DT NN CC PRP VBD DT JJ NN .</POS>
+		<Lemma>I have just order extra battery and a neck strap , which be important on a boat ... also just take video of we dog swimming in the pond and it do a great job .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Light weight and easy to use .</Tokens>
+		<POS>JJ NN CC JJ TO VB .</POS>
+		<Lemma>light weight and easy to use .</Lemma>
+	</Sentence>
+</Document>

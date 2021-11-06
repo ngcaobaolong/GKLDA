@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bob 's Red Mill Soup Mix is a blend of unseasoned green split peas , yellow split peas , barley , lentils and vegetable pasta .</Tokens>
+		<POS>NNP POS NNP NNP NNP NNP VBZ DT VB IN JJ JJ NN NNS , JJ NN NNS , NN , NNS CC NN NN .</POS>
+		<Lemma>Bob 's Red Mill Soup Mix be a blend of unseasoned green split pea , yellow split pea , barley , lentil and vegetable pasta .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The instructions suggest using one part mix and four parts water along with your favorite seasonings .</Tokens>
+		<POS>DT NNS VBP VBG CD NN NN CC CD NNS NN IN IN PRP$ JJ NNS .</POS>
+		<Lemma>the instruction suggest use one part mix and four part water along with you favorite seasoning .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I first tried making it with just some dried dill weed , salt , and pepper .</Tokens>
+		<POS>PRP RB VBD VBG PRP IN RB DT VBN NN NN , NN , CC NN .</POS>
+		<Lemma>I first try make it with just some dry dill weed , salt , and pepper .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The soup came out feeling a bit insubstantial because the mix does n't have any big chunks of veggies or pasta .</Tokens>
+		<POS>DT NN VBD RP VBG DT NN JJ IN DT NN VBZ RB VB DT JJ NNS IN NNS CC NN .</POS>
+		<Lemma>the soup come out feel a bit insubstantial because the mix do not have any big chunk of veggy or pasta .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The broth tasted great though , so I took out my hand blender and I blended the soup until it reached a consistency similar to a thick split pea soup .</Tokens>
+		<POS>DT NN VBD JJ RB , IN PRP VBD RP PRP$ NN NN CC PRP JJ DT NN IN PRP VBD DT NN JJ TO DT JJ NN NN NN .</POS>
+		<Lemma>the broth taste great though , so I take out my hand blender and I blended the soup until it reach a consistency similar to a thick split pea soup .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I added some Tabasco sauce and cumin and the soup ended up really good .</Tokens>
+		<POS>PRP VBD DT NNP NN CC NN CC DT NN VBD RP RB JJ .</POS>
+		<Lemma>I add some Tabasco sauce and cumin and the soup end up really good .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The mix is also really great for mixing in with rice .</Tokens>
+		<POS>DT NN VBZ RB RB JJ IN VBG IN IN NN .</POS>
+		<Lemma>the mix be also really great for mix in with rice .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you use a rice cooker , try adding one cup of the soup mix for every two or three cups or rice .</Tokens>
+		<POS>IN PRP VBP DT NN NN , VBP VBG CD NN IN DT NN NN IN DT CD CC CD NNS CC NN .</POS>
+		<Lemma>if you use a rice cooker , try add one cup of the soup mix for every two or three cup or rice .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Increase the amount of water accordingly , as if you just added another cup of rice .</Tokens>
+		<POS>VB DT NN IN NN RB , IN IN PRP RB VBD DT NN IN NN .</POS>
+		<Lemma>increase the amount of water accordingly , as if you just add another cup of rice .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>For example , if you 're cooking 2 cups of rice and 1 cup of veggie mix , fill the water up to the 3 cup line .</Tokens>
+		<POS>IN NN , IN PRP VBP JJ CD NNS IN NN CC CD NN IN NN NN , VB DT NN IN TO DT CD NN NN .</POS>
+		<Lemma>for example , if you be cooking 2 cup of rice and 1 cup of veggie mix , fill the water up to the 3 cup line .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Overall , this soup mix is a great addition for other recipes or if you 're willing to modify it with your own ingredients and cooking techniques .</Tokens>
+		<POS>RB , DT NN NN VBZ DT JJ NN IN JJ NNS CC IN PRP VBP JJ TO VB PRP IN PRP$ JJ NNS CC NN NNS .</POS>
+		<Lemma>overall , this soup mix be a great addition for other recipe or if you be willing to modify it with you own ingredient and cooking technique .</Lemma>
+	</Sentence>
+</Document>

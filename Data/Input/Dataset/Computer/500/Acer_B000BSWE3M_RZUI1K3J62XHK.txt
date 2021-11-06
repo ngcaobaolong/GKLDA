@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very nice monitor for the price .</Tokens>
+		<POS>RB JJ NN IN DT NN .</POS>
+		<Lemma>very nice monitor for the price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Gamers and HDTV fans look elswhere although I saw no ghosting on a dvd I popped in .</Tokens>
+		<POS>NNS CC NN NNS VBP RB IN PRP VBD DT VBG IN DT NN PRP VBD IN .</POS>
+		<Lemma>gamer and hdtv fan look elswhere although I see no ghost on a dvd I pop in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For cruisng the net , email , spreadsheet , word docs , etc , this monitor looks great especially considering the price .</Tokens>
+		<POS>IN VBG DT NN , NN , NN , NN NNS , FW , DT NN VBZ JJ RB VBG DT NN .</POS>
+		<Lemma>for cruisng the net , email , spreadsheet , word doc , etc , this monitor look great especially consider the price .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just got this camcorder today and I 'm in love .</Tokens>
+		<POS>RB VBD DT NN NN CC PRP VBP IN NN .</POS>
+		<Lemma>just get this camcorder today and I be in love .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love the slickness to it and also the zoom capibility .</Tokens>
+		<POS>PRP VBP DT NN TO PRP CC RB DT NN NN .</POS>
+		<Lemma>I love the slickness to it and also the zoom capibility .</Lemma>
+	</Sentence>
+</Document>

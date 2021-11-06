@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had my GH2 for about year now and it has served better then any camera I have ever had .</Tokens>
+		<POS>PRP VBP VBD PRP$ NN IN IN NN RB CC PRP VBZ VBN JJR RB DT NN PRP VBP RB VBN .</POS>
+		<Lemma>I have have my gh2 for about year now and it have serve better then any camera I have ever have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I hacked my GH2 a while back , my GH2 is not pumping out 122Bitrate and an ISO if 12,800 !</Tokens>
+		<POS>PRP VBD PRP$ NN DT NN RB , PRP$ NN VBZ RB VBG RP NN CC DT NN IN CD .</POS>
+		<Lemma>I hack my gh2 a while back , my gh2 be not pump out 122bitrate and a iso if 12,800 !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I strongly recommend this camera !</Tokens>
+		<POS>PRP RB VB DT NN .</POS>
+		<Lemma>I strongly recommend this camera !</Lemma>
+	</Sentence>
+</Document>

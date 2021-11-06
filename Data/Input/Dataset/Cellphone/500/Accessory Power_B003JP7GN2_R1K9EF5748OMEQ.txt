@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to replace a similar AA-battery charger for my Droid .</Tokens>
+		<POS>PRP VBD DT TO VB DT JJ NN NN IN PRP$ NN .</POS>
+		<Lemma>I buy this to replace a similar aa-battery charger for my droid .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When my battery died and I decided to give it a try , I was shocked by what happened .</Tokens>
+		<POS>WRB PRP$ NN VBD CC PRP VBD TO VB PRP DT NN , PRP VBD VBN IN WP VBD .</POS>
+		<Lemma>when my battery die and I decide to give it a try , I be shock by what happen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I put in two fresh AA batteries -LRB- and then several other sets -RRB- and it would start the Droid to the point where the Motorola symbol appeared at boot , and then it would flicker , lose power , and try turning on again .</Tokens>
+		<POS>PRP VBP IN CD JJ NN NNS -LRB- CC RB JJ JJ NNS -RRB- CC PRP MD VB DT NN TO DT NN WRB DT NNP NN VBD IN NN , CC RB PRP MD VB , VB NN , CC VB VBG RP RB .</POS>
+		<Lemma>I put in two fresh aa battery -lrb- and then several other set -rrb- and it would start the droid to the point where the Motorola symbol appear at boot , and then it would flicker , lose power , and try turn on again .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And again .</Tokens>
+		<POS>CC RB .</POS>
+		<Lemma>and again .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And again .</Tokens>
+		<POS>CC RB .</POS>
+		<Lemma>and again .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This thing CAN NOT charge a Droid with batteries .</Tokens>
+		<POS>DT NN NNP NNP VB DT NN IN NNS .</POS>
+		<Lemma>this thing CAN NOT charge a droid with battery .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm returning it for a refund , and I encourage those of you reading this to save yourself the trouble and just not buy it .</Tokens>
+		<POS>PRP VBP VBG PRP IN DT NN , CC PRP VBP DT IN PRP VBG DT TO VB PRP DT NN CC RB RB VB PRP .</POS>
+		<Lemma>I be return it for a refund , and I encourage those of you read this to save yourself the trouble and just not buy it .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I searched high and low for an inexpensive monitor for my step-son 's computer .</Tokens>
+		<POS>PRP VBD JJ CC JJ IN DT JJ NN IN PRP$ NN POS NN .</POS>
+		<Lemma>I search high and low for a inexpensive monitor for my step-son 's computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did n't need anything fancy , he only uses it for typing up papers and playing flash games .</Tokens>
+		<POS>PRP VBD RB VB NN JJ , PRP RB VBZ PRP IN NN IN NNS CC VBG NN NNS .</POS>
+		<Lemma>I do not need anything fancy , he only use it for typing up papers and play flash game .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I searched high and low for an inexpensive monitor and this was the cheapest new one I found .</Tokens>
+		<POS>PRP VBD JJ CC JJ IN DT JJ NN CC DT VBD DT JJS JJ CD PRP VBD .</POS>
+		<Lemma>I search high and low for a inexpensive monitor and this be the cheapest new one I find .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's small , but plenty big for his purposes .</Tokens>
+		<POS>PRP VBZ JJ , CC RB JJ IN PRP$ NNS .</POS>
+		<Lemma>it be small , but plenty big for he purpose .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Excellent clarity .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>excellent clarity .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've had very good luck in the past with Acer monitors , this is certainly no exception .</Tokens>
+		<POS>PRP VBP VBD RB JJ NN IN DT NN IN NNP NNS , DT VBZ RB DT NN .</POS>
+		<Lemma>I have have very good luck in the past with Acer monitor , this be certainly no exception .</Lemma>
+	</Sentence>
+</Document>

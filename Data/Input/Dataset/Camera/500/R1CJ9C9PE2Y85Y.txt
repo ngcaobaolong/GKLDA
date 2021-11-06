@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought for my daughter and she is very happy with it !</Tokens>
+		<POS>VBN IN PRP$ NN CC PRP VBZ RB JJ IN PRP .</POS>
+		<Lemma>buy for my daughter and she be very happy with it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She owned the previous model and found this model just as easy to use .</Tokens>
+		<POS>PRP VBD DT JJ NN CC VBD DT NN RB RB JJ TO VB .</POS>
+		<Lemma>she own the previous model and find this model just as easy to use .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is our second Sony point-and-shoot camera -LRB- we broke the screen on the first one -RRB- and we love the pictures , panorama capability , and HD video .</Tokens>
+		<POS>DT VBZ PRP$ JJ NNP NN NN -LRB- PRP VBD DT NN IN DT JJ CD -RRB- CC PRP VBP DT NNS , NN NN , CC NN NN .</POS>
+		<Lemma>this be we second Sony point-and-shoot camera -lrb- we break the screen on the first one -rrb- and we love the picture , panorama capability , and hd video .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The wide-angle and big zoom are nice as well !</Tokens>
+		<POS>DT JJ CC JJ NN VBP JJ RB RB .</POS>
+		<Lemma>the wide-angle and big zoom be nice as well !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only reason this one did not get 5 stars is that the selection dial for type of shot is placed awkwardly beside the shutter button .</Tokens>
+		<POS>DT JJ NN DT CD VBD RB VB CD NNS VBZ IN DT NN NN IN NN IN NN VBZ VBN RB IN DT NN NN .</POS>
+		<Lemma>the only reason this one do not get 5 star be that the selection dial for type of shot be place awkwardly beside the shutter button .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Your finger can often inadvertently rotate that dial when moving to take a picture ... just need to pay careful attention to not lay your finger across that dial .</Tokens>
+		<POS>PRP$ NN MD RB RB VB IN NN WRB VBG TO VB DT NN : RB VBP TO VB JJ NN TO RB VB PRP$ NN IN DT NN .</POS>
+		<Lemma>you finger can often inadvertently rotate that dial when move to take a picture ... just need to pay careful attention to not lay you finger across that dial .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Otherwise a good value !</Tokens>
+		<POS>RB DT JJ NN .</POS>
+		<Lemma>otherwise a good value !</Lemma>
+	</Sentence>
+</Document>

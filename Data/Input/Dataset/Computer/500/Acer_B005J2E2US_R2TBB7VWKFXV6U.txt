@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this on sale for 324 after my MSI 13.4 '' x-slim died on me .</Tokens>
+		<POS>PRP VBD DT IN NN IN CD IN PRP$ NNP CD '' JJ VBD IN PRP .</POS>
+		<Lemma>I buy this on sale for 324 after my MSI 13.4 '' x-slim die on I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This laptop is even lighter than the msi which now feels heavy .</Tokens>
+		<POS>DT NN VBZ RB JJR IN DT NN WDT RB VBZ JJ .</POS>
+		<Lemma>this laptop be even lighter than the msus which now feel heavy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The screen is acceptable but a bit cramped at 11.6 inches .</Tokens>
+		<POS>DT NN VBZ JJ CC DT NN JJ IN CD NNS .</POS>
+		<Lemma>the screen be acceptable but a bit cramped at 11.6 inch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I prefer the msi 's 13.4 inch display .</Tokens>
+		<POS>PRP VBP DT NN POS CD NN NN .</POS>
+		<Lemma>I prefer the msus 's 13.4 inch display .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The multi touch pad is pretty useless .</Tokens>
+		<POS>DT NNS VBP NN VBZ RB JJ .</POS>
+		<Lemma>the multus touch pad be pretty useless .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>There is no way to right click using mutli gestures so what 's the point ?</Tokens>
+		<POS>EX VBZ DT NN TO JJ VBP VBG NNS NNS RB WP VBZ DT NN .</POS>
+		<Lemma>there be no way to right click use mutlus gesture so what be the point ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The keyboard is by far the worst feature of this laptop .</Tokens>
+		<POS>DT NN VBZ IN RB DT JJS NN IN DT NN .</POS>
+		<Lemma>the keyboard be by far the worst feature of this laptop .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's completely flat and keys are slightly off in spacing so that when you go to back space you will hit the = sign instead .</Tokens>
+		<POS>PRP VBZ RB JJ CC NNS VBP RB RB IN NN IN IN WRB PRP VBP TO VB NN PRP MD VB DT JJ NN RB .</POS>
+		<Lemma>it be completely flat and key be slightly off in spacing so that when you go to back space you will hit the = sign instead .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Performance is acceptable for a lightweight sub 14 '' laptop .</Tokens>
+		<POS>NNP VBZ JJ IN DT JJ NN CD '' NN .</POS>
+		<Lemma>Performance be acceptable for a lightweight sub 14 '' laptop .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I have n't tried gaming but the gaming score is pretty high for a laptop of this price range -LRB- scores a 5.5 on the gaming score -RRB- overall is 3.8 due to the CPU score .</Tokens>
+		<POS>PRP VBP RB VBN NN CC DT NN NN VBZ RB JJ IN DT NN IN DT NN NN -LRB- NNS DT CD IN DT NN NN -RRB- JJ VBZ CD JJ TO DT NNP NN .</POS>
+		<Lemma>I have not try gaming but the gaming score be pretty high for a laptop of this price range -lrb- score a 5.5 on the gaming score -rrb- overall be 3.8 due to the CPU score .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Battery life is better than average -LRB- 3.5 hours which is nowhere near the claimed time -RRB- but not as good as the MSI 's 8 cell battery of 4 + hours .</Tokens>
+		<POS>NN NN VBZ JJR IN NN -LRB- CD NNS WDT VBZ RB IN DT VBN NN -RRB- CC RB RB JJ IN DT NNP POS CD NN NN IN CD CC NNS .</POS>
+		<Lemma>battery life be better than average -lrb- 3.5 hour which be nowhere near the claim time -rrb- but not as good as the MSI 's 8 cell battery of 4 + hour .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Build quality feels noticeably better than the MSI x-slim 's 13.4 .</Tokens>
+		<POS>VB NN VBZ RB JJR IN DT NNP NN POS CD .</POS>
+		<Lemma>build quality feel noticeably better than the MSI x-slim 's 13.4 .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If this laptop had a 13.4 inch display with chiclet or a sensibly raised keys then it would be a nobrainer but the awful keyboard , cramped display , just slightly better than average battery life , makes this a laptop that makes you live with a lot of compromises .</Tokens>
+		<POS>IN DT NN VBD DT CD NN NN IN NN CC DT RB VBN NNS RB PRP MD VB DT NN CC DT JJ NN , JJ NN , RB RB JJR IN JJ NN NN , VBZ DT DT NN WDT VBZ PRP VBP IN DT NN IN NNS .</POS>
+		<Lemma>if this laptop have a 13.4 inch display with chiclet or a sensibly raise key then it would be a nobrainer but the awful keyboard , cramped display , just slightly better than average battery life , make this a laptop that make you live with a lot of compromise .</Lemma>
+	</Sentence>
+</Document>

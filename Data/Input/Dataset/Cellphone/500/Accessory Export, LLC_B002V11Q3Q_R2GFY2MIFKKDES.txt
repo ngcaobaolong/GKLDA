@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Cheap , and it works for several of these newer USB phones .</Tokens>
+		<POS>JJ , CC PRP VBZ IN JJ IN DT JJR JJ NNS .</POS>
+		<Lemma>cheap , and it work for several of these newer usb phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Allows me to use my droid as a 16GB flash drive .</Tokens>
+		<POS>VBZ PRP TO VB PRP$ NN IN DT NN NN NN .</POS>
+		<Lemma>allow I to use my droid as a 16gb flash drive .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+</Document>

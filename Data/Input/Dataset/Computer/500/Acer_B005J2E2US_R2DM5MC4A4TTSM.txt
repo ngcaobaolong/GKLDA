@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This relates to a different Acer model that I bought in 2011 with a 15.6 '' screen -- the screen just failed after five months of ownership and the Acer warranty department says it is n't covered .</Tokens>
+		<POS>DT VBZ TO DT JJ NNP NN IN PRP VBD IN CD IN DT CD '' NN : DT NN RB VBD IN CD NNS IN NN CC DT NNP NN NN VBZ PRP VBZ RB VBN .</POS>
+		<Lemma>this relate to a different Acer model that I buy in 2011 with a 15.6 '' screen -- the screen just fail after five month of ownership and the Acer warranty department say it be not cover .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Did n't drop it , no damage , but they are charging $ 199 to replace .</Tokens>
+		<POS>VBD RB VB PRP , DT NN , CC PRP VBP VBG $ CD TO VB .</POS>
+		<Lemma>do not drop it , no damage , but they be charge $ 199 to replace .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A laptop should last longer than five months !</Tokens>
+		<POS>DT NN MD RB RB IN CD NNS .</POS>
+		<Lemma>a laptop should last longer than five month !</Lemma>
+	</Sentence>
+</Document>

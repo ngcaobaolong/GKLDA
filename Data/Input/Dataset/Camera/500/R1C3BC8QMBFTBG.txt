@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera .</Tokens>
+		<POS>PRP VBD DT NN .</POS>
+		<Lemma>I buy this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>On the 2nd time I ever used it , I went with it to the pool to take pictures of my son .</Tokens>
+		<POS>IN DT JJ NN PRP RB VBD PRP , PRP VBD IN PRP TO DT NN TO VB NNS IN PRP$ NN .</POS>
+		<Lemma>on the 2nd time I ever use it , I go with it to the pool to take picture of my son .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It did not take even 2-3 minutes for the camera to fill up completely with water .</Tokens>
+		<POS>PRP VBD RB VB RB CD NNS IN DT NN TO VB RP RB IN NN .</POS>
+		<Lemma>it do not take even 2-3 minute for the camera to fill up completely with water .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's destroyed .</Tokens>
+		<POS>PRP VBZ VBN .</POS>
+		<Lemma>it be destroy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also , the camera keeps the screen in full brightness for 2 seconds only and then deems it .</Tokens>
+		<POS>RB , DT NN VBZ DT NN IN JJ NN IN CD NNS RB CC RB VBZ PRP .</POS>
+		<Lemma>also , the camera keep the screen in full brightness for 2 seconds only and then deem it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So it 's almost impossible to see anything if you take pictures outdoor in full sun light .</Tokens>
+		<POS>IN PRP VBZ RB JJ TO VB NN IN PRP VBP NNS JJ IN JJ NN NN .</POS>
+		<Lemma>so it be almost impossible to see anything if you take picture outdoor in full sun light .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Ron</Tokens>
+		<POS>NNP</POS>
+		<Lemma>Ron</Lemma>
+	</Sentence>
+</Document>

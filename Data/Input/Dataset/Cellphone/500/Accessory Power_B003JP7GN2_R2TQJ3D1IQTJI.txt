@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Compact unit can be used a\/c charger or a d\/c charger great for road trips no cheaply made substantial unit .</Tokens>
+		<POS>JJ NN MD VB VBN JJ NN CC DT JJ NN JJ IN NN NNS DT RB VBN JJ NN .</POS>
+		<Lemma>compact unit can be use a\/c charger or a d\/c charger great for road trip no cheaply make substantial unit .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Only problem might be supplied usb cables are a little cheesy so i use original cables from phone and such .</Tokens>
+		<POS>RB NN MD VB VBN NN NNS VBP DT JJ JJ RB FW VBP JJ NNS IN NN CC JJ .</POS>
+		<Lemma>only problem might be supply usb cable be a little cheesy so i use original cable from phone and such .</Lemma>
+	</Sentence>
+</Document>

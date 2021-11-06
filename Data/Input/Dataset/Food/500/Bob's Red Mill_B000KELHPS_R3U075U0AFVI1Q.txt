@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is healthy - very high in whole grain .</Tokens>
+		<POS>DT VBZ JJ : RB JJ IN JJ NN .</POS>
+		<Lemma>this be healthy - very high in whole grain .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As with their Cinnamon Rasin bread , is is greatly improved by adding an over-ripe banana to the mix .</Tokens>
+		<POS>IN IN PRP$ NNP NNP NN , VBZ VBZ RB VBN IN VBG DT JJ NN TO DT NN .</POS>
+		<Lemma>as with they Cinnamon Rasin bread , be be greatly improve by add a over-ripe banana to the mix .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It not only makes a larger loaf and more moist , but helps to cut the strong flax seed flavor a bit .</Tokens>
+		<POS>PRP RB RB VBZ DT JJR NN CC JJR JJ , CC VBZ TO VB DT JJ NN NN NN DT NN .</POS>
+		<Lemma>it not only make a larger loaf and more moist , but help to cut the strong flax seed flavor a bit .</Lemma>
+	</Sentence>
+</Document>

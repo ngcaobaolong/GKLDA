@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a high carb snack , but it 's the perfect pre-run fuel for me .</Tokens>
+		<POS>DT VBZ DT JJ NN NN , CC PRP VBZ DT JJ JJ NN IN PRP .</POS>
+		<Lemma>this be a high carb snack , but it be the perfect pre-run fuel for I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I usually just eat half of one for an hour run .</Tokens>
+		<POS>PRP RB RB VB NN IN CD IN DT NN NN .</POS>
+		<Lemma>I usually just eat half of one for a hour run .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's not too sweet and I enjoy the soft and chewy texture .</Tokens>
+		<POS>PRP VBZ RB RB JJ CC PRP VBP DT JJ CC JJ NN .</POS>
+		<Lemma>it be not too sweet and I enjoy the soft and chewy texture .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've had the strawberry , vanilla , and honey waffles , and although they were all good , I never get tired of the honey flavor .</Tokens>
+		<POS>PRP VBP VBD DT NN , NN , CC NN NNS , CC IN PRP VBD DT JJ , PRP RB VBP VBN IN DT NN NN .</POS>
+		<Lemma>I have have the strawberry , vanilla , and honey waffle , and although they be all good , I never get tire of the honey flavor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When I am craving something sweet for dessert , this also goes great with coffee or tea .</Tokens>
+		<POS>WRB PRP VBP NN NN JJ IN NN , DT RB VBZ JJ IN NN CC NN .</POS>
+		<Lemma>when I be craving something sweet for dessert , this also go great with coffee or tea .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For longer runs , I like something with a little protein and caffiene in it ... Accel gel is effective for me -LRB- and it tastes pretty good -RRB- .</Tokens>
+		<POS>IN JJR NNS , PRP VBP NN IN DT JJ NN CC NN IN PRP : NNP NN VBZ JJ IN PRP -LRB- CC PRP VBZ RB JJ -RRB- .</POS>
+		<Lemma>for longer run , I like something with a little protein and caffiene in it ... Accel gel be effective for I -lrb- and it taste pretty good -rrb- .</Lemma>
+	</Sentence>
+</Document>

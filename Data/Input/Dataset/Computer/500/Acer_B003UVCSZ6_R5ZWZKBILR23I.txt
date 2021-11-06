@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For the typical computer user who spends time online , exchanging e-mail and even office work this monitor is a great value .</Tokens>
+		<POS>IN DT JJ NN NN WP VBZ NN NN , VBG JJ CC RB NN NN DT NN VBZ DT JJ NN .</POS>
+		<Lemma>for the typical computer user who spend time online , exchange e-mail and even office work this monitor be a great value .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had a bit of a ` Doh ' moment after reading previous reviews that mentioned LED light leakage around the `` edges . ''</Tokens>
+		<POS>PRP VBD DT NN IN DT `` NN '' NN IN VBG JJ NNS WDT VBD VBN JJ NN IN DT `` NNS . ''</POS>
+		<Lemma>I have a bit of a ` doh ' moment after read previous review that mention lead light leakage around the `` edge . ''</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I looked all around the outside of the frame trying to find any hint of what they were talking about without seeing a speck of light .</Tokens>
+		<POS>PRP VBD DT IN DT NN IN DT NN VBG TO VB DT NN IN WP PRP VBD VBG RB IN VBG DT NN IN NN .</POS>
+		<Lemma>I look all around the outside of the frame try to find any hint of what they be talk about without see a speck of light .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Only later , when booting my -LRB- Windows -RRB- machine in a darkened room did I see what they were talking about .</Tokens>
+		<POS>RB RB , WRB VBG PRP$ -LRB- NNP -RRB- NN IN DT JJ NN VBD PRP VBP WP PRP VBD VBG RB .</POS>
+		<Lemma>only later , when boot my -lrb- Windows -rrb- machine in a darkened room do I see what they be talk about .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>On a black screen there 's a ` halo ' effect that extends out roughly half an inch -LRB- 13 mm -RRB- from the frame on the screen .</Tokens>
+		<POS>IN DT JJ NN EX VBZ DT `` NN '' NN WDT VBZ RP RB PDT DT NN -LRB- CD NN -RRB- IN DT NN IN DT NN .</POS>
+		<Lemma>on a black screen there be a ` halo ' effect that extend out roughly half a inch -lrb- 13 mm -rrb- from the frame on the screen .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I can see where it might be distracting to someone who 's gaming with a very dark background .</Tokens>
+		<POS>PRP MD VB WRB PRP MD VB VBG TO NN WP VBZ NN IN DT RB JJ NN .</POS>
+		<Lemma>I can see where it might be distract to someone who be gaming with a very dark background .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In most daily use the halo is invisible , certainly not bothersome .</Tokens>
+		<POS>IN JJS JJ NN DT NN VBZ JJ , RB RB JJ .</POS>
+		<Lemma>in most daily use the halo be invisible , certainly not bothersome .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Controls are easy to figure out -LRB- do n't bother with the instruction manual -RRB- and the widescreen is a joy using Windows 7 with its side-to-side docking ability .</Tokens>
+		<POS>NNP VBP JJ TO VB RP -LRB- VBP RB VB IN DT NN NN -RRB- CC DT NN VBZ DT NN VBG NNP CD IN PRP$ JJ NN NN .</POS>
+		<Lemma>Controls be easy to figure out -lrb- do not bother with the instruction manual -rrb- and the widescreen be a joy use Windows 7 with its side-to-side docking ability .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The wider screen also provides extra real estate for those who enjoy having a TV window in one corner while working .</Tokens>
+		<POS>DT JJR NN RB VBZ JJ JJ NN IN DT WP VBP VBG DT NN NN IN CD NN IN VBG .</POS>
+		<Lemma>the wider screen also provide extra real estate for those who enjoy have a tv window in one corner while work .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If do n't do a lot of work with a very dark screen background , you only need a monitor that tilts -LRB- no vertical adjustment -RRB- and you do n't need USB ports or speakers built into your monitor , the Acer 201HL is likely to be a good fit .</Tokens>
+		<POS>IN VBP RB VB DT NN IN NN IN DT RB JJ NN NN , PRP RB VBP DT NN WDT VBZ -LRB- DT JJ NN -RRB- CC PRP VBP RB VB JJ NNS CC NNS VBN IN PRP$ NN , DT NNP NNP VBZ JJ TO VB DT JJ NN .</POS>
+		<Lemma>if do not do a lot of work with a very dark screen background , you only need a monitor that tilt -lrb- no vertical adjustment -rrb- and you do not need usb port or speaker build into you monitor , the Acer 201HL be likely to be a good fit .</Lemma>
+	</Sentence>
+</Document>

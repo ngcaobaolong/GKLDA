@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Handy device for general backup charging but had hoped it would charge the iPAD .</Tokens>
+		<POS>JJ NN IN JJ NN VBG CC VBD VBN PRP MD VB DT NN .</POS>
+		<Lemma>handy device for general backup charge but have hope it would charge the ipad .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Quick delivery from vendor .</Tokens>
+		<POS>RB NN IN NN .</POS>
+		<Lemma>quick delivery from vendor .</Lemma>
+	</Sentence>
+</Document>

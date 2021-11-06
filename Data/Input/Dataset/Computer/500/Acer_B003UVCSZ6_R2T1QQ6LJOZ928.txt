@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Lots of points raised by others about colors washing out slightly here and there , about on\/off switch light being bright etc. .</Tokens>
+		<POS>NNS IN NNS VBN IN NNS IN NNS VBG RP RB RB CC RB , IN JJ NN NN VBG JJ NN .</POS>
+		<Lemma>lot of point raise by other about color wash out slightly here and there , about on\/off switch light be bright etc. .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought this as a second monitor for work and then promptly bought another for working at home .</Tokens>
+		<POS>PRP VBD DT IN DT JJ NN IN NN CC RB RB VBD DT IN VBG IN NN .</POS>
+		<Lemma>I buy this as a second monitor for work and then promptly buy another for work at home .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I fiddled with adjustments briefly and can only say that it works perfectly well , the light on the switch reminds me to turn it off when I 've packed up my laptop and the information on the screen is clear and crisp .</Tokens>
+		<POS>PRP VBD IN NNS NN CC MD RB VB IN PRP VBZ RB RB , DT NN IN DT NN VBZ PRP TO VB PRP RP WRB PRP VBP VBN RP PRP$ NN CC DT NN IN DT NN VBZ JJ CC JJ .</POS>
+		<Lemma>I fiddle with adjustment briefly and can only say that it work perfectly well , the light on the switch remind I to turn it off when I have pack up my laptop and the information on the screen be clear and crisp .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A perfectly good deal especially at the price !</Tokens>
+		<POS>DT RB JJ NN RB IN DT NN .</POS>
+		<Lemma>a perfectly good deal especially at the price !</Lemma>
+	</Sentence>
+</Document>

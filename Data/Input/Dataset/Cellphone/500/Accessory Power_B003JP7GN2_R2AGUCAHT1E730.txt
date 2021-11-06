@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Product was exactly as described .</Tokens>
+		<POS>NN VBD RB IN VBN .</POS>
+		<Lemma>product be exactly as describe .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am able to use with my cell phone , Nook ereader and my GPS .</Tokens>
+		<POS>PRP VBP JJ TO VB IN PRP$ NN NN , JJ NN CC PRP$ NNS .</POS>
+		<Lemma>I be able to use with my cell phone , nook ereader and my gp .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great product and an exceptional price .</Tokens>
+		<POS>JJ NN CC DT JJ NN .</POS>
+		<Lemma>great product and a exceptional price .</Lemma>
+	</Sentence>
+</Document>

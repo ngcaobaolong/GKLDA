@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to replace an $ 89 2011 holiday special 21.5 '' Acer from Best Buy .</Tokens>
+		<POS>PRP VBD DT TO VB DT $ CD CD NN JJ CD '' NNP IN JJS VB .</POS>
+		<Lemma>I buy this to replace a $ 89 2011 holiday special 21.5 '' Acer from best buy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This monitor is much , much better but still not great .</Tokens>
+		<POS>DT NN VBZ RB , RB JJR CC RB RB JJ .</POS>
+		<Lemma>this monitor be much , much better but still not great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The colors and viewing angle are about average , but a huge upgrade from the truly terrible quality of the other monitor .</Tokens>
+		<POS>DT NNS CC VBG NN VBP IN NN , CC DT JJ NN IN DT RB JJ NN IN DT JJ NN .</POS>
+		<Lemma>the color and view angle be about average , but a huge upgrade from the truly terrible quality of the other monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My other big complaint about this monitor is the stand .</Tokens>
+		<POS>PRP$ JJ JJ NN IN DT NN VBZ DT NN .</POS>
+		<Lemma>my other big complaint about this monitor be the stand .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's flimsy plastic and the monitor bounces around while you type .</Tokens>
+		<POS>PRP VBZ JJ NN CC DT NN VBZ RB IN PRP NN .</POS>
+		<Lemma>it be flimsy plastic and the monitor bounce around while you type .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>There 's also no height adjustability , so it sits very low to the desk .</Tokens>
+		<POS>EX VBZ RB DT NN NN , IN PRP VBZ RB JJ TO DT NN .</POS>
+		<Lemma>there be also no height adjustability , so it sit very low to the desk .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you use it with a laptop , that might be a plus , but if you use with with an iMac or a taller monitor , you 're going to need some books or something to level them out .</Tokens>
+		<POS>IN PRP VBP PRP IN DT NN , WDT MD VB DT CC , CC IN PRP VBP IN IN DT NN CC DT JJR NN , PRP VBP VBG TO VB DT NNS CC NN TO VB PRP RP .</POS>
+		<Lemma>if you use it with a laptop , that might be a plus , but if you use with with a imac or a taller monitor , you be go to need some book or something to level they out .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Not a bad monitor for $ 120 but it 's nothing special .</Tokens>
+		<POS>RB DT JJ NN IN $ CD CC PRP VBZ NN JJ .</POS>
+		<Lemma>not a bad monitor for $ 120 but it be nothing special .</Lemma>
+	</Sentence>
+</Document>

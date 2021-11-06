@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received a free sample and I was hooked on first bite .</Tokens>
+		<POS>PRP VBD DT JJ NN CC PRP VBD VBN IN JJ NN .</POS>
+		<Lemma>I receive a free sample and I be hook on first bite .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>SO YUMMY .</Tokens>
+		<POS>NNP NNP .</POS>
+		<Lemma>SO YUMMY .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I could see eating these for regular snacks and not just as a pre-work out snack .</Tokens>
+		<POS>PRP MD VB VBG DT IN JJ NNS CC RB RB IN DT NN IN NN .</POS>
+		<Lemma>I could see eat these for regular snack and not just as a pre-work out snack .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Im a runner and I could see how these might be difficult to eat while running , but you can eat them prior to you run .</Tokens>
+		<POS>NN DT NN CC PRP MD VB WRB DT MD VB JJ TO VB IN VBG , CC PRP MD VB PRP RB TO PRP VBP .</POS>
+		<Lemma>im a runner and I could see how these might be difficult to eat while run , but you can eat they prior to you run .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you are on the fence , try them !</Tokens>
+		<POS>IN PRP VBP IN DT NN , VBP PRP .</POS>
+		<Lemma>if you be on the fence , try they !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After opening the computer for the first time , I notice any javascript links would not work on internet explorer .</Tokens>
+		<POS>IN VBG DT NN IN DT JJ NN , PRP VBP DT NN NNS MD RB VB IN NN NN .</POS>
+		<Lemma>after open the computer for the first time , I notice any javascript link would not work on internet explorer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The default settings were turned on .</Tokens>
+		<POS>DT NN NNS VBD VBN RP .</POS>
+		<Lemma>the default setting be turn on .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I contacted Acer support and they wanted $ 100 to fix the preinstalled internet explorer issues that I was setup with .</Tokens>
+		<POS>PRP VBD NNP NN CC PRP VBD $ CD TO VB DT JJ NN NN NNS IN PRP VBD NN IN .</POS>
+		<Lemma>I contact Acer support and they want $ 100 to fix the preinstalled internet explorer issue that I be setup with .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Because it is not a hardware issue , they will not help you unless you pay them .</Tokens>
+		<POS>IN PRP VBZ RB DT NN NN , PRP MD RB VB PRP IN PRP VBP PRP .</POS>
+		<Lemma>because it be not a hardware issue , they will not help you unless you pay they .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>After searching the internet for hours and trying countless options I downloaded Firefox to get my internet operational .</Tokens>
+		<POS>IN VBG DT NN IN NNS CC VBG JJ NNS PRP VBD NNP TO VB PRP$ NN JJ .</POS>
+		<Lemma>after search the internet for hour and try countless option I download Firefox to get my internet operational .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I was dissapointed that Acer was n't more helpful .</Tokens>
+		<POS>PRP VBD VBN IN NNP VBD RB RBR JJ .</POS>
+		<Lemma>I be dissapoint that Acer be not more helpful .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I talked to a manager and explained that I had not modified any preset items and they still could not waive the cpu support fee despite the cpu being brand new .</Tokens>
+		<POS>PRP VBD TO DT NN CC VBD IN PRP VBD RB VBN DT JJ NNS CC PRP RB MD RB VB DT NN NN NN IN DT NN VBG NN JJ .</POS>
+		<Lemma>I talk to a manager and explain that I have not modify any preset item and they still could not waive the cpu support fee despite the cpu be brand new .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I would rather hire a local tech support company than pay $ 100 to fix a brand new software issue on a $ 375 computer ... Besides that it seems to be working fine now .</Tokens>
+		<POS>PRP MD RB VB DT JJ NN NN NN IN VB $ CD TO VB DT NN JJ NN NN IN DT $ CD NN : IN IN PRP VBZ TO VB VBG NN RB .</POS>
+		<Lemma>I would rather hire a local tech support company than pay $ 100 to fix a brand new software issue on a $ 375 computer ... besides that it seem to be work fine now .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Nice and compact .</Tokens>
+		<POS>JJ CC JJ .</POS>
+		<Lemma>nice and compact .</Lemma>
+	</Sentence>
+</Document>

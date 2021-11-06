@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Camera was ok after some issues that required a few hard resets but after two weeks it failed to work and got grainy .</Tokens>
+		<POS>NN VBD VBN IN DT NNS WDT VBD DT JJ JJ NNS CC IN CD NNS PRP VBD TO VB CC VBD JJ .</POS>
+		<Lemma>camera be ok after some issue that require a few hard reset but after two week it fail to work and get grainy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Attempts to log into camera with admin and created user had failed .</Tokens>
+		<POS>NNS TO VB IN NN IN NN CC VBN NN VBD VBN .</POS>
+		<Lemma>attempt to log into camera with admin and create user have fail .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Hard reset again but still grainy .</Tokens>
+		<POS>JJ NN RB CC RB JJ .</POS>
+		<Lemma>hard reset again but still grainy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I had enough of dealing with the poor software on camera and returned camera .</Tokens>
+		<POS>PRP VBD RB IN VBG IN DT JJ NN IN NN CC VBD NN .</POS>
+		<Lemma>I have enough of deal with the poor software on camera and return camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Foscam also will not assist you or warranty camera if purchased from anyone but them directly unless you pay for support .</Tokens>
+		<POS>NNP RB MD RB VB PRP CC NN NN IN VBN IN NN CC PRP RB IN PRP VBP IN NN .</POS>
+		<Lemma>Foscam also will not assist you or warranty camera if purchase from anyone but they directly unless you pay for support .</Lemma>
+	</Sentence>
+</Document>

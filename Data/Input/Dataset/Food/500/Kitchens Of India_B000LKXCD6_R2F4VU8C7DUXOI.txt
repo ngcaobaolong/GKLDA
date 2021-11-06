@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A very tasty quick meal .</Tokens>
+		<POS>DT RB JJ JJ NN .</POS>
+		<Lemma>a very tasty quick meal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Eat it with two slices of bread and you 're full .</Tokens>
+		<POS>VB PRP IN CD NNS IN NN CC PRP VBP JJ .</POS>
+		<Lemma>eat it with two slice of bread and you be full .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I like how this meal tastes , but quite frankly it looks horrible when you pour it out of the pouch .</Tokens>
+		<POS>PRP VBP WRB DT NN NNS , CC RB RB PRP VBZ JJ WRB PRP VBP PRP IN IN DT NN .</POS>
+		<Lemma>I like how this meal taste , but quite frankly it look horrible when you pour it out of the pouch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Do n't be put off by that , it tastes great .</Tokens>
+		<POS>VBP RB VB VBN RP IN DT , PRP VBZ JJ .</POS>
+		<Lemma>do not be put off by that , it taste great .</Lemma>
+	</Sentence>
+</Document>

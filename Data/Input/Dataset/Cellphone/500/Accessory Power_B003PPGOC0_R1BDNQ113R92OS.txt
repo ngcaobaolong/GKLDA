@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been wanting bluetooth capabilities in my car for some time now but just did not want to spend the money or deal with the hassle .</Tokens>
+		<POS>PRP VBP VBN VBG JJ NNS IN PRP$ NN IN DT NN RB CC RB VBD RB VB TO VB DT NN CC NN IN DT NN .</POS>
+		<Lemma>I have be want bluetooth capability in my car for some time now but just do not want to spend the money or deal with the hassle .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recently came across this after trying several inferior FM Transmitters .</Tokens>
+		<POS>PRP RB VBD IN DT IN VBG JJ JJ NN NNS .</POS>
+		<Lemma>I recently come across this after try several inferior fm transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For the price I figured it was worth a try .</Tokens>
+		<POS>IN DT NN PRP VBD PRP VBD IN DT NN .</POS>
+		<Lemma>for the price I figure it be worth a try .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Oh how i was pleasantly surprised when i plugged it in and paired it to my phone .</Tokens>
+		<POS>UH WRB FW VBD RB VBN WRB FW VBD PRP IN CC JJ PRP TO PRP$ NN .</POS>
+		<Lemma>oh how i be pleasantly surprise when i plug it in and paired it to my phone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Now I can listen to music and take calls while I drive with the convenience of bluetooth , but without the several hundred dollar investment in a new stereo .</Tokens>
+		<POS>RB PRP MD VB TO NN CC VB NNS IN PRP VBP IN DT NN IN NN , CC IN DT JJ CD NN NN IN DT JJ NN .</POS>
+		<Lemma>now I can listen to music and take call while I drive with the convenience of bluetooth , but without the several hundred dollar investment in a new stereo .</Lemma>
+	</Sentence>
+</Document>

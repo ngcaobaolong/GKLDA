@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread has a more bold flavor with the whole grain .</Tokens>
+		<POS>DT NN VBZ DT RBR JJ NN IN DT JJ NN .</POS>
+		<Lemma>this bread have a more bold flavor with the whole grain .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Tastes great and baked well in the bread machine .</Tokens>
+		<POS>NNS JJ CC JJ RB IN DT NN NN .</POS>
+		<Lemma>taste great and baked well in the bread machine .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,127 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For the price point , the Kodak PlayFull waterproof video camera offers bang-for-the-buck , especially since the package includes a 4GB SDHC card .</Tokens>
+		<POS>IN DT NN NN , DT NNP NNP JJ NN NN VBZ NN , RB IN DT NN VBZ DT NN NN NN .</POS>
+		<Lemma>for the price point , the Kodak PlayFull waterproof video camera offer bang-for-the-buck , especially since the package include a 4gb sdhc card .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera is smaller than the Flip and Kodak PlaySport lines , but also lacks the more substantial feel of those cameras .</Tokens>
+		<POS>DT NN VBZ JJR IN DT NN CC NNP NNP NNS , CC RB VBZ DT RBR JJ NN IN DT NNS .</POS>
+		<Lemma>the camera be smaller than the flip and Kodak PlaySport line , but also lack the more substantial feel of those camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Still , Kodak claims that it is drop-proof up to 5 feet ; usually such a claim means that it is also likely to survive a slightly longer fall but that the odds go down with each foot .</Tokens>
+		<POS>RB , NNP VBZ IN PRP VBZ JJ IN TO CD NNS : RB JJ DT NN VBZ IN PRP VBZ RB JJ TO VB DT RB JJR NN CC IN DT NNS VBP RP IN DT NN .</POS>
+		<Lemma>still , Kodak claim that it be drop-proof up to 5 foot ; usually such a claim mean that it be also likely to survive a slightly longer fall but that the odds go down with each foot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The good : I was really surprised by the small size and light weight , both of which make the camera easily to carry around and use .</Tokens>
+		<POS>DT JJ : PRP VBD RB VBN IN DT JJ NN CC JJ NN , DT IN WDT VBP DT NN RB TO VB RP CC NN .</POS>
+		<Lemma>the good : I be really surprise by the small size and light weight , both of which make the camera easily to carry around and use .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It takes 720p HD video , and the quality compares well to the other pocket camcorders I have .</Tokens>
+		<POS>PRP VBZ JJ NN NN , CC DT NN VBZ RB TO DT JJ NN NNS PRP VBP .</POS>
+		<Lemma>it take 720p hd video , and the quality compare well to the other pocket camcorder I have .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The features , although limited , are intuitive to find and use , so you wo n't have to page through the manual to figure them out .</Tokens>
+		<POS>DT NNS , IN JJ , VBP JJ TO VB CC VB , RB PRP MD RB VB TO NN IN DT NN TO VB PRP RP .</POS>
+		<Lemma>the feature , although limited , be intuitive to find and use , so you will not have to page through the manual to figure they out .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have no interest in the effect menu , but it does allow users to film in black-and-white , sepia , 70s style , and high-saturation modes .</Tokens>
+		<POS>PRP VBP DT NN IN DT NN NN , CC PRP VBZ VB NNS TO NN IN JJ , NN , CD NN , CC JJ NNS .</POS>
+		<Lemma>I have no interest in the effect menu , but it do allow user to film in black-and-white , sepia , 70s style , and high-saturation mode .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There 's also a feature for underwater correction which adjusts for distortion .</Tokens>
+		<POS>EX VBZ RB DT NN IN JJ NN WDT VBZ IN NN .</POS>
+		<Lemma>there be also a feature for underwater correction which adjust for distortion .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The 2 '' LCD screen is well-lit and easy to see ; it can also be set to anti-glare mode .</Tokens>
+		<POS>DT CD '' NNS NN VBZ JJ CC JJ TO VB : PRP MD RB VB VBN TO JJ NN .</POS>
+		<Lemma>the 2 '' lcd screen be well-lit and easy to see ; it can also be set to anti-glare mode .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>There 's also a mini-HDMI port for connecting to TV screens , although the cable is not included .</Tokens>
+		<POS>EX VBZ RB DT NN NN IN VBG TO NN NNS , IN DT NN VBZ RB VBN .</POS>
+		<Lemma>there be also a mini-hdmus port for connect to tv screen , although the cable be not include .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Unlike with Flip cameras , you can expand the memory by installing large-capacity SDHC cards , although the included 4GB SDHC card is large enough to get started right away .</Tokens>
+		<POS>IN IN NN NNS , PRP MD VB DT NN IN VBG JJ NNP NNS , IN DT VBN NN NN NN VBZ JJ RB TO VB VBN RB RB .</POS>
+		<Lemma>unlike with flip camera , you can expand the memory by install large-capacity SDHC card , although the include 4gb sdhc card be large enough to get start right away .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Of course , the big plus of this camera is that it 's water resistant up to 10 feet , so you do n't have to worry if you film in the rain or want to capture fish while snorkeling .</Tokens>
+		<POS>IN NN , DT JJ NN IN DT NN VBZ IN PRP VBZ NN JJ IN TO CD NNS , RB PRP VBP RB VB TO VB IN PRP NN IN DT NN CC VB TO VB NN IN NN .</POS>
+		<Lemma>of course , the big plus of this camera be that it be water resistant up to 10 foot , so you do not have to worry if you film in the rain or want to capture fish while snorkeling .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The bad : the hardware doors are difficult to open and figure out .</Tokens>
+		<POS>DT JJ : DT NN NNS VBP JJ TO VB CC VB RP .</POS>
+		<Lemma>the bad : the hardware door be difficult to open and figure out .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The USB arm is downright awful , as it 's difficult to remove and is tethered to a half-inch cord .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ , IN PRP VBZ JJ TO VB CC VBZ JJ TO DT JJ NN .</POS>
+		<Lemma>the usb arm be downright awful , as it be difficult to remove and be tethered to a half-inch cord .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I can imagine that it could be easily ripped off , especially by an impatient child .</Tokens>
+		<POS>PRP MD VB IN PRP MD VB RB VBN RP , RB IN DT JJ NN .</POS>
+		<Lemma>I can imagine that it could be easily rip off , especially by a impatient child .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The SDHC card slot is also difficult to locate and open , and I always end up turning on the camera by accident when I try to open it .</Tokens>
+		<POS>DT NNP NN NN VBZ RB JJ TO VB CC VB , CC PRP RB VBP RP VBG IN DT NN IN NN WRB PRP VBP TO VB PRP .</POS>
+		<Lemma>the SDHC card slot be also difficult to locate and open , and I always end up turn on the camera by accident when I try to open it .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The neutral : Like other pocket camcorders , this one performs decently but not great in low-light situations .</Tokens>
+		<POS>DT JJ : IN JJ NN NNS , DT CD VBZ RB CC RB JJ IN JJ NNS .</POS>
+		<Lemma>the neutral : like other pocket camcorder , this one perform decently but not great in low-light situation .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Interior shots will generally be adequate except in darkened rooms .</Tokens>
+		<POS>NNP NNS MD RB VB JJ IN IN JJ NNS .</POS>
+		<Lemma>Interior shot will generally be adequate except in darkened room .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The non-removable battery can be only be charged through a USB port or USB charger -LRB- not included -RRB- .</Tokens>
+		<POS>DT JJ NN MD VB RB VB VBN IN DT JJ NN CC JJ NN -LRB- RB VBN -RRB- .</POS>
+		<Lemma>the non-removable battery can be only be charge through a usb port or usb charger -lrb- not include -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>That means once the battery runs down , you can not use the camera until you can recharge it .</Tokens>
+		<POS>DT VBZ RB DT NN VBZ RP , PRP MD RB VB DT NN IN PRP MD VB PRP .</POS>
+		<Lemma>that mean once the battery run down , you can not use the camera until you can recharge it .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>This is offset by decent battery life .</Tokens>
+		<POS>DT VBZ VBN IN JJ NN NN .</POS>
+		<Lemma>this be offset by decent battery life .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Although the 4GB card is enough to get you started , I recommend getting a larger SDHC card -- 8 GB minimum -- to extend memory .</Tokens>
+		<POS>IN DT NN NN VBZ RB TO VB PRP VBD , PRP VBP VBG DT JJR NNP NN : CD NN NN : TO VB NN .</POS>
+		<Lemma>although the 4gb card be enough to get you start , I recommend get a larger SDHC card -- 8 gb minimum -- to extend memory .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>If you can afford to spend more and do n't mind the larger size , I recommend the Kodak PlaySport -LRB- Zx5 -RRB- HD Waterproof Pocket Video Camera over this one .</Tokens>
+		<POS>IN PRP MD VB TO VB JJR CC VBP RB VB DT JJR NN , PRP VBP DT NN NNP NNP -LRB- NN -RRB- NN NNP NNP NNP NNP NN IN DT CD .</POS>
+		<Lemma>if you can afford to spend more and do not mind the larger size , I recommend the Kodak PlaySport -lrb- zx5 -rrb- hd Waterproof Pocket Video Camera over this one .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>This camera is best for instances when you want a low-cost video camera , either for occasional underwater use or for children\/teens who might be more likely to lose or break one , or if you want the smallest video camera possible .</Tokens>
+		<POS>DT NN VBZ JJS IN NNS WRB PRP VBP DT JJ NN NN , CC IN JJ JJ NN CC IN NNS WP MD VB RBR JJ TO VB CC VB CD , CC IN PRP VBP DT JJS NN NN JJ .</POS>
+		<Lemma>this camera be best for instance when you want a low-cost video camera , either for occasional underwater use or for children\/teens who might be more likely to lose or break one , or if you want the smallest video camera possible .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>-- Debbie Lee Wesselmann</Tokens>
+		<POS>: NNP NNP NNP</POS>
+		<Lemma>-- Debbie Lee Wesselmann</Lemma>
+	</Sentence>
+</Document>

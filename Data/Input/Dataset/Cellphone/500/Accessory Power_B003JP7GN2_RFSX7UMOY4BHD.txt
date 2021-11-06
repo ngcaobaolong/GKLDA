@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Fast shipping , thought item was going to be great with all the different things it was able todo .</Tokens>
+		<POS>JJ NN , VBD NN VBD VBG TO VB JJ IN PDT DT JJ NNS PRP VBD JJ NN .</POS>
+		<Lemma>fast shipping , think item be go to be great with all the different thing it be able todo .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But Item fell apart within a month , and that was only using it a few times in the car .</Tokens>
+		<POS>CC NNP VBD RB IN DT NN , CC DT VBD RB VBG PRP DT JJ NNS IN DT NN .</POS>
+		<Lemma>but Item fall apart within a month , and that be only use it a few time in the car .</Lemma>
+	</Sentence>
+</Document>

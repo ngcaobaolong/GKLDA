@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this as a Christmas gift .</Tokens>
+		<POS>PRP VBD DT IN DT NNP NN .</POS>
+		<Lemma>I purchase this as a Christmas gift .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>While upgrading the memory the keyboard connector broke .</Tokens>
+		<POS>IN VBG DT NN DT NN NN VBD .</POS>
+		<Lemma>while upgrade the memory the keyboard connector break .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not enough time to get a repair before Christmas , so I bought a second one .</Tokens>
+		<POS>RB JJ NN TO VB DT NN IN NNP , RB PRP VBD DT JJ CD .</POS>
+		<Lemma>not enough time to get a repair before Christmas , so I buy a second one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Same result .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>same result .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm not very happy with this machine or Acer .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT NN CC NNP .</POS>
+		<Lemma>I be not very happy with this machine or Acer .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Update : I sent both machines back to Acer .</Tokens>
+		<POS>NNP : PRP VBD CC NNS RB TO NNP .</POS>
+		<Lemma>Update : I send both machine back to Acer .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>They just informed me that they wanted $ 99\/unit to fix the problem .</Tokens>
+		<POS>PRP RB VBD PRP IN PRP VBD $ CD TO VB DT NN .</POS>
+		<Lemma>they just inform I that they want $ 99\/unit to fix the problem .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I would not recommend this or any Acer product to anyone except perhaps my ex .</Tokens>
+		<POS>PRP MD RB VB DT CC DT NNP NN TO NN IN RB PRP$ FW .</POS>
+		<Lemma>I would not recommend this or any Acer product to anyone except perhaps my ex .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>-LRB- \* _ ~ -RRB-</Tokens>
+		<POS>-LRB- SYM CD NN -RRB-</POS>
+		<Lemma>-lrb- \* _ ~ -rrb-</Lemma>
+	</Sentence>
+</Document>

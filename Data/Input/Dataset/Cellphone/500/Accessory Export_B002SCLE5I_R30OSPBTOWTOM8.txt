@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I brought this product after reading the somewhat positive reviews about this product .</Tokens>
+		<POS>PRP VBD DT NN IN VBG DT RB JJ NNS IN DT NN .</POS>
+		<Lemma>I bring this product after read the somewhat positive review about this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After I ordered , I did more research about these so called signal boosters and it has been proved scientifically that these do not work in any way .</Tokens>
+		<POS>IN PRP VBD , PRP VBD RBR NN IN DT RB VBN NN NNS CC PRP VBZ VBN VBN RB IN DT VBP RB VB IN DT NN .</POS>
+		<Lemma>after I order , I do more research about these so call signal booster and it have be prove scientifically that these do not work in any way .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am glad that it worked for some people , but not me .</Tokens>
+		<POS>PRP VBP JJ IN PRP VBD IN DT NNS , CC RB PRP .</POS>
+		<Lemma>I be glad that it work for some people , but not I .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A great products .</Tokens>
+		<POS>DT JJ NNS .</POS>
+		<Lemma>a great product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>looks good .</Tokens>
+		<POS>VBZ JJ .</POS>
+		<Lemma>look good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>works great .</Tokens>
+		<POS>NNS JJ .</POS>
+		<Lemma>work great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>right price BUT expensive and difficult to ship to Australia</Tokens>
+		<POS>JJ NN NN JJ CC JJ TO VB TO NNP</POS>
+		<Lemma>right price but expensive and difficult to ship to Australia</Lemma>
+	</Sentence>
+</Document>

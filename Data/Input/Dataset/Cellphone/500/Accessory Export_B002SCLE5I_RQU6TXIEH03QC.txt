@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the cell phone booster sticker pack of ten and used it on a lot of different phones , and I did n't see any difference in signal strength .</Tokens>
+		<POS>PRP VBD DT NN NN NN NN NN IN CD CC VBD PRP IN DT NN IN JJ NNS , CC PRP VBD RB VB DT NN IN NN NN .</POS>
+		<Lemma>I buy the cell phone booster sticker pack of ten and use it on a lot of different phone , and I do not see any difference in signal strength .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For me this product did n't work good .</Tokens>
+		<POS>IN PRP DT NN VBD RB VB JJ .</POS>
+		<Lemma>for I this product do not work good .</Lemma>
+	</Sentence>
+</Document>

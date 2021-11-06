@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After reading reviews here and watching some video reviews on youtube , I ordered this product the Toshiba Camileo S30 Full HD Camcorder from Amazon .</Tokens>
+		<POS>IN VBG NNS RB CC VBG DT NN VBZ IN NN , PRP VBD DT NN DT NNP NNP NNP JJ NN NN IN NNP .</POS>
+		<Lemma>after read review here and watch some video review on youtube , I order this product the Toshiba Camileo S30 full hd camcorder from Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The product arrived in retail package , with every little gadget in the box , a camcorder , a charger , a mini HDMI cable , a composite cable , a mini USB cable , a tripod , a string and a wipe .</Tokens>
+		<POS>DT NN VBD IN JJ NN , IN DT JJ NN IN DT NN , DT NN , DT NN , DT JJ NN NN , DT JJ NN , DT JJ JJ NN , DT NN , DT NN CC DT VBP .</POS>
+		<Lemma>the product arrive in retail package , with every little gadget in the box , a camcorder , a charger , a mini hdmus cable , a composite cable , a mini usb cable , a tripod , a string and a wipe .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>-LRB- Not like some one said that Amazon sell it in a stripped version -RRB- However the unit I received is a defect one .</Tokens>
+		<POS>-LRB- RB IN DT CD VBD IN NNP VBP PRP IN DT VBN NN -RRB- WRB DT NN PRP VBD VBZ DT NN CD .</POS>
+		<Lemma>-lrb- not like some one say that Amazon sell it in a strip version -rrb- however the unit I receive be a defect one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There is a piece of rubbeer stuck inside the SD car slot .</Tokens>
+		<POS>EX VBZ DT NN IN NN VBD IN DT NN NN NN .</POS>
+		<Lemma>there be a piece of rubbeer stick inside the sd car slot .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's difficult to insert SD card .</Tokens>
+		<POS>PRP VBZ JJ TO VB NN NN .</POS>
+		<Lemma>it be difficult to insert sd card .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And when I managed to push the card in , it 's more difficult to pull it out .</Tokens>
+		<POS>CC WRB PRP VBD TO VB DT NN IN , PRP VBZ RBR JJ TO VB PRP RP .</POS>
+		<Lemma>and when I manage to push the card in , it be more difficult to pull it out .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Worse still , my SD card is covered with glue when I pull it out from the camcorder .</Tokens>
+		<POS>JJR RB , PRP$ NN NN VBZ VBN IN NN WRB PRP VBP PRP RP IN DT NN .</POS>
+		<Lemma>worse still , my sd card be cover with glue when I pull it out from the camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I guess it comes from that piece of rubber which should n't be there .</Tokens>
+		<POS>PRP VBP PRP VBZ IN DT NN IN NN WDT MD RB VB RB .</POS>
+		<Lemma>I guess it come from that piece of rubber which should not be there .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It 's a obvious assembly failure .</Tokens>
+		<POS>PRP VBZ DT JJ NN NN .</POS>
+		<Lemma>it be a obvious assembly failure .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I played with the camcorder for a few minutes before put it back in the return box .</Tokens>
+		<POS>PRP VBD IN DT NN IN DT JJ NNS IN VBN PRP RB IN DT NN NN .</POS>
+		<Lemma>I play with the camcorder for a few minute before put it back in the return box .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The video and sound is OK .</Tokens>
+		<POS>DT NN CC NN VBZ JJ .</POS>
+		<Lemma>the video and sound be ok .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>-LRB- My expectation is pretty low , by the way -RRB- .</Tokens>
+		<POS>-LRB- PRP$ NN VBZ RB JJ , IN DT NN -RRB- .</POS>
+		<Lemma>-lrb- my expectation be pretty low , by the way -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It 's easy to hold in hand , except that you might cover the LED light under the lenses .</Tokens>
+		<POS>PRP VBZ JJ TO VB RP NN , IN IN PRP MD VB DT NN NN IN DT NNS .</POS>
+		<Lemma>it be easy to hold in hand , except that you might cover the led light under the lens .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The operation is intuitive .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the operation be intuitive .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>But the screen is so cheaply built that it looks like my first Nokia 10 years ago .</Tokens>
+		<POS>CC DT NN VBZ RB RB VBN IN PRP VBZ IN PRP$ JJ NNP CD NNS RB .</POS>
+		<Lemma>but the screen be so cheaply build that it look like my first Nokia 10 year ago .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Anyway , I 'm sending it back .</Tokens>
+		<POS>RB , PRP VBP VBG PRP RB .</POS>
+		<Lemma>anyway , I be send it back .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>By the way , I 'll give Amazon customer service a 5-star rating .</Tokens>
+		<POS>IN DT NN , PRP MD VB NNP NN NN DT JJ NN .</POS>
+		<Lemma>by the way , I 'll give Amazon customer service a 5-star rating .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I complained that my SD card has been ruined by the camcorder .</Tokens>
+		<POS>PRP VBD IN PRP$ NN NN VBZ VBN VBN IN DT NN .</POS>
+		<Lemma>I complain that my sd card have be ruin by the camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>They let me choose one on the website and give it to me for free .</Tokens>
+		<POS>PRP VBP PRP VB CD IN DT NN CC VB PRP TO PRP IN JJ .</POS>
+		<Lemma>they let I choose one on the website and give it to I for free .</Lemma>
+	</Sentence>
+</Document>

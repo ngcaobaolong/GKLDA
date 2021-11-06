@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So many products promise so much and fail to deliver .</Tokens>
+		<POS>RB JJ NNS VBP RB JJ CC VBP TO VB .</POS>
+		<Lemma>so many product promise so much and fail to deliver .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This works great with my Android Nexus S 4G and my Wife 's iPhone 4 .</Tokens>
+		<POS>DT VBZ JJ IN PRP$ NNP NNP NN NN CC PRP$ NNP POS NNP CD .</POS>
+		<Lemma>this work great with my Android Nexus s 4g and my Wife 's iPhone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Setup is really simple and the FM signal is the best I have heard .</Tokens>
+		<POS>NN VBZ RB JJ CC DT NNP NN VBZ DT JJS PRP VBP VBN .</POS>
+		<Lemma>setup be really simple and the FM signal be the best I have hear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>During dead silence you can hear a \* very \* faint hiss , and the fidelity is not quite as good as with a wired connection .</Tokens>
+		<POS>IN JJ NN PRP MD VB DT SYM RB SYM JJ NN , CC DT NN VBZ RB RB IN JJ IN IN DT VBN NN .</POS>
+		<Lemma>during dead silence you can hear a \* very \* faint hiss , and the fidelity be not quite as good as with a wire connection .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But to have my phone connect to the car stereo nearly instantly when I get in the car without hooking up a bunch of wires is worth it .</Tokens>
+		<POS>CC TO VB PRP$ NN VB TO DT NN NN RB RB WRB PRP VBP IN DT NN IN VBG RP DT NN IN NNS VBZ IN PRP .</POS>
+		<Lemma>but to have my phone connect to the car stereo nearly instantly when I get in the car without hook up a bunch of wire be worth it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>One thing you will have to note , I have tried several FM transmitters with this car -LRB- Hyundai Elantra -RRB- and it has an antenna in the rear of the car .</Tokens>
+		<POS>CD NN PRP MD VB TO VB , PRP VBP VBN JJ NNP NNS IN DT NN -LRB- NNP NNP -RRB- CC PRP VBZ DT NN IN DT NN IN DT NN .</POS>
+		<Lemma>one thing you will have to note , I have try several FM transmitter with this car -lrb- Hyundai Elantra -rrb- and it have a antenna in the rear of the car .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>All of them have sounded AWFUL .</Tokens>
+		<POS>DT IN PRP VBP VBN NNP .</POS>
+		<Lemma>all of they have sound AWFUL .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Like you were trying to tune into a station fifty miles away , just a static mess .</Tokens>
+		<POS>IN PRP VBD VBG TO VB IN DT NN CD NNS RB , RB DT JJ NN .</POS>
+		<Lemma>like you be try to tune into a station fifty mile away , just a static mess .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>But this unit blows them all away .</Tokens>
+		<POS>CC DT NN NNS PRP DT RB .</POS>
+		<Lemma>but this unit blow they all away .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Call quality is the best I have used in a hands free unit with my Nexus .</Tokens>
+		<POS>VB NN VBZ DT JJS PRP VBP VBN IN DT NNS JJ NN IN PRP$ NN .</POS>
+		<Lemma>call quality be the best I have use in a hand free unit with my nexus .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The unit links up to via Bluetooth in seconds .</Tokens>
+		<POS>DT NN VBZ RP TO IN NNP IN NNS .</POS>
+		<Lemma>the unit link up to via Bluetooth in seconds .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>If you have a stereo without AUX inputs , get this over a cassette adapter , the wires go bad and stick out .</Tokens>
+		<POS>IN PRP VBP DT NN IN NNP NNS , VB DT IN DT NN NN , DT NNS VBP JJ CC VB RP .</POS>
+		<Lemma>if you have a stereo without AUX input , get this over a cassette adapter , the wire go bad and stick out .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It 's a heck of a lot cheaper then replacing your stereo .</Tokens>
+		<POS>PRP VBZ DT NN IN DT NN JJR RB VBG PRP$ NN .</POS>
+		<Lemma>it be a heck of a lot cheaper then replace you stereo .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Since my car is over seven years old I did not want to put a lot of money into a new Stereo .</Tokens>
+		<POS>IN PRP$ NN VBZ IN CD NNS JJ PRP VBD RB VB TO VB DT NN IN NN IN DT JJ NNP .</POS>
+		<Lemma>since my car be over seven year old I do not want to put a lot of money into a new Stereo .</Lemma>
+	</Sentence>
+</Document>

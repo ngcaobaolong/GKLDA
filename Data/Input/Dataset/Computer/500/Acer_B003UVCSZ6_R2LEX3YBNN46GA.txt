@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Looks really good with my new Acer PC , plugged in and no issues , like the resolution very much .</Tokens>
+		<POS>VBZ RB JJ IN PRP$ JJ NNP NNP , VBD IN CC DT NNS , IN DT NN RB RB .</POS>
+		<Lemma>look really good with my new Acer PC , plug in and no issue , like the resolution very much .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The price was great also .</Tokens>
+		<POS>DT NN VBD JJ RB .</POS>
+		<Lemma>the price be great also .</Lemma>
+	</Sentence>
+</Document>

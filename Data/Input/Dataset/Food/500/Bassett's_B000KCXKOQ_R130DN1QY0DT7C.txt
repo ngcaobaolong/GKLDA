@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I absolutely am in love with these Jelly Babies .</Tokens>
+		<POS>PRP RB VBP IN NN IN DT NNP NNS .</POS>
+		<Lemma>I absolutely be in love with these Jelly baby .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Do not hesitate at all to buy these Jelly Babies .</Tokens>
+		<POS>VBP RB VB IN DT TO VB DT NNP NNS .</POS>
+		<Lemma>do not hesitate at all to buy these Jelly baby .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I purchased them just like everyone else , I am a fan of Doctor Who and I was curious .</Tokens>
+		<POS>PRP VBD PRP RB IN NN RB , PRP VBP DT NN IN NNP WP CC PRP VBD JJ .</POS>
+		<Lemma>I purchase they just like everyone else , I be a fan of Doctor who and I be curious .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now I know why the fourth doctor was obsessed with them .</Tokens>
+		<POS>RB PRP VBP WRB DT JJ NN VBD VBN IN PRP .</POS>
+		<Lemma>now I know why the fourth doctor be obsess with they .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have been ordering them one bag at a time now for a little bit .</Tokens>
+		<POS>PRP VBP VBN VBG PRP CD NN IN DT NN RB IN DT JJ NN .</POS>
+		<Lemma>I have be order they one bag at a time now for a little bit .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The most recent time I decided to buy two bags .</Tokens>
+		<POS>DT RBS JJ NN PRP VBD TO VB CD NNS .</POS>
+		<Lemma>the most recent time I decide to buy two bag .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It would have been a brilliant decision if it was n't 95 degrees out the day they were delivered .</Tokens>
+		<POS>PRP MD VB VBN DT JJ NN IN PRP VBD RB CD NNS IN DT NN PRP VBD VBN .</POS>
+		<Lemma>it would have be a brilliant decision if it be not 95 degree out the day they be deliver .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Needless to say my Jelly Babies were basically just ... Jelly .</Tokens>
+		<POS>JJ TO VB PRP$ NNP NNS VBD RB RB : NNP .</POS>
+		<Lemma>needless to say my Jelly baby be basically just ... Jelly .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It was a complete disaster and I wanted to blame the shipper but I ca n't .</Tokens>
+		<POS>PRP VBD DT JJ NN CC PRP VBD TO VB DT NN CC PRP MD RB .</POS>
+		<Lemma>it be a complete disaster and I want to blame the shipper but I can not .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I ordered candy online in the middle of August , I should have known they were going to melt .</Tokens>
+		<POS>PRP VBD NN NN IN DT NN IN NNP , PRP MD VB VBN PRP VBD VBG TO VB .</POS>
+		<Lemma>I order candy online in the middle of August , I should have know they be go to melt .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>So as much as I hate to have to wait I am going to hold off until it gets a little cooler out so I do n't have to suffer the pain of seeing a Jelly Baby massacre again .</Tokens>
+		<POS>RB RB JJ IN PRP VBP TO VB TO VB PRP VBP VBG TO VB RP IN PRP VBZ DT JJ JJR IN RB PRP VBP RB VB TO VB DT NN IN VBG DT NNP NNP NN RB .</POS>
+		<Lemma>so as much as I hate to have to wait I be go to hold off until it get a little cooler out so I do not have to suffer the pain of see a Jelly Baby massacre again .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Buy Buy Buy you will not regret the decision they are awesome .</Tokens>
+		<POS>JJ JJ JJ PRP MD RB VB DT NN PRP VBP JJ .</POS>
+		<Lemma>buy buy buy you will not regret the decision they be awesome .</Lemma>
+	</Sentence>
+</Document>

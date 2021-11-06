@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am not a pro biker .</Tokens>
+		<POS>PRP VBP RB DT JJ NN .</POS>
+		<Lemma>I be not a pro biker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>but when I usually do considerable miles weekly 3-4 times a day .</Tokens>
+		<POS>CC WRB PRP RB VBP JJ NNS RB CD NNS DT NN .</POS>
+		<Lemma>but when I usually do considerable mile weekly 3-4 time a day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One thing I will make sure is not leave my home with out one of these waffles .</Tokens>
+		<POS>CD NN PRP MD VB JJ VBZ RB VB PRP$ NN IN IN CD IN DT NNS .</POS>
+		<Lemma>one thing I will make sure be not leave my home with out one of these waffle .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It not only taste great , it gives a great kick whenever you needed it .</Tokens>
+		<POS>PRP RB RB VBP JJ , PRP VBZ DT JJ NN WRB PRP VBD PRP .</POS>
+		<Lemma>it not only taste great , it give a great kick whenever you need it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I hear it does not add too much calories from cycling pro 's : -RRB- so , I am good with it .</Tokens>
+		<POS>PRP VBP PRP VBZ RB VB RB JJ NNS IN NN NN POS : -RRB- RB , PRP VBP JJ IN PRP .</POS>
+		<Lemma>I hear it do not add too much calorie from cycling pro 's : -rrb- so , I be good with it .</Lemma>
+	</Sentence>
+</Document>

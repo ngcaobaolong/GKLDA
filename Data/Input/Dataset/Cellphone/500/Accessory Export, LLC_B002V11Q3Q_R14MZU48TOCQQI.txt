@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just needed a usb to connect my Droid 2 to my computer and this works just like it is supposed to .</Tokens>
+		<POS>PRP RB VBD DT NN TO VB PRP$ NN CD TO PRP$ NN CC DT VBZ RB IN PRP VBZ VBN TO .</POS>
+		<Lemma>I just need a usb to connect my droid 2 to my computer and this work just like it be suppose to .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I ordered two because it was such a good deal !!</Tokens>
+		<POS>PRP VBD CD IN PRP VBD JJ DT JJ NN IN</POS>
+		<Lemma>I order two because it be such a good deal !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It came quickly -- what a deal !</Tokens>
+		<POS>PRP VBD RB : WP DT NN .</POS>
+		<Lemma>it come quickly -- what a deal !</Lemma>
+	</Sentence>
+</Document>

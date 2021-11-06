@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>it 's inexpensive , so you should n't expect it to do great things .</Tokens>
+		<POS>PRP VBZ JJ , IN PRP MD RB VB PRP TO VB JJ NNS .</POS>
+		<Lemma>it be inexpensive , so you should not expect it to do great thing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>but the 16ms is still fast enough for fast motion scene for your dvd or the games that you play .</Tokens>
+		<POS>CC DT NNS VBZ RB RB JJ IN JJ NN NN IN PRP$ NN CC DT NNS IN PRP VBP .</POS>
+		<Lemma>but the 16m be still fast enough for fast motion scene for you dvd or the game that you play .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do notice that it does n't display `` dark '' areas well .</Tokens>
+		<POS>PRP VBP VB IN PRP VBZ RB VB `` JJ '' NNS RB .</POS>
+		<Lemma>I do notice that it do not display `` dark '' area well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>black tends to become real dark , so it 's hard to see if you are watching a movie of a thief walking in the dark , it will be very hard to see him .</Tokens>
+		<POS>JJ VBZ TO VB JJ JJ , IN PRP VBZ JJ TO VB IN PRP VBP VBG DT NN IN DT NN VBG IN DT JJ , PRP MD VB RB JJ TO VB PRP .</POS>
+		<Lemma>black tend to become real dark , so it be hard to see if you be watch a movie of a thief walk in the dark , it will be very hard to see he .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>that said , I am fine with everyhting else .</Tokens>
+		<POS>DT VBD , PRP VBP JJ IN NN RB .</POS>
+		<Lemma>that say , I be fine with everyhting else .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I wwent from a 17 '' CRT to 19 '' LCD , and the difference is huge !</Tokens>
+		<POS>PRP VBP IN DT CD '' NNP TO CD '' NNS , CC DT NN VBZ JJ .</POS>
+		<Lemma>I wwent from a 17 '' CRT to 19 '' lcd , and the difference be huge !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>referred by WhoSave.com , who knows it 's probably much cheaper than what I paid for it , ca n't imagine what it will be like to have a 21 '' in a few years .</Tokens>
+		<POS>VBN IN NNP , WP VBZ PRP VBZ RB JJ JJR IN WP PRP VBD IN PRP , MD RB VB WP PRP MD VB IN TO VB DT CD '' IN DT JJ NNS .</POS>
+		<Lemma>refer by WhoSave.com , who know it be probably much cheaper than what I pay for it , can not imagine what it will be like to have a 21 '' in a few year .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ordered this camcorder specifically because it had an external mic input , and I trust the Sony name .</Tokens>
+		<POS>VBN DT NN RB IN PRP VBD DT JJ JJ NN , CC PRP VBP DT NNP NN .</POS>
+		<Lemma>order this camcorder specifically because it have a external mic input , and I trust the Sony name .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am very happy with the features and value of this unit .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NNS CC NN IN DT NN .</POS>
+		<Lemma>I be very happy with the feature and value of this unit .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You really get a lot of bang for your buck .</Tokens>
+		<POS>PRP RB VB DT NN IN NN IN PRP$ NN .</POS>
+		<Lemma>you really get a lot of bang for you buck .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's super easy to use , and the quality of video is outstanding .</Tokens>
+		<POS>PRP VBZ JJ JJ TO VB , CC DT NN IN NN VBZ JJ .</POS>
+		<Lemma>it be super easy to use , and the quality of video be outstanding .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You will not go wrong with this unit .</Tokens>
+		<POS>PRP MD RB VB JJ IN DT NN .</POS>
+		<Lemma>you will not go wrong with this unit .</Lemma>
+	</Sentence>
+</Document>

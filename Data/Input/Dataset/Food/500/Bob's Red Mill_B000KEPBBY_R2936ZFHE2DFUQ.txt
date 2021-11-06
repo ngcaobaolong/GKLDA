@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this product .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is easy to make and delicious .</Tokens>
+		<POS>PRP VBZ JJ TO VB CC JJ .</POS>
+		<Lemma>it be easy to make and delicious .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But it is regularly infested with meal moths and larvae .</Tokens>
+		<POS>CC PRP VBZ RB JJ IN NN NNS CC NNS .</POS>
+		<Lemma>but it be regularly infested with meal moth and larva .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Kinda gross .</Tokens>
+		<POS>NNP JJ .</POS>
+		<Lemma>Kinda gross .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Hello .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>hello .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have a 50 % vision loss .</Tokens>
+		<POS>PRP VBP DT CD NN NN NN .</POS>
+		<Lemma>I have a 50 % vision loss .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My income is $ 850 @ month .</Tokens>
+		<POS>PRP$ NN VBZ $ CD IN NN .</POS>
+		<Lemma>my income be $ 850 @ month .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The 4:3 display ratio is the maximum size my vision loss will find acceptable .</Tokens>
+		<POS>DT CD NN NN VBZ DT NN NN PRP$ NN NN MD VB JJ .</POS>
+		<Lemma>the 4:3 display ratio be the maximum size my vision loss will find acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have another 10 months to wait and save the $ required to purchase a Mac Mini from Amazon.com .</Tokens>
+		<POS>PRP VBP DT CD NNS TO VB CC VB DT $ VBN TO VB DT NNP NNP IN NNP .</POS>
+		<Lemma>I have another 10 month to wait and save the $ require to purchase a Mac Mini from Amazon.com .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I must wait until I get a Mac mini and can give a response re : the visual quality viewed .</Tokens>
+		<POS>PRP MD VB IN PRP VBP DT NNP NNS CC MD VB DT NN NN : DT JJ NN VBN .</POS>
+		<Lemma>I must wait until I get a Mac minus and can give a response re : the visual quality view .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Please inquire again after I have purchased and received the Mac mini .</Tokens>
+		<POS>UH VB RB IN PRP VBP VBN CC VBN DT NNP NNS .</POS>
+		<Lemma>please inquire again after I have purchase and receive the Mac minus .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Thank you .</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>thank you .</Lemma>
+	</Sentence>
+</Document>

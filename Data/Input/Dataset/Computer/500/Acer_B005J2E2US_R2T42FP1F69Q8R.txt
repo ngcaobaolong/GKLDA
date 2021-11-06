@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>im currently deployed in afghanistan .</Tokens>
+		<POS>NN RB VBN IN NN .</POS>
+		<Lemma>im currently deploy in afghanistan .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>my laptop was stolen in the airport so i was force to buy one .</Tokens>
+		<POS>PRP$ NN VBD VBN IN DT NN RB FW VBD NN TO VB CD .</POS>
+		<Lemma>my laptop be steal in the airport so i be force to buy one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>i got this ACER aspire One from your site and it work for 3 days .</Tokens>
+		<POS>LS VBD DT NN VB CD IN PRP$ NN CC PRP VB IN CD NNS .</POS>
+		<Lemma>i get this acer aspire one from you site and it work for 3 day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>im not really sure if it was refurbish , used or what but it crash .</Tokens>
+		<POS>NN RB RB JJ IN PRP VBD VB , VBN CC WP CC PRP NN .</POS>
+		<Lemma>im not really sure if it be refurbish , use or what but it crash .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>i ` ll be waiting for an answer .</Tokens>
+		<POS>LS `` NN VB VBG IN DT NN .</POS>
+		<Lemma>i ` ll be wait for a answer .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>cbrn14@hotmail.com s\/n lusft021712070cdfe3400</Tokens>
+		<POS>NN NN NN</POS>
+		<Lemma>cbrn14@hotmail.com s\/n lusft021712070cdfe3400</Lemma>
+	</Sentence>
+</Document>

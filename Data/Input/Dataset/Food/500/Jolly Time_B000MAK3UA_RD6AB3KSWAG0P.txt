@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I could n't live w\/out this product .</Tokens>
+		<POS>PRP MD RB VB NN DT NN .</POS>
+		<Lemma>I could not live w\/out this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only reason I did n't give it 5 stars - is that sometimes i 'll get a bag that is a little stale .</Tokens>
+		<POS>DT JJ NN PRP VBD RB VB PRP CD NNS : VBZ IN RB FW MD VB DT NN WDT VBZ DT JJ JJ .</POS>
+		<Lemma>the only reason I do not give it 5 star - be that sometimes i 'll get a bag that be a little stale .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is a portioned bag of 100 calories , so you can eat the entire thing and not worry about over indulging .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN CD NNS , RB PRP MD VB DT JJ NN CC RB VB RB IN VBG .</POS>
+		<Lemma>it be a portioned bag of 100 calorie , so you can eat the entire thing and not worry about over indulge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I recently lost a lot of weight - and this was my snack of choice .</Tokens>
+		<POS>PRP RB VBD DT NN IN NN : CC DT VBD PRP$ NN IN NN .</POS>
+		<Lemma>I recently lose a lot of weight - and this be my snack of choice .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I eat at least one bag a day .</Tokens>
+		<POS>PRP VBP IN JJS CD NN DT NN .</POS>
+		<Lemma>I eat at least one bag a day .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The amount you get for the price is a bargain - and it tastes great too !</Tokens>
+		<POS>DT NN PRP VBP IN DT NN VBZ DT NN : CC PRP VBZ JJ RB .</POS>
+		<Lemma>the amount you get for the price be a bargain - and it taste great too !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I highly recommend it .</Tokens>
+		<POS>PRP RB VB PRP .</POS>
+		<Lemma>I highly recommend it .</Lemma>
+	</Sentence>
+</Document>

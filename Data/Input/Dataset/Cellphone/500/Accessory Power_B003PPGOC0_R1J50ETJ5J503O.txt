@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is my first time using a bluetooth FM transmitter ; in the past I have used a unit that connects via a cable .</Tokens>
+		<POS>DT VBZ PRP$ JJ NN VBG DT NN NN NN : IN DT NN PRP VBP VBN DT NN WDT VBZ IN DT NN .</POS>
+		<Lemma>this be my first time use a bluetooth fm transmitter ; in the past I have use a unit that connect via a cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This unit , however , is the very best I have ever used .</Tokens>
+		<POS>DT NN , RB , VBZ DT RB JJS PRP VBP RB VBN .</POS>
+		<Lemma>this unit , however , be the very best I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The channels are cyrstal clear , and I can even charge in ear piece at the same time .</Tokens>
+		<POS>DT NNS VBP JJ JJ , CC PRP MD RB VB IN NN NN IN DT JJ NN .</POS>
+		<Lemma>the channel be cyrstal clear , and I can even charge in ear piece at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I highly recommend it !</Tokens>
+		<POS>PRP RB VB PRP .</POS>
+		<Lemma>I highly recommend it !</Lemma>
+	</Sentence>
+</Document>

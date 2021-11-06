@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered one of these because Verizon said that they do n't sell data cables for the Droid .</Tokens>
+		<POS>PRP VBD CD IN DT IN NNP VBD IN PRP VBP RB VB NNS NNS IN DT NNP .</POS>
+		<Lemma>I order one of these because Verizon say that they do not sell datum cable for the Droid .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I needed an extra one so I did n't have to drag my one and only cable back and forth between work and home .</Tokens>
+		<POS>PRP VBD DT JJ CD IN PRP VBD RB VB TO VB PRP$ CD CC RB NN RB CC RB IN NN CC NN .</POS>
+		<Lemma>I need a extra one so I do not have to drag my one and only cable back and forth between work and home .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Worked great , so I bought two more .</Tokens>
+		<POS>VBD JJ , IN PRP VBD CD JJR .</POS>
+		<Lemma>work great , so I buy two more .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One for my laptop bag and one for my girlfriend .</Tokens>
+		<POS>CD IN PRP$ NN NN CC CD IN PRP$ NN .</POS>
+		<Lemma>one for my laptop bag and one for my girlfriend .</Lemma>
+	</Sentence>
+</Document>

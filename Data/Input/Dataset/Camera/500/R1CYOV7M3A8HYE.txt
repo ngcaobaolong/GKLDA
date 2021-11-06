@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this camera for a couple of months now and have been trying it out in a lot of different situations .</Tokens>
+		<POS>PRP VBP VBD DT NN IN DT NN IN NNS RB CC VBP VBN VBG PRP RP IN DT NN IN JJ NNS .</POS>
+		<Lemma>I have have this camera for a couple of month now and have be try it out in a lot of different situation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Although I have n't mastered when to use what setting , I am very pleased with the purchase .</Tokens>
+		<POS>IN PRP VBP RB VBN WRB TO VB WP NN , PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>although I have not master when to use what setting , I be very pleased with the purchase .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Auto works well in most situations .</Tokens>
+		<POS>NN VBZ RB IN JJS NNS .</POS>
+		<Lemma>auto work well in most situation .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I had canon cameras before , then moved to the Nikon 8100 trying to find a good point shoot for photos of my son playing sports .</Tokens>
+		<POS>PRP VBD VBN NNS RB , RB VBD TO DT NNP CD VBG TO VB DT JJ NN CC NN IN NNS IN PRP$ NN VBG NNS .</POS>
+		<Lemma>I have canon camera before , then move to the Nikon 8100 try to find a good point shoot for photo of my son play sport .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Nikon worked well outside in bright light but was abysmal for indoor functions .</Tokens>
+		<POS>DT NNP VBD RB JJ IN JJ NN CC VBD JJ IN JJ NNS .</POS>
+		<Lemma>the Nikon work well outside in bright light but be abysmal for indoor function .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I considered a DSLR but did n't want to carry all the equipment or pay so much for a family camera .</Tokens>
+		<POS>PRP VBD DT NN CC VBD RB VB TO VB PDT DT NN CC NN RB RB IN DT NN NN .</POS>
+		<Lemma>I consider a dslr but do not want to carry all the equipment or pay so much for a family camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So far I 've used the SX40 for backyard nature pix , family photos , trips to the zoo the circus as well as other museum excursions .</Tokens>
+		<POS>RB RB PRP VBP VBN DT NN IN NN NN NN , NN NNS , NNS TO DT NN CC DT NN RB RB IN JJ NN NNS .</POS>
+		<Lemma>so far I have use the sx40 for backyard nature pix , family photo , trip to the zoo the circus as well as other museum excursion .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It has worked quite well .</Tokens>
+		<POS>PRP VBZ VBN RB RB .</POS>
+		<Lemma>it have work quite well .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Although I took a couple of photography classes years ago , my memory of ISO other photo terms is fuzzy to say the least , so I have been just trying different settings and looking through the instruction book on disk when I have time .</Tokens>
+		<POS>IN PRP VBD DT NN IN NN NNS NNS RB , PRP$ NN IN NN CC JJ NN NNS VBZ JJ TO VB DT JJS , IN PRP VBP VBN RB VBG JJ NNS CC VBG IN DT NN NN IN NN WRB PRP VBP NN .</POS>
+		<Lemma>although I take a couple of photography class year ago , my memory of iso other photo term be fuzzy to say the least , so I have be just try different setting and look through the instruction book on disk when I have time .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Somehow I turned off the digital zoom when the camera first arrived , so I was n't sure why everyone was so enthralled with the zoom .</Tokens>
+		<POS>RB PRP VBD RP DT JJ NN WRB DT NN RB VBD , IN PRP VBD RB JJ WRB NN VBD RB VBN IN DT NN .</POS>
+		<Lemma>somehow I turn off the digital zoom when the camera first arrive , so I be not sure why everyone be so enthral with the zoom .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It was good but not spectacular .</Tokens>
+		<POS>PRP VBD JJ CC RB JJ .</POS>
+		<Lemma>it be good but not spectacular .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Once I got the digital back on I see what the fuss was all about .</Tokens>
+		<POS>RB PRP VBD DT JJ NN IN PRP VBP WP DT NN VBD DT RB .</POS>
+		<Lemma>once I get the digital back on I see what the fuss be all about .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The camera is a bit large to tuck into a handbag , and I got a neoprene cover to protect it without a bulky bag , but it is a lot less to carry around than a DSLR .</Tokens>
+		<POS>DT NN VBZ DT NN JJ TO VB IN DT NN , CC PRP VBD DT NN NN TO VB PRP IN DT JJ NN , CC PRP VBZ DT NN JJR TO VB RP IN DT NN .</POS>
+		<Lemma>the camera be a bit large to tuck into a handbag , and I get a neoprene cover to protect it without a bulky bag , but it be a lot less to carry around than a dslr .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Overall a great camera for daily family life special occasions .</Tokens>
+		<POS>RB DT JJ NN IN JJ NN NN CC JJ NNS .</POS>
+		<Lemma>overall a great camera for daily family life special occasion .</Lemma>
+	</Sentence>
+</Document>

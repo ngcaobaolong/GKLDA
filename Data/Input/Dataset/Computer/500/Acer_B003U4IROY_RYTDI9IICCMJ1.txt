@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this monitor on black fryday really cheap , and I have to say it was a really good price , this monitor is good in every way , I 'm a gamer and watch the ocassional HD movie , and in both I have to say the monitor gets the job done The brightness and contrats I 'd say for my test come a bit to high but that 's a matter of tweaking it a bit , it 's very simple .</Tokens>
+		<POS>PRP VBD DT NN IN JJ NN RB JJ , CC PRP VBP TO VB PRP VBD DT RB JJ NN , DT NN VBZ JJ IN DT NN , PRP VBP DT NN CC VB DT JJ NN NN , CC IN CC PRP VBP TO VB DT NN VBZ DT NN VBN DT NN CC NNS PRP MD VB IN PRP$ NN VB DT NN TO JJ CC DT VBZ DT NN IN NN PRP DT NN , PRP VBZ RB JJ .</POS>
+		<Lemma>I get this monitor on black fryday really cheap , and I have to say it be a really good price , this monitor be good in every way , I be a gamer and watch the ocassional hd movie , and in both I have to say the monitor get the job do the brightness and contrat I would say for my test come a bit to high but that be a matter of tweaking it a bit , it be very simple .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The picture is really sharpd and clear , I 'm upgrading from a 17 '' LCD and I can really see the diference between LCD and LED , the monitor is also very thin so I got a bit more space up the back of it , and if you are taking it somewhere -LRB- wich I did -RRB- it 's very light to carry .</Tokens>
+		<POS>DT NN VBZ RB JJ CC JJ , PRP VBP VBG IN DT CD '' NNS CC PRP MD RB VB DT NN IN NNS CC VBD , DT NN VBZ RB RB JJ IN PRP VBD DT NN RBR NN IN DT NN IN PRP , CC IN PRP VBP VBG PRP RB -LRB- JJ PRP VBD -RRB- PRP VBZ RB JJ TO VB .</POS>
+		<Lemma>the picture be really sharpd and clear , I be upgrade from a 17 '' lcd and I can really see the diference between lcd and lead , the monitor be also very thin so I get a bit more space up the back of it , and if you be take it somewhere -lrb- wich I do -rrb- it be very light to carry .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only downside -LRB- that 's why I give 4 stars -RRB- its that it does n't have HDMI port , you can get DVI to HDMI but I do n't know if the quality would be the same .</Tokens>
+		<POS>DT JJ NN -LRB- DT VBZ WRB PRP VBP CD NNS -RRB- PRP$ IN PRP VBZ RB VB NN NN , PRP MD VB NNP TO NNP CC PRP VBP RB VB IN DT NN MD VB DT JJ .</POS>
+		<Lemma>the only downside -lrb- that be why I give 4 star -rrb- its that it do not have hdmus port , you can get DVI to HDMI but I do not know if the quality would be the same .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Overall great monitor , if you 're looking to buy an LED with good picture at an afordable price this is the one .</Tokens>
+		<POS>JJ JJ NN , IN PRP VBP VBG TO VB DT VBN IN JJ NN IN DT JJ NN DT VBZ DT CD .</POS>
+		<Lemma>overall great monitor , if you be look to buy a lead with good picture at a afordable price this be the one .</Lemma>
+	</Sentence>
+</Document>

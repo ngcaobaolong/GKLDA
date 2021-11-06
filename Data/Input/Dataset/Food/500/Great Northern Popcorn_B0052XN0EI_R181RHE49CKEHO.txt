@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are looking for some great popcorn , then this is the popcorn for you .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN , RB DT VBZ DT NN IN PRP .</POS>
+		<Lemma>if you be look for some great popcorn , then this be the popcorn for you .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It do n't get any better than this .</Tokens>
+		<POS>PRP VBP RB VB DT JJR IN DT .</POS>
+		<Lemma>it do not get any better than this .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The 12.5 lb bag is great to share with family , get it while you can .</Tokens>
+		<POS>DT CD NN NN VBZ JJ TO VB IN NN , VB PRP IN PRP MD .</POS>
+		<Lemma>the 12.5 lb bag be great to share with family , get it while you can .</Lemma>
+	</Sentence>
+</Document>

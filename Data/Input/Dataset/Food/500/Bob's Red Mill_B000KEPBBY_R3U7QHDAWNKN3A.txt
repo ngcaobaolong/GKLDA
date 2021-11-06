@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great base for making vegetable dishes as simple or intricate as you want .</Tokens>
+		<POS>DT VBZ DT JJ NN IN VBG NN NNS IN JJ CC JJ IN PRP VBP .</POS>
+		<Lemma>this be a great base for make vegetable dish as simple or intricate as you want .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A little goes a long way , and as other reviewers have demonstrated , there are ample recipes across the spectrum of vegetarian and meat-loving tastes that use this mix .</Tokens>
+		<POS>DT JJ VBZ DT JJ NN , CC IN JJ NNS VBP VBN , EX VBP JJ NNS IN DT NN IN JJ CC JJ NNS WDT VBP DT NN .</POS>
+		<Lemma>a little go a long way , and as other reviewer have demonstrate , there be ample recipe across the spectrum of vegetarian and meat-loving taste that use this mix .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The product contains a variety of deliciously complementary ingredients , and when heated solely with water , has a pleasing natural aroma ... but there 's really no need to stop there !</Tokens>
+		<POS>DT NN VBZ DT NN IN RB JJ NNS , CC WRB VBN RB IN NN , VBZ DT VBG JJ NN : CC EX VBZ RB DT NN TO VB RB .</POS>
+		<Lemma>the product contain a variety of deliciously complementary ingredient , and when heat solely with water , have a please natural aroma ... but there be really no need to stop there !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I like it as a quick and easy meal ; add about 1-1 .25 cups of the mix to 32 ounces of plain water or a box of this stuff : <a href="http://www.amazon.com/gp/product/B002FYG2N8/ref=cm_cr_asin_lnk/192-9090505-7914012"> Pacific Natural Foods Organic Low Sodium Chicken Broth , 32-Ounce Containers -LRB- Pack of 12 -RRB- </a> and then let it simmer on medium-low heat for a couple hours .</Tokens>
+		<POS>PRP VBP PRP IN DT JJ CC JJ NN : VB IN CD CD NNS IN DT NN TO CD NNS IN JJ NN CC DT NN IN DT NN : NNP NNP NNP NNP NNP NNP NN NNP NNP , NNP NNP -LRB- NN IN CD -RRB- NN CC RB VB PRP VB IN JJ NN IN DT NN NNS .</POS>
+		<Lemma>I like it as a quick and easy meal ; add about 1-1 .25 cup of the mix to 32 ounce of plain water or a box of this stuff : <a href="http://www.amazon.com/gp/product/B002FYG2N8/ref=cm_cr_asin_lnk/192-9090505-7914012"> Pacific Natural Foods Organic Low sodium Chicken Broth , 32-Ounce Containers -lrb- pack of 12 -rrb- </a> and then let it simmer on medium-low heat for a couple hour .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This makes enough for about three meals .</Tokens>
+		<POS>DT VBZ RB IN IN CD NNS .</POS>
+		<Lemma>this make enough for about three meal .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For flavor , I add a little of this : <a href="http://www.amazon.com/gp/product/B001CWCQIE/ref=cm_cr_asin_lnk/192-9090505-7914012"> S&B Oriental Curry Powder </a> and and a little of this : <a href="http://www.amazon.com/gp/product/B001EO5YXY/ref=cm_cr_asin_lnk/192-9090505-7914012"> Drogheria & Alimentari All Natural Spice Grinder Four Seasons Peppercorns , 1.23 Ounce Jars -LRB- Pack of 3 -RRB- </a> to taste .</Tokens>
+		<POS>IN NN , PRP VBP DT JJ IN DT : NN NNP JJ NNP NNP NN CC CC DT JJ IN DT : NN NNP CC NNP NNP NNP NN NN CD NNPS NNP , CD NN NNS -LRB- NN IN CD -RRB- NN TO NN .</POS>
+		<Lemma>for flavor , I add a little of this : <a href="http://www.amazon.com/gp/product/b001cwcqie/ref=cm_cr_asin_lnk/192-9090505-7914012"> S&B oriental Curry Powder </a> and and a little of this : <a href="http://www.amazon.com/gp/product/b001eo5yxy/ref=cm_cr_asin_lnk/192-9090505-7914012"> Drogheria & Alimentari All Natural spice grinder four Seasons Peppercorns , 1.23 ounce jar -lrb- pack of 3 -rrb- </a> to taste .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Not much to it , but it 's a hearty , warming meal .</Tokens>
+		<POS>RB RB TO PRP , CC PRP VBZ DT JJ , VBG NN .</POS>
+		<Lemma>not much to it , but it be a hearty , warm meal .</Lemma>
+	</Sentence>
+</Document>

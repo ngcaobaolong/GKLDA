@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great deal on these nuts .</Tokens>
+		<POS>JJ NN IN DT NNS .</POS>
+		<Lemma>great deal on these nut .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>whole family loves these nuts .</Tokens>
+		<POS>JJ NN VBZ DT NNS .</POS>
+		<Lemma>whole family love these nut .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>nuts for nuts .</Tokens>
+		<POS>NNS IN NNS .</POS>
+		<Lemma>nut for nut .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>arrived fresh and tasty .</Tokens>
+		<POS>VBN JJ CC JJ .</POS>
+		<Lemma>arrive fresh and tasty .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>great for a snack or packed in a lunch .</Tokens>
+		<POS>JJ IN DT NN CC VBN IN DT NN .</POS>
+		<Lemma>great for a snack or pack in a lunch .</Lemma>
+	</Sentence>
+</Document>

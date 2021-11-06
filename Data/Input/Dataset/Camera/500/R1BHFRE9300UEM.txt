@@ -1,0 +1,162 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The new Casio TRYX has so much potential with some really cool features but unfortunately falls short in some key areas .</Tokens>
+		<POS>DT JJ NNP NNP VBZ RB JJ NN IN DT RB JJ NNS CC RB VBZ JJ IN DT JJ NNS .</POS>
+		<Lemma>the new Casio TRYX have so much potential with some really cool feature but unfortunately fall short in some key area .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>PROS This is a SUPER thin camera -LRB- .59 inches thick -RRB- that looks sleek and modern .</Tokens>
+		<POS>NNS DT VBZ DT NNP JJ NN -LRB- CD NNS JJ -RRB- WDT VBZ JJ CC JJ .</POS>
+		<Lemma>pro this be a SUPER thin camera -lrb- .59 inch thick -rrb- that look sleek and modern .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And , because of the way the frame rotates , taking pictures from any angle is simple and easy .</Tokens>
+		<POS>CC , IN IN DT NN DT NN VBZ , VBG NNS IN DT NN VBZ JJ CC JJ .</POS>
+		<Lemma>and , because of the way the frame rotate , take picture from any angle be simple and easy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can position the camera anywhere , whether it be hanging from a wall , on a table , or anywhere else you can think of .</Tokens>
+		<POS>PRP MD VB DT NN RB , IN PRP VB VBG IN DT NN , IN DT NN , CC RB RB PRP MD VB IN .</POS>
+		<Lemma>you can position the camera anywhere , whether it be hang from a wall , on a table , or anywhere else you can think of .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can also use the body as a tripod and rotate it take perfect self portraits while actually seeing yourself in the LCD frame .</Tokens>
+		<POS>PRP MD RB VB DT NN IN DT NN CC VB PRP VB JJ NN NNS IN RB VBG PRP IN DT NNS NN .</POS>
+		<Lemma>you can also use the body as a tripod and rotate it take perfect self portrait while actually see yourself in the lcd frame .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It comes with a self-timer that can be activated with the touch screen LCD ; one great feature of the self timer is that it can also be triggered with a built-in motion sensor .</Tokens>
+		<POS>PRP VBZ IN DT NN WDT MD VB VBN IN DT NN NN NNS : CD JJ NN IN DT NN NN VBZ IN PRP MD RB VB VBN IN DT JJ NN NN .</POS>
+		<Lemma>it come with a self-timer that can be activate with the touch screen lcd ; one great feature of the self timer be that it can also be trigger with a built-in motion sensor .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You can use your finger to designate an area in the frame of the LCD where it will monitor for motion .</Tokens>
+		<POS>PRP MD VB PRP$ NN TO VB DT NN IN DT NN IN DT NNS WRB PRP MD VB IN NN .</POS>
+		<Lemma>you can use you finger to designate a area in the frame of the lcd where it will monitor for motion .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>When motion is detected in that area the self timer is triggered , letting you take pictures of yourself or with a group of friends with ease .</Tokens>
+		<POS>WRB NN VBZ VBN IN DT NN DT NN NN VBZ VBN , VBG PRP VB NNS IN PRP CC IN DT NN IN NNS IN NN .</POS>
+		<Lemma>when motion be detect in that area the self timer be trigger , let you take picture of yourself or with a group of friend with ease .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This camera has 12.1 megapixels , and the images it captures are stunning !</Tokens>
+		<POS>DT NN VBZ CD NNS , CC DT NNS PRP VBZ VBP JJ .</POS>
+		<Lemma>this camera have 12.1 megapixel , and the image it capture be stunning !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>There are dual core processors built in , so processing speed is insanely fast .</Tokens>
+		<POS>EX VBP JJ NN NNS VBN IN , RB VBG NN VBZ RB RB .</POS>
+		<Lemma>there be dual core processor build in , so process speed be insanely fast .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>And there are a multitude of features which allow for almost unlimited creative endeavors .</Tokens>
+		<POS>CC EX VBP DT NN IN NNS WDT VBP IN RB JJ JJ NNS .</POS>
+		<Lemma>and there be a multitude of feature which allow for almost unlimited creative endeavor .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>For example , Slide Panorama lets you take 360 degree pictures easily .</Tokens>
+		<POS>IN NN , NNP NNP VBZ PRP VB CD NN NNS RB .</POS>
+		<Lemma>for example , Slide Panorama let you take 360 degree picture easily .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>And the HDR-ART technology allows you to transform any photo with the press of a button .</Tokens>
+		<POS>CC DT NN NN VBZ PRP TO VB DT NN IN DT NN IN DT NN .</POS>
+		<Lemma>and the hdr-art technology allow you to transform any photo with the press of a button .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>This allows you to combine continuous shots with different exposures and lighting to change the contrast and color saturation .</Tokens>
+		<POS>DT VBZ PRP TO VB JJ NNS IN JJ NNS CC VBG TO VB DT NN CC NN NN .</POS>
+		<Lemma>this allow you to combine continuous shot with different exposure and light to change the contrast and color saturation .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The result are some incredible images which really pop off the screen .</Tokens>
+		<POS>DT NN VBP DT JJ NNS WDT RB VBP RP DT NN .</POS>
+		<Lemma>the result be some incredible image which really pop off the screen .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Another great feature is you can take full HD 1080 video at 30 frames per second .</Tokens>
+		<POS>DT JJ NN VBZ PRP MD VB JJ NN CD NN IN CD NNS IN NN .</POS>
+		<Lemma>another great feature be you can take full hd 1080 video at 30 frame per second .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>You can rotate the body to make it feel like a traditional camcorder and use either a left or right handed grip .</Tokens>
+		<POS>PRP MD VB DT NN TO VB PRP VB IN DT JJ NN CC NN CC DT JJ CC JJ NN NN .</POS>
+		<Lemma>you can rotate the body to make it feel like a traditional camcorder and use either a left or right handed grip .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Plus , you can record in slow motion , which is something I 've really enjoyed doing .</Tokens>
+		<POS>NN , PRP MD VB IN JJ NN , WDT VBZ NN PRP VBP RB VBN VBG .</POS>
+		<Lemma>plus , you can record in slow motion , which be something I have really enjoy do .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The TRYX comes pre-loaded with software that makes uploading pictures and video to facebook , YouTube , and other internet sites easily .</Tokens>
+		<POS>DT NN VBZ JJ IN NN WDT VBZ VBG NNS CC NN TO NN , NNP , CC JJ NN NNS RB .</POS>
+		<Lemma>the tryx come pre-loaded with software that make upload picture and video to facebook , YouTube , and other internet site easily .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>You can preselect which images you want to upload in advance , and it automatically sends the files to each location upon connection to a computer .</Tokens>
+		<POS>PRP MD VB WDT NNS PRP VBP TO NN IN NN , CC PRP RB VBZ DT NNS TO DT NN IN NN TO DT NN .</POS>
+		<Lemma>you can preselect which image you want to upload in advance , and it automatically send the file to each location upon connection to a computer .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Figuring out how to operate gadgets like this is not an easy thing for me .</Tokens>
+		<POS>VBG RP WRB TO VB NNS IN DT VBZ RB DT JJ NN IN PRP .</POS>
+		<Lemma>figure out how to operate gadget like this be not a easy thing for I .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I am what many consider to be technologically impaired .</Tokens>
+		<POS>PRP VBP WP JJ VBP TO VB RB JJ .</POS>
+		<Lemma>I be what many consider to be technologically impaired .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>But the touch screens are so intuitive and simple to use that even I was able to easily figure it out and was up and running in no time .</Tokens>
+		<POS>CC DT NN NNS VBP RB JJ CC JJ TO VB IN RB PRP VBD JJ TO RB VB PRP RP CC VBD RB CC VBG IN DT NN .</POS>
+		<Lemma>but the touch screen be so intuitive and simple to use that even I be able to easily figure it out and be up and run in no time .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>CONS There are a few major downfalls with the camera that are potential deal breakers .</Tokens>
+		<POS>NNS EX VBP DT JJ JJ NNS IN DT NN WDT VBP JJ NN NNS .</POS>
+		<Lemma>con there be a few major downfall with the camera that be potential deal breaker .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>The lens is a fixed focal length , which means the zoom is digital only .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ NN , WDT VBZ DT NN VBZ JJ RB .</POS>
+		<Lemma>the lens be a fixed focal length , which mean the zoom be digital only .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>As far as I can tell , it 's a higher then average quality digital zoom that seems to maintain image quality up to 2x the original size .</Tokens>
+		<POS>IN RB IN PRP MD VB , PRP VBZ DT JJR RB JJ NN JJ NN WDT VBZ TO VB NN NN IN TO VB DT JJ NN .</POS>
+		<Lemma>as far as I can tell , it be a higher then average quality digital zoom that seem to maintain image quality up to 2x the original size .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>That being said , I really wish they would have included optical zoom as this allows you to get much closer to your subject with better quality pictures .</Tokens>
+		<POS>DT VBG VBD , PRP RB VBP PRP MD VB VBN JJ NN IN DT VBZ PRP TO VB RB JJR TO PRP$ NN IN JJR NN NNS .</POS>
+		<Lemma>that be say , I really wish they would have include optical zoom as this allow you to get much closer to you subject with better quality picture .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Being able to zoom close into your subjects is something that I really miss .</Tokens>
+		<POS>VBG JJ TO VB RB IN PRP$ NNS VBZ NN IN PRP RB VBP .</POS>
+		<Lemma>be able to zoom close into you subject be something that I really miss .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Also , there is no flash !</Tokens>
+		<POS>RB , EX VBZ DT NN .</POS>
+		<Lemma>also , there be no flash !</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Taking pictures in dim lighting or at night is , quite simply , not an option .</Tokens>
+		<POS>VBG NNS IN JJ NN CC IN NN VBZ , RB RB , RB DT NN .</POS>
+		<Lemma>take picture in dim lighting or at night be , quite simply , not a option .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Finally , the video camera only records in mono , so having stereo or surround sound is not an option .</Tokens>
+		<POS>RB , DT NN NN RB VBZ IN FW , RB VBG NN CC VB NN VBZ RB DT NN .</POS>
+		<Lemma>finally , the video camera only record in mono , so have stereo or surround sound be not a option .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Overall , the TRYX is a nice camera with some cool features , but lacks in some key areas which may make you want to consider another option .</Tokens>
+		<POS>RB , DT NN VBZ DT JJ NN IN DT JJ NNS , CC VBZ IN DT JJ NNS WDT MD VB PRP VBP TO VB DT NN .</POS>
+		<Lemma>overall , the tryx be a nice camera with some cool feature , but lack in some key area which may make you want to consider another option .</Lemma>
+	</Sentence>
+</Document>

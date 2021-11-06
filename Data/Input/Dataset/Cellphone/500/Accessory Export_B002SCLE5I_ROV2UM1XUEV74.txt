@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I went to purchase one of these earlier and when I realized the benefit , I bought the 10 pack so I could help friends as well .</Tokens>
+		<POS>PRP VBD TO VB CD IN DT JJR CC WRB PRP VBD DT NN , PRP VBD DT CD NN IN PRP MD VB NNS RB RB .</POS>
+		<Lemma>I go to purchase one of these earlier and when I realize the benefit , I buy the 10 pack so I could help friend as well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Most reviews on this product give mixed views ... some say they do n't work at all , do n't waste your money while others say that they did get a better signal .</Tokens>
+		<POS>JJS NNS IN DT NN VB JJ NNS : DT VBP PRP VBP RB VB IN DT , VBP RB VB PRP$ NN IN NNS VBP IN PRP VBD VB DT JJR NN .</POS>
+		<Lemma>most review on this product give mixed view ... some say they do not work at all , do not waste you money while other say that they do get a better signal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First , on the instructions for the metallic `` sticker '' , it says that if you receive 0 to 1 bar , not even a POWERED phone booster will help you ... you MUST have at least 2 bars .</Tokens>
+		<POS>RB , IN DT NNS IN DT JJ `` NN '' , PRP VBZ IN IN PRP VBP CD TO CD NN , RB RB DT JJ NN NN MD VB PRP : PRP VBP VB IN JJS CD NNS .</POS>
+		<Lemma>first , on the instruction for the metallic `` sticker '' , it say that if you receive 0 to 1 bar , not even a powered phone booster will help you ... you must have at least 2 bar .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have poor reception in my apartment building and get 2 bars in the house .</Tokens>
+		<POS>PRP VBP JJ NN IN PRP$ NN NN CC VB CD NNS IN DT NN .</POS>
+		<Lemma>I have poor reception in my apartment building and get 2 bar in the house .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have to stick my head out the window to talk on the phone .</Tokens>
+		<POS>PRP VBP TO VB PRP$ NN IN DT NN TO VB IN DT NN .</POS>
+		<Lemma>I have to stick my head out the window to talk on the phone .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I installed the product , I immediately got an xtra bar ... I would recommend this to anyone with 2 to 3 bars that wants to get a better signal ...</Tokens>
+		<POS>WRB PRP VBD DT NN , PRP RB VBD DT NN NN : PRP MD VB DT TO NN IN CD TO CD NNS WDT VBZ TO VB DT JJR NN :</POS>
+		<Lemma>when I install the product , I immediately get a xtra bar ... I would recommend this to anyone with 2 to 3 bar that want to get a better signal ...</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was tired of lugging around my Nikon D200 when I traveled so I decided to give the P7000 a try .</Tokens>
+		<POS>PRP VBD VBN IN VBG IN PRP$ NNP NN WRB PRP VBD RB PRP VBD TO VB DT NN DT NN .</POS>
+		<Lemma>I be tire of lug around my Nikon d200 when I travel so I decide to give the p7000 a try .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>15 minutes out of the box and I was already familiar with the controls and menus .</Tokens>
+		<POS>CD NNS IN IN DT NN CC PRP VBD RB JJ IN DT NNS CC NNS .</POS>
+		<Lemma>15 minute out of the box and I be already familiar with the control and menu .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>To put this little gem to the test , I gave it the `` trial by fire '' by taking it on a 10 day trek through England with my students .</Tokens>
+		<POS>TO VB DT JJ NN TO DT NN , PRP VBD PRP DT `` NN IN NN '' IN VBG PRP IN DT CD NN NN IN NNP IN PRP$ NNS .</POS>
+		<Lemma>to put this little gem to the test , I give it the `` trial by fire '' by take it on a 10 day trek through England with my student .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In a word ... impressive .</Tokens>
+		<POS>IN DT NN : JJ .</POS>
+		<Lemma>in a word ... impressive .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's rugged enough to withstand getting bumped around , yanked out of my purse , stuffed back in said purse , and general purpose photographer abuse .</Tokens>
+		<POS>PRP VBZ JJ RB TO VB VBG VBN IN , VBN IN IN PRP$ NN , VBD RB IN VBD NN , CC JJ NN NNP NN .</POS>
+		<Lemma>it be rugged enough to withstand get bump around , yank out of my purse , stuff back in say purse , and general purpose photographer abuse .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I did n't have any battery issues , but I did have a backup battery every day just in case .</Tokens>
+		<POS>PRP VBD RB VB DT NN NNS , CC PRP VBD VB DT NN NN DT NN RB IN NN .</POS>
+		<Lemma>I do not have any battery issue , but I do have a backup battery every day just in case .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The start up time was good and the focus was better than I expected .</Tokens>
+		<POS>DT NN IN NN VBD JJ CC DT NN VBD JJR IN PRP VBD .</POS>
+		<Lemma>the start up time be good and the focus be better than I expect .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Do n't expect it to be as zippy as a DSLR but the image quality can stand right up there with the best of them .</Tokens>
+		<POS>VBP RB VB PRP TO VB IN JJ IN DT NN CC DT NN NN MD VB NN IN EX IN DT JJS IN PRP .</POS>
+		<Lemma>do not expect it to be as zippy as a dslr but the image quality can stand right up there with the best of they .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I shot 449 photos in RAW letting Nikon make the decisions in Program mode .</Tokens>
+		<POS>PRP VBD CD NNS IN NN VBG NNP VB DT NNS IN NN NN .</POS>
+		<Lemma>I shoot 449 photo in raw let Nikon make the decision in program mode .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>With the exceptions of admissible user errors , the images I brought home were as good as my DSLR images from earlier trips .</Tokens>
+		<POS>IN DT NNS IN JJ NN NNS , DT NNS PRP VBD NN VBD RB JJ IN PRP$ NN NNS IN JJR NNS .</POS>
+		<Lemma>with the exception of admissible user error , the image I bring home be as good as my dslr image from earlier trip .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>While I 'm not ready to completely retire my D200 , I 'm certainly going to be packing lighter from here on out with the P7000 .</Tokens>
+		<POS>IN PRP VBP RB JJ TO RB VB PRP$ NN , PRP VBP RB VBG TO VB VBG JJR IN RB IN RP IN DT NN .</POS>
+		<Lemma>while I be not ready to completely retire my d200 , I be certainly go to be pack lighter from here on out with the p7000 .</Lemma>
+	</Sentence>
+</Document>

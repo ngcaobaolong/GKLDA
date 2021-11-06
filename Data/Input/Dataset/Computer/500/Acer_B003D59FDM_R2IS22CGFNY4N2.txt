@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am using the monitor on a PC with a UNIX operating system .</Tokens>
+		<POS>PRP VBP VBG DT NN IN DT NN IN DT NNP NN NN .</POS>
+		<Lemma>I be use the monitor on a pc with a UNIX operating system .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The monitor worked immediately out of the box .</Tokens>
+		<POS>DT NN VBD RB IN IN DT NN .</POS>
+		<Lemma>the monitor work immediately out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is a very good value for the price .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN IN DT NN .</POS>
+		<Lemma>it be a very good value for the price .</Lemma>
+	</Sentence>
+</Document>

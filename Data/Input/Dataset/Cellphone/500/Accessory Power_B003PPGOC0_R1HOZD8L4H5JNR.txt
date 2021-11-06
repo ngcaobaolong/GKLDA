@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this for my dad a few weeks back and he has been pleased with it !</Tokens>
+		<POS>PRP VBD DT IN PRP$ NN DT JJ NNS RB CC PRP VBZ VBN VBN IN PRP .</POS>
+		<Lemma>I buy this for my dad a few week back and he have be please with it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's very easy to set up and get started , and has the clearest reception of any FM transmitter I 've ever used .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB RP CC VB VBN , CC VBZ DT JJS NN IN DT NNP NN PRP VBP RB VBN .</POS>
+		<Lemma>it be very easy to set up and get start , and have the clearest reception of any FM transmitter I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>He loves the controls on the unit also , it 's far more convenient and safer than having to mess with the phone while driving to switch tracks or answer the phone .</Tokens>
+		<POS>PRP VBZ DT NNS IN DT NN RB , PRP VBZ RB RBR JJ CC JJR IN VBG TO NN IN DT NN IN VBG TO VB NNS CC VB DT NN .</POS>
+		<Lemma>he love the control on the unit also , it be far more convenient and safer than have to mess with the phone while drive to switch track or answer the phone .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>He 's using it with an iPhone 4s .</Tokens>
+		<POS>PRP VBZ VBG PRP IN DT NNP NNS .</POS>
+		<Lemma>he be use it with a iPhone 4 .</Lemma>
+	</Sentence>
+</Document>

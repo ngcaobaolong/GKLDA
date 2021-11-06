@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I graduated from a Canon PowerShot A620 which was a steep learning curve for someone who was n't even familiar with cell phones .</Tokens>
+		<POS>PRP VBD IN DT NNP NNP NN WDT VBD DT JJ NN NN IN NN WP VBD RB RB JJ IN NN NNS .</POS>
+		<Lemma>I graduate from a Canon PowerShot a620 which be a steep learning curve for someone who be not even familiar with cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was a hate\/love relationship which I came to embrace , but after having to send it back in for a $ 100 repair for a problem that they knew was a issue when they -LRB- not Amazon -RRB- shipped it to me .</Tokens>
+		<POS>PRP VBD DT NN NN WDT PRP VBD TO VB , CC IN VBG TO VB PRP RB IN IN DT $ CD NN IN DT NN IN PRP VBD VBD DT NN WRB PRP -LRB- RB NNP -RRB- VBD PRP TO PRP .</POS>
+		<Lemma>it be a hate\/love relationship which I come to embrace , but after have to send it back in for a $ 100 repair for a problem that they know be a issue when they -lrb- not Amazon -rrb- ship it to I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I swore to never buy Canon again especially when Canon gave me a follow up phone call for a customer satisfaction poll .</Tokens>
+		<POS>PRP VBD TO RB VB NNP RB RB WRB NNP VBD PRP DT VBP RP NN NN IN DT NN NN NN .</POS>
+		<Lemma>I swear to never buy Canon again especially when Canon give I a follow up phone call for a customer satisfaction poll .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I shopped the DSC HX9V for one year until they released the HX10 and the reviews said that the HX9 took superior photos , which is the nominal aspect of this camera .</Tokens>
+		<POS>PRP VBD DT NNP NN IN CD NN IN PRP VBD DT NN CC DT NNS VBD IN DT NN VBD JJ NNS , WDT VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>I shop the DSC hx9v for one year until they release the hx10 and the review say that the hx9 take superior photo , which be the nominal aspect of this camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't know why I purchased this camera except for the glowing reviews about the video capability of this camera ... which I seldom use .</Tokens>
+		<POS>PRP VBP RB VB WRB PRP VBD DT NN IN IN DT JJ NNS IN DT NN NN IN DT NN : WDT PRP RB VBP .</POS>
+		<Lemma>I do not know why I purchase this camera except for the glowing review about the video capability of this camera ... which I seldom use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Maybe I wanted to start taking more videos .</Tokens>
+		<POS>RB PRP VBD TO VB VBG RBR NNS .</POS>
+		<Lemma>maybe I want to start take more video .</Lemma>
+	</Sentence>
+</Document>

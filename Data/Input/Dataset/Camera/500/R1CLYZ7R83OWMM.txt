@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When the picture comes out its good that 's about one in 6 pictures .</Tokens>
+		<POS>WRB DT NN VBZ RP PRP$ JJ DT VBZ IN CD IN CD NNS .</POS>
+		<Lemma>when the picture come out its good that be about one in 6 picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Bluriness is a constant issue .</Tokens>
+		<POS>NN VBZ DT JJ NN .</POS>
+		<Lemma>bluriness be a constant issue .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Flash pictures dont have good clarity most of the time .</Tokens>
+		<POS>VB NNS NN VBP JJ NN JJS IN DT NN .</POS>
+		<Lemma>flash picture dont have good clarity most of the time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There 's the problem - you never know if the picture is going to be a bust .</Tokens>
+		<POS>EX VBZ DT NN : PRP RB VBP IN DT NN VBZ VBG TO VB DT NN .</POS>
+		<Lemma>there be the problem - you never know if the picture be go to be a bust .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Deeply regret buying .</Tokens>
+		<POS>RB VB NN .</POS>
+		<Lemma>deeply regret buying .</Lemma>
+	</Sentence>
+</Document>

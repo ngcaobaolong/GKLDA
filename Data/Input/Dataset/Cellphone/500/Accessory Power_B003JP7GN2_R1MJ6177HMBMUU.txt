@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A kind of good idea , but not well represented -- wo n't charge AA batteries , and ca n't be used for an iPad unless the device is powered down .</Tokens>
+		<POS>DT NN IN JJ NN , CC RB RB VBN : MD RB VB NN NNS , CC MD RB VB VBN IN DT NN IN DT NN VBZ VBN RP .</POS>
+		<Lemma>a kind of good idea , but not well represent -- will not charge aa battery , and can not be use for a ipad unless the device be power down .</Lemma>
+	</Sentence>
+</Document>

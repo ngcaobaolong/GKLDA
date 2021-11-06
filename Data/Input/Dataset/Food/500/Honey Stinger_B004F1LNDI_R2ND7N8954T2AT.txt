@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Way better than gu , this is good stuff .</Tokens>
+		<POS>NN JJR IN NN , DT VBZ JJ NN .</POS>
+		<Lemma>way better than gu , this be good stuff .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I got so tired of gu training for the ironman last year , I could eat this stuff all day .</Tokens>
+		<POS>PRP VBD RB JJ IN FW NN IN DT NN JJ NN , PRP MD VB DT NN DT NN .</POS>
+		<Lemma>I get so tired of gu training for the ironman last year , I could eat this stuff all day .</Lemma>
+	</Sentence>
+</Document>

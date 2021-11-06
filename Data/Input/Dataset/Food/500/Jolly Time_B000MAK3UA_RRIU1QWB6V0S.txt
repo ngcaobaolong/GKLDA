@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I LOVE popcorn .</Tokens>
+		<POS>PRP VBP NN .</POS>
+		<Lemma>I love popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recently joined weight watchers and they stress that NO food is forbidden , you just have to keep within a controlled portion .</Tokens>
+		<POS>PRP RB VBD NN NNS CC PRP VBP IN NN NN VBZ VBN , PRP RB VBP TO VB IN DT JJ NN .</POS>
+		<Lemma>I recently join weight watcher and they stress that no food be forbid , you just have to keep within a controlled portion .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Jolly Time posts the WW Points PLus value on the box so I do n't have to count , caluclate or divide .</Tokens>
+		<POS>JJ NNP NNS DT NNP NNP NNP NN IN DT NN IN PRP VBP RB VB TO VB , VB CC VB .</POS>
+		<Lemma>jolly Time post the WW Points PLus value on the box so I do not have to count , caluclate or divide .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Just pop and enjoy .</Tokens>
+		<POS>RB NN CC VB .</POS>
+		<Lemma>just pop and enjoy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>3 points is a good value and fills me up so I do n't want to snack all day .</Tokens>
+		<POS>CD NNS VBZ DT JJ NN CC VBZ PRP RP RB PRP VBP RB VB TO NN DT NN .</POS>
+		<Lemma>3 point be a good value and fill I up so I do not want to snack all day .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>AND getting it from Amazon with free super saver shipping was convenient and cost-efective .</Tokens>
+		<POS>CC VBG PRP IN NNP IN JJ JJ NN NN VBD JJ CC JJ .</POS>
+		<Lemma>and get it from Amazon with free super saver shipping be convenient and cost-efective .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Hooray for Jolly Time !</Tokens>
+		<POS>NNP IN JJ NN .</POS>
+		<Lemma>Hooray for jolly time !</Lemma>
+	</Sentence>
+</Document>

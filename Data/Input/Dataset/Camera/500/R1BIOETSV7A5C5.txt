@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just bought this camera last week -LRB- Aug 1 -RRB- .</Tokens>
+		<POS>PRP RB VBD DT NN JJ NN -LRB- NN CD -RRB- .</POS>
+		<Lemma>I just buy this camera last week -lrb- aug 1 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I can confirm it still has the click problem if you try to record video even moving the camera a little bit .</Tokens>
+		<POS>PRP MD VB PRP RB VBZ DT VB NN IN PRP VBP TO VB NN RB VBG DT NN DT JJ NN .</POS>
+		<Lemma>I can confirm it still have the click problem if you try to record video even move the camera a little bit .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am not a pro , but I took identical pics w \/ the 5n and the Canon T1s , the Canon pics definitely seemed to have more pop with both on auto .</Tokens>
+		<POS>PRP VBP RB DT JJ , CC PRP VBD JJ NNS VBP : DT NN CC DT NNP NNPS , DT NNP NNS RB VBD TO VB JJR NN IN DT IN NN .</POS>
+		<Lemma>I be not a pro , but I take identical pic w \/ the 5n and the Canon T1s , the Canon pic definitely seem to have more pop with both on auto .</Lemma>
+	</Sentence>
+</Document>

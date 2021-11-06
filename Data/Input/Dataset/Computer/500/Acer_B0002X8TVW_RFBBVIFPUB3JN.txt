@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are not picky about image quality , go for it .</Tokens>
+		<POS>IN PRP VBP RB JJ IN NN NN , VB IN PRP .</POS>
+		<Lemma>if you be not picky about image quality , go for it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Otherwise get something more expensive .</Tokens>
+		<POS>RB VB NN RBR JJ .</POS>
+		<Lemma>otherwise get something more expensive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I can see a drastic difference between this monitor and Dell Ultrasharp in terms of contrast , brightness and viewing angles .</Tokens>
+		<POS>PRP MD VB DT JJ NN IN DT NN CC NNP NNP IN NNS IN NN , NN CC VBG NNS .</POS>
+		<Lemma>I can see a drastic difference between this monitor and Dell Ultrasharp in term of contrast , brightness and view angle .</Lemma>
+	</Sentence>
+</Document>

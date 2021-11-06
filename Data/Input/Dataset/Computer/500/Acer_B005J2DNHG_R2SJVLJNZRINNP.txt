@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wanted a very basic , easy to carry laptop to carry on trips and do very basic e-mailing and web surfing at a reasonable price .</Tokens>
+		<POS>PRP VBD DT RB JJ , JJ TO VB NN TO VB IN NNS CC VBP RB JJ NN CC NN NN IN DT JJ NN .</POS>
+		<Lemma>I want a very basic , easy to carry laptop to carry on trip and do very basic e-mailing and web surfing at a reasonable price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Initially this Acer seemed to fit the bill .</Tokens>
+		<POS>RB DT NNP VBD TO VB DT NN .</POS>
+		<Lemma>initially this Acer seem to fit the bill .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I knew it would be somewhat limited because of the Win7 Starter program and the 1GB ram .</Tokens>
+		<POS>PRP VBD PRP MD VB RB JJ IN IN DT NN NN NN CC DT NN NN .</POS>
+		<Lemma>I know it would be somewhat limited because of the win7 starter program and the 1gb ram .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So the first thing I did when I got it was to remove as much pre-loaded excess as possible .</Tokens>
+		<POS>IN DT JJ NN PRP VBD WRB PRP VBD PRP VBD TO VB RB JJ JJ NN IN JJ .</POS>
+		<Lemma>so the first thing I do when I get it be to remove as much pre-loaded excess as possible .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I then started loading the few basic programs I needed to fit my needs .</Tokens>
+		<POS>PRP RB VBD VBG DT JJ JJ NNS PRP VBD TO VB PRP$ NNS .</POS>
+		<Lemma>I then start load the few basic program I need to fit my need .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I struggled for over six hours attempting to load these programs .</Tokens>
+		<POS>PRP VBD IN IN CD NNS VBG TO VB DT NNS .</POS>
+		<Lemma>I struggle for over six hour attempt to load these program .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Everything done on the computer was super slow .</Tokens>
+		<POS>NN VBN IN DT NN VBD JJ JJ .</POS>
+		<Lemma>everything do on the computer be super slow .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>And during that time , the computer froze approximately 40 times -LRB- no exageration ! -RRB-</Tokens>
+		<POS>CC IN DT NN , DT NN VBD RB CD NNS -LRB- DT NN . -RRB-</POS>
+		<Lemma>and during that time , the computer freeze approximately 40 time -lrb- no exageration ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>and I had to power off the laptop and re-start it each time -LRB- about a 10-15 minute process for each freeze -RRB- .</Tokens>
+		<POS>CC PRP VBD TO NN IN DT NN CC VB PRP DT NN -LRB- IN DT CD NN NN IN DT NN -RRB- .</POS>
+		<Lemma>and I have to power off the laptop and re-start it each time -lrb- about a 10-15 minute process for each freeze -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I never could get the programs I needed loaded .</Tokens>
+		<POS>PRP RB MD VB DT NNS PRP VBD VBN .</POS>
+		<Lemma>I never could get the program I need load .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I decided this was completely inadequate for even my basic needs .</Tokens>
+		<POS>PRP VBD DT VBD RB JJ IN RB PRP$ JJ NNS .</POS>
+		<Lemma>I decide this be completely inadequate for even my basic need .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I initiated the system restore and am returning this product .</Tokens>
+		<POS>PRP VBD DT NN VB CC VBP VBG DT NN .</POS>
+		<Lemma>I initiate the system restore and be return this product .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I do n't know if it was Win7 Starter , the 1GB ram , a sub-standard processor or an isolated lemon .</Tokens>
+		<POS>PRP VBP RB VB IN PRP VBD JJ NN , DT NN NN , DT JJ NN CC DT VBN JJ .</POS>
+		<Lemma>I do not know if it be win7 starter , the 1gb ram , a sub-standard processor or a isolate lemon .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I suppose I could have spent another $ 100 - $ 150 to upgrade it to see if that made it `` adequate '' .</Tokens>
+		<POS>PRP VBP PRP MD VB VBN DT $ CD : $ CD TO VB PRP TO VB IN DT VBD PRP `` JJ '' .</POS>
+		<Lemma>I suppose I could have spend another $ 100 - $ 150 to upgrade it to see if that make it `` adequate '' .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>But why buy a computer that needs to have upgrades as soon as you get it ?</Tokens>
+		<POS>CC WRB VB DT NN WDT VBZ TO VB NNS RB RB IN PRP VBP PRP .</POS>
+		<Lemma>but why buy a computer that need to have upgrade as soon as you get it ?</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I 'm now shopping for a more adequate small\/mini laptop more likely to serve my needs out of the box .</Tokens>
+		<POS>PRP VBP RB VBG IN DT RBR JJ JJ NN RBR JJ TO VB PRP$ NNS IN IN DT NN .</POS>
+		<Lemma>I be now shop for a more adequate small\/mini laptop more likely to serve my need out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It will not be an Acer .</Tokens>
+		<POS>PRP MD RB VB DT NNP .</POS>
+		<Lemma>it will not be a Acer .</Lemma>
+	</Sentence>
+</Document>

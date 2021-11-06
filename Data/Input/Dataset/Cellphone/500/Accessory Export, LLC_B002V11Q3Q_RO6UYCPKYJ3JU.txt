@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Inexpensive at $ 3 , including shipping , and longer than the stock cable .</Tokens>
+		<POS>JJ IN $ CD , VBG NN , CC JJR IN DT NN NN .</POS>
+		<Lemma>inexpensive at $ 3 , include shipping , and longer than the stock cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Much cheaper than buying from the Verizon store .</Tokens>
+		<POS>JJ JJR IN VBG IN DT NNP NN .</POS>
+		<Lemma>much cheaper than buy from the Verizon store .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you need a car charger , buy a small inverter with a USB connection for $ 5 and use it with this cable .</Tokens>
+		<POS>IN PRP VBP DT NN NN , VB DT JJ NN IN DT JJ NN IN $ CD CC VB PRP IN DT NN .</POS>
+		<Lemma>if you need a car charger , buy a small inverter with a usb connection for $ 5 and use it with this cable .</Lemma>
+	</Sentence>
+</Document>

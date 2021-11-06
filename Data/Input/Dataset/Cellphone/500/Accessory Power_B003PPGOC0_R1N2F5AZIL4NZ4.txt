@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received it in the mail today and could n't wait to get it into my car and go for a drive .</Tokens>
+		<POS>PRP VBD PRP IN DT NN NN CC MD RB VB TO VB PRP IN PRP$ NN CC VB IN DT NN .</POS>
+		<Lemma>I receive it in the mail today and could not wait to get it into my car and go for a drive .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I find it to work great and most every review to be on-point .</Tokens>
+		<POS>PRP VBP PRP TO VB JJ CC RBS DT NN TO VB JJ .</POS>
+		<Lemma>I find it to work great and most every review to be on-point .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I give it a 4 out of 5 stars - if I could give it 4.5 , I would .</Tokens>
+		<POS>PRP VBP PRP DT CD IN IN CD NNS : IN PRP MD VB PRP CD , PRP MD .</POS>
+		<Lemma>I give it a 4 out of 5 star - if I could give it 4.5 , I would .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I found the on\/off button to win me over the other devices as I do n't want to pull it in and out and risk damage .</Tokens>
+		<POS>PRP VBD DT JJ NN TO VB PRP IN DT JJ NNS IN PRP VBP RB VB TO VB PRP IN CC IN CC VB NN .</POS>
+		<Lemma>I find the on\/off button to win I over the other device as I do not want to pull it in and out and risk damage .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I also do n't want something sipping the juice out of my car battery when it sits in the parking lot .</Tokens>
+		<POS>PRP RB VBP RB VB NN VBG DT NN IN IN PRP$ NN NN WRB PRP VBZ IN DT NN NN .</POS>
+		<Lemma>I also do not want something sip the juice out of my car battery when it sit in the parking lot .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You want to find the best available FM station , one with the less hiss when it 's connected to that frequency .</Tokens>
+		<POS>PRP VBP TO VB DT JJS JJ NN NN , CD IN DT JJR NN WRB PRP VBZ VBN TO DT NN .</POS>
+		<Lemma>you want to find the best available fm station , one with the less hiss when it be connect to that frequency .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You 'll need to play around with it , for optimum sound .</Tokens>
+		<POS>PRP MD VB TO VB RP IN PRP , IN JJ NN .</POS>
+		<Lemma>you 'll need to play around with it , for optimum sound .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For me , this was 88.5 but that may just be my area which is loaded with FM stations .</Tokens>
+		<POS>IN PRP , DT VBD CD CC DT MD RB VB PRP$ NN WDT VBZ VBN IN NNP NNS .</POS>
+		<Lemma>for I , this be 88.5 but that may just be my area which be load with FM station .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You definitely want to use bluetooth for superior sound as the headphone jack to Line in hardwired connection is really awful .</Tokens>
+		<POS>PRP RB VBP TO VB NN IN JJ NN IN DT NN NN TO NN IN JJ NN VBZ RB JJ .</POS>
+		<Lemma>you definitely want to use bluetooth for superior sound as the headphone jack to line in hardwired connection be really awful .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Some pros and cons : Pros : - On\/Off button - Pairing the Bluetooth was easy - On-Board remote works great for my Droid - Good sound ... give it an 8 out of 10 for Bluetooth connection - a little muddy but not bad .</Tokens>
+		<POS>DT NNS CC NNS : NNS : : JJ NN : VBG DT NNP VBD JJ : NN JJ NNS JJ IN PRP$ NN : JJ NN : VB PRP DT CD IN IN CD IN NNP NN : DT JJ JJ CC RB JJ .</POS>
+		<Lemma>some pro and con : pro : - on\/off button - pair the Bluetooth be easy - on-board remote work great for my droid - good sound ... give it a 8 out of 10 for Bluetooth connection - a little muddy but not bad .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>- USB Port and the included cords .</Tokens>
+		<POS>: JJ NNP CC DT VBN NNS .</POS>
+		<Lemma>- usb Port and the include cord .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Cons : - I thought the headphone jack to Line In sound quality would be better .</Tokens>
+		<POS>NNS : : PRP VBD DT NN NN TO NNP IN JJ NN MD VB RBR .</POS>
+		<Lemma>con : - I think the headphone jack to Line in sound quality would be better .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>- This length goose neck is not something I needed .</Tokens>
+		<POS>: DT NN NN NN VBZ RB NN PRP VBD .</POS>
+		<Lemma>- this length goose neck be not something I need .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>- The sound level is tapped at 30 .</Tokens>
+		<POS>: DT JJ NN VBZ VBN IN CD .</POS>
+		<Lemma>- the sound level be tap at 30 .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I feel this should 've had more punch , at least 50 as my car radio is nearly 80 % up for above average sound .</Tokens>
+		<POS>PRP VBP DT MD VB VBD RBR VB , IN JJS CD IN PRP$ NN NN VBZ RB CD NN IN IN JJ JJ NN .</POS>
+		<Lemma>I feel this should have have more punch , at least 50 as my car radio be nearly 80 % up for above average sound .</Lemma>
+	</Sentence>
+</Document>

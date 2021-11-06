@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i got this computer as christmas present for my child and he loved it for about 7 months .</Tokens>
+		<POS>LS VBD DT NN IN NNS JJ IN PRP$ NN CC PRP VBD PRP IN IN CD NNS .</POS>
+		<Lemma>i get this computer as christmas present for my child and he love it for about 7 month .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After that he came to his father requesting help because it wouldnt turn on .</Tokens>
+		<POS>IN DT PRP VBD TO PRP$ NN VBG NN IN PRP JJ NN IN .</POS>
+		<Lemma>after that he come to he father request help because it wouldnt turn on .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>He said he never dropped it when his dad asked .</Tokens>
+		<POS>PRP VBD PRP RB VBD PRP WRB PRP$ NN VBD .</POS>
+		<Lemma>he say he never drop it when he dad ask .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>my husband said its hard drive needed to boot on a disk and he downloaded the software online and it booted fine and then it still wouldnt go to the home screen is was still black with white words .</Tokens>
+		<POS>PRP$ NN VBD PRP$ JJ NN VBN TO NN IN DT NN CC PRP VBD DT NN NN CC PRP VBD JJ CC RB PRP RB VBP VB TO DT NN NN VBZ VBD RB JJ IN JJ NNS .</POS>
+		<Lemma>my husband say its hard drive need to boot on a disk and he download the software online and it boot fine and then it still wouldnt go to the home screen be be still black with white word .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I wwould NOT reccommend this unless you only use a computer for a couple months .</Tokens>
+		<POS>PRP VBP RB JJ DT IN PRP RB VBP DT NN IN DT NN NNS .</POS>
+		<Lemma>I wwould not reccommend this unless you only use a computer for a couple month .</Lemma>
+	</Sentence>
+</Document>

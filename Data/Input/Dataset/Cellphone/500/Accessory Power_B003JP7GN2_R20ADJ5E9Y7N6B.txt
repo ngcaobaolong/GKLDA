@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for an extra USB cable for my HTC as well as another wall charger .</Tokens>
+		<POS>PRP VBD VBG IN DT JJ JJ NN IN PRP$ NNP RB RB IN DT NN NN .</POS>
+		<Lemma>I be look for a extra usb cable for my HTC as well as another wall charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Found this and it covers everything .</Tokens>
+		<POS>VBN DT CC PRP VBZ NN .</POS>
+		<Lemma>find this and it cover everything .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So far I 've been using it as my in house recharger at night .</Tokens>
+		<POS>RB RB PRP VBP VBN VBG PRP IN PRP$ IN NN NN IN NN .</POS>
+		<Lemma>so far I have be use it as my in house recharger at night .</Lemma>
+	</Sentence>
+</Document>

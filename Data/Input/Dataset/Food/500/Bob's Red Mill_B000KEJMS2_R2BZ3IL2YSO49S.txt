@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I live in an area where it is impossible to find RED LENTILS .</Tokens>
+		<POS>PRP VBP IN DT NN WRB PRP VBZ JJ TO VB NNP NNPS .</POS>
+		<Lemma>I live in a area where it be impossible to find RED LENTILS .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are delicious and I am grateful that they are available on this website .</Tokens>
+		<POS>PRP VBP JJ CC PRP VBP JJ IN PRP VBP JJ IN DT NN .</POS>
+		<Lemma>they be delicious and I be grateful that they be available on this website .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is less expensive buying through Amazon.com</Tokens>
+		<POS>PRP VBZ RBR JJ NN IN NNP</POS>
+		<Lemma>it be less expensive buying through Amazon.com</Lemma>
+	</Sentence>
+</Document>

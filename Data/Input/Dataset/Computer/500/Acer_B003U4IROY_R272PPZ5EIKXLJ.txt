@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is just a good monitor all around .</Tokens>
+		<POS>DT VBZ RB DT JJ NN DT IN .</POS>
+		<Lemma>this be just a good monitor all around .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nice and sleek too , the stand is a little strange but it does the job fine .</Tokens>
+		<POS>JJ CC JJ RB , DT NN VBZ DT JJ JJ CC PRP VBZ DT NN NN .</POS>
+		<Lemma>nice and sleek too , the stand be a little strange but it do the job fine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When I first got this monitor I had to turn the brightness down ... I can light my whole room with this thing when the lights are off !!</Tokens>
+		<POS>WRB PRP RB VBD DT NN PRP VBD TO VB DT NN IN : PRP MD VB PRP$ JJ NN IN DT NN WRB DT NNS VBP IN CD</POS>
+		<Lemma>when I first get this monitor I have to turn the brightness down ... I can light my whole room with this thing when the light be off !!</Lemma>
+	</Sentence>
+</Document>

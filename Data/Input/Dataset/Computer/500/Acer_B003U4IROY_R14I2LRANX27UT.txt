@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens></div> <span class="tiny"> Length : : 0:39 Mins </span> This is a POWERFUL Acer Monitor HD ; however it is not an HDMI - be careful ; watch for the model number when you purchase such for one has HD only and the other has both HD and HDMI .</Tokens>
+		<POS>NN NN NN : : CD NNS JJ DT VBZ DT JJ NNP NNP NNP : RB PRP VBZ RB DT NN : VB JJ : NN IN DT NN NN WRB PRP VBP JJ IN CD VBZ NN RB CC DT JJ VBZ DT NN CC NN .</POS>
+		<Lemma></div> <span class="tiny"> length : : 0:39 min </span> this be a powerful Acer Monitor HD ; however it be not a hdmus - be careful ; watch for the model number when you purchase such for one have hd only and the other have both hd and hdmus .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nevertheless , both of them have the options if you have it and know how to install or had someone install graphic card -LRB- s -RRB- for you ; this handles Analog AND High Definition very well .</Tokens>
+		<POS>RB , DT IN PRP VBP DT NNS IN PRP VBP PRP CC VB WRB TO VB CC VBD NN VB JJ NN -LRB- NNS -RRB- IN PRP : DT VBZ NNP NNP NNP NNP RB RB .</POS>
+		<Lemma>nevertheless , both of they have the option if you have it and know how to install or have someone install graphic card -lrb- s -rrb- for you ; this handle Analog AND High Definition very well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am very please to the fact it does not overheat ; its wide base bottom makes it difficult for it to be tipped over .</Tokens>
+		<POS>PRP VBP RB VB TO DT NN PRP VBZ RB VB : PRP$ JJ NN NN VBZ PRP JJ IN PRP TO VB VBN RP .</POS>
+		<Lemma>I be very please to the fact it do not overheat ; its wide base bottom make it difficult for it to be tip over .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>NOTE : You DO NOT NEED TO USE BOTH Analog AND HD cable if you do not desire to use it .</Tokens>
+		<POS>VB : PRP VBP RB VBN TO VB DT NNP CC NNP NN IN PRP VBP RB VB TO VB PRP .</POS>
+		<Lemma>note : you do not need to use both Analog and HD cable if you do not desire to use it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you only want to use -LRB- plug in -RRB- , just use the HD cable if you have ACER HD ; There is a adapter which you can convert this into an HDMI -LRB- if you have the BIOS and graphic card for this feature and functionality for this - it is not expensive at all , very cheap .</Tokens>
+		<POS>IN PRP RB VBP TO VB -LRB- NN IN -RRB- , RB VB DT NN NN IN PRP VBP NNP NNP : EX VBZ DT NN WDT PRP MD VB DT IN DT NN -LRB- IN PRP VBP DT NN CC JJ NN IN DT NN CC NN IN DT : PRP VBZ RB JJ IN DT , RB JJ .</POS>
+		<Lemma>if you only want to use -lrb- plug in -rrb- , just use the hd cable if you have ACER HD ; there be a adapter which you can convert this into a hdmus -lrb- if you have the bio and graphic card for this feature and functionality for this - it be not expensive at all , very cheap .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You will need a Male-Female Adapter conversion so you can have an Acer HDMI -RRB- ... hope this helps !</Tokens>
+		<POS>PRP MD VB DT NNP NNP NN IN PRP MD VB DT NNP NNP -RRB- : VB DT VBZ .</POS>
+		<Lemma>you will need a Male-Female Adapter conversion so you can have a Acer HDMI -rrb- ... hope this help !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Works AWESOME with NVIDIA -LRB- including those in Development and Gaming -RRB- - I can not speak for those who have other types of graphic cards such as Radeon , so on ... Works wonderfully on both x86 aka 32 bit and 64 bit Operating Systems .</Tokens>
+		<POS>NNP NNP IN NNP -LRB- VBG DT IN NNP CC NN -RRB- : PRP MD RB VB IN DT WP VBP JJ NNS IN JJ NNS JJ IN NNP , RB IN : NNP RB IN DT NN FW CD NN CC CD NN NNP NNP .</POS>
+		<Lemma>Works AWESOME with NVIDIA -lrb- include those in Development and gaming -rrb- - I can not speak for those who have other type of graphic card such as Radeon , so on ... Works wonderfully on both x86 aka 32 bit and 64 bit Operating Systems .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>PS : Please do excuse for the darkness as the desktop is at a temporary location and this is an old Sony Camera in a movie mode and I did n't realize I needed to go slow -LRB- blurred -RRB- .</Tokens>
+		<POS>NNP : VB VB VB IN DT NN IN DT NN VBZ IN DT JJ NN CC DT VBZ DT JJ NNP NNP IN DT NN NN CC PRP VBD RB VB PRP VBN TO VB JJ -LRB- VBN -RRB- .</POS>
+		<Lemma>PS : please do excuse for the darkness as the desktop be at a temporary location and this be a old Sony Camera in a movie mode and I do not realize I need to go slow -lrb- blur -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My apologies .</Tokens>
+		<POS>PRP$ NNS .</POS>
+		<Lemma>my apology .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>There is another image again that shows the whole Acer on the Sparco which is found at -LRB- ... -RRB- and you will not only see me torture this ACER MONITOR on this Sparco Space Saver ... but provides you even more better view and specs all the way around .</Tokens>
+		<POS>EX VBZ DT NN RB IN VBZ DT JJ NNP IN DT NNP WDT VBZ VBN IN -LRB- : -RRB- CC PRP MD RB RB VB PRP VB DT NNP NNP IN DT NNP NNP NNP : CC VBZ PRP RB RBR JJR NN CC NNS PDT DT NN IN .</POS>
+		<Lemma>there be another image again that show the whole Acer on the Sparco which be find at -lrb- ... -rrb- and you will not only see I torture this ACER MONITOR on this Sparco Space Saver ... but provide you even more better view and spec all the way around .</Lemma>
+	</Sentence>
+</Document>

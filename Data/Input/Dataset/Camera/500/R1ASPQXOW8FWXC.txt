@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have a old Flip and I gave it to my kids so I got this one , MY GOSH this is the best one I have ever had .</Tokens>
+		<POS>PRP VBP DT JJ NN CC PRP VBD PRP TO PRP$ NNS IN PRP VBD DT CD , NNP NNP DT VBZ DT JJS CD PRP VBP RB VBN .</POS>
+		<Lemma>I have a old flip and I give it to my kid so I get this one , MY GOSH this be the best one I have ever have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If your going to buy one this is the one ... .</Tokens>
+		<POS>IN PRP$ VBG TO VB CD DT VBZ DT CD : .</POS>
+		<Lemma>if you go to buy one this be the one ... .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Pros : Slim , ultra modern , looks like a piece of art .</Tokens>
+		<POS>DT NNS : NNP , NN JJ , VBZ IN DT NN IN NN .</POS>
+		<Lemma>the pro : Slim , ultra modern , look like a piece of art .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fits in your pocket .</Tokens>
+		<POS>VBZ IN PRP$ NN .</POS>
+		<Lemma>fit in you pocket .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Stunningly beautiful HD video .</Tokens>
+		<POS>RB JJ NN NN .</POS>
+		<Lemma>stunningly beautiful hd video .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Ability to snap a pic while simultaneously recording a video -LRB- easier than it sounds -RRB- .</Tokens>
+		<POS>NN TO VB DT NN IN RB VBG DT NN -LRB- JJR IN PRP VBZ -RRB- .</POS>
+		<Lemma>ability to snap a pic while simultaneously record a video -lrb- easier than it sound -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Built in USB connector that also charges internal battery .</Tokens>
+		<POS>VBN IN JJ NN WDT RB VBZ JJ NN .</POS>
+		<Lemma>build in usb connector that also charge internal battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>8gb of space to hold a bunch of videos and pics .</Tokens>
+		<POS>NN IN NN TO VB DT NN IN NNS CC NNS .</POS>
+		<Lemma>8gb of space to hold a bunch of video and pic .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The Cons : No flash .</Tokens>
+		<POS>DT NNS : DT NN .</POS>
+		<Lemma>the con : no flash .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Your gonna miss some great club shots -LRB- they will have a red tone in low lighting .</Tokens>
+		<POS>PRP$ NN VBP DT JJ NN NNS -LRB- PRP MD VB DT JJ NN IN JJ NN .</POS>
+		<Lemma>you gonna miss some great club shot -lrb- they will have a red tone in low lighting .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The HDMI port uses a mini HDMI cable not the standard size -LRB- absolutely unacceptable for the american market -RRB- .</Tokens>
+		<POS>DT NNP NN VBZ DT JJ NN NN RB DT JJ NN -LRB- RB JJ IN DT JJ NN -RRB- .</POS>
+		<Lemma>the HDMI port use a mini hdmus cable not the standard size -lrb- absolutely unacceptable for the american market -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>You can only record up to 30 mins per video .</Tokens>
+		<POS>PRP MD RB VB RP TO CD NNS IN NN .</POS>
+		<Lemma>you can only record up to 30 min per video .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The touchscreen is sometimes unresponsive and pressure needs to be applied when zooming .</Tokens>
+		<POS>DT NN VBZ RB JJ CC NN VBZ TO VB VBN WRB VBG .</POS>
+		<Lemma>the touchscreen be sometimes unresponsive and pressure need to be apply when zoom .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Zooming yields a audible clicking noise .</Tokens>
+		<POS>VBG NNS DT JJ VBG NN .</POS>
+		<Lemma>zoom yield a audible click noise .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The HD playback on a newer computer is choppy and out of sync unless you play it on the camera then it 's fine .</Tokens>
+		<POS>DT NN NN IN DT JJR NN VBZ JJ CC IN IN NN IN PRP VBP PRP IN DT NN RB PRP VBZ JJ .</POS>
+		<Lemma>the hd playback on a newer computer be choppy and out of sync unless you play it on the camera then it be fine .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The navigation menu is not user friendly and can be confusing .</Tokens>
+		<POS>DT NN NN VBZ RB NN JJ CC MD VB VBG .</POS>
+		<Lemma>the navigation menu be not user friendly and can be confuse .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I mean why would you have a play button take you to the photos ??</Tokens>
+		<POS>PRP VBP WRB MD PRP VB DT NN NN VBP PRP TO DT NNS IN</POS>
+		<Lemma>I mean why would you have a play button take you to the photo ??</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>For the next generation bloggie they need to add a flash , wifi , revamp the menu and add a standard size hdmi cable outlet .</Tokens>
+		<POS>IN DT JJ NN NN PRP VBP TO VB DT NN , NNS , VB DT NN CC VB DT JJ NN NN NN NN .</POS>
+		<Lemma>for the next generation bloggie they need to add a flash , wifus , revamp the menu and add a standard size hdmus cable outlet .</Lemma>
+	</Sentence>
+</Document>

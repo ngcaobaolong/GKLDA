@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera is an excellent camera for the money .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>this camera be a excellent camera for the money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I highly recommend this camera .</Tokens>
+		<POS>PRP RB VB DT NN .</POS>
+		<Lemma>I highly recommend this camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I prefer the viewfinder rather than the screen .</Tokens>
+		<POS>PRP VBP DT NN RB IN DT NN .</POS>
+		<Lemma>I prefer the viewfinder rather than the screen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The panoramic function is quite nice as well .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ RB RB .</POS>
+		<Lemma>the panoramic function be quite nice as well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The software if pretty basic , so you may want to invest in Adobe Photoshop .</Tokens>
+		<POS>DT NN IN RB JJ , IN PRP MD VB TO VB IN NNP NNP .</POS>
+		<Lemma>the software if pretty basic , so you may want to invest in Adobe Photoshop .</Lemma>
+	</Sentence>
+</Document>

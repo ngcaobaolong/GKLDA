@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received the Canon Power Shot G12 from Amazon on time .</Tokens>
+		<POS>PRP VBD DT NNP NNP NNP NN IN NNP IN NN .</POS>
+		<Lemma>I receive the Canon Power Shot g12 from Amazon on time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera came with the all the components listed in what the customer will get in the purchase .</Tokens>
+		<POS>DT NN VBD IN DT PDT DT NNS VBN IN WP DT NN MD VB IN DT NN .</POS>
+		<Lemma>the camera come with the all the component list in what the customer will get in the purchase .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm disappointed the camera did not come with a user 's manual so I have to purchase David Busch 's guide to digital photography for canon powershot G12 .</Tokens>
+		<POS>PRP VBP JJ DT NN VBD RB VBN IN DT NN POS NN IN PRP VBP TO VB NNP NNP POS NN TO JJ NN IN NN NN NN .</POS>
+		<Lemma>I be disappointed the camera do not come with a user 's manual so I have to purchase David Busch 's guide to digital photography for canon powershot g12 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm just beginning to learn how to use the camera and by the first few pictures I 'm able to take on auto mode , the pictures are perfect in sharpness , color and details that I 'm giving this camera a five star for now .</Tokens>
+		<POS>PRP VBP RB VBG TO VB WRB TO VB DT NN CC IN DT JJ JJ NNS PRP VBP JJ TO VB IN NN NN , DT NNS VBP JJ IN NN , NN CC NNS IN PRP VBP VBG DT NN DT CD NN IN RB .</POS>
+		<Lemma>I be just begin to learn how to use the camera and by the first few picture I be able to take on auto mode , the picture be perfect in sharpness , color and detail that I be give this camera a five star for now .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Thanks Amazon , you have done it again - outstanding and excellent service like all my other purchases !!!</Tokens>
+		<POS>NNS NNP , PRP VBP VBN PRP RB : JJ CC JJ NN IN DT PRP$ JJ NNS VBP</POS>
+		<Lemma>thanks Amazon , you have do it again - outstanding and excellent service like all my other purchase !!!</Lemma>
+	</Sentence>
+</Document>

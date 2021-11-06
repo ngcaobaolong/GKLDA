@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Amazon has made a great service introduce me to Kitchens of India products .</Tokens>
+		<POS>NNP VBZ VBN DT JJ NN VB PRP TO NNP IN NNP NNS .</POS>
+		<Lemma>Amazon have make a great service introduce I to Kitchens of India product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These spicy Indian meals makes lunches during work a very simple endeavor .</Tokens>
+		<POS>DT JJ JJ NNS VBZ NNS IN NN DT RB JJ NN .</POS>
+		<Lemma>these spicy indian meal make lunch during work a very simple endeavor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , after trying several varieties I did not find the spinach dish as good as the other ones .</Tokens>
+		<POS>RB , IN VBG JJ NNS PRP VBD RB VB DT NN NN IN JJ IN DT JJ NNS .</POS>
+		<Lemma>however , after try several variety I do not find the spinach dish as good as the other one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Do n't get me wrong .</Tokens>
+		<POS>VBP RB VB PRP JJ .</POS>
+		<Lemma>do not get I wrong .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It still tastes Ok , and it 's still easy to prepare\/serve .</Tokens>
+		<POS>PRP RB VBZ NNP , CC PRP VBZ RB JJ TO VB .</POS>
+		<Lemma>it still taste Ok , and it be still easy to prepare\/serve .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>However the general green soupy substance is not as delicious as other offerings .</Tokens>
+		<POS>RB DT JJ JJ JJ NN VBZ RB IN JJ IN JJ NNS .</POS>
+		<Lemma>however the general green soupy substance be not as delicious as other offering .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Additionally the semi-solid floating parts - which are supposed to be cheese , but I think they 're tofu - do not add an interesting flavor to the mix .</Tokens>
+		<POS>RB DT JJ VBG NNS : WDT VBP VBN TO VB NN , CC PRP VBP PRP VBP NNP : VBP RB VB DT JJ NN TO DT NN .</POS>
+		<Lemma>additionally the semi-solid float part - which be suppose to be cheese , but I think they be tofu - do not add a interesting flavor to the mix .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If this was the only Kitchens of India product , or I liked spinach soup more -LRB- I do like spinach , but not in this style -RRB- , I 'd recommend it .</Tokens>
+		<POS>IN DT VBD DT JJ NNS IN NNP NN , CC PRP VBD NN NN RBR -LRB- PRP VBP IN NN , CC RB IN DT NN -RRB- , PRP MD VB PRP .</POS>
+		<Lemma>if this be the only kitchen of India product , or I like spinach soup more -lrb- I do like spinach , but not in this style -rrb- , I would recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Currently I 'd recommend a more regular dish , or the <a href="http://www.amazon.com/gp/product/B002GQ6OEM/ref=cm_cr_asin_lnk/183-7180969-6426266"> variety mix </a> to find your own taste .</Tokens>
+		<POS>RB PRP MD VB DT RBR JJ NN , CC DT NN NN NN NN TO VB PRP$ JJ NN .</POS>
+		<Lemma>currently I would recommend a more regular dish , or the <a href="http://www.amazon.com/gp/product/b002gq6oem/ref=cm_cr_asin_lnk/183-7180969-6426266"> variety mix </a> to find you own taste .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The A55 is my first DSLR camera and I 'm glad I picked it .</Tokens>
+		<POS>DT NN VBZ PRP$ JJ NNP NN CC PRP VBP JJ PRP VBD PRP .</POS>
+		<Lemma>the a55 be my first DSLR camera and I be glad I pick it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>the images are great .</Tokens>
+		<POS>DT NNS VBP JJ .</POS>
+		<Lemma>the image be great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was on the fence between this , a T2i or a D3100 .</Tokens>
+		<POS>PRP VBD IN DT NN IN DT , DT NN CC DT NN .</POS>
+		<Lemma>I be on the fence between this , a t2us or a d3100 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I know this was more in price but at the time I was also looking to buy the A33 .</Tokens>
+		<POS>PRP VBP DT VBD RBR IN NN CC IN DT NN PRP VBD RB VBG TO VB DT NN .</POS>
+		<Lemma>I know this be more in price but at the time I be also look to buy the a33 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But I went for the A55 after there was a price drop and felt the added buffer , and the GPS would be nice to have .</Tokens>
+		<POS>CC PRP VBD IN DT NN IN EX VBD DT NN NN CC VBD DT VBN NN , CC DT NNP MD VB JJ TO VB .</POS>
+		<Lemma>but I go for the a55 after there be a price drop and feel the add buffer , and the GPS would be nice to have .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And boy is it .</Tokens>
+		<POS>CC NN VBZ PRP .</POS>
+		<Lemma>and boy be it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I like how I can now see where a picture was taken .</Tokens>
+		<POS>PRP VBP WRB PRP MD RB VB WRB DT NN VBD VBN .</POS>
+		<Lemma>I like how I can now see where a picture be take .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The camera focuses quickly and accurately .</Tokens>
+		<POS>DT NN VBZ RB CC RB .</POS>
+		<Lemma>the camera focus quickly and accurately .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 'm still learning how to use a lot of the features .</Tokens>
+		<POS>PRP VBP RB VBG WRB TO VB DT NN IN DT NNS .</POS>
+		<Lemma>I be still learn how to use a lot of the feature .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>U have played with the sweep panorama .</Tokens>
+		<POS>NNP VBP VBN IN DT NN NN .</POS>
+		<Lemma>U have play with the sweep panorama .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I like it 's a bit of a gimmick , but its quick and easy .</Tokens>
+		<POS>PRP VBP PRP VBZ DT NN IN DT NN , CC PRP$ JJ CC JJ .</POS>
+		<Lemma>I like it be a bit of a gimmick , but its quick and easy .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I especially enjoy the Multi Frame Noise Reduction and the Hand-Held Twilight functions .</Tokens>
+		<POS>PRP RB VBP DT NNP NNP NNP NNP CC DT NNP NNP NNS .</POS>
+		<Lemma>I especially enjoy the Multi Frame Noise Reduction and the Hand-Held Twilight function .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>it allows me to take good pictures in low light with minimal noise .</Tokens>
+		<POS>PRP VBZ PRP TO VB JJ NNS IN JJ NN IN JJ NN .</POS>
+		<Lemma>it allow I to take good picture in low light with minimal noise .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Most pictures are clean up to ISO 6400 doing that .</Tokens>
+		<POS>JJS NNS VBP JJ IN TO NN CD VBG DT .</POS>
+		<Lemma>most picture be clean up to iso 6400 do that .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Speaking of ISO , this camera is really quick to go to ISO 1600 , but the pictures are still pretty noise free .</Tokens>
+		<POS>VBG IN NN , DT NN VBZ RB JJ TO VB TO NN CD , CC DT NNS VBP RB RB NN JJ .</POS>
+		<Lemma>speak of iso , this camera be really quick to go to iso 1600 , but the picture be still pretty noise free .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>My only big disappointments are the electronic viewfinder and the battery life .</Tokens>
+		<POS>PRP$ RB JJ NNS VBP DT JJ NN CC DT NN NN .</POS>
+		<Lemma>my only big disappointment be the electronic viewfinder and the battery life .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Going in I knew the EVF is a taste thing and I also knew about the battery life .</Tokens>
+		<POS>VBG IN PRP VBD DT NN VBZ DT NN NN CC PRP RB VBD IN DT NN NN .</POS>
+		<Lemma>go in I know the evf be a taste thing and I also know about the battery life .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>So the battery I accepted and picked up a second battery on a popular auction site for cheap .</Tokens>
+		<POS>IN DT NN PRP VBD CC VBD RP DT JJ NN IN DT JJ NN NN IN JJ .</POS>
+		<Lemma>so the battery I accept and pick up a second battery on a popular auction site for cheap .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Now I 've used EVF 's before in my old Sony DSC-H2 , but the EVF in the A55 leaves a lot to be desired .</Tokens>
+		<POS>RB PRP VBP VBN NN POS IN IN PRP$ JJ NNP NN , CC DT NN IN DT NN VBZ DT NN TO VB VBN .</POS>
+		<Lemma>now I have use evf 's before in my old Sony dsc-h2 , but the evf in the a55 leave a lot to be desire .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>It functional even in bright light and it pops out quiet a bit from the back which is good , but the view through the eyecup is a little soft on the outer edges .</Tokens>
+		<POS>PRP JJ RB IN JJ NN CC PRP VBZ RP JJ DT NN IN DT NN WDT VBZ JJ , CC DT NN IN DT NN VBZ DT JJ JJ IN DT JJ NNS .</POS>
+		<Lemma>it functional even in bright light and it pop out quiet a bit from the back which be good , but the view through the eyecup be a little soft on the outer edge .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>All in all I 'm glad I went with the camera .</Tokens>
+		<POS>DT IN DT PRP VBP JJ PRP VBD IN DT NN .</POS>
+		<Lemma>all in all I be glad I go with the camera .</Lemma>
+	</Sentence>
+</Document>

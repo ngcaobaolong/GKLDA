@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cereal is great !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this cereal be great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The nutritional profile is fantastic for those looking to cut out all of the additives , preservatives , HFCS , etc , etc from the foods they eat .</Tokens>
+		<POS>DT JJ NN VBZ JJ IN DT VBG TO VB RP DT IN DT NNS , NNS , NN , NN , FW IN DT NNS PRP VBP .</POS>
+		<Lemma>the nutritional profile be fantastic for those look to cut out all of the additive , preservative , hfc , etc , etc from the food they eat .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A great addition to a clean diet .</Tokens>
+		<POS>DT JJ NN TO DT JJ NN .</POS>
+		<Lemma>a great addition to a clean diet .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I eat this everyday for breakfast !</Tokens>
+		<POS>PRP VBP DT JJ IN NN .</POS>
+		<Lemma>I eat this everyday for breakfast !</Lemma>
+	</Sentence>
+</Document>

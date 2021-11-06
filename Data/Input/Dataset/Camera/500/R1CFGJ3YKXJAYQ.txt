@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is best camera for its price .</Tokens>
+		<POS>DT VBZ JJS NN IN PRP$ NN .</POS>
+		<Lemma>this be best camera for its price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very good display , fast snapshot , big capacity battery .</Tokens>
+		<POS>RB JJ NN , JJ NN , JJ NN NN .</POS>
+		<Lemma>very good display , fast snapshot , big capacity battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This camera really bigger than standard digital cameras .</Tokens>
+		<POS>DT NN RB JJR IN JJ JJ NNS .</POS>
+		<Lemma>this camera really bigger than standard digital camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I like it !</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I like it !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had a very good monitor , but it took up too much desk space .</Tokens>
+		<POS>PRP VBD DT RB JJ NN , CC PRP VBD RP RB JJ NN NN .</POS>
+		<Lemma>I have a very good monitor , but it take up too much desk space .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This flat panel monitor is excellent , with clear visibility and fast response .</Tokens>
+		<POS>DT JJ NN NN VBZ JJ , IN JJ NN CC JJ NN .</POS>
+		<Lemma>this flat panel monitor be excellent , with clear visibility and fast response .</Lemma>
+	</Sentence>
+</Document>

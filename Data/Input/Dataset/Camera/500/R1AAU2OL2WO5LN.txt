@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>YOU NEED TO BUY THE MIC AND SPEAKER SEPARATELY !</Tokens>
+		<POS>PRP VBD TO VB DT NN CC NN RB .</POS>
+		<Lemma>you need to buy the mic and speaker separately !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>THEY MUST HAVE A 3.5 mm PLUG !!!</Tokens>
+		<POS>NNP NNP NNP NNP CD NN NN CD</POS>
+		<Lemma>THEY MUST HAVE A 3.5 mm plug !!!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Other than that , ignore any negative reviews on this , or the fact that the manufacturer does not support it if you dont buy it from them .</Tokens>
+		<POS>JJ IN DT , VB DT JJ NNS IN DT , CC DT NN IN DT NN VBZ RB VB PRP IN PRP VBP VB PRP IN PRP .</POS>
+		<Lemma>other than that , ignore any negative review on this , or the fact that the manufacturer do not support it if you dont buy it from they .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The bottom line is they just want the extra money they get when you buy direct for $ 30 more .</Tokens>
+		<POS>DT JJ NN VBZ PRP RB VBP DT JJ NN PRP VBP WRB PRP VBP JJ IN $ CD JJR .</POS>
+		<Lemma>the bottom line be they just want the extra money they get when you buy direct for $ 30 more .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This camera has an image quality a little higher than you would expect for a $ 100 IP cam with night vision .</Tokens>
+		<POS>DT NN VBZ DT NN NN DT RB JJR IN PRP MD VB IN DT $ CD NNP NN IN NN NN .</POS>
+		<Lemma>this camera have a image quality a little higher than you would expect for a $ 100 IP cam with night vision .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is NOT difficult to setup , if you follow the instructions to a `` T '' .</Tokens>
+		<POS>PRP VBZ RB JJ TO NN , IN PRP VBP DT NNS TO DT `` NN '' .</POS>
+		<Lemma>it be not difficult to setup , if you follow the instruction to a `` t '' .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you do not , as with all things computer related it will not work correctly !</Tokens>
+		<POS>IN PRP VBP RB , IN IN DT NNS NN JJ PRP MD RB VB RB .</POS>
+		<Lemma>if you do not , as with all thing computer related it will not work correctly !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Apparently some people in the lower reviews do get that .</Tokens>
+		<POS>RB DT NNS IN DT JJR NNS VBP VB DT .</POS>
+		<Lemma>apparently some people in the lower review do get that .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I configured it and also installed the free app for my Android based phone , I can now access it within 5 seconds no matter where I am .</Tokens>
+		<POS>PRP VBD PRP CC RB VBN DT JJ NN IN PRP$ NN VBN NN , PRP MD RB VB PRP IN CD NNS DT NN WRB PRP VBP .</POS>
+		<Lemma>I configure it and also install the free app for my android base phone , I can now access it within 5 seconds no matter where I be .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I can also control it from any computer with internet access .</Tokens>
+		<POS>PRP MD RB VB PRP IN DT NN IN NN NN .</POS>
+		<Lemma>I can also control it from any computer with internet access .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The software supports 9 cameras on Android or PC .</Tokens>
+		<POS>DT NN VBZ CD NNS IN NN CC NN .</POS>
+		<Lemma>the software support 9 camera on android or pc .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>My only complaint is it does not have the security options needed to link the motion sensor email alarm to GMAIL , I am just going to create an email address with Hotmail or something when I have time and it should work fine .</Tokens>
+		<POS>PRP$ JJ NN VBZ PRP VBZ RB VB DT NN NNS VBN TO VB DT NN NN NN NN TO NNP , PRP VBP RB VBG TO VB DT NN NN IN NN CC NN WRB PRP VBP NN CC PRP MD VB NN .</POS>
+		<Lemma>my only complaint be it do not have the security option need to link the motion sensor email alarm to GMAIL , I be just go to create a email address with hotmail or something when I have time and it should work fine .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Since I was going to create a special email address for this to communicate with anyway I am not worried about it .</Tokens>
+		<POS>IN PRP VBD VBG TO VB DT JJ NN NN IN DT TO VB IN RB PRP VBP RB VBN IN PRP .</POS>
+		<Lemma>since I be go to create a special email address for this to communicate with anyway I be not worry about it .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>If you are technically challenged , buy from the manufacturer so you get someone to hold your hand while you set it up .</Tokens>
+		<POS>IN PRP VBP RB VBN , VB IN DT NN IN PRP VBP NN TO VB PRP$ NN IN PRP VBP PRP RP .</POS>
+		<Lemma>if you be technically challenge , buy from the manufacturer so you get someone to hold you hand while you set it up .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The night vision is awesome , and to be honest , if you know you dont know how to work computers you should n't be trying to install equipment like this anyway .</Tokens>
+		<POS>DT NN NN VBZ JJ , CC TO VB JJ , IN PRP VBP PRP JJ VB WRB TO VB NNS PRP MD RB VB VBG TO VB NN IN DT RB .</POS>
+		<Lemma>the night vision be awesome , and to be honest , if you know you dont know how to work computer you should not be try to install equipment like this anyway .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Someone will probably easily hack into your network and watch you walk around in your underwear all day .</Tokens>
+		<POS>NN MD RB RB VB IN PRP$ NN CC VBP PRP VB RB IN PRP$ NN DT NN .</POS>
+		<Lemma>someone will probably easily hack into you network and watch you walk around in you underwear all day .</Lemma>
+	</Sentence>
+</Document>

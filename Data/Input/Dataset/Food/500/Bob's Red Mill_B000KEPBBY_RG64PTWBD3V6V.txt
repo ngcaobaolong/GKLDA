@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this soup mix .</Tokens>
+		<POS>PRP VBP DT NN NN .</POS>
+		<Lemma>I love this soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have made both reipes on the bag and like them .</Tokens>
+		<POS>PRP VBP VBN DT NNS IN DT NN CC IN PRP .</POS>
+		<Lemma>I have make both reipe on the bag and like they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Once I used a hand blender to puree part of the soup and it reminded me of split pea soup .</Tokens>
+		<POS>RB PRP VBD DT NN NN TO VB NN IN DT NN CC PRP VBD PRP IN NN NN NN .</POS>
+		<Lemma>once I use a hand blender to puree part of the soup and it remind I of split pea soup .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have also added a can of diced tomatoes over and above the 4 cups of water .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN JJ NNS IN CC IN DT CD NNS IN NN .</POS>
+		<Lemma>I have also add a can of diced tomato over and above the 4 cup of water .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I find I like it a little better with the 5 cups of liquid , unless I want a thicker soup .</Tokens>
+		<POS>PRP VBP PRP IN PRP DT JJ JJR IN DT CD NNS IN NN , IN PRP VBP DT JJR NN .</POS>
+		<Lemma>I find I like it a little better with the 5 cup of liquid , unless I want a thicker soup .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I also added a ham hock , and one time , kidney beans .</Tokens>
+		<POS>PRP RB VBD DT NN NN , CC CD NN , NN NNS .</POS>
+		<Lemma>I also add a ham hock , and one time , kidney bean .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have used Bisto Beef Mix , plus whatever spices I like , extra fresh onion and veggies .</Tokens>
+		<POS>PRP VBP VBN NNP NN NNP , CC WDT NNS PRP VBP , JJ JJ NN CC NNS .</POS>
+		<Lemma>I have use Bisto beef Mix , plus whatever spice I like , extra fresh onion and veggy .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There are so many ways you can change it up .</Tokens>
+		<POS>EX VBP RB JJ NNS PRP MD VB PRP RP .</POS>
+		<Lemma>there be so many way you can change it up .</Lemma>
+	</Sentence>
+</Document>

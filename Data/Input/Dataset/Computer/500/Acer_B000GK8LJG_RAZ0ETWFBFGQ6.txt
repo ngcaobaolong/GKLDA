@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We did some product reviews prior to our purchase so we knew what we wanted .</Tokens>
+		<POS>PRP VBD DT NN VBZ RB TO PRP$ NN IN PRP VBD WP PRP VBD .</POS>
+		<Lemma>we do some product review prior to we purchase so we know what we want .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Amazon 's price was the best .</Tokens>
+		<POS>NNP POS NN VBD DT JJS .</POS>
+		<Lemma>Amazon 's price be the best .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Delivery was really great .</Tokens>
+		<POS>NN VBD RB JJ .</POS>
+		<Lemma>delivery be really great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The product is really a plug and play which makes for a happy consumer .</Tokens>
+		<POS>DT NN VBZ RB DT NN CC NN WDT VBZ IN DT JJ NN .</POS>
+		<Lemma>the product be really a plug and play which make for a happy consumer .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We love it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>we love it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thank you Amazon .</Tokens>
+		<POS>VB PRP NNP .</POS>
+		<Lemma>thank you Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Tom Glennon</Tokens>
+		<POS>NNP NNP</POS>
+		<Lemma>Tom Glennon</Lemma>
+	</Sentence>
+</Document>

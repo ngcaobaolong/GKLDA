@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Initially I was unhappy with some buggy issues particularly with attempts to focus for macro shots .</Tokens>
+		<POS>RB PRP VBD JJ IN DT NN NNS RB IN NNS TO VB IN NN NNS .</POS>
+		<Lemma>initially I be unhappy with some buggy issue particularly with attempt to focus for macro shot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I then installed the 1.1 firmware update for this camera and the issues are resolved .</Tokens>
+		<POS>PRP RB VBD DT CD NN VBP IN DT NN CC DT NNS VBP VBN .</POS>
+		<Lemma>I then install the 1.1 firmware update for this camera and the issue be resolve .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Much frustration can be avoided by keeping the user manual at hand until you learn to smoothly and quickly operate the camera .</Tokens>
+		<POS>JJ NN MD VB VBN IN VBG DT NN NN IN NN IN PRP VBP TO RB CC RB VBP DT NN .</POS>
+		<Lemma>much frustration can be avoid by keep the user manual at hand until you learn to smoothly and quickly operate the camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Trying to ignore the manual and figure it out for yourself can result in lost once in a lifetime shots or damaging the camera .</Tokens>
+		<POS>VBG TO VB DT NN CC NN PRP RP IN PRP MD VB IN VBN RB IN DT NN NNS CC VBG DT NN .</POS>
+		<Lemma>try to ignore the manual and figure it out for yourself can result in lose once in a lifetime shot or damage the camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm loving it now .</Tokens>
+		<POS>PRP VBP VBG PRP RB .</POS>
+		<Lemma>I be love it now .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The included software works great for editing videos .</Tokens>
+		<POS>DT VBN NN VBZ JJ IN NN NNS .</POS>
+		<Lemma>the include software work great for editing video .</Lemma>
+	</Sentence>
+</Document>

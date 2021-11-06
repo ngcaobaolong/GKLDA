@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pros : Great pictures and video .</Tokens>
+		<POS>NNS : JJ NNS CC NN .</POS>
+		<Lemma>pro : great picture and video .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Truly HD .</Tokens>
+		<POS>RB NN .</POS>
+		<Lemma>truly hd .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Underwater capabilities .</Tokens>
+		<POS>JJ NNS .</POS>
+		<Lemma>underwater capability .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Slim and light .</Tokens>
+		<POS>JJ CC JJ .</POS>
+		<Lemma>slim and light .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great sound .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great sound .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Cons : battery life .</Tokens>
+		<POS>NNS : NN NN .</POS>
+		<Lemma>con : battery life .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Shockproof but too smooth , surface not rugged .</Tokens>
+		<POS>JJ CC RB JJ , NN RB JJ .</POS>
+		<Lemma>shockproof but too smooth , surface not rugged .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Slow to initiate video , at least 5 sec .</Tokens>
+		<POS>VB TO VB NN , IN JJS CD NN .</POS>
+		<Lemma>slow to initiate video , at least 5 sec .</Lemma>
+	</Sentence>
+</Document>

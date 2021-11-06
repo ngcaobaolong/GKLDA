@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Overall a good camera .</Tokens>
+		<POS>RB DT JJ NN .</POS>
+		<Lemma>overall a good camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The adjustment to the dark works better than I thought it would .</Tokens>
+		<POS>DT NN TO DT JJ NNS RBR IN PRP VBD PRP MD .</POS>
+		<Lemma>the adjustment to the dark work better than I think it would .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My only complaint is the manual\/instructions .</Tokens>
+		<POS>PRP$ JJ NN VBZ DT NNS .</POS>
+		<Lemma>my only complaint be the manual\/instructions .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very lacking .</Tokens>
+		<POS>RB VBG .</POS>
+		<Lemma>very lack .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Have to figure out a bit on your own .</Tokens>
+		<POS>VBP TO VB RP DT NN IN PRP$ JJ .</POS>
+		<Lemma>have to figure out a bit on you own .</Lemma>
+	</Sentence>
+</Document>

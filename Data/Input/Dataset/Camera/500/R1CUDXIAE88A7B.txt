@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This , in my opinion , is a pocket sized DSLR .</Tokens>
+		<POS>DT , IN PRP$ NN , VBZ DT NN VBD NNP .</POS>
+		<Lemma>this , in my opinion , be a pocket size DSLR .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Excellent Camera over all .</Tokens>
+		<POS>JJ NN IN DT .</POS>
+		<Lemma>excellent camera over all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It exceeds my expectations .</Tokens>
+		<POS>PRP VBZ PRP$ NNS .</POS>
+		<Lemma>it exceed my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Every feature is noteworthy</Tokens>
+		<POS>DT NN VBZ JJ</POS>
+		<Lemma>every feature be noteworthy</Lemma>
+	</Sentence>
+</Document>

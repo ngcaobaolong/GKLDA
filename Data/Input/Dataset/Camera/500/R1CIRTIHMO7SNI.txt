@@ -1,0 +1,357 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>let me start off with this camera is GREAT !!!</Tokens>
+		<POS>VB PRP VB RP IN DT NN VBZ JJ IN</POS>
+		<Lemma>let I start off with this camera be great !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Ok , that 's out of the way .</Tokens>
+		<POS>NNP , DT VBZ IN IN DT NN .</POS>
+		<Lemma>Ok , that be out of the way .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Let me point out a couple obvious items , 1 .</Tokens>
+		<POS>VB PRP VB RP DT NN JJ NNS , CD .</POS>
+		<Lemma>let I point out a couple obvious item , 1 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is not an SLR , nor does it have a full frame or APS sensor .</Tokens>
+		<POS>DT VBZ RB DT NN , CC VBZ PRP VB DT JJ NN CC NN NN .</POS>
+		<Lemma>this be not a slr , nor do it have a full frame or ap sensor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is not a sub-compact .</Tokens>
+		<POS>DT VBZ RB DT NN .</POS>
+		<Lemma>this be not a sub-compact .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It will not fit in the coin pocket in your jeans .</Tokens>
+		<POS>PRP MD RB VB IN DT NN NN IN PRP$ NNS .</POS>
+		<Lemma>it will not fit in the coin pocket in you jeans .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>In fact unless your wearing cargos it wo n't fit in your pants .</Tokens>
+		<POS>IN NN IN PRP$ VBG NNS PRP MD RB VB IN PRP$ NNS .</POS>
+		<Lemma>in fact unless you wear cargo it will not fit in you pants .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The resolution is 10MP .</Tokens>
+		<POS>DT NN VBZ NN .</POS>
+		<Lemma>the resolution be 10mp .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>You will not get 20MP images out of the camera .</Tokens>
+		<POS>PRP MD RB VB JJ NNS IN IN DT NN .</POS>
+		<Lemma>you will not get 20mp image out of the camera .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Sorry .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>sorry .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The review site are a mixed bag saying this is a nice try but not a good camera .</Tokens>
+		<POS>DT NN NN VBP DT JJ NN VBG DT VBZ DT JJ NN CC RB DT JJ NN .</POS>
+		<Lemma>the review site be a mixed bag say this be a nice try but not a good camera .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Ignore them , these are pros who compare every feature on every camera and lose a connection to reality .</Tokens>
+		<POS>VB PRP , DT VBP NNS WP VBP DT NN IN DT NN CC VB DT NN TO NN .</POS>
+		<Lemma>ignore they , these be pro who compare every feature on every camera and lose a connection to reality .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>So none of this matters .</Tokens>
+		<POS>RB NN IN DT NNS .</POS>
+		<Lemma>so none of this matter .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>First , if your are comparing this to another camera at the current price of $ 229 , BUY THIS CAMERA NOW !</Tokens>
+		<POS>RB , IN PRP$ VBP VBG DT TO DT NN IN DT JJ NN IN $ CD , NNP NNP NNP RB .</POS>
+		<Lemma>first , if you be compare this to another camera at the current price of $ 229 , BUY THIS CAMERA now !</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>If someone offers you a Mercedes SLK for the same price as a Neon , do n't try to compare the traits of the neon and the cobalt and talk yourself out of a luxury car .</Tokens>
+		<POS>IN NN VBZ PRP DT NNP NNP IN DT JJ NN IN DT NN , VBP RB VB TO VB DT NNS IN DT NN CC DT NN CC NN PRP IN IN DT NN NN .</POS>
+		<Lemma>if someone offer you a Mercedes SLK for the same price as a neon , do not try to compare the trait of the neon and the cobalt and talk yourself out of a luxury car .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>There is a reason this was a $ 500 camera .</Tokens>
+		<POS>EX VBZ DT NN DT VBD DT $ CD NN .</POS>
+		<Lemma>there be a reason this be a $ 500 camera .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>It produces some of the best pictures of any point and shoot camera , the build quality is obvious when you grab it .</Tokens>
+		<POS>PRP VBZ DT IN DT JJS NNS IN DT NN CC VB NN , DT VB NN VBZ JJ WRB PRP VBP PRP .</POS>
+		<Lemma>it produce some of the best picture of any point and shoot camera , the build quality be obvious when you grab it .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>It is hefty , substantial , and feels like you know where your money went .</Tokens>
+		<POS>PRP VBZ JJ , JJ , CC VBZ IN PRP VBP WRB PRP$ NN VBD .</POS>
+		<Lemma>it be hefty , substantial , and feel like you know where you money go .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Let 's put a little more perspective into build quality first .</Tokens>
+		<POS>VB POS VB DT RB JJR NN IN VB NN RB .</POS>
+		<Lemma>let 's put a little more perspective into build quality first .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>This camera has tight well fitted controls , a huge high quality screen , a clear nikkor lens in the 28mm to 200mm range , and a metal frame .</Tokens>
+		<POS>DT NN VBZ RB RB JJ NNS , DT JJ JJ NN NN , DT JJ JJ NN IN DT CD TO CD NN , CC DT NN NN .</POS>
+		<Lemma>this camera have tight well fitted control , a huge high quality screen , a clear nikkor lens in the 28mm to 200mm range , and a metal frame .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>To all the people thinking why do n't I just get an SLR , Nikon does have a consumer model SLR with all those feature stock .</Tokens>
+		<POS>TO PDT DT NNS VBG WRB VBP RB PRP RB VBP DT NN , NNP VBZ VB DT NN NN NN IN PDT DT NN NN .</POS>
+		<Lemma>to all the people think why do not I just get a slr , Nikon do have a consumer model slr with all those feature stock .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>It 's a great camera , unfortunately not everyone can shell out for a Nikon D7000 .</Tokens>
+		<POS>PRP VBZ DT JJ NN , RB RB NN MD VB RP IN DT NNP NN .</POS>
+		<Lemma>it be a great camera , unfortunately not everyone can shell out for a Nikon d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Really think about the build and your realize you are n't paying for a name .</Tokens>
+		<POS>RB VB IN DT VB CC PRP$ VBP PRP VBP RB VBG IN DT NN .</POS>
+		<Lemma>really think about the build and you realize you be not pay for a name .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>That 's all wonderful , but I did n't buy this camera as a self defense item , it 's a camera .</Tokens>
+		<POS>DT VBZ DT JJ , CC PRP VBD RB VB DT NN IN DT NN NN NN , PRP VBZ DT NN .</POS>
+		<Lemma>that be all wonderful , but I do not buy this camera as a self defense item , it be a camera .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>A good camera must take good pictures .</Tokens>
+		<POS>DT JJ NN MD VB JJ NNS .</POS>
+		<Lemma>a good camera must take good picture .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>That is the primary reason you buy it .</Tokens>
+		<POS>DT VBZ DT JJ NN PRP VBP PRP .</POS>
+		<Lemma>that be the primary reason you buy it .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Do n't take my word for it , read the reviews , for this case I suggest the negative reviews , but listen to me first , firmware 1.2 fixes those complaints about write times and auto focus issues .</Tokens>
+		<POS>VBP RB VB PRP$ NN IN PRP , VB DT NNS , IN DT NN PRP VBP DT JJ NNS , CC VBP TO PRP RB , NN CD NNS DT NNS IN VB NNS CC NN NN NNS .</POS>
+		<Lemma>do not take my word for it , read the review , for this case I suggest the negative review , but listen to I first , firmware 1.2 fix those complaint about write time and auto focus issue .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Now go look at the negative reviews .</Tokens>
+		<POS>RB VB VB IN DT JJ NNS .</POS>
+		<Lemma>now go look at the negative review .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Go ahead , I 'll wait .</Tokens>
+		<POS>VB RB , PRP MD VB .</POS>
+		<Lemma>go ahead , I 'll wait .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Did you see it , every single site said the same thing , I `` it has X , Y , and Z problems , but it takes the best pictures of any Compact camera , or is in the top two or three .</Tokens>
+		<POS>VBD PRP VB PRP , DT JJ NN VBD DT JJ NN , PRP `` PRP VBZ NN , NN , CC NN NNS , CC PRP VBZ DT JJS NNS IN DT NNP NN , CC VBZ IN DT JJ CD CC CD .</POS>
+		<Lemma>do you see it , every single site say the same thing , I `` it have x , y , and z problem , but it take the best picture of any Compact camera , or be in the top two or three .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>I wo n't even bother telling you to look at the positive reviews .</Tokens>
+		<POS>PRP MD RB RB VB VBG PRP TO VB IN DT JJ NNS .</POS>
+		<Lemma>I will not even bother tell you to look at the positive review .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>If you skim through the owners manual you 'll figure out where the options are , and how the camera is organized .</Tokens>
+		<POS>IN PRP VBP IN DT NNS VBP PRP MD VB RP WRB DT NNS VBP , CC WRB DT NN VBZ VBN .</POS>
+		<Lemma>if you skim through the owner manual you 'll figure out where the option be , and how the camera be organize .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Some of the sites badmouth the menu system , and it is a little confusing , especially if you get a chance to play with every digital camera that come to market and have 200 different points of reference to compare against .</Tokens>
+		<POS>DT IN DT NNS VBP DT NN NN , CC PRP VBZ DT JJ JJ , RB IN PRP VBP DT NN TO VB IN DT JJ NN WDT VBP TO NN CC VBP CD JJ NNS IN NN TO VB IN .</POS>
+		<Lemma>some of the site badmouth the menu system , and it be a little confusing , especially if you get a chance to play with every digital camera that come to market and have 200 different point of reference to compare against .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>Since I do n't work for a camera review site , well it seemed pretty easy to me .</Tokens>
+		<POS>IN PRP VBP RB VB IN DT NN NN NN , RB PRP VBD RB JJ TO PRP .</POS>
+		<Lemma>since I do not work for a camera review site , well it seem pretty easy to I .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>More importantly , my wife , who thinks PASM are scene settings was able to pick up and start using the camera immediately and loves the picture quality .</Tokens>
+		<POS>RBR RB , PRP$ NN , WP VBZ NNP VBP NN NNS VBD JJ TO VB RP CC VB VBG DT NN RB CC VBZ DT NN NN .</POS>
+		<Lemma>more importantly , my wife , who think PASM be scene setting be able to pick up and start use the camera immediately and love the picture quality .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Her only points of reference are her old APS film camera , her Sony DSC-H7 , and my Pentax K-x which she claims is `` intimidating and confusing '' .</Tokens>
+		<POS>PRP$ JJ NNS IN NN VBP PRP$ JJ NN NN NN , PRP$ NNP NN , CC PRP$ NNP NN WDT PRP VBZ VBZ `` JJ CC JJ '' .</POS>
+		<Lemma>she only point of reference be she old ap film camera , she Sony dsc-h7 , and my Pentax k-x which she claim be `` intimidating and confusing '' .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Now let me set your expectations realistically , This Camera is not going to take images in pitch black .</Tokens>
+		<POS>RB VB PRP VB PRP$ NNS RB , DT NN VBZ RB VBG TO VB NNS IN NN JJ .</POS>
+		<Lemma>now let I set you expectation realistically , this camera be not go to take image in pitch black .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>If your SLR with a kit lens ca n't take the picture , this camera probably ca n't either .</Tokens>
+		<POS>IN PRP$ NN IN DT NN NN MD RB VB DT NN , DT NN RB MD RB RB .</POS>
+		<Lemma>if you slr with a kit lens can not take the picture , this camera probably can not either .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>If your kid is rampaging through the house he will still be a blur -LRB- although not so much outside -RRB- .</Tokens>
+		<POS>IN PRP$ NN VBZ VBG IN DT NN PRP MD RB VB DT NN -LRB- IN RB RB JJ IN -RRB- .</POS>
+		<Lemma>if you kid be rampage through the house he will still be a blur -lrb- although not so much outside -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>The Macro setting is amazing .</Tokens>
+		<POS>DT NNP NN VBZ JJ .</POS>
+		<Lemma>the Macro setting be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>The images you take will not be professional magazine grade images -LRB- all the time , there are some real gems though -RRB- .</Tokens>
+		<POS>DT NNS PRP VBP MD RB VB JJ NN NN NNS -LRB- PDT DT NN , EX VBP DT JJ NNS IN -RRB- .</POS>
+		<Lemma>the image you take will not be professional magazine grade image -lrb- all the time , there be some real gem though -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>Getting this camera does not make you a better photographer -LRB- but learning to use it correctly and taking it with you everywhere ca n't hurt -RRB- .</Tokens>
+		<POS>VBG DT NN VBZ RB VB PRP DT JJR NNP -LRB- CC VBG TO VB PRP RB CC VBG PRP IN PRP RB MD RB VB -RRB- .</POS>
+		<Lemma>get this camera do not make you a better photographer -lrb- but learn to use it correctly and take it with you everywhere can not hurt -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>This camera is positioned between the cheap point and shoot you have or are considering and a good DSLR , as such it is not as fast as an SLR , or small as some PS cameras , but it produces images that can rival a good SLR and is convenient to carry around .</Tokens>
+		<POS>DT NN VBZ VBN IN DT JJ NN CC VB PRP VBP CC VBP VBG CC DT JJ NN , IN JJ PRP VBZ RB RB JJ IN DT NN , CC JJ IN DT NN NNS , CC PRP VBZ NNS WDT MD VB DT JJ NN CC VBZ JJ TO VB RP .</POS>
+		<Lemma>this camera be position between the cheap point and shoot you have or be consider and a good dslr , as such it be not as fast as a slr , or small as some ps camera , but it produce image that can rival a good slr and be convenient to carry around .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>If you are like me and have a family , then you have an option when you go on outings , for example , you can go to the zoo with your family so you can drag out your SLR and lenses and take pictures , where you ignore your family and the zoo so you can take pictures or you can take a smaller camera where you can focus on the zoo and your family and then have pictures to remember why you went .</Tokens>
+		<POS>IN PRP VBP IN PRP CC VB DT NN , RB PRP VBP DT NN WRB PRP VBP IN NNS , IN NN , PRP MD VB TO DT NN IN PRP$ NN IN PRP MD VB RP PRP$ NN CC NNS CC VB NNS , WRB PRP VBP PRP$ NN CC DT NN IN PRP MD VB NNS CC PRP MD VB DT JJR NN WRB PRP MD VB IN DT NN CC PRP$ NN CC RB VBP NNS TO VB WRB PRP VBD .</POS>
+		<Lemma>if you be like I and have a family , then you have a option when you go on outing , for example , you can go to the zoo with you family so you can drag out you slr and lens and take picture , where you ignore you family and the zoo so you can take picture or you can take a smaller camera where you can focus on the zoo and you family and then have picture to remember why you go .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>executive summary : This camera is the perfect marriage of a convenient easy to carry compact camera and a high quality user controllable camera .</Tokens>
+		<POS>NN NN : DT NN VBZ DT JJ NN IN DT JJ JJ TO VB JJ NN CC DT JJ NN NN JJ NN .</POS>
+		<Lemma>executive summary : this camera be the perfect marriage of a convenient easy to carry compact camera and a high quality user controllable camera .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Unless you are a professional this will likely exceed your purposes for a long time .</Tokens>
+		<POS>IN PRP VBP DT JJ DT MD RB VB PRP$ NNS IN DT JJ NN .</POS>
+		<Lemma>unless you be a professional this will likely exceed you purpose for a long time .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>pros : great image quality solid build quality fast autofocus -LRB- I 'd insert a conditional , but in good lighting it 's even comparable to some of the SLRs out there -RRB- plenty of controls fun scene and settings Cons : As I mentioned earlier my wife loves this camera and as for the title of this review ... I may need to buy another P7000 , you know so I have a camera to use .</Tokens>
+		<POS>NNS : JJ NN NN JJ VB NN JJ NN -LRB- PRP MD VB DT JJ , CC IN JJ NN PRP VBZ RB JJ TO DT IN DT NNS IN RB -RRB- NN IN NNS NN NN CC NNS NNS : IN PRP VBD JJR PRP$ NN VBZ DT NN CC IN IN DT NN IN DT NN : PRP MD VB TO VB DT NN , PRP VBP RB PRP VBP DT NN TO VB .</POS>
+		<Lemma>pro : great image quality solid build quality fast autofocus -lrb- I would insert a conditional , but in good lighting it be even comparable to some of the slr out there -rrb- plenty of control fun scene and setting con : as I mention earlier my wife love this camera and as for the title of this review ... I may need to buy another p7000 , you know so I have a camera to use .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>Update -LRB- 1\/19\/12 -RRB- : two things , like everyone else I 've been wondering what case to get for this , I 've gone into every electronics store in a 40 mile radius of my house , I finally made it to my local camera shop and stumbled on the Black Rapids SnapR 20 Black Rapid SnapR Point and Shoot Camera Bag and Strap System it 's fantastic , having the camera attached to the shoulder strap for the case adds to the old style rangefinder feel without looking quite so retro .</Tokens>
+		<POS>NNP -LRB- CD -RRB- : CD NNS , IN NN RB PRP VBP VBN VBG WP NN TO VB IN DT , PRP VBP VBN IN DT NN NN IN DT CD NN NN IN PRP$ NN , PRP RB VBD PRP TO PRP$ JJ NN NN CC VBD IN DT JJ NNP NN CD NN JJ JJ NN NN CC VB NNP NNP CC NNP NNP VB PRP VBZ JJ , VBG DT NN VBN TO DT NN NN IN DT NN VBZ TO DT JJ NN NN VBP IN VBG RB RB JJ .</POS>
+		<Lemma>Update -lrb- 1\/19\/12 -rrb- : two thing , like everyone else I have be wonder what case to get for this , I have go into every electronics store in a 40 mile radius of my house , I finally make it to my local camera shop and stumble on the black Rapids snapr 20 black rapid snapr point and shoot Camera Bag and Strap System it be fantastic , have the camera attach to the shoulder strap for the case add to the old style rangefinder feel without look quite so retro .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>so If your wonder that , because these are big cameras I recommend that .</Tokens>
+		<POS>RB IN PRP$ NN IN , IN DT VBP JJ NNS PRP VBP IN .</POS>
+		<Lemma>so if you wonder that , because these be big camera I recommend that .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>Also I have been hit or miss this week on image quality with about 20 % to 30 % falling in the unusable realm , that being said I 've been shooting outdoors after sundown trying out the different modes at night .</Tokens>
+		<POS>RB PRP VBP VBN VBN CC VB DT NN IN NN NN IN RB CD NN TO CD NN VBG IN DT JJ NN , WDT VBG VBD PRP VBP VBN VBG RB IN JJ VBG IN DT JJ NNS IN NN .</POS>
+		<Lemma>also I have be hit or miss this week on image quality with about 20 % to 30 % fall in the unusable realm , that be say I have be shoot outdoors after sundown try out the different mode at night .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>A 70 % success rate for night shots in complex lighting is pretty good , think lighted signs at night across parking lots or water fountains in the dark .</Tokens>
+		<POS>DT CD NN NN NN IN NN NNS IN JJ NN VBZ RB JJ , VB VBN NNS IN NN IN NN NNS CC NN NNS IN DT NN .</POS>
+		<Lemma>a 70 % success rate for night shot in complex lighting be pretty good , think light sign at night across parking lot or water fountain in the dark .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>Either way I tried to add a star but the system still limits me to a 5 .</Tokens>
+		<POS>DT NN PRP VBD TO VB DT NN CC DT NN RB VBZ PRP TO DT CD .</POS>
+		<Lemma>either way I try to add a star but the system still limit I to a 5 .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>This camera goes with me everywhere .</Tokens>
+		<POS>DT NN VBZ IN PRP RB .</POS>
+		<Lemma>this camera go with I everywhere .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>Update 1\/25\/12 : So interesting thing , I 'm shot about 221 pictures 2 videos , did a couple sound recordings on the camera and I still do n't have the battery indicator up .</Tokens>
+		<POS>NNP CD : CC JJ NN , PRP VBP VBN IN CD NNS CD NNS , VBD DT NN NN NNS IN DT NN CC PRP RB VBP RB VB DT NN NN RB .</POS>
+		<Lemma>Update 1\/25\/12 : so interesting thing , I be shoot about 221 picture 2 video , do a couple sound recording on the camera and I still do not have the battery indicator up .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>Battery has n't been charged since the first charge when I got the camera .</Tokens>
+		<POS>NN VBZ RB VBN VBN IN DT JJ NN WRB PRP VBD DT NN .</POS>
+		<Lemma>battery have not be charge since the first charge when I get the camera .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>I guess I 'll post when I actually have to charge the battery , I know some of you will shoot far more than me , but for light use I 've been very impressed that the battery has gone this far .</Tokens>
+		<POS>PRP VBP PRP MD VB WRB PRP RB VBP TO VB DT NN , PRP VBP DT IN PRP MD VB RB JJR IN PRP , CC IN JJ NN PRP VBP VBN RB JJ IN DT NN VBZ VBN DT RB .</POS>
+		<Lemma>I guess I 'll post when I actually have to charge the battery , I know some of you will shoot far more than I , but for light use I have be very impressed that the battery have go this far .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>Update 2\/06\/12 : So I chickened out , the battery indicator came on after about 270 images and 7 or 8 minutes of video .</Tokens>
+		<POS>NNP CD : IN PRP VBD RP , DT NN NN VBD IN IN IN CD NNS CC CD CC CD NNS IN NN .</POS>
+		<Lemma>Update 2\/06\/12 : so I chicken out , the battery indicator come on after about 270 image and 7 or 8 minute of video .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>I did n't have to charge it , but I was going out with the family so I threw it on the charger that morning .</Tokens>
+		<POS>PRP VBD RB VB TO VB PRP , CC PRP VBD VBG RP IN DT NN IN PRP VBD PRP IN DT NN WDT NN .</POS>
+		<Lemma>I do not have to charge it , but I be go out with the family so I throw it on the charger that morning .</Lemma>
+	</Sentence>
+	<Sentence id="61">
+		<Tokens>Even so , the camera has become my go to .</Tokens>
+		<POS>RB RB , DT NN VBZ VBN PRP$ VB TO .</POS>
+		<Lemma>even so , the camera have become my go to .</Lemma>
+	</Sentence>
+	<Sentence id="62">
+		<Tokens>I 'm starting to wonder if I should go ahead and buy the magic lantern guide .</Tokens>
+		<POS>PRP VBP VBG TO VB IN PRP MD VB RB CC VB DT JJ NN NN .</POS>
+		<Lemma>I be start to wonder if I should go ahead and buy the magic lantern guide .</Lemma>
+	</Sentence>
+	<Sentence id="63">
+		<Tokens>I 've read the manual , but I know there are features I either missed in the first read through or that I do n't understand .</Tokens>
+		<POS>PRP VBP VBN DT NN , CC PRP VBP EX VBP NNS PRP DT VBN IN DT JJ NN IN CC IN PRP VBP RB VB .</POS>
+		<Lemma>I have read the manual , but I know there be feature I either miss in the first read through or that I do not understand .</Lemma>
+	</Sentence>
+	<Sentence id="64">
+		<Tokens>Update 2\/16\/12 : So , I 'm learning , I 've set u1 to manual focus , f5 .7 iso 400�1\/400 8mm and use it for just walking around quick snaps in bright outdoor conditions .</Tokens>
+		<POS>NNP CD : RB , PRP VBP VBG , PRP VBP VBN NN TO JJ NN , NN CD NN CD CD CC VB PRP IN RB VBG IN JJ VBZ IN JJ JJ NNS .</POS>
+		<Lemma>Update 2\/16\/12 : so , I be learn , I have set u1 to manual focus , f5 .7 iso 400�1\/400 8mm and use it for just walk around quick snap in bright outdoor condition .</Lemma>
+	</Sentence>
+	<Sentence id="65">
+		<Tokens>Cool .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>cool .</Lemma>
+	</Sentence>
+	<Sentence id="66">
+		<Tokens>it 's fast .</Tokens>
+		<POS>PRP VBZ RB .</POS>
+		<Lemma>it be fast .</Lemma>
+	</Sentence>
+	<Sentence id="67">
+		<Tokens>it 's stupid fast and stupid quiet , you could take someones picture to their face and they 'd never know it .</Tokens>
+		<POS>PRP VBZ JJ JJ CC JJ JJ , PRP MD VB JJ NN TO PRP$ NN CC PRP MD RB VB PRP .</POS>
+		<Lemma>it be stupid fast and stupid quiet , you could take someones picture to they face and they would never know it .</Lemma>
+	</Sentence>
+	<Sentence id="68">
+		<Tokens>at those settings you can temporarily allow autofocus and focus on something about 6 feet away and then not worry about focus for the rest of your cruising on those settings .</Tokens>
+		<POS>IN DT NNS PRP MD RB VB NN CC NN IN NN IN CD NNS RB CC RB RB VB IN NN IN DT NN IN PRP$ VBG IN DT NNS .</POS>
+		<Lemma>at those setting you can temporarily allow autofocus and focus on something about 6 foot away and then not worry about focus for the rest of you cruise on those setting .</Lemma>
+	</Sentence>
+	<Sentence id="69">
+		<Tokens>It 's kind of the crop sensor version of f8 and be there .</Tokens>
+		<POS>PRP VBZ NN IN DT NN NN NN IN NN CC VB RB .</POS>
+		<Lemma>it be kind of the crop sensor version of f8 and be there .</Lemma>
+	</Sentence>
+	<Sentence id="70">
+		<Tokens>I think it 's largely because I always take this camera with me , but I feel I have taken more , good quality photos in a month with this camera than in 2 years with my dslr .</Tokens>
+		<POS>PRP VBP PRP VBZ RB IN PRP RB VBP DT NN IN PRP , CC PRP VBP PRP VBP VBN RBR , JJ NN NNS IN DT NN IN DT NN IN IN CD NNS IN PRP$ NN .</POS>
+		<Lemma>I think it be largely because I always take this camera with I , but I feel I have take more , good quality photo in a month with this camera than in 2 year with my dslr .</Lemma>
+	</Sentence>
+</Document>

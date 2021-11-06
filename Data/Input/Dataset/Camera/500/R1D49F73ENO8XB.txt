@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So far I 'm very happy with this camera .</Tokens>
+		<POS>RB RB PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>so far I be very happy with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does n't seem to do great in very low light -LRB- or at least I have n't gotten it to -RRB- , but then again few cameras do , and in good light this camera shoots excellent footage .</Tokens>
+		<POS>PRP VBZ RB VB TO VB JJ IN RB JJ NN -LRB- CC IN JJS PRP VBP RB VBN PRP TO -RRB- , CC RB RB JJ NNS VBP , CC IN JJ NN DT NN VBZ JJ NN .</POS>
+		<Lemma>it do not seem to do great in very low light -lrb- or at least I have not get it to -rrb- , but then again few camera do , and in good light this camera shoot excellent footage .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Impressive image stabilization and face tracking also -LRB- both of which can of course be turned off -RRB- .</Tokens>
+		<POS>JJ NN NN CC NN NN RB -LRB- DT IN WDT MD IN NN VB VBN RP -RRB- .</POS>
+		<Lemma>impressive image stabilization and face tracking also -lrb- both of which can of course be turn off -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Definitely priceworthy .</Tokens>
+		<POS>RB NN .</POS>
+		<Lemma>definitely priceworthy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The menus are a little confusing at first , but not impossible to get used to .</Tokens>
+		<POS>DT NNS VBP DT JJ JJ IN RB , CC RB JJ TO VB VBN TO .</POS>
+		<Lemma>the menu be a little confusing at first , but not impossible to get use to .</Lemma>
+	</Sentence>
+</Document>

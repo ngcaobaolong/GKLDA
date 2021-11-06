@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered these cookies to send to my daughter who serves in the US Navy .</Tokens>
+		<POS>PRP VBD DT NNS TO VB TO PRP$ NN WP VBZ IN DT NNP NNP .</POS>
+		<Lemma>I order these cookie to send to my daughter who serve in the US Navy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She is out to sea for six or more months at a time .</Tokens>
+		<POS>PRP VBZ IN TO NN IN CD CC JJR NNS IN DT NN .</POS>
+		<Lemma>she be out to sea for six or more month at a time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have never ordered these cookies before so I was expecting something like I would receive at a Famous Amos 's .</Tokens>
+		<POS>PRP VBP RB VBN DT NNS IN RB PRP VBD VBG NN IN PRP MD VB IN DT NNP NNP POS .</POS>
+		<Lemma>I have never order these cookie before so I be expect something like I would receive at a Famous Amos 's .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You know , something a little soft and chewy to remind my daughter of home .</Tokens>
+		<POS>PRP VBP , NN DT JJ JJ CC JJ TO VB PRP$ NN IN NN .</POS>
+		<Lemma>you know , something a little soft and chewy to remind my daughter of home .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>What a mistake that was .</Tokens>
+		<POS>WP DT NN WDT VBD .</POS>
+		<Lemma>what a mistake that be .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>These cookies are completely dry .</Tokens>
+		<POS>DT NNS VBP RB JJ .</POS>
+		<Lemma>these cookie be completely dry .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>As in dry as a bone and hard .</Tokens>
+		<POS>IN IN JJ IN DT NN CC RB .</POS>
+		<Lemma>as in dry as a bone and hard .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>When you bite into them they crumble into crumbs and crumb dust .</Tokens>
+		<POS>WRB PRP VBP IN PRP PRP VBP IN NNS CC NN NN .</POS>
+		<Lemma>when you bite into they they crumble into crumb and crumb dust .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Nothing but a dry mouth full of crumbs .</Tokens>
+		<POS>NN CC DT JJ NN JJ IN NNS .</POS>
+		<Lemma>nothing but a dry mouth full of crumb .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I should have purchased Mrs. Fields or Grandma 's Chocolate Chip Cookies .</Tokens>
+		<POS>PRP MD VB VBN NNP NNP CC NNP POS NNP NNP NNPS .</POS>
+		<Lemma>I should have purchase Mrs. Fields or Grandma 's Chocolate Chip Cookies .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I do n't know what I 'm going to do with these .</Tokens>
+		<POS>PRP VBP RB VB WP PRP VBP VBG TO VB IN DT .</POS>
+		<Lemma>I do not know what I be go to do with these .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Props to Amazon Prime .</Tokens>
+		<POS>NNS TO NNP NNP .</POS>
+		<Lemma>prop to Amazon Prime .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>These terrible cookies were packaged well and arrived in one day .</Tokens>
+		<POS>DT JJ NNS VBD VBN RB CC VBN IN CD NN .</POS>
+		<Lemma>these terrible cookie be package well and arrive in one day .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens><a href="http://www.amazon.com/gp/product/B0017ZDL94/ref=cm_cr_asin_lnk/190-2753645-8361632"> Grandma 's Chocolate Chip Cookies - 33 Pks - Total 66 Cookies </a> I ended up giving these to my son .</Tokens>
+		<POS>NN NNP POS NNP NNP NNP : CD NNS : JJ CD NNS VBP PRP VBD RP VBG DT TO PRP$ NN .</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b0017zdl94/ref=cm_cr_asin_lnk/190-2753645-8361632"> Grandma 's Chocolate Chip Cookies - 33 pk - total 66 cookie </a> I end up give these to my son .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>He said they are better than Chips Ahoy Chocolate Chip Cookies .</Tokens>
+		<POS>PRP VBD PRP VBP JJR IN NNP NNP NNP NNP NNPS .</POS>
+		<Lemma>he say they be better than Chips Ahoy Chocolate Chip Cookies .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Not a ringing endorsement since they too are dry and crumbly but it made me think I may have been a little to hard on this product .</Tokens>
+		<POS>RB DT VBG NN IN PRP RB VBP JJ CC JJ CC PRP VBD PRP VB PRP MD VB VBN DT JJ TO JJ IN DT NN .</POS>
+		<Lemma>not a ring endorsement since they too be dry and crumbly but it make I think I may have be a little to hard on this product .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Thus the change from a two star to a three star review .</Tokens>
+		<POS>RB DT NN IN DT CD NN TO DT CD NN NN .</POS>
+		<Lemma>thus the change from a two star to a three star review .</Lemma>
+	</Sentence>
+</Document>

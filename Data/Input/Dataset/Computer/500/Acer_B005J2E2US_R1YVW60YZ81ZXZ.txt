@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was very happy with my 10.1 '' Asus 1001P-PU17 but I cracked the screen while on vacation and need a replacement fast .</Tokens>
+		<POS>PRP VBD RB JJ IN PRP$ CD '' NNP NNP CC PRP VBD DT NN IN IN NN CC VB DT NN RB .</POS>
+		<Lemma>I be very happy with my 10.1 '' Asus 1001P-PU17 but I crack the screen while on vacation and need a replacement fast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>While browsing Amazon I noticed this Acer was a bigger screen , more RAM and a bigger HD -LRB- 320GB vs 250GB Asus -RRB- another big plus was Windows 7 Home Premium instead of Windows starter for just a few dollars more than the Asus sell for .</Tokens>
+		<POS>IN VBG NNP PRP VBD DT NNP VBD DT JJR NN , JJR NNP CC DT JJR NN -LRB- NN CC NN NN -RRB- DT JJ NN VBD NNP CD NNP NNP RB IN NNP JJ IN RB DT JJ NNS RBR IN DT NNP VB IN .</POS>
+		<Lemma>while browse Amazon I notice this Acer be a bigger screen , more RAM and a bigger hd -lrb- 320gb vs 250gb asus -rrb- another big plus be Windows 7 Home Premium instead of Windows starter for just a few dollar more than the Asus sell for .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am extremely happy with it so far .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP RB RB .</POS>
+		<Lemma>I be extremely happy with it so far .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is actually lighter and thinner than the Asus and the battery life is about 6hrs -LRB- which is less than the Asus so that is the one compromise I made -RRB- .</Tokens>
+		<POS>PRP VBZ RB JJR CC JJR IN DT NNP CC DT NN NN VBZ IN NNS -LRB- WDT VBZ JJR IN DT NNP IN DT VBZ DT CD NN PRP VBD -RRB- .</POS>
+		<Lemma>it be actually lighter and thinner than the Asus and the battery life be about 6hr -lrb- which be less than the Asus so that be the one compromise I make -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The screen is very crisp and Netflix looks really clear .</Tokens>
+		<POS>DT NN VBZ RB JJ CC NNP VBZ RB JJ .</POS>
+		<Lemma>the screen be very crisp and Netflix look really clear .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Highly recommended and this time I bought accidental protection for $ 25 through Safeware .</Tokens>
+		<POS>RB VBN CC DT NN PRP VBD JJ NN IN $ CD IN NNP .</POS>
+		<Lemma>highly recommend and this time I buy accidental protection for $ 25 through Safeware .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The only negative is the glossy case - I would have much preferred something textured that does not show smudges .</Tokens>
+		<POS>DT JJ JJ VBZ DT JJ NN : PRP MD VB JJ JJ NN VBN IN VBZ RB VB NNS .</POS>
+		<Lemma>the only negative be the glossy case - I would have much preferred something texture that do not show smudge .</Lemma>
+	</Sentence>
+</Document>

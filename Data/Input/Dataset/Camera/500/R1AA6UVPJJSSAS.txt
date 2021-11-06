@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased this camera as a Christmas gift for 14yr old Granddaughter .</Tokens>
+		<POS>VBN DT NN IN DT NNP NN IN JJ JJ NN .</POS>
+		<Lemma>purchase this camera as a Christmas gift for 14yr old granddaughter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She has not had the opportunity to use it underwater but has friends with the same camera and is very excited that she now has one .</Tokens>
+		<POS>PRP VBZ RB VBD DT NN TO VB PRP JJ CC VBZ NNS IN DT JJ NN CC VBZ RB VBN IN PRP RB VBZ CD .</POS>
+		<Lemma>she have not have the opportunity to use it underwater but have friend with the same camera and be very excite that she now have one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>She loves the social media features of this camera .</Tokens>
+		<POS>PRP VBZ DT JJ NNS NNS IN DT NN .</POS>
+		<Lemma>she love the social media feature of this camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>She likes the quality of her pics .</Tokens>
+		<POS>PRP VBZ DT NN IN PRP$ NNS .</POS>
+		<Lemma>she like the quality of she pic .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I selected this camera because she wanted an underwater camera and it takes AA batteries .</Tokens>
+		<POS>PRP VBD DT NN IN PRP VBD DT JJ NN CC PRP VBZ NNP NNS .</POS>
+		<Lemma>I select this camera because she want a underwater camera and it take AA battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I also purchased recharagable AA batteries and a stylish battery charger to go with this camera .</Tokens>
+		<POS>PRP RB VBD JJ NN NNS CC DT JJ NN NN TO VB IN DT NN .</POS>
+		<Lemma>I also purchase recharagable aa battery and a stylish battery charger to go with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I wanted to give her the opportunity to save $ $ if she can remember to charge her batteries .</Tokens>
+		<POS>PRP VBD TO VB PRP$ DT NN TO VB $ $ IN PRP MD VB TO VB PRP$ NNS .</POS>
+		<Lemma>I want to give she the opportunity to save $ $ if she can remember to charge she battery .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If she forgets to recharge batteries she can purchase AA batteries anywhere and not miss out on using her camera .</Tokens>
+		<POS>IN PRP VBZ TO VB NNS PRP MD VB NNP NNS RB CC RB VB RP IN VBG PRP$ NN .</POS>
+		<Lemma>if she forget to recharge battery she can purchase AA battery anywhere and not miss out on use she camera .</Lemma>
+	</Sentence>
+</Document>

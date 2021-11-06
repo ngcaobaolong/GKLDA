@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this charger to charge my Samsung fascinate .</Tokens>
+		<POS>PRP VBD DT NN TO VB PRP$ NNP NN .</POS>
+		<Lemma>I buy this charger to charge my Samsung fascinate .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Occasionally , it will show the phone fully charged when connected in my car even though it has not been charging long enough .</Tokens>
+		<POS>RB , PRP MD VB DT NN RB VBN WRB VBN IN PRP$ NN RB IN PRP VBZ RB VBN VBG RB RB .</POS>
+		<Lemma>occasionally , it will show the phone fully charge when connect in my car even though it have not be charge long enough .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I just unplug it from the charger and plug it back in to get it charging again .</Tokens>
+		<POS>PRP RB VB PRP IN DT NN CC VB PRP RB IN TO VB PRP VBG RB .</POS>
+		<Lemma>I just unplug it from the charger and plug it back in to get it charge again .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't know if this is a problem with the cable or charger .</Tokens>
+		<POS>PRP VBP RB VB IN DT VBZ DT NN IN DT NN CC NN .</POS>
+		<Lemma>I do not know if this be a problem with the cable or charger .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have not used it plugged into the wall enough to see if the problem exists there .</Tokens>
+		<POS>PRP VBP RB VBN PRP VBD IN DT NN RB TO VB IN DT NN VBZ RB .</POS>
+		<Lemma>I have not use it plug into the wall enough to see if the problem exist there .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The charger comes with a micro and mini usb cable and also an Ipod cable .</Tokens>
+		<POS>DT NN VBZ IN DT JJ CC JJ NN NN CC RB DT NN NN .</POS>
+		<Lemma>the charger come with a micro and mini usb cable and also a ipod cable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I also use it to charge a Jawbone bluetooth ear piece .</Tokens>
+		<POS>PRP RB VBP PRP TO VB DT NN NN NN NN .</POS>
+		<Lemma>I also use it to charge a jawbone bluetooth ear piece .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I love not having to have a charger for every device .</Tokens>
+		<POS>PRP VBP RB VBG TO VB DT NN IN DT NN .</POS>
+		<Lemma>I love not have to have a charger for every device .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It 's also great for traveling because you can just take it out of your car and plug it into the wall once you get to your destination .</Tokens>
+		<POS>PRP VBZ RB JJ IN VBG IN PRP MD RB VB PRP IN IN PRP$ NN CC VB PRP IN DT NN RB PRP VBP TO PRP$ NN .</POS>
+		<Lemma>it be also great for travel because you can just take it out of you car and plug it into the wall once you get to you destination .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Pros : Multiple ways to charge , can charge different devices with one charger , can charge multiple devices at once .</Tokens>
+		<POS>NNS : JJ NNS TO VB , MD VB JJ NNS IN CD NN , MD VB JJ NNS IN RB .</POS>
+		<Lemma>pro : multiple way to charge , can charge different device with one charger , can charge multiple device at once .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Cons : Sometimes shows phone is fully charged even though its not , can make for a tight squeeze depending on where your cigarette lighter is in your car because of the size of the charger .</Tokens>
+		<POS>NNS : RB VBZ NN VBZ RB VBN RB IN PRP$ RB , MD VB IN DT JJ NN VBG IN WRB PRP$ NN JJR VBZ IN PRP$ NN IN IN DT NN IN DT NN .</POS>
+		<Lemma>con : sometimes show phone be fully charge even though its not , can make for a tight squeeze depend on where you cigarette lighter be in you car because of the size of the charger .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I would definitely recommend the charger especially if you travel a lot .</Tokens>
+		<POS>PRP MD RB VB DT NN RB IN PRP VBP DT NN .</POS>
+		<Lemma>I would definitely recommend the charger especially if you travel a lot .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I gave it 5 stars because the fully charged issue is something I can work around and may be able to fix completely with a better quality cable .</Tokens>
+		<POS>PRP VBD PRP CD NNS IN DT RB VBN NN VBZ NN PRP MD VB RB CC MD VB JJ TO VB RB IN DT JJR NN NN .</POS>
+		<Lemma>I give it 5 star because the fully charge issue be something I can work around and may be able to fix completely with a better quality cable .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>UPDATE : The fully charged issue was with the cable .</Tokens>
+		<POS>NNP : DT RB VBN NN VBD IN DT NN .</POS>
+		<Lemma>UPDATE : the fully charge issue be with the cable .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Accessory Genie gave me great customer service to work through the problem .</Tokens>
+		<POS>NNP NNP VBD PRP JJ NN NN TO VB IN DT NN .</POS>
+		<Lemma>Accessory Genie give I great customer service to work through the problem .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>They sent me out another cable but it did not work at all .</Tokens>
+		<POS>PRP VBD PRP RP DT NN CC PRP VBD RB VB IN DT .</POS>
+		<Lemma>they send I out another cable but it do not work at all .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I told them that I was going to purchase a better quality cable instead of trying another one of theirs .</Tokens>
+		<POS>PRP VBD PRP IN PRP VBD VBG TO VB DT JJR NN NN RB IN VBG DT CD IN JJ .</POS>
+		<Lemma>I tell they that I be go to purchase a better quality cable instead of try another one of theirs .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>So they gave me a small discount to cover the cost of me purchasing another cable .</Tokens>
+		<POS>IN PRP VBD PRP DT JJ NN TO VB DT NN IN PRP VBG DT NN .</POS>
+		<Lemma>so they give I a small discount to cover the cost of I purchase another cable .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Props to Accessory Genie !!</Tokens>
+		<POS>NNS TO NNP NNP IN</POS>
+		<Lemma>prop to Accessory Genie !!</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The charger now works the way it is supposed to .</Tokens>
+		<POS>DT NN RB VBZ DT NN PRP VBZ VBN TO .</POS>
+		<Lemma>the charger now work the way it be suppose to .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I have also tried it plugged into the wall and it worked with no problems .</Tokens>
+		<POS>PRP VBP RB VBN PRP VBD IN DT NN CC PRP VBD IN DT NNS .</POS>
+		<Lemma>I have also try it plug into the wall and it work with no problem .</Lemma>
+	</Sentence>
+</Document>

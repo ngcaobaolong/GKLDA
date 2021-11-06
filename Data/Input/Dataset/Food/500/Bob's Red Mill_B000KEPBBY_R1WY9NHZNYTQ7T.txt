@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This soup mix is the easiest meal I make .</Tokens>
+		<POS>DT NN NN VBZ DT JJS NN PRP VBP .</POS>
+		<Lemma>this soup mix be the easiest meal I make .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It qualifies as a hearty meal in my book , and it can be on the table and into a tummy that is headed out for soccer or football .</Tokens>
+		<POS>PRP VBZ IN DT JJ NN IN PRP$ NN , CC PRP MD VB IN DT NN CC IN DT NN WDT VBZ VBN RP IN NN CC NN .</POS>
+		<Lemma>it qualify as a hearty meal in my book , and it can be on the table and into a tummy that be head out for soccer or football .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I discovered this soup mix from Bob 's Red Mill last year and I have ordered it in bulk for my deep freeze .</Tokens>
+		<POS>PRP VBD DT NN NN IN NNP POS NNP NNP JJ NN CC PRP VBP VBN PRP IN NN IN PRP$ JJ NN .</POS>
+		<Lemma>I discover this soup mix from Bob 's Red Mill last year and I have order it in bulk for my deep freeze .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is like a bean mix except that it cooks much faster because all the pieces are tiny , but it still tastes like a real homemade soup .</Tokens>
+		<POS>PRP VBZ IN DT NN NN IN IN PRP NNS RB RBR IN PDT DT NNS VBP JJ , CC PRP RB VBZ IN DT JJ NN NN .</POS>
+		<Lemma>it be like a bean mix except that it cook much faster because all the piece be tiny , but it still taste like a real homemade soup .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>There are even some weensy little whole wheat alphabet pasta pieces in there .</Tokens>
+		<POS>EX VBP RB DT JJ JJ JJ NN NN NN NNS IN RB .</POS>
+		<Lemma>there be even some weensy little whole wheat alphabet pasta piece in there .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So cute !</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>so cute !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You can dress it up any way you like .</Tokens>
+		<POS>PRP MD VB PRP RP DT NN PRP VBP .</POS>
+		<Lemma>you can dress it up any way you like .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There are several variations on the package , but it 's also great just with broth .</Tokens>
+		<POS>EX VBP JJ NNS IN DT NN , CC PRP VBZ RB JJ RB IN NN .</POS>
+		<Lemma>there be several variation on the package , but it be also great just with broth .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Add some whole wheat bread and dinner is served .</Tokens>
+		<POS>VB DT JJ NN NN CC NN VBZ VBN .</POS>
+		<Lemma>add some whole wheat bread and dinner be serve .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Here 's a link to exactly how I cook a bag of it : -LRB- ... -RRB-</Tokens>
+		<POS>RB VBZ DT NN TO RB WRB PRP VBP DT NN IN PRP : -LRB- : -RRB-</POS>
+		<Lemma>here be a link to exactly how I cook a bag of it : -lrb- ... -rrb-</Lemma>
+	</Sentence>
+</Document>

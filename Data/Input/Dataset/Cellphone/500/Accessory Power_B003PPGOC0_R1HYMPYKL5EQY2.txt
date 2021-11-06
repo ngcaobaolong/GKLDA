@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased Gogroove FlexSMART a few weeks ago .</Tokens>
+		<POS>VBN JJ NN DT JJ NNS RB .</POS>
+		<Lemma>purchase gogroove flexsmart a few week ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very easy to use ... just plug it into your power outlet , turn on , FlexSMART will seek an unused FM channel , and simply tune your car radio to that FM channel .</Tokens>
+		<POS>RB JJ TO VB : RB VB PRP IN PRP$ NN NN , VB RP , NNP MD VB DT JJ NN NN , CC RB VB PRP$ NN NN TO DT NN NN .</POS>
+		<Lemma>very easy to use ... just plug it into you power outlet , turn on , FlexSMART will seek a unused fm channel , and simply tune you car radio to that fm channel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>MUSIC QUALITY : I have a smart phone and when playing my music through the FlexSMART , the sound quality is very good .</Tokens>
+		<POS>NN NN : PRP VBP DT JJ NN CC WRB VBG PRP$ NN IN DT NNP , DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>music quality : I have a smart phone and when play my music through the FlexSMART , the sound quality be very good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The FlexSMART sound level range is 0-30 , but defaults to 20 when it is first powered on .</Tokens>
+		<POS>DT NN NN NN NN VBZ CD , CC NNS TO CD WRB PRP VBZ JJ VBN IN .</POS>
+		<Lemma>the flexsmart sound level range be 0-30 , but default to 20 when it be first power on .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>To adjust , just push in the turning knob , and adjust the volume level -LRB- I move mine to 30 each time -RRB- .</Tokens>
+		<POS>TO VB , RB VB IN DT VBG NN , CC VBP DT NN NN -LRB- PRP VBP PRP TO CD DT NN -RRB- .</POS>
+		<Lemma>to adjust , just push in the turn knob , and adjust the volume level -lrb- I move mine to 30 each time -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I then use my car stereo volume control to adjust the final sound level .</Tokens>
+		<POS>PRP RB VBP PRP$ NN NN NN NN TO VB DT JJ NN NN .</POS>
+		<Lemma>I then use my car stereo volume control to adjust the final sound level .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>However , be sure to turn your car radio volume down a little when you power off the FlexSMART and go back to using your normal car radio .</Tokens>
+		<POS>RB , VB JJ TO VB PRP$ NN NN NN IN DT JJ WRB PRP NN IN DT NN CC VB RB TO VBG PRP$ JJ NN NN .</POS>
+		<Lemma>however , be sure to turn you car radio volume down a little when you power off the flexsmart and go back to use you normal car radio .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>HANDS-FREE QUALITY : I test this device out by conducting some hands-free calls to my office phone since it has voicemail .</Tokens>
+		<POS>JJ NN : PRP VBP DT NN RP IN VBG DT JJ NNS TO PRP$ NN NN IN PRP VBZ NN .</POS>
+		<Lemma>hands-free quality : I test this device out by conduct some hands-free call to my office phone since it have voicemail .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I do have two power outlets in my vehicle , one on the dash just right of the steering wheel -LRB- next to the radio -RRB- and other located on the passenger side of the floor console down near one 's ankle .</Tokens>
+		<POS>PRP VBP VB CD NN NNS IN PRP$ NN , CD IN DT NN RB RB IN DT VBG NN -LRB- JJ TO DT NN -RRB- CC JJ JJ IN DT NN NN IN DT NN NN RB IN CD POS NN .</POS>
+		<Lemma>I do have two power outlet in my vehicle , one on the dash just right of the steer wheel -lrb- next to the radio -rrb- and other located on the passenger side of the floor console down near one 's ankle .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Using normal voice , I conducted two hands-free checks .</Tokens>
+		<POS>VBG JJ NN , PRP VBD CD JJ NNS .</POS>
+		<Lemma>use normal voice , I conduct two hands-free check .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Then when is got to my office , I checked my voicemail .</Tokens>
+		<POS>RB WRB VBZ VBN TO PRP$ NN , PRP VBD PRP$ NN .</POS>
+		<Lemma>then when be get to my office , I check my voicemail .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Although both locations worked , the closer the FlexSMART is to you the better the voice sound quality will be .</Tokens>
+		<POS>IN DT NNS VBD , DT JJR DT NN VBZ TO PRP DT JJR DT NN JJ NN MD VB .</POS>
+		<Lemma>although both location work , the closer the flexsmart be to you the better the voice sound quality will be .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The lights on the device are blue , red , and green and are very bright .</Tokens>
+		<POS>DT NNS IN DT NN VBP JJ , JJ , CC JJ CC VBP RB JJ .</POS>
+		<Lemma>the light on the device be blue , red , and green and be very bright .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The LED display that indicates radio channel or sound volume leave is easy to read .</Tokens>
+		<POS>DT VBN NN WDT VBZ NN NN CC JJ NN NN VBZ JJ TO VB .</POS>
+		<Lemma>the lead display that indicate radio channel or sound volume leave be easy to read .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>They look cool and since the disply lights are very bright , especially at night , it took some time to get used to that .</Tokens>
+		<POS>PRP VBP JJ CC IN DT JJ NNS VBP RB JJ , RB IN NN , PRP VBD DT NN TO VB VBN TO DT .</POS>
+		<Lemma>they look cool and since the disply light be very bright , especially at night , it take some time to get use to that .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Overall , this is a very good product and I would recommend given it a try .</Tokens>
+		<POS>RB , DT VBZ DT RB JJ NN CC PRP MD VB VBN PRP DT NN .</POS>
+		<Lemma>overall , this be a very good product and I would recommend give it a try .</Lemma>
+	</Sentence>
+</Document>

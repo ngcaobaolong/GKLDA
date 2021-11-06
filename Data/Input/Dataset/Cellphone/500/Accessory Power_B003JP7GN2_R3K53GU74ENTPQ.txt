@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love the product purchsed , although the lid just opens up by itself as th latch I think broke may be in shipping .</Tokens>
+		<POS>PRP VBP DT NN VBD , IN DT NN RB VBZ RP IN PRP IN DT VBP PRP VB VBD MD VB IN NN .</POS>
+		<Lemma>I love the product purchse , although the lid just open up by itself as th latch I think break may be in shipping .</Lemma>
+	</Sentence>
+</Document>

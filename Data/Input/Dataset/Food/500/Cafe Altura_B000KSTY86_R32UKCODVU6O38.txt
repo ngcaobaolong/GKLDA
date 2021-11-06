@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Dark roast is its own league ... the amino profiles of the beans change considerably .</Tokens>
+		<POS>JJ NN VBZ PRP$ JJ NN : DT NN NNS IN DT NNS VBP RB .</POS>
+		<Lemma>dark roast be its own league ... the amino profile of the bean change considerably .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But with that said , I 've had high altitude dark roasts that were much better .</Tokens>
+		<POS>CC IN DT VBD , PRP VBP VBD JJ NN JJ NNS WDT VBD RB JJR .</POS>
+		<Lemma>but with that say , I have have high altitude dark roast that be much better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In fact , this coffee STINKS when you open the bag and sniff the beans .</Tokens>
+		<POS>IN NN , DT NN VBZ WRB PRP VBP DT NN CC VB DT NNS .</POS>
+		<Lemma>in fact , this coffee stink when you open the bag and sniff the bean .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ground it coarsely and used a french press ... poured in about 20 seconds ... and guess what ... it still does n't smell good .</Tokens>
+		<POS>PRP VBP PRP RB CC VBD DT JJ NN : VBD IN RB CD NNS : CC VB WP : PRP RB VBZ RB VB JJ .</POS>
+		<Lemma>I grind it coarsely and use a french press ... pour in about 20 seconds ... and guess what ... it still do not smell good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Drinking it black , it 's smooth , not bitter , but flat on the palette .</Tokens>
+		<POS>VBG PRP JJ , PRP VBZ JJ , RB JJ , CC JJ IN DT NN .</POS>
+		<Lemma>drink it black , it be smooth , not bitter , but flat on the palette .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I do n't understand all the rave reviews ... this coffee sucks .</Tokens>
+		<POS>PRP VBP RB VB PDT DT VBP NNS : DT NN VBZ .</POS>
+		<Lemma>I do not understand all the rave review ... this coffee suck .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'd rather drink pre-ground maxwell house that 's been sitting around for 30 minutes -LRB- yuck -RRB- .</Tokens>
+		<POS>PRP MD RB VB JJ NN NN WDT VBZ VBN VBG RP IN CD NNS -LRB- NN -RRB- .</POS>
+		<Lemma>I would rather drink pre-ground maxwell house that be be sit around for 30 minute -lrb- yuck -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Maybe you can cook with it -LRB- in caramel since its not bitter , maybe -RRB- but I would n't bother drinking it ... it sucks .</Tokens>
+		<POS>RB PRP MD VB IN PRP -LRB- IN NN IN PRP$ RB JJ , RB -RRB- CC PRP MD RB VB VBG PRP : PRP VBZ .</POS>
+		<Lemma>maybe you can cook with it -lrb- in caramel since its not bitter , maybe -rrb- but I would not bother drink it ... it suck .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There is considerable crema and oil ... but the taste is flat .</Tokens>
+		<POS>EX VBZ JJ NN CC NN : CC DT NN VBZ JJ .</POS>
+		<Lemma>there be considerable crema and oil ... but the taste be flat .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I also ordered Lavazza -LRB- Tierra -RRB- for moka `` espresso '' but it brews up better than almost every other bean I 've tried .</Tokens>
+		<POS>PRP RB VBD NNP -LRB- NNP -RRB- IN FW `` NN '' CC PRP VBZ RB JJR IN RB DT JJ NN PRP VBP VBN .</POS>
+		<Lemma>I also order Lavazza -lrb- Tierra -rrb- for moka `` espresso '' but it brew up better than almost every other bean I have try .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Also Cameron 's Organic `` toasted southern pecan '' coffee really surprised me -LRB- I do n't like flavored coffees -RRB- ... I love it .</Tokens>
+		<POS>RB NNP POS NNP `` VBD JJ NN '' NN RB VBD PRP -LRB- PRP VBP RB VB JJ NNS -RRB- : PRP VBP PRP .</POS>
+		<Lemma>also Cameron 's Organic `` toast southern pecan '' coffee really surprise I -lrb- I do not like flavored coffee -rrb- ... I love it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Save your $ $ and avoid these beans ... get a brazilian dark roast instead ...</Tokens>
+		<POS>VB PRP$ $ $ CC VB DT NNS : VB DT JJ JJ NN RB :</POS>
+		<Lemma>save you $ $ and avoid these bean ... get a brazilian dark roast instead ...</Lemma>
+	</Sentence>
+</Document>

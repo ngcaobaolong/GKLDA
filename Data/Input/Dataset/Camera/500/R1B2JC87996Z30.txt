@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had an older ELF stolen and had to purchase a new one .</Tokens>
+		<POS>PRP VBD DT JJR NN VBN CC VBD TO VB DT JJ CD .</POS>
+		<Lemma>I have a older elf steal and have to purchase a new one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am blown away by the improvements and upgrades over the last 4 years .</Tokens>
+		<POS>PRP VBP VBN RP IN DT NNS CC NNS IN DT JJ CD NNS .</POS>
+		<Lemma>I be blow away by the improvement and upgrade over the last 4 year .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have a toddler and the ` burst ' feature that allows you take several pictures per second has been invaluable in capturing some amazing moments .</Tokens>
+		<POS>PRP VBP DT NN CC DT `` NN '' NN WDT VBZ PRP VB JJ NNS IN NN VBZ VBN JJ IN VBG DT JJ NNS .</POS>
+		<Lemma>I have a toddler and the ` burst ' feature that allow you take several picture per second have be invaluable in capture some amazing moment .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I recommend this camera to all !!</Tokens>
+		<POS>PRP VBP DT NN TO DT CD</POS>
+		<Lemma>I recommend this camera to all !!</Lemma>
+	</Sentence>
+</Document>

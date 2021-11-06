@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've been shooting video with my HTC Evo with an 8mp lens and my Sony Cybershot W330 with a 14mp lens and the Bloggie puts them both to absolute shame .</Tokens>
+		<POS>PRP VBP VBN VBG NN IN PRP$ NNP NNP IN DT JJ NN CC PRP$ NNP NNP NN IN DT JJ NN CC DT NNP VBZ PRP DT TO JJ NN .</POS>
+		<Lemma>I have be shoot video with my HTC Evo with a 8mp lens and my Sony Cybershot w330 with a 14mp lens and the Bloggie put they both to absolute shame .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've finally realized a phone 's a phone a camera 's a camera so I encourage you to do the same .</Tokens>
+		<POS>PRP VBP RB VBN DT NN POS DT NN CC DT NN POS DT NN IN PRP VBP PRP TO VB DT JJ .</POS>
+		<Lemma>I have finally realize a phone 's a phone a camera 's a camera so I encourage you to do the same .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The cell phone makers have done an excellent job fooling everyone into thinking their IPhones and Droids can do it all but it 's just not true no matter how many megapixels they have or how advanced they claim they are .</Tokens>
+		<POS>DT NN NN NNS VBP VBN DT JJ NN VBG NN IN VBG PRP$ NNS CC NNS MD VB PRP DT CC PRP VBZ RB RB JJ DT NN WRB JJ NNS PRP VBP CC WRB JJ PRP VBP PRP VBP .</POS>
+		<Lemma>the cell phone maker have do a excellent job fool everyone into think they iphone and droid can do it all but it be just not true no matter how many megapixel they have or how advanced they claim they be .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They 'll get there someday but they 're not there yet .</Tokens>
+		<POS>PRP MD VB RB RB CC PRP VBP RB RB RB .</POS>
+		<Lemma>they 'll get there someday but they be not there yet .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>As for performace , beyond my expectations .</Tokens>
+		<POS>IN IN NN , IN PRP$ NNS .</POS>
+		<Lemma>as for performace , beyond my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Now , if you want a professional camcorder , buy one .</Tokens>
+		<POS>RB , IN PRP VBP DT JJ NN , VB CD .</POS>
+		<Lemma>now , if you want a professional camcorder , buy one .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It 'll cost you at least 4 or 5 times as much but you wo n't have much to complain about anymore .</Tokens>
+		<POS>PRP MD VB PRP IN JJS CD CC CD NNS RB JJ CC PRP MD RB VB JJ TO VB IN RB .</POS>
+		<Lemma>it 'll cost you at least 4 or 5 time as much but you will not have much to complain about anymore .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you want a significantly better video experience than your cell or digital camera , the Bloggie is awesome .</Tokens>
+		<POS>IN PRP VBP DT RB JJR NN NN IN PRP$ NN CC JJ NN , DT NNP VBZ JJ .</POS>
+		<Lemma>if you want a significantly better video experience than you cell or digital camera , the Bloggie be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Not only does it outperform every other compact out there -LRB- Kodak , Samsung , Flip -RRB- , it does better than a lot of actual camcorders in the $ 500 or less category .</Tokens>
+		<POS>RB RB VBZ PRP VB DT JJ JJ IN RB -LRB- NNP , NNP , NNP -RRB- , PRP VBZ JJR IN DT NN IN JJ NNS IN DT $ CD CC JJR NN .</POS>
+		<Lemma>not only do it outperform every other compact out there -lrb- Kodak , Samsung , Flip -rrb- , it do better than a lot of actual camcorder in the $ 500 or less category .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>With adequate lighting , the crispness clarity is stunning videos look great on my Mac , PC , big screen .</Tokens>
+		<POS>IN JJ NN , DT NN CC NN VBZ JJ CC NNS VBP JJ IN PRP$ NNP , NNP , CC JJ NN .</POS>
+		<Lemma>with adequate lighting , the crispness clarity be stunning video look great on my Mac , PC , big screen .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>No it does n't have a flash or a video light , no it does n't take the greatest pictures , no it does n't have an optical zoom -LRB- for a digital zoom , it 's actually quite nice -RRB- .</Tokens>
+		<POS>DT PRP VBZ RB VB DT NN CC DT NN NN , DT PRP VBZ RB VB DT JJS NNS , DT PRP VBZ RB VB DT JJ NN -LRB- IN DT JJ NN , PRP VBZ RB RB JJ -RRB- .</POS>
+		<Lemma>no it do not have a flash or a video light , no it do not take the greatest picture , no it do not have a optical zoom -lrb- for a digital zoom , it be actually quite nice -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>You have to remember the price point remember that it 's a camcorder 1st , a camera 2nd .</Tokens>
+		<POS>PRP VBP TO VB DT NN NN CC VBP IN PRP VBZ DT NN CD , CC DT NN JJ .</POS>
+		<Lemma>you have to remember the price point remember that it be a camcorder 1st , a camera 2nd .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>My suggestion is use your digital camera to take pictures , or your phone if you have to as long as it has at least 8mp .</Tokens>
+		<POS>PRP$ NN VBZ VB PRP$ JJ NN TO VB NNS , CC PRP$ NN IN PRP VBP TO RB JJ IN PRP VBZ IN JJS CD .</POS>
+		<Lemma>my suggestion be use you digital camera to take picture , or you phone if you have to as long as it have at least 8mp .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Turn the lights on if you 're shooting video in the dark or just deal with it if you ca n't .</Tokens>
+		<POS>VB DT NNS IN IN PRP VBP VBG NN IN DT JJ CC RB VB IN PRP IN PRP MD RB .</POS>
+		<Lemma>turn the light on if you be shoot video in the dark or just deal with it if you can not .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The Bloggie actually does very well in the dark in comparison to cell phones it 's competitors so I have no complaints .</Tokens>
+		<POS>DT NNP RB VBZ RB RB IN DT NN IN NN TO NN NNS CC PRP VBZ NNS IN PRP VBP DT NNS .</POS>
+		<Lemma>the Bloggie actually do very well in the dark in comparison to cell phone it be competitor so I have no complaint .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great product , it came highly recommended from a coworker and it did not disappoint .</Tokens>
+		<POS>DT VBZ DT JJ NN , PRP VBD RB VBN IN DT NN CC PRP VBD RB VB .</POS>
+		<Lemma>this be a great product , it come highly recommend from a coworker and it do not disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The FM transmitter is amazing , and much better than I 've ever used in my car , I never get signal washout from the station I 'm overriding .</Tokens>
+		<POS>DT NNP NN VBZ JJ , CC RB JJR IN PRP VBP RB VBN IN PRP$ NN , PRP RB VBP NN NN IN DT NN PRP VBP VBG .</POS>
+		<Lemma>the FM transmitter be amazing , and much better than I have ever use in my car , I never get signal washout from the station I be override .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The sound quality is awesome from my Motorola bionic to this device over Bluetooth and then to FM transmitter .</Tokens>
+		<POS>DT JJ NN VBZ JJ IN PRP$ NNP JJ TO DT NN IN NNP CC RB TO NNP NN .</POS>
+		<Lemma>the sound quality be awesome from my Motorola bionic to this device over Bluetooth and then to FM transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My only minor complaint is sometimes I have to mess with Bluetooth to get it to re-pair to the flexsmart .</Tokens>
+		<POS>PRP$ JJ JJ NN VBZ RB PRP VBP TO NN IN NN TO VB PRP TO VB TO DT NN .</POS>
+		<Lemma>my only minor complaint be sometimes I have to mess with bluetooth to get it to re-pair to the flexsmart .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't know if that 's my phone or this device as I 've not connected it to any other Bluetooth audio devices before .</Tokens>
+		<POS>PRP VBP RB VB IN DT VBZ PRP$ NN CC DT NN IN PRP VBP RB VBN PRP TO DT JJ NNP NN NNS IN .</POS>
+		<Lemma>I do not know if that be my phone or this device as I have not connect it to any other Bluetooth audio device before .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've not used the hands free calling feature so I ca n't honestly say how that works .</Tokens>
+		<POS>PRP VBP RB VBN DT NNS JJ VBG NN IN PRP MD RB RB VB WRB WDT VBZ .</POS>
+		<Lemma>I have not use the hand free call feature so I can not honestly say how that work .</Lemma>
+	</Sentence>
+</Document>

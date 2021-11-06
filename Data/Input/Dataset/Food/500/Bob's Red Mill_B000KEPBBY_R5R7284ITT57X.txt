@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Every Bob 's Red Mill product I have ever tried has excelled in taste and quality .</Tokens>
+		<POS>DT NNP POS NNP NNP NN PRP VBP RB VBN VBZ VBN IN NN CC NN .</POS>
+		<Lemma>every Bob 's Red Mill product I have ever try have excel in taste and quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This soup mix is no exception .</Tokens>
+		<POS>DT NN NN VBZ DT NN .</POS>
+		<Lemma>this soup mix be no exception .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have made it with water and organic chicken broth with pleasing results .</Tokens>
+		<POS>PRP VBP VBN PRP IN NN CC JJ NN NN IN VBG NNS .</POS>
+		<Lemma>I have make it with water and organic chicken broth with please result .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is now a pantry staple .</Tokens>
+		<POS>PRP VBZ RB DT NN NN .</POS>
+		<Lemma>it be now a pantry staple .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,232 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was n't sure I should add to the hundreds of comprehensive reviews of this camera , both here and elsewhere , because I am not a professional photographer -- but maybe I can help a few people decide .</Tokens>
+		<POS>PRP VBD RB JJ PRP MD VB TO DT NNS IN JJ NNS IN DT NN , CC RB CC RB , IN PRP VBP RB DT JJ NNP : CC RB PRP MD VB DT JJ NNS VBP .</POS>
+		<Lemma>I be not sure I should add to the hundred of comprehensive review of this camera , both here and elsewhere , because I be not a professional photographer -- but maybe I can help a few people decide .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I should first say that I did not buy this on Amazon , but paid what was at the time a lower price at a reputable dealer that I assume Amazon will soon match .</Tokens>
+		<POS>PRP MD RB VB IN PRP VBD RB VB DT IN NNP , CC VBD WP VBD IN DT NN DT JJR NN IN DT JJ NN IN PRP VBP NNP MD RB VB .</POS>
+		<Lemma>I should first say that I do not buy this on Amazon , but pay what be at the time a lower price at a reputable dealer that I assume Amazon will soon match .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>-LRB- If I 'm allowed to mention the price , in late June , 2012 it was in the mid $ 400s -RRB- .</Tokens>
+		<POS>-LRB- IN PRP VBP VBN TO VB DT NN , IN JJ NNP , CD PRP VBD IN DT JJ $ CD -RRB- .</POS>
+		<Lemma>-lrb- if I be allow to mention the price , in late June , 2012 it be in the mid $ 400s -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This put the camera still at the higher end of compact cameras , though still well below the Canon G1x and the Sony Rx100 , and definitely at the low end of the micro 4\/3rds , especially when lenses are added in .</Tokens>
+		<POS>DT VBD DT NN RB IN DT JJR NN IN JJ NNS , IN RB RB IN DT NNP NN CC DT NNP NN , CC RB IN DT JJ NN IN DT JJ NNS , RB WRB NNS VBP VBN IN .</POS>
+		<Lemma>this put the camera still at the higher end of compact camera , though still well below the Canon g1x and the Sony rx100 , and definitely at the low end of the micro 4\/3rds , especially when lens be add in .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This price comparison I think is important , because in my three weeks of use , I have found the image quality to be excellent , and though I am sure the other cameras I mention above might produce better , I 'm not sure it would be better for the money .</Tokens>
+		<POS>DT NN NN PRP VBP VBZ JJ , IN IN PRP$ CD NNS IN NN , PRP VBP VBN DT NN NN TO VB JJ , CC IN PRP VBP JJ DT JJ NNS PRP VBP IN MD VB JJR , PRP VBP RB JJ PRP MD VB RBR IN DT NN .</POS>
+		<Lemma>this price comparison I think be important , because in my three week of use , I have find the image quality to be excellent , and though I be sure the other camera I mention above might produce better , I be not sure it would be better for the money .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In addition , I have enjoyed the flexibility of a variety of settings -- especially the ability to save groups of settings -- the substantial feel of the camera , the quality lens that still provides relative range without carrying around a bunch of different lenses , the low light abilities , the sharp macro picture possibilities , and the built in panorama feature .</Tokens>
+		<POS>IN NN , PRP VBP VBN DT NN IN DT NN IN NNS : RB DT NN TO VB NNS IN NNS : DT JJ NN IN DT NN , DT NN NN WDT RB VBZ JJ NN IN VBG IN DT NN IN JJ NNS , DT JJ NN NNS , DT JJ NN NN NNS , CC DT VBN IN NN NN .</POS>
+		<Lemma>in addition , I have enjoy the flexibility of a variety of setting -- especially the ability to save group of setting -- the substantial feel of the camera , the quality lens that still provide relative range without carry around a bunch of different lens , the low light ability , the sharp macro picture possibility , and the build in panorama feature .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So this camera is really working for me , and if the price continues to drop , it could actually become a bargain .</Tokens>
+		<POS>RB DT NN VBZ RB VBG IN PRP , CC IN DT NN VBZ TO VB , PRP MD RB VB DT NN .</POS>
+		<Lemma>so this camera be really work for I , and if the price continue to drop , it could actually become a bargain .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But , of course , if you read all the reviews , you know there are issues with the camera .</Tokens>
+		<POS>CC , IN NN , IN PRP VBP PDT DT NNS , PRP VBP EX VBP NNS IN DT NN .</POS>
+		<Lemma>but , of course , if you read all the review , you know there be issue with the camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Here is my take on those issues as an amateur photographer , based on a several week experience : 1 .</Tokens>
+		<POS>RB VBZ PRP$ NN IN DT NNS IN DT JJ NNP , VBN IN DT JJ NN NN : CD .</POS>
+		<Lemma>here be my take on those issue as a amateur photographer , base on a several week experience : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I have not had the `` orb '' problem -- the uneditable white spots that appear with glare .</Tokens>
+		<POS>PRP VBP RB VBN DT `` NN '' NN : DT JJ JJ NNS WDT VBP IN NN .</POS>
+		<Lemma>I have not have the `` orb '' problem -- the uneditable white spot that appear with glare .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>My camera 's serial number begins with 21A so maybe it has one of the newer sensors produced to solve the problem .</Tokens>
+		<POS>PRP$ NN POS JJ NN VBZ IN NN IN RB PRP VBZ CD IN DT JJR NNS VBD TO VB DT NN .</POS>
+		<Lemma>my camera 's serial number begin with 21a so maybe it have one of the newer sensor produce to solve the problem .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>At the same time , I have not at all had the noise problem in low light that some people have complained about with the new sensors .</Tokens>
+		<POS>IN DT JJ NN , PRP VBP RB IN DT VBD DT NN NN IN JJ NN IN DT NNS VBP VBN IN IN DT JJ NNS .</POS>
+		<Lemma>at the same time , I have not at all have the noise problem in low light that some people have complain about with the new sensor .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>In fact , I think low light performance is great in this camera , in part because the fast lens .</Tokens>
+		<POS>IN NN , PRP VBP JJ JJ NN VBZ JJ IN DT NN , IN NN IN DT JJ NN .</POS>
+		<Lemma>in fact , I think low light performance be great in this camera , in part because the fast lens .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The viewfinder is partially blocked by the lens , but I still use it all the time .</Tokens>
+		<POS>DT NN VBZ RB VBN IN DT NN , CC PRP RB VBP PRP PDT DT NN .</POS>
+		<Lemma>the viewfinder be partially block by the lens , but I still use it all the time .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>In fact , that is one of the reasons I got this camera , because I have never liked taking pictures by using an lcd screen .</Tokens>
+		<POS>IN NN , WDT VBZ CD IN DT NNS PRP VBD DT NN , IN PRP VBP RB VBN VBG NNS IN VBG DT NN NN .</POS>
+		<Lemma>in fact , that be one of the reason I get this camera , because I have never like take picture by use a lcd screen .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Am I sometimes surprised by what appears in the lower right corner of my composition ?</Tokens>
+		<POS>VBP PRP RB VBD IN WDT VBZ IN DT JJR NN NN IN PRP$ NN .</POS>
+		<Lemma>be I sometimes surprise by what appear in the lower right corner of my composition ?</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Yes .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>yes .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>On the other hand , a little minor cropping eliminates the bad surprises , and sometimes the surprise is a good one .</Tokens>
+		<POS>IN DT JJ NN , DT JJ JJ VBG VBZ DT JJ NNS , CC RB DT NN VBZ DT JJ CD .</POS>
+		<Lemma>on the other hand , a little minor crop eliminate the bad surprise , and sometimes the surprise be a good one .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>As a number of reviews have said , I 've found it really hard to produce adjusted pictures of high quality working from `` raw . ''</Tokens>
+		<POS>IN DT NN IN NNS VBP VBN , PRP VBP VBN PRP RB JJ TO VB JJ NNS IN JJ NN VBG IN `` JJ . ''</POS>
+		<Lemma>as a number of review have say , I have find it really hard to produce adjusted picture of high quality work from `` raw . ''</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>With other cameras , I always liked to shoot in raw -- I use Lightroom for conversion and processing .</Tokens>
+		<POS>IN JJ NNS , PRP RB VBD TO VB IN JJ : PRP VBP NNP IN NN CC NN .</POS>
+		<Lemma>with other camera , I always like to shoot in raw -- I use Lightroom for conversion and processing .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>But I 'm not sure its worth it for this camera .</Tokens>
+		<POS>CC PRP VBP RB JJ PRP$ JJ PRP IN DT NN .</POS>
+		<Lemma>but I be not sure its worth it for this camera .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Still , the jpegs are excellent , so it is n't as much a problem as you might think .</Tokens>
+		<POS>RB , DT NNS VBP JJ , IN PRP VBZ RB RB JJ DT NN IN PRP MD VB .</POS>
+		<Lemma>still , the jpeg be excellent , so it be not as much a problem as you might think .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Because of the peculiarities of Fuji 's sensor , for many of the settings you have to lower image resolution to `` medium '' that is , 6 megapixels .</Tokens>
+		<POS>IN IN DT NNS IN NNP POS NN , IN JJ IN DT NNS PRP VBP TO JJR NN NN TO `` NN '' WDT VBZ , CD NNS .</POS>
+		<Lemma>because of the peculiarity of Fuji 's sensor , for many of the setting you have to lower image resolution to `` medium '' that be , 6 megapixel .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I have to admit , that kind of bugged me at first , because cropping is a bit limited at that resolution .</Tokens>
+		<POS>PRP VBP TO VB , DT NN IN VBN PRP IN RB , IN VBG VBZ DT NN JJ IN DT NN .</POS>
+		<Lemma>I have to admit , that kind of bug I at first , because crop be a bit limited at that resolution .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Fortunately , picture quality is high even in medium .</Tokens>
+		<POS>RB , NN NN VBZ JJ RB IN NN .</POS>
+		<Lemma>fortunately , picture quality be high even in medium .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>5 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>5 .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>In bright sunlight , if I am shooting aperture priority and trying to keep a shallow depth of field , I find the pictures to be slightly overexposed for my tastes , even at ISO 100 .</Tokens>
+		<POS>IN JJ NN , IN PRP VBP JJ NN NN CC VBG TO VB DT JJ NN IN NN , PRP VBP DT NNS TO VB RB VBN IN PRP$ NNS , RB IN NN CD .</POS>
+		<Lemma>in bright sunlight , if I be shooting aperture priority and try to keep a shallow depth of field , I find the picture to be slightly overexpose for my taste , even at iso 100 .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>But that 's where the handy exposure compensation dial comes in -- its quickly turned and once you find the setting that works for bright light , it is easier than a menu driven adjustment to exposure that other cameras have .</Tokens>
+		<POS>CC DT VBZ WRB DT JJ NN NN NN VBZ IN : PRP$ RB VBN CC RB PRP VBP DT NN WDT VBZ IN JJ NN , PRP VBZ JJR IN DT NN VBN NN TO NN IN JJ NNS VBP .</POS>
+		<Lemma>but that be where the handy exposure compensation dial come in -- its quickly turn and once you find the setting that work for bright light , it be easier than a menu drive adjustment to exposure that other camera have .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>I 'm sure I could find appropriate shutter speeds and get those set and saved in conjunction with aperture , but the dial does make it easy .</Tokens>
+		<POS>PRP VBP JJ PRP MD VB JJ NN NNS CC VB DT VBN CC VBN IN NN IN NN , CC DT NN VBZ VB PRP JJ .</POS>
+		<Lemma>I be sure I could find appropriate shutter speed and get those set and save in conjunction with aperture , but the dial do make it easy .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>In situations where I do n't mind stopping down , there 's no problem with exposure .</Tokens>
+		<POS>IN NNS WRB PRP VBP RB VB VBG RB , EX VBZ DT NN IN NN .</POS>
+		<Lemma>in situation where I do not mind stop down , there be no problem with exposure .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>And a lot of times , I just find it easy to let the camera do all the work and set it to what Fuji weirdly calls `` EXR Auto '' as opposed to `` regular Auto '' which is also available .</Tokens>
+		<POS>CC DT NN IN NNS , PRP RB VBP PRP JJ TO VB DT NN VBP PDT DT NN CC VB PRP TO WP NNP RB VBZ `` NNP NNP '' IN VBN TO `` JJ NN '' WDT VBZ RB JJ .</POS>
+		<Lemma>and a lot of time , I just find it easy to let the camera do all the work and set it to what Fuji weirdly call `` EXR Auto '' as oppose to `` regular auto '' which be also available .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>My wife , who is scarcely interested in photography and therefore annoys me by often producing better pictures than I do , just sets it to EXR auto , treats the camera as a point and shoot and it works just fine .</Tokens>
+		<POS>PRP$ NN , WP VBZ RB JJ IN NN CC RB VBZ PRP IN RB VBG JJR NNS IN PRP VBP , RB VBZ PRP TO NNP NN , VBZ DT NN IN DT NN CC NN CC PRP VBZ RB JJ .</POS>
+		<Lemma>my wife , who be scarcely interested in photography and therefore annoy I by often produce better picture than I do , just set it to EXR auto , treat the camera as a point and shoot and it work just fine .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>6 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>6 .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>The battery life is relatively short if you use the camera for movies .</Tokens>
+		<POS>DT NN NN VBZ RB JJ IN PRP VBP DT NN IN NNS .</POS>
+		<Lemma>the battery life be relatively short if you use the camera for movie .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>I have n't much , but noticed when I did some video it really drained the battery quickly .</Tokens>
+		<POS>PRP VBP RB RB , CC VBD WRB PRP VBD DT NN PRP RB VBD DT NN RB .</POS>
+		<Lemma>I have not much , but notice when I do some video it really drain the battery quickly .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Even in still photographs , depending on what settings you use , you notice it from time to time .</Tokens>
+		<POS>RB IN RB NNS , VBG IN WP NNS PRP VBP , PRP VBP PRP IN NN TO NN .</POS>
+		<Lemma>even in still photograph , depend on what setting you use , you notice it from time to time .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>I had to change the battery once unexpectedly when taking a bunch of rapid continuous shots at a kid 's baseball game -LRB- the shots came out great , by the way -- got more than a few `` moment of contact '' pictures in batting . -RRB-</Tokens>
+		<POS>PRP VBD TO VB DT NN RB RB WRB VBG DT NN IN JJ JJ NNS IN DT NN POS NN NN -LRB- DT NNS VBD RP JJ , IN DT NN : VBD JJR IN DT JJ `` NN IN NN '' NNS IN NN . -RRB-</POS>
+		<Lemma>I have to change the battery once unexpectedly when take a bunch of rapid continuous shot at a kid 's baseball game -lrb- the shot come out great , by the way -- get more than a few `` moment of contact '' picture in batting . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>On the other hand , I 've never had it run out on me on a hike when I 'm just taking single pictures , and it lasted several days during a camping trip .</Tokens>
+		<POS>IN DT JJ NN , PRP VBP RB VBN PRP VB RP IN PRP IN DT NN WRB PRP VBP RB VBG JJ NNS , CC PRP VBD JJ NNS IN DT NN NN .</POS>
+		<Lemma>on the other hand , I have never have it run out on I on a hike when I be just take single picture , and it last several day during a camping trip .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>I would just count on carrying an extra battery just in case , but the battery is cheap , so it does n't add much expense .</Tokens>
+		<POS>PRP MD RB VB IN VBG DT JJ NN RB IN NN , CC DT NN VBZ JJ , IN PRP VBZ RB VB JJ NN .</POS>
+		<Lemma>I would just count on carry a extra battery just in case , but the battery be cheap , so it do not add much expense .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>All in all , the issues are there , but , thanks to previous reviewers , I bought with my eyes wide open , and feel I got an excellent camera .</Tokens>
+		<POS>DT IN DT , DT NNS VBP RB , CC , NNS TO JJ NNS , PRP VBD IN PRP$ NNS JJ JJ , CC VBP PRP VBD DT JJ NN .</POS>
+		<Lemma>all in all , the issue be there , but , thanks to previous reviewer , I buy with my eye wide open , and feel I get a excellent camera .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>I 've produced some really sharp pictures -- of the family , of landscapes , and of flowers .</Tokens>
+		<POS>PRP VBP VBN DT RB JJ NNS : IN DT NN , IN NNS , CC IN NNS .</POS>
+		<Lemma>I have produce some really sharp picture -- of the family , of landscape , and of flower .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>I 've not felt the need for additional lenses , and the camera is really easy to carry around on hikes and walks .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN JJ NNS , CC DT NN VBZ RB JJ TO VB RP IN NNS CC VBZ .</POS>
+		<Lemma>I have not feel the need for additional lens , and the camera be really easy to carry around on hike and walk .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>So I would definitely recommend you give this camera serious consideration !</Tokens>
+		<POS>IN PRP MD RB VB PRP VB DT NN JJ NN .</POS>
+		<Lemma>so I would definitely recommend you give this camera serious consideration !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I wired the camera to the router with the cat5 cable it worked fine .</Tokens>
+		<POS>WRB PRP VBD DT NN TO DT NN IN DT NN NN PRP VBD NN .</POS>
+		<Lemma>when I wire the camera to the router with the cat5 cable it work fine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But when I unplugged the cat5 , the wifi did not work , until I fiddled with the Norton Internet Security -RRB- Network Security Map and set the camera 's Trust Level to FULL TRUST .</Tokens>
+		<POS>CC WRB PRP VBD DT NN , DT NNS VBD RB VB , IN PRP VBD IN DT NNP NNP NNP -RRB- NNP NNP NN CC VBD DT NN POS NNP NNP TO NNP NNP .</POS>
+		<Lemma>but when I unplug the cat5 , the wifus do not work , until I fiddle with the Norton Internet Security -rrb- Network Security map and set the camera 's Trust Level to FULL TRUST .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It then started to work just fine , both with the camera right beside the router , and with the camera about 30 feet away on the other side of a thick wall .</Tokens>
+		<POS>PRP RB VBD TO VB RB JJ , CC IN DT NN NN IN DT NN , CC IN DT NN IN CD NNS RB IN DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>it then start to work just fine , both with the camera right beside the router , and with the camera about 30 foot away on the other side of a thick wall .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Going back into Norton Internet Security -RRB- Network Security Map I reset the Trust level to SHARED TRUST and the cam continued to work using wifi .</Tokens>
+		<POS>VBG RB IN NNP NNP NNP -RRB- NNP NNP NN PRP VB DT NNP NN TO VBN NN CC DT NN VBD TO VB VBG NNS .</POS>
+		<Lemma>go back into Norton Internet Security -rrb- Network Security map I reset the Trust level to share trust and the cam continue to work use wifus .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I note that the IP number assigned for wifi -LRB- 192.168.0.109:85 -RRB- is different than the IP number for the cat5 connection -LRB- 192.168.0.108:85 -RRB- .</Tokens>
+		<POS>PRP VBP IN DT NNP NN VBN IN NNS -LRB- CD -RRB- VBZ JJ IN DT NNP NN IN DT NN NN -LRB- CD -RRB- .</POS>
+		<Lemma>I note that the IP number assign for wifus -lrb- 192.168.0.109:85 -rrb- be different than the IP number for the cat5 connection -lrb- 192.168.0.108:85 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The 85 stands for the port number I arbitrarily assigned .</Tokens>
+		<POS>DT CD NNS IN DT NN NN CD RB VBN .</POS>
+		<Lemma>the 85 stand for the port number i arbitrarily assign .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>After installing the camera , when I paste h \*\* p : \/ \/ 192.168.0.109:85 into the Microsoft Internet Explorer IP entry box , it hooks the camera up directly via wi fi .</Tokens>
+		<POS>IN VBG DT NN , WRB PRP VBP NN SYM NN : : : CD IN DT NNP NNP NNP NNP NN NN , PRP VBZ DT NN RP RB IN FW FW .</POS>
+		<Lemma>after install the camera , when I paste h \*\* p : \/ \/ 192.168.0.109:85 into the Microsoft Internet Explorer IP entry box , it hook the camera up directly via wi fi .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>-LRB- Amazon does not allow full web address ... so I wrote h \*\* p in place of http -RRB- .</Tokens>
+		<POS>-LRB- NNP VBZ RB VB JJ NN NN : IN PRP VBD NN SYM NN IN NN IN NN -RRB- .</POS>
+		<Lemma>-lrb- Amazon do not allow full web address ... so I write h \*\* p in place of http -rrb- .</Lemma>
+	</Sentence>
+</Document>

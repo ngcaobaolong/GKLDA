@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There was a tiny tear in the bag upon arrival , but I sealed it with some tape .</Tokens>
+		<POS>EX VBD DT JJ VB IN DT NN IN NN , CC PRP VBD PRP IN DT NN .</POS>
+		<Lemma>there be a tiny tear in the bag upon arrival , but I seal it with some tape .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No big deal .</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>no big deal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The bag is just as good as any other bag you might find at the grocery store .</Tokens>
+		<POS>DT NN VBZ RB RB JJ IN DT JJ NN PRP MD VB IN DT NN NN .</POS>
+		<Lemma>the bag be just as good as any other bag you might find at the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>These kernels do seem a little bit better than Jiffy Lube or Jolly Time or whatever popcorn sold in the grocery store .</Tokens>
+		<POS>DT NNS VBP VB DT JJ NN JJR IN NNP NNP CC JJ NN CC WDT NN VBD IN DT NN NN .</POS>
+		<Lemma>these kernel do seem a little bit better than Jiffy Lube or jolly time or whatever popcorn sell in the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The kernels pop big and the popcorn tastes fresh .</Tokens>
+		<POS>DT NNS VBP JJ CC DT NN NNS JJ .</POS>
+		<Lemma>the kernel pop big and the popcorn taste fresh .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No complaints .</Tokens>
+		<POS>DT NNS .</POS>
+		<Lemma>no complaint .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm not really worried about it drying out .</Tokens>
+		<POS>PRP VBP RB RB JJ IN PRP VBG RP .</POS>
+		<Lemma>I be not really worried about it dry out .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I kept Jiffy Lube popcorn over two years sitting on the shelf , and the kernels did not dry out .</Tokens>
+		<POS>PRP VBD NNP NNP NN IN CD NNS VBG IN DT NN , CC DT NNS VBD RB JJ IN .</POS>
+		<Lemma>I keep Jiffy Lube popcorn over two year sit on the shelf , and the kernel do not dry out .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I am not sure what desert people are living in that they have popcorn kernels drying out .</Tokens>
+		<POS>PRP VBP RB JJ WP NN NNS VBP VBG IN IN PRP VBP NN NNS VBG RP .</POS>
+		<Lemma>I be not sure what desert people be live in that they have popcorn kernel dry out .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Just keep it in the bag or a sealed container and it should be fine .</Tokens>
+		<POS>RB VB PRP IN DT NN CC DT VBN NN CC PRP MD VB JJ .</POS>
+		<Lemma>just keep it in the bag or a seal container and it should be fine .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I did the math and this bag is cheaper than anything sold in the grocery store .</Tokens>
+		<POS>PRP VBD DT NN CC DT NN VBZ JJR IN NN VBN IN DT NN NN .</POS>
+		<Lemma>I do the math and this bag be cheaper than anything sell in the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Of course , Rumpenbacker popcorn is ten times as expensive .</Tokens>
+		<POS>IN NN , NN NN VBZ CD NNS IN JJ .</POS>
+		<Lemma>of course , rumpenbacker popcorn be ten time as expensive .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I never buy Rumpenbacker .</Tokens>
+		<POS>PRP RB VBP NNP .</POS>
+		<Lemma>I never buy Rumpenbacker .</Lemma>
+	</Sentence>
+</Document>

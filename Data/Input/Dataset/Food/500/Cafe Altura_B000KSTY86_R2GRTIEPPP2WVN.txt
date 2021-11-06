@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have have been getting this coffee for the last couple of months and love it .</Tokens>
+		<POS>PRP VBP VBP VBN VBG DT NN IN DT JJ NN IN NNS CC VBP PRP .</POS>
+		<Lemma>I have have be get this coffee for the last couple of month and love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have also gotten a family member hooked on it as well !</Tokens>
+		<POS>PRP VBP RB VBN DT NN NN VBD IN PRP RB RB .</POS>
+		<Lemma>I have also get a family member hook on it as well !</Lemma>
+	</Sentence>
+</Document>

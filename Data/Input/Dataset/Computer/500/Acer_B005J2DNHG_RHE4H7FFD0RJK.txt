@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this computer last year for Christmas about this time .</Tokens>
+		<POS>PRP VBD DT NN JJ NN IN NNP IN DT NN .</POS>
+		<Lemma>I get this computer last year for Christmas about this time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i grab it by the screen lots of times .</Tokens>
+		<POS>LS VB PRP IN DT NN NNS IN NNS .</POS>
+		<Lemma>i grab it by the screen lot of time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>today i grabbed it and the screen made about 6 cracking noises .</Tokens>
+		<POS>NN FW VBD PRP CC DT NN VBN IN CD VBG NNS .</POS>
+		<Lemma>today i grab it and the screen make about 6 crack noise .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>i look at the screen to see about 5 cracks inside the screen , not on the outside .</Tokens>
+		<POS>LS NN IN DT NN TO VB IN CD NNS IN DT NN , RB IN DT NN .</POS>
+		<Lemma>i look at the screen to see about 5 crack inside the screen , not on the outside .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>now my computer wont start or stop it s just frozen on white page .</Tokens>
+		<POS>RB PRP$ NN NN NN CC VB PRP VBZ RB VBN IN JJ NN .</POS>
+		<Lemma>now my computer wont start or stop it s just freeze on white page .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>IM VERY DISPPOINTED .</Tokens>
+		<POS>NNP NNP NNP .</POS>
+		<Lemma>IM VERY DISPPOINTED .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>this computer is the slowest thing ever and is always broken .</Tokens>
+		<POS>DT NN VBZ DT JJS NN RB CC VBZ RB VBN .</POS>
+		<Lemma>this computer be the slowest thing ever and be always break .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>im complaining to the company now and hopefully can get a new one .</Tokens>
+		<POS>NN VBG TO DT NN RB CC RB MD VB DT JJ CD .</POS>
+		<Lemma>im complain to the company now and hopefully can get a new one .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>i doubt it but oh well just wont buy anything esle from acer .</Tokens>
+		<POS>LS NN PRP CC UH RB RB JJ NN NN JJ IN NN .</POS>
+		<Lemma>i doubt it but oh well just wont buy anything esle from acer .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>DONT BUY</Tokens>
+		<POS>JJ NN</POS>
+		<Lemma>dont buy</Lemma>
+	</Sentence>
+</Document>

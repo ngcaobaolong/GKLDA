@@ -1,0 +1,232 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a head-to-head comparison of the Canon SX30 IS and the Olympus SP-590UZ , which are both competitors in the super-zoom class of compact cameras .</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT NNP NN VBZ CC DT NNP NN , WDT VBP DT NNS IN DT JJ NN IN JJ NNS .</POS>
+		<Lemma>this be a head-to-head comparison of the Canon sx30 be and the Olympus sp-590uz , which be both competitor in the super-zoom class of compact camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I will compare some of the features of these two cameras but mostly talk about the image quality between the two since I consider that the most important reason for choosing a camera .</Tokens>
+		<POS>PRP MD VB DT IN DT NNS IN DT CD NNS CC RB VB IN DT NN NN IN DT CD IN PRP VBP IN DT RBS JJ NN IN VBG DT NN .</POS>
+		<Lemma>I will compare some of the feature of these two camera but mostly talk about the image quality between the two since I consider that the most important reason for choose a camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When the Olympus SP-590UZ came out in 2009 it had the longest zoom range of any compact camera with its 26x zoom equivalent to 26 - 676mm at f\/3 .5 - 5.0 .</Tokens>
+		<POS>WRB DT NNP NN VBD RP IN CD PRP VBD DT JJS NN NN IN DT JJ NN IN PRP$ NN NN JJ TO CD : CD IN CD CD : CD .</POS>
+		<Lemma>when the Olympus sp-590uz come out in 2009 it have the longest zoom range of any compact camera with its 26x zoom equivalent to 26 - 676mm at f\/3 .5 - 5.0 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Olympus has since come out with the SP-800UZ which has an even longer 30x zoom but is inferior in my opinion because it is strictly a point-and-shoot camera with no user control over aperture and shutter speed and no viewfinder .</Tokens>
+		<POS>NNP VBZ IN VBN RP IN DT NN WDT VBZ DT RB RBR JJ NN CC VBZ JJ IN PRP$ NN IN PRP VBZ RB DT JJ NN IN DT NN NN IN NN CC JJR NN CC DT NN .</POS>
+		<Lemma>Olympus have since come out with the sp-800uz which have a even longer 30x zoom but be inferior in my opinion because it be strictly a point-and-shoot camera with no user control over aperture and shutter speed and no viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Canon SX30 follows the SX20 and currently has the longest zoom range on the compact camera market , a 35x zoom equivalent to 24 - 840mm at f\/2 .7 - 5.8 I took photos using both cameras of the same subjects using the same lighting and exposure settings .</Tokens>
+		<POS>DT NNP NN VBZ DT NN CC RB VBZ DT JJS NN NN IN DT JJ NN NN , DT NN NN JJ TO CD : CD IN CD CD : CD PRP VBD NNS VBG CC NNS IN DT JJ NNS VBG DT JJ NN CC NN NNS .</POS>
+		<Lemma>the Canon sx30 follow the sx20 and currently have the longest zoom range on the compact camera market , a 35x zoom equivalent to 24 - 840mm at f\/2 .7 - 5.8 I take photo use both camera of the same subject use the same lighting and exposure setting .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>All photos were taken in aperture priority mode -LRB- Av -RRB- .</Tokens>
+		<POS>DT NNS VBD VBN IN NN NN NN -LRB- NN -RRB- .</POS>
+		<Lemma>all photo be take in aperture priority mode -lrb- av -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have uploaded a number of comparison shots to the customer image section so you can follow along .</Tokens>
+		<POS>PRP VBP VBN DT NN IN NN NNS TO DT NN NN NN IN PRP MD VB RB .</POS>
+		<Lemma>I have upload a number of comparison shot to the customer image section so you can follow along .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>At the far wide end of the range , both cameras performed about equally , that is to say , adequate but not extremely sharp .</Tokens>
+		<POS>IN DT JJ JJ NN IN DT NN , CC NNS VBN IN RB , DT VBZ TO VB , JJ CC RB RB JJ .</POS>
+		<Lemma>at the far wide end of the range , both camera perform about equally , that be to say , adequate but not extremely sharp .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>These cameras are aimed at birders and other telephoto enthusiasts , and so most of the test shots I took were at the long end of the range .</Tokens>
+		<POS>DT NNS VBP VBN IN NNS CC JJ NN NNS , CC RB JJS IN DT NN NNS PRP VBD VBD IN DT JJ NN IN DT NN .</POS>
+		<Lemma>these camera be aim at birder and other telephoto enthusiast , and so most of the test shot I take be at the long end of the range .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Here the Canon was consistently sharper and was able to resolve finer detail , as in the photo of the evergreen tree tops , the milkweed seed strands , and the detail of the cement wall behind the light post .</Tokens>
+		<POS>RB DT NNP VBD RB JJR CC VBD JJ TO VB NN NN , IN IN DT NN IN DT NN NN NNS , DT NN NN NNS , CC DT NN IN DT NN NN IN DT JJ NN .</POS>
+		<Lemma>here the Canon be consistently sharper and be able to resolve finer detail , as in the photo of the evergreen tree top , the milkweed seed strand , and the detail of the cement wall behind the light post .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Both cameras quickly start to exhibit noise above ISO 100 , but the Olympus was even showing some color noise at the lowest ISO setting of 64 .</Tokens>
+		<POS>DT NNS RB VBP TO VB NN IN NN CD , CC DT NNP VBD RB VBG DT NN NN IN DT JJS NN NN IN CD .</POS>
+		<Lemma>both camera quickly start to exhibit noise above iso 100 , but the Olympus be even show some color noise at the lowest iso setting of 64 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>By ISO 400 the shots are still usable but the noise in the Canon images is finer and better under control while Olympus photos are grainier .</Tokens>
+		<POS>IN NN CD DT NNS VBP RB JJ CC DT NN IN DT NNP NNS VBZ NN CC JJR IN NN IN NNP NNS VBP JJR .</POS>
+		<Lemma>by iso 400 the shot be still usable but the noise in the Canon image be finer and better under control while Olympus photo be grainier .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Noise reduction in Photoshop can clean up some of the noise with some possible compromise in sharpness .</Tokens>
+		<POS>NN NN IN NNP MD VB RP DT IN DT NN IN DT JJ NN IN NN .</POS>
+		<Lemma>noise reduction in Photoshop can clean up some of the noise with some possible compromise in sharpness .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The one disappointment in the Canon SX30 is the macro mode .</Tokens>
+		<POS>DT CD NN IN DT NNP NN VBZ DT NN NN .</POS>
+		<Lemma>the one disappointment in the Canon sx30 be the macro mode .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The focusing range is `` approximately 0 - 50 cm '' which sounds great but you literally have to get right on top of the object to fill the frame with the image .</Tokens>
+		<POS>DT VBG NN VBZ `` RB CD : CD NN '' WDT VBZ JJ CC PRP RB VBP TO VB RB IN NN IN DT NN TO VB DT NN IN DT NN .</POS>
+		<Lemma>the focus range be `` approximately 0 - 50 cm '' which sound great but you literally have to get right on top of the object to fill the frame with the image .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The Olympus has a dedicated Super Macro mode which allows you to take macro shots from further away from your subject .</Tokens>
+		<POS>DT NNP VBZ DT JJ NNP NNP NN WDT VBZ PRP TO VB NN NNS IN JJ RB IN PRP$ NN .</POS>
+		<Lemma>the Olympus have a dedicated Super Macro mode which allow you to take macro shot from further away from you subject .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>This not only allows you not to disturb your subject but also prevents the camera from casting a shadow on it .</Tokens>
+		<POS>DT RB RB VBZ PRP RB TO VB PRP$ NN CC RB VBZ DT NN IN VBG DT NN IN PRP .</POS>
+		<Lemma>this not only allow you not to disturb you subject but also prevent the camera from cast a shadow on it .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Macro shots with the Olympus are not only much easier to take but the results are better .</Tokens>
+		<POS>NNP NNS IN DT NNP VBP RB RB RB JJR TO VB CC DT NNS VBP RBR .</POS>
+		<Lemma>Macro shot with the Olympus be not only much easier to take but the result be better .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Here 's a direct comparison of some of the features of these two Super-Zoom cameras : Lens : Advantage Canon with a longer zoom and sharper focus .</Tokens>
+		<POS>RB VBZ DT JJ NN IN DT IN DT NNS IN DT CD NNP NNS : NNP : NNP NNP IN DT JJR NN CC JJR NN .</POS>
+		<Lemma>here be a direct comparison of some of the feature of these two Super-Zoom camera : Lens : Advantage Canon with a longer zoom and sharper focus .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The Canon is faster at the wide end but both lenses are pretty slow in their telephoto ranges .</Tokens>
+		<POS>DT NNP VBZ RBR IN DT JJ NN CC DT NNS VBP RB JJ IN PRP$ NN NNS .</POS>
+		<Lemma>the Canon be faster at the wide end but both lens be pretty slow in they telephoto range .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Neither is great for capturing sports action or birds in flight .</Tokens>
+		<POS>DT VBZ JJ IN VBG NNS NN CC NNS IN NN .</POS>
+		<Lemma>neither be great for capture sport action or bird in flight .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Neither camera is good for low light conditions without a flash either .</Tokens>
+		<POS>DT NN VBZ JJ IN JJ JJ NNS IN DT NN RB .</POS>
+		<Lemma>neither camera be good for low light condition without a flash either .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Although the Canon lens is sharper it has some chromatic aberration .</Tokens>
+		<POS>IN DT NNP NN VBZ JJR PRP VBZ DT JJ NN .</POS>
+		<Lemma>although the Canon lens be sharper it have some chromatic aberration .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>LCD screen : Canon has an articulating screen which means you can take shots from unusual angles and still see the screen .</Tokens>
+		<POS>NNS NN : NNP VBZ DT VBG NN WDT VBZ PRP MD VB NNS IN JJ NNS CC RB VB DT NN .</POS>
+		<Lemma>lcd screen : Canon have a articulate screen which mean you can take shot from unusual angle and still see the screen .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Olympus only has a fixed screen .</Tokens>
+		<POS>NNP RB VBZ DT JJ NN .</POS>
+		<Lemma>Olympus only have a fixed screen .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Picture Modes : Canon has 10 color modes and one customizable mode , Olympus only has Normal and Vivid .</Tokens>
+		<POS>NNP NNPS : NNP VBZ CD NN NNS CC CD JJ NN , NNP RB VBZ JJ CC JJ .</POS>
+		<Lemma>Picture Modes : Canon have 10 color mode and one customizable mode , Olympus only have normal and vivid .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Zoom markings : Canon lens has focal length markings on the lens , Olympus has none .</Tokens>
+		<POS>NN NNS : NNP NN VBZ JJ NN NNS IN DT NN , NNP VBZ NN .</POS>
+		<Lemma>zoom marking : Canon lens have focal length marking on the lens , Olympus have none .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Neither camera has a focal length readout on the screen , which would be nice .</Tokens>
+		<POS>DT NN VBZ DT JJ NN NN IN DT NN , WDT MD VB JJ .</POS>
+		<Lemma>neither camera have a focal length readout on the screen , which would be nice .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Lens Cap : The Canon lens cap can remain on while the camera is powered up .</Tokens>
+		<POS>NNP NNP : DT NNP NN NN MD VB IN IN DT NN VBZ VBN RP .</POS>
+		<Lemma>Lens Cap : the Canon lens cap can remain on while the camera be power up .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>The Olympus lens cap has to be removed before powering on the camera , or else the protruding lens will push it off .</Tokens>
+		<POS>DT NNP NN NN VBZ TO VB VBN IN VBG IN DT NN , CC RB DT VBG NN MD VB PRP RP .</POS>
+		<Lemma>the Olympus lens cap have to be remove before power on the camera , or else the protrude lens will push it off .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Menus and buttons : I have no preference here , both cameras have good manual control and it 's all about getting used to one or the other .</Tokens>
+		<POS>NNP CC NNS : PRP VBP DT NN RB , DT NNS VBP JJ NN NN CC PRP VBZ DT IN VBG VBN TO CD CC DT JJ .</POS>
+		<Lemma>Menus and button : I have no preference here , both camera have good manual control and it be all about get use to one or the other .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Focus : The Olympus auto-focus seems to be more accurate at close distances .</Tokens>
+		<POS>NN : DT NNP NN VBZ TO VB RBR JJ IN JJ NNS .</POS>
+		<Lemma>focus : the Olympus auto-focus seem to be more accurate at close distance .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>I saw some back focusing with the Canon at close range .</Tokens>
+		<POS>PRP VBD DT JJ VBG IN DT NNP IN JJ NN .</POS>
+		<Lemma>I see some back focus with the Canon at close range .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>Both cameras do a terrible job with manual focus , it is very hard to use .</Tokens>
+		<POS>DT NNS VBP DT JJ NN IN JJ NN , PRP VBZ RB JJ TO VB .</POS>
+		<Lemma>both camera do a terrible job with manual focus , it be very hard to use .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>The Canon has a focus bracketing feature , something which I wanted to have for focus stacking , but I found out it only works in manual focus mode and it 's slow .</Tokens>
+		<POS>DT NNP VBZ DT NN VBG NN , NN WDT PRP VBD TO VB IN NN VBG , CC PRP VBD IN PRP RB VBZ IN JJ NN NN CC PRP VBZ JJ .</POS>
+		<Lemma>the Canon have a focus bracket feature , something which I want to have for focus stack , but I find out it only work in manual focus mode and it be slow .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Advantage Olympus .</Tokens>
+		<POS>NN NNP .</POS>
+		<Lemma>advantage Olympus .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>Image Stabilization : The Canon seems to `` lock in '' while the Olympus seems to slowly drift .</Tokens>
+		<POS>NN NN : DT NNP VBZ TO `` VB RP '' IN DT NNP VBZ TO RB VB .</POS>
+		<Lemma>image stabilization : the Canon seem to `` lock in '' while the Olympus seem to slowly drift .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>I prefer the `` locking '' image stabilization of the Canon even though it jumps around at times .</Tokens>
+		<POS>PRP VBP DT `` VBG '' NN NN IN DT NNP RB IN PRP VBZ RB IN NNS .</POS>
+		<Lemma>I prefer the `` lock '' image stabilization of the Canon even though it jump around at time .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Image Quality : This is where it counts and the Canon is the clear winner , particularly in the telephoto range .</Tokens>
+		<POS>NN NNP : DT VBZ WRB PRP VBZ CC DT NNP VBZ DT JJ NN , RB IN DT NN NN .</POS>
+		<Lemma>image Quality : this be where it count and the Canon be the clear winner , particularly in the telephoto range .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>The images may need to be sharpened up in PhotoShop but the examples I posted were straight out of the camera .</Tokens>
+		<POS>DT NNS MD VB TO VB VBN RP IN NNP CC DT NNS PRP VBD VBD RB IN IN DT NN .</POS>
+		<Lemma>the image may need to be sharpen up in PhotoShop but the example I post be straight out of the camera .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>The Olympus would only be a better choice if you were going to be doing a lot of macro work .</Tokens>
+		<POS>DT NNP MD RB VB DT JJR NN IN PRP VBD VBG TO VB VBG DT NN IN NN NN .</POS>
+		<Lemma>the Olympus would only be a better choice if you be go to be do a lot of macro work .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>Conclusions : The Canon SX30 IS is the clear winner and appears to be the best super-zoom compact available at the moment .</Tokens>
+		<POS>NNS : DT NNP NN VBZ VBZ DT JJ NN CC VBZ TO VB DT JJS JJ JJ JJ IN DT NN .</POS>
+		<Lemma>conclusion : the Canon sx30 be be the clear winner and appear to be the best super-zoom compact available at the moment .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>The optics may not be as good as a lens with a shorter focal range and there is some noise apparent even at low ISO values .</Tokens>
+		<POS>DT NNS MD RB VB RB JJ IN DT NN IN DT JJR JJ NN CC EX VBZ DT NN JJ RB IN JJ NN NNS .</POS>
+		<Lemma>the optics may not be as good as a lens with a shorter focal range and there be some noise apparent even at low iso value .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>Unfortunately camera makers insist on cramming more mega-pixels onto these tiny sensors which means more noise .</Tokens>
+		<POS>RB NN NNS VBP IN VBG JJR NNS IN DT JJ NNS WDT VBZ RBR NN .</POS>
+		<Lemma>unfortunately camera maker insist on cram more mega-pixel onto these tiny sensor which mean more noise .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>For these reasons and for the disappointing implementation of macro , Canon gets deducted one star .</Tokens>
+		<POS>IN DT NNS CC IN DT JJ NN IN NN , NNP VBZ VBN CD NN .</POS>
+		<Lemma>for these reason and for the disappointing implementation of macro , Canon get deduct one star .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>The image quality will never be as good as a DSLR or a Micro Four Thirds camera such as the Panasonic DMC-GH1 and I would not recommend this camera for professional or fine arts photography , but it would be a convenient and versatile choice under daylight conditions when you want to carry a minimum amount of equipment .</Tokens>
+		<POS>DT NN NN MD RB VB RB JJ IN DT NN CC DT NNP CD NNPS NN JJ IN DT NNP NN CC PRP MD RB VB DT NN IN JJ CC JJ NNS NN , CC PRP MD VB DT JJ CC JJ NN IN NN NNS WRB PRP VBP TO VB DT JJ NN IN NN .</POS>
+		<Lemma>the image quality will never be as good as a dslr or a Micro four Thirds camera such as the Panasonic dmc-gh1 and I would not recommend this camera for professional or fine art photography , but it would be a convenient and versatile choice under daylight condition when you want to carry a minimum amount of equipment .</Lemma>
+	</Sentence>
+</Document>

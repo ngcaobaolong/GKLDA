@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got two of these to charge mine and my girlfriend 's cell phones .</Tokens>
+		<POS>PRP VBD CD IN DT TO VB NN CC PRP$ NN POS NN NNS .</POS>
+		<Lemma>I get two of these to charge mine and my girlfriend 's cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Neither worked in either car .</Tokens>
+		<POS>DT VBD IN CC NN .</POS>
+		<Lemma>neither work in either car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They were so cheep that I did n't bother returning them because it 's not worth the postage .</Tokens>
+		<POS>PRP VBD RB JJ IN PRP VBD RB VB VBG PRP IN PRP VBZ RB JJ DT NN .</POS>
+		<Lemma>they be so cheep that I do not bother return they because it be not worth the postage .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Kind of annoying but I guess I got what I paid for .</Tokens>
+		<POS>NNP IN JJ CC PRP VBP PRP VBD WP PRP VBD IN .</POS>
+		<Lemma>Kind of annoying but I guess I get what I pay for .</Lemma>
+	</Sentence>
+</Document>

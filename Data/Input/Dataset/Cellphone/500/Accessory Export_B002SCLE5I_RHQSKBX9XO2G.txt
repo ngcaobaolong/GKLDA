@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Although the cost is very low for this item it will not give you more reception or more bars on your cell .</Tokens>
+		<POS>IN DT NN VBZ RB JJ IN DT NN PRP MD RB VB PRP RBR NN CC JJR NNS IN PRP$ NN .</POS>
+		<Lemma>although the cost be very low for this item it will not give you more reception or more bar on you cell .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I actually installed two side by side under the battery as it suggested , received the same reception no change in the signal strength at all</Tokens>
+		<POS>PRP RB VBD CD NN IN NN IN DT NN IN PRP VBD , VBD DT JJ NN DT NN IN DT NN NN IN DT</POS>
+		<Lemma>I actually install two side by side under the battery as it suggest , receive the same reception no change in the signal strength at all</Lemma>
+	</Sentence>
+</Document>

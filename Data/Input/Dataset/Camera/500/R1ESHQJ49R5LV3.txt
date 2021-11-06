@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought an earlier version of this Fujifilm camera because of my wonderful experience with the Fujifilm S5700 .</Tokens>
+		<POS>PRP VBD DT JJR NN IN DT NNP NN IN IN PRP$ JJ NN IN DT NNP NNP .</POS>
+		<Lemma>I buy a earlier version of this Fujifilm camera because of my wonderful experience with the Fujifilm S5700 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wanted the wider 28mm zoom on this model , and so I thought I was `` upgrading '' .</Tokens>
+		<POS>PRP VBD DT JJR CD NN IN DT NN , CC RB PRP VBD PRP VBD `` VBG '' .</POS>
+		<Lemma>I want the wider 28mm zoom on this model , and so I think I be `` upgrade '' .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The S2950 uses AA batteries , which are easy to find .</Tokens>
+		<POS>DT NN VBZ NN NNS , WDT VBP JJ TO VB .</POS>
+		<Lemma>the s2950 use aa battery , which be easy to find .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Someone who takes only 300 or 400 photos each year could put in a set of AA lithium batteries , and only change batteries once a year .</Tokens>
+		<POS>NN WP VBZ RB CD CC CD NNS DT NN MD VB IN DT NN IN NN NN NNS , CC RB VB NNS RB DT NN .</POS>
+		<Lemma>someone who take only 300 or 400 photo each year could put in a set of aa lithium battery , and only change battery once a year .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>With `` pre-charged '' AA rechargeable batteries , you can get more than 600 photos per charge without flash , or about 200 photos per charge if you use the flash for every photo .</Tokens>
+		<POS>IN `` JJ '' NN JJ NNS , PRP MD VB JJR IN CD NNS IN NN IN NN , CC RB CD NNS IN NN IN PRP VBP DT NN IN DT NN .</POS>
+		<Lemma>with `` pre-charged '' aa rechargeable battery , you can get more than 600 photo per charge without flash , or about 200 photo per charge if you use the flash for every photo .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Because the batteries can be recharged several hundred times , you can get several years of use from a set of batteries .</Tokens>
+		<POS>IN DT NNS MD VB VBN JJ CD NNS , PRP MD VB JJ NNS IN NN IN DT NN IN NNS .</POS>
+		<Lemma>because the battery can be recharge several hundred time , you can get several year of use from a set of battery .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>In fact , I have found that getting good photos from this camera requires some thought , and some work .</Tokens>
+		<POS>IN NN , PRP VBP VBN IN VBG JJ NNS IN DT NN VBZ DT NN , CC DT NN .</POS>
+		<Lemma>in fact , I have find that get good photo from this camera require some thought , and some work .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>My best results have come from using the `` Aperture Mode '' and locking the ISO at ISO 64 and the Aperture at f\/4 .</Tokens>
+		<POS>PRP$ JJS NNS VBP VBN IN VBG DT `` NN NNP '' CC VBG DT NN IN NN CD CC DT NN IN NN .</POS>
+		<Lemma>my best result have come from use the `` aperture Mode '' and lock the iso at iso 64 and the aperture at f\/4 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>In good sunlight , most photos are reasonably good , although the camera tends to shift blues toward purple , and reds toward orange .</Tokens>
+		<POS>IN JJ NN , JJS NNS VBP RB JJ , IN DT NN VBZ TO VB NNS IN JJ , CC NNS IN NN .</POS>
+		<Lemma>in good sunlight , most photo be reasonably good , although the camera tend to shift blues toward purple , and red toward orange .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Most of my family and friends have dark brown skin tones , which the S2950 shifts toward greenish-brown or orange-brown , especially with flash photos .</Tokens>
+		<POS>JJS IN PRP$ NN CC NNS VBP JJ JJ NN NNS , WDT DT NN VBZ IN JJ CC JJ , RB IN NN NNS .</POS>
+		<Lemma>most of my family and friend have dark brown skin tone , which the s2950 shift toward greenish-brown or orange-brown , especially with flash photo .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The results with paler `` anglo '' skin tones are better , with the camera adding a bit of ruddiness to pale skin that looks attractive .</Tokens>
+		<POS>DT NNS IN JJ `` NN '' NN NNS VBP RBR , IN DT NN VBG DT NN IN NN TO VB NN WDT VBZ JJ .</POS>
+		<Lemma>the result with paler `` anglo '' skin tone be better , with the camera add a bit of ruddiness to pale skin that look attractive .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>In various auto modes , the results are often poor , as the camera selects ISO 400 even in good light , resulting in photos that are grainy and lack fine detail , contrast , and color saturation .</Tokens>
+		<POS>IN JJ NN NNS , DT NNS VBP RB JJ , IN DT NN VBZ NN CD RB IN JJ NN , VBG IN NNS WDT VBP JJ CC VBP JJ NN , NN , CC NN NN .</POS>
+		<Lemma>in various auto mode , the result be often poor , as the camera select iso 400 even in good light , result in photo that be grainy and lack fine detail , contrast , and color saturation .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The solution is to use manual modes , lock the ISO at ISO 64 and f\/4 .</Tokens>
+		<POS>DT NN VBZ TO VB JJ NNS , VBP DT NN IN NN CD CC NN .</POS>
+		<Lemma>the solution be to use manual mode , lock the iso at iso 64 and f\/4 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The BIGGEST problem is that my camera has focus problems in temperatures above about 90 degrees .</Tokens>
+		<POS>DT NNP NN VBZ IN PRP$ NN VBZ NN NNS IN NNS IN IN CD NNS .</POS>
+		<Lemma>the BIGGEST problem be that my camera have focus problem in temperature above about 90 degree .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>In Texas , afternoon temperatures stay above 90 degrees from the end of April to the beginning of October .</Tokens>
+		<POS>IN NNP , NN NNS VBP IN CD NNS IN DT NN IN NNP TO DT NN IN NNP .</POS>
+		<Lemma>in Texas , afternoon temperature stay above 90 degree from the end of April to the beginning of October .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Shooting outdoors in the summer requires taking each photo two or three times , in hopes that one photo will be sharply focused .</Tokens>
+		<POS>NN NNS IN DT NN VBZ VBG DT NN CD CC CD NNS , IN NNS IN CD NN MD VB RB VBN .</POS>
+		<Lemma>shooting outdoors in the summer require take each photo two or three time , in hope that one photo will be sharply focus .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The strong point of this camera is that it sells for half the price of comparable Panasonic and Canon cameras .</Tokens>
+		<POS>DT JJ NN IN DT NN VBZ IN PRP VBZ IN PDT DT NN IN JJ NNP CC NNP NNS .</POS>
+		<Lemma>the strong point of this camera be that it sell for half the price of comparable Panasonic and Canon camera .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Among `` Super Zooms '' , the S2950 is a real bargain ... worth the extra work it takes to get good photos if you want a `` Super Zoom '' and are on a tight budget .</Tokens>
+		<POS>IN `` NNP NNP '' , DT NN VBZ DT JJ NN : IN DT JJ NN PRP VBZ TO VB JJ NNS IN PRP VBP DT `` NNP NNP '' CC VBP IN DT JJ NN .</POS>
+		<Lemma>among `` Super Zooms '' , the s2950 be a real bargain ... worth the extra work it take to get good photo if you want a `` Super Zoom '' and be on a tight budget .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Buy it if you are willing to WORK at getting good photos , and you are willing to take a photo two or three times to get one good picture .</Tokens>
+		<POS>VB PRP IN PRP VBP JJ TO VB IN VBG JJ NNS , CC PRP VBP JJ TO VB DT NN CD CC CD NNS TO VB CD JJ NN .</POS>
+		<Lemma>buy it if you be willing to work at get good photo , and you be willing to take a photo two or three time to get one good picture .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>However , if you want a camera that you can just turn on , snap away on automatic , and get great results , this is NOT the camera for you .</Tokens>
+		<POS>RB , IN PRP VBP DT NN IN PRP MD RB VB RP , VB RB IN JJ , CC VB JJ NNS , DT VBZ RB DT NN IN PRP .</POS>
+		<Lemma>however , if you want a camera that you can just turn on , snap away on automatic , and get great result , this be not the camera for you .</Lemma>
+	</Sentence>
+</Document>

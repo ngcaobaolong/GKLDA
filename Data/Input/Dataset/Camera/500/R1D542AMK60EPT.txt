@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What I wanted this for was a point in shoot that took decent quality photos for my everyday shooting ; the baby , things around the house .</Tokens>
+		<POS>WP PRP VBD DT IN VBD DT NN IN NN IN VBD JJ NN NNS IN PRP$ JJ NN : DT NN , NNS IN DT NN .</POS>
+		<Lemma>what I want this for be a point in shoot that take decent quality photo for my everyday shooting ; the baby , thing around the house .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm still not sure about this camera though and if it will stand up to my needs .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT NN IN CC IN PRP MD VB RP TO PRP$ NNS .</POS>
+		<Lemma>I be still not sure about this camera though and if it will stand up to my need .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>as basic as they are .</Tokens>
+		<POS>IN JJ IN PRP VBP .</POS>
+		<Lemma>as basic as they be .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>First of all , the flash is either off or `` auto '' .</Tokens>
+		<POS>NNP IN DT , DT NN VBZ CC IN CC `` NN '' .</POS>
+		<Lemma>First of all , the flash be either off or `` auto '' .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So far I have n't seen anything that indicates that I can force the camera to take a picture with a flash .</Tokens>
+		<POS>RB RB PRP VBP RB VBN NN WDT VBZ IN PRP MD VB DT NN TO VB DT NN IN DT NN .</POS>
+		<Lemma>so far I have not see anything that indicate that I can force the camera to take a picture with a flash .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So , trying to take pictures of my new kitchen and my new hanging lights , if those lights are on the camera will automatically turn the flash off and you just get a picture of something glowing .</Tokens>
+		<POS>RB , VBG TO VB NNS IN PRP$ JJ NN CC PRP$ JJ NN NNS , IN DT NNS VBP IN DT NN MD RB VB DT NN RB CC PRP RB VB DT NN IN NN JJ .</POS>
+		<Lemma>so , try to take picture of my new kitchen and my new hanging light , if those light be on the camera will automatically turn the flash off and you just get a picture of something glowing .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The features of this camera are pretty neat .</Tokens>
+		<POS>DT NNS IN DT NN VBP RB JJ .</POS>
+		<Lemma>the feature of this camera be pretty neat .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You can edit your pictures and take pictures with different effect automatically and taking 2D and 3D panoramic photos is convenient .</Tokens>
+		<POS>PRP MD VB PRP$ NNS CC VB NNS IN JJ NN RB CC VBG NN CC NN JJ NNS VBZ JJ .</POS>
+		<Lemma>you can edit you picture and take picture with different effect automatically and take 2d and 3d panoramic photo be convenient .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The fact that the screen adjusts to any angle is pretty neat too .</Tokens>
+		<POS>DT NN IN DT NN VBZ TO DT NN VBZ RB JJ RB .</POS>
+		<Lemma>the fact that the screen adjust to any angle be pretty neat too .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Another down side is the zoom .</Tokens>
+		<POS>DT IN NN VBZ DT NN .</POS>
+		<Lemma>another down side be the zoom .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>This would n't even be a good camera for taking to the zoo .</Tokens>
+		<POS>DT MD RB RB VB DT JJ NN IN VBG TO DT NN .</POS>
+		<Lemma>this would not even be a good camera for take to the zoo .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The camera on my phone would work just as well .</Tokens>
+		<POS>DT NN IN PRP$ NN MD VB RB RB RB .</POS>
+		<Lemma>the camera on my phone would work just as well .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>If I had n't bought this on amazon for $ 80 less than in stores , this would be returned .</Tokens>
+		<POS>IN PRP VBD RB VBN DT IN NN IN $ CD JJR IN IN NNS , DT MD VB VBN .</POS>
+		<Lemma>if I have not buy this on amazon for $ 80 less than in store , this would be return .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Personally , I think I should have stuck with Nikon .</Tokens>
+		<POS>RB , PRP VBP PRP MD VB VBN IN NNP .</POS>
+		<Lemma>personally , I think I should have stick with Nikon .</Lemma>
+	</Sentence>
+</Document>

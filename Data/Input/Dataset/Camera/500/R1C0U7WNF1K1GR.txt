@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For the price , it 's amazing .</Tokens>
+		<POS>IN DT NN , PRP VBZ JJ .</POS>
+		<Lemma>for the price , it be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Hardware seems a bit on the cheap side and the software is n't the best -LRB- not fully supported with Chrome or Firefox -RRB- but overall it ca n't be beat for the price .</Tokens>
+		<POS>NN VBZ DT NN IN DT JJ NN CC DT NN VBZ RB DT JJS -LRB- RB RB VBN IN NN CC NN -RRB- CC JJ PRP MD RB VB VBN IN DT NN .</POS>
+		<Lemma>hardware seem a bit on the cheap side and the software be not the best -lrb- not fully support with chrome or firefox -rrb- but overall it can not be beat for the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Image quality is good and the IRs function really well .</Tokens>
+		<POS>NN NN VBZ JJ CC DT NNS VBP RB RB .</POS>
+		<Lemma>image quality be good and the ir function really well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pan\/tilt is pretty good but can sometimes stick in one direction if using Chrome or Firefox -LRB- or phone software \* Android users see `` IP Cam Viewer Lite '' -RRB- If the hardware felt slightly less cheap and the `` software '' -LRB- web interface -RRB- was better I 'd give this product a full 5 stars .</Tokens>
+		<POS>NN VBZ RB JJ CC MD RB VB IN CD NN IN VBG NNP CC NNP -LRB- CC NN NN SYM NNP NNS VB `` NNP NNP NNP NNP '' -RRB- IN DT NN VBD RB JJR JJ CC DT `` NN '' -LRB- NN NN -RRB- VBD JJR PRP MD VB DT NN DT JJ CD NNS .</POS>
+		<Lemma>pan\/tilt be pretty good but can sometimes stick in one direction if use Chrome or Firefox -lrb- or phone software \* Android user see `` IP Cam Viewer Lite '' -rrb- if the hardware feel slightly less cheap and the `` software '' -lrb- web interface -rrb- be better I would give this product a full 5 star .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you 're looking for some indoor cameras , however , this is what you should be considering .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NNS , RB , DT VBZ WP PRP MD VB VBG .</POS>
+		<Lemma>if you be look for some indoor camera , however , this be what you should be consider .</Lemma>
+	</Sentence>
+</Document>

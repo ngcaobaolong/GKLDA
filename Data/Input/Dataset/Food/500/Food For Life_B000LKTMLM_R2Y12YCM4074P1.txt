@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the best cereal out there although takes a little getting used to .</Tokens>
+		<POS>DT VBZ DT JJS NN IN RB IN VBZ DT JJ VBG VBN TO .</POS>
+		<Lemma>this be the best cereal out there although take a little get use to .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have tried soaking in water for 2 hours and steam for just one minute in the microwave to make it soft .</Tokens>
+		<POS>PRP VBP VBN VBG IN NN IN CD NNS CC NN IN RB CD NN IN DT NN TO VB PRP JJ .</POS>
+		<Lemma>I have try soak in water for 2 hour and steam for just one minute in the microwave to make it soft .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great addition to soups\/yogurt\/milk .</Tokens>
+		<POS>JJ NN TO NN .</POS>
+		<Lemma>great addition to soups\/yogurt\/milk .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I eat one slice of ezekiel bread and 1\/4c of their cereal as a part of my healthy diet .</Tokens>
+		<POS>PRP VBP CD NN IN NN NN CC NN IN PRP$ NN IN DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>I eat one slice of ezekiel bread and 1\/4c of they cereal as a part of my healthy diet .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this acer monitor it 's perfect display good size ... am using it with my Mac mini at 1080p and looks really nice .</Tokens>
+		<POS>PRP VBP DT NN NN PRP VBZ JJ NN JJ NN : VBP VBG PRP IN PRP$ NNP NNS IN CD CC VBZ RB JJ .</POS>
+		<Lemma>I love this acer monitor it be perfect display good size ... be use it with my Mac minus at 1080p and look really nice .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My problem is that you will NOT be able to mount on the wall cause of the stand .</Tokens>
+		<POS>PRP$ NN VBZ IN PRP MD RB VB JJ TO VB IN DT NN NN IN DT NN .</POS>
+		<Lemma>my problem be that you will not be able to mount on the wall cause of the stand .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you do n't care about mounting it then its perfect .</Tokens>
+		<POS>IN PRP VBP RB VB IN VBG PRP RB PRP$ JJ .</POS>
+		<Lemma>if you do not care about mount it then its perfect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Got mine in two days , I looked for cheaper price on others site but Amazon has the best price and really fast shipping .</Tokens>
+		<POS>NNP NN IN CD NNS , PRP VBD IN JJR NN IN NNS NN CC NNP VBZ DT JJS NN CC RB JJ NN .</POS>
+		<Lemma>Got mine in two day , I look for cheaper price on other site but Amazon have the best price and really fast shipping .</Lemma>
+	</Sentence>
+</Document>

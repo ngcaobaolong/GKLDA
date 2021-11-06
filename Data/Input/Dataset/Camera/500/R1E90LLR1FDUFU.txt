@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received the HS20 o\/a April 7 , 2011 and I began using it right out of the box -LRB- I also have the Canon SX10IS and Minolta SLR 's -RRB- .</Tokens>
+		<POS>PRP VBD DT NN NN NNP CD , CD CC PRP VBD VBG PRP JJ IN IN DT NN -LRB- PRP RB VBP DT NNP NN CC NNP NNP POS -RRB- .</POS>
+		<Lemma>I receive the hs20 o\/a April 7 , 2011 and I begin use it right out of the box -lrb- I also have the Canon sx10i and Minolta SLR 's -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have not yet used it to its fullest potential , but so far , here is my initial reaction to the HS20 : 1 -RRB- pictures are vivid and sharp ; 2 -RRB- The manual zoom is a great feature ; 3 -RRB- taking macro pics is super easy -LRB- not so with the Canon SX10 !!! -RRB-</Tokens>
+		<POS>PRP VBP RB RB VBN PRP TO PRP$ JJS NN , CC RB RB , RB VBZ PRP$ JJ NN TO DT NN : LS -RRB- NNS VBP JJ CC JJ : LS -RRB- DT JJ NN VBZ DT JJ NN : LS -RRB- VBG NN NNS VBZ JJ JJ -LRB- RB RB IN DT NNP NN NN -RRB-</POS>
+		<Lemma>I have not yet use it to its fullest potential , but so far , here be my initial reaction to the hs20 : 1 -rrb- picture be vivid and sharp ; 2 -rrb- the manual zoom be a great feature ; 3 -rrb- take macro pic be super easy -lrb- not so with the Canon sx10 !!! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>; 4 -RRB- zoom range is very good , although a tripod is a must at the higher zoom ranges in order to get the sharpest pics possible ; 5 -RRB- auto focusing is significantly more accurate than the Canon SX10IS .</Tokens>
+		<POS>: LS -RRB- NN NN VBZ RB JJ , IN DT NN VBZ DT MD IN DT JJR NN NNS IN NN TO VB DT JJS NNS JJ : LS -RRB- NN VBG VBZ RB RBR JJ IN DT NNP NN .</POS>
+		<Lemma>; 4 -rrb- zoom range be very good , although a tripod be a must at the higher zoom range in order to get the sharpest pic possible ; 5 -rrb- auto focus be significantly more accurate than the Canon sx10i .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For the short time that I 've been using the camera I give it 4 stars as I really `` like it '' .</Tokens>
+		<POS>IN DT JJ NN IN PRP VBP VBN VBG DT NN PRP VBP PRP CD NNS IN PRP RB `` IN PRP '' .</POS>
+		<Lemma>for the short time that I have be use the camera I give it 4 star as I really `` like it '' .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>As I become totally familiar with the myriad of features I believe I will `` love it '' and give it 5 STARS !</Tokens>
+		<POS>IN PRP VBP RB JJ IN DT JJ IN NNS PRP VBP PRP MD `` VB PRP '' CC VB PRP CD NNS .</POS>
+		<Lemma>as I become totally familiar with the myriad of feature I believe I will `` love it '' and give it 5 star !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>IMHOP , this camera is as close as you can get to a DSLR and I recommend it to anyone who has thought about buying a DSLR .</Tokens>
+		<POS>NNP , DT NN VBZ RB JJ IN PRP MD VB TO DT NN CC PRP VBP PRP TO NN WP VBZ VBN IN VBG DT NN .</POS>
+		<Lemma>IMHOP , this camera be as close as you can get to a dslr and I recommend it to anyone who have think about buy a dslr .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I do not recommend the HS20 to users who want to just `` point and shoot '' as they will find it too big and too complicated .</Tokens>
+		<POS>PRP VBP RB VB DT NN TO NNS WP VBP TO RB `` NN CC NN '' IN PRP MD VB PRP RB JJ CC RB JJ .</POS>
+		<Lemma>I do not recommend the hs20 to user who want to just `` point and shoot '' as they will find it too big and too complicated .</Lemma>
+	</Sentence>
+</Document>

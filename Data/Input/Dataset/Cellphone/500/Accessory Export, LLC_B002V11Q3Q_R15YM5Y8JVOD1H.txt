@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The data cable I ordered did not come in the package from this company .</Tokens>
+		<POS>DT NNS NN PRP VBD VBD RB VBN IN DT NN IN DT NN .</POS>
+		<Lemma>the datum cable I order do not come in the package from this company .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A pair of earbuds came instead .</Tokens>
+		<POS>DT NN IN NNS VBD RB .</POS>
+		<Lemma>a pair of earbud come instead .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After contacting Oriongadgets by email , I quickly rec 'd the correct item .</Tokens>
+		<POS>IN VBG NNS IN NN , PRP RB NN VBD DT JJ NN .</POS>
+		<Lemma>after contact oriongadget by email , I quickly rec have the correct item .</Lemma>
+	</Sentence>
+</Document>

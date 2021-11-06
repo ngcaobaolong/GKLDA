@@ -1,0 +1,227 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Typically when using a netbook , you are giving up the performance and features of a full sized netbook .</Tokens>
+		<POS>RB WRB VBG DT NN , PRP VBP VBG RP DT NN CC NNS IN DT JJ VBN NN .</POS>
+		<Lemma>typically when use a netbook , you be give up the performance and feature of a full size netbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However this netbook is at the top if its class when it comes to netbooks , and its capabilities are nearing those of a full size laptop .</Tokens>
+		<POS>RB DT NN VBZ IN DT JJ IN PRP$ NN WRB PRP VBZ TO NNS , CC PRP$ NNS VBP VBG DT IN DT JJ NN NN .</POS>
+		<Lemma>however this netbook be at the top if its class when it come to netbook , and its capability be near those of a full size laptop .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This netbook features a dual core high end netbook processor with integrated ATI graphics utilizing 256MB dedicated RAM , Windows 7 Home Premium 64 bit , has 2GB RAM standard , a 320GB HDD , and 1366 X 768 resolution screen .</Tokens>
+		<POS>DT NN VBZ DT JJ NN JJ NN NN NN IN VBN NNP NNS VBG NN VBN NNP , NNP CD NNP NNP CD NN , VBZ CD NNP NN , DT NN NN , CC CD NN CD NN NN .</POS>
+		<Lemma>this netbook feature a dual core high end netbook processor with integrate ATI graphic utilize 256mb dedicate RAM , Windows 7 Home Premium 64 bit , have 2gb RAM standard , a 320gb hdd , and 1366 x 768 resolution screen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>These specs are actually approaching the specs of a regular notebook .</Tokens>
+		<POS>DT NNS VBP RB VBG DT NNS IN DT JJ NN .</POS>
+		<Lemma>these spec be actually approach the spec of a regular notebook .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Today I , purchased two of these netbooks today at Target .</Tokens>
+		<POS>NN NN , VBD CD IN DT NNS NN IN NN .</POS>
+		<Lemma>today i , purchase two of these netbook today at target .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Sale price of $ 198 , then 5 % off using a Target card , and another 5 % off for using a Target pharmacy rewards coupon .</Tokens>
+		<POS>NN NN IN $ CD , RB CD NN IN VBG DT NN NN , CC DT CD NN IN IN VBG DT NN NN NNS NN .</POS>
+		<Lemma>sale price of $ 198 , then 5 % off use a target card , and another 5 % off for use a target pharmacy reward coupon .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So I scored each one for $ 178 .</Tokens>
+		<POS>IN PRP VBD DT CD IN $ CD .</POS>
+		<Lemma>so I score each one for $ 178 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>A tremendous deal .</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>a tremendous deal .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I set them both up today , one for my 9 yr old daughter to do basic learning activities and simple paper writing on , and one for my wife who travels from clinic to clinic and wanted something super light .</Tokens>
+		<POS>PRP VBD PRP DT RP NN , CD IN PRP$ CD NN JJ NN TO VB JJ NN NNS CC JJ NN VBG IN , CC CD IN PRP$ NN WP VBZ IN NN TO NN CC VBD NN JJ NN .</POS>
+		<Lemma>I set they both up today , one for my 9 yr old daughter to do basic learning activity and simple paper write on , and one for my wife who travel from clinic to clinic and want something super light .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I am impressed .</Tokens>
+		<POS>PRP VBP JJ .</POS>
+		<Lemma>I be impressed .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Even out of the box , with the standard 2GB of RAM , this machine seems more than adequate to do basic tasks .</Tokens>
+		<POS>RB IN IN DT NN , IN DT JJ NN IN NNP , DT NN VBZ JJR IN JJ TO VB JJ NNS .</POS>
+		<Lemma>even out of the box , with the standard 2gb of RAM , this machine seem more than adequate to do basic task .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It certainly does web browsing , email , Microsoft Word and Excel with ease and no hesitation .</Tokens>
+		<POS>PRP RB VBZ NN NN , NN , NNP NNP CC NNP IN NN CC DT NN .</POS>
+		<Lemma>it certainly do web browsing , email , Microsoft Word and Excel with ease and no hesitation .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Like others , with the price of RAM so cheap , I 'll be installing a 4GB RAM SODIMM to get that little bit of extra performance .</Tokens>
+		<POS>IN NNS , IN DT NN IN NNP RB JJ , PRP MD VB VBG DT NN NNP NNP TO VB DT JJ NN IN JJ NN .</POS>
+		<Lemma>like other , with the price of RAM so cheap , I 'll be install a 4gb RAM SODIMM to get that little bit of extra performance .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Which brings up another point , this netbook is EASILY upgradeable .</Tokens>
+		<POS>WDT VBZ RP DT NN , DT NN VBZ RB JJ .</POS>
+		<Lemma>which bring up another point , this netbook be easily upgradeable .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The entire back cover comes off with one screw .</Tokens>
+		<POS>DT JJ JJ NN VBZ RP IN CD NN .</POS>
+		<Lemma>the entire back cover come off with one screw .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Easy access to the RAM , HDD , and even an empty mini PCIe slot .</Tokens>
+		<POS>NNP NN TO DT NNP , NNP , CC RB DT JJ NN NN NN .</POS>
+		<Lemma>Easy access to the RAM , HDD , and even a empty minus pcie slot .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>= = = = = = = = = = = = = Update 25 Nov 2011 : It has been 3 weeks now since I have had this netbook .</Tokens>
+		<POS>JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ NNP CD NNP CD : PRP VBZ VBN CD NNS RB IN PRP VBP VBN DT NN .</POS>
+		<Lemma>= = = = = = = = = = = = = Update 25 Nov 2011 : it have be 3 week now since I have have this netbook .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>No complaints so far .</Tokens>
+		<POS>DT NNS RB RB .</POS>
+		<Lemma>no complaint so far .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I did the RAM upgrade , which has increased performance a small bit .</Tokens>
+		<POS>PRP VBD DT NNP NN , WDT VBZ VBN NN DT JJ NN .</POS>
+		<Lemma>I do the RAM upgrade , which have increase performance a small bit .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The biggest performance improvements were to uninstall all bloatware and the antivirus that it shipped with .</Tokens>
+		<POS>DT JJS NN NNS VBD TO VB DT NN CC DT NNS IN PRP VBD IN .</POS>
+		<Lemma>the biggest performance improvement be to uninstall all bloatware and the antivirus that it ship with .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I installed Microsoft Security Essentials which is a lightweight basic antivirus\/antimalware product provided free by Microsoft .</Tokens>
+		<POS>PRP VBD NNP NNP NNS WDT VBZ DT JJ JJ JJ NN VBN JJ IN NNP .</POS>
+		<Lemma>I install Microsoft Security essential which be a lightweight basic antivirus\/antimalware product provide free by Microsoft .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I decided I wanted integrated Bluetooth .</Tokens>
+		<POS>PRP VBD PRP VBD VBN NNP .</POS>
+		<Lemma>I decide I want integrate Bluetooth .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Since the chipset used for the original wireless WiFi is Atheros , I decided I should find an Atheros solution to thwart off any possibility of compatibility problems .</Tokens>
+		<POS>IN DT NN VBN IN DT JJ JJ NN VBZ NNP , PRP VBD PRP MD VB DT NNP NN TO VB RP DT NN IN NN NNS .</POS>
+		<Lemma>since the chipset use for the original wireless wifus be Atheros , I decide I should find a Atheros solution to thwart off any possibility of compatibility problem .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>A search on the internet for mini PCIe Atheros came up with some listings on Ebay .</Tokens>
+		<POS>DT NN IN DT NN IN NNS NNP NNP VBD RP IN DT NNS IN NNP .</POS>
+		<Lemma>a search on the internet for minus PCIe Atheros come up with some listing on Ebay .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>The one I settled on is an Atheros AR5B195 Wireless + Bluetooth Half Mini PCI-E Card for $ 21 including shipping .</Tokens>
+		<POS>DT CD PRP VBD RP VBZ DT NNP NNP NNP CC NNP NN NNP NNP NNP IN $ CD VBG NN .</POS>
+		<Lemma>the one I settle on be a Atheros AR5B195 Wireless + Bluetooth half Mini PCI-E Card for $ 21 include shipping .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>The combo WiFi\/Bluetooth card arrived a few days ago and I installed it .</Tokens>
+		<POS>DT NN NNP NN VBD DT JJ NNS RB CC PRP VBD PRP .</POS>
+		<Lemma>the combo WiFi\/Bluetooth card arrive a few day ago and I install it .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>It was a very simple procedure to remove the existing wireless card -LRB- open the case , pop off the antennae leads , remove the hold down screw -RRB- Reverse the procedure to install the new card .</Tokens>
+		<POS>PRP VBD DT RB JJ NN TO VB DT VBG JJ NN -LRB- JJ DT NN , NN IN DT NNS VBZ , VB DT NN RP NN -RRB- VBP DT NN TO VB DT JJ NN .</POS>
+		<Lemma>it be a very simple procedure to remove the exist wireless card -lrb- open the case , pop off the antenna lead , remove the hold down screw -rrb- reverse the procedure to install the new card .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>The new card also has two antennae connections .</Tokens>
+		<POS>DT JJ NN RB VBZ CD NNS NNS .</POS>
+		<Lemma>the new card also have two antenna connection .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>WiFi and Bluetooth share the antennae .</Tokens>
+		<POS>NNS CC NNP VBP DT NNS .</POS>
+		<Lemma>wifus and Bluetooth share the antenna .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Two sets of drivers are needed .</Tokens>
+		<POS>CD NNS IN NNS VBP VBN .</POS>
+		<Lemma>two set of driver be need .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>The Atheros Bluetooth drivers can be found on the Acer Aspire One AO722 drivers section .</Tokens>
+		<POS>DT NNP NNP NNS MD VB VBN IN DT NNP NNP CD NN NNS NN .</POS>
+		<Lemma>the Atheros Bluetooth driver can be find on the Acer Aspire one ao722 driver section .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>The Atheros WiFi drivers were a bit hard to find .</Tokens>
+		<POS>DT NNP NNP NNS VBD DT NN JJ TO VB .</POS>
+		<Lemma>the Atheros WiFi driver be a bit hard to find .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>I tried several different ones before I had success .</Tokens>
+		<POS>PRP VBD JJ JJ NNS IN PRP VBD NN .</POS>
+		<Lemma>I try several different one before I have success .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>The successful driver was a Dell DW1702 wireless card driver .</Tokens>
+		<POS>DT JJ NN VBD DT NNP NN JJ NN NN .</POS>
+		<Lemma>the successful driver be a Dell dw1702 wireless card driver .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>R301705 .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>r301705 .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>exe .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>exe .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>The driver did not want to initially install probably because the driver package was looking for a Dell machine .</Tokens>
+		<POS>DT NN VBD RB VB TO RB VB RB IN DT NN NN VBD VBG IN DT NNP NN .</POS>
+		<Lemma>the driver do not want to initially install probably because the driver package be look for a Dell machine .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>So what I did was go to the device manager , pick the network device not working -LRB- our new Atheros card -RRB- and install the driver by hand by pointing to the Dell driver directory .</Tokens>
+		<POS>RB WP PRP VBD VBD VB TO DT NN NN , VB DT NN NN RB VBG -LRB- PRP$ JJ NNP NN -RRB- CC VB DT NN IN NN IN VBG TO DT NNP NN NN .</POS>
+		<Lemma>so what I do be go to the device manager , pick the network device not work -lrb- we new Atheros card -rrb- and install the driver by hand by point to the Dell driver directory .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Voila , the driver installed .</Tokens>
+		<POS>NNP , DT NN VBN .</POS>
+		<Lemma>Voila , the driver install .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>As soon as the driver was installed , wireless was again available .</Tokens>
+		<POS>RB RB IN DT NN VBD VBN , NN VBD RB JJ .</POS>
+		<Lemma>as soon as the driver be install , wireless be again available .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>Everything appears to be working fine .</Tokens>
+		<POS>NN VBZ TO VB VBG NN .</POS>
+		<Lemma>everything appear to be work fine .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>I can now use a Bluetooth mouse without a dongle !</Tokens>
+		<POS>PRP MD RB VB DT NNP NN IN DT NN .</POS>
+		<Lemma>I can now use a Bluetooth mouse without a dongle !</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>= = = = = = = = = = = = = = = = = = = = = Update Dec 14 , 2011 Microsoft has just released Silverlight 5 which utilizes GPU acceleration .</Tokens>
+		<POS>JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ NNP NNP CD , CD NNP VBZ RB VBN NNP CD WDT VBZ NNP NN .</POS>
+		<Lemma>= = = = = = = = = = = = = = = = = = = = = Update Dec 14 , 2011 Microsoft have just release Silverlight 5 which utilize GPU acceleration .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>Now Netflix is actually usable !</Tokens>
+		<POS>RB NNP VBZ RB JJ .</POS>
+		<Lemma>now Netflix be actually usable !</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>HD content appeared to be missing frames , but SD content plays fine .</Tokens>
+		<POS>NN NN VBD TO VB VBG NNS , CC NN NN VBZ NN .</POS>
+		<Lemma>hd content appear to be miss frame , but sd content play fine .</Lemma>
+	</Sentence>
+</Document>

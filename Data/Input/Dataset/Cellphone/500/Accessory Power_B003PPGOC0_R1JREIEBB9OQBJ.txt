@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to play music from my Samsung Galaxy S2 through my car radio .</Tokens>
+		<POS>PRP VBD DT TO VB NN IN PRP$ NNP NNP NN IN PRP$ NN NN .</POS>
+		<Lemma>I buy this to play music from my Samsung Galaxy s2 through my car radio .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Before I was using line out with a tape that went into my car tape deck -LRB- I have a 2000 car and do not have a line in -RRB- .</Tokens>
+		<POS>IN PRP VBD VBG NN IN IN DT NN WDT VBD IN PRP$ NN NN NN -LRB- PRP VBP DT CD NN CC VBP RB VB DT NN IN -RRB- .</POS>
+		<Lemma>before I be use line out with a tape that go into my car tape deck -lrb- I have a 2000 car and do not have a line in -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That is too many wires and a mess .</Tokens>
+		<POS>DT VBZ RB JJ NNS CC DT NN .</POS>
+		<Lemma>that be too many wire and a mess .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I had tried other fm transmitters before but the sound was awful .</Tokens>
+		<POS>PRP VBD VBN JJ NN NNS IN CC DT NN VBD JJ .</POS>
+		<Lemma>I have try other fm transmitter before but the sound be awful .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This device is perfect for me .</Tokens>
+		<POS>DT NN VBZ JJ IN PRP .</POS>
+		<Lemma>this device be perfect for I .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Not very expensive .</Tokens>
+		<POS>RB RB JJ .</POS>
+		<Lemma>not very expensive .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The sound is very good , almost as good as the one with line out to the tape deck .</Tokens>
+		<POS>DT NN VBZ RB JJ , RB RB JJ IN DT CD IN NN IN TO DT NN NN .</POS>
+		<Lemma>the sound be very good , almost as good as the one with line out to the tape deck .</Lemma>
+	</Sentence>
+</Document>

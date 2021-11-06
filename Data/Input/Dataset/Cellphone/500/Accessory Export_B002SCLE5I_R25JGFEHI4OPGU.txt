@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I mainly bought these for my elderly inlaws who could n't get a signal inside their home , after adding the booster strip they were able to receive a signal .</Tokens>
+		<POS>PRP RB VBD DT IN PRP$ JJ NNS WP MD RB VB DT NN IN PRP$ NN , IN VBG DT NN NN PRP VBD JJ TO VB DT NN .</POS>
+		<Lemma>I mainly buy these for my elderly inlaw who could not get a signal inside they home , after add the booster strip they be able to receive a signal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I also was able to pick up a better signal after adding one to my phone .</Tokens>
+		<POS>PRP RB VBD JJ TO VB RP DT JJR NN IN VBG CD TO PRP$ NN .</POS>
+		<Lemma>I also be able to pick up a better signal after add one to my phone .</Lemma>
+	</Sentence>
+</Document>

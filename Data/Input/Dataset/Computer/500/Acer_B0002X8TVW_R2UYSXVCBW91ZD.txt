@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I did a long review of many 17 and 19 inches LCD .</Tokens>
+		<POS>PRP VBD DT JJ NN IN JJ CD CC CD NNS NNS .</POS>
+		<Lemma>I do a long review of many 17 and 19 inch lcd .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one has the price of a 17 , but it 's big !</Tokens>
+		<POS>DT NN VBZ DT NN IN DT CD , CC PRP VBZ JJ .</POS>
+		<Lemma>this one have the price of a 17 , but it be big !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It does n't have USB ports , or DVI input ; but is a good bang for the buck in this price range .</Tokens>
+		<POS>PRP VBZ RB VB JJ NNS , CC NNP NN : CC VBZ DT JJ NN IN DT NN IN DT NN NN .</POS>
+		<Lemma>it do not have usb port , or DVI input ; but be a good bang for the buck in this price range .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Image quality , colors , auto config , they all are very good .</Tokens>
+		<POS>NN NN , NNS , NN NN , PRP DT VBP RB JJ .</POS>
+		<Lemma>image quality , color , auto config , they all be very good .</Lemma>
+	</Sentence>
+</Document>

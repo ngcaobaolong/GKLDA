@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Original review -- I thought I had purchased salt with almonds in it .</Tokens>
+		<POS>JJ NN : PRP VBD PRP VBD VBN NN IN NNS IN PRP .</POS>
+		<Lemma>original review -- I think I have purchase salt with almond in it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The amount of salt is RIDICULOUS and very unhealthy .</Tokens>
+		<POS>DT NN IN NN VBZ JJ CC RB JJ .</POS>
+		<Lemma>the amount of salt be ridiculous and very unhealthy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Almonds are a healthy snack but not if they are this salty .</Tokens>
+		<POS>NNS VBP DT JJ NN CC RB IN PRP VBP DT NN .</POS>
+		<Lemma>almond be a healthy snack but not if they be this salty .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>UPDATE -- I contacted the company and they provided a replacement .</Tokens>
+		<POS>VB : PRP VBD DT NN CC PRP VBD DT NN .</POS>
+		<Lemma>update -- I contact the company and they provide a replacement .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The new bag was perfect , the almonds were tasty and not too salty .</Tokens>
+		<POS>DT JJ NN VBD JJ , DT NNS VBD JJ CC RB RB JJ .</POS>
+		<Lemma>the new bag be perfect , the almond be tasty and not too salty .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It seems that I purchased a bag from a bad batch .</Tokens>
+		<POS>PRP VBZ IN PRP VBD DT NN IN DT JJ NN .</POS>
+		<Lemma>it seem that I purchase a bag from a bad batch .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The company was prompt at correcting the problem .</Tokens>
+		<POS>DT NN VBD JJ IN VBG DT NN .</POS>
+		<Lemma>the company be prompt at correct the problem .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I originally gave the product a 1 star rating , I 'm updating the review and giving the product 4 stars .</Tokens>
+		<POS>PRP RB VBD DT NN DT CD NN NN , PRP VBP VBG DT NN CC VBG DT NN CD NNS .</POS>
+		<Lemma>I originally give the product a 1 star rating , I be update the review and give the product 4 star .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>they just do not make a differance today i put 3 on one phone and still no improvment .</Tokens>
+		<POS>PRP RB VBP RB VB DT NN NN FW VBD CD IN CD NN CC RB DT NN .</POS>
+		<Lemma>they just do not make a differance today i put 3 on one phone and still no improvment .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>but i keep trying to get better signil .</Tokens>
+		<POS>CC FW VB VBG TO VB JJR NN .</POS>
+		<Lemma>but i keep try to get better signil .</Lemma>
+	</Sentence>
+</Document>

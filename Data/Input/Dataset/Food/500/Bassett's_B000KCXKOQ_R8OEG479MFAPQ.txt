@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased these as Dr. Who always eats them so I thought Dr. Stew should give them a try .</Tokens>
+		<POS>PRP VBD DT IN NNP WP RB VBZ PRP IN PRP VBD NNP NNP MD VB PRP DT NN .</POS>
+		<Lemma>I purchase these as Dr. who always eat they so I think Dr. Stew should give they a try .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>At first I did n't care too much for them .</Tokens>
+		<POS>IN JJ PRP VBD RB VB RB JJ IN PRP .</POS>
+		<Lemma>at first I do not care too much for they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The outside is close to a gummy bear but softer and the inside is like a thick sugar\/jelly substance .</Tokens>
+		<POS>DT NN VBZ JJ TO DT NN NN CC JJR CC DT NN VBZ IN DT JJ JJ NN .</POS>
+		<Lemma>the outside be close to a gummy bear but softer and the inside be like a thick sugar\/jelly substance .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They do not taste bad and are made with natural fruit juices and colorants .</Tokens>
+		<POS>PRP VBP RB VB JJ CC VBP VBN IN JJ NN NNS CC NNS .</POS>
+		<Lemma>they do not taste bad and be make with natural fruit juice and colorant .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>One thing about them is that I found I ate far less of these per snacking session than I did gummy bears so it might be a good choice for parents .</Tokens>
+		<POS>CD NN IN PRP VBZ IN PRP VBD PRP VBD RB JJR IN DT IN VBG NN IN PRP VBD JJ NNS IN PRP MD VB DT JJ NN IN NNS .</POS>
+		<Lemma>one thing about they be that I find I eat far less of these per snack session than I do gummy bear so it might be a good choice for parent .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My next try will be wine gums ...</Tokens>
+		<POS>PRP$ JJ NN MD VB NN NNS :</POS>
+		<Lemma>my next try will be wine gum ...</Lemma>
+	</Sentence>
+</Document>

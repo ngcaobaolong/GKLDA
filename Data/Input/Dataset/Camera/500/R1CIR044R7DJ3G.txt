@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've been working with these for a while now and I just ca n't support them .</Tokens>
+		<POS>PRP VBP VBN VBG IN DT IN DT NN RB CC PRP RB MD RB VB PRP .</POS>
+		<Lemma>I have be work with these for a while now and I just can not support they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've bought and returned 2 and am about to make it three .</Tokens>
+		<POS>PRP VBP VBN CC VBN CD CC VBP IN TO VB PRP CD .</POS>
+		<Lemma>I have buy and return 2 and be about to make it three .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are nice outdoor day cameras .</Tokens>
+		<POS>PRP VBP JJ JJ NN NNS .</POS>
+		<Lemma>they be nice outdoor day camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They are horrible night vision cameras .</Tokens>
+		<POS>PRP VBP JJ NN NN NNS .</POS>
+		<Lemma>they be horrible night vision camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Even when plugged in via a wired network , when it shifts to full night vision in low light they drop to 3.8 frames per second .</Tokens>
+		<POS>RB WRB VBN IN IN DT VBN NN , WRB PRP VBZ TO JJ NN NN IN JJ NN PRP VBP TO CD NNS IN NN .</POS>
+		<Lemma>even when plug in via a wire network , when it shift to full night vision in low light they drop to 3.8 frame per second .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And each frame is so blurry during any motion it is useless for identification .</Tokens>
+		<POS>CC DT NN VBZ RB JJ IN DT NN PRP VBZ JJ IN NN .</POS>
+		<Lemma>and each frame be so blurry during any motion it be useless for identification .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I was so hoping for it to work and kept trying .</Tokens>
+		<POS>PRP VBD RB VBG IN PRP TO VB CC VBD VBG .</POS>
+		<Lemma>I be so hope for it to work and keep try .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But when I finally got definitive support , Foscam just agreed with me that slow frame rate was all that would work .</Tokens>
+		<POS>CC WRB PRP RB VBD JJ NN , NNP RB VBD IN PRP IN JJ NN NN VBD DT DT MD VB .</POS>
+		<Lemma>but when I finally get definitive support , Foscam just agree with I that slow frame rate be all that would work .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So , do n't buy it for night vision .</Tokens>
+		<POS>RB , VBP RB VB PRP IN NN NN .</POS>
+		<Lemma>so , do not buy it for night vision .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But if a day cam is fine .</Tokens>
+		<POS>CC IN DT NN NN VBZ JJ .</POS>
+		<Lemma>but if a day cam be fine .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>then have at it .</Tokens>
+		<POS>RB VB IN PRP .</POS>
+		<Lemma>then have at it .</Lemma>
+	</Sentence>
+</Document>

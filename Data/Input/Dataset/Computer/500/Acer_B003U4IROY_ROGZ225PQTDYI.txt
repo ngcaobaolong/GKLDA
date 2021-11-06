@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the 4th one I bought .</Tokens>
+		<POS>DT VBZ DT JJ CD PRP VBD .</POS>
+		<Lemma>this be the 4th one I buy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>One for each of my parents , one for my wife and now me !</Tokens>
+		<POS>CD IN DT IN PRP$ NNS , CD IN PRP$ NN CC RB PRP .</POS>
+		<Lemma>one for each of my parent , one for my wife and now I !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i recently shattered the top corner of my iPhone4 screen and wanted to get a cover that would prevent the shards of glass from scratching me or getting worse .</Tokens>
+		<POS>LS RB VBN DT JJ NN IN PRP$ NN NN CC VBD TO VB DT NN WDT MD VB DT NNS IN NN IN VBG PRP CC VBG JJR .</POS>
+		<Lemma>i recently shatter the top corner of my iphone4 screen and want to get a cover that would prevent the shard of glass from scratch I or get worse .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>this screen protector does that and more .</Tokens>
+		<POS>DT NN NN VBZ IN CC RBR .</POS>
+		<Lemma>this screen protector do that and more .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>no glare from the protector , keeps my phone clean , has a great fit and easy application .</Tokens>
+		<POS>DT NN IN DT NN , VBZ PRP$ NN JJ , VBZ DT JJ NN CC JJ NN .</POS>
+		<Lemma>no glare from the protector , keep my phone clean , have a great fit and easy application .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>would definitely recommend to a friend !</Tokens>
+		<POS>MD RB VB TO DT NN .</POS>
+		<Lemma>would definitely recommend to a friend !</Lemma>
+	</Sentence>
+</Document>

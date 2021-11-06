@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have taken quite a few pictures with my new camera .</Tokens>
+		<POS>PRP VBP VBN RB DT JJ NNS IN PRP$ JJ NN .</POS>
+		<Lemma>I have take quite a few picture with my new camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So far , I like it alot .</Tokens>
+		<POS>RB RB , PRP VBP PRP NN .</POS>
+		<Lemma>so far , I like it alot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is easy to use the pictures seem to be good quality .</Tokens>
+		<POS>PRP VBZ JJ TO VB CC DT NNS VBP TO VB JJ NN .</POS>
+		<Lemma>it be easy to use the picture seem to be good quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am so glad I held out for the green , I absolutely LOVE the color .</Tokens>
+		<POS>PRP VBP RB JJ PRP VBD RP IN DT JJ , PRP RB VBP DT NN .</POS>
+		<Lemma>I be so glad I hold out for the green , I absolutely love the color .</Lemma>
+	</Sentence>
+</Document>

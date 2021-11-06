@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this camera is very easy to use , looks good , it does what i expected .</Tokens>
+		<POS>DT NN VBZ RB JJ TO VB , VBZ JJ , PRP VBZ WP FW VBN .</POS>
+		<Lemma>this camera be very easy to use , look good , it do what i expect .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>the only problem is I have a wireless remote and when i got the camera it was working fine for couple of days and then it quit working with the remote .</Tokens>
+		<POS>DT JJ NN VBZ PRP VBP DT JJ JJ CC WRB FW VBD DT NN PRP VBD VBG NN IN NN IN NNS CC RB PRP VBD VBG IN DT JJ .</POS>
+		<Lemma>the only problem be I have a wireless remote and when i get the camera it be work fine for couple of day and then it quit work with the remote .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have test and the remote is good maybe something is wrong with the camera .</Tokens>
+		<POS>PRP VBP NN CC DT JJ VBZ JJ RB NN VBZ JJ IN DT NN .</POS>
+		<Lemma>I have test and the remote be good maybe something be wrong with the camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>everything other thing it 's a good camera .</Tokens>
+		<POS>NN JJ NN PRP VBZ DT JJ NN .</POS>
+		<Lemma>everything other thing it be a good camera .</Lemma>
+	</Sentence>
+</Document>

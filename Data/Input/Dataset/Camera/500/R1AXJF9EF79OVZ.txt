@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After trying mid priced binoculars -LRB- $ 160 - $ 350 -RRB- binoculars by Adlerblick and Celestron without being really satisfied , I splurged on the Fujinons 10x50 FMTR-SX .</Tokens>
+		<POS>IN VBG JJ VBN NNS -LRB- $ CD : $ CD -RRB- NNS IN NNP CC NNP IN VBG RB JJ , PRP VBD IN DT NNP NN NN .</POS>
+		<Lemma>after try mid price binoculars -lrb- $ 160 - $ 350 -rrb- binoculars by Adlerblick and Celestron without be really satisfied , I splurge on the Fujinons 10x50 fmtr-sx .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They arrived well packaged , and in perfect shape .</Tokens>
+		<POS>PRP VBD RB VBN , CC IN JJ NN .</POS>
+		<Lemma>they arrive well package , and in perfect shape .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are the sharpest , highest contrast , and brightest 10x50 binoculars I have ever used .</Tokens>
+		<POS>PRP VBP DT JJS , JJS NN , CC JJS NN NNS PRP VBP RB VBN .</POS>
+		<Lemma>they be the sharpest , highest contrast , and brightest 10x50 binoculars I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The optics are so good that even my very finicky astronomy buddy said -LRB- with obvious disappointment -RRB- , `` Yours are better , '' when he compared the view of the Pliades through my Fujinons vs. his $ 2600 8x42 birding binoculars .</Tokens>
+		<POS>DT NNS VBP RB JJ IN RB PRP$ RB JJ NN NN VBD -LRB- IN JJ NN -RRB- , `` NNP VBP RBR , '' WRB PRP VBD DT NN IN DT NNPS IN PRP$ NNS CC PRP$ $ CD NN NN NNS .</POS>
+		<Lemma>the optics be so good that even my very finicky astronomy buddy say -lrb- with obvious disappointment -rrb- , `` Yours be better , '' when he compare the view of the Pliades through my fujinon vs. he $ 2600 8x42 birding binoculars .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Fujinon optics are that good .</Tokens>
+		<POS>DT NNP NNS VBP DT JJ .</POS>
+		<Lemma>the Fujinon optics be that good .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Even from the suburbs I have been able to knock off Messier objects like nobody 's business .</Tokens>
+		<POS>RB IN DT NNS PRP VBP VBN JJ TO VB RP NNP NNS IN NN POS NN .</POS>
+		<Lemma>even from the suburb I have be able to knock off Messier object like nobody 's business .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Under a dark sky I found them indispensable for locating dim deep space objects to observe in my big 12.5 `` f5 dobsonian telescope .</Tokens>
+		<POS>IN DT JJ NN PRP VBD PRP JJ IN VBG JJ JJ NN NNS TO VB IN PRP$ JJ CD `` NN JJ NN .</POS>
+		<Lemma>under a dark sky I find they indispensable for locate dim deep space object to observe in my big 12.5 `` f5 dobsonian telescope .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Having said that , these binoculars have their drawbacks .</Tokens>
+		<POS>VBG VBD IN , DT NNS VBP PRP$ NNS .</POS>
+		<Lemma>have say that , these binoculars have they drawback .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>For 10x50 binoculars , they are heavy , sometimes too heavy for me for hiking , although they are still usable hand held .</Tokens>
+		<POS>IN CD NNS , PRP VBP JJ , RB RB JJ IN PRP IN VBG , IN PRP VBP RB JJ NN VBN .</POS>
+		<Lemma>for 10x50 binoculars , they be heavy , sometimes too heavy for I for hike , although they be still usable hand hold .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Like any 10x binoculars , they are best tripod mounted for nice , steady , views .</Tokens>
+		<POS>IN DT NN NNS , PRP VBP RB VBN VBN IN JJ , JJ , NNS .</POS>
+		<Lemma>like any 10x binoculars , they be best tripod mount for nice , steady , view .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>And unlike most binoculars , these Fujinons do not have a center focus - the eyepieces rotate individually to focus , making them almost useless for sports or birding , but just fine for astronomy or boating .</Tokens>
+		<POS>CC IN JJS NNS , DT NNS VBP RB VB DT NN NN : DT NNS VBP RB TO VB , VBG PRP RB JJ IN NNS CC NN , CC RB NN IN NN CC VBG .</POS>
+		<Lemma>and unlike most binoculars , these fujinon do not have a center focus - the eyepiece rotate individually to focus , make they almost useless for sport or birding , but just fine for astronomy or boat .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Because they are waterproof , they are good for boating , but they do not have a built-in compass , like other models , like this one 7x50 FMTRC-SX Binocular with compass When it comes to optics , you get what you pay for .</Tokens>
+		<POS>IN PRP VBP JJ , PRP VBP JJ IN VBG , CC PRP VBP RB VB DT JJ NN , IN JJ NNS , IN DT CD NN CD NN JJ IN NN NN WRB PRP VBZ TO NNS , PRP VBP WP PRP VBP IN .</POS>
+		<Lemma>because they be waterproof , they be good for boat , but they do not have a built-in compass , like other model , like this one 7x50 fmtrc-sx binocular with compass when it come to optics , you get what you pay for .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I could not be more satisfied with my Fujinon FMTR-SX binoculars .</Tokens>
+		<POS>PRP MD RB VB RBR JJ IN PRP$ NN NN NNS .</POS>
+		<Lemma>I could not be more satisfied with my fujinon fmtr-sx binoculars .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>They are the sharpest , brightest , highest contrast 10x50 binoculars I have ever used .</Tokens>
+		<POS>PRP VBP DT JJS , JJS , JJS NN NN NNS PRP VBP RB VBN .</POS>
+		<Lemma>they be the sharpest , brightest , highest contrast 10x50 binoculars I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>They have exceeded my expectations in every way .</Tokens>
+		<POS>PRP VBP VBN PRP$ NNS IN DT NN .</POS>
+		<Lemma>they have exceed my expectation in every way .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>No other binocular has pleased me more , or even come close .</Tokens>
+		<POS>DT JJ JJ VBZ VBN PRP RBR , CC RB VB RB .</POS>
+		<Lemma>no other binocular have please I more , or even come close .</Lemma>
+	</Sentence>
+</Document>

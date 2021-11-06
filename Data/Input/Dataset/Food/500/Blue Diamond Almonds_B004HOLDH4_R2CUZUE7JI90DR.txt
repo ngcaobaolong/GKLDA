@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are hands down the best roasted and salted almonds I have had .</Tokens>
+		<POS>DT VBP NNS IN DT JJS JJ CC JJ NNS PRP VBP VBN .</POS>
+		<Lemma>these be hand down the best roasted and salted almond I have have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Addictive yet healthy !</Tokens>
+		<POS>JJ RB JJ .</POS>
+		<Lemma>addictive yet healthy !</Lemma>
+	</Sentence>
+</Document>

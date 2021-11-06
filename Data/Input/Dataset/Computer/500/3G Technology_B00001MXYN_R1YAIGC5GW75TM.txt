@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sometimes it realy does n't matter if you buy a famous brand VS a generic .</Tokens>
+		<POS>RB PRP RB VBZ RB VB IN PRP VBP DT JJ NN VBZ DT JJ .</POS>
+		<Lemma>sometimes it realy do not matter if you buy a famous brand v a generic .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For example , canned peaches at the market .</Tokens>
+		<POS>IN NN , VBN NNS IN DT NN .</POS>
+		<Lemma>for example , can peach at the market .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There is n't much difference between one brand and the next .</Tokens>
+		<POS>EX VBZ RB JJ NN IN CD NN CC DT JJ .</POS>
+		<Lemma>there be not much difference between one brand and the next .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But , my expaerience in buying computer monitors , specifically `` Gem '' and `` 3G '' has taught me that the lower price also means lower quality , poor support and an over all lower value .</Tokens>
+		<POS>CC , PRP$ NN IN VBG NN NNS , RB `` NNP '' CC `` NN '' VBZ VBN PRP IN DT JJR NN RB VBZ JJR NN , JJ NN CC DT IN DT JJR NN .</POS>
+		<Lemma>but , my expaerience in buy computer monitor , specifically `` Gem '' and `` 3g '' have teach I that the lower price also mean lower quality , poor support and a over all lower value .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I ended up having to return several units , and wasting much of my valuble time .</Tokens>
+		<POS>PRP VBD RP VBG TO VB JJ NNS , CC VBG JJ IN PRP$ JJ NN .</POS>
+		<Lemma>I end up have to return several unit , and waste much of my valuble time .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In the end , I went ahead and bought a major brand and have been much happier .</Tokens>
+		<POS>IN DT NN , PRP VBD RB CC VBD DT JJ NN CC VBP VBN JJ JJR .</POS>
+		<Lemma>in the end , I go ahead and buy a major brand and have be much happier .</Lemma>
+	</Sentence>
+</Document>

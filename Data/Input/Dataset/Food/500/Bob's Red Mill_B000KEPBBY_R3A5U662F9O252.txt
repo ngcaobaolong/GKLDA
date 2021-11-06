@@ -1,0 +1,132 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I will be the first to admit that I am not usually one to recommend any of the higher priced soup mixes .</Tokens>
+		<POS>PRP MD VB DT JJ TO VB IN PRP VBP RB RB CD TO VB DT IN DT JJR VBN NN VBZ .</POS>
+		<Lemma>I will be the first to admit that I be not usually one to recommend any of the higher price soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Being a an old time soup maker from way back , I am not at all opposed to soup mixes for I have a couple of them I favor , and are even reviewed here on Amazon .</Tokens>
+		<POS>VBG DT DT JJ NN NN NN IN NN RB , PRP VBP RB IN DT VBN TO NN VBZ IN PRP VBP DT NN IN PRP PRP VBP , CC VBP RB VBN RB IN NNP .</POS>
+		<Lemma>be a a old time soup maker from way back , I be not at all oppose to soup mix for I have a couple of they I favor , and be even review here on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Bobs is probably the most expensive out of the lot however .</Tokens>
+		<POS>NNS VBZ RB DT RBS JJ IN IN DT NN RB .</POS>
+		<Lemma>bob be probably the most expensive out of the lot however .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have never bought Bobs mix from Amazon for it is available locally , -LRB- and fortunately at the same price Amazon offers it for -RRB- .</Tokens>
+		<POS>PRP VBP RB VBN NNS VBP IN NNP IN PRP VBZ JJ RB , -LRB- CC RB IN DT JJ NN NNP VBZ PRP IN -RRB- .</POS>
+		<Lemma>I have never buy bob mix from Amazon for it be available locally , -lrb- and fortunately at the same price Amazon offer it for -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Its easy to imagine that a veggie soup mix is just about the easiest blend of mix to come up with .</Tokens>
+		<POS>PRP$ JJ TO VB IN DT NN NN NN VBZ RB IN DT JJS VB IN NN TO VB RP IN .</POS>
+		<Lemma>its easy to imagine that a veggie soup mix be just about the easiest blend of mix to come up with .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They pretty much all have the same ingredients as to peas , peppers , corn , etc. .</Tokens>
+		<POS>PRP RB RB DT VBP DT JJ NNS IN TO NNS , NNS , NN , FW .</POS>
+		<Lemma>they pretty much all have the same ingredient as to pea , pepper , corn , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Its just the stock that is usually the random element as to its real flavor and return factor .</Tokens>
+		<POS>PRP$ RB DT NN WDT VBZ RB DT JJ NN IN TO PRP$ JJ NN CC NN NN .</POS>
+		<Lemma>its just the stock that be usually the random element as to its real flavor and return factor .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Bobs red mill mix however has definitely broken the mold as far as freeze dried veggies .</Tokens>
+		<POS>NNS JJ NN NN RB VBZ RB VBN DT NN IN RB IN NN VBD NNS .</POS>
+		<Lemma>bob red mill mix however have definitely break the mold as far as freeze dry veggy .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>They have to be the tastiest that I have ever eaten .</Tokens>
+		<POS>PRP VBP TO VB DT JJS IN PRP VBP RB VBN .</POS>
+		<Lemma>they have to be the tastiest that I have ever eat .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And believe me , as an old time camper and hiker with decades of experience with one pot dinners over an open fire , that is definitely going some .</Tokens>
+		<POS>CC VB PRP , IN DT JJ NN NN CC NN IN NNS IN NN IN CD NN NNS IN DT JJ NN , WDT VBZ RB VBG DT .</POS>
+		<Lemma>and believe I , as a old time camper and hiker with decade of experience with one pot dinner over a open fire , that be definitely go some .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I have tried just about everything that you can buy , and made everything that is n't .</Tokens>
+		<POS>PRP VBP VBN RB IN NN IN PRP MD VB , CC VBD NN WDT VBZ RB .</POS>
+		<Lemma>I have try just about everything that you can buy , and make everything that be not .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Trust me , Bobs has proven to me that not all dried veggies are anywhere near made the same .</Tokens>
+		<POS>NNP PRP , NNP VBZ VBN TO PRP IN RB DT VBD NNS VBP RB IN VBN DT JJ .</POS>
+		<Lemma>Trust I , Bobs have prove to I that not all dry veggy be anywhere near make the same .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>As for the stock , it is very flavorful .</Tokens>
+		<POS>IN IN DT NN , PRP VBZ RB JJ .</POS>
+		<Lemma>as for the stock , it be very flavorful .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I would have to say just a notch or two below my own stock .</Tokens>
+		<POS>PRP MD VB TO VB RB DT NN CC CD IN PRP$ JJ NN .</POS>
+		<Lemma>I would have to say just a notch or two below my own stock .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>-LRB- And trust me again , that is very much going some -RRB- !</Tokens>
+		<POS>-LRB- CC NN PRP RB , DT VBZ RB JJ VBG DT -RRB- .</POS>
+		<Lemma>-lrb- and trust I again , that be very much go some -rrb- !</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The only item I should mention is the same thing many other reviewers here have taken note of .</Tokens>
+		<POS>DT JJ NN PRP MD VB VBZ DT JJ NN JJ JJ NNS RB VBP VBN NN IN .</POS>
+		<Lemma>the only item I should mention be the same thing many other reviewer here have take note of .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>This is a no salt soup mix .</Tokens>
+		<POS>DT VBZ DT DT NN NN NN .</POS>
+		<Lemma>this be a no salt soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Not low salt , but none at all .</Tokens>
+		<POS>RB JJ NN , CC NN IN DT .</POS>
+		<Lemma>not low salt , but none at all .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I really think it is going some in the other direction to think someone could eat this without any salt at all and throughly enjoy it .</Tokens>
+		<POS>PRP RB VBP PRP VBZ VBG DT IN DT JJ NN TO VB NN MD VB DT IN DT NN IN DT CC RB VB PRP .</POS>
+		<Lemma>I really think it be go some in the other direction to think someone could eat this without any salt at all and throughly enjoy it .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>But considering how really fresh and delicious it tastes , adding your own level of salt is easy , and for some a very convenient alternative .</Tokens>
+		<POS>CC VBG WRB RB JJ CC JJ PRP VBZ , VBG PRP$ JJ NN IN NN VBZ JJ , CC IN DT DT RB JJ NN .</POS>
+		<Lemma>but consider how really fresh and delicious it taste , add you own level of salt be easy , and for some a very convenient alternative .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>If its variety you favor , consider this mix a base for anything you like .</Tokens>
+		<POS>IN PRP$ NN PRP VBP , VBP DT NN DT NN IN NN PRP VBP .</POS>
+		<Lemma>if its variety you favor , consider this mix a base for anything you like .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I have added beef to it , hamburger , chicken , pork , and even Italian sausage and they are all remembered as some of the best meals I have ever eaten .</Tokens>
+		<POS>PRP VBP VBN NN TO PRP , NN , NN , NN , CC RB JJ NN CC PRP VBP DT VBD IN DT IN DT JJS NNS PRP VBP RB VBN .</POS>
+		<Lemma>I have add beef to it , hamburger , chicken , pork , and even italian sausage and they be all remember as some of the best meal I have ever eat .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Franky I think this is the best soup mix I have ever had , plain , or doctored .</Tokens>
+		<POS>NNP PRP VBP DT VBZ DT JJS NN NN PRP VBP RB VBN , RB , CC VBN .</POS>
+		<Lemma>Franky I think this be the best soup mix I have ever have , plain , or doctor .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I recommend buying it here on Amazon if you ca n't find it locally .</Tokens>
+		<POS>PRP VBP VBG PRP RB IN NNP IN PRP MD RB VB PRP RB .</POS>
+		<Lemma>I recommend buy it here on Amazon if you can not find it locally .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>And that you order enough of it to qualify for the free shipping .</Tokens>
+		<POS>CC IN PRP NN RB IN PRP TO VB IN DT JJ NN .</POS>
+		<Lemma>and that you order enough of it to qualify for the free shipping .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Believe me after you have had this soup once , you will want it again and again ... Highly recommend .</Tokens>
+		<POS>VB PRP IN PRP VBP VBN DT NN RB , PRP MD VB PRP RB CC RB : RB VB .</POS>
+		<Lemma>believe I after you have have this soup once , you will want it again and again ... highly recommend .</Lemma>
+	</Sentence>
+</Document>

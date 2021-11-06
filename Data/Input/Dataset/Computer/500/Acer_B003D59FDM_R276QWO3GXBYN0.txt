@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For the money you ca n't beat it .</Tokens>
+		<POS>IN DT NN PRP MD RB VB PRP .</POS>
+		<Lemma>for the money you can not beat it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Dell 's similar monitor is over $ 300 .</Tokens>
+		<POS>NNP POS JJ NN VBZ IN $ CD .</POS>
+		<Lemma>Dell 's similar monitor be over $ 300 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sure more options but for me it serves my needs totally .</Tokens>
+		<POS>RB RBR NNS CC IN PRP PRP VBZ PRP$ NNS RB .</POS>
+		<Lemma>sure more option but for I it serve my need totally .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In fact others say not bright enough ?</Tokens>
+		<POS>IN NN NNS VBP RB JJ RB .</POS>
+		<Lemma>in fact other say not bright enough ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I find it too bright .</Tokens>
+		<POS>PRP VBP PRP RB JJ .</POS>
+		<Lemma>I find it too bright .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Retired and not a computer geek .</Tokens>
+		<POS>VBN CC RB DT NN NN .</POS>
+		<Lemma>retire and not a computer geek .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>For me its perfect and the quality for games and word docs is more than acceptable .</Tokens>
+		<POS>IN PRP PRP$ JJ CC DT NN IN NNS CC NN NNS VBZ JJR IN JJ .</POS>
+		<Lemma>for I its perfect and the quality for game and word doc be more than acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Would definately recommend it .</Tokens>
+		<POS>MD RB VB PRP .</POS>
+		<Lemma>would definately recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Besides , I hate widescreen monitors !!!!</Tokens>
+		<POS>IN , PRP VBP JJ NNS VBP</POS>
+		<Lemma>besides , I hate widescreen monitor !!!!</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Also one review said it does n't tilt ?</Tokens>
+		<POS>RB CD NN VBD PRP VBZ RB VB .</POS>
+		<Lemma>also one review say it do not tilt ?</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It certainly does .</Tokens>
+		<POS>PRP RB VBZ .</POS>
+		<Lemma>it certainly do .</Lemma>
+	</Sentence>
+</Document>

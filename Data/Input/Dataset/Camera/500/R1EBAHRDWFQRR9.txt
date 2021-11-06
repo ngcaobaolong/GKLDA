@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wo n't go into the nuts and bolts of what the micro four thirds format is about , as there are plenty of resources out there to consult if you want to learn about system cameras .</Tokens>
+		<POS>PRP MD RB VB IN DT NNS CC NNS IN WP DT JJ CD NNS NN VBZ RB , IN EX VBP NN IN NNS IN RB TO VB IN PRP VBP TO VB IN NN NNS .</POS>
+		<Lemma>I will not go into the nut and bolt of what the micro four third format be about , as there be plenty of resource out there to consult if you want to learn about system camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The short of it is that this is part of a standardized format of system cameras-meaning it has interchangeable lenses-that are meant to put a large image sensor into a small camera body , giving users the ability to get high quality shots without having to carry a DSLR around .</Tokens>
+		<POS>DT JJ IN PRP VBZ IN DT VBZ NN IN DT JJ NN IN NN JJ PRP VBZ JJ NN VBP VBN TO VB DT JJ NN NN IN DT JJ NN NN , VBG NNS DT NN TO VB JJ NN NNS IN VBG TO VB DT NN IN .</POS>
+		<Lemma>the short of it be that this be part of a standardized format of system cameras-meaning it have interchangeable lenses-that be mean to put a large image sensor into a small camera body , give user the ability to get high quality shot without have to carry a dslr around .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The recent trend with these small system cameras seems to market them toward the more casual user looking to step up from the ailing point-and-shoot market to something a bit more capable .</Tokens>
+		<POS>DT JJ NN IN DT JJ NN NNS VBZ TO VB PRP IN DT JJR JJ NN VBG TO VB RP IN DT VBG NN NN TO NN DT NN RBR JJ .</POS>
+		<Lemma>the recent trend with these small system camera seem to market they toward the more casual user look to step up from the ail point-and-shoot market to something a bit more capable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Despite the fact that the functionality of these new small system cameras is downplayed -LRB- I am sure as to not appear intimidating to people who are not devoted to intensely learning about camera operation and photography -RRB- , these models , this one included , are entirely capable of taking very , very high quality photos and allow a great amount of control over every aspect of your shot , should you desire it .</Tokens>
+		<POS>IN DT NN IN DT NN IN DT JJ JJ NN NNS VBZ VBN -LRB- PRP VBP JJ IN TO RB VB VBG TO NNS WP VBP RB VBN TO RB VBG IN NN NN CC NN -RRB- , DT NNS , DT CD VBD , VBP RB JJ IN VBG RB , RB JJ NN NNS CC VB DT JJ NN IN NN IN DT NN IN PRP$ NN , MD PRP VB PRP .</POS>
+		<Lemma>despite the fact that the functionality of these new small system camera be downplay -lrb- I be sure as to not appear intimidate to people who be not devote to intensely learn about camera operation and photography -rrb- , these model , this one include , be entirely capable of take very , very high quality photo and allow a great amount of control over every aspect of you shot , should you desire it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Honestly though , with the advances in auto-focus accuracy , white balance metering , etc. etc. , these cameras will be just fine when left on `` P '' mode -LRB- automatic settings -RRB- , or just used with simple shutter or aperture priority modes , since they do a fine job at handling the technical stuff ; you do n't need to constantly fiddle with them to get excellent results .</Tokens>
+		<POS>RB RB , IN DT NNS IN NN NN , JJ NN NN , FW FW , DT NNS MD VB RB JJ WRB VBN IN `` NN '' NN -LRB- JJ NNS -RRB- , CC RB VBN IN JJ NN CC NN NN NNS , IN PRP VBP DT JJ NN IN VBG DT JJ NN : PRP VBP RB VB TO RB NN IN PRP TO VB JJ NNS .</POS>
+		<Lemma>honestly though , with the advance in auto-focus accuracy , white balance metering , etc. etc. , these camera will be just fine when leave on `` p '' mode -lrb- automatic setting -rrb- , or just use with simple shutter or aperture priority mode , since they do a fine job at handle the technical stuff ; you do not need to constantly fiddle with they to get excellent result .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If I am doing a more formal photo shoot , I will use my DSLR , but for the kinds of picture I take most of the time , I just want a camera that is fast and ready , and not a chore or liability to carry around .</Tokens>
+		<POS>IN PRP VBP VBG DT RBR JJ NN NN , PRP MD VB PRP$ NNP , CC IN DT NNS IN NN PRP VBP JJS IN DT NN , PRP RB VBP DT NN WDT VBZ JJ CC JJ , CC RB DT NN CC NN TO VB RP .</POS>
+		<Lemma>if I be do a more formal photo shoot , I will use my DSLR , but for the kind of picture I take most of the time , I just want a camera that be fast and ready , and not a chore or liability to carry around .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This camera does n't draw attention to itself , and is very fast - but at the same time , can take serious quality photos that will not leave you disappointed , even if you are a serious photographer with fairly high expectations -LRB- just remember to use a good lens if you really want to push things -RRB- .</Tokens>
+		<POS>DT NN VBZ RB VB NN TO PRP , CC VBZ RB JJ : CC IN DT JJ NN , MD VB JJ NN NNS WDT MD RB VB PRP JJ , RB IN PRP VBP DT JJ NNP IN RB JJ NNS -LRB- RB VB TO VB DT JJ NN IN PRP RB VBP TO VB NNS -RRB- .</POS>
+		<Lemma>this camera do not draw attention to itself , and be very fast - but at the same time , can take serious quality photo that will not leave you disappointed , even if you be a serious photographer with fairly high expectation -lrb- just remember to use a good lens if you really want to push thing -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have been a big fan of the m 4\/3 format over other small system cameras for some time now .</Tokens>
+		<POS>PRP VBP VBN DT JJ NN IN DT NN CD NN IN JJ JJ NN NNS IN DT NN RB .</POS>
+		<Lemma>I have be a big fan of the m 4\/3 format over other small system camera for some time now .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>As we are seeing the release of other competing models with larger APS-C sized sensors -LRB- the same size as in Canon 's non full frame DSLR 's -RRB- , such as the Sony NEX series , there is a temptation to give them a go -LRB- the NEX cameras are very nice , by the way , but the lenses leave something to be desired when it comes to sharpness , in my humble opinion -RRB- .</Tokens>
+		<POS>IN PRP VBP VBG DT NN IN JJ VBG NNS IN JJR NN VBN NNS -LRB- DT JJ NN IN IN NNP POS JJ JJ NN NN POS -RRB- , JJ IN DT NNP NNP NN , EX VBZ DT NN TO VB PRP DT NN -LRB- DT NN NNS VBP RB JJ , IN DT NN , CC DT NNS VBP NN TO VB VBN WRB PRP VBZ TO NN , IN PRP$ JJ NN -RRB- .</POS>
+		<Lemma>as we be see the release of other compete model with larger aps-c size sensor -lrb- the same size as in Canon 's non full frame dslr 's -rrb- , such as the Sony NEX series , there be a temptation to give they a go -lrb- the nex camera be very nice , by the way , but the lens leave something to be desire when it come to sharpness , in my humble opinion -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But ... there is another factor to consider - unlike other large sensor , small system cameras , m 4\/3 is widely supported in terms of lens availability , so the range and quality of lenses you can get for m 4\/3 is in another league compared to proprietary systems such as the ones from Sony and Samsung .</Tokens>
+		<POS>CC : EX VBZ DT NN TO VB : IN JJ JJ NN , JJ NN NNS , NN CD VBZ RB VBN IN NNS IN NN NN , IN DT NN CC NN IN NNS PRP MD VB IN NN CD VBZ IN DT NN VBN TO JJ NNS JJ IN DT NNS IN NNP CC NNP .</POS>
+		<Lemma>but ... there be another factor to consider - unlike other large sensor , small system camera , m 4\/3 be widely support in term of lens availability , so the range and quality of lens you can get for m 4\/3 be in another league compare to proprietary system such as the one from Sony and Samsung .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you are familiar with cameras , you will know that the camera body is only part of the equation , and that the quality of the lens used can make a HUGE difference ... Anyway , this is my second m 4\/3 camera , and is a replacement for an Olympus EP-2 .</Tokens>
+		<POS>IN PRP VBP JJ IN NNS , PRP MD VB IN DT NN NN VBZ RB NN IN DT NN , CC IN DT NN IN DT NN VBN MD VB DT NN NN : RB , DT VBZ PRP$ JJ NN CD NN , CC VBZ DT NN IN DT NNP NN .</POS>
+		<Lemma>if you be familiar with camera , you will know that the camera body be only part of the equation , and that the quality of the lens use can make a huge difference ... anyway , this be my second m 4\/3 camera , and be a replacement for a Olympus ep-2 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Olympus has priced this camera -LRB- the E-PM1 -RRB- very , very competitively .</Tokens>
+		<POS>NNP VBZ VBN DT NN -LRB- DT NN -RRB- RB , RB RB .</POS>
+		<Lemma>Olympus have price this camera -lrb- the e-pm1 -rrb- very , very competitively .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>In my opinion , this is the best bang for your buck out there with small system cameras .</Tokens>
+		<POS>IN PRP$ NN , DT VBZ DT JJS NN IN PRP$ NN IN RB IN JJ NN NNS .</POS>
+		<Lemma>in my opinion , this be the best bang for you buck out there with small system camera .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>As soon as I learned this camera shared many key electronics with the EP-3 , but packed into a smaller package , I knew I had to upgrade .</Tokens>
+		<POS>RB RB IN PRP VBD DT NN VBD JJ JJ NNS IN DT NN , CC VBD IN DT JJR NN , PRP VBD PRP VBD TO VB .</POS>
+		<Lemma>as soon as I learn this camera share many key electronics with the ep-3 , but pack into a smaller package , I know I have to upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The auto-focus is very , very fast , noticeably more so than the EP-2 .</Tokens>
+		<POS>DT NN VBZ RB , RB RB , RB RBR RB IN DT NN .</POS>
+		<Lemma>the auto-focus be very , very fast , noticeably more so than the ep-2 .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I can not comment on the kit lens this comes with , since I went straight to using the fan favorite Panasonic 20mm f\/1 .7 with this ; though I hear good things about the kit lens .</Tokens>
+		<POS>PRP MD RB VB IN DT NN NN DT VBZ IN , IN PRP VBD RB TO VBG DT NN JJ NNP CD NN CD IN DT : IN PRP VBP JJ NNS IN DT NN NN .</POS>
+		<Lemma>I can not comment on the kit lens this come with , since I go straight to use the fan favorite Panasonic 20mm f\/1 .7 with this ; though I hear good thing about the kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Another major selling point for me in regards to this camera is the size .</Tokens>
+		<POS>DT JJ NN NN IN PRP IN VBZ TO DT NN VBZ DT NN .</POS>
+		<Lemma>another major selling point for I in regard to this camera be the size .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I am pretty sure this is the smallest m 4\/3 camera out there , and with a pancake lens it is easy to carry around in a coat pocket , unlike the more classically styled , but bulkier , heavier EP-1 \/ 2\/3 .</Tokens>
+		<POS>PRP VBP RB RB DT VBZ DT JJS NN CD NN IN RB , CC IN DT NN NN PRP VBZ JJ TO VB RP IN DT NN NN , IN DT RBR RB VBN , CC JJR , JJR NN : CD .</POS>
+		<Lemma>I be pretty sure this be the smallest m 4\/3 camera out there , and with a pancake lens it be easy to carry around in a coat pocket , unlike the more classically style , but bulkier , heavier ep-1 \/ 2\/3 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>This model also benefits from having Olympus 's `` new '' type of menu system , which is mercifully simple to use compared to their older cameras .</Tokens>
+		<POS>DT NN RB VBZ IN VBG NNP POS `` JJ '' NN IN NN NN , WDT VBZ RB JJ TO VB VBN TO PRP$ JJR NNS .</POS>
+		<Lemma>this model also benefit from have Olympus 's `` new '' type of menu system , which be mercifully simple to use compare to they older camera .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The image quality is fantastic , as is to be expected from most any modern m 4\/3 camera , and if you are used to point and shoots , the pictures this takes will be a revelation in detail and richness .</Tokens>
+		<POS>DT NN NN VBZ JJ , IN VBZ TO VB VBN IN JJS DT JJ NN CD NN , CC IN PRP VBP VBN TO VB CC VBZ , DT NNS DT VBZ MD VB DT NN IN NN CC NN .</POS>
+		<Lemma>the image quality be fantastic , as be to be expect from most any modern m 4\/3 camera , and if you be use to point and shoot , the picture this take will be a revelation in detail and richness .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>JPEG 's look great , and RAW files are even nicer , and like past Olympus cameras , the color rendition is exceptionally pleasing .</Tokens>
+		<POS>NNP POS NN JJ , CC NN NNS VBP RB JJR , CC IN JJ NNP NNS , DT NN NN VBZ RB VBG .</POS>
+		<Lemma>JPEG 's look great , and raw file be even nicer , and like past Olympus camera , the color rendition be exceptionally please .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Because of its compact size , I use this more often than my DSLR , and I would definitely buy it again .</Tokens>
+		<POS>IN IN PRP$ JJ NN , PRP VBP DT RBR RB IN PRP$ NN , CC PRP MD RB VB PRP RB .</POS>
+		<Lemma>because of its compact size , I use this more often than my dslr , and I would definitely buy it again .</Lemma>
+	</Sentence>
+</Document>

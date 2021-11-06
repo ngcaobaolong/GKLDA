@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When i plugged this baby in all i could say is wow .</Tokens>
+		<POS>WRB FW VBD DT NN IN DT FW MD VB VBZ NN .</POS>
+		<Lemma>when i plug this baby in all i could say be wow .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Compared to dell flat panels this is much cripser and brighter .</Tokens>
+		<POS>VBN TO VB JJ NNS DT VBZ JJ NN CC NN .</POS>
+		<Lemma>compare to dell flat panel this be much cripser and brighter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great monitor , great price .</Tokens>
+		<POS>JJ NN , JJ NN .</POS>
+		<Lemma>great monitor , great price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Perfect for business , not sure abuot gaming though , im not a gamer .</Tokens>
+		<POS>NNP IN NN , RB JJ NN NN RB , NN RB DT NN .</POS>
+		<Lemma>Perfect for business , not sure abuot gaming though , im not a gamer .</Lemma>
+	</Sentence>
+</Document>

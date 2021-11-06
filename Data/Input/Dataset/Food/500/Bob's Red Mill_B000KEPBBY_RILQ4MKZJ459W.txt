@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I take two cups of the Bob 's Soup Mix and add eight cups of water or vegetable stock -LRB- or a combination -RRB- along with a package of the Kitchens of India Paste for Vegetable Biryani -LRB- and the flavor packet included -RRB- and put in a crock pot .</Tokens>
+		<POS>PRP VBP CD NNS IN DT NNP POS NNP NNP CC VB CD NNS IN NN CC NN NN -LRB- CC DT NN -RRB- IN IN DT NN IN DT NNP IN NNP NNP IN NNP NNP -LRB- CC DT NN NN VBD -RRB- CC VBN IN DT NN NN .</POS>
+		<Lemma>I take two cup of the Bob 's Soup Mix and add eight cup of water or vegetable stock -lrb- or a combination -rrb- along with a package of the Kitchens of India Paste for Vegetable Biryani -lrb- and the flavor packet include -rrb- and put in a crock pot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Cook on high for 5 hours .</Tokens>
+		<POS>NNP IN JJ IN CD NNS .</POS>
+		<Lemma>Cook on high for 5 hour .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Ladle about 2\/3 of the soup into a blender and blend on high speed to make it creamy and put back in crock pot .</Tokens>
+		<POS>VB IN CD IN DT NN IN DT NN CC VB IN JJ NN TO VB PRP JJ CC VBD RP IN NN NN .</POS>
+		<Lemma>ladle about 2\/3 of the soup into a blender and blend on high speed to make it creamy and put back in crock pot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Add half a bag of frozen peas\/carrots mixture to the soup in the crock pot for about another 45-60 minutes .</Tokens>
+		<POS>VB PDT DT NN IN JJ NNS NN TO DT NN IN DT NN NN IN IN DT CD NNS .</POS>
+		<Lemma>add half a bag of frozen peas\/carrots mixture to the soup in the crock pot for about another 45-60 minute .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Ladle into a bowl and enjoy !</Tokens>
+		<POS>VB IN DT NN CC VB .</POS>
+		<Lemma>ladle into a bowl and enjoy !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have been searching for a great curry lentil soup and finally have the combination I love !</Tokens>
+		<POS>PRP VBP VBN VBG IN DT JJ VB NN NN CC RB VBP DT NN PRP VBP .</POS>
+		<Lemma>I have be search for a great curry lentil soup and finally have the combination I love !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I hope others will enjoy it , too !</Tokens>
+		<POS>PRP VBP NNS MD VB PRP , RB .</POS>
+		<Lemma>I hope other will enjoy it , too !</Lemma>
+	</Sentence>
+</Document>

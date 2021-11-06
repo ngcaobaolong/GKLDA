@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just had a chance to use this charger , or rather about half the functions of the charger .</Tokens>
+		<POS>RB VBD DT NN TO VB DT NN , CC RB IN PDT DT NNS IN DT NN .</POS>
+		<Lemma>just have a chance to use this charger , or rather about half the function of the charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It provides power via AC , 12v car DC , 9v or a pair of AA batteries .</Tokens>
+		<POS>PRP VBZ NN IN NN , NN NN NN , NN CC DT NN IN NN NNS .</POS>
+		<Lemma>it provide power via ac , 12v car dc , 9v or a pair of aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It worked great as a power source , but the micro USB plug was iffy at best , seemed to make intermittent contact with my Droid .</Tokens>
+		<POS>PRP VBD JJ IN DT NN NN , CC DT JJ JJ NN VBD JJ IN JJS , VBD TO VB JJ NN IN PRP$ NN .</POS>
+		<Lemma>it work great as a power source , but the micro usb plug be iffy at best , seem to make intermittent contact with my droid .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>All in all acceptable for the price .</Tokens>
+		<POS>DT IN DT JJ IN DT NN .</POS>
+		<Lemma>all in all acceptable for the price .</Lemma>
+	</Sentence>
+</Document>

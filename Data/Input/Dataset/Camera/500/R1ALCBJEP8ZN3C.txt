@@ -1,0 +1,137 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this along with the Joby tripod to record my band heading into the recording studio last weekend .</Tokens>
+		<POS>PRP VBD DT IN IN DT NNP NN TO VB PRP$ NN VBG IN DT NN NN JJ NN .</POS>
+		<Lemma>I buy this along with the Joby tripod to record my band head into the recording studio last weekend .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I tested it out a couple of days before heading in and was super excited about the camera .</Tokens>
+		<POS>PRP VBD PRP RP DT NN IN NNS IN VBG IN CC VBD JJ VBN IN DT NN .</POS>
+		<Lemma>I test it out a couple of day before head in and be super excite about the camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I thought it seemed pretty cool and was ready to get some use out of it .</Tokens>
+		<POS>PRP VBD PRP VBD RB JJ CC VBD JJ TO VB DT NN IN IN PRP .</POS>
+		<Lemma>I think it seem pretty cool and be ready to get some use out of it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One of the nights I tested it , after recording us playing for some amount of time , I noticed that the video froze when I went to try to stop recording .</Tokens>
+		<POS>CD IN DT NNS PRP VBD PRP , IN VBG PRP VBG IN DT NN IN NN , PRP VBD IN DT NN VBD WRB PRP VBD TO VB TO VB VBG .</POS>
+		<Lemma>one of the night I test it , after record we play for some amount of time , I notice that the video freeze when I go to try to stop record .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I had to take the battery out and put it back in to restart the camera and then it started working again .</Tokens>
+		<POS>PRP VBD TO VB DT NN IN CC VB PRP RB IN TO VB DT NN CC RB PRP VBD VBG RB .</POS>
+		<Lemma>I have to take the battery out and put it back in to restart the camera and then it start work again .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I had a few other issues like this over the next day or so until we headed into the studio the next day .</Tokens>
+		<POS>PRP VBD DT JJ JJ NNS IN DT IN DT JJ NN CC RB IN PRP VBD IN DT NN DT JJ NN .</POS>
+		<Lemma>I have a few other issue like this over the next day or so until we head into the studio the next day .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The specific reason I bought this camera for ... I recorded about an hour worth of video and then the camera would n't respond .</Tokens>
+		<POS>DT JJ NN PRP VBD DT NN IN : PRP VBD IN DT NN NN IN NN CC RB DT NN MD RB VB .</POS>
+		<Lemma>the specific reason I buy this camera for ... I record about a hour worth of video and then the camera would not respond .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I tried taking the battery out and put it back in to restart the device , but then the camera would just freeze on a black screen after the initial loading screen .</Tokens>
+		<POS>PRP VBD VBG DT NN IN CC VB PRP RB IN TO VB DT NN , CC RB DT NN MD RB VB IN DT JJ NN IN DT JJ VBG NN .</POS>
+		<Lemma>I try take the battery out and put it back in to restart the device , but then the camera would just freeze on a black screen after the initial load screen .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There was nothing I could do to get the camera to work after that .</Tokens>
+		<POS>EX VBD NN PRP MD VB TO VB DT NN TO VB IN DT .</POS>
+		<Lemma>there be nothing I could do to get the camera to work after that .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I contacting Flip customer support , which is conveniently available 24\/7 .</Tokens>
+		<POS>PRP VBG NN NN NN , WDT VBZ RB JJ CD .</POS>
+		<Lemma>I contact flip customer support , which be conveniently available 24\/7 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I was first told to leave it plugged in for 6 hours and that it should reset the device .</Tokens>
+		<POS>PRP VBD JJ VBN TO VB PRP VBN IN IN CD NNS CC IN PRP MD VB DT NN .</POS>
+		<Lemma>I be first tell to leave it plug in for 6 hour and that it should reset the device .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Tried that with no luck .</Tokens>
+		<POS>VBD IN IN DT NN .</POS>
+		<Lemma>try that with no luck .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Contacted support again the next day and they said since it was n't showing up on my computer that there was nothing that could be done and that I would have to send it back for a refund or replacement .</Tokens>
+		<POS>VBN NN RB DT JJ NN CC PRP VBD IN PRP VBD RB VBG RP IN PRP$ NN IN EX VBD NN WDT MD VB VBN CC IN PRP MD VB TO VB PRP RB IN DT NN CC NN .</POS>
+		<Lemma>contact support again the next day and they say since it be not show up on my computer that there be nothing that could be do and that I would have to send it back for a refund or replacement .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 'm choosing a refund and going with a different camera because I would be a fool to get another and have this happen to me again .</Tokens>
+		<POS>PRP VBP VBG DT NN CC VBG IN DT JJ NN IN PRP MD VB DT NN TO VB DT CC VBP DT VB TO PRP RB .</POS>
+		<Lemma>I be choose a refund and go with a different camera because I would be a fool to get another and have this happen to I again .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Luckily it happened only 3 days after purchasing which makes it easy to return .</Tokens>
+		<POS>RB PRP VBD RB CD NNS IN VBG WDT VBZ PRP JJ TO VB .</POS>
+		<Lemma>luckily it happen only 3 day after purchase which make it easy to return .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I lost the video I was trying to capture and ended up having to just get some video from my phone instead , which was less than ideal .</Tokens>
+		<POS>PRP VBD DT NN PRP VBD VBG TO VB CC VBD RP VBG TO RB VB DT NN IN PRP$ NN RB , WDT VBD JJR IN NN .</POS>
+		<Lemma>I lose the video I be try to capture and end up have to just get some video from my phone instead , which be less than ideal .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The Flip really screwed me over and I 'm really disappointed in the product , because initially i was really excited about it .</Tokens>
+		<POS>DT NN RB VBD PRP IN CC PRP VBP RB VBN IN DT NN , IN RB FW VBD RB VBN IN PRP .</POS>
+		<Lemma>the flip really screw I over and I be really disappoint in the product , because initially i be really excite about it .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I 've read other reports about the same\/similar things happening to other owners of The Flip .</Tokens>
+		<POS>PRP VBP VBN JJ NNS IN DT JJ NNS VBG TO JJ NNS IN DT NN .</POS>
+		<Lemma>I have read other report about the same\/similar thing happen to other owner of the flip .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I might try a different model if I can find that the problem does n't exist , because I really did like the camera while it worked .</Tokens>
+		<POS>PRP MD VB DT JJ NN IN PRP MD VB IN DT NN VBZ RB VB , IN PRP RB VBD IN DT NN IN PRP VBD .</POS>
+		<Lemma>I might try a different model if I can find that the problem do not exist , because I really do like the camera while it work .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>But to spend almost $ 200 on a camera to have it just not work without anyway to fix it on your own ... That 's no bueno .</Tokens>
+		<POS>CC TO VB RB $ CD IN DT NN TO VB PRP RB RB VB IN RB TO VB PRP IN PRP$ JJ : DT VBZ DT NN .</POS>
+		<Lemma>but to spend almost $ 200 on a camera to have it just not work without anyway to fix it on you own ... that be no bueno .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I would STRONLY suggest that you look into another camera unless you want to end up having a $ 200 paperweight 3 days after buying it .</Tokens>
+		<POS>PRP MD VB VBP IN PRP VBP IN DT NN IN PRP VBP TO VB RP VBG DT $ CD NN CD NNS IN VBG PRP .</POS>
+		<Lemma>I would stronly suggest that you look into another camera unless you want to end up have a $ 200 paperweight 3 day after buy it .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>If you 're looking to capture video that you do n't want to lose , DEFINITELY go with another camera .</Tokens>
+		<POS>IN PRP VBP VBG TO VB NN IN PRP VBP RB VB TO VB , RB VB IN DT NN .</POS>
+		<Lemma>if you be look to capture video that you do not want to lose , definitely go with another camera .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Flip , you not only wasted my time , but I lost some footage that I can never get back .</Tokens>
+		<POS>NN , PRP RB RB VBN PRP$ NN , CC PRP VBD DT NN IN PRP MD RB VB RB .</POS>
+		<Lemma>flip , you not only waste my time , but I lose some footage that I can never get back .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>That 's the biggest loss of all .</Tokens>
+		<POS>DT VBZ DT JJS NN IN DT .</POS>
+		<Lemma>that be the biggest loss of all .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Besides the camera not working ... \* Image quality was okay , mostly used in lower lighting situations , never got to see what the video looked like in bright outdoor type shots ... But it seemed a little on the grainy side .</Tokens>
+		<POS>IN DT NN RB VBG : SYM NN NN VBD JJ , RB VBN IN JJR NN NNS , RB VBD TO VB WP DT NN VBD IN IN JJ JJ NN NNS : CC PRP VBD DT JJ IN DT JJ NN .</POS>
+		<Lemma>besides the camera not work ... \* image quality be okay , mostly use in lower lighting situation , never get to see what the video look like in bright outdoor type shot ... but it seem a little on the grainy side .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>\* Battery - would be nice if the battery matched recording time of 2 hours so you could at least fill up the camera 's storage on a full charge , but I do like the feature to swap out the rechargeable battery for 3 AAA batteries \* Audio - For loud music the audio was fairly distorted , might not be as bad in bigger rooms , but I would suggest something else if you 're looking for good quality sound from a loud source such as a band or concert .</Tokens>
+		<POS>SYM NN : MD VB JJ IN DT NN VBD VBG NN IN CD NNS RB PRP MD IN JJS VB RP DT NN POS NN IN DT JJ NN , CC PRP VBP IN DT NN TO VB RP DT JJ NN IN CD NN NNS SYM SYM : IN JJ NN DT NN VBD RB JJ , MD RB VB RB JJ IN JJR NNS , CC PRP MD VB NN RB IN PRP VBP VBG IN JJ NN NN IN DT JJ NN JJ IN DT NN CC NN .</POS>
+		<Lemma>\* battery - would be nice if the battery match record time of 2 hour so you could at least fill up the camera 's storage on a full charge , but I do like the feature to swap out the rechargeable battery for 3 aaa battery \* audio - for loud music the audio be fairly distorted , might not be as bad in bigger room , but I would suggest something else if you be look for good quality sound from a loud source such as a band or concert .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Again , I 'd advise , DO N'T BUY THIS POS !</Tokens>
+		<POS>RB , PRP MD VB , NNP RB VBP NNS NN .</POS>
+		<Lemma>again , I would advise , DO not buy this po !</Lemma>
+	</Sentence>
+</Document>

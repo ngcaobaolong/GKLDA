@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Boosted 3G , but did very little for 4G .</Tokens>
+		<POS>VBN NN , CC VBD RB JJ IN NN .</POS>
+		<Lemma>boost 3g , but do very little for 4g .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was hoping to get the 4G that starts 50 yards away , but no such luck .</Tokens>
+		<POS>PRP VBD VBG TO VB DT NN WDT VBZ CD NNS RB , CC DT JJ NN .</POS>
+		<Lemma>I be hope to get the 4g that start 50 yard away , but no such luck .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Hey , how wrong could I have been for a few bucks ?</Tokens>
+		<POS>UH , WRB JJ MD PRP VB VBN IN DT JJ NNS .</POS>
+		<Lemma>hey , how wrong could I have be for a few buck ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>At least the 3G is better .</Tokens>
+		<POS>IN JJS DT NN VBZ RBR .</POS>
+		<Lemma>at least the 3g be better .</Lemma>
+	</Sentence>
+</Document>

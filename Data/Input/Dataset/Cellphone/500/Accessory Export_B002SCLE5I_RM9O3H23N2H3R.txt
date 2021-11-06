@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is one of those late-no show items .</Tokens>
+		<POS>DT VBZ CD IN DT JJ NN NNS .</POS>
+		<Lemma>this be one of those late-no show item .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has n't arrived at my place yet !</Tokens>
+		<POS>PRP VBZ RB VBN IN PRP$ NN RB .</POS>
+		<Lemma>it have not arrive at my place yet !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Had great expectations about this product thinking this being great idea to implement .</Tokens>
+		<POS>VBD JJ NNS IN DT NN VBG DT VBG JJ NN TO VB .</POS>
+		<Lemma>have great expectation about this product think this be great idea to implement .</Lemma>
+	</Sentence>
+</Document>

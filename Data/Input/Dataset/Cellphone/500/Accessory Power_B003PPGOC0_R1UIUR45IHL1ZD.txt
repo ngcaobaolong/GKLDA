@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works perfect .</Tokens>
+		<POS>NNP JJ .</POS>
+		<Lemma>Works perfect .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The product has an excellent quality .</Tokens>
+		<POS>DT NN VBZ DT JJ NN .</POS>
+		<Lemma>the product have a excellent quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had no problems with pairing with an iPhone 4S .</Tokens>
+		<POS>PRP VBD DT NNS IN VBG IN DT NNP NN .</POS>
+		<Lemma>I have no problem with pair with a iPhone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Is really comfortable as a hands free and as a music player , you can control the songs right from the transmitter , instead of having to check your phone .</Tokens>
+		<POS>VBZ RB JJ IN DT NNS JJ CC IN DT NN NN , PRP MD VB DT NNS RB IN DT NN , RB IN VBG TO VB PRP$ NN .</POS>
+		<Lemma>be really comfortable as a hand free and as a music player , you can control the song right from the transmitter , instead of have to check you phone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The playback is clear and much better than other wired FM transmitters that I have tried before .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ JJR IN JJ VBN NNP NNS IN PRP VBP VBN RB .</POS>
+		<Lemma>the playback be clear and much better than other wire FM transmitter that I have try before .</Lemma>
+	</Sentence>
+</Document>

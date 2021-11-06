@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Swiss army knife of adapters .</Tokens>
+		<POS>JJ NN NN IN NNS .</POS>
+		<Lemma>swiss army knife of adapter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Is very useful to carry in car and on trips for an ability to top off or charge my cell phone and kindle .</Tokens>
+		<POS>VBZ RB JJ TO VB IN NN CC IN NNS IN DT NN TO VB RP CC VB PRP$ NN NN CC NN .</POS>
+		<Lemma>be very useful to carry in car and on trip for a ability to top off or charge my cell phone and kindle .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Like the product and would recommend to others .</Tokens>
+		<POS>IN DT NN CC MD VB TO NNS .</POS>
+		<Lemma>like the product and would recommend to other .</Lemma>
+	</Sentence>
+</Document>

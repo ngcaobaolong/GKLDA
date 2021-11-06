@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We ordered Ezekiel 4:9 and it was shipped to us in perfect condition and in a speedy manner .</Tokens>
+		<POS>PRP VBD NNP CD CC PRP VBD VBN TO PRP IN JJ NN CC IN DT JJ NN .</POS>
+		<Lemma>we order Ezekiel 4:9 and it be ship to we in perfect condition and in a speedy manner .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We liked being able to buy several boxes in bulk .</Tokens>
+		<POS>PRP VBD VBG JJ TO VB JJ NNS IN NN .</POS>
+		<Lemma>we like be able to buy several box in bulk .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not only did we save money , but we have healthy cereal now for several weeks .</Tokens>
+		<POS>RB RB VBD PRP VB NN , CC PRP VBP JJ NN RB IN JJ NNS .</POS>
+		<Lemma>not only do we save money , but we have healthy cereal now for several week .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thank you Amazon for your good work .</Tokens>
+		<POS>VB PRP NNP IN PRP$ JJ NN .</POS>
+		<Lemma>thank you Amazon for you good work .</Lemma>
+	</Sentence>
+</Document>

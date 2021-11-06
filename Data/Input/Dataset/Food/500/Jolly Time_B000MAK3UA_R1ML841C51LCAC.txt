@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a perfect sized bag , tasty and satisfying , and none of that nasty artificial butter flavor !</Tokens>
+		<POS>DT VBZ DT JJ VBN NN , JJ CC JJ , CC NN IN DT JJ JJ NN NN .</POS>
+		<Lemma>this be a perfect size bag , tasty and satisfying , and none of that nasty artificial butter flavor !</Lemma>
+	</Sentence>
+</Document>

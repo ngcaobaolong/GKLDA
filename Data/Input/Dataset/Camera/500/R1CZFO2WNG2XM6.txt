@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have to say that this camera is simply amazing .</Tokens>
+		<POS>PRP VBP TO VB IN DT NN VBZ RB JJ .</POS>
+		<Lemma>I have to say that this camera be simply amazing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have had the chance to use this as well as the Tachyon xc HD .</Tokens>
+		<POS>PRP VBP VBD DT NN TO VB DT RB RB IN DT NNP NN NN .</POS>
+		<Lemma>I have have the chance to use this as well as the Tachyon xc hd .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Of course this camera took the ability to adjust in low lights like the xc hd but as expected this camera has amazing audio quality .</Tokens>
+		<POS>IN NN DT NN VBD DT NN TO VB IN JJ NNS IN DT NN NN CC IN VBN DT NN VBZ JJ JJ NN .</POS>
+		<Lemma>of course this camera take the ability to adjust in low light like the xc hd but as expect this camera have amazing audio quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>WITH gun cam mount on and or the plastic armor shield the audio of this camera is comparable or better then the $ 200 - $ 400 dollar cameras out there .</Tokens>
+		<POS>IN NN NN VBP IN CC CC DT JJ NN NN DT NN IN DT NN VBZ JJ CC JJR RB DT $ CD : $ CD NN NNS IN RB .</POS>
+		<Lemma>with gun cam mount on and or the plastic armor shield the audio of this camera be comparable or better then the $ 200 - $ 400 dollar camera out there .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Yes of course this camera is not waterproof as the xc is but that is the point of buying this camera for dry sports -RRB- .</Tokens>
+		<POS>NNP IN NN DT NN VBZ RB JJ IN DT NN VBZ CC WDT VBZ DT NN IN VBG DT NN IN JJ NNS -RRB- .</POS>
+		<Lemma>Yes of course this camera be not waterproof as the xc be but that be the point of buy this camera for dry sport -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Finally down to camera quality .</Tokens>
+		<POS>RB RB TO NN NN .</POS>
+		<Lemma>finally down to camera quality .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Easily Compared to the xc HD you get the better audio quality for about 30 dollars cheaper .</Tokens>
+		<POS>RB VBN TO DT NN NN PRP VBP DT JJR JJ NN IN IN CD NNS JJR .</POS>
+		<Lemma>easily compare to the xc hd you get the better audio quality for about 30 dollar cheaper .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>All in all if you want to get great footage on a budget you cant go wrong with this camera .</Tokens>
+		<POS>DT IN DT IN PRP VBP TO VB JJ NN IN DT NN PRP VBP VB JJ IN DT NN .</POS>
+		<Lemma>all in all if you want to get great footage on a budget you cant go wrong with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I probably should also add you get multiple mounts with this camera for free including a tripod mount , contour helmet mount , clip mount and 3m strips for many uses BEST BANG FOR YOUR $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $</Tokens>
+		<POS>PRP RB MD RB VB PRP VB JJ VBZ IN DT NN IN JJ VBG DT NN VBP , VBP NN VB , VB VB CC VB NNS IN JJ NNS VBP NN IN JJ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $</POS>
+		<Lemma>I probably should also add you get multiple mount with this camera for free include a tripod mount , contour helmet mount , clip mount and 3m strip for many use best bang for your $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have other Acer monitors and love them all .</Tokens>
+		<POS>PRP VBP JJ NNP NNS CC VBP PRP DT .</POS>
+		<Lemma>I have other Acer monitor and love they all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one is bright and clear just like the others .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ RB IN DT NNS .</POS>
+		<Lemma>this one be bright and clear just like the other .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did overlook the native resolution of 1400x900 .</Tokens>
+		<POS>PRP VBD VB DT JJ NN IN NN .</POS>
+		<Lemma>I do overlook the native resolution of 1400x900 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>100 % my fault .</Tokens>
+		<POS>CD NN PRP$ NN .</POS>
+		<Lemma>100 % my fault .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Be careful if you want to use its full capabilities .</Tokens>
+		<POS>VB JJ IN PRP VBP TO VB PRP$ JJ NNS .</POS>
+		<Lemma>be careful if you want to use its full capability .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Many laptops do n't go this high .</Tokens>
+		<POS>JJ NNS VBP RB VB DT JJ .</POS>
+		<Lemma>many laptop do not go this high .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I bought this to go with a laptop .</Tokens>
+		<POS>PRP VBD DT TO VB IN DT NN .</POS>
+		<Lemma>I buy this to go with a laptop .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>My new Toshiba laptop only goes up to 1280x800 .</Tokens>
+		<POS>PRP$ JJ NNP NN RB VBZ RB TO CD .</POS>
+		<Lemma>my new Toshiba laptop only go up to 1280x800 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I had to back my laptop video down to 1024x768 to show the task bar .</Tokens>
+		<POS>PRP VBD TO VB PRP$ NN NN IN TO CD TO VB DT NN NN .</POS>
+		<Lemma>I have to back my laptop video down to 1024x768 to show the task bar .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And , of course , everything is larger and there is less on the screen than if it was running at 1400x900 .</Tokens>
+		<POS>CC , IN NN , NN VBZ JJR CC EX VBZ JJR IN DT NN IN IN PRP VBD VBG IN CD .</POS>
+		<Lemma>and , of course , everything be larger and there be less on the screen than if it be run at 1400x900 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It appears many higher end desktop pc video cards have 1400x900 as a resolution selection .</Tokens>
+		<POS>PRP VBZ JJ JJR NN NN NN NN NNS VBP RB IN DT NN NN .</POS>
+		<Lemma>it appear many higher end desktop pc video card have 1400x900 as a resolution selection .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I 'm mildly disappointed but I probably would have bought it anyway .</Tokens>
+		<POS>PRP VBP RB JJ CC PRP RB MD VB VBN PRP RB .</POS>
+		<Lemma>I be mildly disappointed but I probably would have buy it anyway .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>An excellent value for the money .</Tokens>
+		<POS>DT JJ NN IN DT NN .</POS>
+		<Lemma>a excellent value for the money .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>But if you want to use this for tasks where you can fit a maximum amount onto the screen , be sure your pc 's video card has 1400x900 resolution as a selection .</Tokens>
+		<POS>CC IN PRP VBP TO VB DT IN NNS WRB PRP MD VB DT NN NN IN DT NN , VB JJ PRP$ NN POS NN NN VBZ CD NN IN DT NN .</POS>
+		<Lemma>but if you want to use this for task where you can fit a maximum amount onto the screen , be sure you pc 's video card have 1400x900 resolution as a selection .</Lemma>
+	</Sentence>
+</Document>

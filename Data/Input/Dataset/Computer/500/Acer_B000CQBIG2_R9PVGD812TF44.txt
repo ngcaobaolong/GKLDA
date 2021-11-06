@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I spent a long time debating whether or not to spoil myself and buy this monitor -LRB- I have a red motif for my computer equipment so this model had caught my eye a long time ago -RRB- , but finally took the plunge a few days ago .</Tokens>
+		<POS>PRP VBD DT JJ NN VBG IN CC RB TO VB PRP CC VB DT NN -LRB- PRP VBP DT JJ NN IN PRP$ NN NN RB DT NN VBD VBN PRP$ NN DT JJ NN IN -RRB- , CC RB VBD DT NN DT JJ NNS RB .</POS>
+		<Lemma>I spend a long time debate whether or not to spoil myself and buy this monitor -lrb- I have a red motif for my computer equipment so this model have catch my eye a long time ago -rrb- , but finally take the plunge a few day ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What can I say , this monitor is absolutely stunning and the pictures simply do n't do it justice .</Tokens>
+		<POS>WDT MD PRP VB , DT NN VBZ RB JJ CC DT NNS RB VBP RB VB PRP NN .</POS>
+		<Lemma>what can I say , this monitor be absolutely stunning and the picture simply do not do it justice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The quality is everything you 'd expect and more .</Tokens>
+		<POS>DT NN VBZ NN PRP MD VB CC RBR .</POS>
+		<Lemma>the quality be everything you would expect and more .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The stand is solid and has good weight to it , the monitor has an absolutely beautiful finish to it and the whole look of the unit is just breathtaking .</Tokens>
+		<POS>DT NN VBZ JJ CC VBZ JJ NN TO PRP , DT NN VBZ DT RB JJ NN TO PRP CC DT JJ NN IN DT NN VBZ RB JJ .</POS>
+		<Lemma>the stand be solid and have good weight to it , the monitor have a absolutely beautiful finish to it and the whole look of the unit be just breathtaking .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you 're in the market for a 20 '' , I do n't see how you can pass this one up .</Tokens>
+		<POS>IN PRP VBP IN DT NN IN DT CD '' , PRP VBP RB VB WRB PRP MD VB DT CD RP .</POS>
+		<Lemma>if you be in the market for a 20 '' , I do not see how you can pass this one up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is one of the best 20 '' monitors out there and it 's definitely a show stopper on anyone 's desk .</Tokens>
+		<POS>PRP VBZ CD IN DT JJS CD '' VBZ RP RB CC PRP VBZ RB DT NN NN IN NN POS NN .</POS>
+		<Lemma>it be one of the best 20 '' monitor out there and it be definitely a show stopper on anyone 's desk .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you 're like me and have a thing for red , you simply have to get this monitor .</Tokens>
+		<POS>IN PRP VBP IN PRP CC VB DT NN IN JJ , PRP RB VBP TO VB DT NN .</POS>
+		<Lemma>if you be like I and have a thing for red , you simply have to get this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This thing is worth it at twice the price , so get one while you can .</Tokens>
+		<POS>DT NN VBZ JJ PRP IN RB DT NN , RB VB CD IN PRP MD .</POS>
+		<Lemma>this thing be worth it at twice the price , so get one while you can .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You ca n't get your hands on a nicer monitor for the money and you ca n't get better picture quality for the money either .</Tokens>
+		<POS>PRP MD RB VB PRP$ NNS IN DT JJR NN IN DT NN CC PRP MD RB VB JJR NN NN IN DT NN RB .</POS>
+		<Lemma>you can not get you hand on a nicer monitor for the money and you can not get better picture quality for the money either .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Hands down an incredible monitor and absolutely worth every penny .</Tokens>
+		<POS>NNS IN DT JJ NN CC RB JJ DT NN .</POS>
+		<Lemma>hand down a incredible monitor and absolutely worth every penny .</Lemma>
+	</Sentence>
+</Document>

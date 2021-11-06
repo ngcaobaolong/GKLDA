@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I JUST WANTED AN INEXPENSIVE MONITOR THAT HAD A BUILT IN SPEAKER .</Tokens>
+		<POS>PRP RB VBD DT NNP NNP WDT VBD DT NNP IN NNP .</POS>
+		<Lemma>I just want a INEXPENSIVE MONITOR that have a BUILT in SPEAKER .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>SPEAKERS ARE NOT LOUD , NOT FOR A PARTY OR ANYTHING , BUT IT SERVES MY PURPOSE .</Tokens>
+		<POS>NNS VBP RB JJ , NNP IN DT NN NN NN , NNP NNP VBZ NNP NN .</POS>
+		<Lemma>speaker be not loud , NOT for a party or anything , BUT IT serve MY purpose .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I JUST WANTED SOMETHING I COULD LISTEN TO THINGS WHILE ON COMPUTER .</Tokens>
+		<POS>PRP RB VBD NNP NNP NNP NNP TO NNP IN NNP NNP .</POS>
+		<Lemma>I just want SOMETHING I COULD LISTEN to THINGS while ON COMPUTER .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>IT WORKS .</Tokens>
+		<POS>PRP VBZ .</POS>
+		<Lemma>it work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>FOR THE MONEY , ITS WORTH IT .</Tokens>
+		<POS>IN DT NN , NNP NNP NNP .</POS>
+		<Lemma>for the money , ITS WORTH IT .</Lemma>
+	</Sentence>
+</Document>

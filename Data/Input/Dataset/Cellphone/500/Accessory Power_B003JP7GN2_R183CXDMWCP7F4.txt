@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you have a smart phone or any device that can be charged by connecting to USB port - this product is a must .</Tokens>
+		<POS>IN PRP VBP DT JJ NN CC DT NN WDT MD VB VBN IN VBG TO JJ NN : DT NN VBZ DT MD .</POS>
+		<Lemma>if you have a smart phone or any device that can be charge by connect to usb port - this product be a must .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Charge your device anywhere - in the car , at home or on the run .</Tokens>
+		<POS>VB PRP$ NN RB : IN DT NN , IN NN CC IN DT NN .</POS>
+		<Lemma>charge you device anywhere - in the car , at home or on the run .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Keep a 9 volt battery with you and you can charge your phone in the middle of a desert .</Tokens>
+		<POS>VB DT CD NN NN IN PRP CC PRP MD VB PRP$ NN IN DT NN IN DT NN .</POS>
+		<Lemma>keep a 9 volt battery with you and you can charge you phone in the middle of a desert .</Lemma>
+	</Sentence>
+</Document>

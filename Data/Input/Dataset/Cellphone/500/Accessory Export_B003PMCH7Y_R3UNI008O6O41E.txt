@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Allot less than buying in the store !!</Tokens>
+		<POS>NNP JJR IN VBG IN DT NN IN</POS>
+		<Lemma>Allot less than buy in the store !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not bad for the price .</Tokens>
+		<POS>RB JJ IN DT NN .</POS>
+		<Lemma>not bad for the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Difficult to find this in the correct size for my old Garmin GPS</Tokens>
+		<POS>JJ TO VB DT IN DT JJ NN IN PRP$ JJ NNP NNP</POS>
+		<Lemma>difficult to find this in the correct size for my old Garmin GPS</Lemma>
+	</Sentence>
+</Document>

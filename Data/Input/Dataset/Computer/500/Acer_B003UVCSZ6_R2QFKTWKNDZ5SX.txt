@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered this monitor a few weeks ago and love it , I was kind of on the fence after reading some reviews about `` white border '' and I can see what they are saying but its very trivial , all it is is a slight white glow around the edge -LRB- the led hitting off the plastic -RRB- I do n't even notice it , and after coming from a 17 '' display this is awesome .</Tokens>
+		<POS>PRP VBD DT NN DT JJ NNS RB CC VBP PRP , PRP VBD NN IN IN DT NN IN VBG DT NNS IN `` JJ NN '' CC PRP MD VB WP PRP VBP VBG CC PRP$ RB JJ , DT PRP VBZ VBZ DT JJ JJ NN IN DT NN -LRB- DT VBN VBG RP DT NN -RRB- PRP VBP RB RB VB PRP , CC IN VBG IN DT CD '' NN DT VBZ JJ .</POS>
+		<Lemma>I order this monitor a few week ago and love it , I be kind of on the fence after read some review about `` white border '' and I can see what they be say but its very trivial , all it be be a slight white glow around the edge -lrb- the lead hit off the plastic -rrb- I do not even notice it , and after come from a 17 '' display this be awesome .</Lemma>
+	</Sentence>
+</Document>

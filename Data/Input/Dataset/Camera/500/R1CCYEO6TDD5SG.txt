@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Got this camera for Christmas and it is certainly easy to use and to upload video to computer .</Tokens>
+		<POS>NNP DT NN IN NNP CC PRP VBZ RB JJ TO VB CC TO NN NN TO NN .</POS>
+		<Lemma>Got this camera for Christmas and it be certainly easy to use and to upload video to computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Good quality video .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>good quality video .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Audio is n't bad .</Tokens>
+		<POS>NNP VBZ RB JJ .</POS>
+		<Lemma>Audio be not bad .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Wish it had a wider angle lens to get a wider view , but I may consider an aftermarket lens to help with that .</Tokens>
+		<POS>NNP PRP VBD DT JJR NN NN TO VB DT JJR NN , CC PRP MD VB DT NN NN TO VB IN DT .</POS>
+		<Lemma>Wish it have a wider angle lens to get a wider view , but I may consider a aftermarket lens to help with that .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Otherwise I enjoy the camera , software is simple to use .</Tokens>
+		<POS>RB PRP VBP DT NN , NN VBZ JJ TO VB .</POS>
+		<Lemma>otherwise I enjoy the camera , software be simple to use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Great for catching those little moments of life without a lot of fuss .</Tokens>
+		<POS>NNP IN VBG DT JJ NNS IN NN IN DT NN IN NN .</POS>
+		<Lemma>Great for catch those little moment of life without a lot of fuss .</Lemma>
+	</Sentence>
+</Document>

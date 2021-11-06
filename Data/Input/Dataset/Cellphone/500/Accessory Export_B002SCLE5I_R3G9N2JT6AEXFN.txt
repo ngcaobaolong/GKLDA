@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I dont know whether this works on other cell phones , but its NOT for Blackberry <a href="http://www.amazon.com/gp/product/B002ANSOPS/ref=cm_cr_asin_lnk/179-0027068-0602606"> Rim Blackberry curve 8310 Unlocked </a> .</Tokens>
+		<POS>PRP VBP VB IN DT VBZ IN JJ NN NNS , CC PRP$ NNP IN NNP NNP NNP NNP NN CD JJ NN .</POS>
+		<Lemma>I dont know whether this work on other cell phone , but its NOT for Blackberry <a href="http://www.amazon.com/gp/product/B002ANSOPS/ref=cm_cr_asin_lnk/179-0027068-0602606"> Rim Blackberry curve 8310 unlocked </a> .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is required to fix this antenna on top of cell phones internal antenna -LRB- beneath battery in most cells -RRB- .</Tokens>
+		<POS>PRP VBZ VBN TO VB DT NN IN NN IN NN NNS JJ NN -LRB- IN NN IN JJS NNS -RRB- .</POS>
+		<Lemma>it be require to fix this antenna on top of cell phone internal antenna -lrb- beneath battery in most cell -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In the case of BB , it is not possible to fix this on intetnal antenna , as it has sim card and sd card slots .</Tokens>
+		<POS>IN DT NN IN NN , PRP VBZ RB JJ TO VB DT IN JJ NN , IN PRP VBZ NN NN CC NN NN NNS .</POS>
+		<Lemma>in the case of bb , it be not possible to fix this on intetnal antenna , as it have sim card and sd card slot .</Lemma>
+	</Sentence>
+</Document>

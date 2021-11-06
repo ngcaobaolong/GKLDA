@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>TRANS4M Universal AC Wall\/DC Car dual USB Travel Charger worked fine for three months after shipment arrived in April .</Tokens>
+		<POS>NN NNP NN NNP NNP JJ JJ NN NN VBD NN IN CD NNS IN NN VBD IN NNP .</POS>
+		<Lemma>trans4m Universal ac Wall\/DC Car dual usb travel charger work fine for three month after shipment arrive in April .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>One week ago it stopped , died , and works no more .</Tokens>
+		<POS>CD NN IN PRP VBD , VBD , CC VBZ DT RBR .</POS>
+		<Lemma>one week ago it stop , die , and work no more .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am getting tired of buying chargers that have such a short life .</Tokens>
+		<POS>PRP VBP VBG JJ IN VBG NNS WDT VBP JJ DT JJ NN .</POS>
+		<Lemma>I be get tired of buy charger that have such a short life .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I believe this is the third that failed in a very short time period .</Tokens>
+		<POS>PRP VBP DT VBZ DT JJ DT VBD IN DT RB JJ NN NN .</POS>
+		<Lemma>I believe this be the third that fail in a very short time period .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Most products used to last for years , today months is far more common .</Tokens>
+		<POS>JJS NNS VBN TO VB IN NNS , NN NNS VBZ RB RBR JJ .</POS>
+		<Lemma>most product use to last for year , today month be far more common .</Lemma>
+	</Sentence>
+</Document>

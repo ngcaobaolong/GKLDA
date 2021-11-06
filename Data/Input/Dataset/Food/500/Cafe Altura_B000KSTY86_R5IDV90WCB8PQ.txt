@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For a dark roast , the Peruvian Dark coffee is very smooth - no bitterness or excess acidity .</Tokens>
+		<POS>IN DT JJ NN , DT JJ JJ NN VBZ RB JJ : DT NN CC JJ NN .</POS>
+		<Lemma>for a dark roast , the peruvian dark coffee be very smooth - no bitterness or excess acidity .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Excellent flavor and aroma .</Tokens>
+		<POS>JJ NN CC NN .</POS>
+		<Lemma>excellent flavor and aroma .</Lemma>
+	</Sentence>
+</Document>

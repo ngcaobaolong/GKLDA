@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this thinking that if it even partially lived up to the hype that it would be excellent .</Tokens>
+		<POS>PRP VBD DT VBG IN IN PRP RB RB VBD RP TO DT NN IN PRP MD VB JJ .</POS>
+		<Lemma>I buy this think that if it even partially live up to the hype that it would be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nope .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>nope .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It popped up really nice and fluffy , looked wonderful but when we tried to eat it the kernals just flattened into unchewable bits .</Tokens>
+		<POS>PRP VBD RP RB JJ CC JJ , VBD JJ CC WRB PRP VBD TO VB PRP DT NNS RB VBD IN JJ NNS .</POS>
+		<Lemma>it pop up really nice and fluffy , look wonderful but when we try to eat it the kernal just flatten into unchewable bit .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We threw it away .</Tokens>
+		<POS>PRP VBD PRP RB .</POS>
+		<Lemma>we throw it away .</Lemma>
+	</Sentence>
+</Document>

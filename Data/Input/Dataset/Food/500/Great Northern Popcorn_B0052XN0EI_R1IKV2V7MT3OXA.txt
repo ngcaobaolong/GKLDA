@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this popcorn !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this popcorn !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was important to my family that we went to air popped popcorn to be more healthy and we wanted a non GMO corn to use .</Tokens>
+		<POS>PRP VBD JJ TO PRP$ NN IN PRP VBD TO NN VBN NN TO VB RBR JJ CC PRP VBD DT JJ NNP NN TO VB .</POS>
+		<Lemma>it be important to my family that we go to air pop popcorn to be more healthy and we want a non GMO corn to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This was a great price , tastes great , and is everything we were looking for !</Tokens>
+		<POS>DT VBD DT JJ NN , NNS JJ , CC VBZ NN PRP VBD VBG IN .</POS>
+		<Lemma>this be a great price , taste great , and be everything we be look for !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thanks !</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>thanks !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love , love , love Honey Stinger waffles !</Tokens>
+		<POS>NN , NN , NN NNP NNP NNS .</POS>
+		<Lemma>love , love , love Honey Stinger waffle !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They taste great , transport well and give me a great energy boost before , during and after long runs .</Tokens>
+		<POS>PRP VBP JJ , NN RB CC VB PRP DT JJ NN NN RB , IN CC IN JJ NNS .</POS>
+		<Lemma>they taste great , transport well and give I a great energy boost before , during and after long run .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I recommend them as they are easy on the stomach , not too heavy and satisfy my sweet tooth as well !</Tokens>
+		<POS>PRP VBP PRP IN PRP VBP JJ IN DT NN , RB RB JJ CC VB PRP$ JJ NN RB RB .</POS>
+		<Lemma>I recommend they as they be easy on the stomach , not too heavy and satisfy my sweet tooth as well !</Lemma>
+	</Sentence>
+</Document>

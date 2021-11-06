@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This 11.6 '' 1.0 Ghz -LRB- 1.33 turbo -RRB- netbook packs a punch for its size and low power consumption .</Tokens>
+		<POS>DT CD '' CD NN -LRB- CD NN -RRB- NN VBZ DT NN IN PRP$ NN CC JJ NN NN .</POS>
+		<Lemma>this 11.6 '' 1.0 ghz -lrb- 1.33 turbo -rrb- netbook pack a punch for its size and low power consumption .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The AMD C-60 mobile dual core processor runs well enough to play videos without skipping and efficiently enough to stay charged for as much as 7 hours .</Tokens>
+		<POS>DT NNP NN JJ JJ NN NN VBZ RB JJ TO VB NNS IN VBG CC RB JJ TO VB VBN IN RB JJ IN CD NNS .</POS>
+		<Lemma>the AMD c-60 mobile dual core processor run well enough to play video without skip and efficiently enough to stay charge for as much as 7 hour .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I opted for this model over the earlier 722-454 version for several reasons : its dual core processor , 2GB of RAM installed \/ upgradable to 4GB , and 320GB hard drive .</Tokens>
+		<POS>PRP VBD IN DT NN IN DT JJR CD NN IN JJ NNS : PRP$ JJ NN NN , NN IN NNP VBN : JJ TO NN , CC NN JJ NN .</POS>
+		<Lemma>I opt for this model over the earlier 722-454 version for several reason : its dual core processor , 2gb of RAM install \/ upgradable to 4gb , and 320gb hard drive .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If you 're still not sold on a netbook over a tablet or standard laptop read on .</Tokens>
+		<POS>IN PRP VBP RB RB VBN IN DT NN IN DT NN CC JJ NN VBN IN .</POS>
+		<Lemma>if you be still not sell on a netbook over a tablet or standard laptop read on .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Tablets are still recreational devices , fun , chic in cafes , but they 're still mostly for playing games and looking busier than you actually are .</Tokens>
+		<POS>NNS VBP RB JJ NNS , NN , JJ IN NNS , CC PRP VBP RB RB IN VBG NNS CC VBG JJR IN PRP RB VBP .</POS>
+		<Lemma>tablet be still recreational device , fun , chic in cafe , but they be still mostly for play game and look busier than you actually be .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They have a few practical features , but all require a keyboard , which is an extra expense , and conveniently included with a netbook !</Tokens>
+		<POS>PRP VBP DT JJ JJ NNS , CC DT VBP DT NN , WDT VBZ DT JJ NN , CC RB VBN IN DT NN .</POS>
+		<Lemma>they have a few practical feature , but all require a keyboard , which be a extra expense , and conveniently include with a netbook !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you do a lot of writing , typing , or work related proposals and editing , the DataViz optional word processor for Android tablets wo n't replace MS Office .</Tokens>
+		<POS>IN PRP VBP DT NN IN VBG , NN , CC NN JJ NNS CC NN , DT NNP JJ NN NN IN NNP NNS MD RB VB NN NNP .</POS>
+		<Lemma>if you do a lot of write , typing , or work related proposal and editing , the DataViz optional word processor for Android tablet will not replace m Office .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It has limited functionality and frequently crashes without auto-saving .</Tokens>
+		<POS>PRP VBZ VBN NN CC RB NNS IN NN .</POS>
+		<Lemma>it have limit functionality and frequently crash without auto-saving .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you 're thinking about an iPad or AirBook , remember , you 're buying into a complete product line of computers , music , videos and applications which are virtually useless on non-Apple devices .</Tokens>
+		<POS>IN PRP VBP VBG IN DT NN CC NNP , VBP , PRP VBP VBG IN DT JJ NN NN IN NNS , NN , NNS CC NNS WDT VBP RB JJ IN JJ NNS .</POS>
+		<Lemma>if you be think about a ipad or AirBook , remember , you be buy into a complete product line of computer , music , video and application which be virtually useless on non-apple device .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you buy one Apple product , you have to buy them all .</Tokens>
+		<POS>IN PRP VBP CD NNP NN , PRP VBP TO VB PRP DT .</POS>
+		<Lemma>if you buy one Apple product , you have to buy they all .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This is great for some , but expensive for most .</Tokens>
+		<POS>DT VBZ JJ IN DT , CC JJ IN JJS .</POS>
+		<Lemma>this be great for some , but expensive for most .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>As I said , if you 're comparing this netbook to a traditional laptop , this model does n't require you to make a lot of sacrifices in your performance expectations .</Tokens>
+		<POS>IN PRP VBD , IN PRP VBP VBG DT NN TO DT JJ NN , DT NN VBZ RB VB PRP TO VB DT NN IN NNS IN PRP$ NN NNS .</POS>
+		<Lemma>as I say , if you be compare this netbook to a traditional laptop , this model do not require you to make a lot of sacrifice in you performance expectation .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Just remember , netbooks do n't have CD\/DVD drives , no 10-key , and smaller screens .</Tokens>
+		<POS>RB VB , NNS VBP RB VB NN NNS , DT JJ , CC JJR NNS .</POS>
+		<Lemma>just remember , netbook do not have cd\/dvd drive , no 10-key , and smaller screen .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>One complaint I have with this model is that it 's missing a built-in bluetooth antenna .</Tokens>
+		<POS>CD NN PRP VBP IN DT NN VBZ IN PRP VBZ VBG DT JJ JJ NN .</POS>
+		<Lemma>one complaint I have with this model be that it be miss a built-in bluetooth antenna .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Irritating , but easily remedied with a low-profile USB dongle in one of the three available USB ports , which is more than on most netbooks .</Tokens>
+		<POS>JJ , CC RB VBN IN DT JJ JJ NN IN CD IN DT CD JJ JJ NNS , WDT VBZ RBR IN IN JJS NNS .</POS>
+		<Lemma>irritating , but easily remedy with a low-profile usb dongle in one of the three available usb port , which be more than on most netbook .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I would recommend spending the extra $ 25 to upgrade the RAM to 4GB when you purchase it .</Tokens>
+		<POS>PRP MD VB VBG DT JJ $ CD TO VB DT NNP TO NN WRB PRP VBP PRP .</POS>
+		<Lemma>I would recommend spend the extra $ 25 to upgrade the RAM to 4gb when you purchase it .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It 's very easy to install yourself -- no under the keyboard poking around required .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB PRP : DT IN DT NN VBG IN VBN .</POS>
+		<Lemma>it be very easy to install yourself -- no under the keyboard poke around require .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>There 's a single philip 's head screw in the middle of the bottom plate , unscrew it , slide forward and you 'll find the single DIMM looking right at you .</Tokens>
+		<POS>EX VBZ DT JJ NN POS NN NN IN DT NN IN DT JJ NN , VB PRP , NN RB CC PRP MD VB DT JJ NN VBG NN IN PRP .</POS>
+		<Lemma>there be a single philip 's head screw in the middle of the bottom plate , unscrew it , slide forward and you 'll find the single dimm look right at you .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Anybody who played with shape blocks as a kid can figure it out .</Tokens>
+		<POS>NN WP VBD IN NN VBZ IN DT NN MD VB PRP RP .</POS>
+		<Lemma>anybody who play with shape block as a kid can figure it out .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>All in all , this is a good buy for 329.99 .</Tokens>
+		<POS>DT IN DT , DT VBZ DT JJ NN IN CD .</POS>
+		<Lemma>all in all , this be a good buy for 329.99 .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>It 's cheaper than most tablets and standard laptops and you can use it for actual work out of the box , no extra $ 50 keyboards required .</Tokens>
+		<POS>PRP VBZ JJR IN JJS NNS CC JJ NNS CC PRP MD VB PRP IN JJ NN IN IN DT NN , DT JJ $ CD NNS VBN .</POS>
+		<Lemma>it be cheaper than most tablet and standard laptop and you can use it for actual work out of the box , no extra $ 50 keyboard require .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Please reply if you have any other questions I can answer .</Tokens>
+		<POS>VB VB IN PRP VBP DT JJ NNS PRP MD VB .</POS>
+		<Lemma>please reply if you have any other question I can answer .</Lemma>
+	</Sentence>
+</Document>

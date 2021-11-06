@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this product !</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I purchased it for my 18 year old daughter to give her hands free calling and to allow her to play her Pandora Radio through her car radio .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ CD NN JJ NN TO VB PRP$ NNS JJ VBG CC TO VB PRP TO VB PRP$ NNP NNP IN PRP$ NN NN .</POS>
+		<Lemma>I purchase it for my 18 year old daughter to give she hand free call and to allow she to play she Pandora Radio through she car radio .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It works great !</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it work great !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>She absolutely loves it !</Tokens>
+		<POS>PRP RB VBZ PRP .</POS>
+		<Lemma>she absolutely love it !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was easy to set up and works like a charm .</Tokens>
+		<POS>PRP VBD JJ TO VB RP CC VBZ IN DT NN .</POS>
+		<Lemma>it be easy to set up and work like a charm .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I liked it so much I 'm buying one for myself .</Tokens>
+		<POS>PRP VBD PRP RB RB PRP VBP VBG CD IN PRP .</POS>
+		<Lemma>I like it so much I be buy one for myself .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Highly recommend it !</Tokens>
+		<POS>RB VB PRP .</POS>
+		<Lemma>highly recommend it !</Lemma>
+	</Sentence>
+</Document>

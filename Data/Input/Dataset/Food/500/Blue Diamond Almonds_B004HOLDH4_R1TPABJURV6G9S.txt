@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love almonds in general , and this particular brand is quite good .</Tokens>
+		<POS>PRP VBP NNS IN JJ , CC DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>I love almond in general , and this particular brand be quite good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They taste great , with just the right amount of salt and oil -LRB- for me , anyway -RRB- .</Tokens>
+		<POS>PRP VBP JJ , IN RB DT JJ NN IN NN CC NN -LRB- IN PRP , RB -RRB- .</POS>
+		<Lemma>they taste great , with just the right amount of salt and oil -lrb- for I , anyway -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They 're individually packaged in 6 oz .</Tokens>
+		<POS>PRP VBP RB VBN IN CD NN .</POS>
+		<Lemma>they be individually package in 6 oz .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>cans , which makes them an easy and portable snack .</Tokens>
+		<POS>NNS , WDT VBZ PRP DT JJ CC JJ NN .</POS>
+		<Lemma>can , which make they a easy and portable snack .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Portion control is also easier with the small can size .</Tokens>
+		<POS>NN NN VBZ RB JJR IN DT JJ MD VB .</POS>
+		<Lemma>portion control be also easier with the small can size .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've ordered a few packs of these almonds , and while there is some slight variation in the taste from batch to batch -LRB- some are roasted a bit darker than others -RRB- , I have always found them fresh and tasty .</Tokens>
+		<POS>PRP VBP VBN DT JJ NNS IN DT NNS , CC IN EX VBZ DT JJ NN IN DT NN IN NN TO NN -LRB- DT VBP JJ DT NN JJR IN NNS -RRB- , PRP VBP RB VBN PRP JJ CC JJ .</POS>
+		<Lemma>I have order a few pack of these almond , and while there be some slight variation in the taste from batch to batch -lrb- some be roasted a bit darker than other -rrb- , I have always find they fresh and tasty .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Almonds are relatively healthy too - high in protein , a good source of magnesium , calcium , and manganese , and full of unsaturated fats .</Tokens>
+		<POS>NNS VBP RB JJ RB : JJ IN NN , DT JJ NN IN NN , NN , CC NN , CC JJ IN JJ NNS .</POS>
+		<Lemma>almond be relatively healthy too - high in protein , a good source of magnesium , calcium , and manganese , and full of unsaturated fat .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have n't seen organic roasted , salted almonds from this company , but I hope they offer them eventually at a decent price .</Tokens>
+		<POS>PRP VBP RB VBN JJ JJ , JJ NNS IN DT NN , CC PRP VBP PRP VBP PRP RB IN DT JJ NN .</POS>
+		<Lemma>I have not see organic roasted , salted almond from this company , but I hope they offer they eventually at a decent price .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>One thing I would also like to see is some kind of assurance that the can liner is free of BPA .</Tokens>
+		<POS>CD NN PRP MD RB VB TO VB VBZ DT NN IN NN IN DT MD NN VBZ JJ IN NNP .</POS>
+		<Lemma>one thing I would also like to see be some kind of assurance that the can liner be free of BPA .</Lemma>
+	</Sentence>
+</Document>

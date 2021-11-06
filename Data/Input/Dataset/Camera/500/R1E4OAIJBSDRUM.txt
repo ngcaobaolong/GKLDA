@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The optical zoom and lens quality makes it possible to photo animals at 100 yards .</Tokens>
+		<POS>DT JJ NN CC NN NN VBZ PRP JJ TO JJ NNS IN CD NNS .</POS>
+		<Lemma>the optical zoom and lens quality make it possible to photo animal at 100 yard .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I tested this camera against others in this price range and the Canon SX30IS took clearer , crisper pictures of objects at 100 yards .</Tokens>
+		<POS>PRP VBD DT NN IN NNS IN DT NN NN CC DT NNP NNP VBD JJR , JJR NNS IN NNS IN CD NNS .</POS>
+		<Lemma>I test this camera against other in this price range and the Canon SX30IS take clearer , crisper picture of object at 100 yard .</Lemma>
+	</Sentence>
+</Document>

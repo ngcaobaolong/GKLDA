@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread has a pretty strong taste that reminds me of rye bread .</Tokens>
+		<POS>DT NN VBZ DT RB JJ NN WDT VBZ PRP IN NN NN .</POS>
+		<Lemma>this bread have a pretty strong taste that remind I of rye bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I do n't care for rye bread , so this is not my choice of the breads available .</Tokens>
+		<POS>PRP VBP RB VB IN NN NN , RB DT VBZ RB PRP$ NN IN DT NNS JJ .</POS>
+		<Lemma>I do not care for rye bread , so this be not my choice of the bread available .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My husband likes it , but he also likes rye bread .</Tokens>
+		<POS>PRP$ NN VBZ PRP , CC PRP RB VBZ NN NN .</POS>
+		<Lemma>my husband like it , but he also like rye bread .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Just a matter of taste !</Tokens>
+		<POS>RB DT NN IN NN .</POS>
+		<Lemma>just a matter of taste !</Lemma>
+	</Sentence>
+</Document>

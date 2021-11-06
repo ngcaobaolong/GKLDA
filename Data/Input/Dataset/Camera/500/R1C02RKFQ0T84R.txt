@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love these photo albums .</Tokens>
+		<POS>NN DT NN NNS .</POS>
+		<Lemma>love these photo album .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is all I buy .</Tokens>
+		<POS>PRP VBZ DT PRP VBP .</POS>
+		<Lemma>it be all I buy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The quality is excellent and I think I have them in every color .</Tokens>
+		<POS>DT NN VBZ JJ CC PRP VBP PRP VBP PRP IN DT NN .</POS>
+		<Lemma>the quality be excellent and I think I have they in every color .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I highly recommend .</Tokens>
+		<POS>PRP RB VB .</POS>
+		<Lemma>I highly recommend .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I also love how you can put a picture in the front .</Tokens>
+		<POS>PRP RB VBP WRB PRP MD VB DT NN IN DT NN .</POS>
+		<Lemma>I also love how you can put a picture in the front .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've used these for my kids since they were born and I can look at the front to see how old they were when the album started to see if that 's the one I want to look at .</Tokens>
+		<POS>PRP VBP VBN DT IN PRP$ NNS IN PRP VBD VBN CC PRP MD VB IN DT NN TO VB WRB JJ PRP VBD WRB DT NN VBD TO VB IN DT VBZ DT CD PRP VBP TO VB IN .</POS>
+		<Lemma>I have use these for my kid since they be bear and I can look at the front to see how old they be when the album start to see if that be the one I want to look at .</Lemma>
+	</Sentence>
+</Document>

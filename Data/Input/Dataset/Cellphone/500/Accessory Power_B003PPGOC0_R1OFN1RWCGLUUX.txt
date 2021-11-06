@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm sure this is fine for somebody with time to mess around to get it to work .</Tokens>
+		<POS>PRP VBP JJ DT VBZ JJ IN NN IN NN TO NN IN TO VB PRP TO VB .</POS>
+		<Lemma>I be sure this be fine for somebody with time to mess around to get it to work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I need something I can plug in that will work .</Tokens>
+		<POS>PRP VBP NN PRP MD VB IN DT MD VB .</POS>
+		<Lemma>I need something I can plug in that will work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This would not stay on the fm channel when trying to stream my Pandora music from the Droid X. Had to send it back .</Tokens>
+		<POS>DT MD RB VB IN DT NN NN WRB VBG TO NN PRP$ NNP NN IN DT NNP NNP VBD TO VB PRP RB .</POS>
+		<Lemma>this would not stay on the fm channel when try to stream my Pandora music from the Droid X. have to send it back .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's a great idea but you need to make it easier for those of us who do not have time to tinker with it to get it to work .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC PRP VBP TO VB PRP JJR IN DT IN PRP WP VBP RB VB NN TO VB IN PRP TO VB PRP TO VB .</POS>
+		<Lemma>it be a great idea but you need to make it easier for those of we who do not have time to tinker with it to get it to work .</Lemma>
+	</Sentence>
+</Document>

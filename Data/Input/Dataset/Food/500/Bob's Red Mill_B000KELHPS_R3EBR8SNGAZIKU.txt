@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm eating a warm piece of this bread right now as I type this .</Tokens>
+		<POS>PRP VBP VBG DT JJ NN IN DT NN RB RB IN PRP NN DT .</POS>
+		<Lemma>I be eat a warm piece of this bread right now as I type this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just heavenly on a chilly blustery day .</Tokens>
+		<POS>RB JJ IN DT JJ JJ NN .</POS>
+		<Lemma>just heavenly on a chilly blustery day .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I used a bread machine , tossing in the ingredients as directed on the label then let the machine work its magic : simple and totally foolproof .</Tokens>
+		<POS>PRP VBD DT NN NN , VBG IN DT NNS IN VBN IN DT NN RB VBD DT NN NN PRP$ NN : JJ CC RB JJ .</POS>
+		<Lemma>I use a bread machine , toss in the ingredient as direct on the label then let the machine work its magic : simple and totally foolproof .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The loaf rose to the perfect size , baked evenly , and came out of the pan smoothly .</Tokens>
+		<POS>DT NN VBD TO DT JJ NN , JJ RB , CC VBD IN IN DT NN RB .</POS>
+		<Lemma>the loaf rise to the perfect size , baked evenly , and come out of the pan smoothly .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It smelled so good I did n't even wait for it to cool -LRB- like you 're supposed to -RRB- but immediately had to try it hot with plenty of butter .</Tokens>
+		<POS>PRP VBD RB JJ PRP VBD RB RB VB IN PRP TO VB -LRB- IN PRP VBP VBN TO -RRB- CC RB VBD TO VB PRP JJ IN NN IN NN .</POS>
+		<Lemma>it smell so good I do not even wait for it to cool -lrb- like you be suppose to -rrb- but immediately have to try it hot with plenty of butter .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Wow ... is all I can say .</Tokens>
+		<POS>UH : VBZ DT PRP MD VB .</POS>
+		<Lemma>wow ... be all I can say .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So , so , good .</Tokens>
+		<POS>RB , RB , JJ .</POS>
+		<Lemma>so , so , good .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Such a rich , springy , moist & hearty texture ; lots of little satisfying seeds and grain bits but not too much .</Tokens>
+		<POS>PDT DT JJ , JJ , JJ CC JJ NN : NNS IN JJ JJ NNS CC NN NNS CC RB RB JJ .</POS>
+		<Lemma>such a rich , springy , moist & hearty texture ; lot of little satisfying seed and grain bit but not too much .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Just right .</Tokens>
+		<POS>RB RB .</POS>
+		<Lemma>just right .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is by far the best gf bread I 've tried , with a complex and comforting flavor and wonderful mouth feel .</Tokens>
+		<POS>DT VBZ IN RB DT JJS NN NN PRP VBP VBN , IN DT NN CC JJ NN CC JJ NN NN .</POS>
+		<Lemma>this be by far the best gf bread I have try , with a complex and comforting flavor and wonderful mouth feel .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's not too sweet and does not have that bitter back-flavor that a lot of gf breads do .</Tokens>
+		<POS>PRP VBZ RB RB JJ CC VBZ RB VB DT JJ NN IN DT NN IN NN NNS VBP .</POS>
+		<Lemma>it be not too sweet and do not have that bitter back-flavor that a lot of gf bread do .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I completely recommend this and am ordering more !</Tokens>
+		<POS>PRP RB VB DT CC VBP VBG RBR .</POS>
+		<Lemma>I completely recommend this and be order more !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It 'll have you happily patting your belly .</Tokens>
+		<POS>PRP MD VB PRP RB VBG PRP$ NN .</POS>
+		<Lemma>it 'll have you happily pat you belly .</Lemma>
+	</Sentence>
+</Document>

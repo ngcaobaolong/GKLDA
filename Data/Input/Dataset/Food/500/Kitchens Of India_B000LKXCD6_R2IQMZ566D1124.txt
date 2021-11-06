@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I usually do n't write a review but this one I had to .</Tokens>
+		<POS>PRP RB VBP RB VB DT NN CC DT CD PRP VBD TO .</POS>
+		<Lemma>I usually do not write a review but this one I have to .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This was truly the WORST CURRY EVER .</Tokens>
+		<POS>DT VBD RB DT NNP NNP NNP .</POS>
+		<Lemma>this be truly the WORST CURRY EVER .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do n't really need to mention for the taste and card board tofu but there 's this strong MSG taste that paralyze your tongue that comes after each swallow .</Tokens>
+		<POS>VBP RB RB VB TO VB IN DT NN CC NN NN NNP CC EX VBZ DT JJ NN NN WDT VB PRP$ NN IN VBZ IN DT VB .</POS>
+		<Lemma>do not really need to mention for the taste and card board tofu but there be this strong msg taste that paralyze you tongue that come after each swallow .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've tried my best to make this thing eatable by adding fresh ingredients from the fridge but nothing helped .</Tokens>
+		<POS>PRP VBP VBN PRP$ JJS TO VB DT NN JJ IN VBG JJ NNS IN DT NN CC NN VBD .</POS>
+		<Lemma>I have try my best to make this thing eatable by add fresh ingredient from the fridge but nothing help .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It still tasted awful .</Tokens>
+		<POS>PRP RB VBD JJ .</POS>
+		<Lemma>it still taste awful .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Keep away from this one .</Tokens>
+		<POS>VB RB IN DT CD .</POS>
+		<Lemma>keep away from this one .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>... well , keep away from all of their products if you can .</Tokens>
+		<POS>: RB , VB RB IN DT IN PRP$ NNS IN PRP MD .</POS>
+		<Lemma>... well , keep away from all of they product if you can .</Lemma>
+	</Sentence>
+</Document>

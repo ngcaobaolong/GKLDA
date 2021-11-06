@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is working just fine .</Tokens>
+		<POS>DT NN VBZ VBG RB JJ .</POS>
+		<Lemma>this monitor be work just fine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The price was right and the size was perfect for where I needed it .</Tokens>
+		<POS>DT NN VBD JJ CC DT NN VBD JJ IN WRB PRP VBD PRP .</POS>
+		<Lemma>the price be right and the size be perfect for where I need it .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great blue tooth for misic the phone feature is not so great , however the sound quaility over the radio is outstanding , full bass and treble with little or no static , I would fully recommend this product</Tokens>
+		<POS>JJ JJ NN IN JJ DT NN NN VBZ RB RB JJ , RB DT JJ NN IN DT NN VBZ JJ , JJ NN CC VB IN JJ CC DT JJ , PRP MD RB VB DT NN</POS>
+		<Lemma>great blue tooth for misic the phone feature be not so great , however the sound quaility over the radio be outstanding , full bass and treble with little or no static , I would fully recommend this product</Lemma>
+	</Sentence>
+</Document>

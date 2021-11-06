@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>UPDATE : I wanted to add that I have purchased a second one of these monitors !</Tokens>
+		<POS>NNP : PRP VBD TO VB IN PRP VBP VBN DT JJ CD IN DT NNS .</POS>
+		<Lemma>UPDATE : I want to add that I have purchase a second one of these monitor !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a great monitor for a great price and works great !</Tokens>
+		<POS>PRP VBZ DT JJ NN IN DT JJ NN CC VBZ JJ .</POS>
+		<Lemma>it be a great monitor for a great price and work great !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am using the two of these monitors with an HP S2231 to have three external monitors on my MacBook Pro -LRB- using DisplayLink USB Graphics -RRB- , had no problem with the new one either , and will let you know if anything changes in the future !</Tokens>
+		<POS>PRP VBP VBG DT CD IN DT NNS IN DT NNP NN TO VB CD JJ NNS IN PRP$ NNP FW -LRB- VBG NNP JJ NNS -RRB- , VBD DT NN IN DT JJ CD CC , CC MD VB PRP VB IN NN NNS IN DT NN .</POS>
+		<Lemma>I be use the two of these monitor with a HP s2231 to have three external monitor on my MacBook pro -lrb- use DisplayLink usb graphic -rrb- , have no problem with the new one either , and will let you know if anything change in the future !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is a super tiny monitor , and is easy to install .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN , CC VBZ JJ TO VB .</POS>
+		<Lemma>this be a super tiny monitor , and be easy to install .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You need a screw driver to tighten the screws that hold the stand to the monitor .</Tokens>
+		<POS>PRP VBP DT NN NN TO VB DT NNS WDT VBP DT NN TO DT NN .</POS>
+		<Lemma>you need a screw driver to tighten the screw that hold the stand to the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The monitor looks good and is very tiny -LRB- the screen is a 21.5 '' diagonal , but the casing around it is tiny compared to my old monitor , I had to put it on a stand to make it the same height as my current monitor -LRB- I am using an Extended monitor on a Mac -RRB- .</Tokens>
+		<POS>DT NN VBZ JJ CC VBZ RB JJ -LRB- DT NN VBZ DT CD '' JJ , CC DT VBG IN PRP VBZ JJ VBN TO PRP$ JJ NN , PRP VBD TO VB PRP IN DT NN TO VB PRP DT JJ NN IN PRP$ JJ NN -LRB- PRP VBP VBG DT JJ NN IN DT NNP -RRB- .</POS>
+		<Lemma>the monitor look good and be very tiny -lrb- the screen be a 21.5 '' diagonal , but the case around it be tiny compare to my old monitor , I have to put it on a stand to make it the same height as my current monitor -lrb- I be use a extended monitor on a Mac -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The Mac had no problem detecting the new monitor and set the profiles for the new monitor and shows its name in Display Preference .</Tokens>
+		<POS>DT NNP VBD DT NN VBG DT JJ NN CC VBD DT NNS IN DT JJ NN CC VBZ PRP$ NN IN NNP NNP .</POS>
+		<Lemma>the Mac have no problem detect the new monitor and set the profile for the new monitor and show its name in Display Preference .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is running at 1920x1080 at 60 Hz .</Tokens>
+		<POS>PRP VBZ VBG IN CD IN CD NN .</POS>
+		<Lemma>it be run at 1920x1080 at 60 hz .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This monitor looks good and has a great picture , it is not as bright as my current LCD -LRB- I guess the LED is not as bright -RRB- , but it still looks really good .</Tokens>
+		<POS>DT NN VBZ JJ CC VBZ DT JJ NN , PRP VBZ RB IN JJ IN PRP$ JJ NNS -LRB- PRP VBP DT NN VBZ RB IN JJ -RRB- , CC PRP RB VBZ RB JJ .</POS>
+		<Lemma>this monitor look good and have a great picture , it be not as bright as my current lcd -lrb- I guess the led be not as bright -rrb- , but it still look really good .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It has great video and shows movies beautifully .</Tokens>
+		<POS>PRP VBZ JJ NN CC VBZ NNS RB .</POS>
+		<Lemma>it have great video and show movie beautifully .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It is easy to see the documents that you are working on and they look good and are easy to work with .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT NNS IN PRP VBP VBG IN CC PRP VBP JJ CC VBP JJ TO VB IN .</POS>
+		<Lemma>it be easy to see the document that you be work on and they look good and be easy to work with .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>This monitor has a port for VGA and DVI -LRB- no HDMI -RRB- , I believe the picture in the top -LRB- with HDMI -RRB- shows the next model up -LRB- from what I see on Acer 's website -RRB- .</Tokens>
+		<POS>DT NN VBZ DT NN IN NNP CC NNP -LRB- DT NN -RRB- , PRP VBP DT NN IN DT NN -LRB- IN NN -RRB- VBZ DT JJ NN IN -LRB- IN WP PRP VBP IN NNP POS NN -RRB- .</POS>
+		<Lemma>this monitor have a port for VGA and DVI -lrb- no hdmus -rrb- , I believe the picture in the top -lrb- with hdmus -rrb- show the next model up -lrb- from what I see on Acer 's website -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The box included a VGA cable , the power cable -LRB- which has a cable like a laptop would have -RRB- , and a DVI cable , which was a nice little bonus !</Tokens>
+		<POS>DT NN VBD DT NNP NN , DT NN NN -LRB- WDT VBZ DT NN IN DT NN MD VB -RRB- , CC DT NNP NN , WDT VBD DT JJ JJ NN .</POS>
+		<Lemma>the box include a VGA cable , the power cable -lrb- which have a cable like a laptop would have -rrb- , and a DVI cable , which be a nice little bonus !</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The monitor was easy to use and looks great I am using DVI and it is a beautiful picture , my only flaw is that the cable out on the monitor face backward , which means it can not be placed up close to a wall -LRB- since the cable has to have room to fall downward -RRB- .</Tokens>
+		<POS>DT NN VBD JJ TO VB CC VBZ JJ PRP VBP VBG NNP CC PRP VBZ DT JJ NN , PRP$ JJ NN VBZ IN DT NN RP IN DT NN NN RB , WDT VBZ PRP MD RB VB VBN RP RB TO DT NN -LRB- IN DT NN VBZ TO VB NN TO VB JJ -RRB- .</POS>
+		<Lemma>the monitor be easy to use and look great I be use DVI and it be a beautiful picture , my only flaw be that the cable out on the monitor face backward , which mean it can not be place up close to a wall -lrb- since the cable have to have room to fall downward -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>In the end this is a great monitor for the price , it looks great , it is tiny , and included all the cables you could possible want to use -LRB- DVI and VGA , that is supports -RRB- .</Tokens>
+		<POS>IN DT NN DT VBZ DT JJ NN IN DT NN , PRP VBZ JJ , PRP VBZ JJ , CC VBD PDT DT NNS PRP MD RB VB TO VB -LRB- NNP CC NNP , DT VBZ VBZ -RRB- .</POS>
+		<Lemma>in the end this be a great monitor for the price , it look great , it be tiny , and include all the cable you could possible want to use -lrb- DVI and VGA , that be support -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I am very pleased with it , and look forward to saving energy using its LED .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP , CC VB RB TO VBG NN VBG PRP$ NNP .</POS>
+		<Lemma>I be very pleased with it , and look forward to save energy use its LED .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Highly recommend for the price !!!!</Tokens>
+		<POS>RB VB IN DT NN NN</POS>
+		<Lemma>highly recommend for the price !!!!</Lemma>
+	</Sentence>
+</Document>

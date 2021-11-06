@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was a bit apprehensive to buy this product since some of the reviews are not all that good .</Tokens>
+		<POS>PRP VBD DT NN JJ TO VB DT NN IN DT IN DT NNS VBP RB DT DT JJ .</POS>
+		<Lemma>I be a bit apprehensive to buy this product since some of the review be not all that good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , I am glad I did .</Tokens>
+		<POS>RB , PRP VBP JJ PRP VBD .</POS>
+		<Lemma>however , I be glad I do .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Setup was very easy and picture quality for a product costing under 100 $ is excellent .</Tokens>
+		<POS>NN VBD RB JJ CC NN NN IN DT NN VBG IN CD $ VBZ JJ .</POS>
+		<Lemma>setup be very easy and picture quality for a product cost under 100 $ be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The IR function in the dark works surprisingly well ; I had low expectations for that .</Tokens>
+		<POS>DT NN NN IN DT JJ NNS RB RB : PRP VBD JJ NNS IN DT .</POS>
+		<Lemma>the ir function in the dark work surprisingly well ; I have low expectation for that .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very happy with my purchase .</Tokens>
+		<POS>RB JJ IN PRP$ NN .</POS>
+		<Lemma>very happy with my purchase .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Only place I could see some improvement is the software to configure\/login to the device .</Tokens>
+		<POS>RB NN PRP MD VB DT NN VBZ DT NN TO NN TO DT NN .</POS>
+		<Lemma>only place I could see some improvement be the software to configure\/login to the device .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It looks a bit dated , but does get the job done .</Tokens>
+		<POS>PRP VBZ DT NN JJ , CC VBZ VB DT NN VBN .</POS>
+		<Lemma>it look a bit dated , but do get the job do .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you are looking for a low cost surveillance camera , I think this is a good choice .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN NN NN , PRP VBP DT VBZ DT JJ NN .</POS>
+		<Lemma>if you be look for a low cost surveillance camera , I think this be a good choice .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Since it does sound and night vision -LRB- IR -RRB- , this could be an excellent baby monitor to use on a laptop\/iPad .</Tokens>
+		<POS>IN PRP VBZ VB CC NN NN -LRB- NN -RRB- , DT MD VB DT JJ NN NN TO VB IN DT NN .</POS>
+		<Lemma>since it do sound and night vision -lrb- ir -rrb- , this could be a excellent baby monitor to use on a laptop\/ipad .</Lemma>
+	</Sentence>
+</Document>

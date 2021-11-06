@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I enjoy watching movies at home and to complete the theater experience , I purchased this bag of gourmet popping corn .</Tokens>
+		<POS>PRP VBP VBG NNS IN NN CC TO VB DT NN NN , PRP VBD DT NN IN NN VBG NN .</POS>
+		<Lemma>I enjoy watch movie at home and to complete the theater experience , I purchase this bag of gourmet pop corn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I make my popcorn in the microwave in brown paper bags to cut down on using too much butter .</Tokens>
+		<POS>PRP VBP PRP$ NN IN DT NN IN JJ NN NNS TO VB RP IN VBG RB JJ NN .</POS>
+		<Lemma>I make my popcorn in the microwave in brown paper bag to cut down on use too much butter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I then use other toppings to add flavor .</Tokens>
+		<POS>PRP RB VBP JJ NNS TO VB NN .</POS>
+		<Lemma>I then use other topping to add flavor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The kernels seem decent and I get a decently large bag of popping corn to last me a while .</Tokens>
+		<POS>DT NNS VBP JJ CC PRP VBP DT RB JJ NN IN VBG NN TO VB PRP DT NN .</POS>
+		<Lemma>the kernel seem decent and I get a decently large bag of pop corn to last I a while .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>No complaints yet .</Tokens>
+		<POS>DT NNS RB .</POS>
+		<Lemma>no complaint yet .</Lemma>
+	</Sentence>
+</Document>

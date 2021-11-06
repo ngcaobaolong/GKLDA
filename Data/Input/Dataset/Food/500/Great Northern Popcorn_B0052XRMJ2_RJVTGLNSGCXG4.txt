@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm a popcorn conoisseuer , there 's few things I love more .</Tokens>
+		<POS>PRP VBP DT NN NN , EX VBZ JJ NNS PRP VBP RBR .</POS>
+		<Lemma>I be a popcorn conoisseuer , there be few thing I love more .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And due to health issues I 've decided to stick with organic popcorn after doing some research on what things are essential to buy organic and popcorn is one of them .</Tokens>
+		<POS>CC JJ TO NN NNS PRP VBP VBN TO VB IN JJ NN IN VBG DT NN IN WP NNS VBP JJ TO VB JJ CC NN VBZ CD IN PRP .</POS>
+		<Lemma>and due to health issue I have decide to stick with organic popcorn after do some research on what thing be essential to buy organic and popcorn be one of they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As far as the batch I received of Great Northern Organic popcorn , many of the kernels were very hard to chew , but worse than that , there was a funny taste to several of the bites of each batch I 've popped .</Tokens>
+		<POS>IN RB IN DT NN PRP VBD IN NNP NNP NNP NN , JJ IN DT NNS VBD RB JJ TO VB , CC JJR IN DT , EX VBD DT JJ NN TO JJ IN DT VBZ IN DT NN PRP VBP VBN .</POS>
+		<Lemma>as far as the batch I receive of Great Northern Organic popcorn , many of the kernel be very hard to chew , but worse than that , there be a funny taste to several of the bite of each batch I have pop .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I can only describe it as a distinctly moldy taste and the bites that did n't have it tasted sort of dirty .</Tokens>
+		<POS>PRP MD RB VB PRP IN DT RB JJ NN CC DT VBZ IN VBD RB VB PRP VBD NN IN JJ .</POS>
+		<Lemma>I can only describe it as a distinctly moldy taste and the bite that do not have it taste sort of dirty .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't know how else to describe it .</Tokens>
+		<POS>PRP VBP RB VB WRB JJ TO VB PRP .</POS>
+		<Lemma>I do not know how else to describe it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've never had worse tasting popcorn in my life !</Tokens>
+		<POS>PRP VBP RB VBN JJR NN NN IN PRP$ NN .</POS>
+		<Lemma>I have never have worse tasting popcorn in my life !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Reading other reviews shows me not everyone is having these problems so perhaps I just got a very bad batch ?</Tokens>
+		<POS>VBG JJ NNS VBZ PRP RB NN VBZ VBG DT NNS RB RB PRP RB VBD DT RB JJ NN .</POS>
+		<Lemma>read other review show I not everyone be have these problem so perhaps I just get a very bad batch ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I will be trying other brands from now on as I continue my quest for organic popcorn perfection .</Tokens>
+		<POS>PRP MD VB VBG JJ NNS IN RB IN IN CD VBP PRP$ NN IN JJ NN NN .</POS>
+		<Lemma>I will be try other brand from now on as i continue my quest for organic popcorn perfection .</Lemma>
+	</Sentence>
+</Document>

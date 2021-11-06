@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First , I travel a lot .</Tokens>
+		<POS>RB , PRP VBP DT NN .</POS>
+		<Lemma>first , I travel a lot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So , I was looking for a small , all-in-one kind of device to use in my car -LRB- or rental -RRB- , in the airport , and at my hotel while traveling .</Tokens>
+		<POS>RB , PRP VBD VBG IN DT JJ , JJ NN IN NN TO VB IN PRP$ NN -LRB- CC JJ -RRB- , IN DT NN , CC IN PRP$ NN IN VBG .</POS>
+		<Lemma>so , I be look for a small , all-in-one kind of device to use in my car -lrb- or rental -rrb- , in the airport , and at my hotel while travel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Honestly , the product does work as advertised .</Tokens>
+		<POS>RB , DT NN VBZ VB IN VBN .</POS>
+		<Lemma>honestly , the product do work as advertise .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The DC adapter for the car hooks in fine , but the unit becomes quite a nuisance when you extend the adapter out of its shell .</Tokens>
+		<POS>DT NN NN IN DT NN NNS IN NN , CC DT NN VBZ RB DT NN WRB PRP VBP DT NN IN IN PRP$ NN .</POS>
+		<Lemma>the dc adapter for the car hook in fine , but the unit become quite a nuisance when you extend the adapter out of its shell .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Depending on the location of the DC plug , the unit can easily get in the way of the gear shift , especially when the USB cords are attached .</Tokens>
+		<POS>VBG IN DT NN IN DT NN NN , DT NN MD RB VB IN DT NN IN DT NN NN , RB WRB DT JJ NNS VBP VBN .</POS>
+		<Lemma>depend on the location of the dc plug , the unit can easily get in the way of the gear shift , especially when the usb cord be attach .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Further , the build quality is a bit of a disappointment .</Tokens>
+		<POS>RB , DT VB NN VBZ DT NN IN DT NN .</POS>
+		<Lemma>further , the build quality be a bit of a disappointment .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The gray plastic cover which hides the DC adapter is very flimsy and after only one use , it will simply fall open when you turn it over .</Tokens>
+		<POS>DT JJ NN NN WDT VBZ DT NN NN VBZ RB JJ CC IN RB CD NN , PRP MD RB VB JJ WRB PRP VBP PRP IN .</POS>
+		<Lemma>the gray plastic cover which hide the dc adapter be very flimsy and after only one use , it will simply fall open when you turn it over .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It feels as if it will simply fall off now as the hinge seems to be loose now as well .</Tokens>
+		<POS>PRP VBZ IN IN PRP MD RB VB RB RB IN DT NN VBZ TO VB RB RB RB RB .</POS>
+		<Lemma>it feel as if it will simply fall off now as the hinge seem to be loose now as well .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The use of the product is good though .</Tokens>
+		<POS>DT NN IN DT NN VBZ JJ IN .</POS>
+		<Lemma>the use of the product be good though .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I have used several devices and they have charged with no problems .</Tokens>
+		<POS>PRP VBP VBN JJ NNS CC PRP VBP VBN IN DT NNS .</POS>
+		<Lemma>I have use several device and they have charge with no problem .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Being able to plug it into the wall outlet and connecting a couple of devices is handy .</Tokens>
+		<POS>VBG JJ TO VB PRP IN DT NN NN CC VBG DT NN IN NNS VBZ JJ .</POS>
+		<Lemma>be able to plug it into the wall outlet and connect a couple of device be handy .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>But , I carry my iPad with me and thus have to carry my Apple adapter anyway .</Tokens>
+		<POS>CC , PRP VBP PRP$ NN IN PRP CC RB VBP TO VB PRP$ NNP NN RB .</POS>
+		<Lemma>but , I carry my ipad with I and thus have to carry my Apple adapter anyway .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>So , it does n't save me much in terms of weight\/space .</Tokens>
+		<POS>RB , PRP VBZ RB VB PRP JJ IN NNS IN NN .</POS>
+		<Lemma>so , it do not save I much in term of weight\/space .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I might recommend getting the DC plug USB adapter separately -LRB- the kind that sits nicely in the DC plug - nearly flush with the opening -RRB- and keeping your other device charger -LRB- s -RRB- .</Tokens>
+		<POS>PRP MD VB VBG DT NN NN JJ NN RB -LRB- DT NN WDT VBZ RB IN DT NN NN : RB NN IN DT NN -RRB- CC VBG PRP$ JJ NN NN -LRB- NNS -RRB- .</POS>
+		<Lemma>I might recommend get the dc plug usb adapter separately -lrb- the kind that sit nicely in the dc plug - nearly flush with the opening -rrb- and keep you other device charger -lrb- s -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It works , but I doubt it will last you a long time due to the quality issues .</Tokens>
+		<POS>PRP VBZ , CC PRP VBP PRP MD VB PRP DT JJ NN JJ TO DT NN NNS .</POS>
+		<Lemma>it work , but I doubt it will last you a long time due to the quality issue .</Lemma>
+	</Sentence>
+</Document>

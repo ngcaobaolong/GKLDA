@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Yummy in my tummy .</Tokens>
+		<POS>NNP IN PRP$ NN .</POS>
+		<Lemma>Yummy in my tummy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was so good in my belly .</Tokens>
+		<POS>PRP VBD RB JJ IN PRP$ NN .</POS>
+		<Lemma>it be so good in my belly .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I ran better with this waffle in my gut .</Tokens>
+		<POS>PRP VBD RB IN DT NN IN PRP$ NN .</POS>
+		<Lemma>I run better with this waffle in my gut .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Exercise with this small little supplement , it will do you some good .</Tokens>
+		<POS>NN IN DT JJ JJ NN , PRP MD VB PRP DT JJ .</POS>
+		<Lemma>exercise with this small little supplement , it will do you some good .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Makes a good soup .</Tokens>
+		<POS>VBZ DT JJ NN .</POS>
+		<Lemma>make a good soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Needs to be '' spiced '' up a bit , but a lot better than canned soup for sure !</Tokens>
+		<POS>NNS TO VB '' VBN '' IN DT NN , CC DT NN JJR IN VBN NN IN JJ .</POS>
+		<Lemma>need to be '' spice '' up a bit , but a lot better than can soup for sure !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Handy to have in the pantry !</Tokens>
+		<POS>JJ TO VB IN DT NN .</POS>
+		<Lemma>handy to have in the pantry !</Lemma>
+	</Sentence>
+</Document>

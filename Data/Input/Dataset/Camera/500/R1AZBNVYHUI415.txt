@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This little camera is worth it in so many ways .</Tokens>
+		<POS>DT JJ NN VBZ JJ PRP IN RB JJ NNS .</POS>
+		<Lemma>this little camera be worth it in so many way .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought this camera in preparation for the birth of our first child and it takes amazing low light pictures , it shoots multiple shots at different ISO 's and then combines them for the final output .</Tokens>
+		<POS>PRP VBD DT NN IN NN IN DT NN IN PRP$ JJ NN CC PRP VBZ JJ JJ NN NNS , PRP VBZ JJ NNS IN JJ NN POS CC RB VBZ PRP IN DT JJ NN .</POS>
+		<Lemma>I buy this camera in preparation for the birth of we first child and it take amazing low light picture , it shoot multiple shot at different iso 's and then combine they for the final output .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It does have some great settings to customize photos but its two negative features is that it takes some effort to customize the colors , they are very vivid by default -LRB- VERY VIVID -RRB- but I have that one figured out .</Tokens>
+		<POS>PRP VBZ VB DT JJ NNS TO VB NNS CC PRP$ CD JJ NNS VBZ IN PRP VBZ DT NN TO VB DT NNS , PRP VBP RB JJ IN NN -LRB- RB JJ -RRB- CC PRP VBP IN CD VBD RP .</POS>
+		<Lemma>it do have some great setting to customize photo but its two negative feature be that it take some effort to customize the color , they be very vivid by default -lrb- very vivid -rrb- but I have that one figure out .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The flash is in a awkward place but we have gotten used to it .</Tokens>
+		<POS>DT NN VBZ IN DT JJ NN CC PRP VBP VBN VBN TO PRP .</POS>
+		<Lemma>the flash be in a awkward place but we have get use to it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This camera has a great lens with a good zoom , it has a really useful auto function that shoots great photos .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN DT JJ NN , PRP VBZ DT RB JJ NN NN WDT VBZ JJ NNS .</POS>
+		<Lemma>this camera have a great lens with a good zoom , it have a really useful auto function that shoot great photo .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The videos are great as well , very good quality and smooth .</Tokens>
+		<POS>DT NNS VBP JJ RB RB , RB JJ NN CC VB .</POS>
+		<Lemma>the video be great as well , very good quality and smooth .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This camera has a high frame rate with videos and it has the processing power to render and save .</Tokens>
+		<POS>DT NN VBZ DT JJ NN NN IN NNS CC PRP VBZ DT NN NN TO VB CC VB .</POS>
+		<Lemma>this camera have a high frame rate with video and it have the processing power to render and save .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have quite a bit of experience with both still and video cameras and I can say that if you have the budget for this camera it is well worth the money , I am very please that I bought this one verses other cameras in the class .</Tokens>
+		<POS>PRP VBP RB DT NN IN NN IN CC RB CC NN NNS CC PRP MD VB IN IN PRP VBP DT NN IN DT NN PRP VBZ RB IN DT NN , PRP VBP RB VB IN PRP VBD DT CD NNS JJ NNS IN DT NN .</POS>
+		<Lemma>I have quite a bit of experience with both still and video camera and I can say that if you have the budget for this camera it be well worth the money , I be very please that I buy this one verse other camera in the class .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Further it feels very well built .</Tokens>
+		<POS>RB PRP VBZ RB RB VBN .</POS>
+		<Lemma>further it feel very well build .</Lemma>
+	</Sentence>
+</Document>

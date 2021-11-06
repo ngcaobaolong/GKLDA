@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As good as it gets for a whole grain bread for Celiacs !</Tokens>
+		<POS>IN JJ IN PRP VBZ IN DT JJ NN NN IN NNPS .</POS>
+		<Lemma>as good as it get for a whole grain bread for Celiacs !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great texture and flavor .</Tokens>
+		<POS>JJ NN CC NN .</POS>
+		<Lemma>great texture and flavor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens><a href="http://www.amazon.com/gp/product/B000KELHPS/ref=cm_cr_asin_lnk/181-1629019-3556507"> Bob 's Red Mill Gluten-Free Whole Grain Bread Mix , 20-Ounce Units -LRB- Pack of 4 -RRB- </a></Tokens>
+		<POS>NN NNP POS NNP NNP NNP NNP NNP NNP NNP , NN NNS -LRB- NN IN CD -RRB- IN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b000kelhps/ref=cm_cr_asin_lnk/181-1629019-3556507"> Bob 's Red Mill Gluten-Free Whole Grain Bread Mix , 20-ounce unit -lrb- pack of 4 -rrb- </a></Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is literally the best cereal in my entire life that I have ever eaten .</Tokens>
+		<POS>DT VBZ RB DT JJS NN IN PRP$ JJ NN IN PRP VBP RB VBN .</POS>
+		<Lemma>this be literally the best cereal in my entire life that I have ever eat .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a perfect supplement to a whole foods vegan diet .</Tokens>
+		<POS>PRP VBZ DT JJ NN TO DT JJ NNS JJ NN .</POS>
+		<Lemma>it be a perfect supplement to a whole food vegan diet .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>at 16g of protein per cup , packed with fiber , minerals , and vitamins , you can not go wrong with this cereal .</Tokens>
+		<POS>IN CD IN NN IN NN , VBN IN NN , NNS , CC NNS , PRP MD RB VB JJ IN DT NN .</POS>
+		<Lemma>at 16g of protein per cup , pack with fiber , mineral , and vitamin , you can not go wrong with this cereal .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This texture and taste are not for everyone , but for those who like hearty , multi grain , sugar free types of food , this is the cereal for you !</Tokens>
+		<POS>DT NN CC NN VBP RB IN NN , CC IN DT WP VBP JJ , JJ NN , NN JJ NNS IN NN , DT VBZ DT NN IN PRP .</POS>
+		<Lemma>this texture and taste be not for everyone , but for those who like hearty , multi grain , sugar free type of food , this be the cereal for you !</Lemma>
+	</Sentence>
+</Document>

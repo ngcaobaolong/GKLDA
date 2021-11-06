@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor was a gift from my husband .</Tokens>
+		<POS>DT NN VBD DT NN IN PRP$ NN .</POS>
+		<Lemma>the monitor be a gift from my husband .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It took some time getting used to the WIDE SCREEN thing .</Tokens>
+		<POS>PRP VBD DT NN VBG VBN TO DT NNP NN NN .</POS>
+		<Lemma>it take some time get use to the WIDE screen thing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But other then that EVERY thing has been great with it .</Tokens>
+		<POS>CC JJ RB IN NNP NN VBZ VBN JJ IN PRP .</POS>
+		<Lemma>but other then that EVERY thing have be great with it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great Colors and evreything !</Tokens>
+		<POS>JJ NNS CC NN .</POS>
+		<Lemma>great color and evreything !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are delicious for what they are !</Tokens>
+		<POS>DT VBP JJ IN WP PRP VBP .</POS>
+		<Lemma>these be delicious for what they be !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I generally keep one or two of these in my bento box on my bike to eat on particularly long rides if I 'm tired of my liquid nutrition and want something solid .</Tokens>
+		<POS>PRP RB VBP CD CC CD IN DT IN PRP$ NN NN IN PRP$ NN TO VB IN RB JJ NNS IN PRP VBP JJ IN PRP$ JJ NN CC VBP NN JJ .</POS>
+		<Lemma>I generally keep one or two of these in my bento box on my bike to eat on particularly long ride if I be tired of my liquid nutrition and want something solid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't depend on these for nutrition , but I like to have them there in case I bonk or just need an extra boost .</Tokens>
+		<POS>PRP VBP RB VB IN DT IN NN , CC PRP VBP TO VB PRP EX IN NN PRP VBP CC RB VBP DT JJ NN .</POS>
+		<Lemma>I do not depend on these for nutrition , but I like to have they there in case I bonk or just need a extra boost .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They 've also been a life-saver to tide me over post-ride or run when I 'm ravenously hungry but have n't had a chance to get my pwo noms .</Tokens>
+		<POS>PRP VBP RB VBN DT NN TO NN PRP IN JJ CC VB WRB PRP VBP RB JJ CC VBP RB VBD DT NN TO VB PRP$ NN NNS .</POS>
+		<Lemma>they have also be a life-saver to tide I over post-ride or run when I be ravenously hungry but have not have a chance to get my pwo nom .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Who am I kidding ; I 've also used these post-swim after 5k swim race when I 'm about to gnaw my arm off but have n't had the chance to get real food !</Tokens>
+		<POS>WP VBP PRP VBG : PRP VBP RB VBN DT JJ IN NN VBP NN WRB PRP VBP IN TO VB PRP$ NN IN CC VBP RB VBD DT NN TO VB JJ NN .</POS>
+		<Lemma>who be I kid ; I have also use these post-swim after 5k swim race when I be about to gnaw my arm off but have not have the chance to get real food !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've also used these as pre-run fuel when I want some energy but do n't want to eat anything big before a long run .</Tokens>
+		<POS>PRP VBP RB VBN DT IN JJ NN WRB PRP VBP DT NN CC VBP RB VB TO VB NN JJ IN DT JJ NN .</POS>
+		<Lemma>I have also use these as pre-run fuel when I want some energy but do not want to eat anything big before a long run .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>They 're just a fun & convenient source of energy when you need something quick and easily digested .</Tokens>
+		<POS>PRP VBP RB DT NN CC JJ NN IN NN WRB PRP VBP NN JJ CC RB VBN .</POS>
+		<Lemma>they be just a fun & convenient source of energy when you need something quick and easily digest .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Just enough taste\/calories\/nutrition , easy to digest , quick energy , convenient packaging , and easy storage .</Tokens>
+		<POS>RB JJ NN , JJ TO VB , JJ NN , JJ NN , CC JJ NN .</POS>
+		<Lemma>just enough taste\/calories\/nutrition , easy to digest , quick energy , convenient packaging , and easy storage .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>A great food to keep around your workout gear `` just in case '' .</Tokens>
+		<POS>DT JJ NN TO VB IN PRP$ NN NN `` RB IN NN '' .</POS>
+		<Lemma>a great food to keep around you workout gear `` just in case '' .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this as it was advertised to work with my dell streak .</Tokens>
+		<POS>PRP VBD DT IN PRP VBD VBN TO VB IN PRP$ NN NN .</POS>
+		<Lemma>I get this as it be advertise to work with my dell streak .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>1 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>1 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>the cable does not fit at all .</Tokens>
+		<POS>DT NN VBZ RB VB IN DT .</POS>
+		<Lemma>the cable do not fit at all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>was told by seller that I should use oem cables , which I tried ... it works for about 2 seconds and then the connection breaks .</Tokens>
+		<POS>VBD VBN IN NN IN PRP MD VB NN NNS , WDT PRP VBD : PRP VBZ IN RB CD NNS CC RB DT NN NNS .</POS>
+		<Lemma>be tell by seller that I should use oem cable , which I try ... it work for about 2 seconds and then the connection break .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>tried plugging back in , works for another few seconds then connection breaks .</Tokens>
+		<POS>VBD VBG RB IN , VBZ IN DT JJ NNS RB NN NNS .</POS>
+		<Lemma>try plug back in , work for another few seconds then connection break .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>would not purchase another of these it is flimsy even if it did work .</Tokens>
+		<POS>MD RB VB DT IN DT PRP VBZ JJ RB IN PRP VBD NN .</POS>
+		<Lemma>would not purchase another of these it be flimsy even if it do work .</Lemma>
+	</Sentence>
+</Document>

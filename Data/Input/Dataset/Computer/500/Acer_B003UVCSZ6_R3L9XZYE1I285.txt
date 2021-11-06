@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Acer S211HL 20.1 LED LCD panel is super thin .</Tokens>
+		<POS>DT NNP NN CD VBD NNS NN VBZ JJ JJ .</POS>
+		<Lemma>the Acer s211hl 20.1 lead lcd panel be super thin .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Has VESA mounts .</Tokens>
+		<POS>VBZ NNP VBZ .</POS>
+		<Lemma>have VESA mount .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Weighs little to nothing .</Tokens>
+		<POS>VBZ JJ TO NN .</POS>
+		<Lemma>weigh little to nothing .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Has Ok performance .</Tokens>
+		<POS>VBZ JJ NN .</POS>
+		<Lemma>have ok performance .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great price for an LED 1080p under 21 '' monitor .</Tokens>
+		<POS>JJ NN IN DT VBN NN IN CD '' NN .</POS>
+		<Lemma>great price for a lead 1080p under 21 '' monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Watch for bad pixels .</Tokens>
+		<POS>NNP IN JJ NNS .</POS>
+		<Lemma>Watch for bad pixel .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The first one I purchased had a bad pixel .</Tokens>
+		<POS>DT JJ CD PRP VBD VBD DT JJ NN .</POS>
+		<Lemma>the first one I purchase have a bad pixel .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The second one purchased to replace the first was fine .</Tokens>
+		<POS>DT JJ CD VBN TO VB DT JJ VBD JJ .</POS>
+		<Lemma>the second one purchase to replace the first be fine .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There is a bit of a white halo around the screen edges .</Tokens>
+		<POS>EX VBZ DT NN IN DT JJ NN IN DT NN NNS .</POS>
+		<Lemma>there be a bit of a white halo around the screen edge .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Piano Black gloss casing does scratch easy just like anything else with the same finish .</Tokens>
+		<POS>NN JJ VBP VBG VBZ NN JJ RB IN NN RB IN DT JJ NN .</POS>
+		<Lemma>piano black gloss case do scratch easy just like anything else with the same finish .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The LCD colors are a bit off , and need to be adjusted .</Tokens>
+		<POS>DT NNS NNS VBP DT NN RP , CC VB TO VB VBN .</POS>
+		<Lemma>the lcd color be a bit off , and need to be adjust .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The LED backlighting is super bright .</Tokens>
+		<POS>DT VBN NN VBZ JJ JJ .</POS>
+		<Lemma>the lead backlighting be super bright .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I had to turn it down to 40 .</Tokens>
+		<POS>PRP VBD TO VB PRP IN TO CD .</POS>
+		<Lemma>I have to turn it down to 40 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Controls are easy enough .</Tokens>
+		<POS>NNP VBP JJ RB .</POS>
+		<Lemma>Controls be easy enough .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Would buy again .</Tokens>
+		<POS>MD VB RB .</POS>
+		<Lemma>would buy again .</Lemma>
+	</Sentence>
+</Document>

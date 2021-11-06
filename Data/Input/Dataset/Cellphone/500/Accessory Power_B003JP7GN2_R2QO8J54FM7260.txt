@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The TRANS4M dual USB universal charger is an awesome travel companion .</Tokens>
+		<POS>DT NN JJ JJ JJ NN VBZ DT JJ NN NN .</POS>
+		<Lemma>the trans4m dual usb universal charger be a awesome travel companion .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's multi-purpose charging station for numerous mobile devices .</Tokens>
+		<POS>PRP VBZ JJ VBG NN IN JJ JJ NNS .</POS>
+		<Lemma>it be multi-purpose charge station for numerous mobile device .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>May it be for traveling within the states or out of the country .</Tokens>
+		<POS>MD PRP VB IN VBG IN DT NNS CC IN IN DT NN .</POS>
+		<Lemma>may it be for travel within the state or out of the country .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It supports both DC and AC : 110v and 220v ... the only thing needed for other countries is the adapter .</Tokens>
+		<POS>PRP VBZ CC NN CC NN : NN CC NN : DT JJ NN VBN IN JJ NNS VBZ DT NN .</POS>
+		<Lemma>it support both dc and ac : 110v and 220v ... the only thing need for other country be the adapter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>As for DC : it has a built in car charger and if that 's not available , you can use batteries : 2 x AA or 1 x 9v .</Tokens>
+		<POS>IN IN NN : PRP VBZ DT VBN IN NN NN CC IN DT VBZ RB JJ , PRP MD VB NNS : CD CC NN CC CD CC CD .</POS>
+		<Lemma>as for dc : it have a build in car charger and if that be not available , you can use battery : 2 x aa or 1 x 9v .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>A must have item .</Tokens>
+		<POS>DT MD VB NN .</POS>
+		<Lemma>a must have item .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The only minus side to this device is that it does ' t support the Apple iPad .</Tokens>
+		<POS>DT JJ CC NN TO DT NN VBZ IN PRP VBZ '' NN VBP DT NNP NNP .</POS>
+		<Lemma>the only minus side to this device be that it do ' t support the Apple iPad .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Other than that ... current items that I have tested is iPhone 4G , 3rd Gen Ipod Nano , Blackberry Storm and Bold .</Tokens>
+		<POS>JJ IN DT : JJ NNS IN PRP VBP VBN VBZ NNP NNP , JJ NN NNP NNP , NNP NN CC JJ .</POS>
+		<Lemma>other than that ... current item that I have test be iPhone 4G , 3rd gen Ipod Nano , Blackberry storm and bold .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>the USB plug is not all WAY in .</Tokens>
+		<POS>DT JJ NN VBZ RB DT NN IN .</POS>
+		<Lemma>the usb plug be not all way in .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>my phone still need RECHARGE , the battery BAR is not showing FULL .</Tokens>
+		<POS>PRP$ NN RB VBP NNP , DT NN NN VBZ RB VBG NNP .</POS>
+		<Lemma>my phone still need RECHARGE , the battery bar be not show FULL .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>i want a new ONE or refund it back .</Tokens>
+		<POS>LS VBP DT JJ CD CC NN PRP RB .</POS>
+		<Lemma>i want a new one or refund it back .</Lemma>
+	</Sentence>
+</Document>

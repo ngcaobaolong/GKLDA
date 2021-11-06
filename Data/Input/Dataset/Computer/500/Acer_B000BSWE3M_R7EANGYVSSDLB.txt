@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ordered on Christmas Eve arrived December 29 great Amazon service .</Tokens>
+		<POS>VBN IN NNP NNP VBD NNP CD JJ NNP NN .</POS>
+		<Lemma>order on Christmas Eve arrive December 29 great Amazon service .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Amazon outer box was all beat up but no damage to Acer packaging .</Tokens>
+		<POS>NNP JJ NN VBD DT VB RP CC DT NN TO NNP NN .</POS>
+		<Lemma>Amazon outer box be all beat up but no damage to Acer packaging .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Plugged the monitor in , no set up works perfectly .</Tokens>
+		<POS>VBN DT NN IN , DT VBN RP VBZ RB .</POS>
+		<Lemma>plug the monitor in , no set up work perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great display - one dead\/stuck pixel in an inconspicuous spot may try the software fix Excellent monitor for the $ $</Tokens>
+		<POS>JJ NN : CD NN NN IN DT JJ NN MD VB DT NN NN JJ NN IN DT $ $</POS>
+		<Lemma>great display - one dead\/stuck pixel in a inconspicuous spot may try the software fix excellent monitor for the $ $</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought these as a gift for my husband who is a Dr. Who fan .</Tokens>
+		<POS>PRP VBD DT IN DT NN IN PRP$ NN WP VBZ DT NNP WP NN .</POS>
+		<Lemma>I buy these as a gift for my husband who be a Dr. who fan .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was very happy with the seller and my husband loved the candy .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NN CC PRP$ NN VBD DT NN .</POS>
+		<Lemma>I be very happy with the seller and my husband love the candy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>He gave me a few to taste and they 're much better than the gummy-type candies we have here with delicious flavors and texture .</Tokens>
+		<POS>PRP VBD PRP DT JJ TO VB CC PRP VBP RB JJR IN DT JJ NNS PRP VBP RB IN JJ NNS CC NN .</POS>
+		<Lemma>he give I a few to taste and they be much better than the gummy-type candy we have here with delicious flavor and texture .</Lemma>
+	</Sentence>
+</Document>

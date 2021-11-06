@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am no happy because in title write it is good for iphone but no charge iphone , kindle fire etc No good business</Tokens>
+		<POS>PRP VBP DT JJ IN IN NN VB PRP VBZ JJ IN NN CC DT NN NN , NN NN FW DT JJ NN</POS>
+		<Lemma>I be no happy because in title write it be good for iphone but no charge iphone , kindle fire etc no good business</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very satisfied with the Acer monitor .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NNP NN .</POS>
+		<Lemma>I be very satisfied with the Acer monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The colors are much better than the Dell I previously had and I find it easier to adjust .</Tokens>
+		<POS>DT NNS VBP RB JJR IN DT NNP PRP RB VBD CC PRP VBP PRP JJR TO VB .</POS>
+		<Lemma>the color be much better than the Dell I previously have and I find it easier to adjust .</Lemma>
+	</Sentence>
+</Document>

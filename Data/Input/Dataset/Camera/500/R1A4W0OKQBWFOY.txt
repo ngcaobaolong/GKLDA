@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just take pictures casually , no professional stuff or anything and I absolutely love this camera .</Tokens>
+		<POS>PRP RB VBP NNS RB , DT JJ NN CC NN CC PRP RB VBP DT NN .</POS>
+		<Lemma>I just take picture casually , no professional stuff or anything and I absolutely love this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's got many features that make it easier to take pictures .</Tokens>
+		<POS>PRP VBZ VBD JJ NNS WDT VBP PRP JJR TO VB NNS .</POS>
+		<Lemma>it be get many feature that make it easier to take picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A really good camera for the casual photographer IMO .</Tokens>
+		<POS>DT RB JJ NN IN DT JJ NNP NNP .</POS>
+		<Lemma>a really good camera for the casual photographer IMO .</Lemma>
+	</Sentence>
+</Document>

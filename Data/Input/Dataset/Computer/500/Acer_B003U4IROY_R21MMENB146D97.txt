@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I already own another ACER and is a 1600x900 resolution , so I did a research before buying this one , and I like it that is got a higher resolution than my old one .</Tokens>
+		<POS>PRP RB VBP DT NNP CC VBZ DT NN NN , IN PRP VBD DT NN IN VBG DT CD , CC PRP VBP PRP WDT VBZ VBD DT JJR NN IN PRP$ JJ CD .</POS>
+		<Lemma>I already own another ACER and be a 1600x900 resolution , so I do a research before buy this one , and I like it that be get a higher resolution than my old one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did read somewhere else that half of it is darker than the other half of the screen , I do n't see that at all , I do color correction on pictures , so is important for me to have the right monitor , and I do not see that flaw .</Tokens>
+		<POS>PRP VBD VB RB RB IN NN IN PRP VBZ JJR IN DT JJ NN IN DT NN , PRP VBP RB VB DT IN DT , PRP VBP NN NN IN NNS , RB VBZ JJ IN PRP TO VB DT JJ NN , CC PRP VBP RB VB DT NN .</POS>
+		<Lemma>I do read somewhere else that half of it be darker than the other half of the screen , I do not see that at all , I do color correction on picture , so be important for I to have the right monitor , and I do not see that flaw .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>IS TOO BRIGHT , but that is ok , you see that only if there is not enought light in the room or when is getting dark outside ... but it 's fine believe me .</Tokens>
+		<POS>VBZ NNP NNP , CC DT VBZ NN , PRP VBP IN RB IN EX VBZ RB JJ NN IN DT NN CC WRB VBZ VBG JJ IN : CC PRP VBZ JJ VBP PRP .</POS>
+		<Lemma>be TOO BRIGHT , but that be ok , you see that only if there be not enought light in the room or when be get dark outside ... but it be fine believe I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Colors are fine , did n't have to adjust anything .</Tokens>
+		<POS>NNS VBP JJ , VBD RB VB TO VB NN .</POS>
+		<Lemma>color be fine , do not have to adjust anything .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm happy with the purchase , did n't have to buy an extra warranty , I did with my old one for one year only and is already 2 years old and still working .</Tokens>
+		<POS>PRP VBP JJ IN DT NN , VBD RB VB TO VB DT JJ NN , PRP VBD IN PRP$ JJ CD IN CD NN RB CC VBZ RB CD NNS JJ CC RB VBG .</POS>
+		<Lemma>I be happy with the purchase , do not have to buy a extra warranty , I do with my old one for one year only and be already 2 year old and still work .</Lemma>
+	</Sentence>
+</Document>

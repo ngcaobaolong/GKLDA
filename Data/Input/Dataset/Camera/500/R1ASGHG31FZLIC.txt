@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera with the kit lens ... after having used the DA \* 50-135 , I know the kit 18-55 will be redundant soon as i save $ for the DA \* 16-50 ... You 're probably on the right track here looking at the body only version ... As for the K5 ... its excellent .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN NN : IN VBG VBN DT NNP SYM CD , PRP VBP DT NN CD MD VB JJ RB IN FW VB $ IN DT NNP SYM CD : PRP VBP RB IN DT JJ NN RB VBG IN DT NN RB NN : IN IN DT NN : PRP$ JJ .</POS>
+		<Lemma>I buy this camera with the kit lens ... after have use the DA \* 50-135 , I know the kit 18-55 will be redundant soon as i save $ for the DA \* 16-50 ... you be probably on the right track here look at the body only version ... as for the k5 ... its excellent .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The k7 was -LRB- still is for most practical purposes -RRB- an awesome camera .</Tokens>
+		<POS>DT NN VBD -LRB- RB VBZ IN JJS JJ NNS -RRB- DT JJ NN .</POS>
+		<Lemma>the k7 be -lrb- still be for most practical purpose -rrb- a awesome camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great features , customizability , built like a tank ... perfect size , weather sealed , 100 % viewfinder ... k5 is all this with a significantly better sensor , arguably the only lacking aspect of the k7 .</Tokens>
+		<POS>JJ NNS , NN , VBN IN DT NN : JJ NN , NN VBN , CD NN NN : NN VBZ PDT DT IN DT RB JJR NN , RB DT JJ VBG NN IN DT NN .</POS>
+		<Lemma>great feature , customizability , build like a tank ... perfect size , weather seal , 100 % viewfinder ... k5 be all this with a significantly better sensor , arguably the only lack aspect of the k7 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Apparently there 's a new autofocus system too ... so far so good .</Tokens>
+		<POS>RB EX VBZ DT JJ NN NN RB : RB RB RB JJ .</POS>
+		<Lemma>apparently there be a new autofocus system too ... so far so good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This one ended up as my choice over the Canon 7D after a fair amount of research for my first DSLR .</Tokens>
+		<POS>DT NN VBD RP IN PRP$ NN IN DT NNP NNP IN DT JJ NN IN NN IN PRP$ JJ NN .</POS>
+		<Lemma>this one end up as my choice over the Canon 7D after a fair amount of research for my first dslr .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Reason being the high ISO performance it claimed ... Happy with the choice after using it for a few days .</Tokens>
+		<POS>NN VBG DT JJ NN NN PRP VBD : JJ IN DT NN IN VBG PRP IN DT JJ NNS .</POS>
+		<Lemma>reason be the high iso performance it claim ... happy with the choice after use it for a few day .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm thrilled with the kind of shots I 'm able to take handheld in a dimly lit indoors -LRB- 1600-6400 ISO , 1\/15 -1 \/ 60th shutter , f3 .5 on the kit lens or 2.8 on the DA \* -RRB- ... in-body image stabilization comes in handy here as well ... and a good lens , i.e. all the more reason to go ` body only ' .</Tokens>
+		<POS>PRP VBP VBN IN DT NN IN NNS PRP VBP JJ TO VB JJ IN DT RB VBN RB -LRB- CD NN , CD CD : JJ NN , NN CD IN DT NN NN CC CD IN DT NNP SYM -RRB- : JJ NN NN VBZ IN JJ RB RB RB : CC DT JJ NN , FW PDT DT RBR NN TO VB `` NN RB '' .</POS>
+		<Lemma>I be thrill with the kind of shot I be able to take handheld in a dimly light indoors -lrb- 1600-6400 iso , 1\/15 -1 \/ 60th shutter , f3 .5 on the kit lens or 2.8 on the DA \* -rrb- ... in-body image stabilization come in handy here as well ... and a good lens , i.e. all the more reason to go ` body only ' .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>About me ... a photography enthusiast , architect by profession and travel at every chance I get ... learned to shoot pictures on a Pentax spotmatic ... switched to a Nikon n85 a few years before the film era begun fading .</Tokens>
+		<POS>IN PRP : DT NN NN , NN IN NN CC NN IN DT NN PRP VBP : VBN TO VB NNS IN DT NNP NN : VBN TO DT NNP NN DT JJ NNS IN DT NN NN VBN JJ .</POS>
+		<Lemma>about I ... a photography enthusiast , architect by profession and travel at every chance I get ... learn to shoot picture on a Pentax spotmatic ... switch to a Nikon n85 a few year before the film era begin fading .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Have used and or .</Tokens>
+		<POS>VBP VBN CC CC .</POS>
+		<Lemma>have use and or .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Highly recommend the K5 ... wish it was a little cheaper .</Tokens>
+		<POS>RB VB DT NN : VB PRP VBD DT JJ JJR .</POS>
+		<Lemma>highly recommend the k5 ... wish it be a little cheaper .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>5 stars none the less ... Have to add , I was initially concerned about the choice of pentax lenses but after some looking , they seem to have decent options with the DA \* and Limited series .</Tokens>
+		<POS>CD NNS NN DT JJR : VBP TO VB , PRP VBD RB VBN IN DT NN IN NN NNS CC IN DT VBG , PRP VBP TO VB JJ NNS IN DT NNP SYM CC JJ NN .</POS>
+		<Lemma>5 star none the less ... have to add , I be initially concern about the choice of pentax lens but after some look , they seem to have decent option with the DA \* and limited series .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Definitely give this camera a serious look -LRB- save the $ and go for k7 if not too concerned about low light -RRB- .</Tokens>
+		<POS>RB VB DT NN DT JJ NN -LRB- VB DT $ CC VB IN NN IN RB RB JJ IN JJ NN -RRB- .</POS>
+		<Lemma>definitely give this camera a serious look -lrb- save the $ and go for k7 if not too concerned about low light -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>PS - Do n't like the pentax software at all !</Tokens>
+		<POS>NNP : VBP RB VB DT NN NN IN DT .</POS>
+		<Lemma>PS - do not like the pentax software at all !</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I use aperture instead , which has its own set of flaws including having to upgrade to version 3 to read pentax RAW ...</Tokens>
+		<POS>PRP VBP NN RB , WDT VBZ PRP$ JJ NN IN NNS VBG VBG TO VB TO NN CD TO VB NN NN :</POS>
+		<Lemma>I use aperture instead , which have its own set of flaw include have to upgrade to version 3 to read pentax raw ...</Lemma>
+	</Sentence>
+</Document>

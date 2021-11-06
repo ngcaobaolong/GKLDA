@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We loved this soup !</Tokens>
+		<POS>PRP VBD DT NN .</POS>
+		<Lemma>we love this soup !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I cooked the whole bag and froze what we did n't eat .</Tokens>
+		<POS>PRP VBD DT JJ NN CC VBD WP PRP VBD RB VB .</POS>
+		<Lemma>I cook the whole bag and freeze what we do not eat .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>One month later , the soup is there in the freezer when I need it .</Tokens>
+		<POS>CD NN RB , DT NN VBZ RB IN DT NN WRB PRP VBP PRP .</POS>
+		<Lemma>one month later , the soup be there in the freezer when I need it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am not a big fan -LRB- I thought ! -RRB-</Tokens>
+		<POS>PRP VBP RB DT JJ NN -LRB- PRP VBD . -RRB-</POS>
+		<Lemma>I be not a big fan -lrb- I think ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>of bean soup but this has many distinct textures and flavors .</Tokens>
+		<POS>IN NN NN CC DT VBZ JJ JJ NNS CC NNS .</POS>
+		<Lemma>of bean soup but this have many distinct texture and flavor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Of course , I did start mine a bit more complicated than Bob 's directions because I was not necessarily looking for quick and easy and I was willing to invest a bit of time for a more classical approach .</Tokens>
+		<POS>IN NN , PRP VBD VB PRP DT NN RBR JJ IN NNP POS NNS IN PRP VBD RB RB VBG IN JJ CC JJ CC PRP VBD JJ TO VB DT NN IN NN IN DT RBR JJ NN .</POS>
+		<Lemma>of course , I do start mine a bit more complicated than Bob 's direction because I be not necessarily look for quick and easy and I be willing to invest a bit of time for a more classical approach .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Soup is best if you begin by cooking celery , onion & carrots , then add garlic if you like and perhaps a bay leaf .</Tokens>
+		<POS>NNP VBZ JJS IN PRP VBP IN NN NN , NN CC NNS , RB VB NN IN PRP IN CC RB DT NN NN .</POS>
+		<Lemma>Soup be best if you begin by cooking celery , onion & carrot , then add garlic if you like and perhaps a bay leaf .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I used lots of low-salt canned chicken broth -LRB- 50 % more than recommended -RRB- and finished with chopped parsley to freshen the color a bit .</Tokens>
+		<POS>PRP VBD NNS IN JJ VBN NN NN -LRB- CD NN JJR IN VBN -RRB- CC VBN IN VBN NN TO VB DT NN DT NN .</POS>
+		<Lemma>I use lot of low-salt can chicken broth -lrb- 50 % more than recommend -rrb- and finish with chop parsley to freshen the color a bit .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Delicious !</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Delicious !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Another bonus is the incredible amount of fiber that this soup has .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN NN IN DT NN VBZ .</POS>
+		<Lemma>another bonus be the incredible amount of fiber that this soup have .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It really is a tremendous value for a very filling meal .</Tokens>
+		<POS>PRP RB VBZ DT JJ NN IN DT RB VBG NN .</POS>
+		<Lemma>it really be a tremendous value for a very fill meal .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Will order more SOON !</Tokens>
+		<POS>MD VB RBR RB .</POS>
+		<Lemma>will order more soon !</Lemma>
+	</Sentence>
+</Document>

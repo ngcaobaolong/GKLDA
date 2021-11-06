@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For being a veggie soup I was very surprised how good it was .</Tokens>
+		<POS>IN VBG DT NN NN PRP VBD RB JJ WRB JJ PRP VBD .</POS>
+		<Lemma>for be a veggie soup I be very surprised how good it be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>All I did was add 2 chicken broth cubes per serving for a yummy meal .</Tokens>
+		<POS>DT PRP VBD VBD VB CD NN NN NNS IN VBG IN DT JJ NN .</POS>
+		<Lemma>all I do be add 2 chicken broth cube per serve for a yummy meal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm definitely going to try more of Bob 's soup mixes .</Tokens>
+		<POS>PRP VBP RB VBG TO VB JJR IN NNP POS NN VBZ .</POS>
+		<Lemma>I be definitely go to try more of Bob 's soup mix .</Lemma>
+	</Sentence>
+</Document>

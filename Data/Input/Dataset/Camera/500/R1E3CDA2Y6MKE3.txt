@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First - let me say that Canon is a company I would by anything from .</Tokens>
+		<POS>LS : VB PRP VB IN NNP VBZ DT NN PRP MD IN NN IN .</POS>
+		<Lemma>first - let I say that Canon be a company I would by anything from .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They have the best customer support I have dealt with in a long time .</Tokens>
+		<POS>PRP VBP DT JJS NN NN PRP VBP VBN IN IN DT JJ NN .</POS>
+		<Lemma>they have the best customer support I have deal with in a long time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This was for a previous product , not my new G12 .</Tokens>
+		<POS>DT VBD IN DT JJ NN , RB PRP$ JJ NN .</POS>
+		<Lemma>this be for a previous product , not my new g12 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now , for the G12 .</Tokens>
+		<POS>RB , IN DT NN .</POS>
+		<Lemma>now , for the g12 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Awesome Camera .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>awesome camera .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have read other reviews where they are comparing the camera to DSLR ... and complain because it does n't match up .</Tokens>
+		<POS>PRP VBP VBN JJ NNS WRB PRP VBP VBG DT NN TO NNP : CC VBP IN PRP VBZ RB VB RP .</POS>
+		<Lemma>I have read other review where they be compare the camera to DSLR ... and complain because it do not match up .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Well , it should n't , this is not a DSLR , this -LRB- in my opinion -RRB- is a high end point and shoot .</Tokens>
+		<POS>RB , PRP MD RB , DT VBZ RB DT NN , DT -LRB- IN PRP$ NN -RRB- VBZ DT JJ NN NN CC NN .</POS>
+		<Lemma>well , it should not , this be not a dslr , this -lrb- in my opinion -rrb- be a high end point and shoot .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you want a DSLR , buy one .</Tokens>
+		<POS>IN PRP VBP DT NN , VB CD .</POS>
+		<Lemma>if you want a dslr , buy one .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you want a camera that takes great pictures , has tons of extra settings -LRB- fish eye ; color accent ; miniature , are some of my favorites -RRB- , allows for manual settings , and is also a simple point and shoot ... this is it .</Tokens>
+		<POS>IN PRP VBP DT NN WDT VBZ JJ NNS , VBZ NNS IN JJ NNS -LRB- NN NN : NN NN : NN , VBP DT IN PRP$ NNS -RRB- , VBZ IN JJ NNS , CC VBZ RB DT JJ NN CC NN : DT VBZ PRP .</POS>
+		<Lemma>if you want a camera that take great picture , have ton of extra setting -lrb- fish eye ; color accent ; miniature , be some of my favorite -rrb- , allow for manual setting , and be also a simple point and shoot ... this be it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And , it is fairly small and easy to take out anywhere with you .</Tokens>
+		<POS>CC , PRP VBZ RB JJ CC JJ TO VB RP RB IN PRP .</POS>
+		<Lemma>and , it be fairly small and easy to take out anywhere with you .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The only complaint I can say is that it has so many features , it is a bit tough to easily set the camera to what you want ... but with plenty of use , I will memorize how to get what I want soon .</Tokens>
+		<POS>DT JJ NN PRP MD VB VBZ IN PRP VBZ RB JJ NNS , PRP VBZ DT NN JJ TO RB VB DT NN TO WP PRP VBP : CC IN NN IN NN , PRP MD VB WRB TO VB WP PRP VBP RB .</POS>
+		<Lemma>the only complaint I can say be that it have so many feature , it be a bit tough to easily set the camera to what you want ... but with plenty of use , I will memorize how to get what I want soon .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I highly recommend this camera ... because of its features , picture quality , and Canon support !</Tokens>
+		<POS>PRP RB VB DT NN : IN IN PRP$ NNS , NN NN , CC NNP NN .</POS>
+		<Lemma>I highly recommend this camera ... because of its feature , picture quality , and Canon support !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I actually purchased this camera because of the reviews and because I need something light weight that will `` do it all '' for an upcoming big trip .</Tokens>
+		<POS>PRP RB VBD DT NN IN IN DT NNS CC IN PRP VBP NN JJ NN WDT MD `` VB PRP DT '' IN DT VBG JJ NN .</POS>
+		<Lemma>I actually purchase this camera because of the review and because I need something light weight that will `` do it all '' for a upcome big trip .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have 2 DSLR 's but with all the lenses that I would like to take and the amount of weight of either one , neither would be conducive to hike with .</Tokens>
+		<POS>PRP VBP CD NNP POS CC IN PDT DT NNS IN PRP MD VB TO VB CC DT NN IN NN IN DT CD , CC MD VB JJ TO VB IN .</POS>
+		<Lemma>I have 2 DSLR 's but with all the lens that I would like to take and the amount of weight of either one , neither would be conducive to hike with .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This little Camera , Canon XS40 HS , has a X35 optical zoom that is amazing .</Tokens>
+		<POS>DT JJ NN , NNP NNP NN , VBZ DT NN JJ NN WDT VBZ JJ .</POS>
+		<Lemma>this little camera , Canon XS40 h , have a x35 optical zoom that be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have been practicing with it and it will certainly fit the need .</Tokens>
+		<POS>PRP VBP VBN VBG IN PRP CC PRP MD RB VB DT NN .</POS>
+		<Lemma>I have be practice with it and it will certainly fit the need .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Because it is so versatile , I will always have the lens I need ready to capture that great shot !</Tokens>
+		<POS>IN PRP VBZ RB JJ , PRP MD RB VB DT NN PRP VBP JJ TO VB DT JJ NN .</POS>
+		<Lemma>because it be so versatile , I will always have the lens I need ready to capture that great shot !</Lemma>
+	</Sentence>
+</Document>

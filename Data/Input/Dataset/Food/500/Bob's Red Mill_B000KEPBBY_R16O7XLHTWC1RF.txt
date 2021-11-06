@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a good soup , you need to add a few things , and be careful or you 'll have a very full pot , but it is good .</Tokens>
+		<POS>DT VBZ DT JJ NN , PRP VBP TO VB DT JJ NNS , CC VB JJ CC PRP MD VB DT RB JJ NN , CC PRP VBZ JJ .</POS>
+		<Lemma>this be a good soup , you need to add a few thing , and be careful or you 'll have a very full pot , but it be good .</Lemma>
+	</Sentence>
+</Document>

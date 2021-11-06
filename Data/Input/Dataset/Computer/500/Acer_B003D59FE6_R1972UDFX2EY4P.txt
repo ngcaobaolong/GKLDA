@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have a three monitor station with this particular Acer model at my workplace .</Tokens>
+		<POS>PRP VBP DT CD NN NN IN DT JJ NNP NN IN PRP$ NN .</POS>
+		<Lemma>I have a three monitor station with this particular Acer model at my workplace .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Thus far , this monitor is consistent and has clear picture quality .</Tokens>
+		<POS>RB RB , DT NN VBZ JJ CC VBZ JJ NN NN .</POS>
+		<Lemma>thus far , this monitor be consistent and have clear picture quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Luckily , there color is n't too overbearingly bright or vivid .</Tokens>
+		<POS>RB , EX NN VBZ RB RB RB JJ CC JJ .</POS>
+		<Lemma>luckily , there color be not too overbearingly bright or vivid .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Sitting in front of a set of these monitors for 5 + hours have been generally comfortable .</Tokens>
+		<POS>VBG IN NN IN DT NN IN DT NNS IN CD CC NNS VBP VBN RB JJ .</POS>
+		<Lemma>sit in front of a set of these monitor for 5 + hour have be generally comfortable .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It also helps that there are several picture modes : user , movie , eco -LRB- my favorite -RRB- , and standard .</Tokens>
+		<POS>PRP RB VBZ IN EX VBP JJ NN NNS : NN , NN , NN -LRB- PRP$ NN -RRB- , CC NN .</POS>
+		<Lemma>it also help that there be several picture mode : user , movie , eco -lrb- my favorite -rrb- , and standard .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I like the eco friendly mode because it 's dim , but still clear at the same time .</Tokens>
+		<POS>PRP VBP DT NN JJ NN IN PRP VBZ JJ , CC RB JJ IN DT JJ NN .</POS>
+		<Lemma>I like the eco friendly mode because it be dim , but still clear at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Overall , great for work and for someone not looking for a monitor too big .</Tokens>
+		<POS>RB , JJ IN NN CC IN NN RB VBG IN DT NN RB JJ .</POS>
+		<Lemma>overall , great for work and for someone not look for a monitor too big .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This 19 inch monitor is n't as small as it seems .</Tokens>
+		<POS>DT CD NN NN VBZ RB IN JJ IN PRP VBZ .</POS>
+		<Lemma>this 19 inch monitor be not as small as it seem .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Also , keep in mind that the maximum resolution is 1400 x 900 .</Tokens>
+		<POS>RB , VB IN NN IN DT NN NN VBZ CD CC CD .</POS>
+		<Lemma>also , keep in mind that the maximum resolution be 1400 x 900 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>P.S. .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>P.S. .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>At my workplace , we have hundreds of these Acer monitors , so it 's definitely a reliable and durable monitor .</Tokens>
+		<POS>IN PRP$ NN , PRP VBP NNS IN DT NNP NNS , IN PRP VBZ RB DT JJ CC JJ NN .</POS>
+		<Lemma>at my workplace , we have hundred of these Acer monitor , so it be definitely a reliable and durable monitor .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Great 19 '' monitor if it suits your tastes .</Tokens>
+		<POS>JJ CD '' NN IN PRP NNS PRP$ NNS .</POS>
+		<Lemma>great 19 '' monitor if it suit you taste .</Lemma>
+	</Sentence>
+</Document>

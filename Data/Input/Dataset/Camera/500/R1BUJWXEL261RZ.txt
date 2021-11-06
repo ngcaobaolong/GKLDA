@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The pictures are great on this camera .</Tokens>
+		<POS>DT NNS VBP JJ IN DT NN .</POS>
+		<Lemma>the picture be great on this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The video is so clear , full HD .</Tokens>
+		<POS>DT NN VBZ RB JJ , JJ NN .</POS>
+		<Lemma>the video be so clear , full hd .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is waterproof , I do n't know what this other people are writing that it is not .</Tokens>
+		<POS>DT VBZ JJ , PRP VBP RB VB WP DT JJ NNS VBP VBG IN PRP VBZ RB .</POS>
+		<Lemma>this be waterproof , I do not know what this other people be write that it be not .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I took it in pools and oceans and it still works .</Tokens>
+		<POS>PRP VBD PRP IN NNS CC NNS CC PRP RB VBZ .</POS>
+		<Lemma>I take it in pool and ocean and it still work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It been in snow and wet snowboarding days .</Tokens>
+		<POS>PRP VBN IN NN CC JJ NN NNS .</POS>
+		<Lemma>it be in snow and wet snowboarding day .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It IS waterproof .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be waterproof .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You just have to take care of it .</Tokens>
+		<POS>PRP RB VBP TO VB NN IN PRP .</POS>
+		<Lemma>you just have to take care of it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you 're dunking it in water , salt or chlorine especially , clean it after .</Tokens>
+		<POS>IN PRP VBP VBG PRP IN NN , NN CC NN RB , JJ PRP IN .</POS>
+		<Lemma>if you be dunk it in water , salt or chlorine especially , clean it after .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 'm betting these people that say its not waterproof as just not doing a good job of maintenance .</Tokens>
+		<POS>PRP VBP VBG DT NNS WDT VBP PRP$ RB JJ IN RB RB VBG DT JJ NN IN NN .</POS>
+		<Lemma>I be bet these people that say its not waterproof as just not do a good job of maintenance .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Overall , this camera is awesome .</Tokens>
+		<POS>RB , DT NN VBZ JJ .</POS>
+		<Lemma>overall , this camera be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would go as far as saying its the best out there , as far as pocket cameras go .</Tokens>
+		<POS>PRP MD VB RB RB IN VBG PRP$ DT JJS IN RB , IN RB IN NN NNS VBP .</POS>
+		<Lemma>I would go as far as say its the best out there , as far as pocket camera go .</Lemma>
+	</Sentence>
+</Document>

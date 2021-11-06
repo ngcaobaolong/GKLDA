@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The ACER 19 '' series of TN LCDs is generally a very good value .</Tokens>
+		<POS>DT NNP CD '' NN IN NN NNS VBZ RB DT RB JJ NN .</POS>
+		<Lemma>the ACER 19 '' series of tn lcd be generally a very good value .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The products are , in this iteration , easy to assemble and disassemble with the new base attachment design .</Tokens>
+		<POS>DT NNS VBP , IN DT NN , JJ TO VB CC VB IN DT JJ NN NN NN .</POS>
+		<Lemma>the product be , in this iteration , easy to assemble and disassemble with the new base attachment design .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The screen quality is consistent and usefully bright enough for business applications .</Tokens>
+		<POS>DT NN NN VBZ JJ CC RB JJ RB IN NN NNS .</POS>
+		<Lemma>the screen quality be consistent and usefully bright enough for business application .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As a TN an not higher quality IPS\/PVA type panel , it is n't great for movie watching , but it 's okay .</Tokens>
+		<POS>IN DT NN DT RB JJR NN NN NN NN , PRP VBZ RB JJ IN NN VBG , CC PRP VBZ JJ .</POS>
+		<Lemma>as a tn a not higher quality ips\/pva type panel , it be not great for movie watch , but it be okay .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Hookup is easy because there is good clearance for thumbscrews .</Tokens>
+		<POS>NNP VBZ JJ IN EX VBZ JJ NN IN NNS .</POS>
+		<Lemma>Hookup be easy because there be good clearance for thumbscrew .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Suggest you attach cables before snapping in the base plate though .</Tokens>
+		<POS>VB PRP VB NNS IN VBG IN DT NN NN IN .</POS>
+		<Lemma>suggest you attach cable before snap in the base plate though .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>BE AWARE that the inputs on THIS iteration are 13-pin D-Sub -LRB- VGA -RRB- ONLY , No DVI for YOU !!</Tokens>
+		<POS>VB NNP IN DT NNS IN NNS NN VBP JJ NN -LRB- NNP -RRB- RB , DT NNP IN PRP VBP</POS>
+		<Lemma>be AWARE that the input on this iteration be 13-pin d-sub -lrb- VGA -rrb- only , no DVI for you !!</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But it WILL work if you use your DVI-to-VGA adapter at the back of the PC .</Tokens>
+		<POS>CC PRP MD VB IN PRP VBP PRP$ NN NN IN DT NN IN DT NN .</POS>
+		<Lemma>but it will work if you use you dvi-to-vga adapter at the back of the pc .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 've bought several of the ACERs , across several seasons , and it seems each time the model is very slightly different .</Tokens>
+		<POS>PRP VBP VBN JJ IN DT NNS , IN JJ NNS , CC PRP VBZ DT NN DT NN VBZ RB RB JJ .</POS>
+		<Lemma>I have buy several of the acer , across several season , and it seem each time the model be very slightly different .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Recommended , best value , in this price range .</Tokens>
+		<POS>VBN , JJS NN , IN DT NN NN .</POS>
+		<Lemma>recommend , best value , in this price range .</Lemma>
+	</Sentence>
+</Document>

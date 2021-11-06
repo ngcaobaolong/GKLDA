@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This unit works amazingly well .</Tokens>
+		<POS>DT NN VBZ RB RB .</POS>
+		<Lemma>this unit work amazingly well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The broadcast strength is phenomenal .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>the broadcast strength be phenomenal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have used MANY fm transmitters -LRB- Belkin , Griffen , generic , etc -RRB- , and this is far superior .</Tokens>
+		<POS>PRP VBP VBN NNP NN NNS -LRB- NNP , NNP , JJ , NN -RRB- , CC DT VBZ RB JJ .</POS>
+		<Lemma>I have use MANY fm transmitter -lrb- Belkin , Griffen , generic , etc -rrb- , and this be far superior .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>These days most cars have an audio jack , so this is n't necessary - however if you have a car like mine -LRB- 2000 Saab 9-3 -RRB- that was made right after the cassette\/cd transition , you need a reliable adapter .</Tokens>
+		<POS>DT NNS RBS NNS VBP DT JJ NN , RB DT VBZ RB JJ : RB IN PRP VBP DT NN IN NN -LRB- CD NNP CD -RRB- WDT VBD VBN RB IN DT NN NN , PRP VBP DT JJ NN .</POS>
+		<Lemma>these day most car have a audio jack , so this be not necessary - however if you have a car like mine -lrb- 2000 Saab 9-3 -rrb- that be make right after the cassette\/cd transition , you need a reliable adapter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you have a cassette deck in your car , I think I 'd still go with a cassette adapter .</Tokens>
+		<POS>IN PRP VBP DT NN NN IN PRP$ NN , PRP VBP PRP MD RB VB IN DT NN NN .</POS>
+		<Lemma>if you have a cassette deck in you car , I think I would still go with a cassette adapter .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>PROS : Clear , easy to use , sturdy CONS : Slightly tinny sound both with music and speakerphone IMPORTANT : Be Careful - this unit sucks your car battery when turned on !</Tokens>
+		<POS>NNS : JJ , JJ TO VB , JJ NNS : RB JJ NN CC IN NN CC NN JJ : VB JJ : DT NN VBZ PRP$ NN NN WRB VBN RP .</POS>
+		<Lemma>pro : clear , easy to use , sturdy con : slightly tinny sound both with music and speakerphone important : be careful - this unit suck you car battery when turn on !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I had it on and charging my iPhone 4s via USB cord with my car OFF and my battery died in under 5 min .</Tokens>
+		<POS>PRP VBD PRP IN CC VBG PRP$ NNP NNS IN JJ NN IN PRP$ NN NN CC PRP$ NN VBD IN IN CD NN .</POS>
+		<Lemma>I have it on and charge my iPhone 4 via usb cord with my car off and my battery die in under 5 min .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is not necessarily a fault of the unit -LRB- it likely must draw a lot of current for signal strength , and iPhones are notorious power-suckers -RRB- , but be careful when you use it !</Tokens>
+		<POS>DT VBZ RB RB DT NN IN DT NN -LRB- PRP JJ MD VB DT NN IN JJ IN NN NN , CC NNS VBP JJ NNS -RRB- , CC VB JJ WRB PRP VBP PRP .</POS>
+		<Lemma>this be not necessarily a fault of the unit -lrb- it likely must draw a lot of current for signal strength , and iphone be notorious power-sucker -rrb- , but be careful when you use it !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Tips for new users : The unit comes as a wireless unit that plugs into a cigarette lighter .</Tokens>
+		<POS>NNP IN JJ NNS : DT NN VBZ IN DT JJ NN WDT VBZ IN DT NN JJR .</POS>
+		<Lemma>Tips for new user : the unit come as a wireless unit that plug into a cigarette lighter .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>There are two optional cords included - a male\/male audio jack cord for audio in\/out , as well as a USB to MiniUSB cord that is compatible with most Android phones for charging .</Tokens>
+		<POS>EX VBP CD JJ NNS VBD : DT NN NN NN NN IN JJ JJ , RB RB IN DT JJ TO JJ NN WDT VBZ JJ IN JJS JJ NNS IN VBG .</POS>
+		<Lemma>there be two optional cord include - a male\/male audio jack cord for audio in\/out , as well as a usb to miniusb cord that be compatible with most android phone for charge .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I had to use my own apple USB to iPhone cord to be able to charge with the unit , but it works .</Tokens>
+		<POS>PRP VBD TO VB PRP$ JJ NN JJ TO NNP NN TO VB JJ TO VB IN DT NN , CC PRP VBZ .</POS>
+		<Lemma>I have to use my own apple usb to iPhone cord to be able to charge with the unit , but it work .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The unit has an audio in and out jack slot , as well as a regular USB slot .</Tokens>
+		<POS>DT NN VBZ DT NN IN CC IN NN NN , RB RB IN DT JJ JJ NN .</POS>
+		<Lemma>the unit have a audio in and out jack slot , as well as a regular usb slot .</Lemma>
+	</Sentence>
+</Document>

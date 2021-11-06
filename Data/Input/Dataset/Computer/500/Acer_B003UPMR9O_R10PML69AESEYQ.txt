@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>nice picture good quality thin design stylish stand overall good quality , only 1 week old though , lets see how its lasts ...</Tokens>
+		<POS>JJ NN JJ NN JJ NN JJ NN JJ JJ NN , RB CD NN JJ RB , VBZ VB WRB PRP$ VBZ :</POS>
+		<Lemma>nice picture good quality thin design stylish stand overall good quality , only 1 week old though , let see how its last ...</Lemma>
+	</Sentence>
+</Document>

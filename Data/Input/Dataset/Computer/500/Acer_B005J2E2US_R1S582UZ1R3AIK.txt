@@ -1,0 +1,137 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As other reviews might have noted , this is n't the most reliable device , and while cheap is exactly what you pay for .</Tokens>
+		<POS>IN JJ NNS MD VB VBN , DT VBZ RB DT RBS JJ NN , CC IN JJ VBZ RB WP PRP VBP IN .</POS>
+		<Lemma>as other review might have note , this be not the most reliable device , and while cheap be exactly what you pay for .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>-LRB- As an oddity , why does it come with Windows 7 64-bit when it does n't even have 4gb of ram ? -RRB-</Tokens>
+		<POS>-LRB- IN DT NN , WRB VBZ PRP VB IN NNP CD JJ WRB PRP VBZ RB RB VB NN IN NN . -RRB-</POS>
+		<Lemma>-lrb- as a oddity , why do it come with Windows 7 64-bit when it do not even have 4gb of ram ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Mine lasted 7 months before it bit the dust .</Tokens>
+		<POS>NNP VBD CD NNS IN PRP VBD DT NN .</POS>
+		<Lemma>Mine last 7 month before it bite the dust .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>About 6 months in , the computer started slowing down a lot .</Tokens>
+		<POS>IN CD NNS IN , DT NN VBD VBG RP DT NN .</POS>
+		<Lemma>about 6 month in , the computer start slow down a lot .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So was it due to malware , viruses , or just too many things running ?</Tokens>
+		<POS>RB VBD PRP JJ TO VB , NNS , CC RB RB JJ NNS VBG .</POS>
+		<Lemma>so be it due to malware , virus , or just too many thing run ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Apparently not , since soon the system would n't boot because it could n't find the hard drive -- a hardware failure .</Tokens>
+		<POS>RB RB , IN RB DT NN MD RB NN IN PRP MD RB VB DT JJ NN : DT NN NN .</POS>
+		<Lemma>apparently not , since soon the system would not boot because it could not find the hard drive -- a hardware failure .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But that 's not why this thing gets a one star .</Tokens>
+		<POS>CC DT VBZ RB WRB DT NN VBZ DT CD NN .</POS>
+		<Lemma>but that be not why this thing get a one star .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Parts fail .</Tokens>
+		<POS>NNS VBP .</POS>
+		<Lemma>part fail .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Computers are fragile and any number of factors can cause trouble .</Tokens>
+		<POS>NNS VBP JJ CC DT NN IN NNS MD VB NN .</POS>
+		<Lemma>computer be fragile and any number of factor can cause trouble .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I understand this .</Tokens>
+		<POS>PRP VBP DT .</POS>
+		<Lemma>I understand this .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The one star comes from the pitiful support .</Tokens>
+		<POS>DT CD NN VBZ IN DT JJ NN .</POS>
+		<Lemma>the one star come from the pitiful support .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>What 's their repair center address ?</Tokens>
+		<POS>WP VBZ PRP$ NN NN NN .</POS>
+		<Lemma>what be they repair center address ?</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>You can find it online , but NOT on their website .</Tokens>
+		<POS>PRP MD VB PRP NN , CC NNP IN PRP$ NN .</POS>
+		<Lemma>you can find it online , but NOT on they website .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>You can find it quicker via google or Yahoo Questions .</Tokens>
+		<POS>PRP MD VB PRP JJR IN NN CC NNP NNPS .</POS>
+		<Lemma>you can find it quicker via google or Yahoo Questions .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Started a repair ticket and booked it in to repair , and got no response .</Tokens>
+		<POS>VBD DT NN NN CC VBD PRP IN TO VB , CC VBD DT NN .</POS>
+		<Lemma>start a repair ticket and book it in to repair , and get no response .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>So I emailed in a question and got finally got an answer .</Tokens>
+		<POS>IN PRP VBD IN DT NN CC VBD RB VBD DT NN .</POS>
+		<Lemma>so I email in a question and get finally get a answer .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>-LRB- Oh , by the way , you have to pay for shipping , even if it 's under warranty and it 's probably their defective crap -RRB- And of course , this jewel from their support .</Tokens>
+		<POS>-LRB- UH , IN DT NN , PRP VBP TO VB IN NN , RB IN PRP VBZ IN NN CC PRP VBZ RB PRP$ JJ NN -RRB- CC IN NN , DT NN IN PRP$ NN .</POS>
+		<Lemma>-lrb- oh , by the way , you have to pay for shipping , even if it be under warranty and it be probably they defective crap -rrb- and of course , this jewel from they support .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>`` IN ORDER TO ENSURE YOUR EMACHINES PRODUCT IS REPAIRED AND RETURNED AS SOON AS POSSIBLE , PLEASE SHIP YOUR PRODUCT TO THE FOLLOWING ADDRESS .</Tokens>
+		<POS>`` IN NNP TO VB JJ NNP NNP VBZ NNP CC VBD JJ NNP NNP NNP , NNP NNP JJ NN TO DT VBG NN .</POS>
+		<Lemma>`` in ORDER to ensure your EMACHINES PRODUCT be REPAIRED and return as SOON AS POSSIBLE , PLEASE SHIP your product to the follow address .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>IF MORE THAN ONE ADDRESS IS DISPLAYED YOU MAY CHOOSE THE ONE MOST CONVENIENT FOR YOU . ''</Tokens>
+		<POS>IN JJR IN CD NN VBZ VBN PRP NNP NNP DT CD JJS JJ IN PRP . ''</POS>
+		<Lemma>if more than one address be display you MAY CHOOSE the one most convenient for you . ''</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Emachines ?</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>emachine ?</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>It 's an Acer people .</Tokens>
+		<POS>PRP VBZ DT NNP NNS .</POS>
+		<Lemma>it be a Acer people .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Oh , that craputer company is with them now ?</Tokens>
+		<POS>UH , IN NN NN VBZ IN PRP RB .</POS>
+		<Lemma>oh , that craputer company be with they now ?</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>That suggests a lot .</Tokens>
+		<POS>DT VBZ DT NN .</POS>
+		<Lemma>that suggest a lot .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Anyhow , I strongly recommend not buying this since even if it does n't break down , you 'll be subject to this pitifully bad support .</Tokens>
+		<POS>RB , PRP RB VBP RB VBG DT IN RB IN PRP VBZ RB VB RP , PRP MD VB JJ TO DT RB JJ NN .</POS>
+		<Lemma>anyhow , I strongly recommend not buy this since even if it do not break down , you 'll be subject to this pitifully bad support .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Oh and phone service can be `` bought '' .</Tokens>
+		<POS>UH CC NN NN MD VB `` VBN '' .</POS>
+		<Lemma>oh and phone service can be `` buy '' .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Really ?</Tokens>
+		<POS>RB .</POS>
+		<Lemma>really ?</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Do n't support this company , once this thing gets repaired , this will be the last time I do business with them .</Tokens>
+		<POS>VBP RB VB DT NN , RB DT NN VBZ VBN , DT MD VB DT JJ NN PRP VBP NN IN PRP .</POS>
+		<Lemma>do not support this company , once this thing get repair , this will be the last time I do business with they .</Lemma>
+	</Sentence>
+</Document>

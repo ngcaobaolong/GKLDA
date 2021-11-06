@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I originally decided to try these as a mid-ride snack during bike rides , but they 're so good I usually eat most of them at home !</Tokens>
+		<POS>PRP RB VBD TO VB DT IN DT JJ NN IN NN NNS , CC PRP VBP RB JJ PRP RB VBP JJS IN PRP IN NN .</POS>
+		<Lemma>I originally decide to try these as a mid-ride snack during bike ride , but they be so good I usually eat most of they at home !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a great snack for when you 're craving something a little sweet .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN WRB PRP VBP NN NN DT JJ JJ .</POS>
+		<Lemma>it be a great snack for when you be craving something a little sweet .</Lemma>
+	</Sentence>
+</Document>

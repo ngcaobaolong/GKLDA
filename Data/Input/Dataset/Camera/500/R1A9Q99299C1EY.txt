@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this camera for our team to use at work .</Tokens>
+		<POS>VBN DT NN IN PRP$ NN TO VB IN NN .</POS>
+		<Lemma>buy this camera for we team to use at work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great value , takes great pictures and is quick easy to use .</Tokens>
+		<POS>JJ NN , VBZ JJ NNS CC VBZ JJ CC JJ TO VB .</POS>
+		<Lemma>great value , take great picture and be quick easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Nothing more you could ask for in a camera .</Tokens>
+		<POS>NN RBR PRP MD VB IN IN DT NN .</POS>
+		<Lemma>nothing more you could ask for in a camera .</Lemma>
+	</Sentence>
+</Document>

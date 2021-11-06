@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this camera just yesterday , and I am writing about my first impressions .</Tokens>
+		<POS>PRP VBD DT NN RB NN , CC PRP VBP VBG IN PRP$ JJ NNS .</POS>
+		<Lemma>I purchase this camera just yesterday , and I be write about my first impression .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera fits very well in the hand , it 's very light and practical .</Tokens>
+		<POS>DT NN VBZ RB RB IN DT NN , PRP VBZ RB JJ CC JJ .</POS>
+		<Lemma>this camera fit very well in the hand , it be very light and practical .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The 18-55mm lens is also not too big and light .</Tokens>
+		<POS>DT JJ NN VBZ RB RB RB JJ CC JJ .</POS>
+		<Lemma>the 18-55mm lens be also not too big and light .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I started playing around with the NEX and I can already tell you this : This camera has strong D-SLR qualities .</Tokens>
+		<POS>PRP VBD VBG RP IN DT NNP CC PRP MD RB VB PRP DT : DT NN VBZ JJ NN NNS .</POS>
+		<Lemma>I start play around with the NEX and I can already tell you this : this camera have strong d-slr quality .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It has quick shutter speed , the pictures come out very sharp , there is plenty of pre-programmed modes that you can use to make your photos look more interesting , the video recording is flawless .</Tokens>
+		<POS>PRP VBZ JJ JJR NN , DT NNS VBP RP RB JJ , EX VBZ NN IN JJ NNS IN PRP MD VB TO VB PRP$ NNS VBP JJR JJ , DT NN NN VBZ JJ .</POS>
+		<Lemma>it have quick shutter speed , the picture come out very sharp , there be plenty of pre-programmed mode that you can use to make you photo look more interesting , the video recording be flawless .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I must give it 5 starts because the first impressions do n't lie .</Tokens>
+		<POS>PRP MD VB PRP CD NNS IN DT JJ NNS VBP RB VB .</POS>
+		<Lemma>I must give it 5 start because the first impression do not lie .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This camera is worth the money .</Tokens>
+		<POS>DT NN VBZ IN DT NN .</POS>
+		<Lemma>this camera be worth the money .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's a keeper .</Tokens>
+		<POS>PRP VBZ DT NN .</POS>
+		<Lemma>it be a keeper .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I will eventually update my review , but for now , if you are considering buying this camera , I think you will be very happy to own it .</Tokens>
+		<POS>PRP MD RB VB PRP$ NN , CC IN RB , IN PRP VBP VBG VBG DT NN , PRP VBP PRP MD VB RB JJ TO VB PRP .</POS>
+		<Lemma>I will eventually update my review , but for now , if you be consider buy this camera , I think you will be very happy to own it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>PS : Before I found Sony Nex-7 , I was looking into getting Fuji X100 , or Nikon D90 .</Tokens>
+		<POS>NNP : IN PRP VBD NNP NNP , PRP VBD VBG IN VBG NNP NN , CC NNP NN .</POS>
+		<Lemma>PS : before I find Sony Nex-7 , I be look into get Fuji x100 , or Nikon d90 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I read enough reviews to find out that NEX is the camera of the future .</Tokens>
+		<POS>PRP VBD RB VBZ TO VB RP IN NNP VBZ DT NN IN DT NN .</POS>
+		<Lemma>I read enough review to find out that NEX be the camera of the future .</Lemma>
+	</Sentence>
+</Document>

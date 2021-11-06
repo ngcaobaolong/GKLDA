@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A big bang for the buck at $ 100.00 .</Tokens>
+		<POS>DT JJ NN IN DT NN IN $ CD .</POS>
+		<Lemma>a big bang for the buck at $ 100.00 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Picture is in the realm of good to very good albeit with some noticeable light bands around the edge of the screen when watching dark\/black movie scenes .</Tokens>
+		<POS>NNP VBZ IN DT NN IN JJ TO RB JJ IN IN DT JJ NN NNS IN DT NN IN DT NN WRB VBG NN NN NNS .</POS>
+		<Lemma>Picture be in the realm of good to very good albeit with some noticeable light band around the edge of the screen when watch dark\/black movie scene .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>HDMI input and LED back-light screen makes for good energy savings .</Tokens>
+		<POS>NN NN CC VBD JJ NN VBZ IN JJ NN NNS .</POS>
+		<Lemma>hdmus input and lead back-light screen make for good energy savings .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I recommend this model for the price sensitive shopper .</Tokens>
+		<POS>PRP VBP DT NN IN DT NN JJ NN .</POS>
+		<Lemma>I recommend this model for the price sensitive shopper .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens><a href="http://www.amazon.com/gp/product/B003UVCSZ6/ref=cm_cr_asin_lnk/185-9134485-8157104"> Acer S201HL bd 20-Inch Widescreen Ultra-Slim LED Display - Black </a></Tokens>
+		<POS>NN NN NN NN NN NNP NNP VBD NN : JJ NN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b003uvcsz6/ref=cm_cr_asin_lnk/185-9134485-8157104"> acer s201hl bd 20-inch Widescreen Ultra-Slim lead display - black </a></Lemma>
+	</Sentence>
+</Document>

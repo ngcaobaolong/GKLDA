@@ -1,0 +1,142 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>- Simple to operate , small , excellent results , modest price .</Tokens>
+		<POS>: NN TO VB , JJ , JJ NNS , JJ NN .</POS>
+		<Lemma>- simple to operate , small , excellent result , modest price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The worst part of the ELPH 310HS -LRB- or IXUS 230HS -RRB- is the name .</Tokens>
+		<POS>DT JJS NN IN DT NN NN -LRB- CC NN NN -RRB- VBZ DT NN .</POS>
+		<Lemma>the worst part of the elph 310h -lrb- or ixus 230h -rrb- be the name .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In the USA Canon sells an entirely different camera called the SX 230HS .</Tokens>
+		<POS>IN DT NNP NNP VBZ DT RB JJ NN VBD DT NNP NNP .</POS>
+		<Lemma>in the USA Canon sell a entirely different camera call the SX 230HS .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Ordering the camera or batteries becomes a test of your ability to clarify Canon 's terrible nomenclature .</Tokens>
+		<POS>VBG DT NN CC NNS VBZ DT NN IN PRP$ NN TO VB NNP POS JJ NN .</POS>
+		<Lemma>order the camera or battery become a test of you ability to clarify Canon 's terrible nomenclature .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>There are reviews of this camera that incorrectly refer to it as the ELPH 230HS !</Tokens>
+		<POS>EX VBP NNS IN DT NN WDT RB VBP TO PRP IN DT NN NN .</POS>
+		<Lemma>there be review of this camera that incorrectly refer to it as the elph 230h !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Buy a couple of extra batteries from Amazon -LRB- NB-4L -RRB- for $ 10 each -LRB- get the 1200 mamp type . -RRB-</Tokens>
+		<POS>VB DT NN IN JJ NNS IN NNP -LRB- NN -RRB- IN $ CD DT -LRB- VB DT CD NN NN . -RRB-</POS>
+		<Lemma>buy a couple of extra battery from Amazon -lrb- nb-4l -rrb- for $ 10 each -lrb- get the 1200 mamp type . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Do n't get the NB-5L type battery for the 230HS .</Tokens>
+		<POS>VBP RB VB DT NN NN NN IN DT NN .</POS>
+		<Lemma>do not get the nb-5l type battery for the 230h .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The $ 6 Case Logic TBC-302 case nicely holds two extra batteries and the camera .</Tokens>
+		<POS>DT $ CD NN NN NN NN RB VBZ CD JJ NNS CC DT NN .</POS>
+		<Lemma>the $ 6 case logic tbc-302 case nicely hold two extra battery and the camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>In the `` Auto '' mode you get good movies and excellent stills .</Tokens>
+		<POS>IN DT `` NN '' NN PRP VBP JJ NNS CC JJ NNS .</POS>
+		<Lemma>in the `` auto '' mode you get good movie and excellent still .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The really nice part is that you get these results without having to bother with camera settings .</Tokens>
+		<POS>DT RB JJ NN VBZ IN PRP VBP DT NNS IN VBG TO VB IN NN NNS .</POS>
+		<Lemma>the really nice part be that you get these result without have to bother with camera setting .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Switching to the `` P '' mode gives you more options and settings to play with but , if you just want excellent results leave it in auto .</Tokens>
+		<POS>NN TO DT `` NN '' NN VBZ PRP RBR NNS CC NNS TO VB IN CC , IN PRP RB VBP JJ NNS VBP PRP IN NN .</POS>
+		<Lemma>switching to the `` p '' mode give you more option and setting to play with but , if you just want excellent result leave it in auto .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>When taking a pic , push the exposure button 1\/2 way down to focus .</Tokens>
+		<POS>WRB VBG DT NN , VBP DT NN NN CD NN IN TO VB .</POS>
+		<Lemma>when take a pic , push the exposure button 1\/2 way down to focus .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>When the focus area turns green push the button the rest of the way .</Tokens>
+		<POS>WRB DT NN NN VBZ JJ NN DT NN DT NN IN DT NN .</POS>
+		<Lemma>when the focus area turn green push the button the rest of the way .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Focusing generally takes less than 1\/2 a second .</Tokens>
+		<POS>VBG RB VBZ JJR IN CD DT NN .</POS>
+		<Lemma>focus generally take less than 1\/2 a second .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>If you just push the button all the down you 'll often get an out of focus pic .</Tokens>
+		<POS>IN PRP RB VBP DT NN PDT DT RB PRP MD RB VB DT IN IN NN NN .</POS>
+		<Lemma>if you just push the button all the down you 'll often get a out of focus pic .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Forgetting to focus may explain why some reviewers are dissatisfied with the cameras output .</Tokens>
+		<POS>VBG TO VB MD VB WRB DT NNS VBP VBN IN DT NNS NN .</POS>
+		<Lemma>forget to focus may explain why some reviewer be dissatisfy with the camera output .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>There are both pro and con arguments for this focusing method .</Tokens>
+		<POS>EX VBP DT JJ CC JJ NNS IN DT VBG NN .</POS>
+		<Lemma>there be both pro and con argument for this focus method .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>You just need to be aware of how to operate the 310 .</Tokens>
+		<POS>PRP RB VBP TO VB JJ IN WRB TO VB DT CD .</POS>
+		<Lemma>you just need to be aware of how to operate the 310 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>11x14 borderless prints exhibit excellent quality when shot in good light .</Tokens>
+		<POS>NN JJ NNS VBP JJ NN WRB VBN IN JJ NN .</POS>
+		<Lemma>11x14 borderless print exhibit excellent quality when shoot in good light .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Quality does decrease in darker situations but is still acceptable .</Tokens>
+		<POS>NNP VBZ VB IN JJR NNS CC VBZ RB JJ .</POS>
+		<Lemma>Quality do decrease in darker situation but be still acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>All small sensor cameras exhibit that behavior .</Tokens>
+		<POS>DT JJ NN NNS VBP IN NN .</POS>
+		<Lemma>all small sensor camera exhibit that behavior .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Facial recognition works most of the time .</Tokens>
+		<POS>JJ NN VBZ RBS IN DT NN .</POS>
+		<Lemma>facial recognition work most of the time .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Pricing is a little strange .</Tokens>
+		<POS>NN VBZ DT JJ JJ .</POS>
+		<Lemma>pricing be a little strange .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>At the time of this writing , depending upon color , the price varies from $ 196 to $ 230 for the same camera from the same vendor .</Tokens>
+		<POS>IN DT NN IN DT NN , VBG IN NN , DT NN VBZ IN $ CD TO $ CD IN DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>at the time of this writing , depend upon color , the price vary from $ 196 to $ 230 for the same camera from the same vendor .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Why does a blue copy cost 15 % more than a purple copy ?</Tokens>
+		<POS>WRB VBZ DT JJ NN NN CD NN JJR IN DT JJ NN .</POS>
+		<Lemma>why do a blue copy cost 15 % more than a purple copy ?</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Probably done by the same genius that named the camera !</Tokens>
+		<POS>RB VBN IN DT JJ NN WDT VBD DT NN .</POS>
+		<Lemma>probably do by the same genius that name the camera !</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>The ELPH 310HS is an excellent travel camera .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN NN .</POS>
+		<Lemma>the elph 310h be a excellent travel camera .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>I 've ordered a second one for my wife .</Tokens>
+		<POS>PRP VBP VBN DT JJ CD IN PRP$ NN .</POS>
+		<Lemma>I have order a second one for my wife .</Lemma>
+	</Sentence>
+</Document>

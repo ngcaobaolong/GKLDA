@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Item arrived within 3 days of placing order , which is great ... But camera was defective out of box .</Tokens>
+		<POS>NN VBD IN CD NNS IN VBG NN , WDT VBZ JJ : CC NN VBD JJ IN IN NN .</POS>
+		<Lemma>item arrive within 3 day of place order , which be great ... but camera be defective out of box .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Able to configure camera , but unable to browse to camera and view .</Tokens>
+		<POS>JJ TO VB NN , CC JJ TO VB TO NN CC NN .</POS>
+		<Lemma>able to configure camera , but unable to browse to camera and view .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Camera is in same subnet , and i can change IP successfully , but unable to view .</Tokens>
+		<POS>NN VBZ IN JJ NN , CC FW MD VB NNP RB , CC JJ TO VB .</POS>
+		<Lemma>camera be in same subnet , and i can change IP successfully , but unable to view .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Tried multiple different browsers -LRB- w\/plugins -RRB- and still cold not connect X 2 computers .</Tokens>
+		<POS>VBD JJ JJ NNS -LRB- NNS -RRB- CC RB JJ RB VB NN CD NNS .</POS>
+		<Lemma>try multiple different browser -lrb- w\/plugins -rrb- and still cold not connect x 2 computer .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>After consulting the mighty GOOGLE , a user helped point out that using BSearch_EN shows camera info as well , and my camera showed an APP FirmwareVer of 0.0.0.0 , while his showed an entirely different number .</Tokens>
+		<POS>IN VBG DT JJ NNP , DT NN VBD VB RP IN VBG NN VBZ NN NN RB RB , CC PRP$ NN VBD DT NN NN IN CD , IN PRP$ VBD DT RB JJ NN .</POS>
+		<Lemma>after consult the mighty GOOGLE , a user help point out that use bsearch_en show camera info as well , and my camera show a app firmwarever of 0.0.0.0 , while he show a entirely different number .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Would have loved to exchange but was not able to on the item ... Very disappointed</Tokens>
+		<POS>MD VB VBN TO NN CC VBD RB JJ TO IN DT NN : RB JJ</POS>
+		<Lemma>would have love to exchange but be not able to on the item ... very disappointed</Lemma>
+	</Sentence>
+</Document>

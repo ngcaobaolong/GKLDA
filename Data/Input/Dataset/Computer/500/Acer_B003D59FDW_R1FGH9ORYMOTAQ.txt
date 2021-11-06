@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Everything on this unit seems fine so far except for one item .</Tokens>
+		<POS>NN IN DT NN VBZ JJ RB RB IN IN CD NN .</POS>
+		<Lemma>everything on this unit seem fine so far except for one item .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Almost all new video cards have DVI only connection .</Tokens>
+		<POS>RB DT JJ NN NNS VBP NNP RB NN .</POS>
+		<Lemma>almost all new video card have DVI only connection .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This means that the vga connection will not work with my computers .</Tokens>
+		<POS>DT VBZ IN DT NN NN MD RB VB IN PRP$ NNS .</POS>
+		<Lemma>this mean that the vga connection will not work with my computer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I will have to find an adapter of some sort which is a pain as a cable should be sent with the unit in my honest opinin .</Tokens>
+		<POS>PRP MD VB TO VB DT NN IN DT NN WDT VBZ DT NN IN DT NN MD VB VBN IN DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>I will have to find a adapter of some sort which be a pain as a cable should be send with the unit in my honest opinin .</Lemma>
+	</Sentence>
+</Document>

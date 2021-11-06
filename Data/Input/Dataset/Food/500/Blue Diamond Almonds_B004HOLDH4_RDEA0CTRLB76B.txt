@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are perfect for traveling .</Tokens>
+		<POS>DT VBP JJ IN VBG .</POS>
+		<Lemma>these be perfect for travel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>On the airplane when they offer you peanuts , pretzels or cookies you can take out an alternate , healthy snack .</Tokens>
+		<POS>IN DT NN WRB PRP VBP PRP NNS , NNS CC NNS PRP MD VB RP DT JJ , JJ NN .</POS>
+		<Lemma>on the airplane when they offer you peanut , pretzel or cookie you can take out a alternate , healthy snack .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only thing is , now I 'm addicted to them , they 're so good .</Tokens>
+		<POS>DT JJ NN VBZ , RB PRP VBP VBN TO PRP , PRP VBP RB JJ .</POS>
+		<Lemma>the only thing be , now I be addict to they , they be so good .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The unit arrived promptly and the battery lasts all day but that is all I can say for it .</Tokens>
+		<POS>DT NN VBD RB CC DT NN VBZ DT NN CC DT VBZ DT PRP MD VB IN PRP .</POS>
+		<Lemma>the unit arrive promptly and the battery last all day but that be all I can say for it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It lacked any useful applications-expected that .</Tokens>
+		<POS>PRP VBD DT JJ JJ IN .</POS>
+		<Lemma>it lack any useful applications-expected that .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But it is the slowest machine I have ever used .</Tokens>
+		<POS>CC PRP VBZ DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>but it be the slowest machine I have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is about my 8th laptop type unit and it hesitates on every task .</Tokens>
+		<POS>DT VBZ IN PRP$ JJ NN NN NN CC PRP VBZ IN DT NN .</POS>
+		<Lemma>this be about my 8th laptop type unit and it hesitate on every task .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My IT guy even uped the memory to 2 GB and still it is slow as molasses on every task , even word proccessing and much worse on internet searching .</Tokens>
+		<POS>PRP$ PRP NN RB VBD DT NN TO CD NN CC RB PRP VBZ JJ IN NNS IN DT NN , RB NN NN CC RB JJR IN NN VBG .</POS>
+		<Lemma>my it guy even upe the memory to 2 gb and still it be slow as molasses on every task , even word proccessing and much worse on internet search .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The key board also feels very flimsy .</Tokens>
+		<POS>DT JJ NN RB VBZ RB JJ .</POS>
+		<Lemma>the key board also feel very flimsy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I really need the functional keyboard of a netbook but next time I think I may have to go with a tablet .</Tokens>
+		<POS>PRP RB VBP DT JJ NN IN DT NN CC JJ NN PRP VBP PRP MD VB TO VB IN DT NN .</POS>
+		<Lemma>I really need the functional keyboard of a netbook but next time I think I may have to go with a tablet .</Lemma>
+	</Sentence>
+</Document>

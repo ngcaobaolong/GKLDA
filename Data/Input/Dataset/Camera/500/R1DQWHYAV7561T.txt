@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Why is the digital focus assist not available when taking photos in RAW ?</Tokens>
+		<POS>WRB VBZ DT JJ NN VB RB JJ WRB VBG NNS IN NN .</POS>
+		<Lemma>why be the digital focus assist not available when take photo in raw ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has nothing to do with the final saved image and so it should be available when in any mode .</Tokens>
+		<POS>PRP VBZ NN TO VB IN DT JJ VBN NN CC IN PRP MD VB JJ WRB IN DT NN .</POS>
+		<Lemma>it have nothing to do with the final save image and so it should be available when in any mode .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Too many features are unnecessarily limited in RAW .</Tokens>
+		<POS>RB JJ NNS VBP RB VBN IN NN .</POS>
+		<Lemma>too many feature be unnecessarily limit in raw .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Otherwise , the camera is the perfect size and easy to hold .</Tokens>
+		<POS>RB , DT NN VBZ DT JJ NN CC JJ TO VB .</POS>
+		<Lemma>otherwise , the camera be the perfect size and easy to hold .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The articulating screen is very useful and very clear .</Tokens>
+		<POS>DT VBG NN VBZ RB JJ CC RB JJ .</POS>
+		<Lemma>the articulate screen be very useful and very clear .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Downsize the photos to 20 megapixels to decrease noise to levels below many full frame cameras .</Tokens>
+		<POS>VB DT NNS TO CD NNS TO VB NN TO NNS IN JJ JJ NN NNS .</POS>
+		<Lemma>downsize the photo to 20 megapixel to decrease noise to level below many full frame camera .</Lemma>
+	</Sentence>
+</Document>

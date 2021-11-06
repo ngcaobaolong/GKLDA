@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is OK , not great .</Tokens>
+		<POS>DT NN VBZ JJ , RB JJ .</POS>
+		<Lemma>this popcorn be ok , not great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works fine in my air popper , but it 's a little `` chewy '' ... do n't know if that means it 's been sitting around a while or what .</Tokens>
+		<POS>NNP NN IN PRP$ NN NN , CC PRP VBZ DT JJ `` JJ '' : VBP RB VB IN DT VBZ PRP VBZ VBN VBG IN DT NN CC WP .</POS>
+		<Lemma>Works fine in my air popper , but it be a little `` chewy '' ... do not know if that mean it be be sit around a while or what .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Again - not horrible , but not the best popcorn I 've ever had .</Tokens>
+		<POS>RB : RB JJ , CC RB DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>again - not horrible , but not the best popcorn I have ever have .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've ordered dozens of dark coffees and tried them all in both a Cuisinart 12-cup machine and a glass vacuum pot .</Tokens>
+		<POS>PRP VBP VBN NNS IN JJ NNS CC VBD PRP DT IN CC DT NNP JJ NN CC DT NN NN NN .</POS>
+		<Lemma>I have order dozen of dark coffee and try they all in both a Cuisinart 12-cup machine and a glass vacuum pot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The flavors , the oil content , and the bitterness differ dramatically based on how dark coffees are brewed .</Tokens>
+		<POS>DT NNS , DT NN NN , CC DT NN VBP RB VBN IN WRB JJ NNS VBP VBN .</POS>
+		<Lemma>the flavor , the oil content , and the bitterness differ dramatically base on how dark coffee be brew .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In the Cuisinart , you get a darn good cup of coffee for a autobrew system ... but it will never taste the same as the same coffee brewed in a vacuum pot .</Tokens>
+		<POS>IN DT NNP , PRP VBP DT JJ JJ NN IN NN IN DT NN NN : CC PRP MD RB VB DT JJ IN DT JJ NN VBN IN DT NN NN .</POS>
+		<Lemma>in the Cuisinart , you get a darn good cup of coffee for a autobrew system ... but it will never taste the same as the same coffee brew in a vacuum pot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This Peruvian Dark , done in the Cuisinart , has some light bitterness -LRB- as others have complained about ... -RRB- , a moderate oil content on the top of each cup , and the flavor is good-to-great .</Tokens>
+		<POS>DT JJ JJ , VBN IN DT NNP , VBZ DT JJ NN -LRB- IN NNS VBP VBN IN : -RRB- , DT JJ NN NN IN DT NN IN DT NN , CC DT NN VBZ NN .</POS>
+		<Lemma>this peruvian dark , do in the Cuisinart , have some light bitterness -lrb- as other have complain about ... -rrb- , a moderate oil content on the top of each cup , and the flavor be good-to-great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In the glass vacuum pot with water run through a Brita , it 's the greatest coffee I 've ordered and our favorite for winter mornings !</Tokens>
+		<POS>IN DT NN NN NN IN NN VB IN DT NNP , PRP VBZ DT JJS NN PRP VBP VBN CC PRP$ JJ IN NN NNS .</POS>
+		<Lemma>in the glass vacuum pot with water run through a Brita , it be the greatest coffee I have order and we favorite for winter morning !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No bitterness , a complexity that makes you savor the flavor , and a smell that fills the house .</Tokens>
+		<POS>DT NN , DT NN WDT VBZ PRP VBP DT NN , CC DT NN WDT VBZ DT NN .</POS>
+		<Lemma>no bitterness , a complexity that make you savor the flavor , and a smell that fill the house .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Use a coffee mug with a thin lip - Starbucks sells several .</Tokens>
+		<POS>VB DT NN NN IN DT JJ NN : NNP VBZ JJ .</POS>
+		<Lemma>use a coffee mug with a thin lip - Starbucks sell several .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Like wine , you want it to spread across your tongue and open up all the flavor you can get out of it .</Tokens>
+		<POS>IN NN , PRP VBP PRP TO VB IN PRP$ NN CC VB RP PDT DT NN PRP MD VB IN IN PRP .</POS>
+		<Lemma>like wine , you want it to spread across you tongue and open up all the flavor you can get out of it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I recommend this coffee , especially if you 're going to brew it in a way that optimizes it 's flavors !</Tokens>
+		<POS>PRP VBP DT NN , RB IN PRP VBP VBG TO VB PRP IN DT NN IN VBZ PRP VBZ NNS .</POS>
+		<Lemma>I recommend this coffee , especially if you be go to brew it in a way that optimize it be flavor !</Lemma>
+	</Sentence>
+</Document>

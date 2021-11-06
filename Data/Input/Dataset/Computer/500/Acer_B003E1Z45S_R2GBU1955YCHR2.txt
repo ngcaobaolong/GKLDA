@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Our roommate bought this , and for the price its not so great .</Tokens>
+		<POS>PRP$ NN VBD DT , CC IN DT NN PRP$ RB RB JJ .</POS>
+		<Lemma>we roommate buy this , and for the price its not so great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought one just before this on a web retailer that starts with T for almost the same price and its 100 times better .</Tokens>
+		<POS>PRP VBD CD RB IN DT IN DT NN NN WDT VBZ IN NN IN RB DT JJ NN CC PRP$ CD NNS JJR .</POS>
+		<Lemma>I buy one just before this on a web retailer that start with t for almost the same price and its 100 time better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm not really sure why the roomie would buy a monitor on amazon and refurbished at that .</Tokens>
+		<POS>PRP VBP RB RB JJ WRB DT NN MD VB DT NN IN NN CC VBN IN DT .</POS>
+		<Lemma>I be not really sure why the roomie would buy a monitor on amazon and refurbish at that .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Who does that ?</Tokens>
+		<POS>WP VBZ IN .</POS>
+		<Lemma>who do that ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Go to T for this kind of stuff .</Tokens>
+		<POS>VB TO NN IN DT NN IN NN .</POS>
+		<Lemma>go to t for this kind of stuff .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Much better .</Tokens>
+		<POS>RB JJR .</POS>
+		<Lemma>much better .</Lemma>
+	</Sentence>
+</Document>

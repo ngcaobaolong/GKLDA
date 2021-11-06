@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just received this monitor about 3 hours ago , and so far so good .</Tokens>
+		<POS>PRP RB VBD DT NN IN CD NNS RB , CC RB RB RB JJ .</POS>
+		<Lemma>I just receive this monitor about 3 hour ago , and so far so good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was easy to set up , but no drivers were included , ... They work with windows2000 and 9x .</Tokens>
+		<POS>PRP VBD JJ TO VB RP , CC DT NNS VBD VBN , : PRP VBP IN NN CC NN .</POS>
+		<Lemma>it be easy to set up , but no driver be include , ... they work with windows2000 and 9x .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I of course had to adjust the image with the on screen controls .</Tokens>
+		<POS>PRP IN NN VBD TO VB DT NN IN DT IN NN NNS .</POS>
+		<Lemma>I of course have to adjust the image with the on screen control .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The image was off center and one side was tilted up , but that was easily fixed .</Tokens>
+		<POS>DT NN VBD IN NN CC CD NN VBD JJ RB , CC DT VBD RB VBN .</POS>
+		<Lemma>the image be off center and one side be tilted up , but that be easily fix .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is not a flat screen , but for the price I did not expect it , that said , the curve is not bad and does n't bother me at all .</Tokens>
+		<POS>DT VBZ RB DT JJ NN , CC IN DT NN PRP VBD RB VB PRP , WDT VBD , DT NN VBZ RB JJ CC VBZ RB VB PRP IN DT .</POS>
+		<Lemma>this be not a flat screen , but for the price I do not expect it , that say , the curve be not bad and do not bother I at all .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The images are very sharp , and the text is good , but could be a little sharper .</Tokens>
+		<POS>DT NNS VBP RB JJ , CC DT NN VBZ JJ , CC MD VB DT JJ JJR .</POS>
+		<Lemma>the image be very sharp , and the text be good , but could be a little sharper .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The length of the monitor is shorter than my 17 '' CTX , and I was pleased to find out that it is TCO99 compliant .</Tokens>
+		<POS>DT NN IN DT NN VBZ JJR IN PRP$ CD '' NNP , CC PRP VBD VBN TO VB RP IN PRP VBZ NN JJ .</POS>
+		<Lemma>the length of the monitor be shorter than my 17 '' CTX , and I be please to find out that it be tco99 compliant .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The warranty also looks good because it is 3 year with shipping paid both ways during the first year .</Tokens>
+		<POS>DT NN RB VBZ JJ IN PRP VBZ CD NN IN NN VBD CC NNS IN DT JJ NN .</POS>
+		<Lemma>the warranty also look good because it be 3 year with shipping pay both way during the first year .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>-LRB- that 's the main reason I took a chance on it -RRB- .</Tokens>
+		<POS>-LRB- DT VBZ DT JJ NN PRP VBD DT NN IN PRP -RRB- .</POS>
+		<Lemma>-lrb- that be the main reason I take a chance on it -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Since I have been using it for about 3 hours , I ca n't comment on the durability , but I would rate the picture between that of my KDS VS-195sn and my LG Studioworks 995e with it being closer to the LG -LRB- better -RRB- .</Tokens>
+		<POS>IN PRP VBP VBN VBG PRP IN IN CD NNS , PRP MD RB VB IN DT NN , CC PRP MD VB DT NN IN DT IN PRP$ NN NN CC PRP$ NNP NNP CD IN PRP VBG JJR TO DT NNP -LRB- JJR -RRB- .</POS>
+		<Lemma>since I have be use it for about 3 hour , I can not comment on the durability , but I would rate the picture between that of my kd vs-195sn and my LG Studioworks 995e with it be closer to the LG -lrb- better -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Like the LG , I have noticed a little fading where black and light images meet - the lines are not crisp at those places .</Tokens>
+		<POS>IN DT NNP , PRP VBP VBN DT JJ JJ WRB JJ CC JJ NNS VBP : DT NNS VBP RB JJ IN DT NNS .</POS>
+		<Lemma>like the LG , I have notice a little fading where black and light image meet - the line be not crisp at those place .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Also when I was booting windows I saw curvy lines go accross the screen , but they disappeared in a few seconds as the monitor warmed up .</Tokens>
+		<POS>RB WRB PRP VBD VBG NNS PRP VBD JJ NNS VBP IN DT NN , CC PRP VBD IN DT JJ NNS IN DT NN VBD RP .</POS>
+		<Lemma>also when I be boot window I see curvy line go accross the screen , but they disappear in a few seconds as the monitor warm up .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The date of manufacture on mine is November of 1999 so I assume they have been sitting around for a year .</Tokens>
+		<POS>DT NN IN NN IN NN VBZ NNP IN CD IN PRP VBP PRP VBP VBN VBG RP IN DT NN .</POS>
+		<Lemma>the date of manufacture on mine be November of 1999 so I assume they have be sit around for a year .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>...</Tokens>
+		<POS>:</POS>
+		<Lemma>...</Lemma>
+	</Sentence>
+</Document>

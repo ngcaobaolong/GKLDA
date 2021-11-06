@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great candy that dr. who eats all the time .</Tokens>
+		<POS>JJ NN WDT VBP WP VBZ PDT DT NN .</POS>
+		<Lemma>great candy that dr. who eat all the time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>was available at epcot in walt disney world , but is no longer sold there .</Tokens>
+		<POS>VBD JJ IN NN IN NN NN NN , CC VBZ RB RB VBN RB .</POS>
+		<Lemma>be available at epcot in walt disney world , but be no longer sell there .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>glad to find a place to obtain it again .</Tokens>
+		<POS>JJ TO VB DT NN TO VB PRP RB .</POS>
+		<Lemma>glad to find a place to obtain it again .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you really want a camera with the best specs , this is the one .</Tokens>
+		<POS>IN PRP RB VBP DT NN IN DT JJS NNS , DT VBZ DT CD .</POS>
+		<Lemma>if you really want a camera with the best spec , this be the one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You can take incredible pictures even in the dark , with a high quality .</Tokens>
+		<POS>PRP MD VB JJ NNS RB IN DT JJ , IN DT JJ NN .</POS>
+		<Lemma>you can take incredible picture even in the dark , with a high quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The zoom is amazing , you can takes photos from a long distance and you can keep the same quality , definitely great .</Tokens>
+		<POS>DT NN VBZ JJ , PRP MD VBZ NNS IN DT JJ NN CC PRP MD VB DT JJ NN , RB JJ .</POS>
+		<Lemma>the zoom be amazing , you can take photo from a long distance and you can keep the same quality , definitely great .</Lemma>
+	</Sentence>
+</Document>

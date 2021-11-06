@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is wonderful - it pops up nice and fluffy in our air popper , tastes delicious , and my family loves it .</Tokens>
+		<POS>DT NN VBZ JJ : PRP VBZ RP JJ CC JJ IN PRP$ NN NN , NNS JJ , CC PRP$ NN VBZ PRP .</POS>
+		<Lemma>this popcorn be wonderful - it pop up nice and fluffy in we air popper , taste delicious , and my family love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I also use my Nutrimill to grind it for making cornbread - it 's the best cornbread we 've ever had .</Tokens>
+		<POS>PRP RB VBP PRP$ NN TO VB PRP IN VBG NN : PRP VBZ DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>I also use my nutrimill to grind it for make cornbread - it be the best cornbread we have ever have .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I think it 's a great deal when priced below $ 9 - the benefits of organic popcorn are certainly worth the cost .</Tokens>
+		<POS>PRP VBP PRP VBZ DT JJ NN WRB VBN IN $ CD : DT NNS IN JJ NN VBP RB JJ DT NN .</POS>
+		<Lemma>I think it be a great deal when price below $ 9 - the benefit of organic popcorn be certainly worth the cost .</Lemma>
+	</Sentence>
+</Document>

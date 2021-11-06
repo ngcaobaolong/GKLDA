@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have an Apple iPhone 3GS and this worked beautifully .</Tokens>
+		<POS>PRP VBP DT NNP NNP NNP CC DT VBD RB .</POS>
+		<Lemma>I have a Apple iPhone 3GS and this work beautifully .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Set up , super easy and the Flexsmart has a flexible goose neck that allows the driver or passenger to easily access the controls .</Tokens>
+		<POS>VB RP , JJ JJ CC DT NNP VBZ DT JJ NN NN WDT VBZ DT NN CC NN TO RB VB DT NNS .</POS>
+		<Lemma>set up , super easy and the Flexsmart have a flexible goose neck that allow the driver or passenger to easily access the control .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Works via bluetooth from iPhone to the Flexsmart .</Tokens>
+		<POS>NNP IN NN IN NNP TO DT NNP .</POS>
+		<Lemma>Works via bluetooth from iPhone to the Flexsmart .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Once your bluetooth is established , each time you get into your vehicle and turn on the Flexsmart , it automatically beeps and connects to your iPhone again .</Tokens>
+		<POS>RB PRP$ NN VBZ VBN , DT NN PRP VBP IN PRP$ NN CC VB IN DT NNP , PRP RB NNS CC VBZ TO PRP$ NNP RB .</POS>
+		<Lemma>once you bluetooth be establish , each time you get into you vehicle and turn on the Flexsmart , it automatically beep and connect to you iPhone again .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Music is clear with very little static if any , most of the time -LRB- better than I expected -RRB- .</Tokens>
+		<POS>NN VBZ JJ IN RB JJ JJ IN DT , JJS IN DT NN -LRB- JJR IN PRP VBD -RRB- .</POS>
+		<Lemma>music be clear with very little static if any , most of the time -lrb- better than I expect -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I can use my own iPhone USB cord to plug into the bottom of the Flexsmart 's USB port to charge the phone while playing music .</Tokens>
+		<POS>PRP MD VB PRP$ JJ NNP JJ NN TO VB IN DT NN IN DT NNP POS JJ NN TO VB DT NN IN VBG NN .</POS>
+		<Lemma>I can use my own iPhone usb cord to plug into the bottom of the Flexsmart 's usb port to charge the phone while play music .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It comes with additional cables to plug in and charge various phones -LRB- microUSB & miniUSB charging cables -RRB- .</Tokens>
+		<POS>PRP VBZ IN JJ NNS TO VB IN CC VB JJ NNS -LRB- NN CC NN VBG NNS -RRB- .</POS>
+		<Lemma>it come with additional cable to plug in and charge various phone -lrb- microusb & miniusb charge cable -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is one cable -LRB- 3.5 mm audio cable -RRB- that allows us to use our two different iPods to also play music .</Tokens>
+		<POS>EX VBZ CD NN -LRB- CD NN NN NN -RRB- WDT VBZ PRP TO VB PRP$ CD JJ NNS TO RB VB NN .</POS>
+		<Lemma>there be one cable -lrb- 3.5 mm audio cable -rrb- that allow we to use we two different ipod to also play music .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You plug in the one end into your iPod 's earphone jack and the other into the 3.5 mm line-in on the Flexsmart and it works great .</Tokens>
+		<POS>PRP VBP IN DT CD NN IN PRP$ NN POS NN NN CC DT JJ IN DT CD NN NN IN DT NNP CC PRP VBZ JJ .</POS>
+		<Lemma>you plug in the one end into you ipod 's earphone jack and the other into the 3.5 mm line-in on the Flexsmart and it work great .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>You can advance music forward or backward and pause on the Flexsmart .</Tokens>
+		<POS>PRP MD VB NN RB CC RB CC VB IN DT NNP .</POS>
+		<Lemma>you can advance music forward or backward and pause on the Flexsmart .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It is very easy to find a station , it searches for the best station , then you set your radio to that frequency and you are ready to go .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB DT NN , PRP VBZ IN DT JJS NN , RB PRP VB PRP$ NN TO DT NN CC PRP VBP JJ TO VB .</POS>
+		<Lemma>it be very easy to find a station , it search for the best station , then you set you radio to that frequency and you be ready to go .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Hands free calling is a snap .</Tokens>
+		<POS>NNS JJ NN VBZ DT NN .</POS>
+		<Lemma>hand free calling be a snap .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Call comes in and fades out your music on the iPhone ringing your iPhone 's chosen ringtones .</Tokens>
+		<POS>NN VBZ IN CC VBZ RP PRP$ NN IN DT NNP VBG PRP$ NNP POS VBN NNS .</POS>
+		<Lemma>call come in and fade out you music on the iPhone ring you iPhone 's choose ringtone .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Push the blue call receive button on the Flexsmart and talk in a normal voice .</Tokens>
+		<POS>VB DT JJ NN VBP NN IN DT NNP CC VB IN DT JJ NN .</POS>
+		<Lemma>push the blue call receive button on the Flexsmart and talk in a normal voice .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>When the call is ended , your music typically comes back on depending on what your are listening to .</Tokens>
+		<POS>WRB DT NN VBZ VBN , PRP$ NN RB VBZ RB IN VBG IN WP PRP$ VBP VBG TO .</POS>
+		<Lemma>when the call be end , you music typically come back on depend on what you be listen to .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>You may need to adjust your volume up to hear over normal road noise for your conversation .</Tokens>
+		<POS>PRP MD VB TO VB PRP$ NN IN TO VB IN JJ NN NN IN PRP$ NN .</POS>
+		<Lemma>you may need to adjust you volume up to hear over normal road noise for you conversation .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Calling out normally on iPhone , the Flexsmart picks up the call and you continue with the hands free converstaion .</Tokens>
+		<POS>VBG RP RB IN NNP , DT NN VBZ RP DT NN CC PRP VBP IN DT NNS JJ NN .</POS>
+		<Lemma>call out normally on iPhone , the flexsmart pick up the call and you continue with the hand free converstaion .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>If I had only one negative , it is volume control .</Tokens>
+		<POS>IN PRP VBD RB CD JJ , PRP VBZ NN NN .</POS>
+		<Lemma>if I have only one negative , it be volume control .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Just like some TV stations where the volume is not consistant across the board , the different types of stations you can use on your iPhone or iPods determine how loud the initial volume is for reception of the music -LRB- ie Pandora , iPod , Jango , iHeartRadio , Last .</Tokens>
+		<POS>RB IN DT NN NNS WRB DT NN VBZ RB JJ IN DT NN , DT JJ NNS IN NNS PRP MD VB IN PRP$ NNP CC NNPS VB WRB JJ DT JJ NN VBZ IN NN IN DT NN -LRB- FW FW , NN , NNP , NNP , JJ .</POS>
+		<Lemma>just like some tv station where the volume be not consistant across the board , the different type of station you can use on you iPhone or iPods determine how loud the initial volume be for reception of the music -lrb- ie pandora , ipod , Jango , iHeartRadio , last .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>FM , Vevo , or whatever else you may have as music on your iPhone -RRB- but that is minor .</Tokens>
+		<POS>NNP , NNP , CC WDT RB PRP MD VB IN NN IN PRP$ NNP -RRB- CC DT VBZ JJ .</POS>
+		<Lemma>FM , Vevo , or whatever else you may have as music on you iPhone -rrb- but that be minor .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>For the price and what it does , it is well worth the money !</Tokens>
+		<POS>IN DT NN CC WP PRP VBZ , PRP VBZ RB IN DT NN .</POS>
+		<Lemma>for the price and what it do , it be well worth the money !</Lemma>
+	</Sentence>
+</Document>

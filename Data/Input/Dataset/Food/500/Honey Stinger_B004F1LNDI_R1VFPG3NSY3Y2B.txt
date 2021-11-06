@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Honey stinger waffles ca n't be beat for a reasonably low cal pick me up .</Tokens>
+		<POS>NNP NN NNS MD RB VB VBN IN DT RB JJ JJ NN PRP RP .</POS>
+		<Lemma>Honey stinger waffle can not be beat for a reasonably low cal pick I up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are my favorite `` in between '' in between Pro Bars and Lara Bars .</Tokens>
+		<POS>PRP VBP PRP$ JJ `` IN IN '' IN IN FW NNPS CC NNP NNP .</POS>
+		<Lemma>they be my favorite `` in between '' in between pro Bars and Lara Bars .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My only criticism is Amazon does not reliably keep them in stock .</Tokens>
+		<POS>PRP$ JJ NN VBZ NNP VBZ RB RB VB PRP IN NN .</POS>
+		<Lemma>my only criticism be Amazon do not reliably keep they in stock .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Love organic honey stinger waffles .</Tokens>
+		<POS>NN JJ NN NN NNS .</POS>
+		<Lemma>love organic honey stinger waffle .</Lemma>
+	</Sentence>
+</Document>

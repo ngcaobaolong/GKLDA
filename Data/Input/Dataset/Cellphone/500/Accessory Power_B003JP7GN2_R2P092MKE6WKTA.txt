@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am really enjoying this charger .</Tokens>
+		<POS>PRP VBP RB VBG DT NN .</POS>
+		<Lemma>I be really enjoy this charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought two , one for me and one for my girlfriend as a birthday present .</Tokens>
+		<POS>PRP VBD CD , CD IN PRP CC CD IN PRP$ NN IN DT NN JJ .</POS>
+		<Lemma>I buy two , one for I and one for my girlfriend as a birthday present .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have n't tried to charge with batteries yet , but everything else works great for both my iPod and Blackberry Torch .</Tokens>
+		<POS>PRP VBP RB VBN TO VB IN NNS RB , CC NN RB VBZ JJ IN DT PRP$ NN CC NNP NNP .</POS>
+		<Lemma>I have not try to charge with battery yet , but everything else work great for both my ipod and Blackberry Torch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The charger is very compact and is great for traveling , which is why I bought it .</Tokens>
+		<POS>DT NN VBZ RB JJ CC VBZ JJ IN VBG , WDT VBZ WRB PRP VBD PRP .</POS>
+		<Lemma>the charger be very compact and be great for travel , which be why I buy it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Both the outlets are secure when not in use , so I do n't have to worry about them bending in my bag .</Tokens>
+		<POS>CC DT NNS VBP JJ WRB RB IN NN , IN PRP VBP RB VB TO VB IN PRP VBG IN PRP$ NN .</POS>
+		<Lemma>both the outlet be secure when not in use , so I do not have to worry about they bend in my bag .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The included cords work great , but the mirco-USB does n't stick the best .</Tokens>
+		<POS>DT VBN NNS VBP JJ , CC DT NN VBZ RB VB DT JJS .</POS>
+		<Lemma>the include cord work great , but the mirco-usb do not stick the best .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You ca n't pull the phone by the cord or use it to bear weight , but you should n't be doing that anyway .</Tokens>
+		<POS>PRP MD RB VB DT NN IN DT NN CC VB PRP TO VB NN , CC PRP MD RB VB VBG IN RB .</POS>
+		<Lemma>you can not pull the phone by the cord or use it to bear weight , but you should not be do that anyway .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It is also a big plus that they detach , unlike similar models .</Tokens>
+		<POS>PRP VBZ RB DT JJ CC IN PRP VBP , IN JJ NNS .</POS>
+		<Lemma>it be also a big plus that they detach , unlike similar model .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It charges both devices very fast , faster in the wall than the car , but I expected that .</Tokens>
+		<POS>PRP VBZ DT NNS RB RB , RBR IN DT NN IN DT NN , CC PRP VBD DT .</POS>
+		<Lemma>it charge both device very fast , faster in the wall than the car , but I expect that .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>My only small concern is how hot the phone can get while charging .</Tokens>
+		<POS>PRP$ JJ JJ NN VBZ WRB JJ DT NN MD VB IN VBG .</POS>
+		<Lemma>my only small concern be how hot the phone can get while charge .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It is a price you pay for the fast charge , though .</Tokens>
+		<POS>PRP VBZ DT NN PRP VBP IN DT JJ NN , RB .</POS>
+		<Lemma>it be a price you pay for the fast charge , though .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The car connector is smaller than most car charger connectors , so do n't be afraid to really push it in there .</Tokens>
+		<POS>DT NN NN VBZ JJR IN JJS NN NN NNS , RB VBP RB VB JJ TO RB VB PRP IN RB .</POS>
+		<Lemma>the car connector be smaller than most car charger connector , so do not be afraid to really push it in there .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>All in all , I am very happy and considering buying another just to leave in my car , because at under $ 20 with both cords , it is hard not to .</Tokens>
+		<POS>DT IN DT , PRP VBP RB JJ CC VBG VBG DT RB TO VB IN PRP$ NN , RB IN IN $ CD IN CC NNS , PRP VBZ JJ RB TO .</POS>
+		<Lemma>all in all , I be very happy and consider buy another just to leave in my car , because at under $ 20 with both cord , it be hard not to .</Lemma>
+	</Sentence>
+</Document>

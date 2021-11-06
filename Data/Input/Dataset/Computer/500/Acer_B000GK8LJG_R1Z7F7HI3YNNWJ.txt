@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So much quality for a inexpensive price .</Tokens>
+		<POS>RB JJ NN IN DT JJ NN .</POS>
+		<Lemma>so much quality for a inexpensive price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My daughter refused to use other monitor in the house , she wants Acer LCD only .</Tokens>
+		<POS>PRP$ NN VBD TO VB JJ NN IN DT NN , PRP VBZ NNP NNS RB .</POS>
+		<Lemma>my daughter refuse to use other monitor in the house , she want Acer lcd only .</Lemma>
+	</Sentence>
+</Document>

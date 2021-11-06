@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very nice compact adapter that you can use with both 12 volt DC and 120 volt AC power sources .</Tokens>
+		<POS>RB JJ JJ NN IN PRP MD VB IN DT CD NN NN CC CD NN NN NN NNS .</POS>
+		<Lemma>very nice compact adapter that you can use with both 12 volt dc and 120 volt ac power source .</Lemma>
+	</Sentence>
+</Document>

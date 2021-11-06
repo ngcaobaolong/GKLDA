@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Of course its a great camera for still .</Tokens>
+		<POS>IN NN PRP$ DT JJ NN IN RB .</POS>
+		<Lemma>of course its a great camera for still .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There are so many review about the still capability already .</Tokens>
+		<POS>EX VBP RB JJ VBP IN DT RB NN RB .</POS>
+		<Lemma>there be so many review about the still capability already .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But the controlls of the video is OK but could be better .</Tokens>
+		<POS>CC DT NNS IN DT NN VBZ JJ CC MD VB RBR .</POS>
+		<Lemma>but the controll of the video be ok but could be better .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I played with the Nikon d7000 video a little .</Tokens>
+		<POS>PRP VBD IN DT NNP NN NN DT JJ .</POS>
+		<Lemma>I play with the Nikon d7000 video a little .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I even bought a Steadicam Jr for it .</Tokens>
+		<POS>PRP RB VBD DT NNP NNP IN PRP .</POS>
+		<Lemma>I even buy a Steadicam Jr for it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It took me a couple day to figure out I had to make an adapter plate to make the Steadicam work .</Tokens>
+		<POS>PRP VBD PRP DT NN NN TO VB RP PRP VBD TO VB DT NN NN TO VB DT NNP NN .</POS>
+		<Lemma>it take I a couple day to figure out I have to make a adapter plate to make the Steadicam work .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I added a quick release so I can use the camera on the Steadicam Jr and take the camera off quickly .</Tokens>
+		<POS>PRP VBD DT JJ NN IN PRP MD VB DT NN IN DT NNP NNP CC VB DT NN RP RB .</POS>
+		<Lemma>I add a quick release so I can use the camera on the Steadicam Jr and take the camera off quickly .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Here is my observation of the using nikon D7000 for video .</Tokens>
+		<POS>RB VBZ PRP$ NN IN DT VBG NN NN IN NN .</POS>
+		<Lemma>here be my observation of the use nikon d7000 for video .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>1 -RRB- There is no remote start\/stop to turn the video on and off to be use on the steadicam Jr or similar stabilizer .</Tokens>
+		<POS>LS -RRB- EX VBZ DT JJ NN TO VB DT NN IN CC IN TO VB NN IN DT NN NNP CC JJ NN .</POS>
+		<Lemma>1 -rrb- there be no remote start\/stop to turn the video on and off to be use on the steadicam Jr or similar stabilizer .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I have to catch the `` floating '' camera on the Steadicam Jr to turn the recording on and off .</Tokens>
+		<POS>PRP VBP TO VB DT `` VBG '' NN IN DT NNP NNP TO VB DT NN IN CC IN .</POS>
+		<Lemma>I have to catch the `` float '' camera on the Steadicam Jr to turn the recording on and off .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>So a time delay or remote switch to turn on the video is impossible ?</Tokens>
+		<POS>IN DT NN NN CC JJ NN TO VB RP DT NN VBZ JJ .</POS>
+		<Lemma>so a time delay or remote switch to turn on the video be impossible ?</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>2 -RRB- The D7000 camera is very `` rear '' heavy to compare with a `` normal '' camcorder .</Tokens>
+		<POS>LS -RRB- DT NN NN VBZ RB `` JJ '' NN TO VB IN DT `` JJ '' NN .</POS>
+		<Lemma>2 -rrb- the d7000 camera be very `` rear '' heavy to compare with a `` normal '' camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I made an adapter plate to allow the d7000 to work on the Steadicam Jr. .</Tokens>
+		<POS>PRP VBD DT NN NN TO VB DT CD TO VB IN DT NNP NNP .</POS>
+		<Lemma>I make a adapter plate to allow the d7000 to work on the Steadicam Jr. .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Once the adapter plate is installed the Steadicam Jr works fine .</Tokens>
+		<POS>RB DT NN NN VBZ VBN DT NNP NNP VBZ NN .</POS>
+		<Lemma>once the adapter plate be install the Steadicam Jr work fine .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>3 -RRB- There is no motorized zoom on the D7000 and zooming is not going to be smooth .</Tokens>
+		<POS>LS -RRB- EX VBZ DT JJ NN IN DT NN CC NN VBZ RB VBG TO VB JJ .</POS>
+		<Lemma>3 -rrb- there be no motorized zoom on the d7000 and zooming be not go to be smooth .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It is almost impossible not to stop the recording on the Steadicam Jr to zoom .</Tokens>
+		<POS>PRP VBZ RB JJ RB TO VB DT NN IN DT NNP NNP TO VB .</POS>
+		<Lemma>it be almost impossible not to stop the recording on the Steadicam Jr to zoom .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>4 -RRB- The built-in microphone is so close to the lens , it is picking up the noise of the lens motor when auto focusing is in action .</Tokens>
+		<POS>LS -RRB- DT JJ NN VBZ RB JJ TO DT NN , PRP VBZ VBG RP DT NN IN DT NN NN WRB NN VBG VBZ IN NN .</POS>
+		<Lemma>4 -rrb- the built-in microphone be so close to the lens , it be pick up the noise of the lens motor when auto focus be in action .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I am using a old zoom 24-120mm without the silent wave motor .</Tokens>
+		<POS>PRP VBP VBG DT JJ NN NN IN DT JJ NN NN .</POS>
+		<Lemma>I be use a old zoom 24-120mm without the silent wave motor .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Other lense could be better .</Tokens>
+		<POS>JJ NN MD VB RBR .</POS>
+		<Lemma>other lense could be better .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>5 -RRB- I also bought the IR remote controller , however , it will only control the shutter , it will not start\/stop of the video remotely .</Tokens>
+		<POS>LS -RRB- PRP RB VBD DT NNP JJ NN , RB , PRP MD RB VB DT NN , PRP MD RB VB IN DT NN RB .</POS>
+		<Lemma>5 -rrb- I also buy the IR remote controller , however , it will only control the shutter , it will not start\/stop of the video remotely .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>6 -RRB- No through the lens view finder to see the video means it is difficult if not impossible to take video under bright sun light .</Tokens>
+		<POS>CD -RRB- DT IN DT NN NN VBP TO VB DT NN VBZ PRP VBZ JJ IN RB JJ TO VB NN IN JJ NN NN .</POS>
+		<Lemma>6 -rrb- no through the lens view finder to see the video mean it be difficult if not impossible to take video under bright sun light .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Still a great camera for occasional video recording for vacation .</Tokens>
+		<POS>RB DT JJ NN IN JJ NN NN IN NN .</POS>
+		<Lemma>still a great camera for occasional video recording for vacation .</Lemma>
+	</Sentence>
+</Document>

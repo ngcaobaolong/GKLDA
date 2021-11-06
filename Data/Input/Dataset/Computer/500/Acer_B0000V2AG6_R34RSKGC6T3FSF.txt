@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Let 's face it , I 'm cheap .</Tokens>
+		<POS>NNP POS NN PRP , PRP VBP JJ .</POS>
+		<Lemma>Let 's face it , I be cheap .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would n't spring for a flat panel LCD monitor until I could get a new one for under $ 200 , and found this through a pricegrabber.com search .</Tokens>
+		<POS>PRP MD RB VB IN DT JJ NN NNS VBP IN PRP MD VB DT JJ CD IN IN $ CD , CC VBD DT IN DT NNP NN .</POS>
+		<Lemma>I would not spring for a flat panel lcd monitor until I could get a new one for under $ 200 , and find this through a pricegrabber.com search .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's brilliant !</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be brilliant !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No doubt there are `` nicer '' models out there , but I ca n't justify spending another $ 100 or so on one .</Tokens>
+		<POS>DT NN EX VBP `` JJR '' NNS IN RB , CC PRP MD RB VB NN DT $ CD CC RB IN CD .</POS>
+		<Lemma>no doubt there be `` nicer '' model out there , but I can not justify spending another $ 100 or so on one .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Nevertheless , I ca n't get over how great it is to have practically no glare on my screen -LRB- can open the windows and let the sun shine in now -RRB- and to have a monitor that 's so much more portable than the old CRT model .</Tokens>
+		<POS>RB , PRP MD RB VB IN WRB JJ PRP VBZ TO VB RB DT NN IN PRP$ NN -LRB- MD VB DT NNS CC VB DT NN VB IN RB -RRB- CC TO VB DT NN WDT VBZ RB RB RBR JJ IN DT JJ NNP NN .</POS>
+		<Lemma>nevertheless , I can not get over how great it be to have practically no glare on my screen -lrb- can open the window and let the sun shine in now -rrb- and to have a monitor that be so much more portable than the old CRT model .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Do n't wait , upgrade to a flat panel now !</Tokens>
+		<POS>VBP RB VB , VB TO DT JJ NN RB .</POS>
+		<Lemma>do not wait , upgrade to a flat panel now !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn tastes good and is the ideal size for a snack .</Tokens>
+		<POS>DT NN NNS JJ CC VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>this popcorn taste good and be the ideal size for a snack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is good for children too .</Tokens>
+		<POS>PRP VBZ JJ IN NNS RB .</POS>
+		<Lemma>it be good for child too .</Lemma>
+	</Sentence>
+</Document>

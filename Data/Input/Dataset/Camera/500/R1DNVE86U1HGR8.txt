@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I discovered two things when I tried to set my camera up ; 1 -RRB- the CD contained a virus , did n't install properly , locked up my computer , could n't be uninstalled ... I had to have my laptop reimaged to clean up the mess .</Tokens>
+		<POS>PRP VBD CD NNS WRB PRP VBD TO VB PRP$ NN IN : LS -RRB- DT NNP VBD DT NN , VBD RB VB RB , VBN RP PRP$ NN , MD RB VB JJ : PRP VBD TO VB PRP$ NN VBD TO VB RP DT NN .</POS>
+		<Lemma>I discover two thing when I try to set my camera up ; 1 -rrb- the CD contain a virus , do not install properly , lock up my computer , could not be uninstalled ... I have to have my laptop reimage to clean up the mess .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And 2 -RRB- this particular item is not warrantied by Foscam unless you purchase directly from them 8 -LRB- which I did n't -RRB- .</Tokens>
+		<POS>CC LS -RRB- DT JJ NN VBZ RB VBN IN NNP IN PRP VBP RB IN PRP CD -LRB- WDT PRP VBD RB -RRB- .</POS>
+		<Lemma>and 2 -rrb- this particular item be not warranty by Foscam unless you purchase directly from they 8 -lrb- which I do not -rrb- .</Lemma>
+	</Sentence>
+</Document>

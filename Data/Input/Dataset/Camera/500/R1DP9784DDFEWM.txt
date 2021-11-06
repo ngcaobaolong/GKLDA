@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I researched heavily into my next camcorder before I bought this one .</Tokens>
+		<POS>PRP VBD RB IN PRP$ JJ NN IN PRP VBD DT CD .</POS>
+		<Lemma>I research heavily into my next camcorder before I buy this one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I think it is a better value than the model above it given it was mostly the drive space and that difference is more than the cost of a SDHC card .</Tokens>
+		<POS>PRP VBP PRP VBZ DT JJR NN IN DT NN IN PRP VBN PRP VBD RB DT NN NN CC IN NN VBZ JJR IN DT NN IN DT NNP NN .</POS>
+		<Lemma>I think it be a better value than the model above it give it be mostly the drive space and that difference be more than the cost of a SDHC card .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>What I do n't like is the fact there is no eye viewfinder .</Tokens>
+		<POS>WP PRP VBP RB VB VBZ DT NN EX VBZ DT NN NN .</POS>
+		<Lemma>what I do not like be the fact there be no eye viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You have to rely on the pop out viewfinder which when in the sun becomes a disaster .</Tokens>
+		<POS>PRP VBP TO VB IN DT NN IN NN WDT WRB IN DT NN VBZ DT NN .</POS>
+		<Lemma>you have to rely on the pop out viewfinder which when in the sun become a disaster .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I LOVE the built in USB cord !</Tokens>
+		<POS>PRP VBP DT VBN IN JJ NN .</POS>
+		<Lemma>I love the build in usb cord !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I like everything else about the camcorder and am happy with the camera itself .</Tokens>
+		<POS>PRP VBP NN RB IN DT NN CC VBP JJ IN DT NN PRP .</POS>
+		<Lemma>I like everything else about the camcorder and be happy with the camera itself .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Which is more than I can say about Sony.com which must have been designd by Canon or another competitor for them .</Tokens>
+		<POS>WDT VBZ RBR IN PRP MD VB IN NNP WDT MD VB VBN VBN IN NNP CC DT NN IN PRP .</POS>
+		<Lemma>which be more than I can say about Sony.com which must have be designd by Canon or another competitor for they .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Dopes !</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>dope !</Lemma>
+	</Sentence>
+</Document>

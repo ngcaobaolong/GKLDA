@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Well , for the price I guess they are okay .</Tokens>
+		<POS>RB , IN DT NN PRP VBP PRP VBP JJ .</POS>
+		<Lemma>well , for the price I guess they be okay .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My 8 year old son loves them , but I am disappointed in the quality of the pictures .</Tokens>
+		<POS>PRP$ CD NN JJ NN VBZ PRP , CC PRP VBP VBN IN DT NN IN DT NNS .</POS>
+		<Lemma>my 8 year old son love they , but I be disappoint in the quality of the picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are fine for beginner binoculars , but even with a tripod , any pictures taken are still a bit blurry , and quite small .</Tokens>
+		<POS>PRP VBP JJ IN NN NNS , CC RB IN DT NN , DT NNS VBN VBP RB DT NN JJ , CC RB JJ .</POS>
+		<Lemma>they be fine for beginner binoculars , but even with a tripod , any picture take be still a bit blurry , and quite small .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Kids will be happy with them , and that is who I would recommend it for .</Tokens>
+		<POS>NNS MD VB JJ IN PRP , CC DT VBZ WP PRP MD VB PRP IN .</POS>
+		<Lemma>kid will be happy with they , and that be who I would recommend it for .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- although i am thinking of upgrading to a better pair so the whole family can all enjoy taking pictures of what we see with the binoculars -RRB- It was a good idea , just not well executed here .</Tokens>
+		<POS>-LRB- IN FW VBP NN IN VBG TO DT JJR NN IN DT JJ NN MD DT VB VBG NNS IN WP PRP VBP IN DT NNS -RRB- PRP VBD DT JJ NN , RB RB RB VBN RB .</POS>
+		<Lemma>-lrb- although i be thinking of upgrade to a better pair so the whole family can all enjoy take picture of what we see with the binoculars -rrb- it be a good idea , just not well execute here .</Lemma>
+	</Sentence>
+</Document>

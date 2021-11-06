@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We 're popcorn snobs , but were looking for something little less expensive than Orville Reddenbacher or Pop Secret .</Tokens>
+		<POS>PRP VBP NN NNS , CC VBD VBG IN NN RB RBR JJ IN NNP NNP CC NNP NNP .</POS>
+		<Lemma>we be popcorn snob , but be look for something little less expensive than Orville Reddenbacher or Pop Secret .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is about half the price , so thumbs up there .</Tokens>
+		<POS>DT VBZ IN PDT DT NN , RB VBZ IN RB .</POS>
+		<Lemma>this be about half the price , so thumb up there .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The differences in quality , but noticeable .</Tokens>
+		<POS>DT NNS IN NN , CC JJ .</POS>
+		<Lemma>the difference in quality , but noticeable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This popcorn is less fluffy and a little more dry .</Tokens>
+		<POS>DT NN VBZ RBR JJ CC DT RB RBR JJ .</POS>
+		<Lemma>this popcorn be less fluffy and a little more dry .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However , almost all of the kernals popped .</Tokens>
+		<POS>RB , RB DT IN DT NNS VBN .</POS>
+		<Lemma>however , almost all of the kernal pop .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall , were happy .</Tokens>
+		<POS>RB , VBD JJ .</POS>
+		<Lemma>overall , be happy .</Lemma>
+	</Sentence>
+</Document>

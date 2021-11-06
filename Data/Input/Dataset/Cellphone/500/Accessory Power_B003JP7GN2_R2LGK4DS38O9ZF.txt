@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Have had the Trans4M for more than an month and have used in my home nad in the car .</Tokens>
+		<POS>NNP VBD DT NN IN JJR IN DT NN CC VBP VBN IN PRP$ NN NN IN DT NN .</POS>
+		<Lemma>Have have the trans4m for more than a month and have use in my home nad in the car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Transition is easy and so cool to use .</Tokens>
+		<POS>NN VBZ JJ CC RB JJ TO VB .</POS>
+		<Lemma>transition be easy and so cool to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This product is awesome on any gadget that has USB connector ,</Tokens>
+		<POS>DT NN VBZ JJ IN DT NN WDT VBZ JJ NN ,</POS>
+		<Lemma>this product be awesome on any gadget that have usb connector ,</Lemma>
+	</Sentence>
+</Document>

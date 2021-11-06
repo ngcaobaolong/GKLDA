@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very simple yet very useful .</Tokens>
+		<POS>RB JJ RB RB JJ .</POS>
+		<Lemma>very simple yet very useful .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We live in Long Island , NY & in our specific area , we have a poor reception for AT&T along with many dead spots in the house .</Tokens>
+		<POS>PRP VBP IN NNP NNP , NNP CC IN PRP$ JJ NN , PRP VBP DT JJ NN IN NNP IN IN JJ JJ NNS IN DT NN .</POS>
+		<Lemma>we live in Long Island , NY & in we specific area , we have a poor reception for AT&T along with many dead spot in the house .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I also have four iPhones -LRB- all of them are heavy users -RRB- , and we used to get a lot of dropped calls .</Tokens>
+		<POS>PRP RB VBP CD NNS -LRB- DT IN PRP VBP JJ NNS -RRB- , CC PRP VBD TO VB DT NN IN VBN NNS .</POS>
+		<Lemma>I also have four iphone -lrb- all of they be heavy user -rrb- , and we use to get a lot of drop call .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I heard about this boosters from TV , and thought about giving it a try , since I was getting 10 pack under 3 $ !!!</Tokens>
+		<POS>PRP VBD IN DT NNS IN NN , CC VBD RB VBG PRP DT NN , IN PRP VBD VBG CD NN IN CD $ CD</POS>
+		<Lemma>I hear about this booster from tv , and think about give it a try , since I be get 10 pack under 3 $ !!!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So , I sticked one of them on the back side of the iPhone , 1 to 1\/4 inch below Apple logo -LRB- since the cell tower antenna module is located right underneath -RRB- & restarted the iPhone .</Tokens>
+		<POS>RB , PRP VBD CD IN PRP IN DT JJ NN IN DT NNP , CD TO CD NN IN NNP NN -LRB- IN DT NN NN NN NN VBZ JJ RB IN -RRB- CC VBD DT NNP .</POS>
+		<Lemma>so , I stick one of they on the back side of the iPhone , 1 to 1\/4 inch below Apple logo -lrb- since the cell tower antenna module be located right underneath -rrb- & restart the iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Now I am getting 5 full bars that are much more consistent than earlier , less dropped calls & I get reception everywhere in the house -LRB- including basements , where I practically had no reception -RRB- .</Tokens>
+		<POS>RB PRP VBP VBG CD JJ NNS WDT VBP RB RBR JJ IN JJR , RBR VBD NNS CC PRP VBP NN RB IN DT NN -LRB- VBG NNS , WRB PRP RB VBD DT NN -RRB- .</POS>
+		<Lemma>now I be get 5 full bar that be much more consistent than earlier , less drop call & I get reception everywhere in the house -lrb- include basement , where I practically have no reception -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have also noticed fewer dropped calls .</Tokens>
+		<POS>PRP VBP RB VBN JJR VBD NNS .</POS>
+		<Lemma>I have also notice fewer drop call .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>In short , if you are an iPhone user like me , its gonna to work , as long as you place it correctly .</Tokens>
+		<POS>IN JJ , IN PRP VBP DT NNP NN IN PRP , PRP$ NN TO VB , RB RB IN PRP VBP PRP RB .</POS>
+		<Lemma>in short , if you be a iPhone user like I , its gonna to work , as long as you place it correctly .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>And I know that poor reception & dropped calls are major issues with the iPhone .</Tokens>
+		<POS>CC PRP VBP IN JJ NN CC VBD NNS VBP JJ NNS IN DT NNP .</POS>
+		<Lemma>and I know that poor reception & drop call be major issue with the iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Other phones should notice a boost in reception too , but since I have only tried with iPhone , I can not be 100 % sure about others .</Tokens>
+		<POS>JJ NNS MD VB DT NN IN NN RB , CC IN PRP VBP RB VBN IN NNP , PRP MD RB VB CD NN JJ IN NNS .</POS>
+		<Lemma>other phone should notice a boost in reception too , but since I have only try with iPhone , I can not be 100 % sure about other .</Lemma>
+	</Sentence>
+</Document>

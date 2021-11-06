@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Amazing camera .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>amazing camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm not pro on these DSLR 's but it 's not so hard to understand how things work .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NNP POS CC PRP VBZ RB RB JJ TO VB WRB NNS VBP .</POS>
+		<Lemma>I be not pro on these DSLR 's but it be not so hard to understand how thing work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>60D is my first DSLR and I 'm so happy to have it</Tokens>
+		<POS>NN VBZ PRP$ JJ NN CC PRP VBP RB JJ TO VB PRP</POS>
+		<Lemma>60d be my first dslr and I be so happy to have it</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am already dependent on this handy little gadget !</Tokens>
+		<POS>PRP VBP RB JJ IN DT JJ JJ NN .</POS>
+		<Lemma>I be already dependent on this handy little gadget !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not sure how I managed without it before -- and it 's priced so reasonably , you could order a second to keep in the car ...</Tokens>
+		<POS>RB JJ WRB PRP VBD IN PRP RB : CC PRP VBZ VBN RB RB , PRP MD VB DT JJ TO VB IN DT NN :</POS>
+		<Lemma>not sure how I manage without it before -- and it be price so reasonably , you could order a second to keep in the car ...</Lemma>
+	</Sentence>
+</Document>

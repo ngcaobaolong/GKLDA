@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i really LOVE this charger !!</Tokens>
+		<POS>LS RB VB DT NN NN</POS>
+		<Lemma>i really love this charger !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>when i purchased it i liked that it is a car chager & wall outlet charger in one , however i did not know it has a place for either 2 AA batteries or a 9 volt .</Tokens>
+		<POS>WRB FW VBD PRP FW VBD IN PRP VBZ DT NN NN CC NN NN NN IN CD , RB FW VBD RB VB PRP VBZ DT NN IN CC CD NN NNS CC DT CD NN .</POS>
+		<Lemma>when i purchase it i like that it be a car chager & wall outlet charger in one , however i do not know it have a place for either 2 aa battery or a 9 volt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>HOW COOL for when your not close to an outlet like in a restraunt or waiting room !</Tokens>
+		<POS>NNP NNP IN WRB PRP$ RB VB TO DT NN IN IN DT NN CC VBG NN .</POS>
+		<Lemma>HOW COOL for when you not close to a outlet like in a restraunt or wait room !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>omg genius idea i am so happy with this purchase and it will be usable with any phone i get with a usb cord i love that too</Tokens>
+		<POS>NN NN NN FW VBP RB JJ IN DT NN CC PRP MD VB JJ IN DT NN FW VB IN DT NN NN FW VBP IN RB</POS>
+		<Lemma>omg genius idea i be so happy with this purchase and it will be usable with any phone i get with a usb cord i love that too</Lemma>
+	</Sentence>
+</Document>

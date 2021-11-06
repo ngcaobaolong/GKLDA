@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>To be candid , I was n't expecting much from this .</Tokens>
+		<POS>TO VB JJ , PRP VBD RB VBG RB IN DT .</POS>
+		<Lemma>to be candid , I be not expect much from this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If it just let me get rid of the CDs floating around my car 's interior , I would have been satisfied .</Tokens>
+		<POS>IN PRP RB VB PRP VB JJ IN DT NNS VBG IN PRP$ NN POS NN , PRP MD VB VBN VBN .</POS>
+		<Lemma>if it just let I get rid of the cd float around my car 's interior , I would have be satisfy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>-LRB- My 2001 car missed the aux jack by one model year ... -RRB- It has exceeded my expectations .</Tokens>
+		<POS>-LRB- PRP$ CD NN VBD DT NN NN IN CD NN NN : -RRB- PRP VBZ VBN PRP$ NNS .</POS>
+		<Lemma>-lrb- my 2001 car miss the aux jack by one model year ... -rrb- it have exceed my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am able to play from both my <a href="http://www.amazon.com/gp/product/B005EQSB2E/ref=cm_cr_asin_lnk/186-9102335-8420752"> Sony NWZE464RED Walkman MP3 player </a> and my Samsung Focus with Windows Phone 7 .</Tokens>
+		<POS>PRP VBP JJ TO VB IN DT PRP$ NN NNP NNP NNP NN NN NN CC PRP$ NNP NN IN NNP NNP CD .</POS>
+		<Lemma>I be able to play from both my <a href="http://www.amazon.com/gp/product/b005eqsb2e/ref=cm_cr_asin_lnk/186-9102335-8420752"> Sony NWZE464RED Walkman mp3 player </a> and my Samsung focus with Windows Phone 7 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The Sony does not have Bluetooth , but plays through the provided audio cable , which runs to an aux jack on the FlexSmart .</Tokens>
+		<POS>DT NNP VBZ RB VB NNP , CC VBZ IN DT VBN NN NN , WDT VBZ TO DT FW NN IN DT NNP .</POS>
+		<Lemma>the Sony do not have Bluetooth , but play through the provide audio cable , which run to a aux jack on the FlexSmart .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The Windows Phone plays through Bluetooth .</Tokens>
+		<POS>DT NNP NNP VBZ IN NNP .</POS>
+		<Lemma>the Windows Phone play through Bluetooth .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Both give adequate sound and minimal hassle .</Tokens>
+		<POS>DT VBP JJ NN CC JJ NN .</POS>
+		<Lemma>both give adequate sound and minimal hassle .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 'm no longer toting around and sorting through sixty or seventy CDs .</Tokens>
+		<POS>PRP VBP RB RB VBG RB CC VBG IN CD CC CD NNS .</POS>
+		<Lemma>I be no longer tote around and sort through sixty or seventy cd .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The Bluetooth performance took me by surprise .</Tokens>
+		<POS>DT NNP NN VBD PRP IN NN .</POS>
+		<Lemma>the Bluetooth performance take I by surprise .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The first time a text came through while I was playing music off the phone , the music was paused , and my phone asked if I wanted to play the text message via text-to-voice .</Tokens>
+		<POS>DT JJ NN DT NN VBD IN IN PRP VBD VBG NN IN DT NN , DT NN VBD VBN , CC PRP$ NN VBD IN PRP VBD TO VB DT NN NN IN NN .</POS>
+		<Lemma>the first time a text come through while I be play music off the phone , the music be pause , and my phone ask if I want to play the text message via text-to-voice .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I just blurted out `` Yes '' , and I guess the microphone picked it up and the text message was read .</Tokens>
+		<POS>PRP RB VBD RP `` UH '' , CC PRP VBP DT NN VBD PRP RP CC DT NN NN VBD VBN .</POS>
+		<Lemma>I just blurt out `` yes '' , and I guess the microphone pick it up and the text message be read .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Then another voice command got me right back to the music .</Tokens>
+		<POS>RB DT NN NN VBD PRP RB RB TO DT NN .</POS>
+		<Lemma>then another voice command get I right back to the music .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Since then , I 've done hands free phone calls a few times , with similar good results .</Tokens>
+		<POS>IN RB , PRP VBP VBN NNS JJ NN VBZ DT JJ NNS , IN JJ JJ NNS .</POS>
+		<Lemma>since then , I have do hand free phone call a few time , with similar good result .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Admittedly , part of this is good work on the part of the Windows Phone , but the FlexSmart did its part with a good Bluetooth connection both ways , and a microphone that was clear enough for the phone to use .</Tokens>
+		<POS>RB , NN IN DT VBZ JJ NN IN DT NN IN DT NNP NNP , CC DT NNP VBD PRP$ NN IN DT JJ NNP NN CC NNS , CC DT NN WDT VBD JJ RB IN DT NN TO VB .</POS>
+		<Lemma>admittedly , part of this be good work on the part of the Windows Phone , but the FlexSmart do its part with a good Bluetooth connection both way , and a microphone that be clear enough for the phone to use .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It comes with both charging cables I needed , one mini USB for the Sony and one micro USB for the phone .</Tokens>
+		<POS>PRP VBZ IN CC VBG NNS PRP VBD , CD JJ JJ IN DT NNP CC CD JJ JJ IN DT NN .</POS>
+		<Lemma>it come with both charge cable I need , one mini usb for the Sony and one micro usb for the phone .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Both are pretty short , though .</Tokens>
+		<POS>DT VBP RB RB , IN .</POS>
+		<Lemma>both be pretty short , though .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>If you plug your phone in and want to pick it up and use it , you 'll likely need to unplug because the cable will be too short .</Tokens>
+		<POS>IN PRP VBP PRP$ NN IN CC VB TO VB PRP RB CC VB PRP , PRP MD RB VB TO VB IN DT NN MD VB RB JJ .</POS>
+		<Lemma>if you plug you phone in and want to pick it up and use it , you 'll likely need to unplug because the cable will be too short .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I substituted the one for the phone with a longer one of my own .</Tokens>
+		<POS>PRP VBD DT CD IN DT NN IN DT RBR CD IN PRP$ JJ .</POS>
+		<Lemma>I substitute the one for the phone with a longer one of my own .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>So to sum up , this little fellow serves the following purposes for me : - Substitutes for an auxiliary jack for playing music - Allows hands free use of the phone - Charges my mobile devices that take USB charging As I said , more than expected .</Tokens>
+		<POS>RB TO VB RP , DT JJ JJ VBZ DT VBG NNS IN PRP : : NNS IN DT JJ NN IN VBG NN : VBZ NNS JJ NN IN DT NN : NNS PRP$ JJ NNS WDT VBP JJ VBG IN PRP VBD , JJR IN VBN .</POS>
+		<Lemma>so to sum up , this little fellow serve the follow purpose for I : - substitute for a auxiliary jack for play music - allow hand free use of the phone - charge my mobile device that take usb charge as I say , more than expect .</Lemma>
+	</Sentence>
+</Document>

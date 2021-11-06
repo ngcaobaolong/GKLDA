@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I BOUGHT THIS NETBOOK DUE TO ITS A DUAL CORE PROSSESOR ... AND IM SURPRISE HOW SLOW IT IS ... THIS IS JUST THE FIRST DAY OF USING ... There is not much of a difference if your buying a single core ones , maybe those are even faster due to its lower pixel like 600x ?</Tokens>
+		<POS>PRP VBD NNP NNP NNP TO NNP NNP NNP NNP NNP : CC NNP NNP NNP NNP NNP VBZ : NNP VBZ RB DT NNP NNP IN NNP : EX VBZ RB JJ IN DT NN IN PRP$ VBG DT JJ NN NNS , RB DT VBP RB RBR JJ TO PRP$ JJR NN IN NN .</POS>
+		<Lemma>I buy THIS NETBOOK DUE to ITS A DUAL CORE PROSSESOR ... and IM SURPRISE HOW SLOW IT be ... THIS be just the FIRST DAY of USING ... there be not much of a difference if you buy a single core one , maybe those be even faster due to its lower pixel like 600x ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Compare to this one that has 800x1300 + hd screen ... the good thing about it is .</Tokens>
+		<POS>VB TO DT CD WDT VBZ CD CC NN NN : DT JJ NN IN PRP VBZ .</POS>
+		<Lemma>compare to this one that have 800x1300 + hd screen ... the good thing about it be .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>this is probably one of the best looking wide screen hd netbook with lots of storage memory 320gb and comes with a good programs like the 2010 Microsoft office starter only ... it also plays mp4 with no buffering ... But it does buffer when surffing online like 3-4 second delay before it could actually load a window ... Sometimes less but sometimes it would says -LRB- firefox is not responding -RRB- .</Tokens>
+		<POS>DT VBZ RB CD IN DT JJS VBG JJ NN NN NN IN NNS IN NN NN NN CC VBZ IN DT JJ NNS IN DT CD NNP NN JJ RB : PRP RB VBZ NN IN DT NN : CC PRP VBZ VB WRB VBG NN IN CD JJ NN IN PRP MD RB VB DT NN : RB JJR CC RB PRP MD VBZ -LRB- NN VBZ RB VBG -RRB- .</POS>
+		<Lemma>this be probably one of the best look wide screen hd netbook with lot of storage memory 320gb and come with a good program like the 2010 Microsoft office starter only ... it also play mp4 with no buffering ... but it do buffer when surff online like 3-4 second delay before it could actually load a window ... sometimes less but sometimes it would say -lrb- firefox be not respond -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And this is what i dont like ... Im on its first day maybe if i manage the program like deleting everything i dont need and dis able some program on a startup ... Maybe it will run faster ... but definetely i would just gonna get a good laptop like a real dual core stuff i-3 or i5 that has a good ghz speed ... And at least 4gb of ram ... Im an acer fan ... I just got a refurb desktop from them that has an amd II x2 athlon dual core processor also that has a 3.1 ghz speed and 4gb of ram ... And im really fully satisfied on that ... im expecting that this netbook would be slower but not too slow to compare with .</Tokens>
+		<POS>CC DT VBZ WP FW FW IN : NN IN PRP$ JJ NN RB IN FW VBP DT NN IN VBG NN FW FW NN CC NN JJ DT NN IN DT NN : RB PRP MD VB RBR : CC RB FW MD RB VB VB DT JJ NN IN DT JJ JJ NN NN NN CC NN WDT VBZ DT JJ NN NN : CC IN JJS CD IN NN : NN DT NN NN : PRP RB VBD DT NN NN IN PRP WDT VBZ DT NN CD NN NN JJ NN NN RB DT VBZ DT CD CD NN CC NN IN NN : CC NN RB RB VBN IN DT : NN VBG IN DT NN MD VB JJR CC RB RB JJ TO VB IN .</POS>
+		<Lemma>and this be what i dont like ... im on its first day maybe if i manage the program like delete everything i dont need and di able some program on a startup ... maybe it will run faster ... but definetely i would just gonna get a good laptop like a real dual core stuff i-3 or i5 that have a good ghz speed ... and at least 4gb of ram ... im a acer fan ... I just get a refurb desktop from they that have a amd ii x2 athlon dual core processor also that have a 3.1 ghz speed and 4gb of ram ... and im really fully satisfy on that ... im expect that this netbook would be slower but not too slow to compare with .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>UPDATE ... AFTER - deleting programs i do n't need A.K.A. SUBSCRIPTION and COMMERCIALS , ADD-ON 'S MCAFEE ... ECT ... AND DO -LRB- important -RRB- disabling program that runs on a startup boot -LRB- MSCONFIG -RRB- ... the computer runs a lot faster NOW ... i just let the anti-virus and the power management program to be booted on a startup and wow ... the computer is not only runs faster but it also RUN flawlessly about 80-90 % of the time ... the 2 star became a 3 star now ... I WANTED TO PUT 4 OR 5 ... IF THIS COMPUTER RUNS JUST LIKE THIS ON THE very FIRST TIME ... and IT COULD HAVE BEEN A 4 STAR ... but due to that speed issue at first , i will stay on 3 star because if you do n't know how to manage and setup your computer to your desired needs and maximized its capabilities ... you 'll be stuck on that preset ...</Tokens>
+		<POS>VB : NNP : VBG NNS FW VBP RB VB NNP NNP CC NNP , NNP POS NNP : NNP : CC NN -LRB- JJ -RRB- VBG NN WDT VBZ IN DT NN NN -LRB- NN -RRB- : DT NN VBZ DT NN RBR RB : FW RB VB DT NNS CC DT NN NN NN TO VB VBN IN DT NN CC NN : DT NN VBZ RB RB VBZ RBR CC PRP RB VBP RB IN CD NN IN DT NN : DT CD NN VBD DT CD NN RB : PRP VBD TO VB CD NN CD : IN NNP NNP VBZ RB IN NN IN DT RB NNP NNP : CC PRP NNP NNP NNP NNP CD NN : CC JJ TO DT NN NN IN RB , FW MD VB IN CD NN IN IN PRP VBP RB VB WRB TO VB CC NN PRP$ NN TO PRP$ VBN NNS CC VBD PRP$ NNS : PRP MD VB VBN IN DT JJ :</POS>
+		<Lemma>update ... AFTER - delete program i do not need A.K.A. SUBSCRIPTION and COMMERCIALS , ADD-ON 's MCAFEE ... ECT ... and do -lrb- important -rrb- disable program that run on a startup boot -lrb- msconfig -rrb- ... the computer run a lot faster now ... i just let the anti-virus and the power management program to be boot on a startup and wow ... the computer be not only run faster but it also run flawlessly about 80-90 % of the time ... the 2 star become a 3 star now ... I want to put 4 or 5 ... if THIS COMPUTER run just like this on the very FIRST TIME ... and it COULD HAVE BEEN A 4 star ... but due to that speed issue at first , i will stay on 3 star because if you do not know how to manage and setup you computer to you desire need and maximize its capability ... you 'll be stick on that preset ...</Lemma>
+	</Sentence>
+</Document>

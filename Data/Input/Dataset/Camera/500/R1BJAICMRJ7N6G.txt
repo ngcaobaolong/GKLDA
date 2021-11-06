@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excelent Camera from NIkon , I love it .</Tokens>
+		<POS>NNP NNP IN NNP , PRP VBP PRP .</POS>
+		<Lemma>Excelent Camera from NIkon , I love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I purchased with 18mm-105mm VR Len .</Tokens>
+		<POS>PRP VBD IN JJ NN NNP .</POS>
+		<Lemma>I purchase with 18mm-105mm vr Len .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have taken many perfect pictures inddor and outdoor .</Tokens>
+		<POS>PRP VBP VBN JJ JJ NNS NN CC JJ .</POS>
+		<Lemma>I have take many perfect picture inddor and outdoor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Excelent 39 AF Points</Tokens>
+		<POS>JJ CD NN NNS</POS>
+		<Lemma>excelent 39 af point</Lemma>
+	</Sentence>
+</Document>

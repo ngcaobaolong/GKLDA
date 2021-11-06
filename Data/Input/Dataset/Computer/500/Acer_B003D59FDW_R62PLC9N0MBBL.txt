@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A simple basic flat , wide screen LCD monitor .</Tokens>
+		<POS>DT JJ JJ JJ , JJ NN NNS VBP .</POS>
+		<Lemma>a simple basic flat , wide screen lcd monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If thats what you want , and you do n't need all the bells and whistles , then this is for you .</Tokens>
+		<POS>IN NNS WDT PRP VBP , CC PRP VBP RB VB PDT DT NNS CC NNS , RB DT VBZ IN PRP .</POS>
+		<Lemma>if that what you want , and you do not need all the bell and whistle , then this be for you .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy to set up , fun to use !</Tokens>
+		<POS>NNP TO VB RP , NN TO VB .</POS>
+		<Lemma>Easy to set up , fun to use !</Lemma>
+	</Sentence>
+</Document>

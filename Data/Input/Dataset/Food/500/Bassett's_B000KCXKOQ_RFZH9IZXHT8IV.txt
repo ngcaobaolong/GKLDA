@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm sure you 've seen the candy on Doctor Who and decided to pick up a bag for a taste of pop culture .</Tokens>
+		<POS>PRP VBP JJ PRP VBP VBN DT NN IN NNP WP CC VBD TO VB RP DT NN IN DT NN IN NN NN .</POS>
+		<Lemma>I be sure you have see the candy on Doctor who and decide to pick up a bag for a taste of pop culture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just a warning , if you think Jelly Babies are essentially Sour Patch Kids without the well sour , then you 're absolutely wrong .</Tokens>
+		<POS>RB DT NN , IN PRP VBP NNP NNS VBP RB JJ NNP NNPS IN DT RB JJ , RB PRP VBP RB JJ .</POS>
+		<Lemma>just a warning , if you think Jelly baby be essentially sour Patch Kids without the well sour , then you be absolutely wrong .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They 're more of a larger sort of juice filled chewy candy .</Tokens>
+		<POS>PRP VBP JJR IN DT JJR NN IN NN VBN JJ NN .</POS>
+		<Lemma>they be more of a larger sort of juice fill chewy candy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What I 'm trying to say is they tasted a bit ... off to me .</Tokens>
+		<POS>WP PRP VBP VBG TO VB VBZ PRP VBD DT NN : IN TO PRP .</POS>
+		<Lemma>what I be try to say be they taste a bit ... off to I .</Lemma>
+	</Sentence>
+</Document>

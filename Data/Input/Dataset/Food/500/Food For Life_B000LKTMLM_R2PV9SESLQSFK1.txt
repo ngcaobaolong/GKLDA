@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product , however , the current price $ 41.54 is exorbitant .</Tokens>
+		<POS>JJ NN , RB , DT JJ NN $ CD VBZ JJ .</POS>
+		<Lemma>great product , however , the current price $ 41.54 be exorbitant .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This product was $ 24.95 yesterday .</Tokens>
+		<POS>DT NN VBD $ CD NN .</POS>
+		<Lemma>this product be $ 24.95 yesterday .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That 's a 66 % price increase in one day .</Tokens>
+		<POS>DT VBZ DT CD NN NN NN IN CD NN .</POS>
+		<Lemma>that be a 66 % price increase in one day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What 's going on with prices , Amazon ?</Tokens>
+		<POS>WP VBZ VBG RP IN NNS , NNP .</POS>
+		<Lemma>what be go on with price , Amazon ?</Lemma>
+	</Sentence>
+</Document>

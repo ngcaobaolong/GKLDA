@@ -1,0 +1,162 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As a serious photo-hobbyist , I have some interest in using video cameras .</Tokens>
+		<POS>IN DT JJ NN , PRP VBP DT NN IN VBG NN NNS .</POS>
+		<Lemma>as a serious photo-hobbyist , I have some interest in use video camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Bloggie duo , unlike other available vid-cams , has two screens for capturing an image\/video which comes in handy for self portraits .</Tokens>
+		<POS>DT NNP NN , IN JJ JJ NNS , VBZ CD NNS IN VBG DT NN WDT VBZ IN JJ IN NN NNS .</POS>
+		<Lemma>the Bloggie duo , unlike other available vid-cam , have two screen for capture a image\/video which come in handy for self portrait .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>4 GB of memory records approximtely 2 hours of 1280x720 video .</Tokens>
+		<POS>CD NN IN NN NNS RB CD NNS IN NN NN .</POS>
+		<Lemma>4 gb of memory record approximtely 2 hour of 1280x720 video .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In addition to the Bloggie , the box includes a USB extention cable , wrist strap , and documentation .</Tokens>
+		<POS>IN NN TO DT NNP , DT NN VBZ DT JJ NN NN , NN NN , CC NN .</POS>
+		<Lemma>in addition to the Bloggie , the box include a usb extention cable , wrist strap , and documentation .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I began by plugging the Bloggie Duo into my PC to install the software .</Tokens>
+		<POS>PRP VBD IN VBG DT NNP NN IN PRP$ NN TO VB DT NN .</POS>
+		<Lemma>I begin by plug the Bloggie duo into my pc to install the software .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I followed the instructions and browsed to the folder where I clicked the install file , which resulted in an error .</Tokens>
+		<POS>PRP VBD DT NNS CC VBN TO DT NN WRB PRP VBD DT VB NN , WDT VBD IN DT NN .</POS>
+		<Lemma>I follow the instruction and browse to the folder where I click the install file , which result in a error .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I researched the error online and found I needed to edit the registry files .</Tokens>
+		<POS>PRP VBD DT NN NN CC VBD PRP VBD TO VB DT NN NNS .</POS>
+		<Lemma>I research the error online and find I need to edit the registry file .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>As an IT guy this does n't bother me , but editing the registry can cause major problems if you do n't know what you 're doing .</Tokens>
+		<POS>IN DT NNP NN DT VBZ RB VB PRP , CC NN DT NN MD VB JJ NNS IN PRP VBP RB VB WP PRP VBP VBG .</POS>
+		<Lemma>as a IT guy this do not bother I , but editing the registry can cause major problem if you do not know what you be do .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Fortunately , this fixed the problem and I was able to install the Bloggie software .</Tokens>
+		<POS>RB , DT VBN DT NN CC PRP VBD JJ TO VB DT NN NN .</POS>
+		<Lemma>fortunately , this fix the problem and I be able to install the bloggie software .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Then when I opened the installed software program , I received an `` assertion error '' , making the software completely useless .</Tokens>
+		<POS>RB WRB PRP VBD DT VBN NN NN , PRP VBD DT `` NN NN '' , VBG DT NN RB JJ .</POS>
+		<Lemma>then when I open the install software program , I receive a `` assertion error '' , make the software completely useless .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This time online research provided no solution , so I gave up .</Tokens>
+		<POS>DT NN JJ NN VBD DT NN , IN PRP VBD RP .</POS>
+		<Lemma>this time online research provide no solution , so I give up .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>A few days later , I opened up the software again .</Tokens>
+		<POS>DT JJ NNS RB , PRP VBD RP DT NN RB .</POS>
+		<Lemma>a few day later , I open up the software again .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>As expected , I received the `` assertion error '' .</Tokens>
+		<POS>IN VBN , PRP VBD DT `` NN NN '' .</POS>
+		<Lemma>as expect , I receive the `` assertion error '' .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Unlike the previous attempt , when I closed the welcome screen the software indicated there was an update .</Tokens>
+		<POS>IN DT JJ NN , WRB PRP VBD DT JJ NN DT NN VBD EX VBD DT VBP .</POS>
+		<Lemma>unlike the previous attempt , when I close the welcome screen the software indicate there be a update .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Thankfully , installing the update eliminated the `` assertion error '' problem .</Tokens>
+		<POS>RB , VBG DT VBP VBN DT `` NN NN '' NN .</POS>
+		<Lemma>thankfully , install the update eliminate the `` assertion error '' problem .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I played around with the Bloggie before deciding to put it to the test at a bat mitzvah party .</Tokens>
+		<POS>PRP VBD RP IN DT NN IN VBG TO VB PRP TO DT NN IN DT NN NN NN .</POS>
+		<Lemma>I play around with the bloggie before decide to put it to the test at a bat mitzvah party .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>We were at a country club , in a decently lit room with a wall of windows facing the golf course on a clear sunny day .</Tokens>
+		<POS>PRP VBD IN DT NN NN , IN DT RB VBN NN IN DT NN IN NNS VBG DT NN NN IN DT JJ JJ NN .</POS>
+		<Lemma>we be at a country club , in a decently light room with a wall of window face the golf course on a clear sunny day .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>When taking pictures , I experienced delays between the time I clicked the button and the camera took the photo .</Tokens>
+		<POS>WRB VBG NNS , PRP VBD NNS IN DT NN PRP VBD DT NN CC DT NN VBD DT NN .</POS>
+		<Lemma>when take picture , I experience delay between the time I click the button and the camera take the photo .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Many photos showed motion blur even when using the weak flash .</Tokens>
+		<POS>JJ NNS VBD NN NN RB WRB VBG DT JJ NN .</POS>
+		<Lemma>many photo show motion blur even when use the weak flash .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The video capabilities seemed to work much better than the snapshots .</Tokens>
+		<POS>DT NN NNS VBD TO VB RB JJR IN DT NNS .</POS>
+		<Lemma>the video capability seem to work much better than the snapshot .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>With video , motion blur ceased to be seen on the small screen .</Tokens>
+		<POS>IN NN , NN NN VBD TO VB VBN IN DT JJ NN .</POS>
+		<Lemma>with video , motion blur cease to be see on the small screen .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I even posted a couple to Facebook where they showed with seemingly good quality .</Tokens>
+		<POS>PRP RB VBD DT NN TO NNP WRB PRP VBD IN RB JJ NN .</POS>
+		<Lemma>I even post a couple to Facebook where they show with seemingly good quality .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Then I watched them at the correct resolution on our 58 '' screen HDTV by using an HDMI to mini HDMI cord with the Bloggie for viewing from the camera .</Tokens>
+		<POS>RB PRP VBD PRP IN DT JJ NN IN PRP$ CD '' NN NN IN VBG DT NN TO VB NN NN IN DT NNP IN VBG IN DT NN .</POS>
+		<Lemma>then I watch they at the correct resolution on we 58 '' screen hdtv by use a hdmus to mini hdmus cord with the Bloggie for view from the camera .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The image on the screen was soft and full of noise .</Tokens>
+		<POS>DT NN IN DT NN VBD JJ CC JJ IN NN .</POS>
+		<Lemma>the image on the screen be soft and full of noise .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>In another video I recorded outside on a bright day , trees and other large items looked like they were painted in watercolor .</Tokens>
+		<POS>IN DT NN PRP VBD JJ IN DT JJ NN , NNS CC JJ JJ NNS VBD IN PRP VBD VBN IN NN .</POS>
+		<Lemma>in another video I record outside on a bright day , tree and other large item look like they be paint in watercolor .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I find this to be a cool effect , but I was n't creating a special effects video .</Tokens>
+		<POS>PRP VBP DT TO VB DT JJ NN , CC PRP VBD RB VBG DT JJ NNS NN .</POS>
+		<Lemma>I find this to be a cool effect , but I be not create a special effect video .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I really wanted to like the Bloggie Duo , and expected more from Sony .</Tokens>
+		<POS>PRP RB VBD TO VB DT NNP NNP , CC VBD RBR IN NNP .</POS>
+		<Lemma>I really want to like the Bloggie Duo , and expect more from Sony .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>However , the software installation issues quickly soured my expectations .</Tokens>
+		<POS>RB , DT NN NN NNS RB VBD PRP$ NNS .</POS>
+		<Lemma>however , the software installation issue quickly sour my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>I still gave the Bloggie Duo a chance , and it continued to disappoint .</Tokens>
+		<POS>PRP RB VBD DT NNP NN DT NN , CC PRP VBD TO VB .</POS>
+		<Lemma>I still give the Bloggie duo a chance , and it continue to disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>When it comes down to it , I do n't see any reason to use the Bloggie Duo instead of my smartphone with the same basic capabilities .</Tokens>
+		<POS>WRB PRP VBZ RP TO PRP , PRP VBP RB VB DT NN TO VB DT NNP NN RB IN PRP$ NN IN DT JJ JJ NNS .</POS>
+		<Lemma>when it come down to it , I do not see any reason to use the Bloggie duo instead of my smartphone with the same basic capability .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Plus my smartphone , can share images as I create them without needing access to a computer .</Tokens>
+		<POS>CC PRP$ NN , MD VB NNS IN PRP VBP PRP IN VBG NN TO DT NN .</POS>
+		<Lemma>plus my smartphone , can share image as I create they without need access to a computer .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Perhaps the Bloggie Duo would make an expensive toy for a teen , but I would n't waste my money purchasing it .</Tokens>
+		<POS>RB DT NNP NN MD VB DT JJ NN IN DT NN , CC PRP MD RB VB PRP$ NN VBG PRP .</POS>
+		<Lemma>perhaps the Bloggie duo would make a expensive toy for a teen , but I would not waste my money purchase it .</Lemma>
+	</Sentence>
+</Document>

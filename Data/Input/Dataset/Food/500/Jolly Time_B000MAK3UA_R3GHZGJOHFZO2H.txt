@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>JUST RIGHT SIZE FOR A NICE SNACK WITH LOW CALORIES .</Tokens>
+		<POS>RB NNP NNP IN DT JJ NN IN RB NNS .</POS>
+		<Lemma>just RIGHT SIZE for a nice snack with low calorie .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>TASTES GOOD AND POPS UP PERFECTLY ON MICROWAVE OVEN .</Tokens>
+		<POS>NNS JJ CC VBZ RP RB IN NNP NNP .</POS>
+		<Lemma>taste good and pop up perfectly on MICROWAVE OVEN .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>WELL PRICED ALSO !</Tokens>
+		<POS>NNP NNP NNP .</POS>
+		<Lemma>WELL PRICED ALSO !</Lemma>
+	</Sentence>
+</Document>

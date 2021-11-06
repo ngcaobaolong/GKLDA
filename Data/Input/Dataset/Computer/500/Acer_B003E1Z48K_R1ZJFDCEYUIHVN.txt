@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased this to use as a new monitor with a new system .</Tokens>
+		<POS>VBN DT TO VB IN DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>purchase this to use as a new monitor with a new system .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had a 4 year old Lenovo monitor ... I thought that was fine until I hooked this up .</Tokens>
+		<POS>PRP VBD DT CD NN JJ NNP NN : PRP VBD DT VBD JJ IN PRP VBD DT RP .</POS>
+		<Lemma>I have a 4 year old Lenovo monitor ... I think that be fine until I hook this up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Side by side , wow !!</Tokens>
+		<POS>NN IN NN , NN NN</POS>
+		<Lemma>side by side , wow !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very bright , very sharp .</Tokens>
+		<POS>RB JJ , RB JJ .</POS>
+		<Lemma>very bright , very sharp .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Only caveat , does not have an hdmi out , only dvi and vga so I needed an adapter in order to utilize two monitors ... Very nice monitor for the money !!</Tokens>
+		<POS>RB NN , VBZ RB VB DT NN RP , RB NN CC NN IN PRP VBD DT NN IN NN TO VB CD NNS : RB JJ NN IN DT NN IN</POS>
+		<Lemma>only caveat , do not have a hdmus out , only dvi and vga so I need a adapter in order to utilize two monitor ... very nice monitor for the money !!</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,127 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very pleased and impressed with the Canon R20 !</Tokens>
+		<POS>PRP VBP RB JJ CC JJ IN DT NNP NN .</POS>
+		<Lemma>I be very pleased and impressed with the Canon r20 !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This little HD camcorder is so easy to use and takes great video and even still photos .</Tokens>
+		<POS>DT JJ NN NN VBZ RB JJ TO VB CC VBZ JJ NN CC RB RB NNS .</POS>
+		<Lemma>this little hd camcorder be so easy to use and take great video and even still photo .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's lightweight , though sturdy and easy to carry around .</Tokens>
+		<POS>PRP VBZ JJ , IN JJ CC JJ TO VB RP .</POS>
+		<Lemma>it be lightweight , though sturdy and easy to carry around .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Fits easily into your pocketbook or a small camera case .</Tokens>
+		<POS>VBZ RB IN PRP$ NN CC DT JJ NN NN .</POS>
+		<Lemma>fit easily into you pocketbook or a small camera case .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Has a built in lens cover , which is great for me because I am usually misplacing them .</Tokens>
+		<POS>VBZ DT VBN IN NN NN , WDT VBZ JJ IN PRP IN PRP VBP RB VBG PRP .</POS>
+		<Lemma>have a build in lens cover , which be great for I because I be usually misplace they .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Records up to 8 hours of high def video with great quality .</Tokens>
+		<POS>NNPS RP TO CD NNS IN JJ NN NN IN JJ NN .</POS>
+		<Lemma>Records up to 8 hour of high def video with great quality .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The images are crisp , clear and colorful , very impressed with the quality .</Tokens>
+		<POS>DT NNS VBP JJ , JJ CC JJ , RB JJ IN DT NN .</POS>
+		<Lemma>the image be crisp , clear and colorful , very impressed with the quality .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I especially like that you can take still photos and capture stills from any point of your video .</Tokens>
+		<POS>PRP RB IN IN PRP MD VB RB NNS CC NN NNS IN DT NN IN PRP$ NN .</POS>
+		<Lemma>I especially like that you can take still photo and capture still from any point of you video .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So often , I have wanted to print a photo from video , but the process is so complicated , be being far from tech-savvy .</Tokens>
+		<POS>RB RB , PRP VBP VBN TO VB DT NN IN NN , CC DT NN VBZ RB JJ , VB VBG RB IN JJ .</POS>
+		<Lemma>so often , I have want to print a photo from video , but the process be so complicated , be be far from tech-savvy .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It 's a cinch to do so with this camera .</Tokens>
+		<POS>PRP VBZ DT VB TO VB RB IN DT NN .</POS>
+		<Lemma>it be a cinch to do so with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The touch screen ability is fantastic -- you do n't have to worry about a gazillion buttons .</Tokens>
+		<POS>DT NN NN NN VBZ JJ : PRP VBP RB VB TO VB IN DT NN NNS .</POS>
+		<Lemma>the touch screen ability be fantastic -- you do not have to worry about a gazillion button .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Easy to use menu lets anyone take great videos .</Tokens>
+		<POS>NNP TO VB NN VBZ NN VB JJ NNS .</POS>
+		<Lemma>Easy to use menu let anyone take great video .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The Canon R20 Smart Auto feature adjusts automatically to different elements so you do n't have to figure all of that out .</Tokens>
+		<POS>DT NNP NNP NNP NNP NN VBZ RB TO JJ NNS IN PRP VBP RB VB TO VB DT IN DT IN .</POS>
+		<Lemma>the Canon R20 Smart Auto feature adjust automatically to different element so you do not have to figure all of that out .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Adjusts on its own for light , speeding objects , etc. .</Tokens>
+		<POS>VBZ IN PRP$ JJ IN NN , VBG NNS , FW .</POS>
+		<Lemma>adjust on its own for light , speed object , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>One feature I particularly like is the creative little touches that can be added to your video so easily , like thought bubbles , stamps , and more to make the final product extra fun and special .</Tokens>
+		<POS>CD NN PRP RB VBP VBZ DT JJ JJ NNS WDT MD VB VBN TO PRP$ NN RB RB , IN VBN NNS , NNS , CC JJR TO VB DT JJ NN JJ NN CC JJ .</POS>
+		<Lemma>one feature I particularly like be the creative little touch that can be add to you video so easily , like think bubble , stamp , and more to make the final product extra fun and special .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I noticed that some other reviewers said that the battery did n't last long for them .</Tokens>
+		<POS>PRP VBD IN DT JJ NNS VBD IN DT NN VBD RB JJ JJ IN PRP .</POS>
+		<Lemma>I notice that some other reviewer say that the battery do not last long for they .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>That has n't been the case with us .</Tokens>
+		<POS>DT VBZ RB VBN DT NN IN PRP .</POS>
+		<Lemma>that have not be the case with we .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>We 've used it for hours with no problem .</Tokens>
+		<POS>PRP VBP VBN PRP IN NNS IN DT NN .</POS>
+		<Lemma>we have use it for hour with no problem .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>There is a memory light that indicates remaining battery time down to the minute .</Tokens>
+		<POS>EX VBZ DT NN NN WDT VBZ VBG NN NN IN TO DT NN .</POS>
+		<Lemma>there be a memory light that indicate remain battery time down to the minute .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>You can record video onto the camera 's hard drive and it will automatically switch to an inserted SD card when the hard drive 's memory is full .</Tokens>
+		<POS>PRP MD VB NN IN DT NN POS JJ NN CC PRP MD RB VB TO DT VBN NN NN WRB DT JJ NN POS NN VBZ JJ .</POS>
+		<Lemma>you can record video onto the camera 's hard drive and it will automatically switch to a insert sd card when the hard drive 's memory be full .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>So you do n't have to worry about missing out on something important .</Tokens>
+		<POS>IN PRP VBP RB VB TO VB IN VBG RP IN NN JJ .</POS>
+		<Lemma>so you do not have to worry about miss out on something important .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>You can copy video from the hard drive to an SC card , freeing up space and allowing you to watch the videos on your PC or TV .</Tokens>
+		<POS>PRP MD VB NN IN DT JJ NN TO DT NN NN , VBG RP NN CC VBG PRP TO VB DT NNS IN PRP$ NN CC NN .</POS>
+		<Lemma>you can copy video from the hard drive to a sc card , free up space and allow you to watch the video on you pc or tv .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The included software bundle lets you trim , reorder , combine scenes , add music and much more .</Tokens>
+		<POS>DT VBN NN NN VBZ PRP JJ , NN , VBP NNS , VBP NN CC RB RBR .</POS>
+		<Lemma>the include software bundle let you trim , reorder , combine scene , add music and much more .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Other reviewers much more knowledgable than me have commented on technical specifics , I 'm just a mom who is very happy with this camcorder and will continue to enjoy it as I figure out even more fun things that it can do !</Tokens>
+		<POS>JJ NNS RB RBR JJ IN PRP VBP VBN IN JJ NNS , PRP VBP RB DT NN WP VBZ RB JJ IN DT NN CC MD VB TO VB PRP IN PRP VBP RP RB RBR NN NNS IN PRP MD VB .</POS>
+		<Lemma>other reviewer much more knowledgable than I have comment on technical specifics , I be just a mom who be very happy with this camcorder and will continue to enjoy it as I figure out even more fun thing that it can do !</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I 'd highly recommend .</Tokens>
+		<POS>PRP MD RB VB .</POS>
+		<Lemma>I would highly recommend .</Lemma>
+	</Sentence>
+</Document>

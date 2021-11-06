@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was so excited to receive this camera so i could use it for shooting at my son 's baseball games .</Tokens>
+		<POS>PRP VBD RB JJ TO VB DT NN RB FW MD VB PRP IN VBG IN PRP$ NN POS NN NNS .</POS>
+		<Lemma>I be so excited to receive this camera so i could use it for shoot at my son 's baseball game .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was a little larger than I wanted -LRB- it would n't fit in your pocket -RRB- but small enough to hold comfortably .</Tokens>
+		<POS>PRP VBD DT JJ JJR IN PRP VBD -LRB- PRP MD RB VB IN PRP$ NN -RRB- CC JJ JJ TO VB RB .</POS>
+		<Lemma>it be a little larger than I want -lrb- it would not fit in you pocket -rrb- but small enough to hold comfortably .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did n't want a DSLR ; I wanted something more for amteurs that could take decent action shots .</Tokens>
+		<POS>PRP VBD RB VB DT NN : PRP VBD NN RBR IN NNS WDT MD VB JJ NN NNS .</POS>
+		<Lemma>I do not want a dslr ; I want something more for amteur that could take decent action shot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unfortunately , the quality of the pictures I took were awful - most still shots were blurry\/unclear with ` auto ' mode .</Tokens>
+		<POS>RB , DT NN IN DT NNS PRP VBD VBD JJ : RBS RB NNS VBD JJ IN `` NN '' NN .</POS>
+		<Lemma>unfortunately , the quality of the picture I take be awful - most still shot be blurry\/unclear with ` auto ' mode .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also , it was so slow capturing the shots , I could n't take a picture of my pet because she would move before the shot was captured .</Tokens>
+		<POS>RB , PRP VBD RB JJ VBG DT NNS , PRP MD RB VB DT NN IN PRP$ NN IN PRP MD VB IN DT NN VBD VBN .</POS>
+		<Lemma>also , it be so slow capture the shot , I could not take a picture of my pet because she would move before the shot be capture .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Finally , one of the main reasons I got this camera was for the burst mode for action photos - not only was it extremely slow , the screen was ` black ' while it was shooting so you could n't even follow the subject .</Tokens>
+		<POS>RB , CD IN DT JJ NNS PRP VBD DT NN VBD IN DT NN NN IN NN NNS : RB RB VBD PRP RB JJ , DT NN VBD `` JJ '' IN PRP VBD VBG RB PRP MD RB RB VB DT NN .</POS>
+		<Lemma>finally , one of the main reason I get this camera be for the burst mode for action photo - not only be it extremely slow , the screen be ` black ' while it be shoot so you could not even follow the subject .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I returned it for a full refund .</Tokens>
+		<POS>PRP VBD PRP IN DT JJ NN .</POS>
+		<Lemma>I return it for a full refund .</Lemma>
+	</Sentence>
+</Document>

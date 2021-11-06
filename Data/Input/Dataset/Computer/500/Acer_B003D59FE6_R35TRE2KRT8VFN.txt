@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is just what I was looking for .</Tokens>
+		<POS>DT NN VBZ RB WP PRP VBD VBG IN .</POS>
+		<Lemma>this monitor be just what I be look for .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did not want a wide screen .</Tokens>
+		<POS>PRP VBD RB VB DT JJ NN .</POS>
+		<Lemma>I do not want a wide screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Referbished but looks new .</Tokens>
+		<POS>VBN CC VBZ JJ .</POS>
+		<Lemma>referbish but look new .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Going to be great for my CAD .</Tokens>
+		<POS>VBG TO VB JJ IN PRP$ NN .</POS>
+		<Lemma>go to be great for my cad .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Thanks .</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>thanks .</Lemma>
+	</Sentence>
+</Document>

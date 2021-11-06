@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought 2 of these monitors for a dual screen set up .</Tokens>
+		<POS>PRP VBD CD IN DT NNS IN DT JJ NN VBN RP .</POS>
+		<Lemma>I buy 2 of these monitor for a dual screen set up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The screen quality is good and I like that both VGA and DVI cables were included .</Tokens>
+		<POS>DT NN NN VBZ JJ CC PRP VBP IN CC NNP CC NNP NNS VBD VBN .</POS>
+		<Lemma>the screen quality be good and I like that both VGA and DVI cable be include .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The price was very competitive - cheaper than the viewsonic model I was considering -LRB- which did n't include a DVI cable -RRB- .</Tokens>
+		<POS>DT NN VBD RB JJ : JJR IN DT JJ NN PRP VBD VBG -LRB- WDT VBD RB VB DT NNP NN -RRB- .</POS>
+		<Lemma>the price be very competitive - cheaper than the viewsonic model I be consider -lrb- which do not include a DVI cable -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My only real issue with the monitors is that the screen angle can not be adjusted .</Tokens>
+		<POS>PRP$ JJ JJ NN IN DT NNS VBZ IN DT NN NN MD RB VB VBN .</POS>
+		<Lemma>my only real issue with the monitor be that the screen angle can not be adjust .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The screens locks into the base and can not be tilted .</Tokens>
+		<POS>DT NNS VBZ IN DT NN CC MD RB VB JJ .</POS>
+		<Lemma>the screen lock into the base and can not be tilted .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>As the monitors are angled slightly upward , this causes there to be an angled gap between my 2 monitors -LRB- unless they are place in a line side-by-side , which is n't very practical -RRB- .</Tokens>
+		<POS>IN DT NNS VBP JJ RB RB , DT VBZ RB TO VB DT JJ NN IN PRP$ CD NNS -LRB- IN PRP VBP NN IN DT NN RB , WDT VBZ RB RB JJ -RRB- .</POS>
+		<Lemma>as the monitor be angled slightly upward , this cause there to be a angled gap between my 2 monitor -lrb- unless they be place in a line side-by-side , which be not very practical -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I imagine the fixed angle might also be an issue depending on your desk\/chair height and viewing preference .</Tokens>
+		<POS>PRP VBP DT VBN NN MD RB VB DT NN VBG IN PRP$ NN NN CC VBG NN .</POS>
+		<Lemma>I imagine the fix angle might also be a issue depend on you desk\/chair height and view preference .</Lemma>
+	</Sentence>
+</Document>

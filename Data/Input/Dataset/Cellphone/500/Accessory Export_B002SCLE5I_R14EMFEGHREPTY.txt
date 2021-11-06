@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this does n't work at all , not even whit the signal and neigther whit noise that some others reviews said , but i am not dissapointed coz the price was nothing , so ship but does n't work</Tokens>
+		<POS>DT VBZ RB VB IN DT , RB RB VB DT NN CC NN NN NN IN DT NNS NNS VBD , CC FW VBP RB JJ NN DT NN VBD NN , RB NN CC VBZ RB VB</POS>
+		<Lemma>this do not work at all , not even whit the signal and neigther whit noise that some other review say , but i be not dissapointed coz the price be nothing , so ship but do not work</Lemma>
+	</Sentence>
+</Document>

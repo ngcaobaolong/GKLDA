@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These taste better than I expected , definitely recommended if you tend to like honey flavor .</Tokens>
+		<POS>DT VBP JJR IN PRP VBD , RB VBN IN PRP VBP TO VB NN NN .</POS>
+		<Lemma>these taste better than I expect , definitely recommend if you tend to like honey flavor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I do n't know what else to say , they taste great and do n't have a lot of calories .</Tokens>
+		<POS>PRP VBP RB VB WP RB TO VB , PRP VBP JJ CC VBP RB VB DT NN IN NNS .</POS>
+		<Lemma>I do not know what else to say , they taste great and do not have a lot of calorie .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Win .</Tokens>
+		<POS>VB .</POS>
+		<Lemma>win .</Lemma>
+	</Sentence>
+</Document>

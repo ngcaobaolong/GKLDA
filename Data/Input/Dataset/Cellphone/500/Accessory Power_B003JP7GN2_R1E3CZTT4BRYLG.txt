@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is just what you need if are traveling and ca n't find an outlet to plug in your charger .</Tokens>
+		<POS>DT NN VBZ RB WP PRP VBP IN VBP VBG CC MD RB VB DT NN TO VB IN PRP$ NN .</POS>
+		<Lemma>this product be just what you need if be travel and can not find a outlet to plug in you charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I found it to work very well for me .</Tokens>
+		<POS>PRP VBD PRP TO VB RB RB IN PRP .</POS>
+		<Lemma>I find it to work very well for I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great price !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great price !</Lemma>
+	</Sentence>
+</Document>

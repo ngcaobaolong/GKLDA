@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>No need to tell any thing about Sony Camera 's they are great .</Tokens>
+		<POS>DT NN TO VB DT NN IN NNP NNP POS PRP VBP JJ .</POS>
+		<Lemma>no need to tell any thing about Sony Camera 's they be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The seller prompt was good , i got it on time .</Tokens>
+		<POS>DT NN VB VBD JJ , FW VBD PRP IN NN .</POS>
+		<Lemma>the seller prompt be good , i get it on time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pretty simple to use , and its worth for what i have spent .</Tokens>
+		<POS>NNP JJ TO VB , CC PRP$ JJ IN WP FW VBP VBN .</POS>
+		<Lemma>Pretty simple to use , and its worth for what i have spend .</Lemma>
+	</Sentence>
+</Document>

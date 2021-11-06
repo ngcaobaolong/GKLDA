@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have to say the result I got from the antenna booster was disappointing , but have to admit does warn you if you are in a dead zone area you may have to use two , and to be fair to the product since I did n't order two I ca n't say how much better it would work .</Tokens>
+		<POS>PRP VBP TO VB DT NN PRP VBD IN DT NN NN VBD JJ , CC VBP TO VB VBZ VB PRP IN PRP VBP IN DT JJ NN NN PRP MD VB TO VB CD , CC TO VB JJ TO DT NN IN PRP VBD RB VB CD PRP MD RB VB WRB JJ JJR PRP MD VB .</POS>
+		<Lemma>I have to say the result I get from the antenna booster be disappointing , but have to admit do warn you if you be in a dead zone area you may have to use two , and to be fair to the product since I do not order two I can not say how much better it would work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I also ordered a 10 pack and got only one booster .</Tokens>
+		<POS>PRP RB VBD DT CD NN CC VBD RB CD NN .</POS>
+		<Lemma>I also order a 10 pack and get only one booster .</Lemma>
+	</Sentence>
+</Document>

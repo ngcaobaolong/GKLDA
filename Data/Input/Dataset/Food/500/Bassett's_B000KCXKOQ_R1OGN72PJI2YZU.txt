@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I absolutely love these , and living in a small town , there 's no place to buy them .</Tokens>
+		<POS>PRP RB VBP DT , CC NN IN DT JJ NN , EX VBZ DT NN TO VB PRP .</POS>
+		<Lemma>I absolutely love these , and living in a small town , there be no place to buy they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm so glad Amazon carries them !</Tokens>
+		<POS>PRP VBP RB JJ NNP VBZ PRP .</POS>
+		<Lemma>I be so glad Amazon carry they !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Woohooo !</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Woohooo !</Lemma>
+	</Sentence>
+</Document>

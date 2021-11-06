@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For my purposes this `` standard '' aspect monitor is just right : a bright , sharp image with strong colors and good contrast .</Tokens>
+		<POS>IN PRP$ NNS DT `` JJ '' NN NN VBZ RB JJ : DT JJ , JJ NN IN JJ NNS CC JJ NN .</POS>
+		<Lemma>for my purpose this `` standard '' aspect monitor be just right : a bright , sharp image with strong color and good contrast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Unlike a few other reviewers , I looked at the accompanying instruction DVD and found that the screen can indeed be tilted up and down to find an ideal viewing angle .</Tokens>
+		<POS>IN DT JJ JJ NNS , PRP VBD IN DT VBG NN NN CC VBD IN DT NN MD RB VB JJ RB CC RB TO VB DT JJ VBG NN .</POS>
+		<Lemma>unlike a few other reviewer , I look at the accompany instruction dvd and find that the screen can indeed be tilted up and down to find a ideal view angle .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A great product at a good price .</Tokens>
+		<POS>DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>a great product at a good price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I play a lot of older video games -LRB- solitaire , golf , etc. -RRB- and now happily play with realistically shaped cards -LRB- and golfers -RRB- instead of the short , fat ones I was subjected to while using my wife 's widescreen monitor .</Tokens>
+		<POS>PRP VBP DT NN IN JJR NN NNS -LRB- NN , NN , NN -RRB- CC RB RB VB IN RB JJ NNS -LRB- CC NNS -RRB- RB IN DT JJ , JJ NNS PRP VBD VBN TO IN VBG PRP$ NN POS NNS VBP .</POS>
+		<Lemma>I play a lot of older video game -lrb- solitaire , golf , etc. -rrb- and now happily play with realistically shaped card -lrb- and golfer -rrb- instead of the short , fat one I be subject to while use my wife 's widescreen monitor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>What an improvement !</Tokens>
+		<POS>WDT DT NN .</POS>
+		<Lemma>what a improvement !</Lemma>
+	</Sentence>
+</Document>

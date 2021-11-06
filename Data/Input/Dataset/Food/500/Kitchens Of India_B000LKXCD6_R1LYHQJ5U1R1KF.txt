@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My first taste of this brand .</Tokens>
+		<POS>PRP$ JJ NN IN DT NN .</POS>
+		<Lemma>my first taste of this brand .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Had purchased Tasty Bite in the past .</Tokens>
+		<POS>VBD VBN JJ NN IN DT NN .</POS>
+		<Lemma>have purchase tasty bite in the past .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This was on special , so ordered several flavors .</Tokens>
+		<POS>DT VBD IN JJ , RB VBD JJ NNS .</POS>
+		<Lemma>this be on special , so order several flavor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This was excellent , as was the other flavor ... other was spicier , but loved it .</Tokens>
+		<POS>DT VBD JJ , IN VBD DT JJ NN : JJ VBD JJR , CC VBD PRP .</POS>
+		<Lemma>this be excellent , as be the other flavor ... other be spicier , but love it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Boiled the bag and served it with the other flavor and rice .</Tokens>
+		<POS>VBN DT NN CC VBD PRP IN DT JJ NN CC NN .</POS>
+		<Lemma>boil the bag and serve it with the other flavor and rice .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I guess we have big appetites since we finished both package with the rice and some Naan , in one meal .</Tokens>
+		<POS>PRP VBP PRP VBP JJ NNS IN PRP VBD CC NN IN DT NN CC DT NNP , IN CD NN .</POS>
+		<Lemma>I guess we have big appetite since we finish both package with the rice and some Naan , in one meal .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+</Document>

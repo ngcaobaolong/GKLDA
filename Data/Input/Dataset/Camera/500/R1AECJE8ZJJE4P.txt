@@ -1,0 +1,267 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Sony a33 is an easy no-brainer recommendation , particularly for the entry-level `` SLR '' user , but actually also for the more experienced photographer .</Tokens>
+		<POS>DT NNP NN VBZ DT JJ NN NN , RB IN DT JJ `` NN '' NN , CC RB RB IN DT RBR JJ NNP .</POS>
+		<Lemma>the Sony a33 be a easy no-brainer recommendation , particularly for the entry-level `` slr '' user , but actually also for the more experienced photographer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There is no real need for me here to reproduce all the micro-detail that you can read about the a33 , and its `` bigger brother , '' the a55 , both of which are categorized as `` SLT '' -LRB- single lens translucent -RRB- designs , not `` SLR '' -LRB- single lens reflex -RRB- -- a resurrection of a technology employed first by Canon many years ago -- but I can throw in a few practical items I 've noted items from my own field testing of the camera that may be of some use if you 're considering this camera .</Tokens>
+		<POS>EX VBZ DT JJ NN IN PRP RB TO VB PDT DT NN IN PRP MD VB IN DT NN , CC PRP$ `` JJR NN , '' DT NN , DT IN WDT VBP VBN IN `` NNP '' -LRB- JJ NN JJ -RRB- NNS , RB `` NNP '' -LRB- JJ NN JJ -RRB- : DT NN IN DT NN VBN RB IN NNP JJ NNS RB : CC PRP MD VB RP DT JJ JJ NNS PRP VBP VBN NNS IN PRP$ JJ NN NN IN DT NN WDT MD VB IN DT NN IN PRP VBP VBG DT NN .</POS>
+		<Lemma>there be no real need for I here to reproduce all the micro-detail that you can read about the a33 , and its `` bigger brother , '' the a55 , both of which be categorize as `` SLT '' -lrb- single lens translucent -rrb- design , not `` SLR '' -lrb- single lens reflex -rrb- -- a resurrection of a technology employ first by Canon many year ago -- but I can throw in a few practical item I have note item from my own field testing of the camera that may be of some use if you be consider this camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pros - Things I 've liked so far : +1 .</Tokens>
+		<POS>NNS : NNS PRP VBP VBN RB RB : CD .</POS>
+		<Lemma>pro - thing I have like so far : +1 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>High build quality - the camera feels `` tight '' and well-built +2 .</Tokens>
+		<POS>JJ VB NN : DT NN VBZ `` JJ '' CC JJ NN .</POS>
+		<Lemma>high build quality - the camera feel `` tight '' and well-built +2 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Advanced sensor technology that permits a slew of advanced photographic and video options not available on most any other SLR -LRB- `` hand-held twilight mode , '' 7 frames per second shooting , noise reduction mode using layers of sequential photographs , automatic panoramic stitching , etc. -RRB- +3 .</Tokens>
+		<POS>NNP NN NN WDT VBZ DT NN IN JJ JJ CC JJ NNS RB JJ IN JJS DT JJ NN -LRB- `` JJ NN NN , '' CD NNS IN JJ NN , NN NN NN VBG NNS IN JJ NNS , JJ JJ NN , FW -RRB- CD .</POS>
+		<Lemma>Advanced sensor technology that permit a slew of advanced photographic and video option not available on most any other slr -lrb- `` hand-held twilight mode , '' 7 frame per second shooting , noise reduction mode use layer of sequential photograph , automatic panoramic stitching , etc. -rrb- +3 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>EXCEPTIONALLY good price -LRB- the a33 can be found right now at $ 600 , and other sales may soon follow ; I 'm truly surprised Sony did not release these at the $ 1,500 price point -RRB- +4 .</Tokens>
+		<POS>RB JJ NN -LRB- DT NN MD VB VBN RB RB IN $ CD , CC JJ NNS MD RB VB : PRP VBP RB JJ NNP VBD RB VB DT IN DT $ CD NN NN -RRB- CD .</POS>
+		<Lemma>exceptionally good price -lrb- the a33 can be find right now at $ 600 , and other sale may soon follow ; I be truly surprised Sony do not release these at the $ 1,500 price point -rrb- +4 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Small and lightweight compared to equivalent competitors +5 .</Tokens>
+		<POS>JJ CC JJ VBN TO JJ NNS CD .</POS>
+		<Lemma>small and lightweight compare to equivalent competitor +5 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Uses both SDHC\/SDXC and Sony Memory Stick - you are no longer locked in the Memory Stick world , if you do n't care to be +6 .</Tokens>
+		<POS>VBZ CC NN CC NNP NN NNP : PRP VBP RB RB VBN IN DT NN NNP NN , IN PRP VBP RB VB TO VB CD .</POS>
+		<Lemma>use both sdhc\/sdxc and Sony memory Stick - you be no longer lock in the memory Stick world , if you do not care to be +6 .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Large , detailed screen -LRB- 1 million pixels -RRB- +7 .</Tokens>
+		<POS>JJ , JJ NN -LRB- CD CD NNS -RRB- CD .</POS>
+		<Lemma>large , detailed screen -lrb- 1 million pixel -rrb- +7 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Electronic viewfinder with 1 million pixels - this technology may force a rethinking of the `` optical '' prismatic design used in most conventional DSLRs +8 .</Tokens>
+		<POS>JJ NN IN CD CD NNS : DT NN MD VB DT VBG IN DT `` JJ '' JJ NN VBN IN JJS JJ NNS CD .</POS>
+		<Lemma>electronic viewfinder with 1 million pixel - this technology may force a rethink of the `` optical '' prismatic design use in most conventional dslr +8 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Articulated screen - and it 's big , too -LRB- 3 inches -RRB- +9 .</Tokens>
+		<POS>VBN NN : CC PRP VBZ JJ , RB -LRB- CD NNS -RRB- CD .</POS>
+		<Lemma>articulate screen - and it be big , too -lrb- 3 inch -rrb- +9 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>`` alpha '' lens mount opens the world of Zeiss lenses to you , if you want to go that route +10 .</Tokens>
+		<POS>`` NN '' NN VBP VBZ DT NN IN NNP NNS TO PRP , IN PRP VBP TO VB IN NN CD .</POS>
+		<Lemma>`` alpha '' lens mount open the world of Zeiss lens to you , if you want to go that route +10 .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Sony has recently released a series of `` alpha '' mount lenses that are extremely low prices and offer generally good performance -LRB- could this be a Sony `` first '' ? -RRB-</Tokens>
+		<POS>NNP VBZ RB VBN DT NN IN `` NN '' VB NNS WDT VBP RB JJ NNS CC VBP RB JJ NN -LRB- MD DT VB DT NNP `` JJ '' . -RRB-</POS>
+		<Lemma>Sony have recently release a series of `` alpha '' mount lens that be extremely low price and offer generally good performance -lrb- could this be a Sony `` first '' ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>if you do n't want to get into expensive lens options yet +11 .</Tokens>
+		<POS>IN PRP VBP RB VB TO VB IN JJ NN NNS RB CD .</POS>
+		<Lemma>if you do not want to get into expensive lens option yet +11 .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Relatively lightweight battery for its class +12 .</Tokens>
+		<POS>RB JJ NN IN PRP$ NN CD .</POS>
+		<Lemma>relatively lightweight battery for its class +12 .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Overall , great performance in turn on speed , menu system +13 .</Tokens>
+		<POS>RB , JJ NN IN NN IN NN , NN NN CD .</POS>
+		<Lemma>overall , great performance in turn on speed , menu system +13 .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>INSTANTANEOUS live view focusing for most lenses - incredible speed - I 've not seen any other `` DSLR '' focus this fast in live view +14 .</Tokens>
+		<POS>NNS VBP NN VBG IN JJS NNS : JJ NN : PRP VBP RB VBN DT JJ `` NN '' NN DT JJ IN JJ NN CD .</POS>
+		<Lemma>instantaneous live view focus for most lens - incredible speed - I have not see any other `` dslr '' focus this fast in live view +14 .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Built-in help in the menuing system +15 .</Tokens>
+		<POS>JJ NN IN DT JJ NN CD .</POS>
+		<Lemma>built-in help in the menuing system +15 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Great image quality when paired with the right lenses +16 .</Tokens>
+		<POS>JJ NN NN WRB VBN IN DT JJ NNS CD .</POS>
+		<Lemma>great image quality when pair with the right lens +16 .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Comfortable and `` grippy '' grip +17 .</Tokens>
+		<POS>JJ CC `` JJ '' NN CD .</POS>
+		<Lemma>comfortable and `` grippy '' grip +17 .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Awesome `` horizon level '' indicator overlaid on the screen -LRB- every camera should have this -RRB- +18 .</Tokens>
+		<POS>JJ `` NN NN '' NN NN IN DT NN -LRB- DT NN MD VB DT -RRB- CD .</POS>
+		<Lemma>awesome `` horizon level '' indicator overlaid on the screen -lrb- every camera should have this -rrb- +18 .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Good control of noise way up into higher ISO levels - 1600 ISO should be very usable , and even higher levels under certain conditions +19 .</Tokens>
+		<POS>JJ NN IN NN NN RB IN JJR NN NNS : CD NN MD VB RB JJ , CC RB JJR NNS IN JJ NNS CD .</POS>
+		<Lemma>good control of noise way up into higher iso level - 1600 iso should be very usable , and even higher level under certain condition +19 .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>SUPERB high def video in AVCHD format , and I mean REALLY superb +20 .</Tokens>
+		<POS>JJ JJ NN NN IN NNP NN , CC PRP VBP RB JJ CD .</POS>
+		<Lemma>superb high def video in AVCHD format , and I mean really superb +20 .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Sweep panoramic mode actual works -LRB- I was skeptical until I tried it for myself - its amazing -RRB- Cons - Some things I 'm not too wild about : -1 .</Tokens>
+		<POS>NN JJ NN JJ NNS -LRB- PRP VBD JJ IN PRP VBD PRP IN PRP : PRP$ JJ -RRB- NNS : DT NNS PRP VBP RB RB JJ IN : CD .</POS>
+		<Lemma>sweep panoramic mode actual work -lrb- I be skeptical until I try it for myself - its amazing -rrb- con - some thing I be not too wild about : -1 .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Somewhat noisy mechanism on shooting - this is not the silent model you have come to expect with point and shoots , and do n't let the translucent technology lull you into thinking the camera is silent during shooting : it 's NOT -LRB- even though the mirror does not move , there is noise from the mechanical shutter system -RRB- -2 .</Tokens>
+		<POS>RB JJ NN IN NN : DT VBZ RB DT JJ NN PRP VBP VBN TO VB IN NN CC VBZ , CC VBP RB VB DT JJ NN NN PRP IN VBG DT NN VBZ JJ IN NN : PRP VBZ NNP -LRB- RB IN DT NN VBZ RB VB , EX VBZ NN IN DT JJ NN NN -RRB- CD .</POS>
+		<Lemma>somewhat noisy mechanism on shooting - this be not the silent model you have come to expect with point and shoot , and do not let the translucent technology lull you into think the camera be silent during shooting : it be NOT -lrb- even though the mirror do not move , there be noise from the mechanical shutter system -rrb- -2 .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Battery life perhaps not what we would like to see in this model -LRB- you 'll be lucky to get 400 shots on a single battery , and I would not count on more than that , in spite of what you 've read -RRB- -3 .</Tokens>
+		<POS>NN NN RB RB WP PRP MD VB TO VB IN DT NN -LRB- PRP MD VB JJ TO VB CD NNS IN DT JJ NN , CC PRP MD RB VB IN JJR IN DT , IN NN IN WP PRP VBP VBN -RRB- CD .</POS>
+		<Lemma>battery life perhaps not what we would like to see in this model -lrb- you 'll be lucky to get 400 shot on a single battery , and I would not count on more than that , in spite of what you have read -rrb- -3 .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>The `` alpha '' lens set contains some superb lenses - the Zeiss and the Sony G 's are rated as amongst the best of any brand - but you still will not have the virtually unlimited options offered by brands like Canon and Nikon -LRB- although you can get all kinds of Minolta glass in the used market that will work fine with this camera , and many of the Minoltas are dearly loved -RRB- -4 .</Tokens>
+		<POS>DT `` NN '' NN NN VBZ DT JJ NNS : DT NNP CC DT NNP NN POS VBP VBN IN IN DT JJS IN DT NN : CC PRP RB MD RB VB DT RB JJ NNS VBN IN NNS IN NNP CC NNP -LRB- IN PRP MD VB DT NNS IN NNP NN IN DT VBN NN WDT MD VB JJ IN DT NN , CC JJ IN DT NNP VBP RB VBN -RRB- CD .</POS>
+		<Lemma>the `` alpha '' lens set contain some superb lens - the Zeiss and the Sony g 's be rate as amongst the best of any brand - but you still will not have the virtually unlimited option offer by brand like Canon and Nikon -lrb- although you can get all kind of Minolta glass in the use market that will work fine with this camera , and many of the Minoltas be dearly love -rrb- -4 .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>If you are coming from a Sony DSC-R1 with that gorgeous f\/2 .8 lens at 24mm , do n't count on finding that for this camera unless you 're willing to fork out $ 1,500 for that type of a lens -LRB- which also shows what a remarkable camera the R1 was , one of Sony 's best , ever -RRB- -5 .</Tokens>
+		<POS>IN PRP VBP VBG IN DT NNP NN IN DT JJ NN CD NN IN CD , VBP RB VB IN NN IN IN DT NN IN PRP VBP JJ TO NN IN $ CD IN DT NN IN DT NN -LRB- WDT RB VBZ WP DT JJ NN DT NN VBD , CD IN NNP POS JJS , RB -RRB- CD .</POS>
+		<Lemma>if you be come from a Sony dsc-r1 with that gorgeous f\/2 .8 lens at 24mm , do not count on finding that for this camera unless you be willing to fork out $ 1,500 for that type of a lens -lrb- which also show what a remarkable camera the r1 be , one of Sony 's best , ever -rrb- -5 .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Memory stick slot makes insertion of memory stick difficult at points - you ca n't just shove the stick in as usual , but need to carefully `` work '' it in - this is a real pain -6 .</Tokens>
+		<POS>NN NN NN VBZ NN IN NN NN JJ IN NNS : PRP MD RB RB VB DT NN IN RB JJ , CC VBP TO RB `` VB '' PRP IN : DT VBZ DT JJ NN CD .</POS>
+		<Lemma>memory stick slot make insertion of memory stick difficult at point - you can not just shove the stick in as usual , but need to carefully `` work '' it in - this be a real pain -6 .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>The small size of the camera may take some getting used to , particularly if you are used to the big , oversized grips of traditional SLRs -LRB- although this may actually be an ADVANTAGE , depending on your own preferences -RRB- -7 .</Tokens>
+		<POS>DT JJ NN IN DT NN MD VB DT VBG VBN TO , RB IN PRP VBP VBN TO DT JJ , JJ NNS IN JJ NNS -LRB- IN DT MD RB VB DT NN , VBG IN PRP$ JJ NNS -RRB- CD .</POS>
+		<Lemma>the small size of the camera may take some get use to , particularly if you be use to the big , oversized grip of traditional slr -lrb- although this may actually be a advantage , depend on you own preference -rrb- -7 .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>No depth of field preview in live mode -8 .</Tokens>
+		<POS>DT NN IN NN NN IN JJ NN CD .</POS>
+		<Lemma>no depth of field preview in live mode -8 .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>If you are used to waist-level shooting with an articulating screen -LRB- which is what I loved about the DSC-R1 -RRB- , note that the projection of the viewfinder , though making it much easier to use , covers up part of your view as you look down to the articulated screen -LRB- again , only if you are doing waist-level shooting close to your body -RRB- -9 .</Tokens>
+		<POS>IN PRP VBP VBN TO JJ NN IN DT VBG NN -LRB- WDT VBZ WP PRP VBD IN DT NN -RRB- , NN IN DT NN IN DT NN , IN VBG PRP RB JJR TO VB , VBZ RP NN IN PRP$ NN IN PRP VBP RB TO DT VBN NN -LRB- RB , RB IN PRP VBP VBG JJ NN RB TO PRP$ NN -RRB- CD .</POS>
+		<Lemma>if you be use to waist-level shooting with a articulate screen -lrb- which be what I love about the dsc-r1 -rrb- , note that the projection of the viewfinder , though make it much easier to use , cover up part of you view as you look down to the articulate screen -lrb- again , only if you be do waist-level shooting close to you body -rrb- -9 .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Reports of overheating , though probably highly overblown and over reported , are of some concern -LRB- but note that many of us with the cameras are not reporting this problem , and many SLRs actually have the same issue ; I have not yet encountered it , but have shot only limited video thus far -RRB- -10 .</Tokens>
+		<POS>NNS IN NN , IN RB RB JJ CC IN VBN , VBP IN DT NN -LRB- CC VBP IN JJ IN PRP IN DT NNS VBP RB VBG DT NN , CC JJ NNS RB VBP DT JJ NN : PRP VBP RB RB VBN PRP , CC VBP VBN RB JJ NN RB RB -RRB- CD .</POS>
+		<Lemma>report of overheating , though probably highly overblown and over report , be of some concern -lrb- but note that many of we with the camera be not report this problem , and many slr actually have the same issue ; I have not yet encounter it , but have shoot only limited video thus far -rrb- -10 .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>Sound on video recordings not that great -LRB- serious videographers will want to look into external microphone options -RRB- A note on the a33 and a55 differences .</Tokens>
+		<POS>NN IN NN NNS RB DT JJ -LRB- JJ NNS MD VB TO VB IN JJ NN NNS -RRB- DT NN IN DT NN CC NN NNS .</POS>
+		<Lemma>sound on video recording not that great -lrb- serious videographer will want to look into external microphone option -rrb- a note on the a33 and a55 difference .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>There are not really too much to mention here .</Tokens>
+		<POS>EX VBP RB RB RB JJ TO VB RB .</POS>
+		<Lemma>there be not really too much to mention here .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>The cameras are physically identical .</Tokens>
+		<POS>DT NNS VBP RB JJ .</POS>
+		<Lemma>the camera be physically identical .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>One shoots at 10 frames per second , with a larger memory buffer , the other , at 7 frames per second .</Tokens>
+		<POS>CD VBZ IN CD NNS IN JJ , IN DT JJR NN NN , DT JJ , IN CD NNS IN NN .</POS>
+		<Lemma>one shoot at 10 frame per second , with a larger memory buffer , the other , at 7 frame per second .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>The a55 also adds built-in GPS .</Tokens>
+		<POS>DT NN RB VBZ JJ NNS .</POS>
+		<Lemma>the a55 also add built-in gp .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>The a55 has a slightly larger megapixel count on the sensor .</Tokens>
+		<POS>DT NN VBZ DT RB JJR NN NN IN DT NN .</POS>
+		<Lemma>the a55 have a slightly larger megapixel count on the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>In truth , unless you have a specialized need or requirement , I doubt you 'll see much difference in the results of the two cameras .</Tokens>
+		<POS>IN NN , IN PRP VBP DT VBN NN CC NN , PRP VBP PRP MD VB JJ NN IN DT NNS IN DT CD NNS .</POS>
+		<Lemma>in truth , unless you have a specialize need or requirement , I doubt you 'll see much difference in the result of the two camera .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>Right now there is a world-wide shortage of the a55 , and this means you can probably get this a33 without much problem , and possibly , on sale !</Tokens>
+		<POS>RB RB EX VBZ DT JJ NN IN DT NN , CC DT VBZ PRP MD RB VB DT NN IN JJ NN , CC RB , IN NN .</POS>
+		<Lemma>right now there be a world-wide shortage of the a55 , and this mean you can probably get this a33 without much problem , and possibly , on sale !</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>What I can say here , though , is that if you are an entry level photographer wishing to learn the craft , the a33\/a55 are probably the easiest recommendations I can make .</Tokens>
+		<POS>WP PRP MD VB RB , RB , VBZ IN IN PRP VBP DT NN NN NNP VBG TO VB DT NN , DT NN VBP RB DT JJS NNS PRP MD VB .</POS>
+		<Lemma>what I can say here , though , be that if you be a entry level photographer wish to learn the craft , the a33\/a55 be probably the easiest recommendation I can make .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>They are high quality , high performance , and very inexpensive .</Tokens>
+		<POS>PRP VBP JJ NN , JJ NN , CC RB JJ .</POS>
+		<Lemma>they be high quality , high performance , and very inexpensive .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>They offer fantastic , computer based options -LRB- like some that I 've listed above -RRB- , and because the camera is still roughly physically modeled in the traditional SLR scheme , the cameras can serve as an entry point to really learning how to shoot .</Tokens>
+		<POS>PRP VBP JJ , NN VBN NNS -LRB- IN DT IN PRP VBP VBN IN -RRB- , CC IN DT NN VBZ RB RB RB VBN IN DT JJ NN NN , DT NNS MD VB IN DT NN NN TO RB VBG WRB TO VB .</POS>
+		<Lemma>they offer fantastic , computer base option -lrb- like some that I have list above -rrb- , and because the camera be still roughly physically model in the traditional slr scheme , the camera can serve as a entry point to really learn how to shoot .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>But that 's not to say these cameras are only for amateurs - they certainly are not - because the platform is sufficient to turn out some truly great photos .</Tokens>
+		<POS>CC DT VBZ RB TO VB DT NNS VBP RB IN NNS : PRP RB VBP RB : IN DT NN VBZ JJ TO VB RP DT RB JJ NNS .</POS>
+		<Lemma>but that be not to say these camera be only for amateur - they certainly be not - because the platform be sufficient to turn out some truly great photo .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>The camera is also fun to use .</Tokens>
+		<POS>DT NN VBZ RB NN TO VB .</POS>
+		<Lemma>the camera be also fun to use .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>It offers the features of the big units in a much smaller and lighter package , and you just ca n't say enough about the ability to have an articulated screen -LRB- many people really like this for shooting video , but I use it quite a bit in still photography . -RRB-</Tokens>
+		<POS>PRP VBZ DT NNS IN DT JJ NNS IN DT JJ JJR CC JJR NN , CC PRP RB MD RB VB JJ IN DT NN TO VB DT VBN NN -LRB- JJ NNS RB IN DT IN JJ NN , CC PRP VBP PRP RB DT NN IN RB NN . -RRB-</POS>
+		<Lemma>it offer the feature of the big unit in a much smaller and lighter package , and you just can not say enough about the ability to have a articulate screen -lrb- many people really like this for shooting video , but I use it quite a bit in still photography . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>I 've been purchasing Sony equipment for many , many years , and I 've watched in horror with some of the things that has been done with the Sony line over the years .</Tokens>
+		<POS>PRP VBP VBN VBG NNP NN IN JJ , JJ NNS , CC PRP VBP VBN IN NN IN DT IN DT NNS WDT VBZ VBN VBN IN DT NNP NN IN DT NNS .</POS>
+		<Lemma>I have be purchase Sony equipment for many , many year , and I have watch in horror with some of the thing that have be do with the Sony line over the year .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>These a33\/a55 cameras truly represent `` real '' Sony products in the Sony tradition .</Tokens>
+		<POS>DT NN NNS RB VBP `` JJ '' NNP NNS IN DT NNP NN .</POS>
+		<Lemma>these a33\/a55 camera truly represent `` real '' Sony product in the Sony tradition .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>They are groundbreaking technological devices , are built very well , and seem like they will last a long time while turning out good performance .</Tokens>
+		<POS>PRP VBP VBG JJ NNS , VBP VBN RB RB , CC VBP IN PRP MD VB DT JJ NN IN VBG RP JJ NN .</POS>
+		<Lemma>they be groundbreak technological device , be build very well , and seem like they will last a long time while turn out good performance .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>That they are so reasonably priced -LRB- some might even say cheap -RRB- is just icing on the cake .</Tokens>
+		<POS>IN PRP VBP RB RB VBN -LRB- DT MD RB VB JJ -RRB- VBZ RB NN IN DT NN .</POS>
+		<Lemma>that they be so reasonably price -lrb- some might even say cheap -rrb- be just icing on the cake .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>Five stars for technology , five stars for build , five stars for price .</Tokens>
+		<POS>CD NNS IN NN , CD NNS IN VB , CD NNS IN NN .</POS>
+		<Lemma>five star for technology , five star for build , five star for price .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>Some Lenses of Interest : Sony SAL-1680Z 16-80mm f\/3 .5 -4.5 Carl Zeiss Vario-Sonnar T DT Zoom Lens for Sony Alpha Digital SLR Camera  Sony SAL70300G 70-300mm f\/4 .5 -5.6 SSM ED G-Series Compact Super Telephoto Zoom Lens  Sony 24 -70 mm f\/2 .8 Carl Zeiss Vario Sonnar T Zoom Lens for Sony Alpha Digital SLR Cameras  Sony SAL18250 Alpha DT 18-250mm f\/3 .5 -6.3 High Magnification Zoom Lens w\/Lens Hood  Sony SAL30M28 30mm f\/2 .8 Lens for Alpha Digital SLR Cameras </Tokens>
+		<POS>DT NNS IN NN : NN NNP NN CD NN CD CD NNP NNP NNP NN NNP NNP NNP IN NNP NNP NNP NNP NNP NN NN NNP NNP JJ NN CD CD NNP NNP NNP NNP NNP NNP NNP NNP NN NN NNP CD CD NN NN CD NNP NNP NNP NNP NN NN NNP IN NNP NNP NNP NNP NNPS NN NN NNP NNP NNP NNP NNP NN CD CD JJ NN NN NNP NNP NNP NN NN NNP NNP CD NN CD NNP IN NNP NNP NNP NNPS NN</POS>
+		<Lemma>some lens of interest : Sony sal-1680z 16-80mm f\/3 .5 -4.5 Carl Zeiss Vario-Sonnar t DT Zoom Lens for Sony Alpha Digital SLR Camera  Sony SAL70300G 70-300mm f\/4 .5 -5.6 SSM ED G-Series Compact Super Telephoto Zoom Lens  Sony 24 -70 mm f\/2 .8 Carl Zeiss Vario Sonnar t zoom Lens for Sony Alpha Digital SLR Cameras  Sony SAL18250 Alpha DT 18-250mm f\/3 .5 -6.3 high magnification zoom Lens w\/Lens Hood  Sony SAL30M28 30mm f\/2 .8 Lens for Alpha Digital SLR Cameras </Lemma>
+	</Sentence>
+</Document>

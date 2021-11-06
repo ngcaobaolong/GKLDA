@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Awesome taste , granola-like texture , and great for snacking .</Tokens>
+		<POS>JJ NN , JJ NN , CC JJ IN VBG .</POS>
+		<Lemma>awesome taste , granola-like texture , and great for snack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love the bread , but when I 'm craving a cereal snack , this is just right w some skim milk or protein shake mixed in ; straight from the box is another viable option .</Tokens>
+		<POS>PRP VBP DT NN , CC WRB PRP VBP NN DT NN NN , DT VBZ RB JJ IN DT NN NN CC NN NN VBN IN : RB IN DT NN VBZ DT JJ NN .</POS>
+		<Lemma>I love the bread , but when I be craving a cereal snack , this be just right w some skim milk or protein shake mix in ; straight from the box be another viable option .</Lemma>
+	</Sentence>
+</Document>

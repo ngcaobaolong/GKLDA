@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had to switch to gluten free diet this year because of health reasons .</Tokens>
+		<POS>PRP VBD TO VB TO VB JJ NN DT NN IN IN NN NNS .</POS>
+		<Lemma>I have to switch to gluten free diet this year because of health reason .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm from Europe , used to eating lots of good bread and I was bummed that I will never be able to have a tasty slice of bread .</Tokens>
+		<POS>PRP VBP IN NNP , VBN TO VBG NNS IN JJ NN CC PRP VBD VBN IN PRP MD RB VB JJ TO VB DT JJ NN IN NN .</POS>
+		<Lemma>I be from Europe , use to eat lot of good bread and I be bum that I will never be able to have a tasty slice of bread .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've been searching for a good gluten-free bread for months ; I tried several different mixes from several different brands .</Tokens>
+		<POS>PRP VBP VBN VBG IN DT JJ JJ NN IN NNS : PRP VBD JJ JJ VBZ IN JJ JJ NNS .</POS>
+		<Lemma>I have be search for a good gluten-free bread for month ; I try several different mix from several different brand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>None of them tasted good .</Tokens>
+		<POS>NN IN PRP VBD JJ .</POS>
+		<Lemma>none of they taste good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Then I found this mix and I have to say I 'm done searching .</Tokens>
+		<POS>RB PRP VBD DT NN CC PRP VBP TO VB PRP VBP VBN VBG .</POS>
+		<Lemma>then I find this mix and I have to say I be do search .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is it .</Tokens>
+		<POS>DT VBZ PRP .</POS>
+		<Lemma>this be it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This gluten free bread is just delicious !</Tokens>
+		<POS>DT NN JJ NN VBZ RB JJ .</POS>
+		<Lemma>this gluten free bread be just delicious !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Does n't even taste like it 's gluten free .</Tokens>
+		<POS>VBZ RB RB VB IN PRP VBZ NN JJ .</POS>
+		<Lemma>do not even taste like it be gluten free .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is nice and dark in color with lots of tasty seeds inside .</Tokens>
+		<POS>PRP VBZ JJ CC JJ IN NN IN NNS IN JJ NNS IN .</POS>
+		<Lemma>it be nice and dark in color with lot of tasty seed inside .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The whole house smells great when the bread is in the oven .</Tokens>
+		<POS>DT JJ NN VBZ JJ WRB DT NN VBZ IN DT NN .</POS>
+		<Lemma>the whole house smell great when the bread be in the oven .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>When it 's done , I slice it and freeze it .</Tokens>
+		<POS>WRB PRP VBZ VBN , PRP VBP PRP CC VB PRP .</POS>
+		<Lemma>when it be do , I slice it and freeze it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Then I just toast the slices I 'm going to eat .</Tokens>
+		<POS>RB PRP RB NN DT NNS PRP VBP VBG TO VB .</POS>
+		<Lemma>then I just toast the slice I be go to eat .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It comes out great out of a toaster .</Tokens>
+		<POS>PRP VBZ RP JJ IN IN DT NN .</POS>
+		<Lemma>it come out great out of a toaster .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 'm really happy I found this mix .</Tokens>
+		<POS>PRP VBP RB JJ PRP VBD DT NN .</POS>
+		<Lemma>I be really happy I find this mix .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>On a really tight budget for BYO-PC for wife 's work , I was going to buy a used LCD monitor .</Tokens>
+		<POS>IN DT RB JJ NN IN NN IN NN POS NN , PRP VBD VBG TO VB DT VBN NNS VBP .</POS>
+		<Lemma>on a really tight budget for byo-pc for wife 's work , I be go to buy a use lcd monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Most were more expensive than this .</Tokens>
+		<POS>JJS VBD RBR JJ IN DT .</POS>
+		<Lemma>most be more expensive than this .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sloppy packaging in used cartons , but plenty well-enough padded to ensure good delivery .</Tokens>
+		<POS>JJ NN IN VBN NNS , CC RB JJ VBN TO VB JJ NN .</POS>
+		<Lemma>sloppy packaging in use carton , but plenty well-enough pad to ensure good delivery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Works fine .</Tokens>
+		<POS>NNP NN .</POS>
+		<Lemma>Works fine .</Lemma>
+	</Sentence>
+</Document>

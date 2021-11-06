@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought a bunch of the Kitchens of India items during a promotional sale and the only one I 'd recommend is the butter chicken sauce .</Tokens>
+		<POS>PRP VBD DT NN IN DT NNP IN NNP NNS IN DT JJ NN CC DT RB CD PRP MD VB VBZ DT NN NN NN .</POS>
+		<Lemma>I buy a bunch of the Kitchens of India item during a promotional sale and the only one I would recommend be the butter chicken sauce .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If they were tasty I could overlook the salt content for the occasional enjoyment but I 'm not loving the taste .</Tokens>
+		<POS>IN PRP VBD JJ PRP MD VB DT NN NN IN DT JJ NN CC PRP VBP RB VBG DT NN .</POS>
+		<Lemma>if they be tasty I could overlook the salt content for the occasional enjoyment but I be not love the taste .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This one 's consistency is like baby food .</Tokens>
+		<POS>DT NN POS NN VBZ IN NN NN .</POS>
+		<Lemma>this one 's consistency be like baby food .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ofter buy similar products , including a hearty Palak Paneer from Trader Joes and those , in my opinion , are much better in flavor and cost far less .</Tokens>
+		<POS>PRP VBP VB JJ NNS , VBG DT JJ NNP NNP IN NNP NNP CC DT , IN PRP$ NN , VBP RB RBR IN NN CC NN RB RBR .</POS>
+		<Lemma>I ofter buy similar product , include a hearty Palak Paneer from Trader Joes and those , in my opinion , be much better in flavor and cost far less .</Lemma>
+	</Sentence>
+</Document>

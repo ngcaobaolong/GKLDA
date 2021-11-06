@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had MANY monitors over the years - including Acer 's -LRB- as well as other Acer products which I 've always liked -RRB- ... this one unfortunately seems a little finicky to adjust the colors .</Tokens>
+		<POS>PRP VBP VBD NN NNS IN DT NNS : VBG NNP POS -LRB- RB RB IN JJ NNP NNS WDT PRP VBP RB VBN -RRB- : DT CD RB VBZ DT JJ JJ TO VB DT NNS .</POS>
+		<Lemma>I have have many monitor over the year - include Acer 's -lrb- as well as other Acer product which I have always like -rrb- ... this one unfortunately seem a little finicky to adjust the color .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just was n't natural out of the box .</Tokens>
+		<POS>RB VBD RB JJ IN IN DT NN .</POS>
+		<Lemma>just be not natural out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is used as a second monitor on my desktop along side a brilliant Gateway 24 '' ... and it replaces an older MAG monitor which had great colors - just was getting to be unreliable after many years of service ... the Acer just took forever to get the hue\/saturation\/brightness \/ contrast set right ... its close now - still not overly pleasing ... seems strange that it took this much to get it here .</Tokens>
+		<POS>PRP VBZ VBN IN DT JJ NN IN PRP$ NN IN NN DT JJ NNP CD '' : CC PRP VBZ DT JJR NN NN WDT VBD JJ NNS : RB VBD VBG TO VB JJ IN JJ NNS IN NN : DT NNP RB VBD RB TO VB DT NN : NN VB RB : PRP$ NN RB : RB RB RB VBG : VBZ JJ IN PRP VBD DT JJ TO VB PRP RB .</POS>
+		<Lemma>it be use as a second monitor on my desktop along side a brilliant Gateway 24 '' ... and it replace a older mag monitor which have great color - just be get to be unreliable after many year of service ... the Acer just take forever to get the hue\/saturation\/brightness \/ contrast set right ... its close now - still not overly please ... seem strange that it take this much to get it here .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I considered returning it but will probably end up keeping it .</Tokens>
+		<POS>PRP VBD VBG PRP CC MD RB VB RP VBG PRP .</POS>
+		<Lemma>I consider return it but will probably end up keep it .</Lemma>
+	</Sentence>
+</Document>

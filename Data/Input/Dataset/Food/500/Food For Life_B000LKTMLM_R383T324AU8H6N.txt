@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cereal is delicious with skim milk and frozen blueberries !</Tokens>
+		<POS>DT NN VBZ JJ IN NN NN CC JJ NNS .</POS>
+		<Lemma>this cereal be delicious with skim milk and frozen blueberry !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After adding the blueberries let it sit for one minute to slightly thaw , yum !</Tokens>
+		<POS>IN VBG DT NNS VBP PRP VB IN CD NN TO RB NN , NN .</POS>
+		<Lemma>after add the blueberry let it sit for one minute to slightly thaw , yum !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm really happy with this computer , replaced my ASUS 10.1 and this is much better especially with the 4GB Crucial memory upgrade .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN , VBD PRP$ NNP CD CC DT VBZ RB JJR RB IN DT NN JJ NN NN .</POS>
+		<Lemma>I be really happy with this computer , replace my ASUS 10.1 and this be much better especially with the 4gb crucial memory upgrade .</Lemma>
+	</Sentence>
+</Document>

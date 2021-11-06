@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have used Bob 's Red Mill Whole Grain Bread Mix several times .</Tokens>
+		<POS>PRP VBP VBN NNP POS NNP NNP NNP NNP NNP NNP JJ NNS .</POS>
+		<Lemma>I have use Bob 's Red Mill Whole Grain Bread Mix several time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , I found that if you add some dried onions , about 1\/4 cup and some garlic powder it makes a delicious onion bread that I like much better .</Tokens>
+		<POS>RB , PRP VBD IN IN PRP VBP DT VBN NNS , IN CD NN CC DT JJ NN PRP VBZ DT JJ NN NN IN PRP VBP RB JJR .</POS>
+		<Lemma>however , I find that if you add some dry onion , about 1\/4 cup and some garlic powder it make a delicious onion bread that I like much better .</Lemma>
+	</Sentence>
+</Document>

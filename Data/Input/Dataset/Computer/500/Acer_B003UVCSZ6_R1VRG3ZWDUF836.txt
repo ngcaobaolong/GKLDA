@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor supports PS3 !</Tokens>
+		<POS>DT NN VBZ NNP .</POS>
+		<Lemma>this monitor support PS3 !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Because of the price , dont be expecting 1080p .</Tokens>
+		<POS>IN IN DT NN , NN VB VBG NN .</POS>
+		<Lemma>because of the price , dont be expect 1080p .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use it with PS3 and it supports 720p , but still retains a very clear image .</Tokens>
+		<POS>PRP VBP PRP IN NNP CC PRP VBZ CD , CC RB VBZ DT RB JJ NN .</POS>
+		<Lemma>I use it with PS3 and it support 720p , but still retain a very clear image .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Playing a game of FIFA 11 , I was extremely pleased that I could get HD gameplay when just paying a mere 99 dollars .</Tokens>
+		<POS>VBG DT NN IN NNP CD , PRP VBD RB JJ IN PRP MD VB NNP NN WRB RB VBG DT JJ CD NNS .</POS>
+		<Lemma>play a game of FIFA 11 , I be extremely pleased that I could get HD gameplay when just pay a mere 99 dollar .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Although having technical difficulties at first , I figured out that i needed to reset my ps3 -LRB- turn off ps3 and turn it back on but while turning it back on , hold the power button until it beeps once -RRB- and then wait while it configures .</Tokens>
+		<POS>IN VBG JJ NNS IN RB , PRP VBD RP IN FW VBN TO VB PRP$ NN -LRB- VB RP NN CC VB PRP RB IN CC IN VBG PRP RP IN , VB DT NN NN IN PRP NNS RB -RRB- CC RB VB IN PRP VBZ .</POS>
+		<Lemma>although have technical difficulty at first , I figure out that i need to reset my ps3 -lrb- turn off ps3 and turn it back on but while turn it back on , hold the power button until it beep once -rrb- and then wait while it configure .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It takes about 30 or so seconds and then you will have to press the X button on the controller .</Tokens>
+		<POS>PRP VBZ RB CD CC RB NNS CC RB PRP MD VB TO VB DT NN NN IN DT NN .</POS>
+		<Lemma>it take about 30 or so seconds and then you will have to press the x button on the controller .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Your ps3 home will show up .</Tokens>
+		<POS>PRP$ NN NN MD VB RP .</POS>
+		<Lemma>you ps3 home will show up .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Go to settings and Display , then configure the quality to 720 p. IT will reset but will come back on in 10 seconds .</Tokens>
+		<POS>VB TO NNS CC NNP , RB VB DT NN TO CD NN PRP MD VB CC MD VB RB IN IN CD NNS .</POS>
+		<Lemma>go to setting and Display , then configure the quality to 720 p. it will reset but will come back on in 10 seconds .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Then enjoy your new cheap and energy efficient monitor .</Tokens>
+		<POS>RB VB PRP$ JJ JJ CC NN JJ NN .</POS>
+		<Lemma>then enjoy you new cheap and energy efficient monitor .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>P.S. it comes with 4 holes on the back for hanging on your wall !</Tokens>
+		<POS>NNP PRP VBZ IN CD NNS IN DT NN IN VBG IN PRP$ NN .</POS>
+		<Lemma>P.S. it come with 4 hole on the back for hang on you wall !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this monitor for work and no matter which color setting I choose light gray colors such as the gridlines in excel do not show up .</Tokens>
+		<POS>PRP VBD DT NN IN NN CC DT NN WDT NN NN PRP VBP JJ JJ NNS JJ IN DT NNS IN VBP VBP RB VB RP .</POS>
+		<Lemma>I get this monitor for work and no matter which color setting I choose light gray color such as the gridline in excel do not show up .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have tried all combinations of contrast and brightness and none of them fix this problem .</Tokens>
+		<POS>PRP VBP VBN DT NNS IN NN CC NN CC NN IN PRP VB DT NN .</POS>
+		<Lemma>I have try all combination of contrast and brightness and none of they fix this problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would not recommend this product to anyone .</Tokens>
+		<POS>PRP MD RB VB DT NN TO NN .</POS>
+		<Lemma>I would not recommend this product to anyone .</Lemma>
+	</Sentence>
+</Document>

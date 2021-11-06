@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very tasty , fast cooking lentils .</Tokens>
+		<POS>RB JJ , JJ NN NNS .</POS>
+		<Lemma>very tasty , fast cooking lentil .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are pretty clean so you wo n't have to rinse them over and over again , just a few times .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP MD RB VB TO VB PRP IN CC IN RB , RB DT JJ NNS .</POS>
+		<Lemma>they be pretty clean so you will not have to rinse they over and over again , just a few time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Overall very satisfied .</Tokens>
+		<POS>RB RB JJ .</POS>
+		<Lemma>overall very satisfied .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Recommended brand .</Tokens>
+		<POS>VBN NN .</POS>
+		<Lemma>recommend brand .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When I 'll get done with what I already purchased , I will buy the same thing again , from Bob 's Red Mill .</Tokens>
+		<POS>WRB PRP MD VB VBN IN WP PRP RB VBD , PRP MD VB DT JJ NN RB , IN NNP POS NNP NNP .</POS>
+		<Lemma>when I 'll get do with what I already purchase , I will buy the same thing again , from Bob 's Red Mill .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The only thing is that I wish it would me a little cheaper , but ca n't do anything about it , because it 's a quality product .</Tokens>
+		<POS>DT JJ NN VBZ IN PRP VBP PRP MD PRP DT JJ JJR , CC MD RB VB NN IN PRP , IN PRP VBZ DT NN NN .</POS>
+		<Lemma>the only thing be that I wish it would I a little cheaper , but can not do anything about it , because it be a quality product .</Lemma>
+	</Sentence>
+</Document>

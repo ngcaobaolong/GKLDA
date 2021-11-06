@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These red lentils make the best lentil soup ever .</Tokens>
+		<POS>DT JJ NNS VBP DT JJS NN NN RB .</POS>
+		<Lemma>these red lentil make the best lentil soup ever .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Another winner from the great folks at Bob 's Red Mill .</Tokens>
+		<POS>DT NN IN DT JJ NNS IN NNP POS NNP NNP .</POS>
+		<Lemma>another winner from the great folk at Bob 's Red Mill .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have n't found a product yet that they do n't do best .</Tokens>
+		<POS>PRP VBP RB VBN DT NN RB IN PRP VBP RB VB JJS .</POS>
+		<Lemma>I have not find a product yet that they do not do best .</Lemma>
+	</Sentence>
+</Document>

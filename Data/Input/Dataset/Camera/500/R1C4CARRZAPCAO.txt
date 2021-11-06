@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am by no means a professional photographer , but for the last 10 years it is one of my main hobbies .</Tokens>
+		<POS>PRP VBP IN DT VBZ DT JJ NNP , CC IN DT JJ CD NNS PRP VBZ CD IN PRP$ JJ NNS .</POS>
+		<Lemma>I be by no mean a professional photographer , but for the last 10 year it be one of my main hobby .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am also a video\/audio production student and this camera delivers on the video front with more manual exposure control for audio in video than the 7D currently does .</Tokens>
+		<POS>PRP VBP RB DT NN NN NN CC DT NN VBZ IN DT NN NN IN JJR JJ NN NN IN NN IN NN IN DT NN RB VBZ .</POS>
+		<Lemma>I be also a video\/audio production student and this camera deliver on the video front with more manual exposure control for audio in video than the 7d currently do .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The articulating screen is also highly advantageous if you are shooting in complicated positions .</Tokens>
+		<POS>DT VBG NN VBZ RB RB JJ IN PRP VBP VBG IN JJ NNS .</POS>
+		<Lemma>the articulate screen be also highly advantageous if you be shoot in complicated position .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>-LRB- Stairwells , worm 's eye-views , etc. -RRB- Although the 60D is a bit slower on the draw than the 7D , -LRB- the 7D has dual processing cores for faster time between shots and slightly better low light processing . -RRB-</Tokens>
+		<POS>-LRB- NNS , NN POS NNS , FW -RRB- IN DT NN VBZ DT NN JJR IN DT NN IN DT NN , -LRB- DT NN VBZ JJ NN NNS IN JJR NN IN NNS CC RB JJR JJ NN NN . -RRB-</POS>
+		<Lemma>-lrb- stairwell , worm 's eye-view , etc. -rrb- although the 60d be a bit slower on the draw than the 7d , -lrb- the 7d have dual processing core for faster time between shot and slightly better low light processing . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>unless your shooting extremely fast objects the 60D works great for the enthusiast or professional-the photos are variably the same with both .</Tokens>
+		<POS>IN PRP$ NN RB JJ NNS DT NN VBZ JJ IN DT NN CC JJ NNS VBP RB DT JJ IN CC .</POS>
+		<Lemma>unless you shooting extremely fast object the 60d work great for the enthusiast or professional-the photo be variably the same with both .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The 7D was also heavier than the 60D .</Tokens>
+		<POS>DT NN VBD RB JJR IN DT NN .</POS>
+		<Lemma>the 7d be also heavier than the 60d .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>DSLR 's are already a bigger camera and I did n't want the added weight while shooting for extended periods handheld .</Tokens>
+		<POS>NNP POS VBP RB DT JJR NN CC PRP VBD RB VB DT VBN NN IN VBG IN VBN NNS JJ .</POS>
+		<Lemma>DSLR 's be already a bigger camera and I do not want the add weight while shoot for extend period handheld .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's Polycarbonate body is n't weather sealed like the 7D 's -LRB- magnesium body ? -RRB-</Tokens>
+		<POS>PRP VBZ JJ NN VBZ RB VB VBN IN DT NNP POS -LRB- NN NN . -RRB-</POS>
+		<Lemma>it be polycarbonate body be not weather seal like the 7D 's -lrb- magnesium body ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>but it is lighter .</Tokens>
+		<POS>CC PRP VBZ JJR .</POS>
+		<Lemma>but it be lighter .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I came from using a Rebel XT several years ago and I still use it from time to time , but the 60D is by far a well-defined upgrade for the enthusiast who does n't need the speed of the 7D .</Tokens>
+		<POS>PRP VBD IN VBG DT NN NN JJ NNS RB CC PRP RB VBP PRP IN NN TO NN , CC DT NN VBZ IN RB DT JJ NN IN DT NN WP VBZ RB VB DT NN IN DT NNP .</POS>
+		<Lemma>I come from use a rebel xt several year ago and I still use it from time to time , but the 60d be by far a well-defined upgrade for the enthusiast who do not need the speed of the 7D .</Lemma>
+	</Sentence>
+</Document>

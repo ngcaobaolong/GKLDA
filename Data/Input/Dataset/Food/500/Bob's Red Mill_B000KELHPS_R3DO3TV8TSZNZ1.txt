@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I made it according to the directions for oven baked -LRB- do n't have a bread machine -RRB- and it rose up beautifully and baked into a great loaf of bread .</Tokens>
+		<POS>PRP VBD PRP VBG TO DT NNS IN NN JJ -LRB- VBP RB VB DT NN NN -RRB- CC PRP VBD RP RB CC JJ IN DT JJ NN IN NN .</POS>
+		<Lemma>I make it accord to the direction for oven baked -lrb- do not have a bread machine -rrb- and it rise up beautifully and baked into a great loaf of bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I will bake it a little longer next time as it was a little soft in the middle , but it makes fabulous toast .</Tokens>
+		<POS>PRP MD VB PRP DT RB RBR JJ NN IN PRP VBD DT JJ JJ IN DT NN , CC PRP VBZ JJ NN .</POS>
+		<Lemma>I will bake it a little longer next time as it be a little soft in the middle , but it make fabulous toast .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>None of that horrible blandness associated with gluten free bread .</Tokens>
+		<POS>NN IN DT JJ NN VBN IN NN JJ NN .</POS>
+		<Lemma>none of that horrible blandness associate with gluten free bread .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I will order again .</Tokens>
+		<POS>PRP MD VB RB .</POS>
+		<Lemma>I will order again .</Lemma>
+	</Sentence>
+</Document>

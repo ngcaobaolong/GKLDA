@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pro Simple to setup , pair with my android phone Automatically pairs when I turn the car on -LRB- -LRB- 10 secs -RRB- Having physical buttons on the device to push Sound quality is great , through both FM and the included audio cable Has ports for audio in -LRB- for non-bluetooth devices -RRB- , audio out -LRB- for your car 's AUX input -RRB- , and an USB port -LRB- for charging -RRB- Comes with short cables -LRB- USB to microUSB , USB to miniUSB , and 3.5 mm -RRB- USB port for charging Con Not sure if it 's an issue with the device or my phone , but the music controls are sketchy .</Tokens>
+		<POS>FW NN TO NN , NN IN PRP$ NN NN RB NNS WRB PRP VBP DT NN IN -LRB- -LRB- CD NNS -RRB- VBG JJ NNS IN DT NN TO VB JJ NN VBZ JJ , IN DT NNP CC DT VBN NN NN VBZ NNS IN NN IN -LRB- IN JJ NNS -RRB- , NN IN -LRB- IN PRP$ NN POS NNP NN -RRB- , CC DT JJ NN -LRB- IN VBG -RRB- VBZ IN JJ NNS -LRB- JJ TO NN , JJ TO NN , CC CD NN -RRB- JJ NN IN VBG NN RB JJ IN PRP VBZ DT NN IN DT NN CC PRP$ NN , CC DT NN NNS VBP JJ .</POS>
+		<Lemma>pro simple to setup , pair with my android phone automatically pair when I turn the car on -lrb- -lrb- 10 sec -rrb- have physical button on the device to push sound quality be great , through both FM and the include audio cable have port for audio in -lrb- for non-bluetooth device -rrb- , audio out -lrb- for you car 's AUX input -rrb- , and a usb port -lrb- for charge -rrb- come with short cable -lrb- usb to microusb , usb to miniusb , and 3.5 mm -rrb- usb port for charge con not sure if it be a issue with the device or my phone , but the music control be sketchy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sometimes it launches different apps , even if it 's already playing music .</Tokens>
+		<POS>RB PRP VBZ JJ NNS , RB IN PRP VBZ RB VBG NN .</POS>
+		<Lemma>sometimes it launch different app , even if it be already play music .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The cigarette adapter is somewhat loose .</Tokens>
+		<POS>DT NN NN VBZ RB JJ .</POS>
+		<Lemma>the cigarette adapter be somewhat loose .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>it 's possible to press a button and have it lose power .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT NN CC VBP PRP VB NN .</POS>
+		<Lemma>it be possible to press a button and have it lose power .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>You 'll have to play around with the neck\/device positions .</Tokens>
+		<POS>PRP MD VB TO VB RP IN DT NN NNS .</POS>
+		<Lemma>you 'll have to play around with the neck\/device position .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>USB port says it may not charge high-power devices .</Tokens>
+		<POS>JJ NN VBZ PRP MD RB VB JJ NNS .</POS>
+		<Lemma>usb port say it may not charge high-power device .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>meaning it probably does n't provide 1 + amp , which is needed to charge most smartphones</Tokens>
+		<POS>VBG PRP RB VBZ RB VB CD CC NN , WDT VBZ VBN TO VB RBS NNS</POS>
+		<Lemma>mean it probably do not provide 1 + amp , which be need to charge most smartphone</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It takes a great deal of self-control not to slam down 3 or 4 of these after every hard workout .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN NN RB TO VB RP CD CC CD IN DT IN DT JJ NN .</POS>
+		<Lemma>it take a great deal of self-control not to slam down 3 or 4 of these after every hard workout .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Ingredient list is not frightening , serving size is perfect , fulfills good refueling proportions , depending on your own protocols .</Tokens>
+		<POS>NN NN VBZ RB JJ , VBG NN VBZ JJ , VBZ JJ VBG NNS , VBG IN PRP$ JJ NNS .</POS>
+		<Lemma>ingredient list be not frightening , serve size be perfect , fulfil good refuel proportion , depend on you own protocol .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Highly recommended , Lance or no Lance .</Tokens>
+		<POS>RB VBN , NNP CC DT NNP .</POS>
+		<Lemma>highly recommend , Lance or no Lance .</Lemma>
+	</Sentence>
+</Document>

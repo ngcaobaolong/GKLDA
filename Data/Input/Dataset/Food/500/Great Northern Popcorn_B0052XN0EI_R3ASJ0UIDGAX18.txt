@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ever since I got new popcorn maker , I have been trying out all sorts of new types of popcorn .</Tokens>
+		<POS>RB IN PRP VBD JJ NN NN , PRP VBP VBN VBG RP DT NNS IN JJ NNS IN NN .</POS>
+		<Lemma>ever since I get new popcorn maker , I have be try out all sort of new type of popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am a fan of the small , ladyfinger types -LRB- pop small but big on flavor -RRB- First off , the box that this came in was very heavy , not expecting it to weigh that much .</Tokens>
+		<POS>PRP VBP DT NN IN DT JJ , NN NNS -LRB- NN JJ CC JJ IN NN -RRB- RB RB , DT NN IN DT VBD IN VBD RB JJ , RB VBG PRP TO VB DT JJ .</POS>
+		<Lemma>I be a fan of the small , ladyfinger type -lrb- pop small but big on flavor -rrb- first off , the box that this come in be very heavy , not expect it to weigh that much .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They come in one big plastic bag , and my initial problem was that after opening , what to do with the remaining 12 pounds or so to store it .</Tokens>
+		<POS>PRP VBP IN CD JJ NN NN , CC PRP$ JJ NN VBD IN IN VBG , WP TO VB IN DT VBG CD NNS CC RB TO VB PRP .</POS>
+		<Lemma>they come in one big plastic bag , and my initial problem be that after open , what to do with the remain 12 pound or so to store it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I did find a big pickle jar , and most of the bag is in there .</Tokens>
+		<POS>PRP VBD VB DT JJ NN NN , CC JJS IN DT NN VBZ IN RB .</POS>
+		<Lemma>I do find a big pickle jar , and most of the bag be in there .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is going to take me a good part of a year to go thru all of this .</Tokens>
+		<POS>PRP VBZ VBG TO VB PRP DT JJ NN IN DT NN TO VB NN DT IN DT .</POS>
+		<Lemma>it be go to take I a good part of a year to go thru all of this .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The pops are huge , and there is some flavor , better than other big pops popcorn .</Tokens>
+		<POS>DT VBZ VBP JJ , CC EX VBZ DT NN , JJR IN JJ JJ VBZ NN .</POS>
+		<Lemma>the pop be huge , and there be some flavor , better than other big pop popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But over all the flavor lacks as compared to the ladyfinger .</Tokens>
+		<POS>CC IN PDT DT NN VBZ IN VBN TO DT NN .</POS>
+		<Lemma>but over all the flavor lack as compare to the ladyfinger .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This would be better for a movie theater or somebody that makes a lot of popcorn on a daily basis , like in a car dealership waiting room .</Tokens>
+		<POS>DT MD VB RBR IN DT NN NN CC NN WDT VBZ DT NN IN NN IN DT JJ NN , IN IN DT NN NN VBG NN .</POS>
+		<Lemma>this would be better for a movie theater or somebody that make a lot of popcorn on a daily basis , like in a car dealership wait room .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Not really good for the individual who loves popcorn .</Tokens>
+		<POS>RB RB JJ IN DT NN WP VBZ NN .</POS>
+		<Lemma>not really good for the individual who love popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Unless you really love popcorn .</Tokens>
+		<POS>IN PRP RB VBP NN .</POS>
+		<Lemma>unless you really love popcorn .</Lemma>
+	</Sentence>
+</Document>

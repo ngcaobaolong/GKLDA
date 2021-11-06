@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I knew I was buying an Acer LCD .</Tokens>
+		<POS>PRP VBD PRP VBD VBG DT NNP NNS .</POS>
+		<Lemma>I know I be buy a Acer lcd .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its been nearly 6 months and I have not had any trouble with it .</Tokens>
+		<POS>PRP$ VBN RB CD NNS CC PRP VBP RB VBN DT NN IN PRP .</POS>
+		<Lemma>its be nearly 6 month and I have not have any trouble with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In fact , the screen is bright , clear and no dead pixels , etc. .</Tokens>
+		<POS>IN NN , DT NN VBZ JJ , JJ CC DT JJ NNS , FW .</POS>
+		<Lemma>in fact , the screen be bright , clear and no dead pixel , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have now moved this LCD out from the computer desk to be a multimedia center for my kids .</Tokens>
+		<POS>PRP VBP RB VBN DT NNS IN IN DT NN NN TO VB DT NNS NN IN PRP$ NNS .</POS>
+		<Lemma>I have now move this lcd out from the computer desk to be a multimedia center for my kid .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In conunction with a KWorld TVBOX device and Logitech 2.1 speakers , I have the cable TV , computer and a game machine hooked up and it performs very nicely .</Tokens>
+		<POS>IN NN IN DT JJ NN NN CC NNP CD NNS , PRP VBP DT NN NN , NN CC DT NN NN VBD RB CC PRP VBZ RB RB .</POS>
+		<Lemma>in conunction with a kworld tvbox device and Logitech 2.1 speaker , I have the cable tv , computer and a game machine hook up and it perform very nicely .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No difference to the higher priced LCD units .</Tokens>
+		<POS>DT NN TO DT JJR VBN NNS NNS .</POS>
+		<Lemma>no difference to the higher price lcd unit .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the second of these camera I have purchased .</Tokens>
+		<POS>DT VBZ DT NN IN DT NN PRP VBP VBN .</POS>
+		<Lemma>this be the second of these camera I have purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I ordered it on Monday , and got it on Tuesday .</Tokens>
+		<POS>PRP VBD PRP IN NNP , CC VBD PRP IN NNP .</POS>
+		<Lemma>I order it on Monday , and get it on Tuesday .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The camera works well , but I had ordered a new item , what I received was a used item .</Tokens>
+		<POS>DT NN VBZ RB , CC PRP VBD VBN DT JJ NN , WP PRP VBD VBD DT VBN NN .</POS>
+		<Lemma>the camera work well , but I have order a new item , what I receive be a use item .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So I 'm dinging the seller , not the product .</Tokens>
+		<POS>IN PRP VBP VBG DT NN , RB DT NN .</POS>
+		<Lemma>so I be ding the seller , not the product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The bags were opened , the wire ties were untied , and the camera had obviously been used because the password had been changed on it .</Tokens>
+		<POS>DT NNS VBD VBN , DT NN NNS VBD JJ , CC DT NN VBD RB VBN VBN IN DT NN VBD VBN VBN IN PRP .</POS>
+		<Lemma>the bag be open , the wire tie be untied , and the camera have obviously be use because the password have be change on it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I had to do a factory reset in order to be able to use it .</Tokens>
+		<POS>PRP VBD TO VB DT NN VB IN NN TO VB JJ TO VB PRP .</POS>
+		<Lemma>I have to do a factory reset in order to be able to use it .</Lemma>
+	</Sentence>
+</Document>

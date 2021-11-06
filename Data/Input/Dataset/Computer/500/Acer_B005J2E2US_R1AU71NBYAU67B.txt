@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you 're debating getting this item , I would n't hesitate any longer .</Tokens>
+		<POS>IN PRP VBP VBG VBG DT NN , PRP MD RB VB DT JJR .</POS>
+		<Lemma>if you be debate get this item , I would not hesitate any longer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm not a person well read in technology but this is just an absolutely wonderful computer .</Tokens>
+		<POS>PRP VBP RB DT NN RB VBN IN NN CC DT VBZ RB DT RB JJ NN .</POS>
+		<Lemma>I be not a person well read in technology but this be just a absolutely wonderful computer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've been playing Minecraft on it and multi tasking at the same time , and while it does run slower while multi-tasking , the gaming experience is not compromised for me .</Tokens>
+		<POS>PRP VBP VBN VBG NNP IN PRP CC NNS VBG IN DT JJ NN , CC IN PRP VBZ VB JJR IN JJ , DT NN NN VBZ RB VBN IN PRP .</POS>
+		<Lemma>I have be play Minecraft on it and multus task at the same time , and while it do run slower while multi-tasking , the gaming experience be not compromise for I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The keyboard is also very nice and quite comfortable-although it does take some getting used to .</Tokens>
+		<POS>DT NN VBZ RB RB JJ CC RB JJ PRP VBZ VB DT VBG VBN TO .</POS>
+		<Lemma>the keyboard be also very nice and quite comfortable-although it do take some get use to .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't want to be a sensationalist but this computer is incredible .</Tokens>
+		<POS>PRP VBP RB VB TO VB DT JJ CC DT NN VBZ JJ .</POS>
+		<Lemma>I do not want to be a sensationalist but this computer be incredible .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you have netbook expectations you will be pleasantly surprised by how well this baby runs .</Tokens>
+		<POS>IN PRP VBP NN NNS PRP MD VB RB VBN IN WRB RB DT NN VBZ .</POS>
+		<Lemma>if you have netbook expectation you will be pleasantly surprise by how well this baby run .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you have notebook expectations you will feel `` meh '' towards it because it runs like a low-grade to medium-grade notebook .</Tokens>
+		<POS>IN PRP VBP NN NNS PRP MD VB `` FW '' IN PRP IN PRP VBZ IN DT JJ TO JJ NN .</POS>
+		<Lemma>if you have notebook expectation you will feel `` meh '' towards it because it run like a low-grade to medium-grade notebook .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Pros : The capabilities for size and price The keyboard size Windows Premium The look Cons : Be aware that the finish does smudge and gets finger printy , but all polished , it looks incredible Screen size -LRB- but its a netbook , duh ! -RRB-</Tokens>
+		<POS>NNS : DT NNS IN NN CC NN DT NN NN NNP NNP DT NN NNS : VB JJ IN DT NN VBZ NN CC VBZ NN NN , CC DT VBN , PRP VBZ JJ NN NN -LRB- CC PRP$ DT NN , NN . -RRB-</POS>
+		<Lemma>pro : the capability for size and price the keyboard size Windows Premium the look con : be aware that the finish do smudge and get finger printy , but all polish , it look incredible screen size -lrb- but its a netbook , duh ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Slow to download and run certain programs Wish you the best and hope my review helped !</Tokens>
+		<POS>VB TO VB CC VB JJ NNS NNP PRP DT JJS CC VB PRP$ NN VBD .</POS>
+		<Lemma>slow to download and run certain program Wish you the best and hope my review help !</Lemma>
+	</Sentence>
+</Document>

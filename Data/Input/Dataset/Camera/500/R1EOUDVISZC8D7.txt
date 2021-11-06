@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Estoy feliz con mi nueva video camara , sus efectos especiales que se pueden adicionara mientras filma son muy buenos , la nitidez de su images es la mejor ; para mi que no soy ningun especialista en manejo de camaras de video , es muy sencillo su manejo .</Tokens>
+		<POS>NNP NN NN FW FW NN NN , FW FW FW FW FW FW FW FW FW NN NN NNS , DT NNP IN FW NNS FW FW FW : NN FW FW DT NN NN FW FW FW FW FW FW NN , VBZ NN NN FW FW .</POS>
+		<Lemma>Estoy feliz con mi nueva video camara , sus efectos especiales que se pueden adicionara mientras filma son muy bueno , la nitidez de su image es la mejor ; para mi que no soy ningun especialista en manejo de camaras de video , e muy sencillo su manejo .</Lemma>
+	</Sentence>
+</Document>

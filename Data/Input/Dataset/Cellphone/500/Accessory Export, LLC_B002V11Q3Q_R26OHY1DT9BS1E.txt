@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased two of these and the work perfectly .</Tokens>
+		<POS>PRP VBD CD IN DT CC DT NN RB .</POS>
+		<Lemma>I purchase two of these and the work perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The cable is of good quality and i expect it will last for some time .</Tokens>
+		<POS>DT NN VBZ IN JJ NN CC FW VBP PRP MD VB IN DT NN .</POS>
+		<Lemma>the cable be of good quality and i expect it will last for some time .</Lemma>
+	</Sentence>
+</Document>

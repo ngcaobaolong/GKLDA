@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>just bought this netbook , i turned it on and it started FREEZING !</Tokens>
+		<POS>RB VBN DT NN , FW VBD PRP IN CC PRP VBD VBG .</POS>
+		<Lemma>just buy this netbook , i turn it on and it start freeze !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i upgraded to 2 gb , bt did not fix the problem .</Tokens>
+		<POS>LS VBN TO CD NN , NN VBD RB VB DT NN .</POS>
+		<Lemma>i upgrade to 2 gb , bt do not fix the problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>i did a review search on this model , and its not an isolated problem .</Tokens>
+		<POS>LS VBD DT NN NN IN DT NN , CC PRP$ RB DT VBN NN .</POS>
+		<Lemma>i do a review search on this model , and its not a isolate problem .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>finally i called acer company , they told me to restore the whole system !</Tokens>
+		<POS>RB FW VBN NN NN , PRP VBD PRP TO VB DT JJ NN .</POS>
+		<Lemma>finally i call acer company , they tell I to restore the whole system !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>it took about 2 hrs to complete this .</Tokens>
+		<POS>PRP VBD RB CD NNS TO VB DT .</POS>
+		<Lemma>it take about 2 hr to complete this .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>After all this it froze once !</Tokens>
+		<POS>IN PDT DT PRP VBD RB .</POS>
+		<Lemma>after all this it freeze once !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>now its running fine -LRB- SO FAR -RRB- Noone should have to go through such a big hassel , on a new netbook !</Tokens>
+		<POS>RB PRP$ VBG NN -LRB- NN RB -RRB- NNP MD VB TO VB IN PDT DT JJ NN , IN DT JJ NN .</POS>
+		<Lemma>now its run fine -lrb- so far -rrb- Noone should have to go through such a big hassel , on a new netbook !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>i will never againg buy an acer product !</Tokens>
+		<POS>LS MD RB VBG VB DT NN NN .</POS>
+		<Lemma>i will never agae buy a acer product !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>p.s i was lucky to get support without having to pay for it , cuz usually you have to pay for them to help you with thir own crappy products !</Tokens>
+		<POS>NNS FW VBD JJ TO VB NN IN VBG TO VB IN PRP , NN RB PRP VBP TO VB IN PRP TO VB PRP IN JJ JJ JJ NNS .</POS>
+		<Lemma>p.s i be lucky to get support without have to pay for it , cuz usually you have to pay for they to help you with thir own crappy product !</Lemma>
+	</Sentence>
+</Document>

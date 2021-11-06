@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very nice camera .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very nice camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I chose this camera because of the simplicity of a point and shoot camera with an slr look and Canon name .</Tokens>
+		<POS>PRP VBD DT NN IN IN DT NN IN DT NN CC VB NN IN DT NN NN CC NNP NN .</POS>
+		<Lemma>I choose this camera because of the simplicity of a point and shoot camera with a slr look and Canon name .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I thought this would be a good camera for me to experiment with and `` if '' I should get better would like to graduate to a more advanced camera .</Tokens>
+		<POS>PRP VBD DT MD VB DT JJ NN IN PRP TO NN IN CC `` IN '' PRP MD VB JJR MD VB TO VB TO DT RBR JJ NN .</POS>
+		<Lemma>I think this would be a good camera for I to experiment with and `` if '' I should get better would like to graduate to a more advanced camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm having lots of fun with it !!</Tokens>
+		<POS>PRP VBP VBG NNS IN NN IN PRP IN</POS>
+		<Lemma>I be have lot of fun with it !!</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's pretty too .</Tokens>
+		<POS>PRP VBZ RB RB .</POS>
+		<Lemma>it be pretty too .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,137 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I could not agree LESS with the other reviewer and I think he either got an old model or a defective one .</Tokens>
+		<POS>PRP MD RB VB NN IN DT JJ NN CC PRP VBP PRP CC VBD DT JJ NN CC DT JJ CD .</POS>
+		<Lemma>I could not agree less with the other reviewer and I think he either get a old model or a defective one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I purchased several of these for nieces and nephews for X-mas and we experienced none of the symptoms he expressed .</Tokens>
+		<POS>PRP VBD JJ IN DT IN NNS CC NNS IN NN CC PRP VBD NN IN DT NNS PRP VBD .</POS>
+		<Lemma>I purchase several of these for niece and nephew for x-ma and we experience none of the symptom he express .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In fact , his issues of weakness I found opposite results and judge them as strengths .</Tokens>
+		<POS>IN NN , PRP$ NNS IN NN PRP VBD JJ NNS CC VB PRP IN NNS .</POS>
+		<Lemma>in fact , he issue of weakness I find opposite result and judge they as strength .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't know what he expected for the price but this set -LRB- huge box ! -RRB-</Tokens>
+		<POS>PRP VBP RB VB WP PRP VBD IN DT NN CC DT NN -LRB- JJ NN . -RRB-</POS>
+		<Lemma>I do not know what he expect for the price but this set -lrb- huge box ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>is an incredible amount of equipment and is precisely perfect for beginners .</Tokens>
+		<POS>VBZ DT JJ NN IN NN CC VBZ RB JJ IN NNS .</POS>
+		<Lemma>be a incredible amount of equipment and be precisely perfect for beginner .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We gazed at the galaxies until I was too cold to speak last night .</Tokens>
+		<POS>PRP VBD IN DT NNS IN PRP VBD RB JJ TO VB JJ NN .</POS>
+		<Lemma>we gaze at the galaxy until I be too cold to speak last night .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I am confidently going to start carrying these items on my web store .</Tokens>
+		<POS>PRP VBP RB VBG TO VB VBG DT NNS IN PRP$ NN NN .</POS>
+		<Lemma>I be confidently go to start carry these item on my web store .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I am very particular in my choices as unhappy customers or returns is bad business !</Tokens>
+		<POS>PRP VBP RB JJ IN PRP$ NNS IN JJ NNS CC NNS VBZ JJ NN .</POS>
+		<Lemma>I be very particular in my choice as unhappy customer or return be bad business !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Perhaps he did not set realistic goals I 'm thinking .</Tokens>
+		<POS>RB PRP VBD RB VBN JJ NNS PRP VBP VBG .</POS>
+		<Lemma>perhaps he do not set realistic goal I be think .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>A pro set of the telescope\/microscope would cost $ 2,000 + .</Tokens>
+		<POS>DT JJ NN IN DT NN MD VB $ CD CC .</POS>
+		<Lemma>a pro set of the telescope\/microscope would cost $ 2,000 + .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Finally , I know telescopes and microscopes .</Tokens>
+		<POS>RB , PRP VBP NNS CC NNS .</POS>
+		<Lemma>finally , I know telescope and microscope .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I own two sets that cost four figures -LRB- without the decimal points !</Tokens>
+		<POS>PRP VBP CD NNS WDT VBP CD NNS -LRB- IN DT JJ NNS .</POS>
+		<Lemma>I own two set that cost four figure -lrb- without the decimal point !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>this 4 figures is one that I can live with -RRB- .</Tokens>
+		<POS>DT CD NNS VBZ CD WDT PRP MD VB IN -RRB- .</POS>
+		<Lemma>this 4 figure be one that I can live with -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>My expectations were very low since I know this equipment inside and out and the 5 stars I give is because the set performs like a mid-range , $ 500 telescope that does not come with a microscope like this one .</Tokens>
+		<POS>PRP$ NNS VBD RB JJ IN PRP VBP DT NN IN CC IN CC DT CD NNS PRP VBP VBZ IN DT VBN VBZ IN DT JJ , $ CD NN WDT VBZ RB VBN IN DT NN IN DT CD .</POS>
+		<Lemma>my expectation be very low since I know this equipment inside and out and the 5 star I give be because the set perform like a mid-range , $ 500 telescope that do not come with a microscope like this one .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>No , it is not the Hubble .</Tokens>
+		<POS>DT , PRP VBZ RB DT NNP .</POS>
+		<Lemma>no , it be not the Hubble .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>But the multiple sets i bought were never supposed to perform like a $ 65,000,000,000.00 -LRB- yes , the zeros are correct and are only the cost of equipment thus far .</Tokens>
+		<POS>CC DT JJ NNS FW VBN VBD RB VBN TO VB IN DT $ CD -LRB- UH , DT NNS VBP JJ CC VBP RB DT NN IN NN RB RB .</POS>
+		<Lemma>but the multiple set i buy be never suppose to perform like a $ 65,000,000,000.00 -lrb- yes , the zero be correct and be only the cost of equipment thus far .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>add the repairs and salaries and it is a $ 200 Billion and counting piece of equipment .</Tokens>
+		<POS>VB DT NNS CC NNS CC PRP VBZ DT $ CD NNP CC VBG NN IN NN .</POS>
+		<Lemma>add the repair and salary and it be a $ 200 Billion and count piece of equipment .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>One of the reasons i suspect he is reviewing an older or lower grade model is that the sets currently carrying this UPC are 25 piece sets , not 20 .</Tokens>
+		<POS>CD IN DT NNS FW JJ PRP VBZ VBG DT JJR CC JJR NN NN VBZ IN DT NNS RB VBG DT NN VBP CD NN NNS , RB CD .</POS>
+		<Lemma>one of the reason i suspect he be review a older or lower grade model be that the set currently carry this upc be 25 piece set , not 20 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>It is clearly marked on the box but the image in this listing is to small to see if it is same set .</Tokens>
+		<POS>PRP VBZ RB VBN IN DT NN CC DT NN IN DT NN VBZ TO JJ TO VB IN PRP VBZ JJ NN .</POS>
+		<Lemma>it be clearly mark on the box but the image in this listing be to small to see if it be same set .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I grabbed 6 sets for the same price as buying ONE lunch for the overnight housekeeping crew that sweeps the floors in a single Hubble monitoring station .</Tokens>
+		<POS>PRP VBD CD NNS IN DT JJ NN IN VBG CD NN IN DT JJ JJ NN WDT VBZ DT NNS IN DT JJ NNP NN NN .</POS>
+		<Lemma>I grab 6 set for the same price as buy one lunch for the overnight housekeeping crew that sweep the floor in a single Hubble monitoring station .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I gave four away last night and all worked perfectly .</Tokens>
+		<POS>PRP VBD CD RB JJ NN CC DT VBD RB .</POS>
+		<Lemma>I give four away last night and all work perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>The two extra go on my web store and another 10 have been ordered to resell .</Tokens>
+		<POS>DT CD JJ VB IN PRP$ NN NN CC DT CD VBP VBN VBN TO VB .</POS>
+		<Lemma>the two extra go on my web store and another 10 have be order to resell .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The reorder speaks volumes coming from me as i am a retailer and former scientist that was amazed that this extremely affordable set was actually pretty darn functional compared to much more expensive ones AND the kids absolutely loved the experiments and performance .</Tokens>
+		<POS>DT NN VBZ NNS VBG IN PRP IN FW VBP DT NN CC JJ NN WDT VBD VBN IN DT RB JJ NN VBD RB RB JJ JJ VBN TO RB RBR JJ NNS CC DT NNS RB VBD DT NNS CC NN .</POS>
+		<Lemma>the reorder speak volume come from I as i be a retailer and former scientist that be amaze that this extremely affordable set be actually pretty darn functional compare to much more expensive one and the kid absolutely love the experiment and performance .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>All I need to do is keep an eye on that 9 year old ... .</Tokens>
+		<POS>DT PRP VBP TO VB VBZ VB DT NN IN DT CD NN JJ : .</POS>
+		<Lemma>all I need to do be keep a eye on that 9 year old ... .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I had a great time with my little scientists until the eldest , 9 years old , was suddenly transfixed on a window down the street .</Tokens>
+		<POS>PRP VBD DT JJ NN IN PRP$ JJ NNS IN DT NN , CD NNS JJ , VBD RB VBN IN DT NN IN DT NN .</POS>
+		<Lemma>I have a great time with my little scientist until the eldest , 9 year old , be suddenly transfix on a window down the street .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Turns out he was looking at the dog fortunately !</Tokens>
+		<POS>VBZ IN PRP VBD VBG IN DT NN RB .</POS>
+		<Lemma>turn out he be look at the dog fortunately !</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>: - -RRB-</Tokens>
+		<POS>: : -RRB-</POS>
+		<Lemma>: - -rrb-</Lemma>
+	</Sentence>
+</Document>

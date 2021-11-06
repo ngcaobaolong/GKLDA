@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Honey Stinger is a pleasant addition to an endless energy bar section at your local bike store .</Tokens>
+		<POS>NNP NNP VBZ DT JJ NN TO DT JJ NN NN NN IN PRP$ JJ NN NN .</POS>
+		<Lemma>Honey Stinger be a pleasant addition to a endless energy bar section at you local bike store .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You know about those energy bars , sure it gives you energy \/ carbs \/ protein but they are a pain to eat -LRB- way too hard \/ chewy , nasty tasty , etc -RRB- .</Tokens>
+		<POS>PRP VBP IN DT NN NNS , JJ PRP VBZ PRP NN : NNS : NN CC PRP VBP DT NN TO VB -LRB- NN RB JJ : JJ , JJ JJ , NN -RRB- .</POS>
+		<Lemma>you know about those energy bar , sure it give you energy \/ carb \/ protein but they be a pain to eat -lrb- way too hard \/ chewy , nasty tasty , etc -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Honey Stinger really hit the spot as a healthy tasty alternative .</Tokens>
+		<POS>NNP NNP RB VBD DT NN IN DT JJ JJ NN .</POS>
+		<Lemma>Honey Stinger really hit the spot as a healthy tasty alternative .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>-LRB- I sound like a commercial but I do not work for them ... wish I did , then I can just eat them by the case -RRB- .</Tokens>
+		<POS>-LRB- PRP VBP IN DT JJ CC PRP VBP RB VB IN PRP : NN PRP VBD , RB PRP MD RB VB PRP IN DT NN -RRB- .</POS>
+		<Lemma>-lrb- I sound like a commercial but I do not work for they ... wish I do , then I can just eat they by the case -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Of note , I 'm a cyclist , so my review will be with a cyclist slant .</Tokens>
+		<POS>IN NN , PRP VBP DT NN , RB PRP$ NN MD VB IN DT NN NN .</POS>
+		<Lemma>of note , I be a cyclist , so my review will be with a cyclist slant .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Wrapping : It 's pretty easy to open with the little jagged edge at the top and bottom .</Tokens>
+		<POS>VBG : PRP VBZ RB JJ TO VB IN DT JJ JJ NN IN DT NN CC NN .</POS>
+		<Lemma>wrap : it be pretty easy to open with the little jagged edge at the top and bottom .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>When I go ride , I usually partially open the pack to make my life easier .</Tokens>
+		<POS>WRB PRP VBP NN , PRP RB RB VB DT NN TO VB PRP$ NN JJR .</POS>
+		<Lemma>when I go ride , I usually partially open the pack to make my life easier .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Taste : Man , this thing tastes great .</Tokens>
+		<POS>NN : NN , DT NN NNS JJ .</POS>
+		<Lemma>taste : man , this thing taste great .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I would eat it for breakfast , lunch , AND dinner .</Tokens>
+		<POS>PRP MD VB PRP IN NN , NN , CC NN .</POS>
+		<Lemma>I would eat it for breakfast , lunch , and dinner .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I believe they have different flavors , I usually stick with Honey as the standard .</Tokens>
+		<POS>PRP VBP PRP VBP JJ NNS , PRP RB VBP IN NNP IN DT NN .</POS>
+		<Lemma>I believe they have different flavor , I usually stick with Honey as the standard .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Ease of eating -LRB- important for me as a cyclist -RRB- : The waffles are soft , perhaps a little bit too soft .</Tokens>
+		<POS>VB IN NN -LRB- JJ IN PRP IN DT NN -RRB- : DT NNS VBP JJ , RB DT JJ NN RB JJ .</POS>
+		<Lemma>ease of eating -lrb- important for I as a cyclist -rrb- : the waffle be soft , perhaps a little bit too soft .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I think if you hold it at one end , the other end will probably start to sag .</Tokens>
+		<POS>PRP VBP IN PRP VBP PRP IN CD NN , DT JJ NN MD RB VB TO NN .</POS>
+		<Lemma>I think if you hold it at one end , the other end will probably start to sag .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>But I usually do n't hold it long enough before the whole thing makes it to my mouth .</Tokens>
+		<POS>CC PRP RB VBP RB VB PRP RB RB IN DT JJ NN VBZ PRP TO PRP$ NN .</POS>
+		<Lemma>but I usually do not hold it long enough before the whole thing make it to my mouth .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>This is soft , so you can swallow it in a couple of bites \/ chews .</Tokens>
+		<POS>DT VBZ JJ , IN PRP MD VB PRP IN DT NN IN VBZ : NNS .</POS>
+		<Lemma>this be soft , so you can swallow it in a couple of bite \/ chew .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>So much better than some of the energy bars that takes forever to chew and swallow .</Tokens>
+		<POS>RB RB JJR IN DT IN DT NN NNS WDT VBZ RB TO VB CC VB .</POS>
+		<Lemma>so much better than some of the energy bar that take forever to chew and swallow .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Cons : The only gripe that I have is that it is crumbly .</Tokens>
+		<POS>NNS : DT JJ NN IN PRP VBP VBZ IN PRP VBZ RB .</POS>
+		<Lemma>con : the only gripe that I have be that it be crumbly .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>little tiny bits will fall off the edges or linger at the edge of your mouth .</Tokens>
+		<POS>JJ JJ NNS MD VB RP DT NNS CC VBP IN DT NN IN PRP$ NN .</POS>
+		<Lemma>little tiny bit will fall off the edge or linger at the edge of you mouth .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The other thing is that it is soft , so do n't place too much pressure on it or you 'll find your waffle shaped like a fortune cookie .</Tokens>
+		<POS>DT JJ NN VBZ IN PRP VBZ JJ , RB VBP RB VB RB JJ NN IN PRP CC PRP MD VB PRP$ NN VBN IN DT NN NN .</POS>
+		<Lemma>the other thing be that it be soft , so do not place too much pressure on it or you 'll find you waffle shape like a fortune cookie .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Overall , I think this is the best fuel on bike .</Tokens>
+		<POS>RB , PRP VBP DT VBZ DT JJS NN IN NN .</POS>
+		<Lemma>overall , I think this be the best fuel on bike .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I usually bring this and some Sport Beans on my ride .</Tokens>
+		<POS>PRP RB VBP DT CC DT NNP NNPS IN PRP$ NN .</POS>
+		<Lemma>I usually bring this and some Sport Beans on my ride .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a nice camera that works well in low light situations .</Tokens>
+		<POS>DT VBZ DT JJ NN WDT VBZ RB IN JJ JJ NNS .</POS>
+		<Lemma>this be a nice camera that work well in low light situation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a great camera for those who want to primarily use the automatic settings , although you can use manual settings if you prefer .</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT WP VBP TO RB VB DT JJ NNS , IN PRP MD VB JJ NNS IN PRP VBP .</POS>
+		<Lemma>this be a great camera for those who want to primarily use the automatic setting , although you can use manual setting if you prefer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My only complaint is there is a fairly long focus time - the time between when you push the shutter release button and when the picture is actually taken .</Tokens>
+		<POS>PRP$ JJ NN VBZ EX VBZ DT RB JJ NN NN : DT NN IN WRB PRP VBP DT NN NN NN CC WRB DT NN VBZ RB VBN .</POS>
+		<Lemma>my only complaint be there be a fairly long focus time - the time between when you push the shutter release button and when the picture be actually take .</Lemma>
+	</Sentence>
+</Document>

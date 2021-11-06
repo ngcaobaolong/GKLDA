@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great value for such a versatile little camera .</Tokens>
+		<POS>DT VBZ DT JJ NN IN JJ DT JJ JJ NN .</POS>
+		<Lemma>this be a great value for such a versatile little camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>-LRB- I bought it when the price was $ 90 . -RRB-</Tokens>
+		<POS>-LRB- PRP VBD PRP WRB DT NN VBD $ CD . -RRB-</POS>
+		<Lemma>-lrb- I buy it when the price be $ 90 . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's not going to give you super amazing video quality , but if you 're wanting a way to easily capture quick videos , but you 're not quite ready to drop a few hundred on a nice video camera , then this is a great choice .</Tokens>
+		<POS>PRP VBZ RB VBG TO VB PRP JJ JJ NN NN , CC IN PRP VBP VBG DT NN TO RB VB JJ NNS , CC PRP VBP RB RB JJ TO VB DT JJ CD IN DT JJ NN NN , RB DT VBZ DT JJ NN .</POS>
+		<Lemma>it be not go to give you super amazing video quality , but if you be want a way to easily capture quick video , but you be not quite ready to drop a few hundred on a nice video camera , then this be a great choice .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pro : - 2 hrs is plenty of storage space - Good battery life - VERY easy to use and set up Con : - Having trouble with the FlipShare software .</Tokens>
+		<POS>FW : : CD NNS VBZ NN IN NN NN : JJ NN NN : RB JJ TO VB CC VB RP NN : : VBG NN IN DT NNP NN .</POS>
+		<Lemma>pro : - 2 hr be plenty of storage space - good battery life - very easy to use and set up con : - have trouble with the FlipShare software .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Runs very slowly and crashes often .</Tokens>
+		<POS>VBZ RB RB CC NNS RB .</POS>
+		<Lemma>run very slowly and crash often .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>- The camera only has a digital zoom , so zooming really kills your picture quality - Being able to take a frame from the video to use as a still image is a great feature `` on paper , '' but in reality , the picture quality is n't good enough to use a frame as a photo .</Tokens>
+		<POS>: DT NN RB VBZ DT JJ NN , RB VBG RB VBZ PRP$ NN NN : VBG JJ TO VB DT NN IN DT NN TO VB IN DT RB NN VBZ DT JJ NN `` IN NN , '' CC IN NN , DT NN NN VBZ RB JJ RB TO VB DT NN IN DT NN .</POS>
+		<Lemma>- the camera only have a digital zoom , so zoom really kill you picture quality - be able to take a frame from the video to use as a still image be a great feature `` on paper , '' but in reality , the picture quality be not good enough to use a frame as a photo .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Overall , I am extremely pleased with this purchase , and would recommend it to anyone , especially at this price !</Tokens>
+		<POS>RB , PRP VBP RB JJ IN DT NN , CC MD VB PRP TO NN , RB IN DT NN .</POS>
+		<Lemma>overall , I be extremely pleased with this purchase , and would recommend it to anyone , especially at this price !</Lemma>
+	</Sentence>
+</Document>

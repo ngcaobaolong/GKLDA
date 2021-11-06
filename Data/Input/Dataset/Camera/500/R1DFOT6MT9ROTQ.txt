@@ -1,0 +1,307 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My rating reflects the camera as a whole .</Tokens>
+		<POS>PRP$ NN VBZ DT NN IN DT NN .</POS>
+		<Lemma>my rating reflect the camera as a whole .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought it , use it and love it , but I 'm going to take a different approach here and review one aspect of this camera : the viewfinder .</Tokens>
+		<POS>PRP VBD PRP , VB PRP CC VB PRP , CC PRP VBP VBG TO VB DT JJ NN RB CC VB CD NN IN DT NN : DT NN .</POS>
+		<Lemma>I buy it , use it and love it , but I be go to take a different approach here and review one aspect of this camera : the viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Most of the professional reviews I 've found for the Sony a77 -LRB- dpreview , etc -RRB- are entirely missing the point .</Tokens>
+		<POS>JJS IN DT JJ NNS PRP VBP VBN IN DT NNP NN -LRB- NN , NN -RRB- VBP RB VBG DT NN .</POS>
+		<Lemma>most of the professional review I have find for the Sony a77 -lrb- dpreview , etc -rrb- be entirely miss the point .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The electronic viewfinder alone is reason enough to consider this camera a step up from a traditional DSLR , even if the DSLR you were comparing an a77 with had identical specs .</Tokens>
+		<POS>DT JJ NN RB VBZ NN RB TO VB DT NN DT NN RB IN DT JJ NN , RB IN DT NNP PRP VBD VBG DT NN IN VBD JJ NNS .</POS>
+		<Lemma>the electronic viewfinder alone be reason enough to consider this camera a step up from a traditional dslr , even if the DSLR you be compare a a77 with have identical spec .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'd say the a77 's viewfinder is a pleasure to use -LRB- and it is -RRB- , but even that is missing the point .</Tokens>
+		<POS>PRP MD VB DT NN POS NN VBZ DT NN TO VB -LRB- CC PRP VBZ -RRB- , CC RB DT VBZ VBG DT NN .</POS>
+		<Lemma>I would say the a77 's viewfinder be a pleasure to use -lrb- and it be -rrb- , but even that be miss the point .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This viewfinder will change the way you use your camera .</Tokens>
+		<POS>DT NN MD VB DT NN PRP VBP PRP$ NN .</POS>
+		<Lemma>this viewfinder will change the way you use you camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It 'll change it for the better because it gives you greater control over the camera than you 've ever had before .</Tokens>
+		<POS>PRP MD VB PRP IN DT JJR IN PRP VBZ PRP JJR NN IN DT NN IN PRP VBP RB VBN IN .</POS>
+		<Lemma>it 'll change it for the better because it give you greater control over the camera than you have ever have before .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Because the viewfinder is an OLED video screen in the eyepiece instead of being a typical piece of glass , you 're seeing something entirely different .</Tokens>
+		<POS>IN DT NN VBZ DT JJ NN NN IN DT NN RB IN VBG DT JJ NN IN NN , PRP VBP VBG NN RB JJ .</POS>
+		<Lemma>because the viewfinder be a oled video screen in the eyepiece instead of be a typical piece of glass , you be see something entirely different .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Something more useful .</Tokens>
+		<POS>NN RBR JJ .</POS>
+		<Lemma>something more useful .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>An optical viewfinder shows you what the lens is seeing .</Tokens>
+		<POS>DT JJ NN VBZ PRP WP DT NN VBZ VBG .</POS>
+		<Lemma>a optical viewfinder show you what the lens be see .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>An electronic viewfinder shows you what the sensor is doing .</Tokens>
+		<POS>DT JJ NN VBZ PRP WP DT NN VBZ VBG .</POS>
+		<Lemma>a electronic viewfinder show you what the sensor be do .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Think about that for a moment .</Tokens>
+		<POS>VB IN DT IN DT NN .</POS>
+		<Lemma>think about that for a moment .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Let 's say you own a Nikon D7000 and you boost exposure compensation .</Tokens>
+		<POS>NNP POS VBP PRP VB DT NNP NN CC PRP VBP NN NN .</POS>
+		<Lemma>Let 's say you own a Nikon d7000 and you boost exposure compensation .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Do you see any change in the viewfinder ?</Tokens>
+		<POS>VBP PRP VB DT NN IN DT NN .</POS>
+		<Lemma>do you see any change in the viewfinder ?</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Of course not .</Tokens>
+		<POS>IN NN RB .</POS>
+		<Lemma>of course not .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>You 'll see that change in the photo you take .</Tokens>
+		<POS>PRP MD VB IN NN IN DT NN PRP VBP .</POS>
+		<Lemma>you 'll see that change in the photo you take .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>That 's how SLRs have always worked , even back in the days before digital .</Tokens>
+		<POS>DT VBZ WRB NNS VBP RB VBN , RB RB IN DT NNS IN JJ .</POS>
+		<Lemma>that be how slr have always work , even back in the day before digital .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Ah , but with the electronic viewfinder in a Sony a77 , when you boost exposure compensation , you 'll see the image in the viewfinder become brighter , just as the shot you take will be brighter .</Tokens>
+		<POS>NN , CC IN DT JJ NN IN DT NNP NN , WRB PRP VBP NN NN , PRP MD VB DT NN IN DT NN VBN RBR , RB IN DT NN PRP VBP MD VB RBR .</POS>
+		<Lemma>ah , but with the electronic viewfinder in a Sony a77 , when you boost exposure compensation , you 'll see the image in the viewfinder become brighter , just as the shot you take will be brighter .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>An even simpler example : Look through the viewfinder of a DSLR and choose an exposure point .</Tokens>
+		<POS>DT RB JJR NN : VB IN DT NN IN DT NN CC VB DT NN NN .</POS>
+		<Lemma>a even simpler example : look through the viewfinder of a dslr and choose a exposure point .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Pick a dark spot .</Tokens>
+		<POS>VB DT JJ NN .</POS>
+		<Lemma>pick a dark spot .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Nothing changes in your viewfinder , right ?</Tokens>
+		<POS>NN NNS IN PRP$ NN , NN .</POS>
+		<Lemma>nothing change in you viewfinder , right ?</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Pick a bright spot .</Tokens>
+		<POS>VB DT JJ NN .</POS>
+		<Lemma>pick a bright spot .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Do you see any change in the viewfinder ?</Tokens>
+		<POS>VBP PRP VB DT NN IN DT NN .</POS>
+		<Lemma>do you see any change in the viewfinder ?</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Of course not .</Tokens>
+		<POS>IN NN RB .</POS>
+		<Lemma>of course not .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>But , in the a77 viewfinder , you see the exposure change because the viewfinder is showing you what the camera is doing rather than only showing you what the lens is seeing .</Tokens>
+		<POS>CC , IN DT NN NN , PRP VBP DT NN NN IN DT NN VBZ VBG PRP WP DT NN VBZ VBG RB IN RB VBG PRP WP DT NN VBZ VBG .</POS>
+		<Lemma>but , in the a77 viewfinder , you see the exposure change because the viewfinder be show you what the camera be do rather than only show you what the lens be see .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Here 's how most of us probably used our DSLRs : You pick the camera up to your eye .</Tokens>
+		<POS>RB POS WRB JJS IN PRP RB VBD PRP$ NNS : PRP VBP DT NN IN TO PRP$ NN .</POS>
+		<Lemma>here 's how most of we probably use we dslr : you pick the camera up to you eye .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>You look through the viewfinder to frame your shot , etc. .</Tokens>
+		<POS>PRP VBP IN DT NN TO VB PRP$ NN , FW .</POS>
+		<Lemma>you look through the viewfinder to frame you shot , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>You take the shot and then pull the camera away from your eye so you can review the shot you just took , using the LCD screen on the back of your camera `` Ah , shoot .</Tokens>
+		<POS>PRP VBP DT NN CC RB VB DT NN RB IN PRP$ NN IN PRP MD VB DT NN PRP RB VBD , VBG DT NNS NN IN DT NN IN PRP$ NN `` NN , NN .</POS>
+		<Lemma>you take the shot and then pull the camera away from you eye so you can review the shot you just take , use the lcd screen on the back of you camera `` ah , shoot .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Blown highlights . ''</Tokens>
+		<POS>VBN VBZ . ''</POS>
+		<Lemma>blow highlight . ''</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>You lower exposure compensation , put the camera viewfinder to your eye , frame up the shot again and take it again .</Tokens>
+		<POS>PRP JJR NN NN , VBD DT NN NN TO PRP$ NN , NN IN DT NN RB CC VB PRP RB .</POS>
+		<Lemma>you lower exposure compensation , put the camera viewfinder to you eye , frame up the shot again and take it again .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Then check it again on the LCD screen on the back of the camera .</Tokens>
+		<POS>RB VB PRP RB IN DT NNS NN IN DT NN IN DT NN .</POS>
+		<Lemma>then check it again on the lcd screen on the back of the camera .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>In other words , it 's a game of switching from viewfinder to LCD , LCD to viewfinder , etc etc etc. .</Tokens>
+		<POS>IN JJ NNS , PRP VBZ DT NN IN NN IN NN TO NNS , NNS TO NN , FW FW FW .</POS>
+		<Lemma>in other word , it be a game of switching from viewfinder to lcd , lcd to viewfinder , etc etc etc. .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Back and forth .</Tokens>
+		<POS>RB CC RB .</POS>
+		<Lemma>back and forth .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>With the electronic viewfinder in the Sony a77 , you do n't have to do that anymore .</Tokens>
+		<POS>IN DT JJ NN IN DT NNP NN , PRP VBP RB VB TO VB DT RB .</POS>
+		<Lemma>with the electronic viewfinder in the Sony a77 , you do not have to do that anymore .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>You can literally see the changes you 're making in the viewfinder .</Tokens>
+		<POS>PRP MD RB VB DT NNS PRP VBP VBG IN DT NN .</POS>
+		<Lemma>you can literally see the change you be make in the viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>And , better still , you can set up your viewfinder to review the shot you just took for 2 seconds -LRB- or 5 , though I find 2 to be enough -RRB- .</Tokens>
+		<POS>CC , JJR RB , PRP MD VB RP PRP$ NN TO VB DT NN PRP RB VBD IN CD NNS -LRB- CC CD , IN PRP VBP CD TO VB JJ -RRB- .</POS>
+		<Lemma>and , better still , you can set up you viewfinder to review the shot you just take for 2 seconds -lrb- or 5 , though I find 2 to be enough -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>So , you take the shot and immediately see the shot you just took without moving the camera .</Tokens>
+		<POS>RB , PRP VBP DT NN CC RB VB DT NN PRP RB VBD IN VBG DT NN .</POS>
+		<Lemma>so , you take the shot and immediately see the shot you just take without move the camera .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>This electronic viewfinder is an absolute pleasure to view , and it can do some amazing things .</Tokens>
+		<POS>DT JJ NN VBZ DT JJ NN TO VB , CC PRP MD VB DT JJ NNS .</POS>
+		<Lemma>this electronic viewfinder be a absolute pleasure to view , and it can do some amazing thing .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Want a level laid over the shot you 're about to take ?</Tokens>
+		<POS>VBD DT NN VBN IN DT NN PRP VBP IN TO VB .</POS>
+		<Lemma>want a level lay over the shot you be about to take ?</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Put it in your viewfinder .</Tokens>
+		<POS>VB PRP IN PRP$ NN .</POS>
+		<Lemma>put it in you viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>There 's an excellent tele\/crop feature in the a77 that drops the 24 megapixel sensor down to 12 and doubles the length of your lens ' reach .</Tokens>
+		<POS>EX VBZ DT JJ NN NN IN DT NN WDT VBZ DT CD NN NN IN TO CD CC VBZ DT NN IN PRP$ NN '' NN .</POS>
+		<Lemma>there be a excellent tele\/crop feature in the a77 that drop the 24 megapixel sensor down to 12 and double the length of you lens ' reach .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>Thus , a 50mm lens becomes a 100mm lens , and you 're seeing this change perfectly in the electronic viewfinder .</Tokens>
+		<POS>RB , DT JJ NN VBZ DT CD NN , CC PRP VBP VBG DT NN RB IN DT JJ NN .</POS>
+		<Lemma>thus , a 50mm lens become a 100mm lens , and you be see this change perfectly in the electronic viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>There 's also an option to check your focus .</Tokens>
+		<POS>EX VBZ RB DT NN TO VB PRP$ NN .</POS>
+		<Lemma>there be also a option to check you focus .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>Click a button and the viewfinder will show you a super-zoomed in view so you can check the precision of your focus .</Tokens>
+		<POS>VB DT NN CC DT NN MD VB PRP DT JJ IN NN IN PRP MD VB DT NN IN PRP$ NN .</POS>
+		<Lemma>click a button and the viewfinder will show you a super-zoomed in view so you can check the precision of you focus .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>There is absolutely no way this sort of thing can be done with an optical viewfinder .</Tokens>
+		<POS>EX VBZ RB DT NN DT NN IN NN MD VB VBN IN DT JJ NN .</POS>
+		<Lemma>there be absolutely no way this sort of thing can be do with a optical viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>I 've seen so many reviews talking about the weaknesses of electronic viewfinders in comparison to optical viewfinders , but they fail to mention the weaknesses of optical viewfinders .</Tokens>
+		<POS>PRP VBP VBN RB JJ NNS VBG IN DT NNS IN JJ NNS IN NN TO JJ NNS , CC PRP VBP TO VB DT NNS IN JJ NNS .</POS>
+		<Lemma>I have see so many review talk about the weakness of electronic viewfinder in comparison to optical viewfinder , but they fail to mention the weakness of optical viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>Now that I 've made the switch to an EVF , I 'd really hate to have to switch back .</Tokens>
+		<POS>RB IN PRP VBP VBN DT NN TO DT NN , PRP MD RB VB TO VB TO VB RB .</POS>
+		<Lemma>now that I have make the switch to a evf , I would really hate to have to switch back .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>After using the viewfinder in this Sony a77 for a day or two , you 'll realize just how limiting an old fashioned optical viewfinder really is .</Tokens>
+		<POS>IN VBG DT NN IN DT NNP NN IN DT NN CC CD , PRP MD VB RB WRB VBG DT JJ VBN JJ NN RB VBZ .</POS>
+		<Lemma>after use the viewfinder in this Sony a77 for a day or two , you 'll realize just how limit a old fashion optical viewfinder really be .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Specs only tell you what a camera is capable of , but as we all know , photography is n't about the camera .</Tokens>
+		<POS>NNS RB VBP PRP WP DT NN VBZ JJ IN , CC IN PRP DT VBP , NN VBZ RB IN DT NN .</POS>
+		<Lemma>spec only tell you what a camera be capable of , but as we all know , photography be not about the camera .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>It 's about the photographer and the photo taken .</Tokens>
+		<POS>PRP VBZ IN DT NNP CC DT NN VBN .</POS>
+		<Lemma>it be about the photographer and the photo take .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>The viewfinder in this camera will give you , as a photographer , more control over your camera than you 've ever known .</Tokens>
+		<POS>DT NN IN DT NN MD VB PRP , IN DT NNP , JJR NN IN PRP$ NN IN PRP VBP RB VBN .</POS>
+		<Lemma>the viewfinder in this camera will give you , as a photographer , more control over you camera than you have ever know .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>The buttons and dials give you control over the camera , but the EVF literally puts you inside the camera .</Tokens>
+		<POS>DT NNS CC NNS VBP PRP VB IN DT NN , CC DT NN RB VBZ PRP IN DT NN .</POS>
+		<Lemma>the button and dial give you control over the camera , but the evf literally put you inside the camera .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>It 's an awesome experience .</Tokens>
+		<POS>PRP VBZ DT JJ NN .</POS>
+		<Lemma>it be a awesome experience .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>I suspect that , ten years from now , most DSLRs will be this way too -LRB- they 'll be SLTs instead of SLRs , in other words -RRB- .</Tokens>
+		<POS>PRP VBP IN , CD NNS IN RB , RBS NNS MD VB DT NN RB -LRB- PRP MD VB NNS RB IN NNS , IN JJ NNS -RRB- .</POS>
+		<Lemma>I suspect that , ten year from now , most dslr will be this way too -lrb- they 'll be slt instead of slr , in other word -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>I 've only owned my a77 for a week , but I love it .</Tokens>
+		<POS>PRP VBP RB VBN PRP$ NN IN DT NN , CC PRP VBP PRP .</POS>
+		<Lemma>I have only own my a77 for a week , but I love it .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>The first time I took it out shooting , I was nervous .</Tokens>
+		<POS>DT JJ NN PRP VBD PRP RP NN , PRP VBD JJ .</POS>
+		<Lemma>the first time I take it out shooting , I be nervous .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>$ 1400 is a heck of a lot of money for me , so I worried I might have made a huge mistake buying this thing ... but as I used my new a77 that day , I just kept saying `` Wow . ''</Tokens>
+		<POS>$ CD VBZ DT NN IN DT NN IN NN IN PRP , IN PRP VBD PRP MD VB VBN DT JJ NN VBG DT NN : CC IN PRP VBD PRP$ JJ NN WDT NN , PRP RB VBD VBG `` UH . ''</POS>
+		<Lemma>$ 1400 be a heck of a lot of money for I , so I worry I might have make a huge mistake buy this thing ... but as I use my new a77 that day , I just keep say `` wow . ''</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>Obviously , this is a great camera , but the real story is the viewfinder .</Tokens>
+		<POS>RB , DT VBZ DT JJ NN , CC DT JJ NN VBZ DT NN .</POS>
+		<Lemma>obviously , this be a great camera , but the real story be the viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>All I can say is wow .</Tokens>
+		<POS>DT PRP MD VB VBZ NN .</POS>
+		<Lemma>all I can say be wow .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>I certainly would n't want to go back to an optical viewfinder after using this thing .</Tokens>
+		<POS>PRP RB MD RB VB TO VB RB TO DT JJ NN IN VBG DT NN .</POS>
+		<Lemma>I certainly would not want to go back to a optical viewfinder after use this thing .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>No way .</Tokens>
+		<POS>DT NN .</POS>
+		<Lemma>no way .</Lemma>
+	</Sentence>
+</Document>

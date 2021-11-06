@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It is a nice little camera with night shot , but even with extra IR illumination the battery 's life is very short .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN IN NN NN , CC RB IN JJ NN NN DT NN POS NN VBZ RB JJ .</POS>
+		<Lemma>it be a nice little camera with night shot , but even with extra ir illumination the battery 's life be very short .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Is it worth it for the money - no - it does n't even have a lens cover .</Tokens>
+		<POS>VBZ PRP IN PRP IN DT NN : DT : PRP VBZ RB RB VB DT NN NN .</POS>
+		<Lemma>be it worth it for the money - no - it do not even have a lens cover .</Lemma>
+	</Sentence>
+</Document>

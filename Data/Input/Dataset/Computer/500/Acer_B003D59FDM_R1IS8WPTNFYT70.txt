@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am a professional photographer so I have to have a monitor that is clear and crisp with accurate colors .</Tokens>
+		<POS>PRP VBP DT JJ NNP IN PRP VBP TO VB DT NN WDT VBZ JJ CC JJ IN JJ NNS .</POS>
+		<Lemma>I be a professional photographer so I have to have a monitor that be clear and crisp with accurate color .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I could never use this monitor for processing my images for the studio , but that is not what I got it for .</Tokens>
+		<POS>PRP MD RB VB DT NN IN VBG PRP$ NNS IN DT NN , CC DT VBZ RB WP PRP VBD PRP IN .</POS>
+		<Lemma>I could never use this monitor for process my image for the studio , but that be not what I get it for .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I strictly needed a decent monitor for a computer that I use on rare occasions .</Tokens>
+		<POS>PRP RB VBD DT JJ NN IN DT NN IN PRP VBP IN JJ NNS .</POS>
+		<Lemma>I strictly need a decent monitor for a computer that I use on rare occasion .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It does the job just great .</Tokens>
+		<POS>PRP VBZ DT NN RB JJ .</POS>
+		<Lemma>it do the job just great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Price was right .</Tokens>
+		<POS>NN VBD RB .</POS>
+		<Lemma>price be right .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Color quality is fine - just not enough to be able to place lab orders with .</Tokens>
+		<POS>NNP NN VBZ JJ : RB RB JJ TO VB JJ TO VB NN NNS IN .</POS>
+		<Lemma>Color quality be fine - just not enough to be able to place lab order with .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have had this monitor for a couple of months now .</Tokens>
+		<POS>PRP VBP VBN DT NN IN DT NN IN NNS RB .</POS>
+		<Lemma>I have have this monitor for a couple of month now .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So far , so good .</Tokens>
+		<POS>RB RB , RB JJ .</POS>
+		<Lemma>so far , so good .</Lemma>
+	</Sentence>
+</Document>

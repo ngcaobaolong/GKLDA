@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm not too upset that this was horrible because I only paid a few dollars for it .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT VBD JJ IN PRP RB VBD DT JJ NNS IN PRP .</POS>
+		<Lemma>I be not too upset that this be horrible because I only pay a few dollar for it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>That said , it does n't stay on well or work when it does stay on so you would probably be better off going with another option here .</Tokens>
+		<POS>DT VBD , PRP VBZ RB VB RB RB CC VB WRB PRP VBZ VB IN RB PRP MD RB VB JJR RP VBG IN DT NN RB .</POS>
+		<Lemma>that say , it do not stay on well or work when it do stay on so you would probably be better off go with another option here .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Spend a few more dollars for quality ; -RRB-</Tokens>
+		<POS>VB DT JJ JJR NNS IN NN : -RRB-</POS>
+		<Lemma>spend a few more dollar for quality ; -rrb-</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I specifically researched and ordered this monitor because it has internal speakers .</Tokens>
+		<POS>PRP RB VBD CC VBD DT NN IN PRP VBZ JJ NNS .</POS>
+		<Lemma>I specifically research and order this monitor because it have internal speaker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's useful to have built-in speakers vs. external speaks for space-saving purposes .</Tokens>
+		<POS>PRP VBZ JJ TO VB JJ NNS IN JJ VBZ IN JJ NNS .</POS>
+		<Lemma>it be useful to have built-in speaker vs. external speak for space-saving purpose .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I work off two monitors and my laptop is hooked to a docking station under my desk .</Tokens>
+		<POS>PRP VBP RP CD NNS CC PRP$ NN VBZ VBN TO DT NN NN IN PRP$ NN .</POS>
+		<Lemma>I work off two monitor and my laptop be hook to a docking station under my desk .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This Acer monitor is ideal because I can clearly hear my e-mails\/Communicator pings coming directly to my face .</Tokens>
+		<POS>DT NNP NN VBZ JJ IN PRP MD RB VB PRP$ NN NNS VBG RB TO PRP$ NN .</POS>
+		<Lemma>this Acer monitor be ideal because I can clearly hear my e-mails\/communicator ping come directly to my face .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was also in my price range : - -RRB- Thanks !</Tokens>
+		<POS>PRP VBD RB IN PRP$ NN NN : : -RRB- NNS .</POS>
+		<Lemma>it be also in my price range : - -rrb- thanks !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Diana Griffith</Tokens>
+		<POS>NNP NNP</POS>
+		<Lemma>Diana Griffith</Lemma>
+	</Sentence>
+</Document>

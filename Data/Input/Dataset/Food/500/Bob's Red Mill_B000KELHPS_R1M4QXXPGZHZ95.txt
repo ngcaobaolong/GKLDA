@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread is wonderful .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this bread be wonderful .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has a great flavor and very moist .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC RB JJ .</POS>
+		<Lemma>it have a great flavor and very moist .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It makes great sandwiches and toast .</Tokens>
+		<POS>PRP VBZ JJ NNS CC NN .</POS>
+		<Lemma>it make great sandwich and toast .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I highly recommend it .</Tokens>
+		<POS>PRP RB VB PRP .</POS>
+		<Lemma>I highly recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Some GF breads I have tried have a great flavor but are very crumbly when sliced .</Tokens>
+		<POS>DT NN NNS PRP VBP VBN VBP DT JJ NN CC VBP RB RB WRB VBN .</POS>
+		<Lemma>some gf bread I have try have a great flavor but be very crumbly when slice .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This bread slices well and tastes great .</Tokens>
+		<POS>DT NN NNS RB CC VBZ JJ .</POS>
+		<Lemma>this bread slice well and taste great .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Cable is inexpensive , shipping was very fast but , while it charges fine it will not up or download data .</Tokens>
+		<POS>NNP VBZ JJ , NN VBD RB JJ CC , IN PRP VBZ JJ PRP MD RB RB CC VB NNS .</POS>
+		<Lemma>Cable be inexpensive , shipping be very fast but , while it charge fine it will not up or download datum .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>At $ 2 , with all the good reviews , I am gonna order another ... what do I have to loose , $ 4 -LRB- it is $ 20 at the Verizon store -RRB- ?</Tokens>
+		<POS>IN $ CD , IN PDT DT JJ NNS , PRP VBP NN NN DT : WP VBP PRP VBP TO RB , $ CD -LRB- PRP VBZ $ CD IN DT NNP NN -RRB- .</POS>
+		<Lemma>at $ 2 , with all the good review , I be gonna order another ... what do I have to loose , $ 4 -lrb- it be $ 20 at the Verizon store -rrb- ?</Lemma>
+	</Sentence>
+</Document>

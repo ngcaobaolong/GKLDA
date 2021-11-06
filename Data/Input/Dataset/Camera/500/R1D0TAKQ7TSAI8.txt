@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you believe you will have this camera for a long time , you are naive .</Tokens>
+		<POS>IN PRP VBP PRP MD VB DT NN IN DT JJ NN , PRP VBP JJ .</POS>
+		<Lemma>if you believe you will have this camera for a long time , you be naive .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After a few months this camera stops being charged .</Tokens>
+		<POS>IN DT JJ NNS DT NN VBZ VBG VBN .</POS>
+		<Lemma>after a few month this camera stop be charge .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So , you have several months to enjoy it .</Tokens>
+		<POS>RB , PRP VBP JJ NNS TO VB PRP .</POS>
+		<Lemma>so , you have several month to enjoy it .</Lemma>
+	</Sentence>
+</Document>

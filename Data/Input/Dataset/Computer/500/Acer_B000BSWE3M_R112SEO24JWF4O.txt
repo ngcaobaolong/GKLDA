@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It 's as easy as this : this is a great monitor for the price !</Tokens>
+		<POS>PRP VBZ RB JJ IN DT : DT VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>it be as easy as this : this be a great monitor for the price !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I got no dead pixels , received it after 4 days , put it out of the carton , plugged it in and was immediately blown away by the bright and clear picture .</Tokens>
+		<POS>PRP VBD DT JJ NNS , VBD PRP IN CD NNS , VBD PRP IN IN DT NN , VBD PRP IN CC VBD RB VBN RB IN DT JJ CC JJ NN .</POS>
+		<Lemma>I get no dead pixel , receive it after 4 day , put it out of the carton , plug it in and be immediately blow away by the bright and clear picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have n't tried games , though , so you might want to read another review to make sure about the gaming-capabilities of this monitor .</Tokens>
+		<POS>PRP VBP RB VBN NNS , RB , IN PRP MD VB TO VB DT NN TO VB JJ IN DT NNS IN DT NN .</POS>
+		<Lemma>I have not try game , though , so you might want to read another review to make sure about the gaming-capability of this monitor .</Lemma>
+	</Sentence>
+</Document>

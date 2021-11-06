@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought a French Press coffee maker for my husband which requires trying the hundreds of different coffee beans available to find just the right blend .</Tokens>
+		<POS>VBN DT NNP NNP NN NN IN PRP$ NN WDT VBZ VBG DT NNS IN JJ NN NNS JJ TO VB RB DT JJ VB .</POS>
+		<Lemma>buy a French Press coffee maker for my husband which require try the hundred of different coffee bean available to find just the right blend .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>He tried several , which were okay , and then I found this great deal of Cafe Altura Organic Peruvian Dark coffee on Amazon .</Tokens>
+		<POS>PRP VBD JJ , WDT VBD JJ , CC RB PRP VBD DT JJ NN IN NNP NNP NNP JJ JJ NN IN NNP .</POS>
+		<Lemma>he try several , which be okay , and then I find this great deal of Cafe Altura Organic peruvian dark coffee on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Figured I would try it to see if he liked it - which he did .</Tokens>
+		<POS>VBN PRP MD VB PRP TO VB IN PRP VBD PRP : WDT PRP VBD .</POS>
+		<Lemma>figure I would try it to see if he like it - which he do .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Think he might just stick with this brand for awhile .</Tokens>
+		<POS>VB PRP MD RB VB IN DT NN IN RB .</POS>
+		<Lemma>think he might just stick with this brand for awhile .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>He likes strong coffee with a robust flavor , and this blend makes him happy in the morning .</Tokens>
+		<POS>PRP VBZ JJ NN IN DT JJ NN , CC DT VB VBZ PRP JJ IN DT NN .</POS>
+		<Lemma>he like strong coffee with a robust flavor , and this blend make he happy in the morning .</Lemma>
+	</Sentence>
+</Document>

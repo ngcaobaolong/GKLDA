@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I put a couple of these in my backpack in place of my usual cliff bars on a 10 mile day hike this weekend .</Tokens>
+		<POS>PRP VBD DT NN IN DT IN PRP$ NN IN NN IN PRP$ JJ NN NNS IN DT CD NN NN VB DT NN .</POS>
+		<Lemma>I put a couple of these in my backpack in place of my usual cliff bar on a 10 mile day hike this weekend .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Taste was ok -LRB- I actually like the taste of clif bars though , so consider the source -RRB- , big problem was all the crumbs !</Tokens>
+		<POS>NN VBD JJ -LRB- PRP RB VBP DT NN IN NN NNS RB , RB VB DT NN -RRB- , JJ NN VBD PDT DT NNS .</POS>
+		<Lemma>taste be ok -lrb- I actually like the taste of clif bar though , so consider the source -rrb- , big problem be all the crumb !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't know if they got smashed up in my pack or what , but on opening crumbs spilled out everywhere ... and I made the mistake of opening the first one right over my pack : -LRB- .</Tokens>
+		<POS>PRP VBP RB VB IN PRP VBD VBN RP IN PRP$ NN CC WP , CC IN VBG NNS VBD RP RB : CC PRP VBD DT NN IN VBG DT JJ CD NN IN PRP$ NN : -LRB- .</POS>
+		<Lemma>I do not know if they get smash up in my pack or what , but on open crumb spill out everywhere ... and I make the mistake of open the first one right over my pack : -lrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'll use the rest of them , but I do n't think I 'll order them again .</Tokens>
+		<POS>PRP MD VB DT NN IN PRP , CC PRP VBP RB VB PRP MD VB PRP RB .</POS>
+		<Lemma>I 'll use the rest of they , but I do not think I 'll order they again .</Lemma>
+	</Sentence>
+</Document>

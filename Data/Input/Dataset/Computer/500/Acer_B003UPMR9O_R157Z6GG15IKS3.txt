@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor about a month ago and I am very happy with it .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN RB CC PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>I buy this monitor about a month ago and I be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I knew what i was getting since i paid only $ 110 but i was pleasantly surprised with the monitor .</Tokens>
+		<POS>PRP VBD WP FW VBD VBG IN FW VBN RB $ CD CC FW VBD RB VBN IN DT NN .</POS>
+		<Lemma>I know what i be get since i pay only $ 110 but i be pleasantly surprise with the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The monitor is very bright and the colors are very good .</Tokens>
+		<POS>DT NN VBZ RB JJ CC DT NNS VBP RB JJ .</POS>
+		<Lemma>the monitor be very bright and the color be very good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There not much of any adjustable option except for maybe tilt .</Tokens>
+		<POS>EX RB RB IN DT JJ NN IN IN RB NN .</POS>
+		<Lemma>there not much of any adjustable option except for maybe tilt .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The lack of HDMI connection is bit of a downer but they have provided both VGA and DVI cables along with the monitor .</Tokens>
+		<POS>DT NN IN NN NN VBZ NN IN DT NN CC PRP VBP VBN DT NNP CC NNP NNS IN IN DT NN .</POS>
+		<Lemma>the lack of hdmus connection be bit of a downer but they have provide both VGA and DVI cable along with the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The monitor is also a bit on the heavier side and the stand is plastic though strong enough .</Tokens>
+		<POS>DT NN VBZ RB DT NN IN DT JJR NN CC DT NN VBZ JJ IN JJ RB .</POS>
+		<Lemma>the monitor be also a bit on the heavier side and the stand be plastic though strong enough .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>No connection for USB or sound .</Tokens>
+		<POS>DT NN IN JJ CC NN .</POS>
+		<Lemma>no connection for usb or sound .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The most important fault in this monitor maybe the lack of a decent OSD to adjust monitor settings .</Tokens>
+		<POS>DT RBS JJ NN IN DT NN RB DT NN IN DT JJ NN TO VB NN NNS .</POS>
+		<Lemma>the most important fault in this monitor maybe the lack of a decent osd to adjust monitor setting .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Other than that this monitor is excellent bang for your buck !!</Tokens>
+		<POS>JJ IN IN DT NN VBZ JJ NN IN PRP$ NN IN</POS>
+		<Lemma>other than that this monitor be excellent bang for you buck !!</Lemma>
+	</Sentence>
+</Document>

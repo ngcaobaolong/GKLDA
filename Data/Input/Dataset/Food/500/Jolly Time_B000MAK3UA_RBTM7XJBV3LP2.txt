@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am sorry to say the two orders of Jolly Time -LRB- weight watchers point plus 1 -RRB- was received as Jolly Time -LRB- weight watchers point plus 3 -RRB- .</Tokens>
+		<POS>PRP VBP JJ TO VB DT CD NNS IN JJ NN -LRB- NN NNS NN CC LS -RRB- VBD VBN IN JJ NN -LRB- NN NNS NN CC LS -RRB- .</POS>
+		<Lemma>I be sorry to say the two order of jolly time -lrb- weight watcher point plus 1 -rrb- be receive as jolly time -lrb- weight watcher point plus 3 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Did not order the `` Point Plus 3 '' .</Tokens>
+		<POS>VBD RB VB DT `` NN NN CD '' .</POS>
+		<Lemma>do not order the `` point plus 3 '' .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I am just giving up on this order .</Tokens>
+		<POS>IN PRP VBP RB VBG RP IN DT NN .</POS>
+		<Lemma>so I be just give up on this order .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A very nice young lady spent a good deal of time trying to figure this out and she put in some kind of paperwork letting you know that even though the picture has points plus 1 on the box , I kept getting Points Plus 3 .</Tokens>
+		<POS>DT RB JJ JJ NN VBD DT JJ NN IN NN VBG TO VB DT RP CC PRP VBD IN DT NN IN NN VBG PRP VBP IN RB IN DT NN VBZ NNS CC CD IN DT NN , PRP VBD VBG NNP NNP CD .</POS>
+		<Lemma>a very nice young lady spend a good deal of time try to figure this out and she put in some kind of paperwork let you know that even though the picture have point plus 1 on the box , I keep get Points Plus 3 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Well , anyway , you have very nice people working for you and we all gave it the good old college try .</Tokens>
+		<POS>RB , RB , PRP VBP RB JJ NNS VBG IN PRP CC PRP DT VBD PRP DT JJ JJ NN NN .</POS>
+		<Lemma>well , anyway , you have very nice people work for you and we all give it the good old college try .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But I am scared to order it again .</Tokens>
+		<POS>CC PRP VBP VBN TO VB PRP RB .</POS>
+		<Lemma>but I be scare to order it again .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>PS you did refund my gift card , but I was charged with an advertising cost , I think .</Tokens>
+		<POS>NNP PRP VBD NN PRP$ NN NN , CC PRP VBD VBN IN DT NN NN , PRP VBP .</POS>
+		<Lemma>PS you do refund my gift card , but I be charge with a advertising cost , I think .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Oh well .</Tokens>
+		<POS>UH UH .</POS>
+		<Lemma>oh well .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Thanks again .</Tokens>
+		<POS>NNS RB .</POS>
+		<Lemma>thanks again .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Betty</Tokens>
+		<POS>NNP</POS>
+		<Lemma>Betty</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I find this device very simple to use , and I 'm enjoying listening to audiofiles while I drive .</Tokens>
+		<POS>PRP VBP DT NN RB JJ TO VB , CC PRP VBP VBG VBG TO NNS IN PRP VBP .</POS>
+		<Lemma>I find this device very simple to use , and I be enjoy listen to audiofile while I drive .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The sound quality seems pretty good to me .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ TO PRP .</POS>
+		<Lemma>the sound quality seem pretty good to I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very happy !</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very happy !</Lemma>
+	</Sentence>
+</Document>

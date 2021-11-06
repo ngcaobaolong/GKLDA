@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased two of these monitors to go in a 3 monitor configuration along with the Acer 3D GD235HZ <a href="http://www.amazon.com/gp/product/B0035KC3R0/ref=cm_cr_asin_lnk/192-5604635-1610732"> Acer GD235HZbid Widescreen 23.6 '' 3D LCD Display </a> .</Tokens>
+		<POS>PRP VBD CD IN DT NNS TO VB IN DT CD NN NN IN IN DT NNP NN NN NN NNP NNP NNP CD '' NN NNS VBP NN .</POS>
+		<Lemma>I purchase two of these monitor to go in a 3 monitor configuration along with the Acer 3d gd235hz <a href="http://www.amazon.com/gp/product/b0035kc3r0/ref=cm_cr_asin_lnk/192-5604635-1610732"> Acer GD235HZbid Widescreen 23.6 '' 3d lcd display </a> .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These monitors are really good for the price .</Tokens>
+		<POS>DT NNS VBP RB JJ IN DT NN .</POS>
+		<Lemma>these monitor be really good for the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are pretty large and have a very sleek look .</Tokens>
+		<POS>PRP VBP RB JJ CC VBP DT RB JJ NN .</POS>
+		<Lemma>they be pretty large and have a very sleek look .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only downside is they do not have an HDMI input like the GD235HZ .</Tokens>
+		<POS>DT JJ NN VBZ PRP VBP RB VB DT NN NN IN DT NN .</POS>
+		<Lemma>the only downside be they do not have a hdmus input like the gd235hz .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This did n't matter to me but I know it may affect some people 's decision .</Tokens>
+		<POS>DT VBD RB VB TO PRP CC PRP VBP PRP MD VB DT NNS POS NN .</POS>
+		<Lemma>this do not matter to I but I know it may affect some people 's decision .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I highly recommend these monitors and I especially love the 3 monitor configuration with the 3D capabilities that the Acer GD235HZ provides .</Tokens>
+		<POS>PRP RB VB DT NNS CC PRP RB VBP DT CD NN NN IN DT NN NNS IN DT NNP NN VBZ .</POS>
+		<Lemma>I highly recommend these monitor and I especially love the 3 monitor configuration with the 3d capability that the Acer gd235hz provide .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>lv this product since it WW approved it is a great filling food .</Tokens>
+		<POS>NN DT NN IN PRP NN VBD PRP VBZ DT JJ VBG NN .</POS>
+		<Lemma>lv this product since it ww approve it be a great fill food .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like the fact I can order this directly from Amazon .</Tokens>
+		<POS>PRP VBP DT NN PRP MD VB DT RB IN NNP .</POS>
+		<Lemma>I like the fact I can order this directly from Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is the only way I purchase some of my items .</Tokens>
+		<POS>DT VBZ DT JJ NN PRP VBP DT IN PRP$ NNS .</POS>
+		<Lemma>this be the only way I purchase some of my item .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I like the fact I can get it in bulk</Tokens>
+		<POS>PRP VBP DT NN PRP MD VB PRP IN NN</POS>
+		<Lemma>I like the fact I can get it in bulk</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We were not happy with this camera .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NN .</POS>
+		<Lemma>we be not happy with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I suppose we were thinking the picture would turn out more like a camcorder , which maybe there is no comparison .</Tokens>
+		<POS>PRP VBP PRP VBD VBG DT NN MD VB RP JJR IN DT NN , WDT RB EX VBZ DT NN .</POS>
+		<Lemma>I suppose we be think the picture would turn out more like a camcorder , which maybe there be no comparison .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The picture is grainy , bouncy , and unclear .</Tokens>
+		<POS>DT NN VBZ JJ , JJ , CC JJ .</POS>
+		<Lemma>the picture be grainy , bouncy , and unclear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We will just fork out the money and buy an actual camcorder .</Tokens>
+		<POS>PRP MD RB NN RP DT NN CC VB DT JJ NN .</POS>
+		<Lemma>we will just fork out the money and buy a actual camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My camcorder on my smart phone works much better than the flip video .</Tokens>
+		<POS>PRP$ NN IN PRP$ JJ NN NNS RB JJR IN DT JJ NN .</POS>
+		<Lemma>my camcorder on my smart phone work much better than the flip video .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Would not buy another one ever again .</Tokens>
+		<POS>MD RB VB DT CD RB RB .</POS>
+		<Lemma>would not buy another one ever again .</Lemma>
+	</Sentence>
+</Document>

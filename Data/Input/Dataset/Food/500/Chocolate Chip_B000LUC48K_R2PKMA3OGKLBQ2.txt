@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i give them in lunch box to my son occasionally .</Tokens>
+		<POS>LS VB PRP IN NN NN TO PRP$ NN RB .</POS>
+		<Lemma>i give they in lunch box to my son occasionally .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The best price I could find was here in amazon .</Tokens>
+		<POS>DT JJS NN PRP MD VB VBD RB IN NN .</POS>
+		<Lemma>the best price I could find be here in amazon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Sometimes costco carries them but its a hit or a miss .</Tokens>
+		<POS>RB NN VBZ PRP CC PRP$ DT NN CC DT VBP .</POS>
+		<Lemma>sometimes costco carry they but its a hit or a miss .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great tasting cookies in perfect portions .</Tokens>
+		<POS>JJ NN NNS IN JJ NNS .</POS>
+		<Lemma>great tasting cookie in perfect portion .</Lemma>
+	</Sentence>
+</Document>

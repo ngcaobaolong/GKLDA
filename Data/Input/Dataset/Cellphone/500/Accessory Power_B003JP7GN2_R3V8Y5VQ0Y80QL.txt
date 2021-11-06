@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Going by the product description it was n't really clear what I was getting .</Tokens>
+		<POS>VBG IN DT NN NN PRP VBD RB RB JJ WP PRP VBD VBG .</POS>
+		<Lemma>go by the product description it be not really clear what I be get .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was looking for a car charger for my phone .</Tokens>
+		<POS>PRP VBD VBG IN DT NN NN IN PRP$ NN .</POS>
+		<Lemma>I be look for a car charger for my phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When I got it , by the way it got to me pretty fast , I was really impressed .</Tokens>
+		<POS>WRB PRP VBD PRP , IN DT NN PRP VBD TO PRP RB RB , PRP VBD RB JJ .</POS>
+		<Lemma>when I get it , by the way it get to I pretty fast , I be really impressed .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What a versatile little device .</Tokens>
+		<POS>WP DT JJ JJ NN .</POS>
+		<Lemma>what a versatile little device .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It came with 4 different USB cables .</Tokens>
+		<POS>PRP VBD IN CD JJ JJ NNS .</POS>
+		<Lemma>it come with 4 different usb cable .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You can put in either a square 9V battery or 2 AA batteries to give your phone or ipod or whatever device you want to charge a boost , it even came with a european electrical adapter -LRB- how did they know I am german lol -RRB- .</Tokens>
+		<POS>PRP MD VB IN CC DT JJ NN NN CC CD NN NNS TO VB PRP$ NN CC NN CC WDT NN PRP VBP TO VB DT NN , PRP RB VBD IN DT JJ JJ NN -LRB- WRB VBD PRP VBP PRP VBP JJ NN -RRB- .</POS>
+		<Lemma>you can put in either a square 9v battery or 2 aa battery to give you phone or ipod or whatever device you want to charge a boost , it even come with a european electrical adapter -lrb- how do they know I be german lol -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So all in all I am really impressed with this nifty little device and it is definitely worth it !</Tokens>
+		<POS>RB DT IN DT PRP VBP RB JJ IN DT JJ JJ NN CC PRP VBZ RB JJ PRP .</POS>
+		<Lemma>so all in all I be really impressed with this nifty little device and it be definitely worth it !</Lemma>
+	</Sentence>
+</Document>

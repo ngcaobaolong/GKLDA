@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this for my wife 's Volkswagen Passat .</Tokens>
+		<POS>PRP VBD DT IN PRP$ NN POS NNP NNP .</POS>
+		<Lemma>I purchase this for my wife 's Volkswagen Passat .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Rather than install an after market radio with an AUX input , we decided to try this .</Tokens>
+		<POS>RB IN VB DT IN NN NN IN DT NNP NN , PRP VBD TO VB DT .</POS>
+		<Lemma>rather than install a after market radio with a AUX input , we decide to try this .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I myself have a radio with an AUX input in my car .</Tokens>
+		<POS>PRP PRP VBP DT NN IN DT NNP NN IN PRP$ NN .</POS>
+		<Lemma>I myself have a radio with a AUX input in my car .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After seeing this , I 'm getting one for myself .</Tokens>
+		<POS>IN VBG DT , PRP VBP VBG CD IN PRP .</POS>
+		<Lemma>after see this , I be get one for myself .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The quality of the music sounds really good .</Tokens>
+		<POS>DT NN IN DT NN VBZ RB JJ .</POS>
+		<Lemma>the quality of the music sound really good .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've tried other FM transmitters in the past but often turned away from them because static was almost constant .</Tokens>
+		<POS>PRP VBP VBN JJ NNP NNS IN DT NN CC RB VBD RB IN PRP IN JJ VBD RB JJ .</POS>
+		<Lemma>I have try other FM transmitter in the past but often turn away from they because static be almost constant .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>That is not the case with this product .</Tokens>
+		<POS>DT VBZ RB DT NN IN DT NN .</POS>
+		<Lemma>that be not the case with this product .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This product also eliminates the need for a cell phone charger and AUX cable like I have in my car .</Tokens>
+		<POS>DT NN RB VBZ DT NN IN DT NN NN NN CC NNP NN IN PRP VBP IN PRP$ NN .</POS>
+		<Lemma>this product also eliminate the need for a cell phone charger and AUX cable like I have in my car .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It does n't run on batteries like other FM transmitters I 've seen before and though it plugs into the cigarette lighter spot , it has a power button so you can turn it off if your car is like my VW and still sends power to it even when the ignition is off .</Tokens>
+		<POS>PRP VBZ RB VB IN NNS IN JJ NNP NNS PRP VBP VBN IN CC IN PRP VBZ IN DT NN JJR NN , PRP VBZ DT NN NN IN PRP MD VB PRP RP IN PRP$ NN VBZ IN PRP$ NNP CC RB VBZ NN TO PRP RB WRB DT NN VBZ RB .</POS>
+		<Lemma>it do not run on battery like other FM transmitter I have see before and though it plug into the cigarette lighter spot , it have a power button so you can turn it off if you car be like my VW and still send power to it even when the ignition be off .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Another great thing about this is it matches the lighting in my VW , blue and red .</Tokens>
+		<POS>DT JJ NN IN DT VBZ PRP VBZ DT NN IN PRP$ NNP , JJ CC JJ .</POS>
+		<Lemma>another great thing about this be it match the lighting in my VW , blue and red .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would recommend this product to anyone !</Tokens>
+		<POS>PRP MD VB DT NN TO NN .</POS>
+		<Lemma>I would recommend this product to anyone !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wonderful Popcorn .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>wonderful popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Usually I drown my popcorn in butter and salt but this is good plain .</Tokens>
+		<POS>RB PRP VB PRP$ NN IN NN CC NN CC DT VBZ JJ NN .</POS>
+		<Lemma>usually I drown my popcorn in butter and salt but this be good plain .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have never eaten plain popcorn before so that is saying something .</Tokens>
+		<POS>PRP VBP RB VBN JJ NN IN RB DT VBZ VBG NN .</POS>
+		<Lemma>I have never eat plain popcorn before so that be say something .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It pops very well in our hot air popper so it is fat free snack and kernals pop very large .</Tokens>
+		<POS>PRP VBZ RB RB IN PRP$ JJ NN NN IN PRP VBZ JJ JJ NN CC NNS VBP RB JJ .</POS>
+		<Lemma>it pop very well in we hot air popper so it be fat free snack and kernal pop very large .</Lemma>
+	</Sentence>
+</Document>

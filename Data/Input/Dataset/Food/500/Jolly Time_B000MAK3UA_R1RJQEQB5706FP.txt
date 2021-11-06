@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is the tastiest of all the 100 calorie varieties I 've tried .</Tokens>
+		<POS>DT NN VBZ DT JJS IN DT DT CD NN NNS PRP VBP VBN .</POS>
+		<Lemma>this popcorn be the tastiest of all the 100 calorie variety I have try .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's hard to find in the grocery stores for this price per unit .</Tokens>
+		<POS>PRP VBZ JJ TO VB IN DT NN NNS IN DT NN IN NN .</POS>
+		<Lemma>it be hard to find in the grocery store for this price per unit .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No more running out of our favorite snack since we 're able to buy it in bulk !</Tokens>
+		<POS>DT RBR VBG IN IN PRP$ JJ NN IN PRP VBP JJ TO VB PRP IN NN .</POS>
+		<Lemma>no more run out of we favorite snack since we be able to buy it in bulk !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm so glad I found it here !</Tokens>
+		<POS>PRP VBP RB JJ PRP VBD PRP RB .</POS>
+		<Lemma>I be so glad I find it here !</Lemma>
+	</Sentence>
+</Document>

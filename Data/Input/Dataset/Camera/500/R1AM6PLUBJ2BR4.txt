@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm not a photographer , so I ca n't comment much on quality , but this camera just feels frustratingly sluggish .</Tokens>
+		<POS>PRP VBP RB DT NNP , RB PRP MD RB VB RB IN NN , CC DT NN RB VBZ RB JJ .</POS>
+		<Lemma>I be not a photographer , so I can not comment much on quality , but this camera just feel frustratingly sluggish .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is slow to turn on be ready to shoot , slow to focus slow between shots , especially if you 're using the flash , then it 's REALLY slow , do n't plan to take more than one shot every 10 seconds ...</Tokens>
+		<POS>PRP VBZ JJ TO VB RP CC VB JJ TO VB , VB TO VB CC VB IN NNS , RB IN PRP VBP VBG DT NN , RB PRP VBZ RB JJ , VBP RB VB TO VB JJR IN CD NN DT CD NNS :</POS>
+		<Lemma>it be slow to turn on be ready to shoot , slow to focus slow between shot , especially if you be use the flash , then it be really slow , do not plan to take more than one shot every 10 seconds ...</Lemma>
+	</Sentence>
+</Document>

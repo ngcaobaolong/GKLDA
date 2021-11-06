@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to avoid having to bring multiple chargers on family vacations and this little gem has survived it 's first trip .</Tokens>
+		<POS>PRP VBD DT TO VB VBG TO VB JJ NNS IN NN NNS CC DT JJ NN VBZ VBN PRP VBZ JJ NN .</POS>
+		<Lemma>I buy this to avoid have to bring multiple charger on family vacation and this little gem have survive it be first trip .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I used it to charge 2 different Blackberries that use 2 different USB types , as well as Sansa music players .</Tokens>
+		<POS>PRP VBD PRP TO VB CD JJ NNS WDT VBP CD JJ JJ NNS , RB RB IN NNP NN NNS .</POS>
+		<Lemma>I use it to charge 2 different blackberry that use 2 different usb type , as well as Sansa music player .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No need to bring seperate car and wall chargers anymore !</Tokens>
+		<POS>DT NN TO VB JJ NN CC NN NNS RB .</POS>
+		<Lemma>no need to bring seperate car and wall charger anymore !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The unit seems to have a solid build .</Tokens>
+		<POS>DT NN VBZ TO VB DT JJ VB .</POS>
+		<Lemma>the unit seem to have a solid build .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Since it provides plain USB power I expect to use this for years to come as more devices enter our lives .</Tokens>
+		<POS>IN PRP VBZ JJ JJ NN PRP VBP TO VB DT IN NNS TO VB RB JJR NNS VBP PRP$ NNS .</POS>
+		<Lemma>since it provide plain usb power I expect to use this for year to come as more device enter we life .</Lemma>
+	</Sentence>
+</Document>

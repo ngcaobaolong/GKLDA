@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The OEM Motorola Droid is no different than the Palm Treo Pro in one respect .</Tokens>
+		<POS>DT NNP NNP NNP VBZ DT JJ IN DT NNP NNP FW IN CD NN .</POS>
+		<Lemma>the OEM Motorola Droid be no different than the Palm Treo pro in one respect .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The OEM USB cables that came with each can not be replaced with Generic USB cables just because they have the same connectors on each end .</Tokens>
+		<POS>DT NNP JJ NNS WDT VBD IN DT MD RB VB VBN IN JJ JJ NNS RB IN PRP VBP DT JJ NNS IN DT NN .</POS>
+		<Lemma>the OEM usb cable that come with each can not be replace with generic usb cable just because they have the same connector on each end .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am in a battle with one Ebay seller who sold me what was titled as OEM Motorola Droid A855 USB cable .</Tokens>
+		<POS>PRP VBP IN DT NN IN CD NNP NN WP VBD PRP WP VBD VBN IN NNP NNP NNP NN JJ NN .</POS>
+		<Lemma>I be in a battle with one Ebay seller who sell I what be title as OEM Motorola Droid a855 usb cable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The cable was an OEM cable , so they did n't lie , but it was a Samsung OEM cable .</Tokens>
+		<POS>DT NN VBD DT NNP NN , IN PRP VBD RB VB , CC PRP VBD DT NNP NNP NN .</POS>
+		<Lemma>the cable be a OEM cable , so they do not lie , but it be a Samsung OEM cable .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In the body of the auction they say that it also fits all these other phones .</Tokens>
+		<POS>IN DT NN IN DT NN PRP VBP IN PRP RB VBZ PDT DT JJ NNS .</POS>
+		<Lemma>in the body of the auction they say that it also fit all these other phone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Just because it fits , does not mean that it works .</Tokens>
+		<POS>RB IN PRP VBZ , VBZ RB VB IN PRP VBZ .</POS>
+		<Lemma>just because it fit , do not mean that it work .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The wrong cable can send keyboard commands to the phone , and not allow data communication .</Tokens>
+		<POS>DT JJ NN MD VB NN NNS TO DT NN , CC RB VB NNS NN .</POS>
+		<Lemma>the wrong cable can send keyboard command to the phone , and not allow datum communication .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>As one other person already said , let the buyer beware .</Tokens>
+		<POS>IN CD JJ NN RB VBD , VB DT NN NN .</POS>
+		<Lemma>as one other person already say , let the buyer beware .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Do n't gamble on the USB cable to your expensive cell phone .</Tokens>
+		<POS>VBP RB VB IN DT JJ NN TO PRP$ JJ NN NN .</POS>
+		<Lemma>do not gamble on the usb cable to you expensive cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If yo damage it , you may have to pay to get it fixed .</Tokens>
+		<POS>IN NN NN PRP , PRP MD VB TO VB TO VB PRP VBN .</POS>
+		<Lemma>if yo damage it , you may have to pay to get it fix .</Lemma>
+	</Sentence>
+</Document>

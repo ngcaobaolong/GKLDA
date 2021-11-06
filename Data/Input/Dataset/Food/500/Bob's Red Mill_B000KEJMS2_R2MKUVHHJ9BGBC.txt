@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>red lentils ... nice an colorful I purchased them for their COLOR <RED> I am really not so sure there is much of a taste difference between the various colors of lentils out there ... brown , green , yellow , black and red ... BUT it sure can make a difference on how you perceive how a dish will taste sometimes just based on HOW a food looks ... by color in this case .</Tokens>
+		<POS>JJ NNS : JJ DT JJ PRP VBD PRP IN PRP$ NN NN PRP VBP RB RB RB JJ EX VBZ JJ IN DT NN NN IN DT JJ NNS IN NNS IN RB : JJ , JJ , JJ , JJ CC JJ : NNP PRP RB MD VB DT NN IN WRB PRP VBP WRB DT NN MD VB RB RB VBN IN NNP DT NN VBZ : IN NN IN DT NN .</POS>
+		<Lemma>red lentil ... nice a colorful I purchase they for they color <red> I be really not so sure there be much of a taste difference between the various color of lentil out there ... brown , green , yellow , black and red ... BUT it sure can make a difference on how you perceive how a dish will taste sometimes just base on HOW a food look ... by color in this case .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Lentils are a healthy food choice and relatively inexpensive ... though , HERE you seem to PAY for color .</Tokens>
+		<POS>NNS VBP DT JJ NN NN CC RB JJ : RB , RB PRP VBP TO VB IN NN .</POS>
+		<Lemma>lentil be a healthy food choice and relatively inexpensive ... though , here you seem to pay for color .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Lentils are VERY versatile ... from use in salads to main dishes to soups and EVEN deserts such as in cookies , cakes and puddings .</Tokens>
+		<POS>NNS VBP RB JJ : IN NN IN NNS TO JJ NNS TO NNS CC NN NNS JJ IN IN NNS , NNS CC NNS .</POS>
+		<Lemma>lentil be very versatile ... from use in salad to main dish to soup and even desert such as in cookie , cake and pudding .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There were certain recipes out there that specifically called for RED lentils , so I went with the recommendations .</Tokens>
+		<POS>EX VBD JJ NNS IN RB DT RB VBN IN NNP NNS , IN PRP VBD IN DT NNS .</POS>
+		<Lemma>there be certain recipe out there that specifically call for RED lentil , so I go with the recommendation .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Not disappointed in this purchase of Bob 's Red Mill RED Lentils .</Tokens>
+		<POS>RB VBN IN DT NN IN NNP POS NNP NNP NNP NNPS .</POS>
+		<Lemma>not disappoint in this purchase of Bob 's Red Mill RED Lentils .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would purchase again , and will continue to purchase MANY of the other fine products that Bob 's Red Mill has on the market today .</Tokens>
+		<POS>PRP MD VB RB , CC MD VB TO VB NN IN DT JJ JJ NNS WDT NNP POS NNP NNP VBZ IN DT NN NN .</POS>
+		<Lemma>I would purchase again , and will continue to purchase many of the other fine product that Bob 's Red Mill have on the market today .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Their items fit very well into my change to HEALTHIER and actually tastier diet I ascribe to these days following a stay at OSU Ross Heart Hospital last year .</Tokens>
+		<POS>PRP$ NNS VBP RB RB IN PRP$ NN TO NN CC RB JJR NN PRP VBP TO DT NNS VBG DT NN IN NNP NNP NNP NNP JJ NN .</POS>
+		<Lemma>they item fit very well into my change to healthier and actually tastier diet I ascribe to these day follow a stay at OSU Ross Heart Hospital last year .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>KEEP an eye open for the amazon $ pecials on these types of products ...</Tokens>
+		<POS>VB DT NN JJ IN DT NN $ NNS IN DT NNS IN NNS :</POS>
+		<Lemma>keep a eye open for the amazon $ pecial on these type of product ...</Lemma>
+	</Sentence>
+</Document>

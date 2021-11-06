@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The only negative feature I can speak to is that the cable is fairly stiff .</Tokens>
+		<POS>DT JJ JJ NN PRP MD VB TO VBZ IN DT NN VBZ RB JJ .</POS>
+		<Lemma>the only negative feature I can speak to be that the cable be fairly stiff .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wish it were more flexible .</Tokens>
+		<POS>PRP VBP PRP VBD RBR JJ .</POS>
+		<Lemma>I wish it be more flexible .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use it in my car 's charger and since the cable is n't flexible it gets in the way , at time , of the shifter and the console in general .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NN POS NN CC IN DT NN VBZ RB JJ PRP VBZ IN DT NN , IN NN , IN DT NN CC DT NN IN JJ .</POS>
+		<Lemma>I use it in my car 's charger and since the cable be not flexible it get in the way , at time , of the shifter and the console in general .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Other than that , the cable is fine and works as it should .</Tokens>
+		<POS>JJ IN DT , DT NN VBZ JJ CC VBZ IN PRP MD .</POS>
+		<Lemma>other than that , the cable be fine and work as it should .</Lemma>
+	</Sentence>
+</Document>

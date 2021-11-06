@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Was very happy with this camera .</Tokens>
+		<POS>VBD RB JJ IN DT NN .</POS>
+		<Lemma>be very happy with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Unfortunately I accidently opened one of the latches while snorkeling in the ocean .</Tokens>
+		<POS>RB PRP RB VBD CD IN DT VBZ IN VBG IN DT NN .</POS>
+		<Lemma>unfortunately I accidently open one of the latch while snorkele in the ocean .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Fried the camera and memory card .</Tokens>
+		<POS>NNP DT NN CC NN NN .</POS>
+		<Lemma>Fried the camera and memory card .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The latches are a little to easy to slide open .</Tokens>
+		<POS>DT VBZ VBP DT JJ TO JJ TO VB JJ .</POS>
+		<Lemma>the latch be a little to easy to slide open .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's a good value and I will buy another .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC PRP MD VB DT .</POS>
+		<Lemma>it be a good value and I will buy another .</Lemma>
+	</Sentence>
+</Document>

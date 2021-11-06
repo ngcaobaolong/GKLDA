@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These little waffles are insanely delicious .</Tokens>
+		<POS>DT JJ NNS VBP RB JJ .</POS>
+		<Lemma>these little waffle be insanely delicious .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are just the right amount of sweet and crunchy ... I would eat one every day !</Tokens>
+		<POS>PRP VBP RB DT JJ NN IN JJ CC JJ : PRP MD VB CD DT NN .</POS>
+		<Lemma>they be just the right amount of sweet and crunchy ... I would eat one every day !</Lemma>
+	</Sentence>
+</Document>

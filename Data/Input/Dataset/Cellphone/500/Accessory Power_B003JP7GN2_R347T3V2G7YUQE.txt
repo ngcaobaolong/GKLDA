@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Thanks !</Tokens>
+		<POS>NNS .</POS>
+		<Lemma>thanks !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works as expected and like I wanted !</Tokens>
+		<POS>NNP IN VBN CC IN PRP VBD .</POS>
+		<Lemma>Works as expect and like I want !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use it while traveling !</Tokens>
+		<POS>PRP VBP PRP IN VBG .</POS>
+		<Lemma>I use it while travel !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One charger with one cable goes everywhere with me !</Tokens>
+		<POS>CD NN IN CD NN VBZ RB IN PRP .</POS>
+		<Lemma>one charger with one cable go everywhere with I !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Car ... Hotel ... camping with batts ...</Tokens>
+		<POS>NN : NN : VBG IN NNS :</POS>
+		<Lemma>car ... hotel ... camp with batt ...</Lemma>
+	</Sentence>
+</Document>

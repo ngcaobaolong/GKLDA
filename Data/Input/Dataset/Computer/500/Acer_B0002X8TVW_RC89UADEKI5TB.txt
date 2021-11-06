@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was a little worried about buying a monitor unseen , but reviews on other sites were very good .</Tokens>
+		<POS>PRP VBD DT JJ JJ IN VBG DT NN JJ , CC VBZ IN JJ NNS VBD RB JJ .</POS>
+		<Lemma>I be a little worried about buy a monitor unseen , but review on other site be very good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Some LCD monitors that I have seen do not display text very well .</Tokens>
+		<POS>DT NNS VBZ IN PRP VBP VBN VBP RB VB NN RB RB .</POS>
+		<Lemma>some lcd monitor that I have see do not display text very well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This one does great .</Tokens>
+		<POS>DT CD VBZ JJ .</POS>
+		<Lemma>this one do great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Overall , a great value .</Tokens>
+		<POS>RB , DT JJ NN .</POS>
+		<Lemma>overall , a great value .</Lemma>
+	</Sentence>
+</Document>

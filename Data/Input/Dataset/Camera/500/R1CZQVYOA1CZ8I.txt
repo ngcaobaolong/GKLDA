@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i have seen some stuff on here complaining about the video of the 60D or the photo in my opinion maybe u are just to much of a beginner or need to find out how to use it .</Tokens>
+		<POS>LS VBP VBN DT NN IN RB VBG IN DT NN IN DT NN CC DT NN IN PRP$ NN RB FW VBP RB TO RB IN DT NN CC VB TO VB RP WRB TO VB PRP .</POS>
+		<Lemma>i have see some stuff on here complain about the video of the 60d or the photo in my opinion maybe u be just to much of a beginner or need to find out how to use it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>the camera is amazing i use it mostly for cinematography and time lapses and it more than gets the job done to compare to a nikon at the same price would be a waste of my time because a D7000 does n't match it and is more expensive i have used a 7D a lot i think they are pretty equal in most areas the things that make the 7D better have no purpose to me i would take the flip out screen for better angles over a magnesium body i like the 7D but not worth 500 more dollars to me .</Tokens>
+		<POS>DT NN VBZ JJ FW VBP PRP RB IN NN CC NN NNS CC PRP JJR IN VBZ DT NN VBN TO VB TO DT NN IN DT JJ NN MD VB DT NN IN PRP$ NN IN DT NN VBZ RB VB PRP CC VBZ RBR JJ FW VBP VBN DT NN DT NN FW VBP PRP VBP RB JJ IN JJS NNS DT NNS WDT VBP DT NN RBR VB DT NN TO PRP FW MD VB DT JJ IN NN IN JJR NNS IN DT NN NN FW IN DT NN CC RB JJ CD JJR NNS TO PRP .</POS>
+		<Lemma>the camera be amazing i use it mostly for cinematography and time lapse and it more than get the job do to compare to a nikon at the same price would be a waste of my time because a d7000 do not match it and be more expensive i have use a 7d a lot i think they be pretty equal in most area the thing that make the 7d better have no purpose to I i would take the flip out screen for better angle over a magnesium body i like the 7d but not worth 500 more dollar to I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>i do n't care for the specs this is hands down a great camera that has tons of potential .</Tokens>
+		<POS>LS VBP RB VB IN DT NNS DT VBZ NNS IN DT JJ NN WDT VBZ NNS IN NN .</POS>
+		<Lemma>i do not care for the spec this be hand down a great camera that have ton of potential .</Lemma>
+	</Sentence>
+</Document>

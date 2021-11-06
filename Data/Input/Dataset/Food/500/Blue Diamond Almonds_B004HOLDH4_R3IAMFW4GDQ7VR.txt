@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These things taste great but the price on Amazon swings wildly -LRB- and widely -RRB- so stock up when the prices is low .</Tokens>
+		<POS>DT NNS VBP JJ CC DT NN IN NNP NNS RB -LRB- CC RB -RRB- IN NN RB WRB DT NNS VBZ JJ .</POS>
+		<Lemma>these thing taste great but the price on Amazon swing wildly -lrb- and widely -rrb- so stock up when the price be low .</Lemma>
+	</Sentence>
+</Document>

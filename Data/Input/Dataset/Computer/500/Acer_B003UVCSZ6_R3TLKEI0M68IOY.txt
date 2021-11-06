@@ -1,0 +1,152 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Did n't buy this at Amazon .</Tokens>
+		<POS>VBD RB VB DT IN NNP .</POS>
+		<Lemma>do not buy this at Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>bot it at BBuy today as an impulse purchase to replace the 10 + y.o. LCD 15 '' monitor that was dying for the same price as Amazon $ 99 .</Tokens>
+		<POS>NN PRP IN NNP NN IN DT NN NN TO VB DT CD CC CD NNS CD '' NN WDT VBD VBG IN DT JJ NN IN NNP $ CD .</POS>
+		<Lemma>bot it at BBuy today as a impulse purchase to replace the 10 + y.o. lcd 15 '' monitor that be die for the same price as Amazon $ 99 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>-LRB- plus the $ 10 Ca .</Tokens>
+		<POS>-LRB- CC DT $ CD NN .</POS>
+		<Lemma>-lrb- plus the $ 10 ca .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>sales tax and $ 8 mandatory state fee on electronic purchases -RRB- .</Tokens>
+		<POS>NNS NN CC $ CD JJ NN NN IN JJ NNS -RRB- .</POS>
+		<Lemma>sale tax and $ 8 mandatory state fee on electronic purchase -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am surprised no one mentioned the fact there is no manual to tell you where the hidden controls and the totally hidden power switch is located .</Tokens>
+		<POS>PRP VBP JJ DT NN VBD DT NN EX VBZ DT NN TO VB PRP WRB DT JJ NNS CC DT RB JJ NN NN VBZ JJ .</POS>
+		<Lemma>I be surprised no one mention the fact there be no manual to tell you where the hidden control and the totally hidden power switch be located .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I found the 5 control button switches quickly thinking one must be a power switch .</Tokens>
+		<POS>PRP VBD DT CD NN NN VBZ RB VBG CD MD VB DT NN NN .</POS>
+		<Lemma>I find the 5 control button switch quickly think one must be a power switch .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Nope .</Tokens>
+		<POS>UH .</POS>
+		<Lemma>nope .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Went on line with my laptop -LRB- monitor was hooked to desktop -RRB- .</Tokens>
+		<POS>VBD IN NN IN PRP$ NN -LRB- NN VBD VBN TO NN -RRB- .</POS>
+		<Lemma>go on line with my laptop -lrb- monitor be hook to desktop -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Acer has no manual online but had a ONE post FAQ file .</Tokens>
+		<POS>NNP VBZ DT JJ NN CC VBD DT CD NN NN NN .</POS>
+		<Lemma>Acer have no manual online but have a one post faq file .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The one FAQ had a diagram showing where the hidden power switch was located .</Tokens>
+		<POS>DT CD NN VBD DT NN VBG WRB DT JJ NN NN VBD JJ .</POS>
+		<Lemma>the one faq have a diagram show where the hidden power switch be located .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>NEVER would have found it on my own .</Tokens>
+		<POS>NN MD VB VBN PRP IN PRP$ JJ .</POS>
+		<Lemma>never would have find it on my own .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Still do n't know what the diff .</Tokens>
+		<POS>RB VBP RB VB WP DT NN .</POS>
+		<Lemma>still do not know what the diff .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>5 control buttons do .</Tokens>
+		<POS>CD NN NNS VBP .</POS>
+		<Lemma>5 control button do .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>As mentioned , just installed it .</Tokens>
+		<POS>IN VBN , RB VBN PRP .</POS>
+		<Lemma>as mention , just install it .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Almost mite be too brite so I 'll need to figure out the controls .</Tokens>
+		<POS>RB JJ VB RB JJ IN PRP MD VB TO VB RP DT NNS .</POS>
+		<Lemma>almost mite be too brite so I 'll need to figure out the control .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Color looks fine .</Tokens>
+		<POS>NNP VBZ NN .</POS>
+		<Lemma>Color look fine .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I just need getting used to a wide vs. almost square screen .</Tokens>
+		<POS>PRP RB VBP VBG VBN TO DT JJ NN RB JJ NN .</POS>
+		<Lemma>I just need get use to a wide v. almost square screen .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Even my old laptop has a 4\/3 screen - so it will be an adjustment .</Tokens>
+		<POS>RB PRP$ JJ NN VBZ DT CD NN : IN PRP MD VB DT NN .</POS>
+		<Lemma>even my old laptop have a 4\/3 screen - so it will be a adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Will report back after I use it for a few weeks .</Tokens>
+		<POS>MD VB RB IN PRP VBP PRP IN DT JJ NNS .</POS>
+		<Lemma>will report back after I use it for a few week .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>As someone else mentioned , the stand is definitely not suitable if you need to move the monitor around .</Tokens>
+		<POS>IN NN RB VBD , DT NN VBZ RB RB JJ IN PRP VBP TO VB DT NN IN .</POS>
+		<Lemma>as someone else mention , the stand be definitely not suitable if you need to move the monitor around .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>There is no way I could find to anchor the screen to the base so it becomes one unit .</Tokens>
+		<POS>EX VBZ DT NN PRP MD VB TO VB DT NN TO DT NN IN PRP VBZ CD NN .</POS>
+		<Lemma>there be no way I could find to anchor the screen to the base so it become one unit .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>If you pick up the monitor , it lifts off the base .</Tokens>
+		<POS>IN PRP VBP RP DT NN , PRP VBZ RP DT NN .</POS>
+		<Lemma>if you pick up the monitor , it lift off the base .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>If you are going to leave it in one place , forever , like us , it is perfect .</Tokens>
+		<POS>IN PRP VBP VBG TO VB PRP IN CD NN , RB , IN PRP , PRP VBZ JJ .</POS>
+		<Lemma>if you be go to leave it in one place , forever , like we , it be perfect .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Base is small , stable , and does n't take up any usable space .</Tokens>
+		<POS>NN VBZ JJ , JJ , CC VBZ RB VB RP DT JJ NN .</POS>
+		<Lemma>base be small , stable , and do not take up any usable space .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Tilting is easy .</Tokens>
+		<POS>VBG VBZ JJ .</POS>
+		<Lemma>tilt be easy .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Unit is VERY lite .</Tokens>
+		<POS>NN VBZ RB JJ .</POS>
+		<Lemma>unit be very lite .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Unit itself is 5 stars .</Tokens>
+		<POS>NN PRP VBZ CD NNS .</POS>
+		<Lemma>unit itself be 5 star .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Lack of basic sheet just showing where switches are located , not to mention a simple manual , even online is inexcusable .</Tokens>
+		<POS>NN IN JJ NN RB VBG WRB NNS VBP JJ , RB TO VB DT JJ NN , RB NN VBZ JJ .</POS>
+		<Lemma>lack of basic sheet just show where switch be located , not to mention a simple manual , even online be inexcusable .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>I have n't run the disc the comes w. the unit .</Tokens>
+		<POS>PRP VBP RB VB DT NN DT VBZ IN DT NN .</POS>
+		<Lemma>I have not run the disc the come w. the unit .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>However , unless you have two computers , even if there is info on the disc , you could n't see it if you could n't turn it on .</Tokens>
+		<POS>RB , IN PRP VBP CD NNS , RB IN EX VBZ NN IN DT NN , PRP MD RB VB PRP IN PRP MD RB VB PRP IN .</POS>
+		<Lemma>however , unless you have two computer , even if there be info on the disc , you could not see it if you could not turn it on .</Lemma>
+	</Sentence>
+</Document>

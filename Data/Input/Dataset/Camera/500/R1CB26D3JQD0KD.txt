@@ -1,0 +1,142 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I did n't know what I was getting into .</Tokens>
+		<POS>PRP VBD RB VB WP PRP VBD VBG IN .</POS>
+		<Lemma>I do not know what I be get into .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Had to buy a lens , strap , battery adapter , lithium battery pack , battery charger , USB cable , and case .</Tokens>
+		<POS>VBD TO VB DT NN , NN , NN NN , NN NN NN , NN NN , JJ NN , CC NN .</POS>
+		<Lemma>have to buy a lens , strap , battery adapter , lithium battery pack , battery charger , usb cable , and case .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also had to download the user manual online .</Tokens>
+		<POS>RB VBD TO VB DT NN JJ NN .</POS>
+		<Lemma>also have to download the user manual online .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Almost worth paying extra to get the entire kit at WalMart for $ 599 , if it was n't for the tax .</Tokens>
+		<POS>RB JJ VBG JJ TO VB DT JJ NN IN NNP IN $ CD , IN PRP VBD RB IN DT NN .</POS>
+		<Lemma>almost worth pay extra to get the entire kit at WalMart for $ 599 , if it be not for the tax .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Since there is no battery or adapter , I can not complete my review until all the stuff comes in .</Tokens>
+		<POS>IN EX VBZ DT NN CC NN , PRP MD RB VB PRP$ NN IN PDT DT NN VBZ IN .</POS>
+		<Lemma>since there be no battery or adapter , I can not complete my review until all the stuff come in .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I just hope it works because I 've been dying to use the lens from my old K1000 .</Tokens>
+		<POS>PRP RB VBP PRP VBZ IN PRP VBP VBN VBG TO VB DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>I just hope it work because I have be die to use the lens from my old k1000 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Will complete this review later .</Tokens>
+		<POS>MD VB DT NN RB .</POS>
+		<Lemma>will complete this review later .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Just thought you 'd want to know about all the necessary accessories .</Tokens>
+		<POS>RB VBN PRP MD VB TO VB IN PDT DT JJ NNS .</POS>
+		<Lemma>just think you would want to know about all the necessary accessory .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Also , I 've been looking for cases .</Tokens>
+		<POS>RB , PRP VBP VBN VBG IN NNS .</POS>
+		<Lemma>also , I have be look for case .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>the best deal I 've found for a good , safe , padded case is at WalMart in the sporting goods section .</Tokens>
+		<POS>DT JJS NN PRP VBP VBN IN DT JJ , JJ , JJ NN VBZ IN NNP IN DT VBG NNS NN .</POS>
+		<Lemma>the best deal I have find for a good , safe , padded case be at WalMart in the sport goods section .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>There is a nice case with 3 extra pockets that is a padded cooler for 12 cans of pop .</Tokens>
+		<POS>EX VBZ DT JJ NN IN CD JJ NNS WDT VBZ DT JJ NN IN CD NNS IN NN .</POS>
+		<Lemma>there be a nice case with 3 extra pocket that be a padded cooler for 12 can of pop .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>$ 9.95 Finally got lithium battery .</Tokens>
+		<POS>$ CD RB VBD NN NN .</POS>
+		<Lemma>$ 9.95 finally get lithium battery .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>New problem : Shutter keeps flapping when I pressed the live view ` LV ' button and would n't stop .</Tokens>
+		<POS>NNP NN : NNP VBZ VBG WRB PRP VBD DT JJ NN `` NN '' NN CC MD RB VB .</POS>
+		<Lemma>New problem : Shutter keep flap when I press the live view ` lv ' button and would not stop .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Almost sent everthing back .</Tokens>
+		<POS>RB VBN VBG RB .</POS>
+		<Lemma>almost send everthe back .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Could n't find a solution to the problem .</Tokens>
+		<POS>MD RB VB DT NN TO DT NN .</POS>
+		<Lemma>could not find a solution to the problem .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Put on a lens from my old K1000 , and no problem .</Tokens>
+		<POS>VB RP DT NN IN PRP$ JJ NN , CC DT NN .</POS>
+		<Lemma>put on a lens from my old k1000 , and no problem .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Only had a problem with new DA lens that comes with the K-r kit -LRB- 18-55 -RRB- .</Tokens>
+		<POS>RB VBD DT NN IN JJ NNP NN WDT VBZ IN DT JJ NN -LRB- CD -RRB- .</POS>
+		<Lemma>only have a problem with new DA lens that come with the k-r kit -lrb- 18-55 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>After searching for a solution for several days , someone suggested cleaning the lens and camera contacts .</Tokens>
+		<POS>IN VBG IN DT NN IN JJ NNS , NN VBD VBG DT NN CC NN NNS .</POS>
+		<Lemma>after search for a solution for several day , someone suggest clean the lens and camera contact .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Completely solved the problem .</Tokens>
+		<POS>RB VBD DT NN .</POS>
+		<Lemma>completely solve the problem .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Another problem : Camera has problems with autofocus in low light .</Tokens>
+		<POS>DT NN : NNP VBZ NNS IN NN IN JJ NN .</POS>
+		<Lemma>another problem : Camera have problem with autofocus in low light .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>That seems to be the only downside so far .</Tokens>
+		<POS>DT VBZ TO VB DT JJ NN RB RB .</POS>
+		<Lemma>that seem to be the only downside so far .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Picture quality is outrageous .</Tokens>
+		<POS>NNP NN VBZ JJ .</POS>
+		<Lemma>Picture quality be outrageous .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Crystal clear and razor sharp .</Tokens>
+		<POS>NNP JJ CC NN JJ .</POS>
+		<Lemma>Crystal clear and razor sharp .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Not much to hang onto , so I will attach my old handlebar that attaches to the base .</Tokens>
+		<POS>RB JJ TO VB IN , IN PRP MD VB PRP$ JJ NN WDT VBZ TO DT NN .</POS>
+		<Lemma>not much to hang onto , so I will attach my old handlebar that attach to the base .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Old pentax k1000 20-200 lens functioned with no problems .</Tokens>
+		<POS>JJ NN CD CD NN VBD IN DT NNS .</POS>
+		<Lemma>old pentax k1000 20-200 lens function with no problem .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Best thing , my 3x adapter also works , so now I can shoot 60-600 .</Tokens>
+		<POS>JJS NN , PRP$ NN NN RB VBZ , RB RB PRP MD VB CD .</POS>
+		<Lemma>best thing , my 3x adapter also work , so now I can shoot 60-600 .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Still kinda grainy thru the lens like it was with the k1000 .</Tokens>
+		<POS>RB NN JJ NN DT NN IN PRP VBD IN DT NN .</POS>
+		<Lemma>still kinda grainy thru the lens like it be with the k1000 .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>A million different options , but I 'll think I 'll have fun with this camera .</Tokens>
+		<POS>DT CD JJ NNS , CC PRP MD VB PRP MD VB NN IN DT NN .</POS>
+		<Lemma>a million different option , but I 'll think I 'll have fun with this camera .</Lemma>
+	</Sentence>
+</Document>

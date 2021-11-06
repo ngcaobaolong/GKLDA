@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>30X zoom is nice , and video quality is quite acceptable , as long as there is enough light , and you are not zooming full range ; not as good in low light .</Tokens>
+		<POS>CD NN VBZ JJ , CC JJ NN VBZ RB JJ , RB RB IN EX VBZ JJ NN , CC PRP VBP RB VBG JJ NN : RB IN JJ IN JJ NN .</POS>
+		<Lemma>30x zoom be nice , and video quality be quite acceptable , as long as there be enough light , and you be not zoom full range ; not as good in low light .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There are 2 things about this product , though , that made me return it , and give it 2 stars .</Tokens>
+		<POS>EX VBP CD NNS IN DT NN , RB , IN VBN PRP VB PRP , CC VB PRP CD NNS .</POS>
+		<Lemma>there be 2 thing about this product , though , that make I return it , and give it 2 star .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It records the sound of it 's own zoom , and , to the lesser degree , the auto focus .</Tokens>
+		<POS>PRP VBZ DT NN IN PRP VBZ JJ NN , CC , TO DT JJR NN , DT NN NN .</POS>
+		<Lemma>it record the sound of it be own zoom , and , to the lesser degree , the auto focus .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If outside sounds are not laud , this sound is quite annoying , and spoils the video .</Tokens>
+		<POS>IN JJ NNS VBP RB VB , DT NN VBZ RB JJ , CC NNS DT NN .</POS>
+		<Lemma>if outside sound be not laud , this sound be quite annoying , and spoil the video .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The image stabilization is not nearly sufficient when zooming beyond about 20X ; it 's clearly inferior in this respect to other camcorders with similar features , like my wife 's Panasonic .</Tokens>
+		<POS>DT NN NN VBZ RB RB JJ WRB VBG IN IN NN : PRP VBZ RB JJ IN DT NN TO JJ NNS IN JJ NNS , IN PRP$ NN POS NNP .</POS>
+		<Lemma>the image stabilization be not nearly sufficient when zoom beyond about 20x ; it be clearly inferior in this respect to other camcorder with similar feature , like my wife 's Panasonic .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would n't recommend this product .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>I would not recommend this product .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Samsung has to do a lot of work to refine it .</Tokens>
+		<POS>NNP VBZ TO VB DT NN IN NN TO VB PRP .</POS>
+		<Lemma>Samsung have to do a lot of work to refine it .</Lemma>
+	</Sentence>
+</Document>

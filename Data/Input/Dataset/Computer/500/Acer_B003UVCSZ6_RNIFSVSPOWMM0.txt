@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to have as a second screen for my laptop when I am at home .</Tokens>
+		<POS>PRP VBD DT TO VB IN DT JJ NN IN PRP$ NN WRB PRP VBP IN NN .</POS>
+		<Lemma>I buy this to have as a second screen for my laptop when I be at home .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I do n't travel around the house with it , so I wanted a good second screen .</Tokens>
+		<POS>PRP VBP RB VB IN DT NN IN PRP , IN PRP VBD DT JJ JJ NN .</POS>
+		<Lemma>I do not travel around the house with it , so I want a good second screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has helped tremendously .</Tokens>
+		<POS>PRP VBZ VBN RB .</POS>
+		<Lemma>it have help tremendously .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have it `` above '' my laptop which is simple with Win 7 -LRB- do n't know if it was easy b4 , I never had the option of extending my desktop -RRB- .</Tokens>
+		<POS>PRP VBP PRP `` JJ '' PRP$ NN WDT VBZ JJ IN NN CD -LRB- VBP RB VB IN PRP VBD JJ NN , PRP RB VBD DT NN IN VBG PRP$ NN -RRB- .</POS>
+		<Lemma>I have it `` above '' my laptop which be simple with win 7 -lrb- do not know if it be easy b4 , I never have the option of extend my desktop -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I think I 'll buy another to use at work the same way .</Tokens>
+		<POS>PRP VBP PRP MD VB DT TO VB IN NN DT JJ NN .</POS>
+		<Lemma>I think I 'll buy another to use at work the same way .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Great price , great monitor .</Tokens>
+		<POS>JJ NN , JJ NN .</POS>
+		<Lemma>great price , great monitor .</Lemma>
+	</Sentence>
+</Document>

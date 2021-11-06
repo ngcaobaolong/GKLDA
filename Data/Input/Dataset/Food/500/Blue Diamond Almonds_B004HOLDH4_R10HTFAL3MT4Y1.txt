@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love all of the Blue Diamond Almond flavors and they are my favorite snack .</Tokens>
+		<POS>PRP VBP DT IN DT NNP NNP NNP NNS CC PRP VBP PRP$ JJ NN .</POS>
+		<Lemma>I love all of the Blue Diamond Almond flavor and they be my favorite snack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one is one of my favorite flavors and I eat these almonds for a snack because I view them as being healthier than other types of snack foods .</Tokens>
+		<POS>DT NN VBZ CD IN PRP$ JJ NNS CC PRP VBP DT NNS IN DT NN IN PRP VBP PRP IN VBG JJR IN JJ NNS IN NN NNS .</POS>
+		<Lemma>this one be one of my favorite flavor and I eat these almond for a snack because I view they as be healthier than other type of snack food .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This flavor is ideal as you get the freshness of perfectly roasted almonds with just a little dose of salt .</Tokens>
+		<POS>DT NN VBZ JJ IN PRP VBP DT NN IN RB JJ NNS IN RB DT JJ NN IN NN .</POS>
+		<Lemma>this flavor be ideal as you get the freshness of perfectly roasted almond with just a little dose of salt .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One serving of these nuts is 170 Calories and it contains 6 grams of protein , 5 grams of carbohydrates , 3 grams of fiber and only 1 gram of sugar and 1 gram of saturated fat .</Tokens>
+		<POS>CD VBG IN DT NNS VBZ CD NNS CC PRP VBZ CD NNS IN NN , CD NNS IN NNS , CD NNS IN NN CC RB CD NN IN NN CC CD NN IN JJ NN .</POS>
+		<Lemma>one serve of these nut be 170 calorie and it contain 6 gram of protein , 5 gram of carbohydrate , 3 gram of fiber and only 1 gram of sugar and 1 gram of saturated fat .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You also get calcium , vitamin E and magnesium from the almonds which are good for your body , heart and bones .</Tokens>
+		<POS>PRP RB VBP NN , NN NN CC NN IN DT NNS WDT VBP JJ IN PRP$ NN , NN CC NNS .</POS>
+		<Lemma>you also get calcium , vitamin e and magnesium from the almond which be good for you body , heart and bone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would rather eat 28 of these almonds for 170 calories than 11 potato chips for the same calories and none of the dietary benefits .</Tokens>
+		<POS>PRP MD RB VB CD IN DT NNS IN CD NNS IN CD NN NNS IN DT JJ NNS CC NN IN DT JJ NNS .</POS>
+		<Lemma>I would rather eat 28 of these almond for 170 calorie than 11 potato chip for the same calorie and none of the dietary benefit .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This flavor has only 2 % of your daily intake of sodium which is good for any snack food .</Tokens>
+		<POS>DT NN VBZ RB CD NN IN PRP$ JJ NN IN NN WDT VBZ JJ IN DT NN NN .</POS>
+		<Lemma>this flavor have only 2 % of you daily intake of sodium which be good for any snack food .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The only problem with these almonds is that they taste so good you have to be able to close the can and walk away .</Tokens>
+		<POS>DT JJ NN IN DT NNS VBZ IN PRP VBP RB JJ PRP VBP TO VB JJ TO VB DT MD CC VB RB .</POS>
+		<Lemma>the only problem with these almond be that they taste so good you have to be able to close the can and walk away .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you do n't like the super bold and spicy flavors then this flavor is the perfect one for you .</Tokens>
+		<POS>IN PRP VBP RB VB DT JJ JJ CC JJ NNS RB DT NN VBZ DT JJ CD IN PRP .</POS>
+		<Lemma>if you do not like the super bold and spicy flavor then this flavor be the perfect one for you .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is as good as it gets in snack foods and good for your body and diet .</Tokens>
+		<POS>DT VBZ RB JJ IN PRP VBZ IN NN NNS CC JJ IN PRP$ NN CC NN .</POS>
+		<Lemma>this be as good as it get in snack food and good for you body and diet .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I like all of the Blue Diamond Almond products as I feel that they are healthier for you as long as you do n't overdo it in eating them .</Tokens>
+		<POS>PRP VBP DT IN DT NNP NNP NNP NNS IN PRP VBP IN PRP VBP RBR IN PRP RB RB IN PRP VBP RB VB PRP IN VBG PRP .</POS>
+		<Lemma>I like all of the Blue Diamond Almond product as I feel that they be healthier for you as long as you do not overdo it in eat they .</Lemma>
+	</Sentence>
+</Document>

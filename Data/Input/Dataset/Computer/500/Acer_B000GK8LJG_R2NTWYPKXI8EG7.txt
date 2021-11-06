@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After having a 13 in .</Tokens>
+		<POS>IN VBG DT CD IN .</POS>
+		<Lemma>after have a 13 in .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>screen this absolutely great .</Tokens>
+		<POS>NN DT RB JJ .</POS>
+		<Lemma>screen this absolutely great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pictures look as if you could walk right into them the color and calarity of the pictures .</Tokens>
+		<POS>NNP NN IN IN PRP MD VB RB IN PRP DT NN CC NN IN DT NNS .</POS>
+		<Lemma>Pictures look as if you could walk right into they the color and calarity of the picture .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Everything is so much clearer and does not hurt my eyes after use as ny older one did .</Tokens>
+		<POS>NN VBZ RB JJ JJR CC VBZ RB VB PRP$ NNS IN NN IN NN JJR CD VBD .</POS>
+		<Lemma>everything be so much clearer and do not hurt my eye after use as ny older one do .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Best investment I have made lately .</Tokens>
+		<POS>JJS NN PRP VBP VBN RB .</POS>
+		<Lemma>best investment I have make lately .</Lemma>
+	</Sentence>
+</Document>

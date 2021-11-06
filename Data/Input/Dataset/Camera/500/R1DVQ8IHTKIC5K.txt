@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm sure there are enough reviews that cover tech specs and photo savvy feedback .</Tokens>
+		<POS>PRP VBP JJ EX VBP RB VBZ IN NN NN NNS CC NN JJ NN .</POS>
+		<Lemma>I be sure there be enough review that cover tech spec and photo savvy feedback .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I own a D5000 as well as this D7000 .</Tokens>
+		<POS>PRP VBP DT NN RB RB IN DT NN .</POS>
+		<Lemma>I own a d5000 as well as this d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was very happy with the D5000 for daily use and for the initial cost staying well below professional prices , delivering above average performance .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NN IN JJ NN CC IN DT JJ NN VBG RB IN JJ NNS , VBG IN JJ NN .</POS>
+		<Lemma>I be very happy with the d5000 for daily use and for the initial cost stay well below professional price , deliver above average performance .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now , this D7000 , it 's just a must have .</Tokens>
+		<POS>RB , DT NN , PRP VBZ RB DT MD VB .</POS>
+		<Lemma>now , this d7000 , it be just a must have .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you are a Pro , I 'm sure you know enough to realize this is one incredible contender for the higher end Nikons , in a far lower price range .</Tokens>
+		<POS>IN PRP VBP DT FW , PRP VBP JJ PRP VBP RB TO VB DT VBZ CD JJ NN IN DT JJR NN NNPS , IN DT RB JJR NN NN .</POS>
+		<Lemma>if you be a pro , I be sure you know enough to realize this be one incredible contender for the higher end Nikons , in a far lower price range .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you are the Hobbyist or aspiring up and coming photographer the D7000 will take you to that next level with little effort .</Tokens>
+		<POS>IN PRP VBP DT NN CC VBG RP CC VBG NNP DT NN MD VB PRP TO DT JJ NN IN JJ NN .</POS>
+		<Lemma>if you be the hobbyist or aspire up and come photographer the d7000 will take you to that next level with little effort .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The basic Auto settings right out of the box give incredible lighting , Auto-focus and overall adjustments leaving you with pictures that almost seem airbrushed or touched up to some degree .</Tokens>
+		<POS>DT JJ NN NNS RB IN IN DT NN VB JJ NN , NN CC JJ NNS VBG PRP IN NNS WDT RB VBP JJ CC VBD RP TO DT NN .</POS>
+		<Lemma>the basic auto setting right out of the box give incredible lighting , auto-focus and overall adjustment leave you with picture that almost seem airbrushed or touch up to some degree .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's almost a shame to have so many wonderful controls and personal adjustments you can make and store on the D7000 when you 'll be so happy with the Auto-settings .</Tokens>
+		<POS>PRP VBZ RB DT NN TO VB RB JJ JJ NNS CC JJ NNS PRP MD VB CC VB IN DT NN WRB PRP MD VB RB JJ IN DT NNS .</POS>
+		<Lemma>it be almost a shame to have so many wonderful control and personal adjustment you can make and store on the d7000 when you 'll be so happy with the auto-setting .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>but once you feel more comfortable or branch out to more difficult shots , or more artistic renderings , you 'll be grateful to have a camera so accommodating on so many technical and basic levels .</Tokens>
+		<POS>CC RB PRP VBP RBR JJ CC NN IN TO RBR JJ NNS , CC JJR JJ NNS , PRP MD VB JJ TO VB DT NN RB VBG IN RB JJ JJ CC JJ NNS .</POS>
+		<Lemma>but once you feel more comfortable or branch out to more difficult shot , or more artistic rendering , you 'll be grateful to have a camera so accommodate on so many technical and basic level .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you want the tech specs , read a review anywhere from anyone and you 'll have a dressed up opinion .</Tokens>
+		<POS>IN PRP VBP DT NN NNS , VBD DT NN RB IN NN CC PRP MD VB DT VBN RP NN .</POS>
+		<Lemma>if you want the tech spec , read a review anywhere from anyone and you 'll have a dress up opinion .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you want a great camera and a sound investment , get the D7000 and rely on yourself , not reviews .</Tokens>
+		<POS>IN PRP VBP DT JJ NN CC DT JJ NN , VB DT NN CC VB IN PRP , RB NNS .</POS>
+		<Lemma>if you want a great camera and a sound investment , get the d7000 and rely on yourself , not review .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>You wo n't be sorry .</Tokens>
+		<POS>PRP MD RB VB JJ .</POS>
+		<Lemma>you will not be sorry .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This thing is great !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this thing be great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Setup and pairing with my iphone was so easy a caveman could do it .</Tokens>
+		<POS>NN CC NN IN PRP$ NN VBD RB JJ DT NN MD VB PRP .</POS>
+		<Lemma>setup and pairing with my iphone be so easy a caveman could do it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Previous reviews mentioned that it comes with cables to fit about any device ... well not quite .</Tokens>
+		<POS>JJ NNS VBD IN PRP VBZ IN NNS TO VB IN DT NN : RB RB RB .</POS>
+		<Lemma>previous review mention that it come with cable to fit about any device ... well not quite .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Mine came with a cable with audio 3.5 mm ends on it and two USB cables for telephone hookup , but none are iphone capatible , so will have to provide my own .</Tokens>
+		<POS>NNP VBD IN DT NN IN JJ CD NN VBZ IN PRP CC CD JJ NNS IN NN NN , CC NN VBP VBN JJ , RB MD VB TO VB PRP$ JJ .</POS>
+		<Lemma>Mine come with a cable with audio 3.5 mm end on it and two usb cable for telephone hookup , but none be iphone capatible , so will have to provide my own .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>A small inconvenience for me .</Tokens>
+		<POS>DT JJ NN IN PRP .</POS>
+		<Lemma>a small inconvenience for I .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I plugged the device into a 3-way lighter receptacle splitter -LRB- which also has a USB charge port -RRB- so I can also use my Whistler and Garmin .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN JJR NN NN -LRB- WDT RB VBZ DT JJ NN NN -RRB- IN PRP MD RB VB PRP$ NNP CC NNP .</POS>
+		<Lemma>I plug the device into a 3-way lighter receptacle splitter -lrb- which also have a usb charge port -rrb- so I can also use my Whistler and Garmin .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Call quality is very respectable although the other party can hear a little garbling -LRB- s sounds like f -RRB- , but not that bad at all and certainly not as bad as most bluetooth devices I 've heard .</Tokens>
+		<POS>VB NN VBZ RB JJ IN DT JJ NN MD VB DT JJ NN -LRB- NNS VBZ IN LS -RRB- , CC RB DT JJ IN DT CC RB RB IN JJ IN JJS JJ NNS PRP VBP VBN .</POS>
+		<Lemma>call quality be very respectable although the other party can hear a little garbling -lrb- s sound like f -rrb- , but not that bad at all and certainly not as bad as most bluetooth device I have hear .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is no mention of an integrated microphone in the gogroove 's documentation , so I may have even been transmitting on my iphone 's mike .</Tokens>
+		<POS>EX VBZ DT NN IN DT VBN NN IN DT NN POS NN , IN PRP MD VB RB VBN VBG IN PRP$ NN POS NN .</POS>
+		<Lemma>there be no mention of a integrate microphone in the gogroove 's documentation , so I may have even be transmit on my iphone 's mike .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Music play will not satisfy an audiophile as some tone ranges are slightly muted .</Tokens>
+		<POS>NN NN MD RB VB DT NN IN DT NN NNS VBP RB VBN .</POS>
+		<Lemma>music play will not satisfy a audiophile as some tone range be slightly mute .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I listen to mostly pop and folk music made in the 50s and 60s , so find the audio quality to be about what we had in the 50s and 60s .</Tokens>
+		<POS>PRP VBP TO RB VB CC JJ NN VBN IN DT CD CC NNS , RB VB DT JJ NN TO VB IN WP PRP VBD IN DT CD CC NNS .</POS>
+		<Lemma>I listen to mostly pop and folk music make in the 50s and 60 , so find the audio quality to be about what we have in the 50s and 60 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 'm very happy with it .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>I be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>When I charge my iphone in the gogroove 's USB port while engine is running and music is playing the charging system can be heard as a low whine .</Tokens>
+		<POS>WRB PRP VBP PRP$ NN IN DT NN POS JJ NN IN NN VBZ VBG CC NN VBZ VBG DT VBG NN MD VB VBN IN DT JJ NN .</POS>
+		<Lemma>when I charge my iphone in the gogroove 's usb port while engine be run and music be play the charge system can be hear as a low whine .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Not bad but it 's there .</Tokens>
+		<POS>RB JJ CC PRP VBZ RB .</POS>
+		<Lemma>not bad but it be there .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>If I move the USB cord to the USB port in the same splitter that the gogroove is plugged into , the whine is not heard .</Tokens>
+		<POS>IN PRP VBP DT JJ NN TO DT JJ NN IN DT JJ NN IN DT NN VBZ VBN IN , DT NN VBZ RB VBN .</POS>
+		<Lemma>if I move the usb cord to the usb port in the same splitter that the gogroove be plug into , the whine be not hear .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>So I wo n't be charging my iphone in the gogroove 's USB port .</Tokens>
+		<POS>IN PRP MD RB VB VBG PRP$ NN IN DT NN POS JJ NN .</POS>
+		<Lemma>so I will not be charge my iphone in the gogroove 's usb port .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Not a big deal for me .</Tokens>
+		<POS>RB DT JJ NN IN PRP .</POS>
+		<Lemma>not a big deal for I .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>So ... very small footprint on my console , extremely easy to setup and control , very respectable audio for a totally wireless device .</Tokens>
+		<POS>RB : RB JJ NN IN PRP$ NN , RB JJ TO NN CC NN , RB JJ NN IN DT RB JJ NN .</POS>
+		<Lemma>so ... very small footprint on my console , extremely easy to setup and control , very respectable audio for a totally wireless device .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>What 's not to love ?</Tokens>
+		<POS>WP VBZ RB TO VB .</POS>
+		<Lemma>what be not to love ?</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>UPDATE : In discussions on this item at the bottom of this page , see a post by `` The Genie '' on how to make this device sound REALLY good .</Tokens>
+		<POS>NNP : IN NNS IN DT NN IN DT NN IN DT NN , VB DT NN IN `` DT NNP '' IN WRB TO VB DT NN NN RB JJ .</POS>
+		<Lemma>UPDATE : in discussion on this item at the bottom of this page , see a post by `` the Genie '' on how to make this device sound really good .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>With proper tuning on the FLEXSMART X2 , your player , and the car 's radio , this can be made to satisfy any but the pickiest of listeners .</Tokens>
+		<POS>IN JJ NN IN DT NNP NN , PRP$ NN , CC DT NN POS NN , DT MD VB VBN TO VB DT CC DT JJS IN NNS .</POS>
+		<Lemma>with proper tuning on the FLEXSMART x2 , you player , and the car 's radio , this can be make to satisfy any but the pickiest of listener .</Lemma>
+	</Sentence>
+</Document>

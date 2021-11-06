@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My fiance ordered this computer , she 's a teacher so she needed a small computer that would keep her from bringing work home with her .</Tokens>
+		<POS>PRP$ NN VBD DT NN , PRP VBZ DT NN IN PRP VBD DT JJ NN WDT MD VB PRP$ IN VBG NN NN IN PRP .</POS>
+		<Lemma>my fiance order this computer , she be a teacher so she need a small computer that would keep she from bring work home with she .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We got this on time , and it was brand new , perfect condition , performance as can be expected for the machine specifications , keep in mind I 'm extremely computer savvy , so my opinion comes to a lot of people .</Tokens>
+		<POS>PRP VBD DT IN NN , CC PRP VBD NN JJ , JJ NN , NN IN MD VB VBN IN DT NN NNS , VB IN NN PRP VBP RB NN NN , RB PRP$ NN VBZ TO DT NN IN NNS .</POS>
+		<Lemma>we get this on time , and it be brand new , perfect condition , performance as can be expect for the machine specification , keep in mind I be extremely computer savvy , so my opinion come to a lot of people .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I highly recommend it , she loves it and we 're both very happy with the purchase .</Tokens>
+		<POS>PRP RB VB PRP , PRP VBZ PRP CC PRP VBP DT RB JJ IN DT NN .</POS>
+		<Lemma>I highly recommend it , she love it and we be both very happy with the purchase .</Lemma>
+	</Sentence>
+</Document>

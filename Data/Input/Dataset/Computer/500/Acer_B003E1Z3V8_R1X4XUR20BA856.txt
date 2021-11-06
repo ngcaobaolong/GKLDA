@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>LOOOVE this monitor !</Tokens>
+		<POS>NN DT NN .</POS>
+		<Lemma>looove this monitor !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We use it at home and have not had an issue or a glitch since it arrived .</Tokens>
+		<POS>PRP VBP PRP IN NN CC VBP RB VBN DT NN CC DT NN IN PRP VBD .</POS>
+		<Lemma>we use it at home and have not have a issue or a glitch since it arrive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would absolutely purchase this monitor again !</Tokens>
+		<POS>PRP MD RB VB DT NN RB .</POS>
+		<Lemma>I would absolutely purchase this monitor again !</Lemma>
+	</Sentence>
+</Document>

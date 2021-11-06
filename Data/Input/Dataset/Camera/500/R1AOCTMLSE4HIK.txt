@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great camera and works wonderful as our baby monitor !</Tokens>
+		<POS>DT VBZ DT JJ NN CC VBZ JJ IN PRP$ NN NN .</POS>
+		<Lemma>this be a great camera and work wonderful as we baby monitor !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is cheaper and easier to use then a regular baby monitor .</Tokens>
+		<POS>PRP VBZ JJR CC JJR TO VB RB DT JJ NN NN .</POS>
+		<Lemma>it be cheaper and easier to use then a regular baby monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love the fact that I can watch the baby with any lighting conditions in his room from anywhere .</Tokens>
+		<POS>PRP VBP DT NN IN PRP MD VB DT NN IN DT NN NNS IN PRP$ NN IN RB .</POS>
+		<Lemma>I love the fact that I can watch the baby with any lighting condition in he room from anywhere .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The updated app - Foscam Pro for my Iphone works great .</Tokens>
+		<POS>DT VBN NN : NNP FW IN PRP$ NNP VBZ JJ .</POS>
+		<Lemma>the update app - Foscam pro for my Iphone work great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I can watch and listen anytime\/anywhere .</Tokens>
+		<POS>PRP MD VB CC VB NN .</POS>
+		<Lemma>I can watch and listen anytime\/anywhere .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The directions that came with this were horrible .</Tokens>
+		<POS>DT NNS WDT VBD IN DT VBD JJ .</POS>
+		<Lemma>the direction that come with this be horrible .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It was written in broken English with bad pictures , but you can muddle through it .</Tokens>
+		<POS>PRP VBD VBN IN JJ JJ IN JJ NNS , CC PRP MD VB IN PRP .</POS>
+		<Lemma>it be write in broken english with bad picture , but you can muddle through it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have a little tech background and I was able to set this up in about 1.5-2 hours .</Tokens>
+		<POS>PRP VBP DT JJ NN NN CC PRP VBD JJ TO VB DT RP IN IN CD NNS .</POS>
+		<Lemma>I have a little tech background and I be able to set this up in about 1.5-2 hour .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Once you get through the set up -LRB- which was not fun -RRB- the camera does everything I need great !</Tokens>
+		<POS>RB PRP VBP IN DT VBN RP -LRB- WDT VBD RB NN -RRB- DT NN VBZ NN PRP VBP JJ .</POS>
+		<Lemma>once you get through the set up -lrb- which be not fun -rrb- the camera do everything I need great !</Lemma>
+	</Sentence>
+</Document>

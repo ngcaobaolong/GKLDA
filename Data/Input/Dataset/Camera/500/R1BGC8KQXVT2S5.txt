@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the best Point and Shoot camera I 've owned .</Tokens>
+		<POS>DT VBZ DT JJS NN CC VB NN PRP VBP VBN .</POS>
+		<Lemma>this be the best point and shoot camera I have own .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does great in low lighting areas and it has so many features that make switching your camera from indoor to outdoor pictures real easy .</Tokens>
+		<POS>PRP VBZ JJ IN JJ NN NNS CC PRP VBZ RB JJ NNS WDT VBP VBG PRP$ NN IN JJ TO JJ NNS JJ JJ .</POS>
+		<Lemma>it do great in low lighting area and it have so many feature that make switch you camera from indoor to outdoor picture real easy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would highly recommend this camera .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>I would highly recommend this camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For the money , this camera is worth every penny .</Tokens>
+		<POS>IN DT NN , DT NN VBZ JJ DT NN .</POS>
+		<Lemma>for the money , this camera be worth every penny .</Lemma>
+	</Sentence>
+</Document>

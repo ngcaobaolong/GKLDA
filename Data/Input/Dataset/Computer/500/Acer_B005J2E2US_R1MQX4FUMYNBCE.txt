@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was really excited when my Acer came in the mail , and it has n't disappointed .</Tokens>
+		<POS>PRP VBD RB VBN WRB PRP$ NNP VBD IN DT NN , CC PRP VBZ RB VBN .</POS>
+		<Lemma>I be really excite when my Acer come in the mail , and it have not disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was brand new , with all the necessary programs already installed .</Tokens>
+		<POS>PRP VBD NN JJ , IN PDT DT JJ NNS RB VBN .</POS>
+		<Lemma>it be brand new , with all the necessary program already install .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's a perfect size : tiny , but with a big enough screen to comfortably watch Netflix .</Tokens>
+		<POS>PRP VBZ DT JJ NN : JJ , CC IN DT JJ JJ NN TO RB VB NNP .</POS>
+		<Lemma>it be a perfect size : tiny , but with a big enough screen to comfortably watch Netflix .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've been taking it to all of my classes .</Tokens>
+		<POS>PRP VBP VBN VBG PRP TO DT IN PRP$ NNS .</POS>
+		<Lemma>I have be take it to all of my class .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great buy !</Tokens>
+		<POS>NNP VB .</POS>
+		<Lemma>Great buy !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this camera so I wouldnt have to pay a arm and a leg just to see in complete darkness when I got it , I went into my room drew the shades and cut out the lights to see how well it worked .</Tokens>
+		<POS>VBN DT NN IN PRP VBP VBP TO VB DT NN CC DT NN RB TO VB IN JJ NN WRB PRP VBD PRP , PRP VBD IN PRP$ NN VBD DT NNS CC VB RP DT NNS TO VB WRB RB PRP VBD .</POS>
+		<Lemma>buy this camera so I wouldnt have to pay a arm and a leg just to see in complete darkness when I get it , I go into my room draw the shades and cut out the light to see how well it work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I turn on the inferred it could not see more than 8-12 feet in front of me .</Tokens>
+		<POS>WRB PRP VBP IN DT VBN PRP MD RB VB JJR IN CD NNS IN NN IN PRP .</POS>
+		<Lemma>when I turn on the infer it could not see more than 8-12 foot in front of I .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Funny thing is you know those clear stickers that come on the camera so they wont get damaged or scratched up , that sticker on the inferred\/lens part actually helps it see even farther so do not take it off .</Tokens>
+		<POS>JJ NN VBZ PRP VBP DT JJ NNS WDT VBP IN DT NN IN PRP VBP VB VBN CC VBN RP , IN NN IN DT NNS NN RB VBZ PRP VB RB RBR RB VB RB VB PRP RP .</POS>
+		<Lemma>funny thing be you know those clear sticker that come on the camera so they wont get damage or scratch up , that sticker on the inferred\/lens part actually help it see even farther so do not take it off .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I even got the infrared light to be able to see farther , no that did not help with camera what so ever .</Tokens>
+		<POS>PRP RB VBD DT JJ NN TO VB JJ TO VB RB , DT WDT VBD RB VB IN NN WDT RB RB .</POS>
+		<Lemma>I even get the infrared light to be able to see farther , no that do not help with camera what so ever .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It pretty much just boils down to if you are going to buy this camera for the infrared then do not purchase it , you will be very disapointed</Tokens>
+		<POS>PRP RB RB RB VBZ RP TO IN PRP VBP VBG TO VB DT NN IN DT JJ RB VBP RB VB PRP , PRP MD VB RB JJ</POS>
+		<Lemma>it pretty much just boil down to if you be go to buy this camera for the infrared then do not purchase it , you will be very disapointed</Lemma>
+	</Sentence>
+</Document>

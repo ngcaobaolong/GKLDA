@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This well is a little big in comparison to the DV models , but I love it , brings three different mounting bases and brings several strips to hold it , best of all is the remote control .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ IN NN TO DT NNP NNS , CC PRP VBP PRP , VBZ CD JJ VBG NNS CC VBZ JJ NNS TO VB PRP , JJS IN DT VBZ DT JJ NN .</POS>
+		<Lemma>this well be a little big in comparison to the DV model , but I love it , bring three different mount basis and bring several strip to hold it , best of all be the remote control .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recommend it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>very good video quality .</Tokens>
+		<POS>RB JJ NN NN .</POS>
+		<Lemma>very good video quality .</Lemma>
+	</Sentence>
+</Document>

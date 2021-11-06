@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor arrived in great shape , and in less time than I expected .</Tokens>
+		<POS>DT NN VBD IN JJ NN , CC IN JJR NN IN PRP VBD .</POS>
+		<Lemma>the monitor arrive in great shape , and in less time than I expect .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I removed the ancient 17-inch flat-panel monitor from the computer , connected this one , and started everything up .</Tokens>
+		<POS>PRP VBD DT JJ JJ JJ NN IN DT NN , VBN DT CD , CC VBD NN RB .</POS>
+		<Lemma>I remove the ancient 17-inch flat-panel monitor from the computer , connect this one , and start everything up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It was recognized by the operating system -LRB- Ubuntu Linux 10.04 -RRB- immediately and with no intervention on my part .</Tokens>
+		<POS>PRP VBD VBN IN DT NN NN -LRB- NNP NNP CD -RRB- RB CC IN DT NN IN PRP$ NN .</POS>
+		<Lemma>it be recognize by the operating system -lrb- Ubuntu Linux 10.04 -rrb- immediately and with no intervention on my part .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Bright , sharp and huge , especially compared to the old one I had been using .</Tokens>
+		<POS>JJ , JJ CC JJ , RB VBN TO DT JJ CD PRP VBD VBN VBG .</POS>
+		<Lemma>bright , sharp and huge , especially compare to the old one I have be use .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only problem I have had is the location and sensitivity of the power switch .</Tokens>
+		<POS>DT JJ NN PRP VBP VBN VBZ DT NN CC NN IN DT NN NN .</POS>
+		<Lemma>the only problem I have have be the location and sensitivity of the power switch .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is on the front panel at the lower right corner .</Tokens>
+		<POS>PRP VBZ IN DT JJ NN IN DT JJR NN NN .</POS>
+		<Lemma>it be on the front panel at the lower right corner .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have accidentally bumped it several times resulting in instant black screen .</Tokens>
+		<POS>PRP VBP RB VBN PRP JJ NNS VBG IN JJ JJ NN .</POS>
+		<Lemma>I have accidentally bump it several time result in instant black screen .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It would be better if the power switch was either on the bottom of the frame , or had stiffer action , or had a raised guard around it .</Tokens>
+		<POS>PRP MD VB JJR IN DT NN NN VBD RB IN DT NN IN DT NN , CC VBD JJR NN , CC VBD DT VBN NN IN PRP .</POS>
+		<Lemma>it would be better if the power switch be either on the bottom of the frame , or have stiffer action , or have a raise guard around it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Overall , I like it and would be confident in suggesting it to others .</Tokens>
+		<POS>RB , PRP VBP PRP CC MD VB JJ IN VBG PRP TO NNS .</POS>
+		<Lemma>overall , I like it and would be confident in suggest it to other .</Lemma>
+	</Sentence>
+</Document>

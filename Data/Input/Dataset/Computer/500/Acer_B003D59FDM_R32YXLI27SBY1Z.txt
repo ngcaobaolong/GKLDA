@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is excellent quality , clear picture and very good looking for my desktop computer .</Tokens>
+		<POS>DT NN VBZ JJ NN , JJ NN CC RB JJ VBG IN PRP$ NN NN .</POS>
+		<Lemma>this monitor be excellent quality , clear picture and very good look for my desktop computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Arrived very quickly .</Tokens>
+		<POS>VBN RB RB .</POS>
+		<Lemma>arrive very quickly .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would recommend this monitor .</Tokens>
+		<POS>PRP MD VB DT NN .</POS>
+		<Lemma>I would recommend this monitor .</Lemma>
+	</Sentence>
+</Document>

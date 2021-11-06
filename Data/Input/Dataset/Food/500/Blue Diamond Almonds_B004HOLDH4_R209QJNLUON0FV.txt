@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I should have been more aware of the price at local stores for this product .</Tokens>
+		<POS>PRP MD VB VBN RBR JJ IN DT NN IN JJ NNS IN DT NN .</POS>
+		<Lemma>I should have be more aware of the price at local store for this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Walgreens had these exact almonds for $ 2 less\/per bag that week .</Tokens>
+		<POS>NNP VBD DT JJ NNS IN $ CD JJR NN IN NN .</POS>
+		<Lemma>Walgreens have these exact almond for $ 2 less\/per bag that week .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are delicious , though .</Tokens>
+		<POS>PRP VBP JJ , IN .</POS>
+		<Lemma>they be delicious , though .</Lemma>
+	</Sentence>
+</Document>

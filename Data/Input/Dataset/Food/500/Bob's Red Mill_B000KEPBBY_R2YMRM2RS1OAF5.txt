@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This soup mix is amazing .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>this soup mix be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My husband and I love it and so do guests .</Tokens>
+		<POS>PRP$ NN CC PRP VBP PRP CC RB VB NNS .</POS>
+		<Lemma>my husband and I love it and so do guest .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It looks like such a small amount , but it cooks up into a huge batch .</Tokens>
+		<POS>PRP VBZ IN PDT DT JJ NN , CC PRP NNS RB IN DT JJ NN .</POS>
+		<Lemma>it look like such a small amount , but it cook up into a huge batch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's exceptionally healthy , very easy to make , and well worth the cost .</Tokens>
+		<POS>PRP VBZ RB JJ , RB JJ TO VB , CC RB IN DT NN .</POS>
+		<Lemma>it be exceptionally healthy , very easy to make , and well worth the cost .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am going to order a bunch to keep in our emergency supplies ince it 's compact ans shelf stable .</Tokens>
+		<POS>PRP VBP VBG TO VB DT NN TO VB IN PRP$ NN NNS VBP PRP VBZ JJ NNS NN JJ .</POS>
+		<Lemma>I be go to order a bunch to keep in we emergency supplies ince it be compact an shelf stable .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We did find that the soup it much more flavorful if you add a few things into it .</Tokens>
+		<POS>PRP VBD VB IN DT NN PRP RB RBR JJ IN PRP VBP DT JJ NNS IN PRP .</POS>
+		<Lemma>we do find that the soup it much more flavorful if you add a few thing into it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Our favorites are bacon , onion , and carrots .</Tokens>
+		<POS>PRP$ NNS VBP NN , NN , CC NNS .</POS>
+		<Lemma>we favorite be bacon , onion , and carrot .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I just saute them before adding the water and it helps give this soup such a great flavor .</Tokens>
+		<POS>PRP RB VBP PRP IN VBG DT NN CC PRP VBZ VB DT NN JJ DT JJ NN .</POS>
+		<Lemma>I just saute they before add the water and it help give this soup such a great flavor .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I personally like to oversalt things , so I add salt as well .</Tokens>
+		<POS>PRP RB VBP TO VB NNS , IN PRP VBP NN RB RB .</POS>
+		<Lemma>I personally like to oversalt thing , so I add salt as well .</Lemma>
+	</Sentence>
+</Document>

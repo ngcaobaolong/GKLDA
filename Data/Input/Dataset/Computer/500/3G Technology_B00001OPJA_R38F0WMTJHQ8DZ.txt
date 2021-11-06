@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this monitor because of budgetary concerns .</Tokens>
+		<POS>PRP VBD DT NN IN IN JJ NNS .</POS>
+		<Lemma>I purchase this monitor because of budgetary concern .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This item was the most inexpensive 17 inch monitor available to me at the time I made the purchase .</Tokens>
+		<POS>DT NN VBD DT RBS JJ CD NN NN JJ TO PRP IN DT NN PRP VBD DT NN .</POS>
+		<Lemma>this item be the most inexpensive 17 inch monitor available to I at the time I make the purchase .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My overall experience with this monitor was very poor .</Tokens>
+		<POS>PRP$ JJ NN IN DT NN VBD RB JJ .</POS>
+		<Lemma>my overall experience with this monitor be very poor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When the screen was n't contracting or glitching the overall picture quality was poor to fair .</Tokens>
+		<POS>WRB DT NN VBD RB VBG CC VBG DT JJ NN NN VBD JJ TO JJ .</POS>
+		<Lemma>when the screen be not contract or glitch the overall picture quality be poor to fair .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've viewed numerous different monitor models since I 'm a college student and this particular monitor had as poor of picture quality as any I 've seen .</Tokens>
+		<POS>PRP VBP VBN JJ JJ NN NNS IN PRP VBP DT NN NN CC DT JJ NN VBD IN JJ IN NN NN IN DT PRP VBP VBN .</POS>
+		<Lemma>I have view numerous different monitor model since I be a college student and this particular monitor have as poor of picture quality as any I have see .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>A week out of the box and I began to see slight contractions of the screen from time to time , growing more frequent each day .</Tokens>
+		<POS>DT NN IN IN DT NN CC PRP VBD TO VB JJ NNS IN DT NN IN NN TO NN , VBG RBR JJ DT NN .</POS>
+		<Lemma>a week out of the box and I begin to see slight contraction of the screen from time to time , grow more frequent each day .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Display glitches and flashes also occurred .</Tokens>
+		<POS>NN NNS CC NNS RB VBD .</POS>
+		<Lemma>display glitch and flash also occur .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I could tell this was a `` cheap '' monitor as soon as I set it up .</Tokens>
+		<POS>PRP MD VB DT VBD DT `` JJ '' NN RB RB IN PRP VBP PRP RP .</POS>
+		<Lemma>I could tell this be a `` cheap '' monitor as soon as I set it up .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I sent it back and now will search for a better quality monitor .</Tokens>
+		<POS>PRP VBD PRP RB CC RB MD VB IN DT JJR NN NN .</POS>
+		<Lemma>I send it back and now will search for a better quality monitor .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I 'd stay away from this brand , that is , if you ever come across it again .</Tokens>
+		<POS>PRP MD VB RB IN DT NN , WDT VBZ , IN PRP RB VBP IN PRP RB .</POS>
+		<Lemma>I would stay away from this brand , that be , if you ever come across it again .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>3G Technologies ?</Tokens>
+		<POS>NNP NNPS .</POS>
+		<Lemma>3G Technologies ?</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Searches across the Net come up empty with these guys .</Tokens>
+		<POS>NNS IN DT JJ VBN RP JJ IN DT NNS .</POS>
+		<Lemma>search across the net come up empty with these guy .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Two thumbs down .</Tokens>
+		<POS>CD NNS RB .</POS>
+		<Lemma>two thumb down .</Lemma>
+	</Sentence>
+</Document>

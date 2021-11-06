@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this for my parents for Xmas .</Tokens>
+		<POS>VBN DT IN PRP$ NNS IN NNP .</POS>
+		<Lemma>buy this for my parent for Xmas .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great price !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great price !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has a good size and good quality .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC JJ NN .</POS>
+		<Lemma>it have a good size and good quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They needed a larger monitor and this will work wonderfully !</Tokens>
+		<POS>PRP VBD DT JJR NN CC DT MD VB RB .</POS>
+		<Lemma>they need a larger monitor and this will work wonderfully !</Lemma>
+	</Sentence>
+</Document>

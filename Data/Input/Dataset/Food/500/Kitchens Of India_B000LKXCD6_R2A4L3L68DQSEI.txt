@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this dish but not this brand ... The first bite was unusually salty , and the amount of oil is more than necessary for the amount packaged .</Tokens>
+		<POS>PRP VBP DT NN CC RB DT NN : DT JJ NN VBD RB JJ , CC DT NN IN NN VBZ JJR IN JJ IN DT NN VBN .</POS>
+		<Lemma>I love this dish but not this brand ... the first bite be unusually salty , and the amount of oil be more than necessary for the amount package .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I will try another one .</Tokens>
+		<POS>PRP MD VB DT CD .</POS>
+		<Lemma>I will try another one .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've tried a lot of almonds out there but I always seem to come back to these .</Tokens>
+		<POS>PRP VBP VBD DT NN IN NNS IN RB CC PRP RB VBP TO VB RB TO DT .</POS>
+		<Lemma>I have try a lot of almond out there but I always seem to come back to these .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nicely sized can and a good deal here on Amazon .</Tokens>
+		<POS>RB VBN MD CC DT JJ NN RB IN NNP .</POS>
+		<Lemma>nicely size can and a good deal here on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Lasts me a while between purchases and saves me money too .</Tokens>
+		<POS>VBZ PRP DT NN IN NNS CC VBZ PRP NN RB .</POS>
+		<Lemma>last I a while between purchase and save I money too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What can I say , they 're delicious .</Tokens>
+		<POS>WDT MD PRP VB , PRP VBP JJ .</POS>
+		<Lemma>what can I say , they be delicious .</Lemma>
+	</Sentence>
+</Document>

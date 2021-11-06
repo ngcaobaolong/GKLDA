@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This did work as a charger when plugged into the wall or my computer , but did NOT work with the AA or 9-Volt batteries .</Tokens>
+		<POS>DT VBD VB IN DT NN WRB VBN IN DT NN CC PRP$ NN , CC VBD NNP VB IN DT NN CC JJ NNS .</POS>
+		<Lemma>this do work as a charger when plug into the wall or my computer , but do NOT work with the aa or 9-volt battery .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I got a message that it was not compatible with my iPhone 4 .</Tokens>
+		<POS>PRP VBD DT NN IN PRP VBD RB JJ IN PRP$ NNP CD .</POS>
+		<Lemma>I get a message that it be not compatible with my iPhone 4 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did like the fact that it could be used on my husband 's phone as well .</Tokens>
+		<POS>PRP VBD IN DT NN IN PRP MD VB VBN IN PRP$ NN POS NN RB RB .</POS>
+		<Lemma>I do like the fact that it could be use on my husband 's phone as well .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>He has a flip phone .</Tokens>
+		<POS>PRP VBZ DT JJ NN .</POS>
+		<Lemma>he have a flip phone .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Much has already been written about this netbook , so I 'll spare those details .</Tokens>
+		<POS>RB VBZ RB VBN VBN IN DT NN , IN PRP MD VB DT NNS .</POS>
+		<Lemma>much have already be write about this netbook , so I 'll spare those detail .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , one upgrade which resulted in a huge improvement in performance was the memory .</Tokens>
+		<POS>RB , CD NN WDT VBD IN DT JJ NN IN NN VBD DT NN .</POS>
+		<Lemma>however , one upgrade which result in a huge improvement in performance be the memory .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The netbook comes with a pitiful 2GB of RAM - I was constantly getting low memory warnings whenever I had several tabs opened on a web browser .</Tokens>
+		<POS>DT NN VBZ IN DT JJ NN IN NNP : PRP VBD RB VBG JJ NN NNS WRB PRP VBD JJ NNS VBD IN DT NN NN .</POS>
+		<Lemma>the netbook come with a pitiful 2gb of RAM - I be constantly get low memory warning whenever I have several tab open on a web browser .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I replaced the stock memory with a 4GB RAM chip and immediately noticed a difference .</Tokens>
+		<POS>PRP VBD DT NN NN IN DT NN NNP NN CC RB VBD DT NN .</POS>
+		<Lemma>I replace the stock memory with a 4gb RAM chip and immediately notice a difference .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>No more low memory warnings , and everything runs smoother .</Tokens>
+		<POS>DT RBR JJ NN NNS , CC NN VBZ JJR .</POS>
+		<Lemma>no more low memory warning , and everything run smoother .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you plan to do even the lightest bit of photo editing , you need to increase the RAM on this thing .</Tokens>
+		<POS>IN PRP VBP TO VB RB DT JJS NN IN NN NN , PRP VBP TO VB DT NNP IN DT NN .</POS>
+		<Lemma>if you plan to do even the lightest bit of photo editing , you need to increase the RAM on this thing .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I recommend the <a href="http://www.amazon.com/gp/product/B006EWUP4Y/ref=cm_cr_asin_lnk/183-0072097-8672101"> Corsair Vengeance 4 GB -LRB- 1x4GB -RRB- DDR3 1600MHz PC3 204 Pin 10666 SODIMM Laptop Memory CMSX4GX3M1A1600C9 </a> chip .</Tokens>
+		<POS>PRP VBP DT NN NNP NNP CD NN -LRB- NN -RRB- NN NN NN CD NN CD NNP NN NN NN NN NN .</POS>
+		<Lemma>I recommend the <a href="http://www.amazon.com/gp/product/b006ewup4y/ref=cm_cr_asin_lnk/183-0072097-8672101"> Corsair Vengeance 4 gb -lrb- 1x4gb -rrb- ddr3 1600mhz pc3 204 pin 10666 SODIMM laptop memory cmsx4gx3m1a1600c9 </a> chip .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's the fastest one I 've found on this site .</Tokens>
+		<POS>PRP VBZ DT JJS CD PRP VBP VBN IN DT NN .</POS>
+		<Lemma>it be the fastest one I have find on this site .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>For 25 bucks , it 's the best performance bang you can get .</Tokens>
+		<POS>IN CD NNS , PRP VBZ DT JJS NN NN PRP MD VB .</POS>
+		<Lemma>for 25 buck , it be the best performance bang you can get .</Lemma>
+	</Sentence>
+</Document>

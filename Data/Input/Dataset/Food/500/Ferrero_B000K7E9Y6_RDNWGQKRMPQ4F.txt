@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm generally wary of purchasing foods of any kind online , but these arrived in great packaging and with great timing .</Tokens>
+		<POS>PRP VBP RB JJ IN VBG NNS IN DT NN NN , CC DT VBN IN JJ NN CC IN JJ NN .</POS>
+		<Lemma>I be generally wary of purchase food of any kind online , but these arrive in great packaging and with great timing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Recommend !</Tokens>
+		<POS>VB .</POS>
+		<Lemma>recommend !</Lemma>
+	</Sentence>
+</Document>

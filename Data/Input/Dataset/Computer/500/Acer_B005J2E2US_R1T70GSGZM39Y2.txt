@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>You have to remember what you are getting This is a basic netbook with wireless connectivity .</Tokens>
+		<POS>PRP VBP TO VB WP PRP VBP VBG DT VBZ DT JJ NN IN JJ NN .</POS>
+		<Lemma>you have to remember what you be get this be a basic netbook with wireless connectivity .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There is no optical drive but a card reader , 3 USB ports , a forward facing camera and an HDMI port .</Tokens>
+		<POS>EX VBZ DT JJ NN CC DT NN NN , CD JJ NNS , DT RB VBG NN CC DT NN NN .</POS>
+		<Lemma>there be no optical drive but a card reader , 3 usb port , a forward face camera and a hdmus port .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Our decision was deciding between this and an ipad with a keyboard for my 12 year old daughter .</Tokens>
+		<POS>PRP$ NN VBD VBG IN DT CC DT NN IN DT NN IN PRP$ CD NN JJ NN .</POS>
+		<Lemma>we decision be decide between this and a ipad with a keyboard for my 12 year old daughter .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This won out hands down .</Tokens>
+		<POS>DT VBD RP NNS RB .</POS>
+		<Lemma>this win out hand down .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Why ?</Tokens>
+		<POS>WRB .</POS>
+		<Lemma>why ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>After you remove all the preinstalled bloatware the performance improves markedly .</Tokens>
+		<POS>IN PRP VB PDT DT JJ NN DT NN VBZ RB .</POS>
+		<Lemma>after you remove all the preinstalled bloatware the performance improve markedly .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Throw on a non IE internet browser and you are off and running .</Tokens>
+		<POS>VB IN DT JJ JJ NN NN CC PRP VBP RB CC VBG .</POS>
+		<Lemma>throw on a non ie internet browser and you be off and run .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>You get the stripped down microsoft word and excel for free which is worth almost $ 100 dollars .</Tokens>
+		<POS>PRP VBP DT VBN RP NN NN CC VB IN JJ WDT VBZ JJ RB $ CD NNS .</POS>
+		<Lemma>you get the strip down microsoft word and excel for free which be worth almost $ 100 dollar .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I was able to get it hooked up to my wireless network and printing off the wireless printer in no time .</Tokens>
+		<POS>PRP VBD JJ TO VB PRP VBD RP TO PRP$ JJ NN CC NN IN DT JJ NN IN DT NN .</POS>
+		<Lemma>I be able to get it hook up to my wireless network and printing off the wireless printer in no time .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>We have used it to run HULU through the HDMI to a big screen although output is 720 dpi not 1080 .</Tokens>
+		<POS>PRP VBP VBN PRP TO VB NNP IN DT NN TO DT JJ NN IN NN VBZ CD NN RB CD .</POS>
+		<Lemma>we have use it to run HULU through the hdmus to a big screen although output be 720 dpus not 1080 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Put this up against other 11.6 inch screens and so far we have been very happy with our purchase .</Tokens>
+		<POS>VB DT RP IN JJ CD NN NNS CC RB RB PRP VBP VBN RB JJ IN PRP$ NN .</POS>
+		<Lemma>put this up against other 11.6 inch screen and so far we have be very happy with we purchase .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It did such a reasonable job we even got a second machine so there is always something around .</Tokens>
+		<POS>PRP VBD PDT DT JJ NN PRP RB VBD DT JJ NN IN EX VBZ RB NN RB .</POS>
+		<Lemma>it do such a reasonable job we even get a second machine so there be always something around .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If we had looked at an apple or dell alternate we were paying 3-4x the price for performance we did not need .</Tokens>
+		<POS>IN PRP VBD VBN IN DT NN CC NN NN PRP VBD VBG JJ DT NN IN NN PRP VBD RB VB .</POS>
+		<Lemma>if we have look at a apple or dell alternate we be pay 3-4x the price for performance we do not need .</Lemma>
+	</Sentence>
+</Document>

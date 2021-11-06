@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I luv this camera !!!</Tokens>
+		<POS>PRP VBP DT NN IN</POS>
+		<Lemma>I luv this camera !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was looking for a camera with a good build quality user-friendly features .</Tokens>
+		<POS>PRP VBD VBG IN DT NN IN DT JJ VB NN CC JJ NNS .</POS>
+		<Lemma>I be look for a camera with a good build quality user-friendly feature .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This camera meet exceeded expectations ... !</Tokens>
+		<POS>DT NN VB CC VBD NNS : .</POS>
+		<Lemma>this camera meet exceed expectation ... !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Awesome point shoot with the presence and quality of high-end DSLR 's ... without the expensive price tag ... !</Tokens>
+		<POS>JJ NN CC NN IN DT NN CC NN IN JJ NNP POS : IN DT JJ NN NN : .</POS>
+		<Lemma>awesome point shoot with the presence and quality of high-end DSLR 's ... without the expensive price tag ... !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This was hands-down a -LRB- No-Regrets -RRB- purchase for me ... !!!</Tokens>
+		<POS>DT VBD JJ DT -LRB- NNS -RRB- NN IN PRP : CD</POS>
+		<Lemma>this be hands-down a -lrb- no-regret -rrb- purchase for I ... !!!</Lemma>
+	</Sentence>
+</Document>

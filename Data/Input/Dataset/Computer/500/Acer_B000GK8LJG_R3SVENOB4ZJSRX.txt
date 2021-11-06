@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>GREAT product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It worked so well that I bought another one for my home and plan on buying three more for my students ' classroom computers .</Tokens>
+		<POS>PRP VBD RB RB IN PRP VBD DT CD IN PRP$ NN CC NN IN VBG CD JJR IN PRP$ NNS POS NN NNS .</POS>
+		<Lemma>it work so well that I buy another one for my home and plan on buy three more for my student ' classroom computer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I ca n't believe such quality is so inexpensive !</Tokens>
+		<POS>PRP MD RB VB JJ NN VBZ RB JJ .</POS>
+		<Lemma>I can not believe such quality be so inexpensive !</Lemma>
+	</Sentence>
+</Document>

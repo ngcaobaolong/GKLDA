@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cable flat out does not work as advertised , I ordered 5 cables , 1 of 5 worked to transfer data and non of them worked to charge my Droid .</Tokens>
+		<POS>DT NN JJ IN VBZ RB VB IN VBN , PRP VBD CD NNS , CD IN CD VBD TO VB NNS CC JJ IN PRP VBD TO VB PRP$ NNP .</POS>
+		<Lemma>this cable flat out do not work as advertise , I order 5 cable , 1 of 5 work to transfer datum and non of they work to charge my Droid .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They did arrive quickly but were of very poor quality .</Tokens>
+		<POS>PRP VBD VB RB CC VBD IN RB JJ NN .</POS>
+		<Lemma>they do arrive quickly but be of very poor quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I ca n't stress this enough BUYER BEWARE !!!</Tokens>
+		<POS>PRP MD RB VB DT JJ NN VB IN</POS>
+		<Lemma>I can not stress this enough buyer beware !!!</Lemma>
+	</Sentence>
+</Document>

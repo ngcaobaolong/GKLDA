@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was suspicious when my camera arrived in a beat-up box with no factory seal .</Tokens>
+		<POS>PRP VBD JJ WRB PRP$ NN VBD IN DT JJ NN IN DT NN NN .</POS>
+		<Lemma>I be suspicious when my camera arrive in a beat-up box with no factory seal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was even more suspicious when the product tags were also missing .</Tokens>
+		<POS>PRP VBD RB RBR JJ WRB DT NN NNS VBD RB VBG .</POS>
+		<Lemma>I be even more suspicious when the product tag be also miss .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was extremely suspicious when the date\/time\/etc .</Tokens>
+		<POS>PRP VBD RB JJ WRB DT NN .</POS>
+		<Lemma>I be extremely suspicious when the date\/time\/etc .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>were already set .</Tokens>
+		<POS>VBD RB VBN .</POS>
+		<Lemma>be already set .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was completely convinced when the first picture I took was # 441 .</Tokens>
+		<POS>PRP VBD RB VBN WRB DT JJ NN PRP VBD VBD # CD .</POS>
+		<Lemma>I be completely convince when the first picture I take be # 441 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Check your gear .</Tokens>
+		<POS>VB PRP$ NN .</POS>
+		<Lemma>check you gear .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Make sure they are n't dumping defects and refurbs on you as if they were new !</Tokens>
+		<POS>NNP RB PRP VBP RB VBG NNS CC NNS IN PRP IN IN PRP VBD JJ .</POS>
+		<Lemma>Make sure they be not dump defect and refurb on you as if they be new !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>the reason I gave 3\/5 , instead of 4\/5 which the device actually deserves , is that there is certain quality you can get out of an FM in an area like southern california , regardless of the quality of the FM transmitter you 're using ; with lots of FM stations and FM-noises around .</Tokens>
+		<POS>DT NN PRP VBD CD , RB IN CD WDT DT NN RB VBZ , VBZ IN EX VBZ JJ NN PRP MD VB IN IN DT NN IN DT NN IN JJ NN , RB IN DT NN IN DT NNP NN PRP VBP VBG : IN NNS IN NNP NNS CC NNS IN .</POS>
+		<Lemma>the reason I give 3\/5 , instead of 4\/5 which the device actually deserve , be that there be certain quality you can get out of a fm in a area like southern californium , regardless of the quality of the FM transmitter you be use ; with lot of FM station and fm-noise around .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use it on my 2005 Mazda 3 , which to be fair , has a weeker tuner than my older 98 Camry .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ CD NNP CD , WDT TO VB JJ , VBZ DT NN NN IN PRP$ JJR CD NNP .</POS>
+		<Lemma>I use it on my 2005 Mazda 3 , which to be fair , have a weeker tuner than my older 98 Camry .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>the quality just fluctuates as the car moves around .</Tokens>
+		<POS>DT NN RB VBZ IN DT NN VBZ RB .</POS>
+		<Lemma>the quality just fluctuate as the car move around .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I take the arial noise to blame as this does not happen when the car is stationary .</Tokens>
+		<POS>PRP VBP DT JJ NN TO VB IN DT VBZ RB VB WRB DT NN VBZ JJ .</POS>
+		<Lemma>I take the arial noise to blame as this do not happen when the car be stationary .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>briefly speaking ; the quality of transmitted sound is good , but expect occasional detenuation .</Tokens>
+		<POS>RB VBG : DT NN IN JJ NN VBZ JJ , CC VBP JJ NN .</POS>
+		<Lemma>briefly speak ; the quality of transmitted sound be good , but expect occasional detenuation .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>the design of this transmitter is Cute ; except the dumb thing that the fast-forward and rewind button both have their arrows pointing to the same direction !!!</Tokens>
+		<POS>DT NN IN DT NN VBZ JJ : IN DT JJ NN IN DT JJ CC JJ NN DT VBP PRP$ NNS VBG TO DT JJ NN IN</POS>
+		<Lemma>the design of this transmitter be cute ; except the dumb thing that the fast-forward and rewind button both have they arrow point to the same direction !!!</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>you ca n't just tell which is which .</Tokens>
+		<POS>PRP MD RB RB VB WDT VBZ WDT .</POS>
+		<Lemma>you can not just tell which be which .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>my brother thought maybe they wanted to use the same part twice and did n't bother ordering a new part for another button .</Tokens>
+		<POS>PRP$ NN VBD RB PRP VBD TO VB DT JJ NN RB CC VBD RB VB VBG DT JJ NN IN DT NN .</POS>
+		<Lemma>my brother think maybe they want to use the same part twice and do not bother order a new part for another button .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>that can be the theory which makes sense as I bought EXACTLY THE SAME product from another vender under another name , and that one was like this as well : http:\/\/www.amazon.com\/gp\/product\/B003OTXBY6</Tokens>
+		<POS>WDT MD VB DT NN WDT VBZ NN IN PRP VBD NNP DT NN NN IN DT NN IN DT NN , CC IN CD VBD IN DT RB RB : NN</POS>
+		<Lemma>that can be the theory which make sense as I buy EXACTLY the same product from another vender under another name , and that one be like this as well : http:\/\/www.amazon.com\/gp\/product\/b003otxby6</Lemma>
+	</Sentence>
+</Document>

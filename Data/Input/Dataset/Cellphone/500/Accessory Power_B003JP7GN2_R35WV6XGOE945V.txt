@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the best idea yet for cell phones .</Tokens>
+		<POS>DT VBZ DT JJS NN RB IN NN NNS .</POS>
+		<Lemma>this be the best idea yet for cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>With this item there should be no excuse as to why you ca n't charge your phones .</Tokens>
+		<POS>IN DT NN RB MD VB DT NN IN TO WRB PRP MD RB VB PRP$ NNS .</POS>
+		<Lemma>with this item there should be no excuse as to why you can not charge you phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I keep this in my away bag because I and my friends always forget to bring our charger so this works great for all of our phones .</Tokens>
+		<POS>PRP VBP DT IN PRP$ RB NN IN PRP CC PRP$ NNS RB VB TO VB PRP$ NN RB DT VBZ JJ IN DT IN PRP$ NNS .</POS>
+		<Lemma>I keep this in my away bag because I and my friend always forget to bring we charger so this work great for all of we phone .</Lemma>
+	</Sentence>
+</Document>

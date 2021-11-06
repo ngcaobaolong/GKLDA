@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread is amazing .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this bread be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does not have that gritty feel to it .</Tokens>
+		<POS>PRP VBZ RB VB DT JJ NN TO PRP .</POS>
+		<Lemma>it do not have that gritty feel to it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love all Bobs Red Mill products .</Tokens>
+		<POS>PRP VBP DT NNP NNP NNP NNS .</POS>
+		<Lemma>I love all Bobs Red Mill product .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>PLUS over $ 25.00 on this item from Amazon 's super saving and its FREE shipping .</Tokens>
+		<POS>NN IN $ CD IN DT NN IN NNP POS JJ NN CC PRP$ NNP NN .</POS>
+		<Lemma>plus over $ 25.00 on this item from Amazon 's super saving and its FREE shipping .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>What more could you ask .</Tokens>
+		<POS>WDT RBR MD PRP VB .</POS>
+		<Lemma>what more could you ask .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just wanted to let everyone know how wonderful this popcorn is .</Tokens>
+		<POS>RB VBD TO VB NN VB WRB JJ DT NN VBZ .</POS>
+		<Lemma>just want to let everyone know how wonderful this popcorn be .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We just purchased a popcorn machine from Tommy 's Discount and the Great Northern Organic Popcorn was amazing , the kids really enjoyed it .</Tokens>
+		<POS>PRP RB VBD DT NN NN IN NNP POS NNP CC DT NNP NNP NNP NNP VBD JJ , DT NNS RB VBD PRP .</POS>
+		<Lemma>we just purchase a popcorn machine from Tommy 's Discount and the Great Northern Organic Popcorn be amazing , the kid really enjoy it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Try it , you will love it : -RRB-</Tokens>
+		<POS>VB PRP , PRP MD VB PRP : -RRB-</POS>
+		<Lemma>try it , you will love it : -rrb-</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had one of these for about three months and it is going bad already .</Tokens>
+		<POS>PRP VBP VBD CD IN DT IN IN CD NNS CC PRP VBZ VBG JJ RB .</POS>
+		<Lemma>I have have one of these for about three month and it be go bad already .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wo n't buy another Acer monitor .</Tokens>
+		<POS>PRP MD RB VB DT NNP NN .</POS>
+		<Lemma>I will not buy another Acer monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The low price for this monitor is because you are really only renting it for a couple of months .</Tokens>
+		<POS>DT JJ NN IN DT NN VBZ IN PRP VBP RB RB VBG PRP IN DT NN IN NNS .</POS>
+		<Lemma>the low price for this monitor be because you be really only rent it for a couple of month .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this charger after purchasing a different charger from another company , which ended up not working .</Tokens>
+		<POS>PRP VBD DT NN IN VBG DT JJ NN IN DT NN , WDT VBD RP RB VBG .</POS>
+		<Lemma>I buy this charger after purchase a different charger from another company , which end up not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So far I 've had zero problems .</Tokens>
+		<POS>RB RB PRP VBP VBD CD NNS .</POS>
+		<Lemma>so far I have have zero problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's a little bulky if you want to be super portable with it , but having both the AC and car charger options in one package is great for traveling .</Tokens>
+		<POS>PRP VBZ DT JJ JJ IN PRP VBP TO VB JJ JJ IN PRP , CC VBG CC DT NN CC NN NN NNS IN CD NN VBZ JJ IN VBG .</POS>
+		<Lemma>it be a little bulky if you want to be super portable with it , but have both the ac and car charger option in one package be great for travel .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The cover and car charger hinge seems a little flimsy but nothing has broken yet after a couple months of use .</Tokens>
+		<POS>DT NN CC NN NN NN VBZ DT JJ JJ CC NN VBZ VBN RB IN DT NN NNS IN NN .</POS>
+		<Lemma>the cover and car charger hinge seem a little flimsy but nothing have break yet after a couple month of use .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have n't tried the battery charging so I ca n't comment on that .</Tokens>
+		<POS>PRP VBP RB VBD DT NN VBG IN PRP MD RB VB IN DT .</POS>
+		<Lemma>I have not try the battery charge so I can not comment on that .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Would definitely recommend to anyone looking for a good car charger + wall charger , and it 's at a pretty good price .</Tokens>
+		<POS>MD RB VB TO NN VBG IN DT JJ NN NN CC NN NN , CC PRP VBZ IN DT RB JJ NN .</POS>
+		<Lemma>would definitely recommend to anyone look for a good car charger + wall charger , and it be at a pretty good price .</Lemma>
+	</Sentence>
+</Document>

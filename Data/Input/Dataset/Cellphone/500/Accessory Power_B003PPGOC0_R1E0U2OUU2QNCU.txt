@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>`` Bought this for my husband 's 94 ` BMW convertible and he loves it . ''</Tokens>
+		<POS>`` JJ DT IN PRP$ NN POS CD `` NNP JJ CC PRP VBZ PRP . ''</POS>
+		<Lemma>`` bought this for my husband 's 94 ` BMW convertible and he love it . ''</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>He is listening to his iPad music , his phone 's music etc. .</Tokens>
+		<POS>PRP VBZ VBG TO PRP$ JJ NN , PRP$ NN POS NN NN .</POS>
+		<Lemma>he be listen to he ipad music , he phone 's music etc. .</Lemma>
+	</Sentence>
+</Document>

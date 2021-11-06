@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I highly recommend this bread !</Tokens>
+		<POS>PRP RB VB DT NN .</POS>
+		<Lemma>I highly recommend this bread !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had found it difficult to find a high fiber , gluten-free bread at the grocery store .</Tokens>
+		<POS>PRP VBD VBN PRP JJ TO VB DT JJ NN , JJ NN IN DT NN NN .</POS>
+		<Lemma>I have find it difficult to find a high fiber , gluten-free bread at the grocery store .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This bread mix has plenty of both and is also high protein .</Tokens>
+		<POS>DT NN NN VBZ NN IN CC CC VBZ RB JJ NN .</POS>
+		<Lemma>this bread mix have plenty of both and be also high protein .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The taste is similar to rye which adds variety to the table .</Tokens>
+		<POS>DT NN VBZ JJ TO NN WDT VBZ NN TO DT NN .</POS>
+		<Lemma>the taste be similar to rye which add variety to the table .</Lemma>
+	</Sentence>
+</Document>

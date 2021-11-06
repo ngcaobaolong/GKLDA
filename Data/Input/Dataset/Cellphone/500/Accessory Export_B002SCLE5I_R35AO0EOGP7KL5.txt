@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>people please that 's why they are selling it cheap because they wan to get rid of this product it doesnt work its crap really do n't waste your time .</Tokens>
+		<POS>NNS VB DT VBZ WRB PRP VBP VBG PRP JJ IN PRP VBP TO VB JJ IN DT NN PRP VBD NN PRP$ NN RB VBP RB VB PRP$ NN .</POS>
+		<Lemma>people please that be why they be sell it cheap because they wan to get rid of this product it doesnt work its crap really do not waste you time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>tested it on blackberry no difference .</Tokens>
+		<POS>VBN PRP IN NN DT NN .</POS>
+		<Lemma>test it on blackberry no difference .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very self contained soup .</Tokens>
+		<POS>RB NN VBD NN .</POS>
+		<Lemma>very self contain soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just add salt\/pepper seasoning to your taste .</Tokens>
+		<POS>RB VB NN NN TO PRP$ NN .</POS>
+		<Lemma>just add salt\/pepper seasoning to you taste .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Its good for quick fixes or when you are too lazy to cook anything .</Tokens>
+		<POS>PRP$ JJ IN JJ NNS CC WRB PRP VBP RB JJ TO VB NN .</POS>
+		<Lemma>its good for quick fix or when you be too lazy to cook anything .</Lemma>
+	</Sentence>
+</Document>

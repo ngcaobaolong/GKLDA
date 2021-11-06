@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just as I want it , a big regular screen for big pictures .</Tokens>
+		<POS>RB IN PRP VBP PRP , DT JJ JJ NN IN JJ NNS .</POS>
+		<Lemma>just as I want it , a big regular screen for big picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I hate those wide screens .</Tokens>
+		<POS>PRP VBP DT JJ NNS .</POS>
+		<Lemma>I hate those wide screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Works as it suppose to , good pictures and good color , no problem .</Tokens>
+		<POS>NNP IN PRP VBP TO , JJ NNS CC JJ NN , DT NN .</POS>
+		<Lemma>Works as it suppose to , good picture and good color , no problem .</Lemma>
+	</Sentence>
+</Document>

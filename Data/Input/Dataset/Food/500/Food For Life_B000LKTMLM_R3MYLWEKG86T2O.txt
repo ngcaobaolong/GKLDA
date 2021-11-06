@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really enjoy eating this cereal , the nice thing is that I can add to it whatever I want , -LRB- banana , strawberries , raisins , almonds , etc -RRB- or just eat it plain .</Tokens>
+		<POS>PRP RB VBP VBG DT NN , DT JJ NN VBZ IN PRP MD VB TO PRP WDT PRP VBP , -LRB- NN , NNS , NNS , NNS , FW -RRB- CC RB VB PRP RB .</POS>
+		<Lemma>I really enjoy eat this cereal , the nice thing be that I can add to it whatever I want , -lrb- banana , strawberry , raisin , almond , etc -rrb- or just eat it plain .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I usually let it sit aside w\/milk for a few minutes so it gets a bit soft ; but I also enjoy it w\/o soaking it in milk , either way , I love it , plus its flourless : -RRB-</Tokens>
+		<POS>PRP RB VBP PRP VB RB JJ IN DT JJ NNS IN PRP VBZ DT NN JJ : CC PRP RB VBP PRP JJ VBG PRP IN NN , DT NN , PRP VBP PRP , CC PRP$ NN : -RRB-</POS>
+		<Lemma>I usually let it sit aside w\/milk for a few minute so it get a bit soft ; but I also enjoy it w\/o soak it in milk , either way , I love it , plus its flourless : -rrb-</Lemma>
+	</Sentence>
+</Document>

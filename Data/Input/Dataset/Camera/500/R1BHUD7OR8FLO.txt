@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I do n't have any complain of this product !</Tokens>
+		<POS>PRP VBP RB VB DT VB IN DT NN .</POS>
+		<Lemma>I do not have any complain of this product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>it 's an excelent camera for me and its really easy to use it for any one .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN PRP CC PRP$ RB JJ TO VB PRP IN DT CD .</POS>
+		<Lemma>it be a excelent camera for I and its really easy to use it for any one .</Lemma>
+	</Sentence>
+</Document>

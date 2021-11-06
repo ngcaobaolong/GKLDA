@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is an excellent value .</Tokens>
+		<POS>DT NN VBZ DT JJ NN .</POS>
+		<Lemma>this product be a excellent value .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As I have an LG Android phone and a '03 Honda Accord , it is perfect for this configuration .</Tokens>
+		<POS>IN PRP VBP DT NNP NNP NN CC DT CD NNP NNP , PRP VBZ JJ IN DT NN .</POS>
+		<Lemma>as I have a LG Android phone and a '03 Honda Accord , it be perfect for this configuration .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As Honda owners probably know , the Accord has a tightly integrated 6-CD changer , AM\/FM system that could be regarded as `` woven '' into the dashboard -LRB- really , really difficult to remove , esp .</Tokens>
+		<POS>IN NNP NNS RB VBP , DT NNP VBZ DT RB VBN JJ NN , NNP NN WDT MD VB VBN IN `` VBN '' IN DT NN -LRB- RB , RB JJ TO VB , NN .</POS>
+		<Lemma>as Honda owner probably know , the Accord have a tightly integrate 6-cd changer , AM\/FM system that could be regard as `` weave '' into the dashboard -lrb- really , really difficult to remove , esp .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>with the CD stack ! -RRB-</Tokens>
+		<POS>IN DT NNP VB . -RRB-</POS>
+		<Lemma>with the CD stack ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thus , I did not want to expend the effort and expense to replace the system with a new BlueTooth receiver for hands-free calling and audio streaming from the phone , just to obtain the new functionality .</Tokens>
+		<POS>RB , PRP VBD RB VB TO VB DT NN CC NN TO VB DT NN IN DT JJ NNP NN IN JJ VBG CC JJ NN IN DT NN , RB TO VB DT JJ NN .</POS>
+		<Lemma>thus , I do not want to expend the effort and expense to replace the system with a new BlueTooth receiver for hands-free call and audio streaming from the phone , just to obtain the new functionality .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Well , this Gogroove FlexSMART X2 fit the bill perfectly .</Tokens>
+		<POS>RB , DT JJ NN NN VBP DT NN RB .</POS>
+		<Lemma>well , this gogroove flexsmart x2 fit the bill perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I tuned to 106.9 MHz FM and have no issues -LRB- using in the Dallas\/Ft .</Tokens>
+		<POS>PRP VBD TO CD NNP NNP CC VBP DT NNS -LRB- VBG IN DT NNP .</POS>
+		<Lemma>I tune to 106.9 MHz FM and have no issue -lrb- use in the Dallas\/Ft .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Worth area -RRB- .</Tokens>
+		<POS>JJ NN -RRB- .</POS>
+		<Lemma>worth area -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>With phone use , people can hear me clearly and I can hear them clearly over the stereo speakers .</Tokens>
+		<POS>IN NN NN , NNS MD VB PRP RB CC PRP MD VB PRP RB IN DT NN NNS .</POS>
+		<Lemma>with phone use , people can hear I clearly and I can hear they clearly over the stereo speaker .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It pairs automatically with the phone each time I start the car , and beeps to tell me so .</Tokens>
+		<POS>PRP NNS RB IN DT NN DT NN PRP VBP DT NN , CC NNS TO VB PRP RB .</POS>
+		<Lemma>it pair automatically with the phone each time I start the car , and beep to tell I so .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The music streaming works great - very little , if no static .</Tokens>
+		<POS>DT NN NN VBZ JJ : RB RB , IN DT JJ .</POS>
+		<Lemma>the music streaming work great - very little , if no static .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Set up was easy as pie .</Tokens>
+		<POS>VB RP VBD JJ IN NN .</POS>
+		<Lemma>set up be easy as pie .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The only thing I would change -LRB- assuming there is no setting for this unit -RRB- , is to program it to remember the gain setting .</Tokens>
+		<POS>DT JJ NN PRP MD VB -LRB- VBG EX VBZ DT NN IN DT NN -RRB- , VBZ TO VB PRP TO VB DT NN NN .</POS>
+		<Lemma>the only thing I would change -lrb- assume there be no setting for this unit -rrb- , be to program it to remember the gain setting .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The unit has a gain setting -LRB- like a volume control -RRB- , that defaults to `` 10 '' .</Tokens>
+		<POS>DT NN VBZ DT NN NN -LRB- IN DT NN NN -RRB- , WDT NNS TO `` CD '' .</POS>
+		<Lemma>the unit have a gain setting -lrb- like a volume control -rrb- , that default to `` 10 '' .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>However , I like `` 15 '' for good volume on the stereo system .</Tokens>
+		<POS>RB , PRP VBP `` CD '' IN JJ NN IN DT NN NN .</POS>
+		<Lemma>however , I like `` 15 '' for good volume on the stereo system .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>When I shut off the car , it loses this value .</Tokens>
+		<POS>WRB PRP VBD RP DT NN , PRP VBZ DT NN .</POS>
+		<Lemma>when I shut off the car , it lose this value .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>When I start the car , the gain is set back to `` 10 '' .</Tokens>
+		<POS>WRB PRP VBP DT NN , DT NN VBZ VBN RP TO `` CD '' .</POS>
+		<Lemma>when I start the car , the gain be set back to `` 10 '' .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I have tried the $ 10 - $ 13 FM transmitter units and they certainly perform poorly -LRB- do n't even try them , they are so bad you 'd wish that you spent the money on a good Chilean wine instead -RRB- .</Tokens>
+		<POS>PRP VBP VBN DT $ CD : $ CD NNP NN NNS CC PRP RB VBP RB -LRB- VBP RB RB VB PRP , PRP VBP RB JJ PRP MD VB IN PRP VBD DT NN IN DT JJ JJ NN RB -RRB- .</POS>
+		<Lemma>I have try the $ 10 - $ 13 FM transmitter unit and they certainly perform poorly -lrb- do not even try they , they be so bad you would wish that you spend the money on a good chilean wine instead -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>This Gogroove works as advertised , and it works well .</Tokens>
+		<POS>DT NN VBZ IN VBN , CC PRP VBZ RB .</POS>
+		<Lemma>this gogroove work as advertise , and it work well .</Lemma>
+	</Sentence>
+</Document>

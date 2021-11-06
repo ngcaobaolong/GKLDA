@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This little thing is so cool .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>this little thing be so cool .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My girlfriend and I can both charge our phones in the car or from a regular outlet at the same time without having to lug around extra AC adapters .</Tokens>
+		<POS>PRP$ NN CC PRP MD CC VB PRP$ NNS IN DT NN CC IN DT JJ NN IN DT JJ NN IN VBG TO VB IN JJ NN NNS .</POS>
+		<Lemma>my girlfriend and I can both charge we phone in the car or from a regular outlet at the same time without have to lug around extra ac adapter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only downside to this little device is the battery powered charging ; only charges one device at a time and it 's not enough power to keep a smartphone alive .</Tokens>
+		<POS>DT JJ NN TO DT JJ NN VBZ DT NN VBD VBG : RB VBZ CD NN IN DT NN CC PRP VBZ RB JJ NN TO VB DT NN JJ .</POS>
+		<Lemma>the only downside to this little device be the battery power charge ; only charge one device at a time and it be not enough power to keep a smartphone alive .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Awesome otherwise !</Tokens>
+		<POS>JJ RB .</POS>
+		<Lemma>awesome otherwise !</Lemma>
+	</Sentence>
+</Document>

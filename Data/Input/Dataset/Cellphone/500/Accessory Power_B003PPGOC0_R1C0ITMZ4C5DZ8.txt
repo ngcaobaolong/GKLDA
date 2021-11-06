@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It works great .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it work great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Links up automatically every time I get in the car .</Tokens>
+		<POS>NNP IN RB DT NN PRP VBP IN DT NN .</POS>
+		<Lemma>Links up automatically every time I get in the car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Calls are clear .</Tokens>
+		<POS>NNS VBP JJ .</POS>
+		<Lemma>call be clear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Music is clear .</Tokens>
+		<POS>NN VBZ JJ .</POS>
+		<Lemma>music be clear .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Price is right .</Tokens>
+		<POS>NN VBZ RB .</POS>
+		<Lemma>price be right .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>People think I am super sexy .</Tokens>
+		<POS>NNS VBP PRP VBP JJ JJ .</POS>
+		<Lemma>people think I be super sexy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>They are correct , I am .</Tokens>
+		<POS>PRP VBP JJ , PRP VBP .</POS>
+		<Lemma>they be correct , I be .</Lemma>
+	</Sentence>
+</Document>

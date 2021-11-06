@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>had it for 1 year .</Tokens>
+		<POS>VBD PRP IN CD NN .</POS>
+		<Lemma>have it for 1 year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A little tweaking and it works perfect .</Tokens>
+		<POS>DT JJ NN CC PRP VBZ JJ .</POS>
+		<Lemma>a little tweaking and it work perfect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The audio is subpar but it 's suffice if you are not an audiophile .</Tokens>
+		<POS>DT NN VBZ JJ CC PRP VBZ NN IN PRP VBP RB DT NN .</POS>
+		<Lemma>the audio be subpar but it be suffice if you be not a audiophile .</Lemma>
+	</Sentence>
+</Document>

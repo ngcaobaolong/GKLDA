@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Really great , healthy soup starter !</Tokens>
+		<POS>RB JJ , JJ NN JJ .</POS>
+		<Lemma>really great , healthy soup starter !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Also great as a side dish when cooked with less liquid .</Tokens>
+		<POS>RB JJ IN DT NN NN WRB VBN IN JJR NN .</POS>
+		<Lemma>also great as a side dish when cook with less liquid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My 2 yr old could n't get enough ... he loved it !</Tokens>
+		<POS>PRP$ CD NN JJ MD RB VB RB : PRP VBD PRP .</POS>
+		<Lemma>my 2 yr old could not get enough ... he love it !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Easy to make with what you have on hand , I added a bay leaf and really like the flavor .</Tokens>
+		<POS>NNP TO VB IN WP PRP VBP IN NN , PRP VBD DT NN NN CC RB IN DT NN .</POS>
+		<Lemma>Easy to make with what you have on hand , I add a bay leaf and really like the flavor .</Lemma>
+	</Sentence>
+</Document>

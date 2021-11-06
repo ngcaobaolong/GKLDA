@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this camera for approximately 6 months and have only used it for a couple of vacations and I 've had 2 problems with it .</Tokens>
+		<POS>PRP VBP VBD DT NN IN RB CD NNS CC VBP RB VBN PRP IN DT NN IN NNS CC PRP VBP VBD CD NNS IN PRP .</POS>
+		<Lemma>I have have this camera for approximately 6 month and have only use it for a couple of vacation and I have have 2 problem with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The first one I noticed after only 2 months was the lens cover would not fully close when the camera was turned off .</Tokens>
+		<POS>DT JJ CD PRP VBD IN RB CD NNS VBD DT NN NN MD RB RB RB WRB DT NN VBD VBN RP .</POS>
+		<Lemma>the first one I notice after only 2 month be the lens cover would not fully close when the camera be turn off .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The camera still worked so I ignored this problem until just recently the lens got stuck in the extended position .</Tokens>
+		<POS>DT NN RB VBD RB PRP VBD DT NN IN RB RB DT NN VBD VBN IN DT JJ NN .</POS>
+		<Lemma>the camera still work so I ignore this problem until just recently the lens get stick in the extended position .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>At this point the camera does not work so I have to send it back for repair .</Tokens>
+		<POS>IN DT NN DT NN VBZ RB VB RB PRP VBP TO VB PRP RB IN NN .</POS>
+		<Lemma>at this point the camera do not work so I have to send it back for repair .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is the first canon camera I have ever had to send back for repairs .</Tokens>
+		<POS>DT VBZ DT JJ NN NN PRP VBP RB VBN TO VB RP IN NNS .</POS>
+		<Lemma>this be the first canon camera I have ever have to send back for repair .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>From what I have read with other people with the same problem is Canon will claim the lens is stuck due to some type of abuse or mis-handling .</Tokens>
+		<POS>IN WP PRP VBP VBN IN JJ NNS IN DT JJ NN VBZ NNP MD VB DT NN VBZ VBN JJ TO DT NN IN NN CC NN .</POS>
+		<Lemma>from what I have read with other people with the same problem be Canon will claim the lens be stick due to some type of abuse or mis-handling .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Hopefully , this will not be the case with mine but I would stay away from this camera due to it not being able to stand up to normal use .</Tokens>
+		<POS>RB , DT MD RB VB DT NN IN NN CC PRP MD VB RB IN DT NN JJ TO PRP RB VBG JJ TO VB RP TO JJ NN .</POS>
+		<Lemma>hopefully , this will not be the case with mine but I would stay away from this camera due to it not be able to stand up to normal use .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Otherwise , it was a good camera and I would be interested in hearing from anyone that can recommend a durable camera that is the same size as the 310 .</Tokens>
+		<POS>RB , PRP VBD DT JJ NN CC PRP MD VB JJ IN VBG IN NN WDT MD VB DT JJ NN WDT VBZ DT JJ NN IN DT CD .</POS>
+		<Lemma>otherwise , it be a good camera and I would be interested in hear from anyone that can recommend a durable camera that be the same size as the 310 .</Lemma>
+	</Sentence>
+</Document>

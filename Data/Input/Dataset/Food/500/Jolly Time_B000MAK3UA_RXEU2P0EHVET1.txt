@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is only 1 Weight Watcher point per bag .</Tokens>
+		<POS>DT NN VBZ RB CD NNP NNP NN IN NN .</POS>
+		<Lemma>this popcorn be only 1 Weight Watcher point per bag .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It tastes great and very filling .</Tokens>
+		<POS>PRP VBZ JJ CC RB VBG .</POS>
+		<Lemma>it taste great and very fill .</Lemma>
+	</Sentence>
+</Document>

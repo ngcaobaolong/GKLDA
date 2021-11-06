@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is AMAZING !</Tokens>
+		<POS>DT VBZ NNP .</POS>
+		<Lemma>this be AMAZING !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I gave up on GF bread over three years ago .</Tokens>
+		<POS>PRP VBD RP IN NN NN IN CD NNS RB .</POS>
+		<Lemma>I give up on gf bread over three year ago .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Many are high calorie , low fiber and taste like cake .</Tokens>
+		<POS>JJ VBP JJ NN , JJ NN CC NN IN NN .</POS>
+		<Lemma>many be high calorie , low fiber and taste like cake .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is a dark bread , which was n't previously my favorite , but finding healthy GF carbs is difficult .</Tokens>
+		<POS>DT VBZ DT JJ NN , WDT VBD RB RB PRP$ JJ , CC VBG JJ NN NNS VBZ JJ .</POS>
+		<Lemma>this be a dark bread , which be not previously my favorite , but find healthy gf carb be difficult .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was able to make a sandwich without toasting and my husband -LRB- not celiac -RRB- ate three thick slices !</Tokens>
+		<POS>PRP VBD JJ TO VB DT NN IN VBG CC PRP$ NN -LRB- RB JJ -RRB- VBD CD JJ NNS .</POS>
+		<Lemma>I be able to make a sandwich without toast and my husband -lrb- not celiac -rrb- eat three thick slice !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Mine also rose A LOT in the oven , so I ordered a 9x5 ceramic pan to replace my 8x4 nonstick .</Tokens>
+		<POS>NNP RB VBD DT NN IN DT NN , IN PRP VBD DT NN JJ NN TO VB PRP$ NN NN .</POS>
+		<Lemma>Mine also rise a lot in the oven , so I order a 9x5 ceramic pan to replace my 8x4 nonstick .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have a bread machine , but made this in the oven to avoid paddle holes .</Tokens>
+		<POS>PRP VBP DT NN NN , CC VBD DT IN DT NN TO VB NN NNS .</POS>
+		<Lemma>I have a bread machine , but make this in the oven to avoid paddle hole .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I signed up for automatic bulk delivery !</Tokens>
+		<POS>PRP VBD RP IN JJ NN NN .</POS>
+		<Lemma>I sign up for automatic bulk delivery !</Lemma>
+	</Sentence>
+</Document>

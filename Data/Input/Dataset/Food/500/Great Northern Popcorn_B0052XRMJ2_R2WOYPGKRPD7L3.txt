@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very good stuff .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very good stuff .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Pops up just like you would expect .</Tokens>
+		<POS>NNPS RP RB IN PRP MD VB .</POS>
+		<Lemma>Pops up just like you would expect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Tastes very good to me and once I deplete my stash will surely be ordering more .</Tokens>
+		<POS>NNS RB JJ TO PRP CC RB PRP VBP PRP$ NN MD RB VB VBG JJR .</POS>
+		<Lemma>taste very good to I and once I deplete my stash will surely be order more .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,122 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>DESCRIPTION : -RRB- Blue Diamond Roasted-Salted Almonds are moderately roasted with canola , safflower , or sunflower oil -LRB- but not oily or greasy -RRB- , and lightly salted .</Tokens>
+		<POS>NN : -RRB- JJ NNP NNP NNP VBP RB JJ IN NN , NN , CC NN NN -LRB- CC RB NN CC JJ -RRB- , CC RB VBN .</POS>
+		<Lemma>description : -rrb- blue Diamond Roasted-Salted Almonds be moderately roasted with canolum , safflower , or sunflower oil -lrb- but not oily or greasy -rrb- , and lightly salt .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These are `` heart healthy '' oils which are actually good for you , as is the almond oil itself .</Tokens>
+		<POS>DT VBP `` NN JJ '' NNS WDT VBP RB JJ IN PRP , IN VBZ DT JJ NN PRP .</POS>
+		<Lemma>these be `` heart healthy '' oils which be actually good for you , as be the almond oil itself .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Roasted Salted Almonds are available in bags or small cans small . -RRB-</Tokens>
+		<POS>JJ JJ NNS VBP JJ IN NNS CC JJ NNS JJ . -RRB-</POS>
+		<Lemma>roasted salted almond be available in bag or small can small . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Blue Diamond Smokehouse Almonds are similar with wonderful smokey flavor .</Tokens>
+		<POS>NNP NNP NNP NNP VBP JJ IN JJ NN NN .</POS>
+		<Lemma>Blue Diamond Smokehouse Almonds be similar with wonderful smokey flavor .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>At this time Smokehouse Almonds are available from Amazon only in 16 oz -LRB- and smaller -RRB- bags . -RRB-</Tokens>
+		<POS>IN DT NN NNP NNP VBP JJ IN NNP RB IN CD NN -LRB- CC JJR -RRB- NNS . -RRB-</POS>
+		<Lemma>at this time Smokehouse Almonds be available from Amazon only in 16 oz -lrb- and smaller -rrb- bag . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have not tried the `` lightly salted '' variety but I presume that they have almost no salt .</Tokens>
+		<POS>PRP VBP RB VBN DT `` RB VBN '' NN CC PRP VBP IN PRP VBP RB DT NN .</POS>
+		<Lemma>I have not try the `` lightly salt '' variety but I presume that they have almost no salt .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>CANS vs BAGS Various types of Blue Diamond Almonds are available in bags or small cans .</Tokens>
+		<POS>NNS CC NNS JJ NNS IN NNP NNP NNP VBP JJ IN NNS CC JJ NNS .</POS>
+		<Lemma>can vs bag various type of Blue Diamond Almonds be available in bag or small can .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The small cans -LRB- 3 1\/4 '' in diameter by 2 3\/8 '' high -RRB- are very convenient and assure that the almonds stay fresh until openned , and afterward , because they do n't stay `` openned '' long -LRB- it is easy to eat a whole can at one setting -RRB- .</Tokens>
+		<POS>DT JJ NNS -LRB- CD '' IN NN IN CD '' JJ -RRB- VBP RB JJ CC VB IN DT NNS VBP JJ IN VBN , CC RB , IN PRP VBP RB VB `` VBN '' RB -LRB- PRP VBZ JJ TO VB DT NN MD IN CD NN -RRB- .</POS>
+		<Lemma>the small can -lrb- 3 1\/4 '' in diameter by 2 3\/8 '' high -rrb- be very convenient and assure that the almond stay fresh until openn , and afterward , because they do not stay `` openn '' long -lrb- it be easy to eat a whole can at one setting -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Arguably the bags more environmentally friendly , but you do n't get much of a price break for the much cheaper packaging .</Tokens>
+		<POS>RB DT NNS RBR RB JJ , CC PRP VBP RB VB RB IN DT NN NN IN DT JJ JJR NN .</POS>
+		<Lemma>arguably the bag more environmentally friendly , but you do not get much of a price break for the much cheaper packaging .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I prefer the convenience and freshness of the cans .</Tokens>
+		<POS>PRP VBP DT NN CC NN IN DT NNS .</POS>
+		<Lemma>I prefer the convenience and freshness of the can .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>EVALUATION : Excellent and flavorful .</Tokens>
+		<POS>NN : JJ CC JJ .</POS>
+		<Lemma>evaluation : excellent and flavorful .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Well roasted and crunchy .</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>well roasted and crunchy .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I can not decide which I like best : the Roasted Salted or the Smokehouse .</Tokens>
+		<POS>PRP MD RB VB WDT PRP VBP JJS : DT NNP NNP CC DT NNP .</POS>
+		<Lemma>I can not decide which I like best : the Roasted Salted or the Smokehouse .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Although not oily , the roasting oil does effect the flavor .</Tokens>
+		<POS>IN RB RB , DT JJ NN VBZ VB DT NN .</POS>
+		<Lemma>although not oily , the roasting oil do effect the flavor .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Whether that 's a good thing or not is a matter of individual tastes .</Tokens>
+		<POS>IN DT VBZ DT JJ NN CC RB VBZ DT NN IN JJ NNS .</POS>
+		<Lemma>whether that be a good thing or not be a matter of individual taste .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I happen to like the roasted-in-oil flavor .</Tokens>
+		<POS>PRP VBP TO VB DT NN NN .</POS>
+		<Lemma>I happen to like the roasted-in-oil flavor .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>LESS ROASTED ALMONDS If you prefer less-roasted almonds , roasted without added oil , consider <a href="http://www.amazon.com/gp/product/B001COJ85G/ref=cm_cr_asin_lnk/186-1206925-2626154"> Back To Nature California Almonds , Sea Salt Roasted , 11-Ounce Pouches -LRB- Pack of 3 -RRB- </a> UNROASTED ALMONDS Unroasted almonds are available <a href="http://www.amazon.com/gp/product/B001COE1AI/ref=cm_cr_asin_lnk/186-1206925-2626154"> Back To Nature California Almonds , Unroasted & Unsalted , 11-Ounce Pouches -LRB- Pack of 3 -RRB- </a> but beware that thorough roasting makes almonds more digestable .</Tokens>
+		<POS>JJR NNP NNPS IN PRP VBP JJ NNS , JJ IN VBN NN , VB NN RB TO NNP NNP NNP , NNP NNP NNP , NNP NNP -LRB- NN IN CD -RRB- JJ NNP NNP NNP NNS VBP JJ NN RB TO NNP NNP NNP , NNP CC NNP , NNP NNP -LRB- NN IN CD -RRB- NN CC NN WDT JJ NN VBZ NNS RBR JJ .</POS>
+		<Lemma>less ROASTED ALMONDS if you prefer less-roasted almond , roasted without add oil , consider <a href="http://www.amazon.com/gp/product/b001coj85g/ref=cm_cr_asin_lnk/186-1206925-2626154"> back to Nature California Almonds , Sea Salt Roasted , 11-Ounce Pouches -lrb- pack of 3 -rrb- </a> UNROASTED ALMONDS Unroasted almond be available <a href="http://www.amazon.com/gp/product/b001coe1ai/ref=cm_cr_asin_lnk/186-1206925-2626154"> back to Nature California Almonds , Unroasted & Unsalted , 11-Ounce Pouches -lrb- pack of 3 -rrb- </a> but beware that thorough roasting make almond more digestable .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Unroasted almonds are susceptable to fungus which can be carcinogenic .</Tokens>
+		<POS>NNP NNS VBP JJ TO NN WDT MD VB JJ .</POS>
+		<Lemma>Unroasted almond be susceptable to fungus which can be carcinogenic .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>While commercial domestic almonds sold in the US do not contain significant levels of cyanide , bitter almonds , -LRB- which have a much richer almond flavor , particular in baked goods -RRB- .</Tokens>
+		<POS>IN JJ JJ NNS VBN IN DT NNP VBP RB VB JJ NNS IN NN , JJ NNS , -LRB- WDT VBP DT JJ JJR NN NN , JJ IN JJ NNS -RRB- .</POS>
+		<Lemma>while commercial domestic almond sell in the US do not contain significant level of cyanide , bitter almond , -lrb- which have a much richer almond flavor , particular in baked goods -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Indeed natural almond extract is made from bitter almonds -- artificial almond extract is safer .</Tokens>
+		<POS>RB JJ NN NN VBZ VBN IN JJ NNS : JJ JJ NN VBZ JJR .</POS>
+		<Lemma>indeed natural almond extract be make from bitter almond -- artificial almond extract be safer .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Bitter almonds are sometimes illegally sold in the US and are often encountered in other countries , and do contain dangerous levels of cyanide when raw .</Tokens>
+		<POS>JJ NNS VBP RB RB VBN IN DT NNP CC VBP RB VBN IN JJ NNS , CC VBP VB JJ NNS IN NN WRB JJ .</POS>
+		<Lemma>bitter almond be sometimes illegally sell in the US and be often encounter in other country , and do contain dangerous level of cyanide when raw .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>7-10 raw bitter almonds can kill a child .</Tokens>
+		<POS>CD JJ JJ NNS MD VB DT NN .</POS>
+		<Lemma>7-10 raw bitter almond can kill a child .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Moreover , a child raised on raw almonds may conclude that raw peach pits -LRB- essentially a variety of almonds -RRB- are safe to eat -- they are NOT .</Tokens>
+		<POS>RB , DT NN VBN IN JJ NNS MD VB IN JJ NN NNS -LRB- RB DT NN IN NNS -RRB- VBP JJ TO VB : PRP VBP RB .</POS>
+		<Lemma>moreover , a child raise on raw almond may conclude that raw peach pit -lrb- essentially a variety of almond -rrb- be safe to eat -- they be not .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The safest practice is NOT to eat unroasted almonds .</Tokens>
+		<POS>DT JJS NN VBZ RB TO VB JJ NNS .</POS>
+		<Lemma>the safest practice be not to eat unroasted almond .</Lemma>
+	</Sentence>
+</Document>

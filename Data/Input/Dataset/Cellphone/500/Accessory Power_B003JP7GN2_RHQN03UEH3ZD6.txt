@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Device does exactly as specified ; price was very reasonable .</Tokens>
+		<POS>NN VBZ RB IN VBN : NN VBD RB JJ .</POS>
+		<Lemma>device do exactly as specify ; price be very reasonable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The unit saves taking an extra AC charger along on a car trip .</Tokens>
+		<POS>DT NN VBZ VBG DT JJ NN NN IN IN DT NN NN .</POS>
+		<Lemma>the unit save take a extra ac charger along on a car trip .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It keeps me powered up when I am out of the office in multiple meetings but on the phone a lot while driving betweenclient locations .</Tokens>
+		<POS>PRP VBZ PRP VBD RP WRB PRP VBP IN IN DT NN IN JJ NNS CC IN DT NN DT NN IN VBG JJ NNS .</POS>
+		<Lemma>it keep I power up when I be out of the office in multiple meeting but on the phone a lot while drive betweenclient location .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this popcorn for our hot air popper and so far I 've been very pleased .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ JJ NN NN CC RB RB PRP VBP VBN RB JJ .</POS>
+		<Lemma>I purchase this popcorn for we hot air popper and so far I have be very pleased .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The kernels pop up nice and fluffy , with only a few kernels that do not pop at all .</Tokens>
+		<POS>DT NNS VBP RP JJ CC JJ , IN RB DT JJ NNS WDT VBP RB VB IN DT .</POS>
+		<Lemma>the kernel pop up nice and fluffy , with only a few kernel that do not pop at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use a spray butter flavor and then add a little bit of garlic salt and cayenne pepper for a great low calorie treat with a bit of a kick to it .</Tokens>
+		<POS>PRP VBP DT NN NN NN CC RB VB DT JJ NN IN JJ NN CC NN NN IN DT JJ JJ NN NN IN DT NN IN DT NN TO PRP .</POS>
+		<Lemma>I use a spray butter flavor and then add a little bit of garlic salt and cayenne pepper for a great low calorie treat with a bit of a kick to it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The bag is more than big enough to last for quite some time , even popping corn every day .</Tokens>
+		<POS>DT NN VBZ JJR IN JJ JJ TO VB IN RB DT NN , RB VBG NN DT NN .</POS>
+		<Lemma>the bag be more than big enough to last for quite some time , even pop corn every day .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm very pleased so far !</Tokens>
+		<POS>PRP VBP RB JJ RB RB .</POS>
+		<Lemma>I be very pleased so far !</Lemma>
+	</Sentence>
+</Document>

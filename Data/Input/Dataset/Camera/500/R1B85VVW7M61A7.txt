@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this Cannon ELPH 310 for $ 199.99 and the 16 gig class 6 card for $ 20 on Amazon for Christmas .</Tokens>
+		<POS>PRP VBD DT NNP NN CD IN $ CD CC DT CD NN NN CD NN IN $ CD IN NNP IN NNP .</POS>
+		<Lemma>I buy this Cannon elph 310 for $ 199.99 and the 16 gig class 6 card for $ 20 on Amazon for Christmas .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I play in a band and it takes low and colored light photos with-out blur .</Tokens>
+		<POS>PRP VBP IN DT NN CC PRP VBZ JJ CC VBN JJ NNS JJ NN .</POS>
+		<Lemma>I play in a band and it take low and color light photo with-out blur .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy and fast to recharge and the charge last a long time .</Tokens>
+		<POS>NNP CC JJ TO VB CC DT NN VB DT JJ NN .</POS>
+		<Lemma>Easy and fast to recharge and the charge last a long time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pictures are excellent .</Tokens>
+		<POS>NNS VBP JJ .</POS>
+		<Lemma>picture be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The video and audio is very good but not as smooth as my Flip Video cam .</Tokens>
+		<POS>DT NN CC NN VBZ RB JJ CC RB IN JJ IN PRP$ NNP NNP NN .</POS>
+		<Lemma>the video and audio be very good but not as smooth as my Flip Video cam .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I did a lot of research and this seems to be the best for the price .</Tokens>
+		<POS>PRP VBD DT NN IN NN CC DT VBZ TO VB DT JJS IN DT NN .</POS>
+		<Lemma>I do a lot of research and this seem to be the best for the price .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>No problems so far .</Tokens>
+		<POS>DT NNS RB RB .</POS>
+		<Lemma>no problem so far .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Make sure you get the 16 gig class 6 card it works fast .</Tokens>
+		<POS>NNP JJ PRP VBP DT CD NN NN CD NN PRP VBZ RB .</POS>
+		<Lemma>Make sure you get the 16 gig class 6 card it work fast .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera just to see how it works with SecuritySpy for the Mac .</Tokens>
+		<POS>PRP VBD DT NN RB TO VB WRB PRP VBZ IN NNP IN DT NNP .</POS>
+		<Lemma>I buy this camera just to see how it work with SecuritySpy for the Mac .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its been hard to find good cameras that work well with Mac security software .</Tokens>
+		<POS>PRP$ VBN JJ TO VB JJ NNS WDT VBP RB IN NNP NN NN .</POS>
+		<Lemma>its be hard to find good camera that work well with Mac security software .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I must say , this is a nice camera for the price .</Tokens>
+		<POS>PRP MD VB , DT VBZ DT JJ NN IN DT NN .</POS>
+		<Lemma>I must say , this be a nice camera for the price .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Its a nice camera period .</Tokens>
+		<POS>PRP$ DT JJ NN NN .</POS>
+		<Lemma>its a nice camera period .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It wo n't break any records for image quality etc , but it does what it does flawlessly .</Tokens>
+		<POS>PRP MD RB VB DT NNS IN NN NN NN , CC PRP VBZ WP PRP VBZ RB .</POS>
+		<Lemma>it will not break any record for image quality etc , but it do what it do flawlessly .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>pan tilt zoom remote wifi or wired , and with a mic and speaker , remote audio .</Tokens>
+		<POS>NN NN NN JJ NNS CC VBN , CC IN DT JJ CC NN , JJ NN .</POS>
+		<Lemma>pan tilt zoom remote wifus or wire , and with a mic and speaker , remote audio .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>security settings are a breeze , setup was braindead simple .</Tokens>
+		<POS>NN NNS VBP DT NN , NN VBD JJ NN .</POS>
+		<Lemma>security setting be a breeze , setup be braindead simple .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>you could set this camera up while in a coma .</Tokens>
+		<POS>PRP MD VB DT NN RP IN IN DT NN .</POS>
+		<Lemma>you could set this camera up while in a coma .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I just wish they would make one with zoom too .</Tokens>
+		<POS>PRP RB VBP PRP MD VB CD IN NN RB .</POS>
+		<Lemma>I just wish they would make one with zoom too .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Anyway , after seeing a friend spend 10k on a video security system for his home , I 'll be done for under 2k , with twice the cameras , and all PT\/infrared .</Tokens>
+		<POS>RB , IN VBG DT NN VBP NN IN DT JJ NN NN IN PRP$ NN , PRP MD VB VBN IN IN NN , IN RB DT NNS , CC DT NNP .</POS>
+		<Lemma>anyway , after see a friend spend 10k on a video security system for he home , I 'll be do for under 2k , with twice the camera , and all PT\/infrared .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I 'm off to order 15 more of these ...</Tokens>
+		<POS>PRP VBP RP TO VB CD JJR IN DT :</POS>
+		<Lemma>I be off to order 15 more of these ...</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchase this product in August of last year but I did not get the opportunity to use it until my christmas vacation .</Tokens>
+		<POS>PRP VBP DT NN IN NNP IN JJ NN CC PRP VBD RB VB DT NN TO VB PRP IN PRP$ NNS NN .</POS>
+		<Lemma>I purchase this product in August of last year but I do not get the opportunity to use it until my christmas vacation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera work for a grand total of 5 mins .</Tokens>
+		<POS>DT NN NN IN DT JJ NN IN CD NNS .</POS>
+		<Lemma>this camera work for a grand total of 5 min .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The minute that I placed in water to take a picture of my son just below the water surface the camera died .</Tokens>
+		<POS>DT NN IN PRP VBD IN NN TO VB DT NN IN PRP$ NN RB IN DT NN NN DT NN VBD .</POS>
+		<Lemma>the minute that I place in water to take a picture of my son just below the water surface the camera die .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Water leaked into the battery compartment and that was the end of it .</Tokens>
+		<POS>NN VBN IN DT NN NN CC DT VBD DT NN IN PRP .</POS>
+		<Lemma>water leak into the battery compartment and that be the end of it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Complete waste of money .</Tokens>
+		<POS>JJ NN IN NN .</POS>
+		<Lemma>complete waste of money .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My return period has expired so amazon will not accept a return .</Tokens>
+		<POS>PRP$ NN NN VBZ VBN RB RB MD RB VB DT NN .</POS>
+		<Lemma>my return period have expire so amazon will not accept a return .</Lemma>
+	</Sentence>
+</Document>

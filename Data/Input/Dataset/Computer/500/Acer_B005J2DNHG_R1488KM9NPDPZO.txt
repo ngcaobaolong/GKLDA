@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It 's a great little netbook if you are on a good Wifi connection -- not good at all if you are using a 3G USB connection like a Virgin Mobile USB .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN IN PRP VBP IN DT JJ NNP NN : RB JJ IN DT IN PRP VBP VBG DT NN JJ NN IN DT NN NNP JJ .</POS>
+		<Lemma>it be a great little netbook if you be on a good Wifi connection -- not good at all if you be use a 3g usb connection like a virgin Mobile usb .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is soooooooooooooooooooooooo slow !</Tokens>
+		<POS>PRP VBZ JJ JJ .</POS>
+		<Lemma>it be soooooooooooooooooooooooo slow !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very disappointed about that because I need one that can connect out and about without Wifi .</Tokens>
+		<POS>RB VBN IN DT IN PRP VBP CD WDT MD VB RP CC RB IN NNP .</POS>
+		<Lemma>very disappoint about that because I need one that can connect out and about without Wifi .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Otherwise , seems to be a good little computer !</Tokens>
+		<POS>RB , VBZ TO VB DT JJ JJ NN .</POS>
+		<Lemma>otherwise , seem to be a good little computer !</Lemma>
+	</Sentence>
+</Document>

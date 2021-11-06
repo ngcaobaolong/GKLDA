@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have purchased several different FM transmitters in the past and never liked any of them .</Tokens>
+		<POS>PRP VBP VBN JJ JJ NN NNS IN DT NN CC RB VBD DT IN PRP .</POS>
+		<Lemma>I have purchase several different fm transmitter in the past and never like any of they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This one is amazing .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this one be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We have Iphones and Ipods and it works flawlessly .</Tokens>
+		<POS>PRP VBP NNPS CC NNPS CC PRP VBZ RB .</POS>
+		<Lemma>we have Iphones and Ipods and it work flawlessly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No static and very clear sound .</Tokens>
+		<POS>DT JJ CC RB JJ NN .</POS>
+		<Lemma>no static and very clear sound .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I use it in My Escalade with the Bose sound system and I could n't be happier .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NN IN DT NN NN NN CC PRP MD RB VB JJR .</POS>
+		<Lemma>I use it in my escalade with the bose sound system and I could not be happier .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The bluetooth connection is so easy .</Tokens>
+		<POS>DT NN NN VBZ RB JJ .</POS>
+		<Lemma>the bluetooth connection be so easy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Any player can plug into it with the audio cable .</Tokens>
+		<POS>DT NN MD VB IN PRP IN DT JJ NN .</POS>
+		<Lemma>any player can plug into it with the audio cable .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The USB charger port is sure nice .</Tokens>
+		<POS>DT JJ NN NN VBZ JJ JJ .</POS>
+		<Lemma>the usb charger port be sure nice .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The clear channel look up works very well .</Tokens>
+		<POS>DT JJ NN VB RP NNS RB RB .</POS>
+		<Lemma>the clear channel look up work very well .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I love being able to pause , fast forward and go back just by simply touching one of the three buttons on top .</Tokens>
+		<POS>PRP VBP VBG JJ TO VB , JJ RB CC VB RB RB IN RB VBG CD IN DT CD NNS IN NN .</POS>
+		<Lemma>I love be able to pause , fast forward and go back just by simply touch one of the three button on top .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Your eyes never have to leave the road .</Tokens>
+		<POS>PRP$ NNS RB VBP TO VB DT NN .</POS>
+		<Lemma>you eye never have to leave the road .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I would highly recommend this device .</Tokens>
+		<POS>PRP MD RB VB DT NN .</POS>
+		<Lemma>I would highly recommend this device .</Lemma>
+	</Sentence>
+</Document>

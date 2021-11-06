@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Got it popped it up for the family and it disappeared in 15 mins , needless to say we love it .</Tokens>
+		<POS>VBD PRP VBD PRP RP IN DT NN CC PRP VBD IN CD NNS , JJ TO VB PRP VBP PRP .</POS>
+		<Lemma>get it pop it up for the family and it disappear in 15 min , needless to say we love it .</Lemma>
+	</Sentence>
+</Document>

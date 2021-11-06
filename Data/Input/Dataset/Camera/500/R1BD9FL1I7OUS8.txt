@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm sure all the reviews about the actual K-5 which say it is excellent are true but I purchased this from marketplace seller Big Value and I want to point out that the body is weather resistant but the included lens is the standard version - not weather resistant .</Tokens>
+		<POS>PRP VBP JJ PDT DT NNS IN DT JJ NN WDT VBP PRP VBZ JJ VBP JJ CC PRP VBD DT IN NN NN JJ NN CC PRP VBP TO VB RP IN DT NN VBZ NN JJ CC DT VBN NN VBZ DT JJ NN : RB VB JJ .</POS>
+		<Lemma>I be sure all the review about the actual k-5 which say it be excellent be true but I purchase this from marketplace seller big value and I want to point out that the body be weather resistant but the include lens be the standard version - not weather resistant .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a good price and shipping was quick but they should make that clear in the listing as what 's the point of a weatherproof camera without a weather proof lens !</Tokens>
+		<POS>PRP VBZ DT JJ NN CC NN VBD JJ CC PRP MD VB DT JJ IN DT NN IN WP VBZ DT NN IN DT JJ NN IN DT NN NN NN .</POS>
+		<Lemma>it be a good price and shipping be quick but they should make that clear in the listing as what be the point of a weatherproof camera without a weather proof lens !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would email any Amazon seller first and have them verify which lens you are getting .</Tokens>
+		<POS>PRP MD NN DT NNP NN RB CC VB PRP VB WDT NN PRP VBP VBG .</POS>
+		<Lemma>I would email any Amazon seller first and have they verify which lens you be get .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Also check around because there is another well known vendor that is selling this camera WITH the weatherproof lens for just a few dollars more and free shipping .</Tokens>
+		<POS>RB VB RB IN EX VBZ DT RB VBN NN WDT VBZ VBG DT NN IN DT JJ NN IN RB DT JJ NNS RBR CC JJ NN .</POS>
+		<Lemma>also check around because there be another well know vendor that be sell this camera with the weatherproof lens for just a few dollar more and free shipping .</Lemma>
+	</Sentence>
+</Document>

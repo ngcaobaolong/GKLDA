@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received this as a gift .</Tokens>
+		<POS>PRP VBD DT IN DT NN .</POS>
+		<Lemma>I receive this as a gift .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love dark roasted strong bodied coffee .</Tokens>
+		<POS>PRP VBP JJ JJ JJ VBN NN .</POS>
+		<Lemma>I love dark roasted strong body coffee .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That 's the only kind of coffee I drink .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NN PRP VBP .</POS>
+		<Lemma>that be the only kind of coffee I drink .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My first cup was brewed in a small french press .</Tokens>
+		<POS>PRP$ JJ NN VBD VBN IN DT JJ JJ NN .</POS>
+		<Lemma>my first cup be brew in a small french press .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The aroma was succulent .</Tokens>
+		<POS>DT NN VBD JJ .</POS>
+		<Lemma>the aroma be succulent .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It did n't have the acidic aroma some compare to cat urine -LRB- my wife , a non-coffee drinker -RRB- .</Tokens>
+		<POS>PRP VBD RB VB DT JJ NN DT VBP TO NN NN -LRB- PRP$ NN , DT JJ NN -RRB- .</POS>
+		<Lemma>it do not have the acidic aroma some compare to cat urine -lrb- my wife , a non-coffee drinker -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The smell was potent , in a good way .</Tokens>
+		<POS>DT NN VBD JJ , IN DT JJ NN .</POS>
+		<Lemma>the smell be potent , in a good way .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It filled the whole downstairs with the small 2 cup press .</Tokens>
+		<POS>PRP VBD DT JJ NNS IN DT JJ CD NN NN .</POS>
+		<Lemma>it fill the whole downstairs with the small 2 cup press .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The taste was something delightful .</Tokens>
+		<POS>DT NN VBD NN JJ .</POS>
+		<Lemma>the taste be something delightful .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Very bold in flavor with zero acidic flavor that I have grown accustom to with other dark roasts .</Tokens>
+		<POS>RB JJ IN NN IN CD JJ NN IN PRP VBP VBN NN TO IN JJ JJ NNS .</POS>
+		<Lemma>very bold in flavor with zero acidic flavor that I have grow accustom to with other dark roast .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>There is a great nutty or woody background flavor with this coffee .</Tokens>
+		<POS>EX VBZ DT JJ JJ CC JJ NN NN IN DT NN .</POS>
+		<Lemma>there be a great nutty or woody background flavor with this coffee .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Add a touch of cream to really bring out the nutty overtones .</Tokens>
+		<POS>VB DT NN IN NN TO RB VB RP DT JJ NNS .</POS>
+		<Lemma>add a touch of cream to really bring out the nutty overtone .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I have always been a Colmbian fanatic until I tried Caf&eacute; Altura 's Peruvian Dark .</Tokens>
+		<POS>PRP VBP RB VBN DT JJ JJ IN PRP VBD NNP NNP POS JJ JJ .</POS>
+		<Lemma>I have always be a colmbian fanatic until I try Caf&eacute; Altura 's peruvian dark .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Though this is beyond my regular budget .</Tokens>
+		<POS>IN DT VBZ IN PRP$ JJ NN .</POS>
+		<Lemma>though this be beyond my regular budget .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I will get it occasionally for a treat .</Tokens>
+		<POS>PRP MD VB PRP RB IN DT NN .</POS>
+		<Lemma>I will get it occasionally for a treat .</Lemma>
+	</Sentence>
+</Document>

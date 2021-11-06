@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A very neat package but the ease of use is not good and the photos taken are of lackluster quality .</Tokens>
+		<POS>DT RB JJ NN CC DT NN IN NN VBZ RB JJ CC DT NNS VBN VBP IN JJ NN .</POS>
+		<Lemma>a very neat package but the ease of use be not good and the photo take be of lackluster quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There are , no good operating instructions supplied making it a long drawn out process to feel comfortable using it as your primary camera .</Tokens>
+		<POS>EX VBP , DT JJ NN NNS VBD VBG PRP DT JJ VBN RP NN TO VB JJ VBG PRP IN PRP$ JJ NN .</POS>
+		<Lemma>there be , no good operating instruction supply make it a long draw out process to feel comfortable use it as you primary camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Does not live up to Sony usual quality .</Tokens>
+		<POS>VBZ RB VB RP TO NNP JJ NN .</POS>
+		<Lemma>do not live up to Sony usual quality .</Lemma>
+	</Sentence>
+</Document>

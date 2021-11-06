@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Everyone in business should be this efficient , and reliable .</Tokens>
+		<POS>NN IN NN MD VB DT JJ , CC JJ .</POS>
+		<Lemma>everyone in business should be this efficient , and reliable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Item arrived in perfect shape , well packaged , as described .</Tokens>
+		<POS>NN VBD IN JJ NN , RB VBN , IN VBN .</POS>
+		<Lemma>item arrive in perfect shape , well package , as describe .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Because I happened to be in the same state , it arrived the next day !</Tokens>
+		<POS>IN PRP VBD TO VB IN DT JJ NN , PRP VBD DT JJ NN .</POS>
+		<Lemma>because I happen to be in the same state , it arrive the next day !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Would not hesitate to buy from again !</Tokens>
+		<POS>MD RB VB TO VB IN RB .</POS>
+		<Lemma>would not hesitate to buy from again !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>THANKS !!!!</Tokens>
+		<POS>NNS VBP</POS>
+		<Lemma>thanks !!!!</Lemma>
+	</Sentence>
+</Document>

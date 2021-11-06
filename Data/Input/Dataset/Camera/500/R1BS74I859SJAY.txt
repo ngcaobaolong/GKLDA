@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had Kodak cameras my whole life and I have been satisfied with them .</Tokens>
+		<POS>PRP VBP VBN NNP NNS PRP$ JJ NN CC PRP VBP VBN VBN IN PRP .</POS>
+		<Lemma>I have have Kodak camera my whole life and I have be satisfy with they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My boyfriend received this Sony Cyber-Shot camera for Christmas and after seeing the quality of the pictures and the neat panoramic option , I immediately ordered one for myself .</Tokens>
+		<POS>PRP$ NN VBD DT NNP NNP NN IN NNP CC IN VBG DT NN IN DT NNS CC DT JJ JJ NN , PRP RB VBD CD IN PRP .</POS>
+		<Lemma>my boyfriend receive this Sony Cyber-Shot camera for Christmas and after see the quality of the picture and the neat panoramic option , I immediately order one for myself .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The dark blue camera looks a little purple , but I really like that .</Tokens>
+		<POS>DT JJ JJ NN VBZ DT JJ JJ , CC PRP RB IN DT .</POS>
+		<Lemma>the dark blue camera look a little purple , but I really like that .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For roughly 100 dollars or less , I 'd say this is the best camera in the price range .</Tokens>
+		<POS>IN RB CD NNS CC JJR , PRP MD VB DT VBZ DT JJS NN IN DT NN NN .</POS>
+		<Lemma>for roughly 100 dollar or less , I would say this be the best camera in the price range .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I love it and would suggest it to anyone !</Tokens>
+		<POS>PRP VBP PRP CC MD VB PRP TO NN .</POS>
+		<Lemma>I love it and would suggest it to anyone !</Lemma>
+	</Sentence>
+</Document>

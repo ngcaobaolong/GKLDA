@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent product .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>excellent product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fits in so well with my diet .</Tokens>
+		<POS>VBZ IN RB RB IN PRP$ NN .</POS>
+		<Lemma>fit in so well with my diet .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The size assists with portion control .</Tokens>
+		<POS>DT NN VBZ IN NN NN .</POS>
+		<Lemma>the size assist with portion control .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Will definitely purchase again .</Tokens>
+		<POS>MD RB VB RB .</POS>
+		<Lemma>will definitely purchase again .</Lemma>
+	</Sentence>
+</Document>

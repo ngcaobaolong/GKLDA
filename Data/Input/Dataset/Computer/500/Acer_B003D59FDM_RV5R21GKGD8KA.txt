@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This Monitor is nice and solves my purpose .</Tokens>
+		<POS>DT NNP VBZ JJ CC VBZ PRP$ NN .</POS>
+		<Lemma>this Monitor be nice and solve my purpose .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I planned to use this as my work from home Monitor and it suites the need .</Tokens>
+		<POS>PRP VBD TO VB DT IN PRP$ NN IN NN NNP CC PRP NNS DT NN .</POS>
+		<Lemma>I plan to use this as my work from home Monitor and it suite the need .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is definitely a recommended piece</Tokens>
+		<POS>DT VBZ RB DT VBN NN</POS>
+		<Lemma>this be definitely a recommend piece</Lemma>
+	</Sentence>
+</Document>

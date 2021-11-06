@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It is wonderful !</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be wonderful !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Sharp , crisp images .</Tokens>
+		<POS>JJ , JJ NNS .</POS>
+		<Lemma>sharp , crisp image .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The is the essence of more bang for your buck !</Tokens>
+		<POS>DT VBZ DT NN IN JJR NN IN PRP$ NN .</POS>
+		<Lemma>the be the essence of more bang for you buck !</Lemma>
+	</Sentence>
+</Document>

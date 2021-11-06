@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera does do the job .</Tokens>
+		<POS>DT NN VBZ VB DT NN .</POS>
+		<Lemma>the camera do do the job .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The night vision is great as well .</Tokens>
+		<POS>DT NN NN VBZ JJ RB RB .</POS>
+		<Lemma>the night vision be great as well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy to control from iphone with the Foscam App .</Tokens>
+		<POS>NNP TO VB IN VBN IN DT NNP NN .</POS>
+		<Lemma>Easy to control from iphone with the Foscam app .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Its movement is great .</Tokens>
+		<POS>PRP$ NN VBZ JJ .</POS>
+		<Lemma>its movement be great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only issue I have is the power plug .</Tokens>
+		<POS>DT JJ NN PRP VBP VBZ DT NN NN .</POS>
+		<Lemma>the only issue I have be the power plug .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is too short especially if you want to mount it up high .</Tokens>
+		<POS>PRP VBZ RB JJ RB IN PRP VBP TO VB PRP RB RB .</POS>
+		<Lemma>it be too short especially if you want to mount it up high .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Anyway I placed it on a table instead .</Tokens>
+		<POS>RB PRP VBD PRP IN DT NN RB .</POS>
+		<Lemma>anyway I place it on a table instead .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The setup is very tricky especially for an amateur like me .</Tokens>
+		<POS>DT NN VBZ RB JJ RB IN DT JJ IN PRP .</POS>
+		<Lemma>the setup be very tricky especially for a amateur like I .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The instructions are not very clear when accessing the camera outside your local network .</Tokens>
+		<POS>DT NNS VBP RB RB JJ WRB VBG DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>the instruction be not very clear when access the camera outside you local network .</Lemma>
+	</Sentence>
+</Document>

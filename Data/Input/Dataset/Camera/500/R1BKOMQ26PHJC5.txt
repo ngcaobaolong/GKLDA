@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Picture quality was just ok ... but had to return it because of a strange clicking noise -LRB- like a reel projector -RRB- in all of the videos ... I 've heard this is a pretty common problem with this item ...</Tokens>
+		<POS>NNP NN VBD RB NN : CC VBD TO VB PRP IN IN DT JJ VBG NN -LRB- IN DT NN NN -RRB- IN DT IN DT NNS : PRP VBP VBN DT VBZ DT RB JJ NN IN DT NN :</POS>
+		<Lemma>Picture quality be just ok ... but have to return it because of a strange click noise -lrb- like a reel projector -rrb- in all of the video ... I have hear this be a pretty common problem with this item ...</Lemma>
+	</Sentence>
+</Document>

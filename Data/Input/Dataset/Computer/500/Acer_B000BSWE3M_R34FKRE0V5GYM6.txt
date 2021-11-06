@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It is awesome .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I love it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use a laptop and use the monitor through the docking station .</Tokens>
+		<POS>PRP VBP DT NN CC VB DT NN IN DT NN NN .</POS>
+		<Lemma>I use a laptop and use the monitor through the docking station .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It feels great to see things is a bigger screen after working long hours on the laptop .</Tokens>
+		<POS>PRP VBZ JJ TO VB NNS VBZ DT JJR NN IN VBG RB NNS IN DT NN .</POS>
+		<Lemma>it feel great to see thing be a bigger screen after work long hour on the laptop .</Lemma>
+	</Sentence>
+</Document>

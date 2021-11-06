@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera is awesome .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this camera be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only thing about it is when you are recording in a quiet space , you can hear the clicking from the auto focus lens trying to focus .</Tokens>
+		<POS>DT JJ NN IN PRP VBZ WRB PRP VBP VBG IN DT JJ NN , PRP MD VB DT VBG IN DT NN NN NN VBG TO VB .</POS>
+		<Lemma>the only thing about it be when you be record in a quiet space , you can hear the click from the auto focus lens try to focus .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>it is also recorded , so playing back a movie will also have this .</Tokens>
+		<POS>PRP VBZ RB VBN , RB VBG RP DT NN MD RB VB DT .</POS>
+		<Lemma>it be also record , so play back a movie will also have this .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>but its only when the room is super quiet .</Tokens>
+		<POS>CC PRP$ RB WRB DT NN VBZ JJ NN .</POS>
+		<Lemma>but its only when the room be super quiet .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>no problems really outside , unless its super quiet .</Tokens>
+		<POS>DT NNS RB RB , IN PRP$ JJ NN .</POS>
+		<Lemma>no problem really outside , unless its super quiet .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>youtube the clicking to get an idea of how annoying it is .</Tokens>
+		<POS>NN DT VBG TO VB DT NN IN WRB JJ PRP VBZ .</POS>
+		<Lemma>youtube the click to get a idea of how annoying it be .</Lemma>
+	</Sentence>
+</Document>

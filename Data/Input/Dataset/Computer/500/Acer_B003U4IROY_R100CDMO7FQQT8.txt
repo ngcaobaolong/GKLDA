@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The photo for this monitor had an HDMI connection when I ordered it and as I write this but it did not ship with one .</Tokens>
+		<POS>DT NN IN DT NN VBD DT NN NN WRB PRP VBD PRP CC IN PRP VBP DT CC PRP VBD RB VB IN CD .</POS>
+		<Lemma>the photo for this monitor have a hdmus connection when I order it and as I write this but it do not ship with one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Someone at Amazon or the manufacturer is being sloppy or dishonest with the images and facts .</Tokens>
+		<POS>NN IN NNP CC DT NN VBZ VBG JJ CC JJ IN DT NNS CC NNS .</POS>
+		<Lemma>someone at Amazon or the manufacturer be be sloppy or dishonest with the image and fact .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't see any possible way I can give this any sort of positive review when such a glaring `` error '' was made .</Tokens>
+		<POS>PRP VBP RB VB DT JJ NN PRP MD VB DT DT NN IN JJ NN WRB PDT DT VBG `` NN '' VBD VBN .</POS>
+		<Lemma>I do not see any possible way I can give this any sort of positive review when such a glare `` error '' be make .</Lemma>
+	</Sentence>
+</Document>

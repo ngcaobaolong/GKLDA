@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Both the AC and DC adapters work fine .</Tokens>
+		<POS>CC DT NN CC NN NNS VBP NN .</POS>
+		<Lemma>both the ac and dc adapter work fine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As for the AA and 9v as a charger , it is pretty useless .</Tokens>
+		<POS>IN IN DT NN CC NN IN DT NN , PRP VBZ RB JJ .</POS>
+		<Lemma>as for the aa and 9v as a charger , it be pretty useless .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My Samsung Infuse 4G phone was at 68 % charge , so I put in 2 brand new AA batteries .</Tokens>
+		<POS>PRP$ NNP NNP NN NN VBD IN CD NN NN , IN PRP VBP IN CD NN JJ NN NNS .</POS>
+		<Lemma>my Samsung Infuse 4g phone be at 68 % charge , so I put in 2 brand new aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After about 45 minutes , the AA batteries were totally drained and my Infuse showed a charge of 69 % .</Tokens>
+		<POS>IN IN CD NNS , DT NNP NNS VBD RB VBN CC PRP$ NN VBD DT NN IN CD NN .</POS>
+		<Lemma>after about 45 minute , the AA battery be totally drain and my infuse show a charge of 69 % .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I used a 9v battery and also got a 2 % charge .</Tokens>
+		<POS>PRP VBD DT JJ NN CC RB VBD DT CD NN NN .</POS>
+		<Lemma>I use a 9v battery and also get a 2 % charge .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They might work better for a mini iPod .</Tokens>
+		<POS>PRP MD VB JJR IN DT JJ NN .</POS>
+		<Lemma>they might work better for a mini ipod .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I do n't think you can count on the AA and 9v charger for anything .</Tokens>
+		<POS>PRP VBP RB VB PRP MD VB IN DT NN CC NN NN IN NN .</POS>
+		<Lemma>I do not think you can count on the aa and 9v charger for anything .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to replace my Acer monitor that finally died .</Tokens>
+		<POS>PRP VBD DT TO VB PRP$ NNP NN WDT RB VBD .</POS>
+		<Lemma>I buy this to replace my Acer monitor that finally die .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am extremely pleased with this one also .</Tokens>
+		<POS>PRP VBP RB JJ IN DT CD RB .</POS>
+		<Lemma>I be extremely pleased with this one also .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Hopefully , Acer will always be available , because it 's the only kind of monitor my husband and I want to use .</Tokens>
+		<POS>RB , NNP MD RB VB JJ , IN PRP VBZ DT JJ NN IN NN PRP$ NN CC PRP VBP TO VB .</POS>
+		<Lemma>hopefully , Acer will always be available , because it be the only kind of monitor my husband and I want to use .</Lemma>
+	</Sentence>
+</Document>

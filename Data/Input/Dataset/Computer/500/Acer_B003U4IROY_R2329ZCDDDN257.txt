@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>its a good cheap monitor and it gets the job done ... i bought this item new and so far i have had no problems !!!</Tokens>
+		<POS>PRP$ DT JJ JJ NN CC PRP VBZ DT NN VBN : FW VBD DT NN JJ CC RB RB FW VBP VBN DT NNS VBP</POS>
+		<Lemma>its a good cheap monitor and it get the job do ... i buy this item new and so far i have have no problem !!!</Lemma>
+	</Sentence>
+</Document>

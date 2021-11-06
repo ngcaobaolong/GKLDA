@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Work great for a non-audiophile .</Tokens>
+		<POS>NN JJ IN DT JJ .</POS>
+		<Lemma>work great for a non-audiophile .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Build quality seems avg or better .</Tokens>
+		<POS>VB NN VBZ NN CC JJR .</POS>
+		<Lemma>build quality seem avg or better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do n't use as often as intended as there is no mic for speaking on iPhone .</Tokens>
+		<POS>VBP RB VB RB RB IN VBN IN EX VBZ DT JJ IN VBG IN NNP .</POS>
+		<Lemma>do not use as often as intend as there be no mic for speak on iPhone .</Lemma>
+	</Sentence>
+</Document>

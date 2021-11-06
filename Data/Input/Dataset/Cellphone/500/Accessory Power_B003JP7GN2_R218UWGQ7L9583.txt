@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After reading the reviews before purchase , my main concern would be the charger flopping around in the car .</Tokens>
+		<POS>IN VBG DT NNS IN NN , PRP$ JJ NN MD VB DT NN VBG IN IN DT NN .</POS>
+		<Lemma>after read the review before purchase , my main concern would be the charger flop around in the car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However when you pull out the car charger it clicks and locks into place , i dont know if this is a new advancement but i like it .</Tokens>
+		<POS>RB WRB PRP VBP RP DT NN NN PRP VBZ CC VBZ IN NN , FW FW VBP IN DT VBZ DT JJ NN CC FW IN PRP .</POS>
+		<Lemma>however when you pull out the car charger it click and lock into place , i dont know if this be a new advancement but i like it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also , not stated in the product details , mine came with a 220V wall adapter for use in european contries as well , truly wonderful .</Tokens>
+		<POS>RB , RB VBN IN DT NN NNS , NN VBD IN DT NN NN NN IN NN IN JJ NNS RB RB , RB JJ .</POS>
+		<Lemma>also , not state in the product detail , mine come with a 220v wall adapter for use in european contry as well , truly wonderful .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For those with a taste for whole grains this GF bread is easy to make , has a hearty taste and actually toasts well .</Tokens>
+		<POS>IN DT IN DT NN IN JJ NNS DT NN NN VBZ JJ TO VB , VBZ DT JJ NN CC RB NNS RB .</POS>
+		<Lemma>for those with a taste for whole grain this gf bread be easy to make , have a hearty taste and actually toast well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Following the instructions VERY carefully is the key to a perfect loaf every time .</Tokens>
+		<POS>VBG DT NNS RB RB VBZ DT JJ TO DT JJ NN DT NN .</POS>
+		<Lemma>follow the instruction very carefully be the key to a perfect loaf every time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For those with a breadmaker , try it your machine will tell you how to cope with GF recipes .</Tokens>
+		<POS>IN DT IN DT NN , VBP PRP PRP$ NN MD VB PRP WRB TO VB IN NN NNS .</POS>
+		<Lemma>for those with a breadmaker , try it you machine will tell you how to cope with gf recipe .</Lemma>
+	</Sentence>
+</Document>

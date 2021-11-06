@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased 2 of these and both work fine for charging and for transferring data between my Droid and computer .</Tokens>
+		<POS>PRP VBD CD IN DT CC DT NN NN IN VBG CC IN VBG NNS IN PRP$ NN CC NN .</POS>
+		<Lemma>I purchase 2 of these and both work fine for charge and for transfer datum between my droid and computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It also works with an AC transformer to plug directly into a wall outlet or a DC transformer for charging in the car .</Tokens>
+		<POS>PRP RB VBZ IN DT NN NN TO VB RB IN DT NN NN CC DT NN NN IN VBG IN DT NN .</POS>
+		<Lemma>it also work with a ac transformer to plug directly into a wall outlet or a dc transformer for charge in the car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Outstanding value .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>outstanding value .</Lemma>
+	</Sentence>
+</Document>

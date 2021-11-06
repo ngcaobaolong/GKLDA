@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I brought this laptop for my 16 year old stepdaughter for Christmas .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ CD NN JJ NN IN NNP .</POS>
+		<Lemma>I bring this laptop for my 16 year old stepdaughter for Christmas .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She loves it and said it is better than any other laptop she has worked on .</Tokens>
+		<POS>PRP VBZ PRP CC VBD PRP VBZ JJR IN DT JJ NN PRP VBZ VBN IN .</POS>
+		<Lemma>she love it and say it be better than any other laptop she have work on .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I loved how compact it was and that she will be able to carry it around easily when in school .</Tokens>
+		<POS>PRP VBD WRB JJ PRP VBD CC IN PRP MD VB JJ TO VB PRP IN RB WRB IN NN .</POS>
+		<Lemma>I love how compact it be and that she will be able to carry it around easily when in school .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend anyone to buy this .</Tokens>
+		<POS>PRP MD VB NN TO VB DT .</POS>
+		<Lemma>I would recommend anyone to buy this .</Lemma>
+	</Sentence>
+</Document>

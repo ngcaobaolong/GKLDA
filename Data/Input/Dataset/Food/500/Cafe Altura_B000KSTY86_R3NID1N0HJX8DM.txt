@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great coffee and at a great price , as an added bonus you can feel good about buying it .</Tokens>
+		<POS>JJ NN CC IN DT JJ NN , IN DT VBN NN PRP MD VB JJ IN VBG PRP .</POS>
+		<Lemma>great coffee and at a great price , as a add bonus you can feel good about buy it .</Lemma>
+	</Sentence>
+</Document>

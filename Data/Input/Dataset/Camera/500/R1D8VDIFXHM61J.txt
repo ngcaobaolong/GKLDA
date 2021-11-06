@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Nice picture ... Take some getting use to because you have to hold down button hard to take pix .</Tokens>
+		<POS>JJ NN : VB DT VBG NN TO IN PRP VBP TO VB RP NN JJ TO VB NN .</POS>
+		<Lemma>nice picture ... take some get use to because you have to hold down button hard to take pix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fun with different lens effect .</Tokens>
+		<POS>NN IN JJ NN NN .</POS>
+		<Lemma>fun with different lens effect .</Lemma>
+	</Sentence>
+</Document>

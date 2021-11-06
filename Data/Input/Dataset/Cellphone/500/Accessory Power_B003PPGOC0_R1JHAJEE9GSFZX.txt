@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Before I bought this Flexsmart , I had read alots of reviews and finally purchase 1 .</Tokens>
+		<POS>IN PRP VBD DT NN , PRP VBD VBN NNS IN NNS CC RB NN CD .</POS>
+		<Lemma>before I buy this flexsmart , I have read alot of review and finally purchase 1 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>For $ 62,95 included S&H I think its a steal .</Tokens>
+		<POS>IN $ CD VBN NN PRP VBP PRP$ DT VBP .</POS>
+		<Lemma>for $ 62,95 include s&h I think its a steal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>What can you really do or get with $ 63 now days .</Tokens>
+		<POS>WDT MD PRP RB VBP CC VBP IN $ CD RB NNS .</POS>
+		<Lemma>what can you really do or get with $ 63 now day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The calls are not as good as phone 's speaker but no problem with the conversation .</Tokens>
+		<POS>DT NNS VBP RB RB JJ IN NN POS NN CC DT NN IN DT NN .</POS>
+		<Lemma>the call be not as good as phone 's speaker but no problem with the conversation .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The music on my ipod thru bluetooth is great , I dont have any bass loss like alot of reviews in here -LRB- Honda Accord 2007 -RRB- .</Tokens>
+		<POS>DT NN IN PRP$ NN NN NN VBZ JJ , PRP VBP VB DT NN NN IN NN IN NNS IN RB -LRB- NNP NNP CD -RRB- .</POS>
+		<Lemma>the music on my ipod thru bluetooth be great , I dont have any bass loss like alot of review in here -lrb- Honda Accord 2007 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would buy this again .</Tokens>
+		<POS>PRP MD VB DT RB .</POS>
+		<Lemma>I would buy this again .</Lemma>
+	</Sentence>
+</Document>

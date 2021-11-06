@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The best camera I 've owned .</Tokens>
+		<POS>DT JJS NN PRP VBP VBN .</POS>
+		<Lemma>the best camera I have own .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've owned the E-PL1 , E-PM1 and other compact cameras and this camera is in a different class .</Tokens>
+		<POS>PRP VBP VBN DT NN , NN CC JJ JJ NNS CC DT NN VBZ IN DT JJ NN .</POS>
+		<Lemma>I have own the e-pl1 , e-pm1 and other compact camera and this camera be in a different class .</Lemma>
+	</Sentence>
+</Document>

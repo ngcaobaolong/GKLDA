@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I decided to purchase this item for our I-phones -LRB- 3Gs -RRB- and I just tried it and will have to call Amazon to return it !</Tokens>
+		<POS>PRP VBD TO VB DT NN IN PRP$ NNS -LRB- NNS -RRB- CC PRP RB VBD PRP CC MD VB TO VB NNP TO VB PRP .</POS>
+		<Lemma>I decide to purchase this item for we i-phone -lrb- 3g -rrb- and I just try it and will have to call Amazon to return it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The cable it came with for the I-phone did not work , and even with our own cable , it looked like it was not charging properly -LRB- it did n't show it as charging like my regular charging adapter -RRB- and -- biggest problem -- it said `` not compatible '' when I tried to charge with AA batteries !!</Tokens>
+		<POS>DT NN PRP VBD IN IN DT NN VBD RB VB , CC RB IN PRP$ JJ NN , PRP VBD IN PRP VBD RB VBG RB -LRB- PRP VBD RB VB PRP IN VBG IN PRP$ JJ VBG NN -RRB- CC : JJS NN : PRP VBD `` RB JJ '' WRB PRP VBD TO VB IN NN NNS IN</POS>
+		<Lemma>the cable it come with for the i-phone do not work , and even with we own cable , it look like it be not charge properly -lrb- it do not show it as charge like my regular charge adapter -rrb- and -- biggest problem -- it say `` not compatible '' when I try to charge with aa battery !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Going right back to Amazon for a refund !</Tokens>
+		<POS>VBG RB RB TO NNP IN DT NN .</POS>
+		<Lemma>go right back to Amazon for a refund !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am very disappointed .</Tokens>
+		<POS>PRP VBP RB JJ .</POS>
+		<Lemma>I be very disappointed .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was so happy when I discovered this product after our recent power outage from a hurricane and I thought that this would be so useful not only for power outages , but also for charging 2 I-phones at one time .</Tokens>
+		<POS>PRP VBD RB JJ WRB PRP VBD DT NN IN PRP$ JJ NN NN IN DT NN CC PRP VBD IN DT MD VB RB JJ RB RB IN NN NNS , CC RB IN VBG CD NNS IN CD NN .</POS>
+		<Lemma>I be so happy when I discover this product after we recent power outage from a hurricane and I think that this would be so useful not only for power outage , but also for charge 2 i-phone at one time .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It does n't seem to charge one , let alone 2 .</Tokens>
+		<POS>PRP VBZ RB VB TO VB CD , VB RB CD .</POS>
+		<Lemma>it do not seem to charge one , let alone 2 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would have given it more stars for all of the above had it actually worked because I think the concept is great and if it had worked , then the convenience and design would have been great !</Tokens>
+		<POS>PRP MD VB VBN PRP RBR NNS IN DT IN DT JJ VBD PRP RB VBD IN PRP VBP DT NN VBZ JJ CC IN PRP VBD VBN , RB DT NN CC NN MD VB VBN JJ .</POS>
+		<Lemma>I would have give it more star for all of the above have it actually work because I think the concept be great and if it have work , then the convenience and design would have be great !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Too bad .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>too bad .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I hope I find a product that does all that this claimed to do and will work with our phones .</Tokens>
+		<POS>PRP VBP PRP VB DT NN WDT VBZ DT IN DT VBN TO VB CC MD VB IN PRP$ NNS .</POS>
+		<Lemma>I hope I find a product that do all that this claim to do and will work with we phone .</Lemma>
+	</Sentence>
+</Document>

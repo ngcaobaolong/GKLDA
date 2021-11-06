@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is one of the healthiest cereals you get eat .</Tokens>
+		<POS>DT VBZ CD IN DT JJS NNS PRP VBP VB .</POS>
+		<Lemma>this be one of the healthiest cereal you get eat .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has everything in it your body needs and none of the things it doesnt .</Tokens>
+		<POS>PRP VBZ NN IN PRP PRP$ NN NNS CC NN IN DT NNS PRP NN .</POS>
+		<Lemma>it have everything in it you body need and none of the thing it doesnt .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Its a great value and the seller i highly recommend .</Tokens>
+		<POS>PRP$ DT JJ NN CC DT NN FW RB VB .</POS>
+		<Lemma>its a great value and the seller i highly recommend .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>it comes packed very well and always fresh with a good expiration date .</Tokens>
+		<POS>PRP VBZ JJ RB RB CC RB JJ IN DT JJ NN NN .</POS>
+		<Lemma>it come packed very well and always fresh with a good expiration date .</Lemma>
+	</Sentence>
+</Document>

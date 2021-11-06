@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Used once while on a trip to Germany , where 220VAC is standard .</Tokens>
+		<POS>VBN RB IN IN DT NN TO NNP , WRB NN VBZ JJ .</POS>
+		<Lemma>use once while on a trip to Germany , where 220vac be standard .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Was trying to charge my cell phone .</Tokens>
+		<POS>VBD VBG TO VB PRP$ NN NN .</POS>
+		<Lemma>be try to charge my cell phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Heard a POP and smelled smoke .</Tokens>
+		<POS>VBN DT NNP CC VBN NN .</POS>
+		<Lemma>hear a POP and smell smoke .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The AC portion of the charger has not worked since , even when back in the US on 110VAC .</Tokens>
+		<POS>DT NN NN IN DT NN VBZ RB VBN IN , RB WRB RB IN DT NNP IN NNP .</POS>
+		<Lemma>the ac portion of the charger have not work since , even when back in the US on 110VAC .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Still works as a car charger though .</Tokens>
+		<POS>RB VBZ IN DT NN NN IN .</POS>
+		<Lemma>still work as a car charger though .</Lemma>
+	</Sentence>
+</Document>

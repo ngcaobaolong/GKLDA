@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I received the charger , the hatch lid was chipped such that the lid is always ajar .</Tokens>
+		<POS>WRB PRP VBD DT NN , DT NN NN VBD VBN JJ IN DT NN VBZ RB RB .</POS>
+		<Lemma>when I receive the charger , the hatch lid be chip such that the lid be always ajar .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Then when I plugged it into the wall and plugged in my two USB cables , I discovered that the usb ports were loose .</Tokens>
+		<POS>RB WRB PRP VBD PRP IN DT NN CC VBD IN PRP$ CD JJ NNS , PRP VBD IN DT NN NNS VBD JJ .</POS>
+		<Lemma>then when I plug it into the wall and plug in my two usb cable , I discover that the usb port be loose .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>One USB port worked twice , sporadically -LRB- it worked for a while , then I unplugged and replugged device -RRB- , then stopped working altogether .</Tokens>
+		<POS>CD JJ NN VBD RB , RB -LRB- PRP VBD IN DT NN , RB PRP VBD CC VBD NN -RRB- , RB VBD VBG RB .</POS>
+		<Lemma>one usb port work twice , sporadically -lrb- it work for a while , then I unplug and replugg device -rrb- , then stop work altogether .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The other port lasted for a total of 5-8 uses , then fizzled out as well .</Tokens>
+		<POS>DT JJ NN VBD IN DT NN IN CD NNS , RB VBD RP RB RB .</POS>
+		<Lemma>the other port last for a total of 5-8 use , then fizzle out as well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Add onto this the fact that the charger drains power to light up its LED constantly , so I have to unplug it to try and save a little energy , and it gets low rankings for convenience as well .</Tokens>
+		<POS>VB IN DT DT NN IN DT NN VBZ NN TO VB RP PRP$ NNP RB , IN PRP VBP TO VB PRP TO VB CC VB DT JJ NN , CC PRP VBZ JJ NNS IN NN RB RB .</POS>
+		<Lemma>add onto this the fact that the charger drain power to light up its LED constantly , so I have to unplug it to try and save a little energy , and it get low ranking for convenience as well .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The USB\/MP3 player cable also did not work with my MP3 player , and I had to use a cable I had already purchased .</Tokens>
+		<POS>DT NN NN NN RB VBD RB VB IN PRP$ NN NN , CC PRP VBD TO VB DT NN PRP VBD RB VBN .</POS>
+		<Lemma>the usb\/mp3 player cable also do not work with my mp3 player , and I have to use a cable I have already purchase .</Lemma>
+	</Sentence>
+</Document>

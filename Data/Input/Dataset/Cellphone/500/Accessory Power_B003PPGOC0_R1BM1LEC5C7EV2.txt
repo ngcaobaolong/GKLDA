@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works great with my iPhone .</Tokens>
+		<POS>NNP JJ IN PRP$ NNP .</POS>
+		<Lemma>Works great with my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Paired up in less than a minute .</Tokens>
+		<POS>VBN RP IN JJR IN DT NN .</POS>
+		<Lemma>pair up in less than a minute .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Scanned for best FM station in the area and was streaming music flawlessly .</Tokens>
+		<POS>VBN IN JJS NN NN IN DT NN CC VBD NN NN RB .</POS>
+		<Lemma>scan for best fm station in the area and be streaming music flawlessly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Works great for hands-free calling as well .</Tokens>
+		<POS>NNP JJ IN JJ VBG RB RB .</POS>
+		<Lemma>Works great for hands-free call as well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Overall great product .</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>overall great product .</Lemma>
+	</Sentence>
+</Document>

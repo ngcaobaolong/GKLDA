@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love these honey stingers on my rides .</Tokens>
+		<POS>PRP VBP DT NN NNS IN PRP$ NNS .</POS>
+		<Lemma>I love these honey stinger on my ride .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Taste : Literally tastes like waffles with extra vanilla\/honey Texture : feels like a very condensed waffle amount : If you want something to fill you up this wont be it ... but it gives me enough for a little boost so i usually bring 2 with me on 40 mile rides ... i only eat one but bring that extra just in case</Tokens>
+		<POS>NN : RB NNS IN NNS IN JJ NN NN : VBZ IN DT RB JJ NN NN : IN PRP VBP NN TO VB PRP RP DT NN VB PRP : CC PRP VBZ PRP JJ IN DT JJ NN IN FW RB VBP CD IN PRP IN CD NN NNS : FW RB VB CD CC VB DT JJ RB IN NN</POS>
+		<Lemma>taste : literally taste like waffle with extra vanilla\/honey texture : feel like a very condensed waffle amount : if you want something to fill you up this wont be it ... but it give I enough for a little boost so i usually bring 2 with I on 40 mile ride ... i only eat one but bring that extra just in case</Lemma>
+	</Sentence>
+</Document>

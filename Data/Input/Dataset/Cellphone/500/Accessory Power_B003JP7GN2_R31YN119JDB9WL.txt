@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I can power or charge all my toys -LRB- gps , pda , etc. -RRB- and the multi-input power is great -LRB- AA battery , 9 volt , car 12volt , or AC outlet -RRB- .</Tokens>
+		<POS>PRP MD NN CC NN DT PRP$ NNS -LRB- NNS , NN , NN -RRB- CC DT JJ NN VBZ JJ -LRB- NN NN , CD NN , NN NN , CC NN NN -RRB- .</POS>
+		<Lemma>I can power or charge all my toy -lrb- gp , pda , etc. -rrb- and the multi-input power be great -lrb- aa battery , 9 volt , car 12volt , or ac outlet -rrb- .</Lemma>
+	</Sentence>
+</Document>

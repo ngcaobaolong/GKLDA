@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are thinking of buying this monitor because it has three inputs -LRB- 1xVGA + 2xHDMI -RRB- like I did , think again .</Tokens>
+		<POS>IN PRP VBP VBG IN VBG DT NN IN PRP VBZ CD NNS -LRB- NN CC NN -RRB- IN PRP VBD , VB RB .</POS>
+		<Lemma>if you be think of buy this monitor because it have three input -lrb- 1xvga + 2xhdmus -rrb- like I do , think again .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There is no input select button .</Tokens>
+		<POS>EX VBZ DT NN JJ NN .</POS>
+		<Lemma>there be no input select button .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>To change the input , you have to navigate thru the OSD .</Tokens>
+		<POS>TO VB DT NN , PRP VBP TO VB NN DT NNP .</POS>
+		<Lemma>to change the input , you have to navigate thru the OSD .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>All told , it takes 10 button presses to change the input - and if during that time your computer has turned off the display because there 's no monitor signal -LRB- like my macbook does -RRB- then the monitor will just revert back to the original input \* and \* close the OSD .</Tokens>
+		<POS>DT VBD , PRP VBZ CD NN NNS TO VB DT NN : CC IN IN DT NN PRP$ NN VBZ VBN RP DT NN IN EX VBZ DT NN NN -LRB- IN PRP$ NN VBZ -RRB- RB DT NN MD RB VB RB TO DT JJ NN NN CC SYM VB DT NNP .</POS>
+		<Lemma>all tell , it take 10 button press to change the input - and if during that time you computer have turn off the display because there be no monitor signal -lrb- like my macbook do -rrb- then the monitor will just revert back to the original input \* and \* close the OSD .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Utterly useless .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>utterly useless .</Lemma>
+	</Sentence>
+</Document>

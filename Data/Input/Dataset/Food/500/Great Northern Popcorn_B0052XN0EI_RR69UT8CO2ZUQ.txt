@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a huge bag of kernels for at home use .</Tokens>
+		<POS>DT VBZ DT JJ NN IN NNS IN IN NN NN .</POS>
+		<Lemma>this be a huge bag of kernel for at home use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did n't realize how much corn that would be but it has a long shelf life and there was plenty to share with family members .</Tokens>
+		<POS>PRP VBD RB VB WRB JJ NN WDT MD VB CC PRP VBZ DT JJ NN NN CC EX VBD NN TO VB IN NN NNS .</POS>
+		<Lemma>I do not realize how much corn that would be but it have a long shelf life and there be plenty to share with family member .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We have enjoyed it very much , fresh and pops well .</Tokens>
+		<POS>PRP VBP VBN PRP RB RB , JJ CC VBZ RB .</POS>
+		<Lemma>we have enjoy it very much , fresh and pop well .</Lemma>
+	</Sentence>
+</Document>

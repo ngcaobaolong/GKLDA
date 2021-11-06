@@ -1,0 +1,177 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This 4 star review should probably be a 4.5 star .</Tokens>
+		<POS>DT CD NN NN MD RB VB DT CD NN .</POS>
+		<Lemma>this 4 star review should probably be a 4.5 star .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After 5 years good experience with Canon S3 IS , this camera is a vast upgrade .</Tokens>
+		<POS>IN CD NNS JJ NN IN NNP NN VBZ , DT NN VBZ DT JJ NN .</POS>
+		<Lemma>after 5 year good experience with Canon s3 be , this camera be a vast upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would recommend buying this model if you are just a hobby photographer such as myself since it is probably as good as it gets for a point and shoot camera .</Tokens>
+		<POS>PRP MD VB VBG DT NN IN PRP VBP RB DT NN NNP JJ IN PRP IN PRP VBZ RB IN JJ IN PRP VBZ IN DT NN CC VB NN .</POS>
+		<Lemma>I would recommend buy this model if you be just a hobby photographer such as myself since it be probably as good as it get for a point and shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>THE GOOD : 35x optical zoom and 140x with digital ... I 'm in heaven !</Tokens>
+		<POS>DT NNP : CD JJ NN CC NN IN JJ : PRP VBP IN NN .</POS>
+		<Lemma>the GOOD : 35x optical zoom and 140x with digital ... I be in heaven !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great quality lens in any event .</Tokens>
+		<POS>JJ NN NN IN DT NN .</POS>
+		<Lemma>great quality lens in any event .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>2.7 inch LCD is adequate considering that it swivels for a big plus .</Tokens>
+		<POS>CD NN NNS VBZ JJ VBG IN PRP VBZ IN DT JJ NN .</POS>
+		<Lemma>2.7 inch lcd be adequate consider that it swivel for a big plus .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Would have liked a 3 inch or larger .</Tokens>
+		<POS>MD VB VBN DT CD NN CC JJR .</POS>
+		<Lemma>would have like a 3 inch or larger .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Retaining the optical viewer is great .</Tokens>
+		<POS>VBG DT JJ NN VBZ JJ .</POS>
+		<Lemma>retain the optical viewer be great .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Image stabilization is much improved to the point where taking a handheld picture at 140x outdoors is no real challenge .</Tokens>
+		<POS>NN NN VBZ JJ VBN TO DT NN WRB VBG DT JJ NN IN CD NNS VBZ DT JJ NN .</POS>
+		<Lemma>image stabilization be much improve to the point where take a handheld picture at 140x outdoors be no real challenge .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Using 140x in low light indoors is possible but takes a little effort .</Tokens>
+		<POS>VBG NN IN JJ JJ RB VBZ JJ CC VBZ DT JJ NN .</POS>
+		<Lemma>use 140x in low light indoors be possible but take a little effort .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Zoom assist button is real nice addition .</Tokens>
+		<POS>NNP VB NN VBZ JJ JJ NN .</POS>
+		<Lemma>Zoom assist button be real nice addition .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>All the face recognition software and features is another plus , but , will probably not be used by me .</Tokens>
+		<POS>PDT DT NN NN NN CC NNS VBZ DT CC , CC , MD RB RB VB VBN IN PRP .</POS>
+		<Lemma>all the face recognition software and feature be another plus , but , will probably not be use by I .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>General layout of buttons , wheels , and knobs , and menus is probably about as good as it gets for this complicated camera and makes holding the camera more comfortable than old S3 .</Tokens>
+		<POS>NNP NN IN NNS , NNS , CC NNS , CC NNS VBZ RB IN RB JJ IN PRP VBZ IN DT JJ NN CC VBZ VBG DT NN RBR JJ IN JJ NN .</POS>
+		<Lemma>General layout of button , wheel , and knob , and menu be probably about as good as it get for this complicated camera and make hold the camera more comfortable than old s3 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I even like the smaller , lighter battery that lasts longer than 4 AAs and I was able to buy a spare for less cost than 4 rechargeable AAs .</Tokens>
+		<POS>PRP RB IN DT JJR , JJR NN WDT VBZ JJR IN CD NNS CC PRP VBD JJ TO VB DT JJ IN JJR NN IN CD JJ NNS .</POS>
+		<Lemma>I even like the smaller , lighter battery that last longer than 4 aa and I be able to buy a spare for less cost than 4 rechargeable aa .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The location of memory card in same compartment with battery is a `` do n't care '' .</Tokens>
+		<POS>DT NN IN NN NN IN JJ NN IN NN VBZ DT `` VBP RB VB '' .</POS>
+		<Lemma>the location of memory card in same compartment with battery be a `` do not care '' .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The video is good .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the video be good .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>If I wanted perfect video I would get a camcorder .</Tokens>
+		<POS>IN PRP VBD JJ NN PRP MD VB DT NN .</POS>
+		<Lemma>if I want perfect video I would get a camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The ease of taking video , jumping into manual mode , setting ISO , and going automatically into macro if needed are all nice features .</Tokens>
+		<POS>DT NN IN VBG NN , VBG IN JJ NN , VBG NN , CC VBG RB IN NN IN VBN VBP DT JJ NNS .</POS>
+		<Lemma>the ease of take video , jump into manual mode , set iso , and go automatically into macro if need be all nice feature .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>LESS GOOD : Several of the negative reviews I have seen could be handled by reading the 196 page user guide which is part of the furnished CD .</Tokens>
+		<POS>JJR NN : JJ IN DT JJ NNS PRP VBP VBN MD VB VBN IN VBG DT CD NN NN NN WDT VBZ NN IN DT JJ NN .</POS>
+		<Lemma>less good : several of the negative review I have see could be handle by read the 196 page user guide which be part of the furnished cd .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>No printed copy is furnished , but who , besides me , would actually read it anyhow ?</Tokens>
+		<POS>DT VBN NN VBZ VBN , CC WP , IN PRP , MD RB VB PRP RB .</POS>
+		<Lemma>no print copy be furnish , but who , besides I , would actually read it anyhow ?</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I printed 98 pages of the best material to supplement my 5 years experience with very similar S3 .</Tokens>
+		<POS>PRP VBD CD NNS IN DT JJS NN TO VB PRP$ CD NNS NN IN RB JJ NN .</POS>
+		<Lemma>I print 98 page of the best material to supplement my 5 year experience with very similar s3 .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I have never skimmed the guide or picked up this new camera without learning something new .</Tokens>
+		<POS>PRP VBP RB VBN DT NN CC VBD RP DT JJ NN IN VBG NN JJ .</POS>
+		<Lemma>I have never skim the guide or pick up this new camera without learn something new .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I am getting better and better results with each day since this camera takes some work to get maximum results .</Tokens>
+		<POS>PRP VBP VBG JJR CC JJR NNS IN DT NN IN DT NN VBZ DT NN TO VB JJ NNS .</POS>
+		<Lemma>I be get better and better result with each day since this camera take some work to get maximum result .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The external lens interface has what looks like internal threads but is actually just ridges to retain the lens cap .</Tokens>
+		<POS>DT JJ NN NN VBZ WP VBZ IN JJ NNS CC VBZ RB RB NNS TO VB DT NN NN .</POS>
+		<Lemma>the external lens interface have what look like internal thread but be actually just ridge to retain the lens cap .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>The external part has some sort of flange where an adapter can be attached for filter use .</Tokens>
+		<POS>DT JJ NN VBZ DT NN IN NN WRB DT NN MD VB VBN IN NN NN .</POS>
+		<Lemma>the external part have some sort of flange where a adapter can be attach for filter use .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Why not just accept filters directly ?</Tokens>
+		<POS>WRB RB RB VB NNS RB .</POS>
+		<Lemma>why not just accept filter directly ?</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>PERSONAL OBSERVATIONS : The picture quality is not just automatically great .</Tokens>
+		<POS>JJ NNS : DT NN NN VBZ RB RB RB JJ .</POS>
+		<Lemma>personal observation : the picture quality be not just automatically great .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Proper settings help a lot , but may require a little study in the 196 page guide .</Tokens>
+		<POS>JJ NNS VBP DT NN , CC MD VB DT JJ NN IN DT CD NN NN .</POS>
+		<Lemma>proper setting help a lot , but may require a little study in the 196 page guide .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Outdoors at 140x a great deal depends on the subject .</Tokens>
+		<POS>RB IN CD DT JJ NN VBZ IN DT NN .</POS>
+		<Lemma>outdoors at 140x a great deal depend on the subject .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>If focused on area that has nearer and further away material then focus is confused and the picture is fuzzy .</Tokens>
+		<POS>IN VBN IN NN WDT VBZ IN CC RB RB JJ RB NN VBZ VBN CC DT NN VBZ JJ .</POS>
+		<Lemma>if focus on area that have nearer and further away material then focus be confuse and the picture be fuzzy .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>An object at set distance comes out good .</Tokens>
+		<POS>DT NN IN VBN NN VBZ RP JJ .</POS>
+		<Lemma>a object at set distance come out good .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>You can use manual focus , but it takes some effort .</Tokens>
+		<POS>PRP MD VB JJ NN , CC PRP VBZ DT NN .</POS>
+		<Lemma>you can use manual focus , but it take some effort .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Indoors it is difficult to focus using 140x in low light , and once done , it is almost essential to use the flash for faster shutter speed and crisp picture .</Tokens>
+		<POS>RB PRP VBZ JJ TO VB VBG NN IN JJ NN , CC RB VBN , PRP VBZ RB JJ TO VB DT NN IN JJR JJR NN CC JJ NN .</POS>
+		<Lemma>indoors it be difficult to focus use 140x in low light , and once do , it be almost essential to use the flash for faster shutter speed and crisp picture .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>Upon suggestion of another reviewer I am using the P mode shooting and setting the ISO to limit at 400 .</Tokens>
+		<POS>IN NN IN DT NN PRP VBP VBG DT NN NN NN CC VBG DT NN TO VB IN CD .</POS>
+		<Lemma>upon suggestion of another reviewer I be use the p mode shooting and set the iso to limit at 400 .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>This seems to help .</Tokens>
+		<POS>DT VBZ TO VB .</POS>
+		<Lemma>this seem to help .</Lemma>
+	</Sentence>
+</Document>

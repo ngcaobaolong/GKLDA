@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wonderful breakfast syrup in great little jug for the table .</Tokens>
+		<POS>JJ NN NN IN JJ JJ NN IN DT NN .</POS>
+		<Lemma>wonderful breakfast syrup in great little jug for the table .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great taste & you can not beat this price for pure maple syrup .</Tokens>
+		<POS>JJ NN CC PRP MD RB VB DT NN IN JJ NN NN .</POS>
+		<Lemma>great taste & you can not beat this price for pure maple syrup .</Lemma>
+	</Sentence>
+</Document>

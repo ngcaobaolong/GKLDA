@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used this camera both indoors and outdoors , and I thought the image processing was slow , and the amount of light captured by the camera in low light conditions was surprisingly low for a camera this size .</Tokens>
+		<POS>PRP VBD DT NN CC RB CC RB , CC PRP VBD DT NN NN VBD JJ , CC DT NN IN JJ VBN IN DT NN IN JJ JJ NNS VBD RB JJ IN DT NN DT NN .</POS>
+		<Lemma>I use this camera both indoors and outdoors , and I think the image processing be slow , and the amount of light capture by the camera in low light condition be surprisingly low for a camera this size .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>In fax , my little Optio performed better in low light with no flash .</Tokens>
+		<POS>IN NN , PRP$ JJ NNP VBD RBR IN JJ NN IN DT NN .</POS>
+		<Lemma>in fax , my little Optio perform better in low light with no flash .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I also found it had to get the camera to focus on foreground in macro .</Tokens>
+		<POS>PRP RB VBD PRP VBD TO VB DT NN TO VB IN NN IN NN .</POS>
+		<Lemma>I also find it have to get the camera to focus on foreground in macro .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ended up selling it back to one of my guys for fifty bucks , because I am on a military installation where I ca n't mail things back over thirteen ounces .</Tokens>
+		<POS>PRP VBD RP VBG PRP RB TO CD IN PRP$ NNS IN CD NNS , IN PRP VBP IN DT JJ NN WRB PRP MD RB VB NNS RB IN CD NNS .</POS>
+		<Lemma>I end up sell it back to one of my guy for fifty buck , because I be on a military installation where I can not mail thing back over thirteen ounce .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'll just be spending 400 dollars on a decent camera , like the nice Canon I used to own .</Tokens>
+		<POS>PRP MD RB VB VBG CD NNS IN DT JJ NN , IN DT JJ NNP PRP VBD TO VB .</POS>
+		<Lemma>I 'll just be spend 400 dollar on a decent camera , like the nice Canon I use to own .</Lemma>
+	</Sentence>
+</Document>

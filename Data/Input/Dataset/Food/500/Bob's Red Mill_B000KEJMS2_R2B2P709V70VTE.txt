@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great red lentils .</Tokens>
+		<POS>JJ JJ NNS .</POS>
+		<Lemma>great red lentil .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is the split , lighter colored variety .</Tokens>
+		<POS>DT VBZ DT NN , JJR VBN NN .</POS>
+		<Lemma>this be the split , lighter color variety .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>You should always pick through all dry legumes before washing , but I never found a rock in these .</Tokens>
+		<POS>PRP MD RB VB IN DT JJ NNS IN VBG , CC PRP RB VBD DT NN IN DT .</POS>
+		<Lemma>you should always pick through all dry legume before wash , but I never find a rock in these .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works as intended .</Tokens>
+		<POS>NNP IN VBN .</POS>
+		<Lemma>Works as intend .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Only aspect I wish worked better is that it would stay in position when the car charger is plugged in .</Tokens>
+		<POS>RB NN PRP VBP VBD JJR VBZ IN PRP MD VB IN NN WRB DT NN NN VBZ VBN IN .</POS>
+		<Lemma>only aspect I wish work better be that it would stay in position when the car charger be plug in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The weight of the charger makes it fall flat .</Tokens>
+		<POS>DT NN IN DT NN VBZ PRP VB JJ .</POS>
+		<Lemma>the weight of the charger make it fall flat .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Other than that , really a minor flaw , a really great product .</Tokens>
+		<POS>JJ IN DT , RB DT JJ NN , DT RB JJ NN .</POS>
+		<Lemma>other than that , really a minor flaw , a really great product .</Lemma>
+	</Sentence>
+</Document>

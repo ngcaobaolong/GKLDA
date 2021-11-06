@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is Gluten Free , unlike the poster who claimed Buckwheat contains Gluten ... It is from a totally differnt plant and is Gluten Free .</Tokens>
+		<POS>DT NN VBZ NNP NNP , IN DT NN WP VBD NNP VBZ NNP : PRP VBZ IN DT RB JJ NN CC VBZ NNP NNP .</POS>
+		<Lemma>this product be Gluten Free , unlike the poster who claim Buckwheat contain Gluten ... it be from a totally differnt plant and be Gluten Free .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If people would do their research they would know better than to post things that are false .</Tokens>
+		<POS>IN NNS MD VB PRP$ NN PRP MD VB JJR IN TO VB NNS WDT VBP JJ .</POS>
+		<Lemma>if people would do they research they would know better than to post thing that be false .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That said , This is a nice alternative to store bought frozen breads .</Tokens>
+		<POS>DT VBD , DT VBZ DT JJ NN TO VB VBN JJ NNS .</POS>
+		<Lemma>that say , this be a nice alternative to store buy frozen bread .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And easy to make .</Tokens>
+		<POS>CC JJ TO VB .</POS>
+		<Lemma>and easy to make .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>THe only issue I had , was it rose too much !</Tokens>
+		<POS>NN RB NN PRP VBD , VBD PRP VBD RB JJ .</POS>
+		<Lemma>the only issue I have , be it rise too much !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I suggest either splitting it into a loaf and some rolls or getting a large bread pan .</Tokens>
+		<POS>PRP VBP CC NN PRP IN DT NN CC DT NNS CC VBG DT JJ NN NN .</POS>
+		<Lemma>I suggest either splitting it into a loaf and some roll or get a large bread pan .</Lemma>
+	</Sentence>
+</Document>

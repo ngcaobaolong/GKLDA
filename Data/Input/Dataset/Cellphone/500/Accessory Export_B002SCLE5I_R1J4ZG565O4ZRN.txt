@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product will work on a motorola cliq xt , HOWEVER my brother tried it on his HTC EVO and it completely screwed it up !!</Tokens>
+		<POS>DT NN MD VB IN DT NN NN NN , NNP PRP$ NN VBD PRP IN PRP$ NNP NNP CC PRP RB VBD PRP RP CD</POS>
+		<Lemma>this product will work on a motorolum cliq xt , HOWEVER my brother try it on he HTC EVO and it completely screw it up !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It crashed and kept giving error messgages , as well as disabling the phone entirely</Tokens>
+		<POS>PRP VBD CC VBD VBG NN NNS , RB RB IN VBG DT NN RB</POS>
+		<Lemma>it crash and keep give error messgage , as well as disable the phone entirely</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really read alot of great reviews on this camera , but I do n't have my camera yet to really write any about the camera nikon s8200 , I ordered my nikon s8200 on Feb. 14,2012 on sat .</Tokens>
+		<POS>PRP RB VBD NN IN JJ NNS IN DT NN , CC PRP VBP RB VB PRP$ NN RB TO RB VB DT IN DT NN NN NN , PRP VBD PRP$ NN NN IN NNP CD IN VBN .</POS>
+		<Lemma>I really read alot of great review on this camera , but I do not have my camera yet to really write any about the camera nikon s8200 , I order my nikon s8200 on Feb. 14,2012 on sit .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But here it 's Thursday evening Feb. 19,2012 5 days after I ordered it .</Tokens>
+		<POS>CC RB PRP VBZ NNP NN NNP CD CD NNS IN PRP VBD PRP .</POS>
+		<Lemma>but here it be Thursday evening Feb. 19,2012 5 day after I order it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>BUT THEY SAY THAT IT WILL BE SHIPPED FOR ARRIVAL BETWEEN Feb. 20 to Feb. 25 .</Tokens>
+		<POS>NNP NNP NNP WDT PRP MD VB NNP IN NNP NNP NNP CD TO NNP CD .</POS>
+		<Lemma>BUT THEY SAY that it will be SHIPPED for ARRIVAL BETWEEN Feb. 20 to Feb. 25 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Now what I do n't understand is why ca n't it be ship after I ordered it that day , why make the customer wait , I 've order before and items have been shipped the next day with super saver shipping .</Tokens>
+		<POS>RB WP PRP VBP RB VB VBZ WRB MD RB PRP VB NN IN PRP VBD PRP DT NN , WRB VB DT NN NN , PRP VBP NN IN CC NNS VBP VBN VBN DT JJ NN IN JJ NN NN .</POS>
+		<Lemma>now what I do not understand be why can not it be ship after I order it that day , why make the customer wait , I have order before and item have be ship the next day with super saver shipping .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This makes great customer relation , like there really busy , with our slow economy .</Tokens>
+		<POS>DT VBZ JJ NN NN , IN EX RB JJ , IN PRP$ JJ NN .</POS>
+		<Lemma>this make great customer relation , like there really busy , with we slow economy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Just blewing some steam at AMAZON get it AMAZON !</Tokens>
+		<POS>RB VBG DT NN IN NNP VB PRP NNP .</POS>
+		<Lemma>just blew some steam at AMAZON get it AMAZON !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I know this review does n't belong here .</Tokens>
+		<POS>PRP VBP DT NN VBZ RB VB RB .</POS>
+		<Lemma>I know this review do not belong here .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Richard Nikon COOLPIX S8200 16.1 MP CMOS Digital Camera with 14x Optical Zoom NIKKOR ED Glass Lens and Full HD 1080p Video -LRB- Black -RRB- </Tokens>
+		<POS>NNP NNP NNP NNP NN CD NN NNP NNP NNP IN CD NNP NNP NNP NNP NNP NNP CC JJ NN CD NNP -LRB- NNP -RRB- IN</POS>
+		<Lemma>Richard Nikon COOLPIX s8200 16.1 mp CMOS Digital Camera with 14x Optical Zoom NIKKOR ED Glass Lens and full hd 1080p Video -lrb- Black -rrb- </Lemma>
+	</Sentence>
+</Document>

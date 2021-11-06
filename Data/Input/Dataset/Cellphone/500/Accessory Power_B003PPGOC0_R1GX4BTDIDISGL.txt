@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received and installed the GOgroove FlexSMART X2 just prior to an extended trip to the desert southwest .</Tokens>
+		<POS>PRP VBD CC VBD DT NN NN NN RB RB TO DT JJ NN TO DT NN NN .</POS>
+		<Lemma>I receive and install the gogroove flexsmart x2 just prior to a extended trip to the desert southwest .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is easy to install : just plug into the lighter socket in my car , sync up the transmitter with the smartphone and I was good to go .</Tokens>
+		<POS>PRP VBZ JJ TO VB : RB VB IN DT JJR NN IN PRP$ NN , NN IN DT NN IN DT NN CC PRP VBD JJ TO VB .</POS>
+		<Lemma>it be easy to install : just plug into the lighter socket in my car , sync up the transmitter with the smartphone and I be good to go .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It works great with Pandora via wireless and without missing a beat in roaming areas prevalent in the remote deserts of Utah and Arizona .</Tokens>
+		<POS>PRP VBZ JJ IN NNP IN JJ CC IN VBG DT NN IN VBG NNS JJ IN DT JJ NNS IN NNP CC NNP .</POS>
+		<Lemma>it work great with Pandora via wireless and without miss a beat in roam area prevalent in the remote desert of Utah and Arizona .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am very pleased with the results .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NNS .</POS>
+		<Lemma>I be very pleased with the result .</Lemma>
+	</Sentence>
+</Document>

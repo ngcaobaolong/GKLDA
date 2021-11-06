@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We 've enjoyed Bob 's Red Mill products for a long time , and I was delighted with this soup mix too .</Tokens>
+		<POS>PRP VBP VBN NNP POS NNP NNP NNS IN DT JJ NN , CC PRP VBD JJ IN DT NN NN RB .</POS>
+		<Lemma>we have enjoy Bob 's Red Mill product for a long time , and I be delighted with this soup mix too .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Like some other reviewers said , it is plain and mostly unseasoned , but that is the beauty of it .</Tokens>
+		<POS>IN DT JJ NNS VBD , PRP VBZ JJ CC RB JJ , CC DT VBZ DT NN IN PRP .</POS>
+		<Lemma>like some other reviewer say , it be plain and mostly unseasoned , but that be the beauty of it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's a good mix of vegetable pasta , barley , dried peas and lentils .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN NN NN , NN , VBD NNS CC NNS .</POS>
+		<Lemma>it be a good mix of vegetable pasta , barley , dry pea and lentil .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's quick-cooking and rich and filling , but it needs seasoning and either meat or veggies added to it .</Tokens>
+		<POS>PRP VBZ JJ CC JJ CC NN , CC PRP VBZ NN CC CC NN CC NNS VBD TO PRP .</POS>
+		<Lemma>it be quick-cooking and rich and filling , but it need seasoning and either meat or veggy add to it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We like adding ham chunks , chopped spinach , onion , cracked pepper and canned crushed tomatoes , but we also like it with chorizo sausage -LRB- pre-cooked ! -RRB-</Tokens>
+		<POS>PRP VBP VBG NN NNS , VBN NN , NN , VBN NN CC VBD JJ NNS , CC PRP RB IN PRP IN NN NN -LRB- JJ . -RRB-</POS>
+		<Lemma>we like add ham chunk , chop spinach , onion , crack pepper and can crushed tomato , but we also like it with chorizo sausage -lrb- pre-cooked ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>, and mixed frozen vegetables .</Tokens>
+		<POS>, CC JJ JJ NNS .</POS>
+		<Lemma>, and mixed frozen vegetable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I added some chopped cabbage once and it was great .</Tokens>
+		<POS>PRP VBD DT VBN NN RB CC PRP VBD JJ .</POS>
+		<Lemma>I add some chop cabbage once and it be great .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It thickens as the peas and lentils cook , so you can add more or less water as you wish .</Tokens>
+		<POS>PRP VBZ IN DT NNS CC NNS VBP , IN PRP MD VB JJR CC JJR NN IN PRP VBP .</POS>
+		<Lemma>it thicken as the pea and lentil cook , so you can add more or less water as you wish .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>One of the best things about this soup base is that you add your own salt .</Tokens>
+		<POS>CD IN DT JJS NNS IN DT NN NN VBZ IN PRP VB PRP$ JJ NN .</POS>
+		<Lemma>one of the best thing about this soup base be that you add you own salt .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So many products come heavily and unhealthily salted but not this one .</Tokens>
+		<POS>RB JJ NNS VBP RB CC RB JJ CC RB DT CD .</POS>
+		<Lemma>so many product come heavily and unhealthily salted but not this one .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's much better to add your own as desired !</Tokens>
+		<POS>PRP VBZ RB JJR TO VB PRP$ JJ IN VBN .</POS>
+		<Lemma>it be much better to add you own as desire !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>This soup is a little expensive - about $ 4 per bag - but it makes a big pot of soup , and with free SuperSaver shipping it 's a good deal and something that I 'll order again .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ : IN $ CD IN NN : CC PRP VBZ DT JJ NN IN NN , CC IN JJ NNP NN PRP VBZ DT JJ NN CC NN IN PRP MD VB RB .</POS>
+		<Lemma>this soup be a little expensive - about $ 4 per bag - but it make a big pot of soup , and with free SuperSaver shipping it be a good deal and something that I 'll order again .</Lemma>
+	</Sentence>
+</Document>

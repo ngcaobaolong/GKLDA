@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really liked this transmitter while it was working properly .</Tokens>
+		<POS>PRP RB VBD DT NN IN PRP VBD VBG RB .</POS>
+		<Lemma>I really like this transmitter while it be work properly .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Not long after I had it I started having an issue with adjusting the volume .</Tokens>
+		<POS>RB RB IN PRP VBD PRP PRP VBD VBG DT NN IN VBG DT NN .</POS>
+		<Lemma>not long after I have it I start have a issue with adjust the volume .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had to turn the knob many times to get the volume to go up .</Tokens>
+		<POS>PRP VBD TO VB DT NN JJ NNS TO VB DT NN TO VB RP .</POS>
+		<Lemma>I have to turn the knob many time to get the volume to go up .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Then shortly after it stopped working all-together .</Tokens>
+		<POS>RB RB IN PRP VBD VBG NN .</POS>
+		<Lemma>then shortly after it stop work all-together .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Now when I plug it in only some of the buttons light up .</Tokens>
+		<POS>RB WRB PRP VBP PRP IN RB DT IN DT NNS VBP RP .</POS>
+		<Lemma>now when I plug it in only some of the button light up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The display does not light up & the unit does not work at all .</Tokens>
+		<POS>DT NN VBZ RB JJ IN CC DT NN VBZ RB VB IN DT .</POS>
+		<Lemma>the display do not light up & the unit do not work at all .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Great buy if you get one that lasts , but I definitely did not get my moneys worth out of this purchase .</Tokens>
+		<POS>JJ NN IN PRP VBP CD WDT VBZ , CC PRP RB VBD RB VB PRP$ NNS JJ IN IN DT NN .</POS>
+		<Lemma>great buy if you get one that last , but I definitely do not get my money worth out of this purchase .</Lemma>
+	</Sentence>
+</Document>

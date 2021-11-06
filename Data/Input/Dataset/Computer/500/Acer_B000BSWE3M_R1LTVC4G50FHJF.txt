@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>bought this from amazon.com for $ 200 after rebate .</Tokens>
+		<POS>VBN DT IN NNP IN $ CD IN NN .</POS>
+		<Lemma>buy this from amazon.com for $ 200 after rebate .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>this was the best deal I could get on a name brand 19 '' lcd monitor .</Tokens>
+		<POS>DT VBD DT JJS NN PRP MD VB IN DT NN NN CD '' VBD NN .</POS>
+		<Lemma>this be the best deal I could get on a name brand 19 '' lcd monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>other competitors were selling same configurations for more than $ 300 .</Tokens>
+		<POS>JJ NNS VBD VBG JJ NNS IN JJR IN $ CD .</POS>
+		<Lemma>other competitor be sell same configuration for more than $ 300 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>plus , this comes with 3 yr warranty , 12ms response time , and 600:1 contrast ratio .</Tokens>
+		<POS>CC , DT VBZ IN CD NN NN , JJ NN NN , CC CD NN NN .</POS>
+		<Lemma>plus , this come with 3 yr warranty , 12ms response time , and 600:1 contrast ratio .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>monitor is lightweight , 12 lbs .</Tokens>
+		<POS>NN VBZ JJ , CD NNS .</POS>
+		<Lemma>monitor be lightweight , 12 lb .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>it 's a space saver too , compared to the old viewsonic 19 '' crt I had .</Tokens>
+		<POS>PRP VBZ DT NN NN RB , VBN TO DT JJ JJ CD '' NN PRP VBD .</POS>
+		<Lemma>it be a space saver too , compare to the old viewsonic 19 '' crt I have .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>easy setup .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>easy setup .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>did n't have to use cd for setup ; just connected monitor cable and it was working .</Tokens>
+		<POS>VBD RB VB TO VB NN IN NN : RB VBN NN NN CC PRP VBD VBG .</POS>
+		<Lemma>do not have to use cd for setup ; just connect monitor cable and it be work .</Lemma>
+	</Sentence>
+</Document>

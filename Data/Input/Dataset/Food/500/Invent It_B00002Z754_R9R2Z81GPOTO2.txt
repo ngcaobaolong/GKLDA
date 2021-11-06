@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a really good idea and the final product is outstanding .</Tokens>
+		<POS>DT VBD DT RB JJ NN CC DT JJ NN VBZ JJ .</POS>
+		<Lemma>this be a really good idea and the final product be outstanding .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use the decals on my car window and everybody asks where i bought the decals i made .</Tokens>
+		<POS>PRP VBP DT NNS IN PRP$ NN NN CC NN VBZ WRB FW VBD DT NNS FW VBN .</POS>
+		<Lemma>I use the decal on my car window and everybody ask where i buy the decal i make .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Two thumbs up !</Tokens>
+		<POS>CD NNS RB .</POS>
+		<Lemma>two thumb up !</Lemma>
+	</Sentence>
+</Document>

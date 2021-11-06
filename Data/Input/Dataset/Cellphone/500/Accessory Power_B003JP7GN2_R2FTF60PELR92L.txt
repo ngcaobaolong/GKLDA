@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I do not have time to ship this item back ight now but will in the near future , all it will do is charge a item if it is pluged into a 110 volt outlet .</Tokens>
+		<POS>PRP VBP RB VB NN TO VB DT NN RB RB RB CC MD IN DT JJ NN , DT PRP MD VB VBZ VB DT NN IN PRP VBZ VBN IN DT CD NN NN .</POS>
+		<Lemma>I do not have time to ship this item back ight now but will in the near future , all it will do be charge a item if it be pluge into a 110 volt outlet .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I tried o charge my nook with a 9volt battery and all it did was kill the 9 volt with little charge to the nook about 8 9volt batteries would be required .</Tokens>
+		<POS>PRP VBD NN NN PRP$ NN IN DT JJ NN CC DT PRP VBD VBD VB DT CD NN IN JJ NN TO DT NN IN CD NN NNS MD VB VBN .</POS>
+		<Lemma>I try o charge my nook with a 9volt battery and all it do be kill the 9 volt with little charge to the nook about 8 9volt battery would be require .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Using a 9 volt I tried to charge my cell phone , it actually drained 2 bars of power from my cell phone , killing it completely .</Tokens>
+		<POS>VBG DT CD NN PRP VBD TO VB PRP$ NN NN , PRP RB VBD CD NNS IN NN IN PRP$ NN NN , VBG PRP RB .</POS>
+		<Lemma>use a 9 volt I try to charge my cell phone , it actually drain 2 bar of power from my cell phone , kill it completely .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is the biggest piece of junk I have ever purchased from Amazon !!</Tokens>
+		<POS>DT VBZ DT JJS NN IN NN PRP VBP RB VBN IN NNP NN</POS>
+		<Lemma>this be the biggest piece of junk I have ever purchase from Amazon !!</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And whats with the power indicater light ?</Tokens>
+		<POS>CC NNS IN DT NN NN NN .</POS>
+		<Lemma>and what with the power indicater light ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>inside behind a piece of colored glass where it ca n't be seen , also when 2 AA batteries are installed the power light comes on for several seconds then goes out , this WILL be coming back and the worst possible rating given on Amazon ASAP , I would rate this a minus 5 if possible .</Tokens>
+		<POS>IN IN DT NN IN VBN NN WRB PRP MD RB VB VBN , RB WRB CD NN NNS VBP VBN DT NN NN VBZ IN IN JJ NNS RB VBZ RP , DT MD VB VBG RB CC DT JJS JJ NN VBN IN NNP NNP , PRP MD VB DT DT CC CD IN JJ .</POS>
+		<Lemma>inside behind a piece of color glass where it can not be see , also when 2 aa battery be install the power light come on for several seconds then go out , this will be come back and the worst possible rating give on Amazon ASAP , I would rate this a minus 5 if possible .</Lemma>
+	</Sentence>
+</Document>

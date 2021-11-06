@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This Acer 17 '' Monitor was exactly what my customer needed .</Tokens>
+		<POS>DT NNP CD '' NNP VBD RB WP PRP$ NN VBN .</POS>
+		<Lemma>this Acer 17 '' Monitor be exactly what my customer need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fast delivery allowed me to deliver , bill and get paid within a couple of days .</Tokens>
+		<POS>JJ NN VBD PRP TO VB , NN CC VB VBN IN DT NN IN NNS .</POS>
+		<Lemma>fast delivery allow I to deliver , bill and get pay within a couple of day .</Lemma>
+	</Sentence>
+</Document>

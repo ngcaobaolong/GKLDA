@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Generation X antenna booster DOES increase your reception and , in turn , should slightly increase battery charge life .</Tokens>
+		<POS>DT NN NN NN NN VBZ VB PRP$ NN CC , IN NN , MD RB VB NN NN NN .</POS>
+		<Lemma>the generation x antenna booster do increase you reception and , in turn , should slightly increase battery charge life .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had three bars in the office , now I have four .</Tokens>
+		<POS>PRP VBD CD NNS IN DT NN , RB PRP VBP CD .</POS>
+		<Lemma>I have three bar in the office , now I have four .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had to really search around online to find out where the antenna is in my phone .</Tokens>
+		<POS>PRP VBD TO RB VB IN NN TO VB RP WRB DT NN VBZ IN PRP$ NN .</POS>
+		<Lemma>I have to really search around online to find out where the antenna be in my phone .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I knew placement was important to the effectiveness of the booster .</Tokens>
+		<POS>PRP VBD NN VBD JJ TO DT NN IN DT NN .</POS>
+		<Lemma>I know placement be important to the effectiveness of the booster .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>FYI , the best place to put the booster in an Atrix 2 is just above -LRB- not on top of -RRB- the SIM card and pointing up .</Tokens>
+		<POS>NNP , DT JJS NN TO VB DT NN IN DT NNP CD VBZ RB JJ -LRB- RB IN NN IN -RRB- DT NNP NN CC VBG RP .</POS>
+		<Lemma>FYI , the best place to put the booster in a Atrix 2 be just above -lrb- not on top of -rrb- the SIM card and point up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>That is the area where the internal antenna is .</Tokens>
+		<POS>DT VBZ DT NN WRB DT JJ NN VBZ .</POS>
+		<Lemma>that be the area where the internal antenna be .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It fits in that space well , though it does cover some bar codes and numbers .</Tokens>
+		<POS>PRP VBZ IN DT NN RB , IN PRP VBZ VB DT NN NNS CC NNS .</POS>
+		<Lemma>it fit in that space well , though it do cover some bar code and number .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Maybe it would work even better if those bar code stickers were removed ?</Tokens>
+		<POS>RB PRP MD VB RB RBR IN DT NN NN NNS VBD VBN .</POS>
+		<Lemma>maybe it would work even better if those bar code sticker be remove ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This type of booster is very cheap and it does it 's job when applied properly .</Tokens>
+		<POS>DT NN IN NN VBZ RB JJ CC PRP VBZ PRP VBZ NN WRB VBN RB .</POS>
+		<Lemma>this type of booster be very cheap and it do it be job when apply properly .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Five stars from me because of the value .</Tokens>
+		<POS>CD NNS IN PRP IN IN DT NN .</POS>
+		<Lemma>five star from I because of the value .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you have a signal off and on , you need a cell antenna signal booster for your home , office , or car .</Tokens>
+		<POS>IN PRP VBP DT NN RB CC RB , PRP VBP DT NN NN NN NN IN PRP$ NN , NN , CC NN .</POS>
+		<Lemma>if you have a signal off and on , you need a cell antenna signal booster for you home , office , or car .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Those cost at least $ 200 .</Tokens>
+		<POS>DT NN IN JJS $ CD .</POS>
+		<Lemma>those cost at least $ 200 .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If you have a steady one bar signal get one of these first and see how it goes .</Tokens>
+		<POS>IN PRP VBP DT JJ CD NN NN VB CD IN DT JJ CC VB WRB PRP VBZ .</POS>
+		<Lemma>if you have a steady one bar signal get one of these first and see how it go .</Lemma>
+	</Sentence>
+</Document>

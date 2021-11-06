@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Its a basic charging cable .</Tokens>
+		<POS>PRP$ DT JJ VBG NN .</POS>
+		<Lemma>its a basic charge cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It works exactly as expected , no surprises .</Tokens>
+		<POS>PRP VBZ RB IN VBN , DT NNS .</POS>
+		<Lemma>it work exactly as expect , no surprise .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've not tested it for actual USB data transfer yet , but I 'd be very amazed if it did n't work just like any other USB cable .</Tokens>
+		<POS>PRP VBP RB VBN PRP IN JJ JJ NNS NN RB , CC PRP MD VB RB VBN IN PRP VBD RB VB RB IN DT JJ JJ NN .</POS>
+		<Lemma>I have not test it for actual usb datum transfer yet , but I would be very amaze if it do not work just like any other usb cable .</Lemma>
+	</Sentence>
+</Document>

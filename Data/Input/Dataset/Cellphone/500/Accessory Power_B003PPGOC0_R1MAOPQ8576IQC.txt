@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ok , this was by far the best Wireless FM Transmitter .</Tokens>
+		<POS>NNP , DT VBD IN RB DT JJS NNP NNP NNP .</POS>
+		<Lemma>Ok , this be by far the best Wireless FM Transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Music plays from my phone as if it was playing from a CD .</Tokens>
+		<POS>DT NN VBZ IN PRP$ NN IN IN PRP VBD VBG IN DT NN .</POS>
+		<Lemma>the music play from my phone as if it be play from a cd .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The calls are very clear to .</Tokens>
+		<POS>DT NNS VBP RB JJ TO .</POS>
+		<Lemma>the call be very clear to .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My cellphone comes with the TV features and I find myself watching News or Movies on my phone .</Tokens>
+		<POS>PRP$ NN VBZ IN DT NN NNS CC PRP VBP PRP VBG NN CC NNS IN PRP$ NN .</POS>
+		<Lemma>my cellphone come with the tv feature and I find myself watch news or movie on my phone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This device allows me to hear audio from the phone through my car speakers .</Tokens>
+		<POS>DT NN VBZ PRP TO VB NN IN DT NN IN PRP$ NN NNS .</POS>
+		<Lemma>this device allow I to hear audio from the phone through my car speaker .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Its awesome .</Tokens>
+		<POS>PRP$ JJ .</POS>
+		<Lemma>its awesome .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It comes with a lot of handy USB cables as well to fit most of the new phones out there .</Tokens>
+		<POS>PRP VBZ IN DT NN IN JJ JJ NNS RB RB TO VB JJS IN DT JJ NNS IN RB .</POS>
+		<Lemma>it come with a lot of handy usb cable as well to fit most of the new phone out there .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It was a great buy , better than all the other ones out !</Tokens>
+		<POS>PRP VBD DT JJ NN , JJR IN PDT DT JJ NNS IN .</POS>
+		<Lemma>it be a great buy , better than all the other one out !</Lemma>
+	</Sentence>
+</Document>

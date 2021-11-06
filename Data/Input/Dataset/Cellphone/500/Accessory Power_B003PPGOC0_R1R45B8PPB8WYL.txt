@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>On a regular independent -LRB- from car radio -RRB- hand-free Bluetooth system all you need to do is press the ON and the call starts .</Tokens>
+		<POS>IN DT JJ JJ -LRB- IN NN NN -RRB- JJ NNP NN DT PRP VBP TO VB VBZ VB DT NNP CC DT NN VBZ .</POS>
+		<Lemma>on a regular independent -lrb- from car radio -rrb- hand-free Bluetooth system all you need to do be press the ON and the call start .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>With this device , one must set the radio on the right station -LRB- first click , if you were listening to other station or CD -RRB- and then answer the call -LRB- 2nd click -RRB- on the phone .</Tokens>
+		<POS>IN DT NN , CD MD VB DT NN IN DT JJ NN -LRB- JJ VB , IN PRP VBD VBG TO JJ NN CC NN -RRB- CC RB VB DT NN -LRB- JJ VBP -RRB- IN DT NN .</POS>
+		<Lemma>with this device , one must set the radio on the right station -lrb- first click , if you be listen to other station or cd -rrb- and then answer the call -lrb- 2nd click -rrb- on the phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>With iPhone 4 you also need to set the sound routing to the Bluetooth client -LRB- 3rd click ! -RRB-</Tokens>
+		<POS>IN NNP CD PRP RB VBP TO VB DT JJ VBG TO DT NNP NN -LRB- CD VBP . -RRB-</POS>
+		<Lemma>with iPhone 4 you also need to set the sound route to the Bluetooth client -lrb- 3rd click ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>-LRB- the options are iphone\/speaker\/bluetooth -RRB- and only then the call starts normally ... think twice if this is what you wish for .</Tokens>
+		<POS>-LRB- DT NNS VBP JJ -RRB- CC RB RB DT NN VBZ RB : VB RB IN DT VBZ WP PRP VBP IN .</POS>
+		<Lemma>-lrb- the option be iphone\/speaker\/bluetooth -rrb- and only then the call start normally ... think twice if this be what you wish for .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you do not have iPhone and the radio is not on the Flexsmart X2 station , then the ringer may not be heard .</Tokens>
+		<POS>IN PRP VBP RB VB NNP CC DT NN VBZ RB IN DT NNP NN NN , RB DT NN MD RB VB VBN .</POS>
+		<Lemma>if you do not have iPhone and the radio be not on the Flexsmart x2 station , then the ringer may not be hear .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Problem ... Otherwise , the setup is easy and smooth .</Tokens>
+		<POS>NNP : RB , DT NN VBZ JJ CC JJ .</POS>
+		<Lemma>Problem ... otherwise , the setup be easy and smooth .</Lemma>
+	</Sentence>
+</Document>

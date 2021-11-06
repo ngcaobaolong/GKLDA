@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cable works great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this cable work great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought it so that I could tether to the internet through my droid .</Tokens>
+		<POS>PRP VBD PRP IN IN PRP MD VB TO DT NN IN PRP$ NN .</POS>
+		<Lemma>I buy it so that I could tether to the internet through my droid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love it and I never leave home without it , unless of course my laptop is not with me ... I would recommend this product to friends and enemies : - -RRB-</Tokens>
+		<POS>PRP VBP PRP CC PRP RB VBP NN IN PRP , IN IN NN PRP$ NN VBZ RB IN PRP : PRP MD VB DT NN TO NNS CC NNS : : -RRB-</POS>
+		<Lemma>I love it and I never leave home without it , unless of course my laptop be not with I ... I would recommend this product to friend and enemy : - -rrb-</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this for my carpool buddy .</Tokens>
+		<POS>PRP VBD DT IN PRP$ NN NN .</POS>
+		<Lemma>I buy this for my carpool buddy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She has a factory radio with no bluetooth .</Tokens>
+		<POS>PRP VBZ DT NN NN IN DT NN .</POS>
+		<Lemma>she have a factory radio with no bluetooth .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>She is not electronic smart but she was able to set it up on her own .</Tokens>
+		<POS>PRP VBZ RB JJ JJ CC PRP VBD JJ TO VB PRP RP IN PRP$ JJ .</POS>
+		<Lemma>she be not electronic smart but she be able to set it up on she own .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We live in Los Angeles and we have a lot of radio stations .</Tokens>
+		<POS>PRP VBP IN NNP NNP CC PRP VBP DT NN IN NN NNS .</POS>
+		<Lemma>we live in Los Angeles and we have a lot of radio station .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The default station works great in LA. .</Tokens>
+		<POS>DT NN NN VBZ JJ IN NNP .</POS>
+		<Lemma>the default station work great in LA. .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We have 1 hr 30 min drive and we go through a lot of cities , it works great .</Tokens>
+		<POS>PRP VBP CD NN CD NN NN CC PRP VBP IN DT NN IN NNS , PRP VBZ JJ .</POS>
+		<Lemma>we have 1 hr 30 min drive and we go through a lot of city , it work great .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The only thing i diss like about it 's the flexible part does n't stay how you want it .</Tokens>
+		<POS>DT JJ NN FW FW IN IN PRP VBZ DT JJ NN VBZ RB VB WRB PRP VBP PRP .</POS>
+		<Lemma>the only thing i diss like about it be the flexible part do not stay how you want it .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It goes back into place .</Tokens>
+		<POS>PRP VBZ RB IN NN .</POS>
+		<Lemma>it go back into place .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The sound quality is amazing for calls and playing music .</Tokens>
+		<POS>DT JJ NN VBZ JJ IN NNS CC VBG NN .</POS>
+		<Lemma>the sound quality be amazing for call and play music .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As with most items , there are always better alternatives for more money .</Tokens>
+		<POS>IN IN JJS NNS , EX VBP RB JJR NNS IN JJR NN .</POS>
+		<Lemma>as with most item , there be always better alternative for more money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This unit is a great price\/quality bargain .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ NN .</POS>
+		<Lemma>this unit be a great price\/quality bargain .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wanted to replace my 6 year old CRT monitor with a 19 inch flat apnel from a company I recognized at a reasonable cost .</Tokens>
+		<POS>PRP VBD TO VB PRP$ CD NN JJ NNP NN IN DT CD NN JJ NN IN DT NN PRP VBD IN DT JJ NN .</POS>
+		<Lemma>I want to replace my 6 year old CRT monitor with a 19 inch flat apnel from a company I recognize at a reasonable cost .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have had a good experience with other Acer products and when this item was available at a good price after rebate -LRB- even with a shipping charge -RRB- I placed an order .</Tokens>
+		<POS>PRP VBP VBD DT JJ NN IN JJ NNP NNS CC WRB DT NN VBD JJ IN DT JJ NN IN NN -LRB- RB IN DT NN NN -RRB- PRP VBD DT NN .</POS>
+		<Lemma>I have have a good experience with other Acer product and when this item be available at a good price after rebate -lrb- even with a shipping charge -rrb- I place a order .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was a little nervous about shipping damage and possible dead pixels , but it came in only a few days in perfect conditiion and with no dead pixels .</Tokens>
+		<POS>PRP VBD DT JJ JJ IN VBG NN CC JJ JJ NNS , CC PRP VBD IN RB DT JJ NNS IN JJ NN CC IN DT JJ NNS .</POS>
+		<Lemma>I be a little nervous about ship damage and possible dead pixel , but it come in only a few day in perfect conditiion and with no dead pixel .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is bright and clear , and actually fairly good looking -LRB- certainly subjective -RRB- .</Tokens>
+		<POS>PRP VBZ JJ CC JJ , CC RB RB JJ VBG -LRB- RB JJ -RRB- .</POS>
+		<Lemma>it be bright and clear , and actually fairly good look -lrb- certainly subjective -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Every bit as good a the more expensive monitors at work .</Tokens>
+		<POS>DT NN IN JJ DT DT RBR JJ NNS IN NN .</POS>
+		<Lemma>every bit as good a the more expensive monitor at work .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Would recommend Amazon and Acer to anyone .</Tokens>
+		<POS>MD VB NNP CC NNP TO NN .</POS>
+		<Lemma>would recommend Amazon and Acer to anyone .</Lemma>
+	</Sentence>
+</Document>

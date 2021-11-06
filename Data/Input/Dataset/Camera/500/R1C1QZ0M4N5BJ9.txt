@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The reviews on this product gave me confidence that my purchase would be worry and trouble free .</Tokens>
+		<POS>DT NNS IN DT NN VBD PRP NN WDT PRP$ NN MD VB NN CC NN JJ .</POS>
+		<Lemma>the review on this product give I confidence that my purchase would be worry and trouble free .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I ordered the three pack version of the product with the extended antenna .</Tokens>
+		<POS>PRP VBD DT CD NN NN IN DT NN IN DT JJ NN .</POS>
+		<Lemma>I order the three pack version of the product with the extended antenna .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They arrived ahead of schedule in an oversized box with sufficient packaging to protect the delicate contents and bound together with shrink wrap .</Tokens>
+		<POS>PRP VBD RB IN NN IN DT JJ NN IN JJ NN TO VB DT JJ NNS CC VBN RB IN VB NN .</POS>
+		<Lemma>they arrive ahead of schedule in a oversized box with sufficient packaging to protect the delicate contents and bind together with shrink wrap .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Following the Quick Installation Guide , I discovered the first camera was DOA .</Tokens>
+		<POS>VBG DT NNP NN NNP , PRP VBD DT JJ NN VBD NNP .</POS>
+		<Lemma>follow the Quick installation Guide , I discover the first camera be DOA .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When power was applied , the camera did not go through the diagnostic routine where it verified the full point , tilt , zoom range of motion .</Tokens>
+		<POS>WRB NN VBD VBN , DT NN VBD RB VB IN DT JJ NN WRB PRP VBD DT JJ NN , NN , NN NN IN NN .</POS>
+		<Lemma>when power be apply , the camera do not go through the diagnostic routine where it verify the full point , tilt , zoom range of motion .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The second indicator was when the IP Camera Tool could not find the camera broadcasting .</Tokens>
+		<POS>DT JJ NN VBD WRB DT NNP NNP NNP MD RB VB DT NN NN .</POS>
+		<Lemma>the second indicator be when the IP Camera Tool could not find the camera broadcasting .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>No worries , I proceeded to open the second box .</Tokens>
+		<POS>DT NNS , PRP VBD TO VB DT JJ NN .</POS>
+		<Lemma>no worry , I proceed to open the second box .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The second camera did conduct its startup routine and successfully appeared on the IP Camera Tool , however a camera name was already assigned , indicating the camera was used , returned , and not factory reset .</Tokens>
+		<POS>DT JJ NN VBD VB PRP$ NN NN CC RB VBD IN DT NNP NNP NNP , RB DT NN NN VBD RB VBN , VBG DT NN VBD VBN , VBD , CC RB NN NN .</POS>
+		<Lemma>the second camera do conduct its startup routine and successfully appear on the IP Camera Tool , however a camera name be already assign , indicate the camera be use , return , and not factory reset .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I was unable to change the IP address because an administrative password was set for the camera .</Tokens>
+		<POS>PRP VBD JJ TO VB DT NNP NN IN DT JJ NN VBD VBN IN DT NN .</POS>
+		<Lemma>I be unable to change the IP address because a administrative password be set for the camera .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I called FOSCAM for technical support and discovered that they DO NOT offer FREE phone support UNLESS the Amazon supplier is Movaro or CameraTec .</Tokens>
+		<POS>PRP VBD NNP IN JJ NN CC VBD IN PRP VBP RB VB NNP NN NN IN DT NNP NN VBZ NNP CC NNP .</POS>
+		<Lemma>I call FOSCAM for technical support and discover that they do not offer FREE phone support unless the Amazon supplier be Movaro or CameraTec .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Furthermore , FOSCAM will NOT honor the 1 year warranty OR free telephone technical support .</Tokens>
+		<POS>RB , NNP MD RB VB DT CD NN NN NN JJ NN JJ NN .</POS>
+		<Lemma>furthermore , FOSCAM will not honor the 1 year warranty or free telephone technical support .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Of course , my purchase was not from one of these vendors .</Tokens>
+		<POS>IN NN , PRP$ NN VBD RB IN CD IN DT NNS .</POS>
+		<Lemma>of course , my purchase be not from one of these vendor .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>None of the advertising for the product indicated a vendor restriction .</Tokens>
+		<POS>NN IN DT NN IN DT NN VBD DT NN NN .</POS>
+		<Lemma>none of the advertising for the product indicate a vendor restriction .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Amazon should have done a better job informing the consumer of this risk .</Tokens>
+		<POS>NNP MD VB VBN DT JJR NN VBG DT NN IN DT NN .</POS>
+		<Lemma>Amazon should have do a better job inform the consumer of this risk .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I would not have purchased from a non-authorized vendor if this information was available on the product description pages .</Tokens>
+		<POS>PRP MD RB VB VBN IN DT JJ NN IN DT NN VBD JJ IN DT NN NN NNS .</POS>
+		<Lemma>I would not have purchase from a non-authorized vendor if this information be available on the product description page .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Although an aggravating experience , Amazon is sending a return shipping label and will credit my purchase without a restocking fee -LRB- because the first camera is defective and the second is un-usable -RRB- making the return process painless .</Tokens>
+		<POS>IN DT JJ NN , NNP VBZ VBG DT NN NN NN CC MD VB PRP$ NN IN DT VBG NN -LRB- IN DT JJ NN VBZ JJ CC DT JJ VBZ JJ -RRB- VBG DT NN NN JJ .</POS>
+		<Lemma>although a aggravating experience , Amazon be send a return shipping label and will credit my purchase without a restock fee -lrb- because the first camera be defective and the second be un-usable -rrb- make the return process painless .</Lemma>
+	</Sentence>
+</Document>

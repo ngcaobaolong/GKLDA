@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Thought this would be a great upgrade over my old MAG CRT , but it failed after about 1-1\/2 hours ... all seemed fine after initial hook-up , but by the 2nd hour , got a flicker and went black .</Tokens>
+		<POS>NNP DT MD VB DT JJ NN IN PRP$ JJ NN NNP , CC PRP VBD IN IN CD NNS : DT VBD NN IN JJ NN , CC IN DT JJ NN , VBD DT NN CC VBD JJ .</POS>
+		<Lemma>Thought this would be a great upgrade over my old mag CRT , but it fail after about 1-1\/2 hour ... all seem fine after initial hook-up , but by the 2nd hour , get a flicker and go black .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Never came back to a readable screen after that .</Tokens>
+		<POS>RB VBD RB TO DT JJ NN IN DT .</POS>
+		<Lemma>never come back to a readable screen after that .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I sent it back to Amazon for a refund , and was happy with that process ... will try something else in the future .</Tokens>
+		<POS>PRP VBD PRP RB TO NNP IN DT NN , CC VBD JJ IN DT NN : MD VB NN RB IN DT NN .</POS>
+		<Lemma>I send it back to Amazon for a refund , and be happy with that process ... will try something else in the future .</Lemma>
+	</Sentence>
+</Document>

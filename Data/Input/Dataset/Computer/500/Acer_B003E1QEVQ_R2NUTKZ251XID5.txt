@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product was delivered in 3 days , in perfect condition , and was exactly as advertised .</Tokens>
+		<POS>DT NN VBD VBN IN CD NNS , IN JJ NN , CC VBD RB IN VBN .</POS>
+		<Lemma>this product be deliver in 3 day , in perfect condition , and be exactly as advertise .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great picture and great sound !</Tokens>
+		<POS>JJ NN CC JJ JJ .</POS>
+		<Lemma>great picture and great sound !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am totally satisfied .</Tokens>
+		<POS>PRP VBP RB VBN .</POS>
+		<Lemma>I be totally satisfy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens><a href="http://www.amazon.com/gp/product/B003D59FE6/ref=cm_cr_asin_lnk/184-9713425-1593839"> Acer V193 DJB 19-Inch LCD Display </a></Tokens>
+		<POS>NN NNP NNP NNP JJ NNS VBP NN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b003d59fe6/ref=cm_cr_asin_lnk/184-9713425-1593839"> Acer V193 DJB 19-inch lcd display </a></Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Acer V173 Djb 17 '' LCD monitor to replace a similar monitor that failed on an old computer .</Tokens>
+		<POS>PRP VBD DT NNP NNP NNP CD '' NNS VBP TO VB DT JJ NN WDT VBD IN DT JJ NN .</POS>
+		<Lemma>I buy the Acer V173 Djb 17 '' lcd monitor to replace a similar monitor that fail on a old computer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like it It does just what I wanted and it fits in the space available .</Tokens>
+		<POS>PRP VBP PRP PRP VBZ RB WP PRP VBD CC PRP VBZ IN DT NN JJ .</POS>
+		<Lemma>I like it it do just what I want and it fit in the space available .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>From other reviews I learned that the screen angle is adjustable but not easily apparent .</Tokens>
+		<POS>IN JJ NNS PRP VBD IN DT NN NN VBZ JJ CC RB RB JJ .</POS>
+		<Lemma>from other review I learn that the screen angle be adjustable but not easily apparent .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was able to adjust .</Tokens>
+		<POS>PRP VBD JJ TO VB .</POS>
+		<Lemma>I be able to adjust .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The old monitor had two interface plugs VGA and some other -LRB- ? -RRB-</Tokens>
+		<POS>DT JJ NN VBD CD NN VBZ NNP CC DT JJ -LRB- . -RRB-</POS>
+		<Lemma>the old monitor have two interface plug VGA and some other -lrb- ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This monitor has only a VGA attachment .</Tokens>
+		<POS>DT NN VBZ RB DT NNP NN .</POS>
+		<Lemma>this monitor have only a VGA attachment .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The cable is a bit different in that the plugs do n't have the two screws used to secure them .</Tokens>
+		<POS>DT NN VBZ DT RB JJ IN IN DT NNS VBP RB VB DT CD NNS VBN TO VB PRP .</POS>
+		<Lemma>the cable be a bit different in that the plug do not have the two screw use to secure they .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>However , the cables seem secure even without the screws .</Tokens>
+		<POS>RB , DT NNS VBP JJ RB IN DT NNS .</POS>
+		<Lemma>however , the cable seem secure even without the screw .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>You may want to fool around with your graphics setting to get the most satisfactory picture .</Tokens>
+		<POS>PRP MD VB TO VB RP IN PRP$ NNS VBG TO VB DT RBS JJ NN .</POS>
+		<Lemma>you may want to fool around with you graphic set to get the most satisfactory picture .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>But all in a a good monitor at a nice price .</Tokens>
+		<POS>CC DT IN DT DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>but all in a a good monitor at a nice price .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens><a href="http://www.amazon.com/gp/product/B003D59FDM/ref=cm_cr_asin_lnk/179-4368093-0596757"> Acer V173 Djb 17-Inch LCD Monitor - Black </a></Tokens>
+		<POS>NN NNP NNP NNP NNP NNS NNP : JJ NN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b003d59fdm/ref=cm_cr_asin_lnk/179-4368093-0596757"> Acer V173 Djb 17-Inch lcd Monitor - black </a></Lemma>
+	</Sentence>
+</Document>

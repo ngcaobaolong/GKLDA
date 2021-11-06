@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had an old Canon camcorder that used digital tape .</Tokens>
+		<POS>PRP VBD DT JJ NNP NN WDT VBD JJ NN .</POS>
+		<Lemma>I have a old Canon camcorder that use digital tape .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I looked at some cutting edge camcorders , even a model that could use lenses from my still camera , but I just felt the technology was n't there yet given the price .</Tokens>
+		<POS>PRP VBD IN DT VBG NN NNS , RB DT NN WDT MD VB NNS IN PRP$ RB NN , CC PRP RB VBD DT NN VBD RB RB RB VBN DT NN .</POS>
+		<Lemma>I look at some cut edge camcorder , even a model that could use lens from my still camera , but I just feel the technology be not there yet give the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Since I was about to go on a once in a lifetime trip and needed a replacement now for my old Canon , I opted for Canon VIXIA HF M41 HD Camcorder because it packed a lot of memory with great optics for a great price .</Tokens>
+		<POS>IN PRP VBD RB TO VB IN DT RB IN DT NN NN CC VBD DT NN RB IN PRP$ JJ NNP , PRP VBD IN NNP NNP NN NN NN NN IN PRP VBD DT NN IN NN IN JJ NNS IN DT JJ NN .</POS>
+		<Lemma>since I be about to go on a once in a lifetime trip and need a replacement now for my old Canon , I opt for Canon VIXIA hf m41 hd camcorder because it pack a lot of memory with great optics for a great price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'd much rather spend more money on better quality optics and less money on unneeded frills .</Tokens>
+		<POS>PRP MD RB RB VB JJR NN IN JJR NN NNS CC JJR NN IN JJ NNS .</POS>
+		<Lemma>I would much rather spend more money on better quality optics and less money on unneeded frill .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The M41 did not fail me in that regard .</Tokens>
+		<POS>DT NN VBD RB VB PRP IN DT NN .</POS>
+		<Lemma>the m41 do not fail I in that regard .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I could not believe the quality of images I got from this camera .</Tokens>
+		<POS>PRP MD RB VB DT NN IN NNS PRP VBD IN DT NN .</POS>
+		<Lemma>I could not believe the quality of image I get from this camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have always said that the deciding factor in choosing one digital camera over another should be the same as that in film cameras = = -RRB- namely the OPTICS .</Tokens>
+		<POS>PRP VBP RB VBN IN DT VBG NN IN VBG CD JJ NN IN DT MD VB DT JJ IN DT IN NN NNS JJ JJ -RRB- RB DT NNP .</POS>
+		<Lemma>I have always say that the decide factor in choose one digital camera over another should be the same as that in film camera = = -rrb- namely the OPTICS .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It does n't matter how large your CCD -LRB- i.e. megapixels -RRB- is , if you have a crappy lense all you will get is a high resolution crap .</Tokens>
+		<POS>PRP VBZ RB VB WRB JJ PRP$ NNP -LRB- FW NNS -RRB- VBZ , IN PRP VBP DT JJ NN DT PRP MD VB VBZ DT JJ NN NN .</POS>
+		<Lemma>it do not matter how large you CCD -lrb- i.e. megapixel -rrb- be , if you have a crappy lense all you will get be a high resolution crap .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>This camera , even it its full manual mode , is incredible ... and if you opt to use the electronic aids available you will be impressed with its ease of use .</Tokens>
+		<POS>DT NN , RB PRP PRP$ JJ JJ NN , VBZ JJ : CC IN PRP VBP TO VB DT JJ NNS JJ PRP MD VB VBN IN PRP$ NN IN NN .</POS>
+		<Lemma>this camera , even it its full manual mode , be incredible ... and if you opt to use the electronic aid available you will be impress with its ease of use .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>For the money , I think you ca n't beat this camera .</Tokens>
+		<POS>IN DT NN , PRP VBP PRP MD RB VB DT NN .</POS>
+		<Lemma>for the money , I think you can not beat this camera .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The one drawback is the microphone .</Tokens>
+		<POS>DT CD NN VBZ DT NN .</POS>
+		<Lemma>the one drawback be the microphone .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It does pickup wind noise .</Tokens>
+		<POS>PRP VBZ NN NN NN .</POS>
+		<Lemma>it do pickup wind noise .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>On a mountain top , standing about 15 feet away from the camera , if I was n't facing the camera directly , the wind noise obliterated even a very loud conversation .</Tokens>
+		<POS>IN DT NN NN , VBG RB CD NNS RB IN DT NN , IN PRP VBD RB VBG DT NN RB , DT NN NN VBD RB DT RB JJ NN .</POS>
+		<Lemma>on a mountain top , stand about 15 foot away from the camera , if I be not face the camera directly , the wind noise obliterate even a very loud conversation .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>If you think you might video in windy conditions buy an external microphone ... however , for most casual camcorder use -LRB- family gatherings , etc. -RRB- I suspect the built in microphone is probably adequate .</Tokens>
+		<POS>IN PRP VBP PRP MD NN IN JJ NNS VBP DT JJ NN : RB , IN JJS JJ NN NN -LRB- NN NNS , FW -RRB- PRP VBP DT VBN IN NN VBZ RB JJ .</POS>
+		<Lemma>if you think you might video in windy condition buy a external microphone ... however , for most casual camcorder use -lrb- family gathering , etc. -rrb- I suspect the build in microphone be probably adequate .</Lemma>
+	</Sentence>
+</Document>

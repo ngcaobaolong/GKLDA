@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Best snack for any cyclist .</Tokens>
+		<POS>JJS NN IN DT NN .</POS>
+		<Lemma>best snack for any cyclist .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I greatly recommend these to anyone looking for an alternative to the chalky tasting sports energy bars or gels .</Tokens>
+		<POS>PRP RB VB DT TO NN VBG IN DT NN TO DT JJ NN NNS NN NNS CC NNS .</POS>
+		<Lemma>I greatly recommend these to anyone look for a alternative to the chalky tasting sport energy bar or gel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love them before or after a ride .</Tokens>
+		<POS>PRP VBP PRP IN CC IN DT NN .</POS>
+		<Lemma>I love they before or after a ride .</Lemma>
+	</Sentence>
+</Document>

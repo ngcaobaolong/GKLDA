@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Instead of comparing this netbook to real laptops that cost hundreds more , I can compare it to what I previously used for a couple of years .</Tokens>
+		<POS>RB IN VBG DT NN TO JJ NNS WDT VBP NNS RBR , PRP MD VB PRP TO WP PRP RB VBD IN DT NN IN NNS .</POS>
+		<Lemma>instead of compare this netbook to real laptop that cost hundred more , I can compare it to what I previously use for a couple of year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>An asus eee-pc .</Tokens>
+		<POS>DT NN NN .</POS>
+		<Lemma>a asus eee-pc .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It had the atom processor and an upgraded 2GB of RAM .</Tokens>
+		<POS>PRP VBD DT NN NN CC DT VBN NN IN NNP .</POS>
+		<Lemma>it have the atom processor and a upgrade 2gb of RAM .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It had a keyboard that I could type on , but the right shift key was misplaced to the far right edge of the board .</Tokens>
+		<POS>PRP VBD DT NN IN PRP MD NN IN , CC DT JJ NN NN VBD VBN TO DT RB JJ NN IN DT NN .</POS>
+		<Lemma>it have a keyboard that I could type on , but the right shift key be misplace to the far right edge of the board .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>After two years , I still could n't hit it .</Tokens>
+		<POS>IN CD NNS , PRP RB MD RB VB PRP .</POS>
+		<Lemma>after two year , I still could not hit it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It paused during simple you-tube videos ; the atom could n't keep up .</Tokens>
+		<POS>PRP VBD IN JJ JJ NNS : DT NN MD RB VB RP .</POS>
+		<Lemma>it pause during simple you-tube video ; the atom could not keep up .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The battery was useless and it had to be plugged in .</Tokens>
+		<POS>DT NN VBD JJ CC PRP VBD TO VB VBN IN .</POS>
+		<Lemma>the battery be useless and it have to be plug in .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>When it was plugged in , the two parts of the cord would separate and cut it off .</Tokens>
+		<POS>WRB PRP VBD VBN IN , DT CD NNS IN DT NN MD VB CC VB PRP RP .</POS>
+		<Lemma>when it be plug in , the two part of the cord would separate and cut it off .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Sheesh .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Sheesh .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Mercifully , I accidentally damaged the LCD screen .</Tokens>
+		<POS>RB , PRP RB VBD DT NNS NN .</POS>
+		<Lemma>mercifully , I accidentally damage the lcd screen .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The Acer has a slightly larger screen , but a far more comfy keyboard .</Tokens>
+		<POS>DT NNP VBZ DT RB JJR NN , CC DT RB RBR JJ NN .</POS>
+		<Lemma>the Acer have a slightly larger screen , but a far more comfy keyboard .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>If people think this keyboard flexes , it probably does , in comparison to far more expensive laptops .</Tokens>
+		<POS>IN NNS VBP DT NN VBZ , PRP RB VBZ , IN NN TO RB RBR JJ NNS .</POS>
+		<Lemma>if people think this keyboard flex , it probably do , in comparison to far more expensive laptop .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>For me it 's a dream .</Tokens>
+		<POS>IN PRP PRP VBZ DT NN .</POS>
+		<Lemma>for I it be a dream .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It is thin and light and I travel for a living .</Tokens>
+		<POS>PRP VBZ JJ CC JJ CC PRP VBP IN DT NN .</POS>
+		<Lemma>it be thin and light and I travel for a living .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I am upgrading the memory to 4 gigs .</Tokens>
+		<POS>PRP VBP VBG DT NN TO CD NNS .</POS>
+		<Lemma>I be upgrade the memory to 4 gig .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The power cord is in one section that will not separate .</Tokens>
+		<POS>DT NN NN VBZ IN CD NN WDT MD RB VB .</POS>
+		<Lemma>the power cord be in one section that will not separate .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It plays videos without locking up .</Tokens>
+		<POS>PRP VBZ NNS IN VBG RP .</POS>
+		<Lemma>it play video without lock up .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Thanks Acer .</Tokens>
+		<POS>NNS NNP .</POS>
+		<Lemma>thanks Acer .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I know I could get a more potent machine for twice the price .</Tokens>
+		<POS>PRP VBP PRP MD VB DT RBR JJ NN IN RB DT NN .</POS>
+		<Lemma>I know I could get a more potent machine for twice the price .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Larger and more difficult to travel with .</Tokens>
+		<POS>NNP CC RBR JJ TO VB IN .</POS>
+		<Lemma>Larger and more difficult to travel with .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I am very pleased with this netbook compared to what I had .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN VBN TO WP PRP VBD .</POS>
+		<Lemma>I be very pleased with this netbook compare to what I have .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>In short , for a traveler used to poor equipment , this is an upgrade at a still affordable price .</Tokens>
+		<POS>IN JJ , IN DT NN VBN TO JJ NN , DT VBZ DT NN IN DT RB JJ NN .</POS>
+		<Lemma>in short , for a traveler use to poor equipment , this be a upgrade at a still affordable price .</Lemma>
+	</Sentence>
+</Document>

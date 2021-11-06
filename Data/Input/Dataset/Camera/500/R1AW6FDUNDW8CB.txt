@@ -1,0 +1,117 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Last Nikon I had was an F3 .</Tokens>
+		<POS>JJ NNP PRP VBD VBD DT NN .</POS>
+		<Lemma>last Nikon I have be a f3 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Currently use an Olympus E-30 , with High Quality lenses and the D7000 with pro level lenses .</Tokens>
+		<POS>RB VB DT NNP NNP , IN JJ JJ NNS CC DT NN IN JJ NN NNS .</POS>
+		<Lemma>currently use a Olympus E-30 , with high quality lens and the d7000 with pro level lens .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The D7000 is a very complex camera and the first camera I have purchased a guide book for .</Tokens>
+		<POS>DT NN VBZ DT RB JJ NN CC DT JJ NN PRP VBP VBN DT NN NN IN .</POS>
+		<Lemma>the d7000 be a very complex camera and the first camera I have purchase a guide book for .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Ergonomics\/design of the camera are quite good for its size .</Tokens>
+		<POS>NN IN DT NN VBP RB JJ IN PRP$ NN .</POS>
+		<Lemma>ergonomics\/design of the camera be quite good for its size .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>About the same size as the D70s\/90 .</Tokens>
+		<POS>IN DT JJ NN IN DT NN .</POS>
+		<Lemma>about the same size as the d70s\/90 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would prefer a larger body when using pro level lenses .</Tokens>
+		<POS>PRP MD VB DT JJR NN WRB VBG JJ NN NNS .</POS>
+		<Lemma>I would prefer a larger body when use pro level lens .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>An expensive camera for a novice with a large learning curve for all of the available options of which there is a plethora of .</Tokens>
+		<POS>DT JJ NN IN DT NN IN DT JJ NN NN IN DT IN DT JJ NNS IN WDT EX VBZ DT NN IN .</POS>
+		<Lemma>a expensive camera for a novice with a large learning curve for all of the available option of which there be a plethora of .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But camera can be set similar to a PS if one desires .</Tokens>
+		<POS>CC NN MD VB VBN JJ TO DT NN IN CD NNS .</POS>
+		<Lemma>but camera can be set similar to a ps if one desire .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I really enjoy the many direct access shortcuts -LRB- over 40 -RRB- for adjusting everything from focus to flash to white balance and much more .</Tokens>
+		<POS>PRP RB VBP DT JJ JJ NN NNS -LRB- IN CD -RRB- IN VBG NN IN NN TO VB TO JJ NN CC RB RBR .</POS>
+		<Lemma>I really enjoy the many direct access shortcut -lrb- over 40 -rrb- for adjust everything from focus to flash to white balance and much more .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The two custom settings are very easy to set .</Tokens>
+		<POS>DT CD NN NNS VBP RB JJ TO VB .</POS>
+		<Lemma>the two custom setting be very easy to set .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The LCD on top has some icons -LRB- e.g. flash settings -RRB- that are really hard to see what they are if you need reading glasses .</Tokens>
+		<POS>DT NNS IN NN VBZ DT NNS -LRB- FW NN NNS -RRB- WDT VBP RB JJ TO VB WP PRP VBP IN PRP VBP VBG NNS .</POS>
+		<Lemma>the lcd on top have some icon -lrb- e.g. flash setting -rrb- that be really hard to see what they be if you need read glass .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I miss the Olympus Super Control panel .</Tokens>
+		<POS>PRP VBP DT NNP NNP NNP NN .</POS>
+		<Lemma>I miss the Olympus Super Control panel .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Some strange things show on top level menus and in the Information Display considering most commonly changed settings .</Tokens>
+		<POS>DT JJ NNS VBP IN JJ NN NNS CC IN DT NNP NNP VBG RBS RB VBN NNS .</POS>
+		<Lemma>some strange thing show on top level menu and in the Information Display consider most commonly change setting .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>However there are other options to establish a menu that allows one to set up their most common items .</Tokens>
+		<POS>RB EX VBP JJ NNS TO VB DT NN WDT VBZ CD TO VB RP PRP$ RBS JJ NNS .</POS>
+		<Lemma>however there be other option to establish a menu that allow one to set up they most common item .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>But it is another learning curve .</Tokens>
+		<POS>CC PRP VBZ DT VBG NN .</POS>
+		<Lemma>but it be another learn curve .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The camera seems to shoot about a 1\/3 to 2\/3 over what I like for exposure .</Tokens>
+		<POS>DT NN VBZ TO VB IN DT CD TO CD IN WP PRP VBP IN NN .</POS>
+		<Lemma>the camera seem to shoot about a 1\/3 to 2\/3 over what I like for exposure .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Colors are different from even the D70s but very acceptable .</Tokens>
+		<POS>NNS VBP JJ IN RB DT NNS CC RB JJ .</POS>
+		<Lemma>color be different from even the d70 but very acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Again both are adjustable .</Tokens>
+		<POS>RB DT VBP JJ .</POS>
+		<Lemma>again both be adjustable .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Outstanding at hi ISO .</Tokens>
+		<POS>JJ IN UH NN .</POS>
+		<Lemma>outstanding at hi iso .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Can shoot very useable photos at 3200 ISO when the user understands what needs to be done .</Tokens>
+		<POS>MD VB RB JJ NNS IN CD NN WRB DT NN VBZ WP VBZ TO VB VBN .</POS>
+		<Lemma>can shoot very useable photo at 3200 iso when the user understand what need to be do .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>If I had a D90 I 'm not so sure I would upgrade .</Tokens>
+		<POS>IN PRP VBD DT NN PRP VBP RB RB JJ PRP MD VB .</POS>
+		<Lemma>if I have a d90 I be not so sure I would upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Besides the FX and D300s , and if you want the options\/controls - this is the camera to have .</Tokens>
+		<POS>IN DT NN CC NNS , CC IN PRP VBP DT NNS : DT VBZ DT NN TO VB .</POS>
+		<Lemma>besides the fx and d300 , and if you want the options\/controls - this be the camera to have .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>BTW - it does not have a mag-alloy body as commonly stated and Nikon 's estimated price for the body is $ 1199.00 .</Tokens>
+		<POS>SYM : PRP VBZ RB VB DT JJ NN IN RB VBN CC NNP POS VBN NN IN DT NN VBZ $ CD .</POS>
+		<Lemma>btw - it do not have a mag-alloy body as commonly state and Nikon 's estimate price for the body be $ 1199.00 .</Lemma>
+	</Sentence>
+</Document>

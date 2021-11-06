@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There are more `` Pros '' than `` Cons '' here folks , be you a Pro , Am , or Wannabe ... Cons 1 .</Tokens>
+		<POS>EX VBP RBR `` NNS '' IN `` NNS '' RB NNS , VB PRP DT FW , VBP , CC NNP : NNS CD .</POS>
+		<Lemma>there be more `` pro '' than `` con '' here folk , be you a pro , be , or Wannabe ... con 1 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No PC Sync -LRB- definite step down for me ; I like to have the option if I happen to run out of batteries for the PW 's ... if you 've been using the EOS Rebel series , this is a `` no biggy '' -RRB- 2 .</Tokens>
+		<POS>DT NN NNP -LRB- JJ NN RB IN PRP : PRP VBP TO VB DT NN IN PRP VB TO VB IN IN NNS IN DT NNP POS : IN PRP VBP VBN VBG DT NNP NN NN , DT VBZ DT `` DT NN '' -RRB- CD .</POS>
+		<Lemma>no pc Sync -lrb- definite step down for I ; I like to have the option if I happen to run out of battery for the PW 's ... if you have be use the EOS rebel series , this be a `` no biggy '' -rrb- 2 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't like the fact that I you ca n't delete multiple items at the same time without formatting the card 3 .</Tokens>
+		<POS>PRP VBP RB VB DT NN IN PRP PRP MD RB VB JJ NNS IN DT JJ NN IN VBG DT NN CD .</POS>
+		<Lemma>I do not like the fact that I you can not delete multiple item at the same time without format the card 3 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The battery life seems a little less that the BP511 's from my 30 40d 's 4 .</Tokens>
+		<POS>DT NN NN VBZ DT JJ JJR IN DT NN POS IN PRP$ CD CC CD POS CD .</POS>
+		<Lemma>the battery life seem a little less that the bp511 's from my 30 40d 's 4 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Personally not very crazy about the `` vid '' option being all the way on the opposite side of the LOCKING selection dial 5 .</Tokens>
+		<POS>RB RB RB JJ IN DT `` NN '' NN VBG PDT DT NN IN DT JJ NN IN DT NNP NN NN CD .</POS>
+		<Lemma>personally not very crazy about the `` vid '' option be all the way on the opposite side of the LOCKING selection dial 5 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Still not made for left-handers ... I know , I know , I know ... Again , most of my `` Cons '' are personal , quirky things that I probably would n't be complaining about had I had the money to invest in the 7D or 5Dii , which I will in time -LRB- with exception of the `` left-handed '' issue -RRB- ... I did n't take the time out to gripe about the plastic body or the size of the cam or it 's slightly-slower-than-8fps performance ; I bout an OEM battery grip and I 'm being more patient to get the shot that most important .</Tokens>
+		<POS>RB RB VBN IN NNS : PRP VBP , PRP VBP , PRP VBP : RB , JJS IN PRP$ `` NNS '' VBP JJ , JJ NNS IN PRP RB MD RB VB VBG IN VBD PRP VBD DT NN TO VB IN DT NN CC NN , WDT PRP MD IN NN -LRB- IN NN IN DT `` JJ '' NN -RRB- : PRP VBD RB VB DT NN RP TO VB IN DT NN NN CC DT NN IN DT NN CC PRP VBZ JJ NN : PRP NN DT NNP NN NN CC PRP VBP VBG JJR NN TO VB DT NN IN RBS JJ .</POS>
+		<Lemma>still not make for left-hander ... I know , I know , I know ... again , most of my `` con '' be personal , quirky thing that I probably would not be complain about have I have the money to invest in the 7d or 5dius , which I will in time -lrb- with exception of the `` left-handed '' issue -rrb- ... I do not take the time out to gripe about the plastic body or the size of the cam or it be slightly-slower-than-8fps performance ; I bout a OEM battery grip and I be be more patient to get the shot that most important .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>These were things I knew going into the purchase and really are n't enough to hinder me from getting another cam if I ever really needed to .</Tokens>
+		<POS>DT VBD NNS PRP VBD VBG IN DT NN CC RB VBP RB RB TO VB PRP IN VBG DT FW IN PRP RB RB VBN TO .</POS>
+		<Lemma>these be thing I know go into the purchase and really be not enough to hinder I from get another cam if I ever really need to .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Pros 1 -RRB- cam and vid capabilities 2 -RRB- 6400 + ISO 3 -RRB- noticeable improvements in white balance compensation 4 -RRB- great horizon finder 5 -RRB- the RC-6 remote actually works 6 -RRB- exquisite CANON craftsmanship -LRB- processors , res , articulating monitor , functionality , lots of very kool `` tricks '' it can do if you like `` tricks '' ... I really could go on ... -RRB- 7 -RRB- really easy to use 8 -RRB- for all of you who simply refuse to read the Owner 's Manual , there are some really kool `` cheat sheets '' for you -LRB- lol -RRB- 9 -RRB- price No , It 's not a 7D or a 5Dii and truly not a 1DS\/V , BUT , if you 're down to only 1 cam and it happens to get stolen and you did n't have it insured , THIS IS A VERY GREAT OPTION to get you back in the saddle !</Tokens>
+		<POS>NNS LS -RRB- NN CC NN NNS LS -RRB- CD CC NN CD -RRB- JJ NNS IN JJ NN NN CD -RRB- JJ NN NN CD -RRB- DT NN JJ RB VBZ CD -RRB- JJ NNP NN -LRB- NNS , NNS , VBG NN , NN , NNS IN RB JJ `` NNS '' PRP MD VB IN PRP IN `` NNS '' : PRP RB MD VB IN : -RRB- CD -RRB- RB JJ TO VB CD -RRB- IN DT IN PRP WP RB VBP TO VB DT NNP POS NNP , EX VBP DT RB JJ `` VB NNS '' IN PRP -LRB- NN -RRB- CD -RRB- NN UH , PRP VBZ RB DT NN CC DT NN CC RB RB DT NN , NNP , IN PRP VBP RP TO RB CD NN CC PRP VBZ TO VB VBN CC PRP VBD RB VB PRP VBN , NNP VBZ DT RB JJ NN TO VB PRP RB IN DT NN .</POS>
+		<Lemma>pro 1 -rrb- cam and vid capability 2 -rrb- 6400 + iso 3 -rrb- noticeable improvement in white balance compensation 4 -rrb- great horizon finder 5 -rrb- the rc-6 remote actually work 6 -rrb- exquisite CANON craftsmanship -lrb- processor , re , articulate monitor , functionality , lot of very kool `` trick '' it can do if you like `` trick '' ... I really could go on ... -rrb- 7 -rrb- really easy to use 8 -rrb- for all of you who simply refuse to read the Owner 's Manual , there be some really kool `` cheat sheet '' for you -lrb- lol -rrb- 9 -rrb- price no , it be not a 7d or a 5dius and truly not a 1ds\/v , BUT , if you be down to only 1 cam and it happen to get steal and you do not have it insure , THIS be a very great option to get you back in the saddle !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>FYI : You 're going to need to make a small investment in SDHC or SDXC cards if you 've used CF 's in the past .</Tokens>
+		<POS>NNP : PRP VBP VBG TO VB TO VB DT JJ NN IN NNP CC NNP NNS IN PRP VBP VBN NN POS IN DT NN .</POS>
+		<Lemma>FYI : you be go to need to make a small investment in SDHC or SDXC card if you have use cf 's in the past .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The manual tells you Class 6 or better , but if you 're going to be doing any real level of vid production , do n't even waste the time with anything less than a Class 10 card -LRB- 20mb 's or faster -RRB- Oh yeah , it arrived on time and well packaged .</Tokens>
+		<POS>DT NN VBZ PRP NN CD CC JJR , CC IN PRP VBP VBG TO VB VBG DT JJ NN IN NN NN , VBP RB RB VB DT NN IN NN JJR IN DT NN CD NN -LRB- NN POS CC JJR -RRB- UH RB , PRP VBD IN NN CC RB VBN .</POS>
+		<Lemma>the manual tell you class 6 or better , but if you be go to be do any real level of vid production , do not even waste the time with anything less than a class 10 card -lrb- 20mb 's or faster -rrb- oh yeah , it arrive on time and well package .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Thank you to the seller for excellent work to get it here in a due and timely manner .</Tokens>
+		<POS>VB PRP TO DT NN IN JJ NN TO VB PRP RB IN DT JJ CC JJ NN .</POS>
+		<Lemma>thank you to the seller for excellent work to get it here in a due and timely manner .</Lemma>
+	</Sentence>
+</Document>

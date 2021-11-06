@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Flip is great in that everyone in the family can use it without referring to a manual .</Tokens>
+		<POS>DT NN VBZ JJ IN DT NN IN DT NN MD VB PRP IN VBG TO DT NN .</POS>
+		<Lemma>the flip be great in that everyone in the family can use it without refer to a manual .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Image quality , battery life , and ease of use combine to make it a great value .</Tokens>
+		<POS>NN NN , NN NN , CC NN IN NN VBP TO VB PRP DT JJ NN .</POS>
+		<Lemma>image quality , battery life , and ease of use combine to make it a great value .</Lemma>
+	</Sentence>
+</Document>

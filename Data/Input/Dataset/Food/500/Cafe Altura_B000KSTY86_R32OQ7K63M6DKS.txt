@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I read the review on this and decided to try it instead of the French roast that I have been buying , but found the flavor not as robust as I would like .</Tokens>
+		<POS>PRP VBP DT NN IN DT CC VBN TO VB PRP RB IN DT JJ NN IN PRP VBP VBN VBG , CC VBD DT NN RB IN JJ IN PRP MD VB .</POS>
+		<Lemma>I read the review on this and decide to try it instead of the french roast that I have be buy , but find the flavor not as robust as I would like .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>That said , I have canceled my subscribe and save on this Peruvian Dark and moved back to Cafe Altura Organic French Roast .</Tokens>
+		<POS>DT VBD , PRP VBP VBN PRP$ VB CC VB IN DT JJ JJ CC VBD RB TO NNP NNP NNP NNP NNP .</POS>
+		<Lemma>that say , I have cancel my subscribe and save on this peruvian dark and move back to Cafe Altura Organic French Roast .</Lemma>
+	</Sentence>
+</Document>

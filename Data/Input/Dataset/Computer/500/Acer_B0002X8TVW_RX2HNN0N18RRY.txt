@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Really pleased with this monitor .</Tokens>
+		<POS>RB VBN IN DT NN .</POS>
+		<Lemma>really please with this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use it for word processing and it makes the type easy to read .</Tokens>
+		<POS>PRP VBP PRP IN NN NN CC PRP VBZ DT NN JJ TO VB .</POS>
+		<Lemma>I use it for word processing and it make the type easy to read .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The picture quality is great .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>the picture quality be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>For the price I dont think you can beat it .</Tokens>
+		<POS>IN DT NN PRP VBP VB PRP MD VB PRP .</POS>
+		<Lemma>for the price I dont think you can beat it .</Lemma>
+	</Sentence>
+</Document>

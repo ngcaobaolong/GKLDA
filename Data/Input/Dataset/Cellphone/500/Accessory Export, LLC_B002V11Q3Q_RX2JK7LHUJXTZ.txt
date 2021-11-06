@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>While the cable would charge the Droid , it would not work as a data transfer cable , the phone seemed to `` lose contact '' with the PC .</Tokens>
+		<POS>IN DT NN MD VB DT NNP , PRP MD RB VB IN DT NN NN NN , DT NN VBD TO `` VB NN '' IN DT NN .</POS>
+		<Lemma>while the cable would charge the Droid , it would not work as a datum transfer cable , the phone seem to `` lose contact '' with the pc .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought a different cable from a different supplier and everything worked fine .</Tokens>
+		<POS>PRP VBD DT JJ NN IN DT JJ NN CC NN VBD NN .</POS>
+		<Lemma>I buy a different cable from a different supplier and everything work fine .</Lemma>
+	</Sentence>
+</Document>

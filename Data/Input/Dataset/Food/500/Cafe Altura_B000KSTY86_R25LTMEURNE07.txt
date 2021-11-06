@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I like the rich flavor of these beans , but I ca n't stay out of the bathroom with their High acidity !</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT NNS , CC PRP MD RB VB IN IN DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>I like the rich flavor of these bean , but I can not stay out of the bathroom with they high acidity !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Their Sumatra beans are my 2nd favorite , but their Low acidity agrees with me !</Tokens>
+		<POS>PRP$ NNP NNS VBP PRP$ JJ JJ , CC PRP$ JJ NN VBZ IN PRP .</POS>
+		<Lemma>they Sumatra bean be my 2nd favorite , but they low acidity agree with I !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens><a href="http://www.amazon.com/gp/product/B000KSPX7C/ref=cm_cr_asin_lnk/186-8527304-4276559"> Cafe Altura Organic Coffee , Sumatran Dark Roast , Whole Bean , 32-Ounce Bag </a></Tokens>
+		<POS>JJ NNP NNP NNP NNP , NNP JJ NNP , NNP NNP , NNP NNP IN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b000kspx7c/ref=cm_cr_asin_lnk/186-8527304-4276559"> Cafe Altura Organic Coffee , Sumatran dark Roast , Whole Bean , 32-Ounce Bag </a></Lemma>
+	</Sentence>
+</Document>

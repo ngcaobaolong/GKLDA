@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been pleased with the product .</Tokens>
+		<POS>PRP VBP VBN VBN IN DT NN .</POS>
+		<Lemma>I have be please with the product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was brand new , as described .</Tokens>
+		<POS>PRP VBD NN JJ , IN VBN .</POS>
+		<Lemma>it be brand new , as describe .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It came earlier than expected .</Tokens>
+		<POS>PRP VBD JJR IN VBN .</POS>
+		<Lemma>it come earlier than expect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It works as it should , so I 'm very pleased with it .</Tokens>
+		<POS>PRP VBZ IN PRP MD , IN PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>it work as it should , so I be very pleased with it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The payment was easy and the product was shipped quicker .</Tokens>
+		<POS>DT NN VBD JJ CC DT NN VBD VBN JJR .</POS>
+		<Lemma>the payment be easy and the product be ship quicker .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall very satisfied .</Tokens>
+		<POS>RB RB JJ .</POS>
+		<Lemma>overall very satisfied .</Lemma>
+	</Sentence>
+</Document>

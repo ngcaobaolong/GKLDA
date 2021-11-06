@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My Motorola Droid works wonderfully with this , allowing me to listen to podcasts and music while I drive , as well as receiving phonecalls with the click of a button .</Tokens>
+		<POS>PRP$ NNP NNP VBZ RB IN DT , VBG PRP TO VB TO NNS CC NN IN PRP VBP , RB RB IN VBG NNS IN DT VBP IN DT NN .</POS>
+		<Lemma>my Motorola Droid work wonderfully with this , allow I to listen to podcast and music while I drive , as well as receive phonecall with the click of a button .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Occasionally , I 'll get some engine humm as I drive , and the bass seems significantly dialed back in the audio , but it definitely beats buying an expensive new stereo with built-in Bluetooth .</Tokens>
+		<POS>RB , PRP MD VB DT NN NN IN PRP VBP , CC DT NN VBZ RB VBN RB IN DT NN , CC PRP RB VBZ VBG DT JJ JJ NN IN JJ NNP .</POS>
+		<Lemma>occasionally , I 'll get some engine humm as I drive , and the bass seem significantly dial back in the audio , but it definitely beat buy a expensive new stereo with built-in Bluetooth .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>High recommended !</Tokens>
+		<POS>JJ VBN .</POS>
+		<Lemma>high recommend !</Lemma>
+	</Sentence>
+</Document>

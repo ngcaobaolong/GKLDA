@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a very nice monitor , matte black and built-in speakers .</Tokens>
+		<POS>DT VBZ DT RB JJ NN , NN JJ CC JJ NNS .</POS>
+		<Lemma>this be a very nice monitor , matte black and built-in speaker .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Sharp image .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>sharp image .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Relatively small desktop footprint too .</Tokens>
+		<POS>RB JJ NN NN RB .</POS>
+		<Lemma>relatively small desktop footprint too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>VERY fast delivery .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very fast delivery .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Ca n't beat it for the price .</Tokens>
+		<POS>MD RB VB PRP IN DT NN .</POS>
+		<Lemma>can not beat it for the price .</Lemma>
+	</Sentence>
+</Document>

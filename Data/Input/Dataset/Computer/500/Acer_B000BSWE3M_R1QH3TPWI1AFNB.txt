@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was a bit skeptical about buying an LCD monitor over the web , given the horror stories I read about dead\/stuck pixels , and not having the convenience of just returning it to my local Best Buy just down the block .</Tokens>
+		<POS>PRP VBD DT NN JJ IN VBG DT NNS VBP IN DT NN , VBN DT NN NNS PRP VBP IN JJ NNS , CC RB VBG DT NN IN RB VBG PRP TO PRP$ JJ NN VB RB IN DT NN .</POS>
+		<Lemma>I be a bit skeptical about buy a lcd monitor over the web , give the horror story I read about dead\/stuck pixel , and not have the convenience of just return it to my local best buy just down the block .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Well , all my worry was for naught .</Tokens>
+		<POS>RB , DT PRP$ NN VBD IN NN .</POS>
+		<Lemma>well , all my worry be for naught .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This monitor worked just as advertised and I am happy with my purchase .</Tokens>
+		<POS>DT NN VBD RB IN JJ CC PRP VBP JJ IN PRP$ NN .</POS>
+		<Lemma>this monitor work just as advertised and I be happy with my purchase .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I will never go back to a CRT again .</Tokens>
+		<POS>PRP MD RB VB RB TO DT NNP RB .</POS>
+		<Lemma>I will never go back to a CRT again .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera just so I had something little on hand and something that I could use quickly while on vacation .</Tokens>
+		<POS>PRP VBD DT NN RB RB PRP VBD NN RB IN NN CC NN IN PRP MD VB RB IN IN NN .</POS>
+		<Lemma>I buy this camera just so I have something little on hand and something that I could use quickly while on vacation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its a bonus that it is waterproof but I am still a bit hesitant to actually use it under water for extended periods of time .</Tokens>
+		<POS>PRP$ DT NN IN PRP VBZ JJ CC PRP VBP RB DT NN JJ TO RB VB PRP IN NN IN JJ NNS IN NN .</POS>
+		<Lemma>its a bonus that it be waterproof but I be still a bit hesitant to actually use it under water for extended period of time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The picture quality is not great but its not horrible either .</Tokens>
+		<POS>DT NN NN VBZ RB JJ CC PRP$ RB JJ CC .</POS>
+		<Lemma>the picture quality be not great but its not horrible either .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The memory card that comes with it did not work so thankfully I had ordered another memory card with it and it works great and has plenty of memory until I can get to a computer to upload my memories !</Tokens>
+		<POS>DT NN NN WDT VBZ IN PRP VBD RB VB RB RB PRP VBD VBN DT NN NN IN PRP CC PRP VBZ JJ CC VBZ NN IN NN IN PRP MD VB TO DT NN TO NN PRP$ NNS .</POS>
+		<Lemma>the memory card that come with it do not work so thankfully I have order another memory card with it and it work great and have plenty of memory until I can get to a computer to upload my memory !</Lemma>
+	</Sentence>
+</Document>

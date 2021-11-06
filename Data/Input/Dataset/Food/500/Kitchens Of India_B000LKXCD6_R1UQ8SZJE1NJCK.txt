@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great item for a quick lunch .</Tokens>
+		<POS>JJ NN IN DT JJ NN .</POS>
+		<Lemma>great item for a quick lunch .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Takes minutes to warm in the microwave .</Tokens>
+		<POS>VBZ NNS TO VB IN DT NN .</POS>
+		<Lemma>take minute to warm in the microwave .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Can be eaten alone or you can pour it over rice for a more filling dish .</Tokens>
+		<POS>MD VB VBN RB CC PRP MD VB PRP IN NN IN DT RBR VBG NN .</POS>
+		<Lemma>can be eat alone or you can pour it over rice for a more fill dish .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Tasty and natural .</Tokens>
+		<POS>JJ CC JJ .</POS>
+		<Lemma>tasty and natural .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Good product .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>good product .</Lemma>
+	</Sentence>
+</Document>

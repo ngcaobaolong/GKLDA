@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After the rise in price , I 've become dissatisfied with this cereal .</Tokens>
+		<POS>IN DT NN IN NN , PRP VBP VBN JJ IN DT NN .</POS>
+		<Lemma>after the rise in price , I have become dissatisfied with this cereal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very high sodium content .</Tokens>
+		<POS>RB JJ NN NN .</POS>
+		<Lemma>very high sodium content .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Look at Bob 's Red Mill , country style muesli .</Tokens>
+		<POS>VB IN NNP POS NNP NNP , NN NN NNS .</POS>
+		<Lemma>look at Bob 's Red Mill , country style muesli .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Much cheaper , tastier , and healthier .</Tokens>
+		<POS>JJ JJR , JJR , CC JJR .</POS>
+		<Lemma>much cheaper , tastier , and healthier .</Lemma>
+	</Sentence>
+</Document>

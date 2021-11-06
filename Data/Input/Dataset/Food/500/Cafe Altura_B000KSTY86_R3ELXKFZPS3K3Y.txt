@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>... wait until you taste this coffee .</Tokens>
+		<POS>: VB IN PRP VBP DT NN .</POS>
+		<Lemma>... wait until you taste this coffee .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I used it in my espresso machine and was truly wowed by my first cup .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ NN NN CC VBD RB VBN IN PRP$ JJ NN .</POS>
+		<Lemma>I use it in my espresso machine and be truly wow by my first cup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Special thanks to all those importers in Ojai who figured out how to import a great and responsible coffee bean .</Tokens>
+		<POS>JJ NNS TO DT DT NNS IN NNP WP VBD RP WRB TO VB DT JJ CC JJ NN NN .</POS>
+		<Lemma>special thanks to all those importer in Ojai who figure out how to import a great and responsible coffee bean .</Lemma>
+	</Sentence>
+</Document>

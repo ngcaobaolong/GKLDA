@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is one of those `` why did n't someone do this a long time ago ? ''</Tokens>
+		<POS>DT VBZ CD IN DT `` WRB VBD RB NN VBP DT DT JJ NN IN . ''</POS>
+		<Lemma>this be one of those `` why do not someone do this a long time ago ? ''</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>gadgets that is obvious in hindsight .</Tokens>
+		<POS>NNS WDT VBZ JJ IN NN .</POS>
+		<Lemma>gadget that be obvious in hindsight .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just a handy way to recharge all those mini-USB gizmos , from the car , or home , or a computer .</Tokens>
+		<POS>RB DT JJ NN TO VB PDT DT JJ NNS , IN DT NN , CC NN , CC DT NN .</POS>
+		<Lemma>just a handy way to recharge all those mini-usb gizmo , from the car , or home , or a computer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Works as advertised - very cool .</Tokens>
+		<POS>NNP IN JJ : RB JJ .</POS>
+		<Lemma>Works as advertised - very cool .</Lemma>
+	</Sentence>
+</Document>

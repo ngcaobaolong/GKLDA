@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really like this coffee .</Tokens>
+		<POS>PRP RB IN DT NN .</POS>
+		<Lemma>I really like this coffee .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I live in a rural location , so , finding less popular kinds of coffee has been more challenging , until now .</Tokens>
+		<POS>PRP VBP IN DT JJ NN , RB , VBG JJR JJ NNS IN NN VBZ VBN JJR JJ , IN RB .</POS>
+		<Lemma>I live in a rural location , so , find less popular kind of coffee have be more challenging , until now .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is so easy .</Tokens>
+		<POS>DT VBZ RB JJ .</POS>
+		<Lemma>this be so easy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>2 days later , and it is here .</Tokens>
+		<POS>CD NNS RB , CC PRP VBZ RB .</POS>
+		<Lemma>2 day later , and it be here .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is good Peruvian coffee that seems low in acidity , and has a nice flavor .</Tokens>
+		<POS>DT VBZ JJ JJ NN WDT VBZ JJ IN NN , CC VBZ DT JJ NN .</POS>
+		<Lemma>this be good peruvian coffee that seem low in acidity , and have a nice flavor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thank you !</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>thank you !</Lemma>
+	</Sentence>
+</Document>

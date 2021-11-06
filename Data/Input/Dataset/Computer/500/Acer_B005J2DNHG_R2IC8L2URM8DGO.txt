@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After much delay I received my Acer Netbook Aspire One and I can teell you I am very satisfied with this computer , is very pretty , well finished , high quality , so quiet , not heated than other netbook or at least I think it is within in normal ranges , the keyboard is very smooth and very well laid out , the screen functions are very practical in a nutshell is an excellent buy and I am very pleased with the purchase , I recommend it .</Tokens>
+		<POS>IN JJ NN PRP VBD PRP$ NNP NNP NNP CD CC PRP MD VB PRP PRP VBP RB JJ IN DT NN , VBZ RB RB , RB VBD , JJ NN , RB JJ , RB JJ IN JJ NN CC IN JJS PRP VBP PRP VBZ IN IN JJ NNS , DT NN VBZ RB JJ CC RB RB VBN RP , DT NN NNS VBP RB JJ IN DT NN VBZ DT JJ NN CC PRP VBP RB JJ IN DT NN , PRP VBP PRP .</POS>
+		<Lemma>after much delay I receive my Acer Netbook Aspire one and I can teell you I be very satisfied with this computer , be very pretty , well finish , high quality , so quiet , not heated than other netbook or at least I think it be within in normal range , the keyboard be very smooth and very well lay out , the screen function be very practical in a nutshell be a excellent buy and I be very pleased with the purchase , I recommend it .</Lemma>
+	</Sentence>
+</Document>

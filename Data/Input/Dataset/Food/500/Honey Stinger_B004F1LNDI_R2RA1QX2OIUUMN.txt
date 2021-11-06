@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought these Stingers to eat as breakfast with a protein shake before workout , and now im hooked !</Tokens>
+		<POS>PRP VBD DT NNS TO VB IN NN IN DT NN NN IN NN , CC RB VBP JJ .</POS>
+		<Lemma>I buy these stinger to eat as breakfast with a protein shake before workout , and now im hooked !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has a somewhat soft texture to it .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN TO PRP .</POS>
+		<Lemma>it have a somewhat soft texture to it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You 'd think a waffle would have crunch , but maybe the honey soaks up into the waffle and it softens .</Tokens>
+		<POS>PRP MD VB DT NN MD VB NN , CC RB DT NN VBZ RP IN DT NN CC PRP VBZ .</POS>
+		<Lemma>you would think a waffle would have crunch , but maybe the honey soak up into the waffle and it soften .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I ` ts sweet , but not too sweet .</Tokens>
+		<POS>PRP `` NNS JJ , CC RB RB JJ .</POS>
+		<Lemma>I ` t sweet , but not too sweet .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Honestly , I have to stop myself from eating more then 1 a day .</Tokens>
+		<POS>RB , PRP VBP TO VB PRP IN VBG JJR RB CD DT NN .</POS>
+		<Lemma>honestly , I have to stop myself from eat more then 1 a day .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm lucky to have some self control because i 'd probably eat 2 or 3 a day .</Tokens>
+		<POS>PRP VBP JJ TO VB DT NN NN IN FW MD RB VB CD CC CD DT NN .</POS>
+		<Lemma>I be lucky to have some self control because i would probably eat 2 or 3 a day .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If i had to complain about anything is the packages do n't open very easily , it causes the waffle to crumble in the package sometimes .</Tokens>
+		<POS>IN FW VBD TO VB IN NN VBZ DT NNS VBP RB JJ RB RB , PRP VBZ DT NN TO VB IN DT NN RB .</POS>
+		<Lemma>if i have to complain about anything be the package do not open very easily , it cause the waffle to crumble in the package sometimes .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>But im just being picky here , this product is perfect .</Tokens>
+		<POS>CC RB RB VBG JJ RB , DT NN VBZ JJ .</POS>
+		<Lemma>but im just be picky here , this product be perfect .</Lemma>
+	</Sentence>
+</Document>

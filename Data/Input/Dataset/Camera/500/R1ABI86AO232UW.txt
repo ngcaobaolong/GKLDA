@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It was really disappointing .</Tokens>
+		<POS>PRP VBD RB JJ .</POS>
+		<Lemma>it be really disappointing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The video is not really 720p like as advertised ; it does GOOD 480p .</Tokens>
+		<POS>DT NN VBZ RB RB CD IN IN VBN : PRP VBZ NNP NN .</POS>
+		<Lemma>the video be not really 720p like as advertise ; it do GOOD 480p .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And the video is annoyingly choppy -- not one of the smarter buying decisions I 've made .</Tokens>
+		<POS>CC DT NN VBZ RB JJ : RB CD IN DT RBR NN NNS PRP VBP VBN .</POS>
+		<Lemma>and the video be annoyingly choppy -- not one of the smarter buying decision I have make .</Lemma>
+	</Sentence>
+</Document>

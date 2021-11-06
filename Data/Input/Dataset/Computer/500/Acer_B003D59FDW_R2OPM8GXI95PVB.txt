@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I decided to purchase these monitors for use in our offices .</Tokens>
+		<POS>PRP VBD TO VB DT NNS IN NN IN PRP$ NNS .</POS>
+		<Lemma>I decide to purchase these monitor for use in we office .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They seemed like too good of a bargain .</Tokens>
+		<POS>PRP VBD IN RB JJ IN DT NN .</POS>
+		<Lemma>they seem like too good of a bargain .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There were a few bad reviews on Amazon but I took the risk anyway .</Tokens>
+		<POS>EX VBD DT JJ JJ NNS IN NNP CC PRP VBD DT NN RB .</POS>
+		<Lemma>there be a few bad review on Amazon but I take the risk anyway .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have since purchased several of these for our office computers .</Tokens>
+		<POS>PRP VBP IN VBN JJ IN DT IN PRP$ NN NNS .</POS>
+		<Lemma>I have since purchase several of these for we office computer .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The resolution is very good and they have a nice apperance .</Tokens>
+		<POS>DT NN VBZ RB JJ CC PRP VBP DT JJ NN .</POS>
+		<Lemma>the resolution be very good and they have a nice apperance .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>One review stated that you could not adjust the monitor which is not true .</Tokens>
+		<POS>CD NN VBD IN PRP MD RB VB DT NN WDT VBZ RB JJ .</POS>
+		<Lemma>one review state that you could not adjust the monitor which be not true .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The entire monitor pivots front to back in the base .</Tokens>
+		<POS>DT JJ NN VBZ NN TO VB IN DT NN .</POS>
+		<Lemma>the entire monitor pivot front to back in the base .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's not the king of the monitor world but if your looking for a decent buy at a great price it 's the one to get .</Tokens>
+		<POS>PRP VBZ RB DT NN IN DT NN NN CC IN PRP$ VBG IN DT JJ NN IN DT JJ NN PRP VBZ DT CD TO VB .</POS>
+		<Lemma>it be not the king of the monitor world but if you look for a decent buy at a great price it be the one to get .</Lemma>
+	</Sentence>
+</Document>

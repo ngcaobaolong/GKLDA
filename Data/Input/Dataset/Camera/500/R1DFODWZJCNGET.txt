@@ -1,0 +1,247 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>-LRB- See addendum at the bottom for update -RRB- The video sensor size of this unit is 1\/3 .2 inch .</Tokens>
+		<POS>-LRB- VB NN IN DT NN IN VBP -RRB- DT NN NN NN IN DT NN VBZ CD NN NN .</POS>
+		<Lemma>-lrb- see addendum at the bottom for update -rrb- the video sensor size of this unit be 1\/3 .2 inch .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a miniscule sensor that can not possibly deliver high quality HD video .</Tokens>
+		<POS>DT VBZ DT JJ NN WDT MD RB RB VB JJ NN NN NN .</POS>
+		<Lemma>this be a miniscule sensor that can not possibly deliver high quality hd video .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>To put it another way , if Blu-Ray video quality is a `` 10 '' , an $ 800 HD camcorder is a `` 7 '' , a cellphone is a `` 2 '' and this unit is about a `` 4 '' in video quality .</Tokens>
+		<POS>TO VB PRP DT NN , IN NNP JJ NN VBZ DT `` CD '' , DT $ CD NN NN VBZ DT `` CD '' , DT NN VBZ DT `` CD '' CC DT NN VBZ IN DT `` CD '' IN JJ NN .</POS>
+		<Lemma>to put it another way , if Blu-Ray video quality be a `` 10 '' , a $ 800 hd camcorder be a `` 7 '' , a cellphone be a `` 2 '' and this unit be about a `` 4 '' in video quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>To put it yet another way , if you watch video from this unit on a computer and set the viewer to half size , the video looks great -- sharp and detailed .</Tokens>
+		<POS>TO VB PRP RB DT NN , IN PRP VBP NN IN DT NN IN DT NN CC VBD DT NN TO DT NN , DT NN VBZ JJ : JJ CC JJ .</POS>
+		<Lemma>to put it yet another way , if you watch video from this unit on a computer and set the viewer to half size , the video look great -- sharp and detailed .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Increasing the size to 100 % does n't seem to add much .</Tokens>
+		<POS>VBG DT NN TO CD NN VBZ RB VB TO VB RB .</POS>
+		<Lemma>increase the size to 100 % do not seem to add much .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Most of the quality issues are loss of detail , especially noticable in faces .</Tokens>
+		<POS>JJS IN DT NN NNS VBP NN IN NN , RB JJ IN NNS .</POS>
+		<Lemma>most of the quality issue be loss of detail , especially noticable in face .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Like all sensors , in bright light , quality is much better than dim .</Tokens>
+		<POS>IN DT NNS , IN JJ NN , NN VBZ RB JJR IN JJ .</POS>
+		<Lemma>like all sensor , in bright light , quality be much better than dim .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Audio is top notch .</Tokens>
+		<POS>NNP VBZ JJ NN .</POS>
+		<Lemma>Audio be top notch .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The stereo separation is perfect -- not too wide or narrow .</Tokens>
+		<POS>DT NN NN VBZ JJ : RB RB JJ CC JJ .</POS>
+		<Lemma>the stereo separation be perfect -- not too wide or narrow .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The unit has pretty flat EQ in recording audio -- just slightly hot on the treble end giving a bit of brightness , but this is mild .</Tokens>
+		<POS>DT NN VBZ RB JJ NN IN NN NN : RB RB JJ IN DT JJ NN VBG DT NN IN NN , CC DT VBZ JJ .</POS>
+		<Lemma>the unit have pretty flat eq in recording audio -- just slightly hot on the treble end give a bit of brightness , but this be mild .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It can record 24 bit audio , which is very useful for live recording as it preserves audio detail even if the sound gets quiet .</Tokens>
+		<POS>PRP MD VB CD NN JJ , WDT VBZ RB JJ IN JJ NN IN PRP VBZ JJ NN RB IN DT NN VBZ JJ .</POS>
+		<Lemma>it can record 24 bit audio , which be very useful for live recording as it preserve audio detail even if the sound get quiet .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It also has an interesting feature where it can be set to automatically turn down the gain if there 's any clipping , but it is one way only -- it wo n't turn the gain back up again .</Tokens>
+		<POS>PRP RB VBZ DT JJ NN WRB PRP MD VB VBN TO RB VB RP DT NN IN EX VBZ DT JJ , CC PRP VBZ CD NN RB : PRP MD RB VB DT NN RB RB RB .</POS>
+		<Lemma>it also have a interesting feature where it can be set to automatically turn down the gain if there be any clipping , but it be one way only -- it will not turn the gain back up again .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>So you are n't getting artificial `` automatic gain control '' type changing of the gain , yet you avoid clipping .</Tokens>
+		<POS>IN PRP VBP RB VBG JJ `` JJ NN NN '' NN VBG IN DT NN , RB PRP VB JJ .</POS>
+		<Lemma>so you be not get artificial `` automatic gain control '' type change of the gain , yet you avoid clipping .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>There is also the standard automatic gain control -LRB- constantly adjusting input gain to the volume level -RRB- which is useful for recording voice , interviews , classroom lectures , etc. .</Tokens>
+		<POS>EX VBZ RB DT JJ JJ NN NN -LRB- RB VBG NN NN TO DT NN NN -RRB- WDT VBZ JJ IN VBG NN , NNS , NN VBZ , FW .</POS>
+		<Lemma>there be also the standard automatic gain control -lrb- constantly adjust input gain to the volume level -rrb- which be useful for record voice , interview , classroom lecture , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Manual gain control is limited to either `` high input '' or `` low input '' -- there is no input level control .</Tokens>
+		<POS>JJ NN NN VBZ VBN TO CC `` JJ NN '' CC `` JJ NN '' : EX VBZ DT NN NN NN .</POS>
+		<Lemma>manual gain control be limit to either `` high input '' or `` low input '' -- there be no input level control .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Bottom line : the audio recording is a huge success , with very high quality stereo reproduction .</Tokens>
+		<POS>NN NN : DT JJ NN VBZ DT JJ NN , IN RB JJ NN NN NN .</POS>
+		<Lemma>bottom line : the audio recording be a huge success , with very high quality stereo reproduction .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Battery life is about 2 hours of continuous recording , with the display on .</Tokens>
+		<POS>NN NN VBZ IN CD NNS IN JJ NN , IN DT NN IN .</POS>
+		<Lemma>battery life be about 2 hour of continuous recording , with the display on .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Unfortunately there is no way to turn off the display , so it just stays on and uses up battery power .</Tokens>
+		<POS>RB EX VBZ DT NN TO VB RP DT NN , IN PRP RB VBZ IN CC VBZ RP NN NN .</POS>
+		<Lemma>unfortunately there be no way to turn off the display , so it just stay on and use up battery power .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Hopefully this can be fixed in a firmware update .</Tokens>
+		<POS>RB DT MD VB VBN IN DT NN VBP .</POS>
+		<Lemma>hopefully this can be fix in a firmware update .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>So we end up with great audio , and fair video .</Tokens>
+		<POS>IN PRP VBP RP IN JJ NN , CC JJ NN .</POS>
+		<Lemma>so we end up with great audio , and fair video .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>For my application -- recording my band 's gigs , this is all I need to see how we look live , and to hear excellent and detailed audio .</Tokens>
+		<POS>IN PRP$ NN : VBG PRP$ NN POS NNS , DT VBZ DT PRP VBP TO VB WRB PRP VBP JJ , CC TO VB JJ CC JJ NN .</POS>
+		<Lemma>for my application -- record my band 's gig , this be all I need to see how we look live , and to hear excellent and detailed audio .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>There are n't any other alternative products for great audio + video in this price range .</Tokens>
+		<POS>EX VBP RB DT JJ JJ NNS IN JJ NN CC NN IN DT NN NN .</POS>
+		<Lemma>there be not any other alternative product for great audio + video in this price range .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>You just have to realize that you get what you pay for in video quality .</Tokens>
+		<POS>PRP RB VBP TO VB IN PRP VBP WP PRP VBP IN IN JJ NN .</POS>
+		<Lemma>you just have to realize that you get what you pay for in video quality .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>TIPS AND TRICKS : 1 -RRB- My unit was randomly stopping recordings until I updated the firmware , so suggest doing that off the Zoom website .</Tokens>
+		<POS>NNS CC NNS : LS -RRB- PRP$ NN VBD RB VBG NNS IN PRP VBD DT NN , RB VBP VBG IN IN DT NN NN .</POS>
+		<Lemma>tip and trick : 1 -rrb- my unit be randomly stop recording until I update the firmware , so suggest do that off the zoom website .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>2 -RRB- 1080p recording is noticeably better than 720p on this unit , so would definitely record at 1080p .</Tokens>
+		<POS>LS -RRB- JJ NN VBZ RB JJR IN CD IN DT NN , RB MD RB VB IN CD .</POS>
+		<Lemma>2 -rrb- 1080p recording be noticeably better than 720p on this unit , so would definitely record at 1080p .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>3 -RRB- Be sure to set the battery type correctly to either alkaline or rechargeable , or the unit can shut off prematurely thinking the batteries are dead .</Tokens>
+		<POS>LS -RRB- VB JJ TO VB DT NN NN RB TO CC NN CC JJ , CC DT NN MD VB RP RB VBG DT NNS VBP JJ .</POS>
+		<Lemma>3 -rrb- be sure to set the battery type correctly to either alkaline or rechargeable , or the unit can shut off prematurely think the battery be dead .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>4 -RRB- It 's almost impossible not to get fingerprints on the lens -- be sure to clean it just before you start recording .</Tokens>
+		<POS>LS -RRB- PRP VBZ RB JJ RB TO VB NNS IN DT NN : VB JJ TO VB PRP RB IN PRP VBP VBG .</POS>
+		<Lemma>4 -rrb- it be almost impossible not to get fingerprint on the lens -- be sure to clean it just before you start record .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>There 's an excellent product called LensPen which is quick and very effective .</Tokens>
+		<POS>EX VBZ DT JJ NN VBN NNP WDT VBZ JJ CC RB JJ .</POS>
+		<Lemma>there be a excellent product call LensPen which be quick and very effective .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>5 -RRB- The `` glass '' on the user screen display on the back side is actually soft plastic and it scratches very easily .</Tokens>
+		<POS>LS -RRB- DT `` NN '' IN DT NN NN NN IN DT JJ NN VBZ RB JJ NN CC PRP VBZ RB RB .</POS>
+		<Lemma>5 -rrb- the `` glass '' on the user screen display on the back side be actually soft plastic and it scratch very easily .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>6 -RRB- The `` concert lighting '' setting desaturates the colors , while the `` dark '' setting pumps up the video gain .</Tokens>
+		<POS>CD -RRB- DT `` NN NN '' VBG NNS DT NNS , IN DT `` JJ '' VBG NNS IN DT NN NN .</POS>
+		<Lemma>6 -rrb- the `` concert lighting '' set desaturate the color , while the `` dark '' set pump up the video gain .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>A quick tip about the HandyShare software that comes with it .</Tokens>
+		<POS>DT JJ NN IN DT NNP NN WDT VBZ IN PRP .</POS>
+		<Lemma>a quick tip about the HandyShare software that come with it .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>It is not a video editing suite by any means and is actually quite primitive .</Tokens>
+		<POS>PRP VBZ RB DT NN NN NN IN DT NNS CC VBZ RB RB JJ .</POS>
+		<Lemma>it be not a video editing suite by any means and be actually quite primitive .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>But it does a few things very well -- you can trim video clips and it does n't re-encode them , so it retains the original video and audio quality .</Tokens>
+		<POS>CC PRP VBZ DT JJ NNS RB RB : PRP MD VB NN NNS CC PRP VBZ RB VB PRP , IN PRP VBZ DT JJ NN CC JJ NN .</POS>
+		<Lemma>but it do a few thing very well -- you can trim video clip and it do not re-encode they , so it retain the original video and audio quality .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>It can save the audio separately .</Tokens>
+		<POS>PRP MD VB DT JJ RB .</POS>
+		<Lemma>it can save the audio separately .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>It can also normalize audio -LRB- adjust it to full volume -RRB- without re-encoding the video .</Tokens>
+		<POS>PRP MD RB VB NN -LRB- VBP PRP TO JJ NN -RRB- IN VBG DT NN .</POS>
+		<Lemma>it can also normalize audio -lrb- adjust it to full volume -rrb- without re-encode the video .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>It does not join video segments , however .</Tokens>
+		<POS>PRP VBZ RB VB NN NNS , RB .</POS>
+		<Lemma>it do not join video segment , however .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>OVERALL : Perfect for applications where audio quality is a higher priority than video quality .</Tokens>
+		<POS>NNP : NNP IN NNS WRB JJ NN VBZ DT JJR NN IN JJ NN .</POS>
+		<Lemma>OVERALL : Perfect for application where audio quality be a higher priority than video quality .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>There are n't any other units currently in this price range out there which can do that .</Tokens>
+		<POS>EX VBP RB DT JJ NNS RB IN DT NN NN IN RB WDT MD VB DT .</POS>
+		<Lemma>there be not any other unit currently in this price range out there which can do that .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>If you want pristine audio AND video , you 'll need to spend much more , investing in a top quality camcorder with external microphones .</Tokens>
+		<POS>IN PRP VBP JJ NN CC NN , PRP MD VB TO VB RB RBR , VBG IN DT JJ NN NN IN JJ NNS .</POS>
+		<Lemma>if you want pristine audio and video , you 'll need to spend much more , invest in a top quality camcorder with external microphone .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>ADDENDUM : After a while I noticed a problem : with long recordings , the unit randomly stops recording .</Tokens>
+		<POS>NNP : IN DT NN PRP VBD DT NN : IN JJ NNS , DT NN RB VBZ NN .</POS>
+		<Lemma>ADDENDUM : after a while I notice a problem : with long recording , the unit randomly stop recording .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>I tried multiple memory cards -LRB- including up to Class 10 -RRB- , new batteries , tried all settings .</Tokens>
+		<POS>PRP VBD JJ NN NNS -LRB- VBG RP TO NNP CD -RRB- , JJ NNS , VBD DT NNS .</POS>
+		<Lemma>I try multiple memory card -lrb- include up to Class 10 -rrb- , new battery , try all setting .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>Not better with the latest Firmware 1.15 .</Tokens>
+		<POS>RB RBR IN DT JJS NN CD .</POS>
+		<Lemma>not better with the latest firmware 1.15 .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>Finally I returned the unit for a replacement .</Tokens>
+		<POS>RB PRP VBD DT NN IN DT NN .</POS>
+		<Lemma>finally I return the unit for a replacement .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>The replacement unit had the same problem !</Tokens>
+		<POS>DT NN NN VBD DT JJ NN .</POS>
+		<Lemma>the replacement unit have the same problem !</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>I use this to record my band so need it to record at least 45 minutes .</Tokens>
+		<POS>PRP VBP DT TO VB PRP$ NN RB VB PRP TO VB IN JJS CD NNS .</POS>
+		<Lemma>I use this to record my band so need it to record at least 45 minute .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>I would find the unit had often -LRB- but not always -RRB- turned itself off somewhere in the 45 minute set , so I 'd keep losing the rest .</Tokens>
+		<POS>PRP MD VB DT NN VBD RB -LRB- CC RB RB -RRB- VBD PRP RP RB IN DT CD NN NN , IN PRP MD VB VBG DT NN .</POS>
+		<Lemma>I would find the unit have often -lrb- but not always -rrb- turn itself off somewhere in the 45 minute set , so I would keep lose the rest .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>Sadly , I have returned the 2nd replacement unit , and am now looking for another option .</Tokens>
+		<POS>RB , PRP VBP VBN DT JJ NN NN , CC VBP RB VBG IN DT NN .</POS>
+		<Lemma>sadly , I have return the 2nd replacement unit , and be now look for another option .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>Hopefully a future firmware update can fix this .</Tokens>
+		<POS>RB DT JJ NN VBP MD VB DT .</POS>
+		<Lemma>hopefully a future firmware update can fix this .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Until then , I have lowered my rating to 1 star .</Tokens>
+		<POS>IN RB , PRP VBP VBN PRP$ NN TO CD NN .</POS>
+		<Lemma>until then , I have lower my rating to 1 star .</Lemma>
+	</Sentence>
+</Document>

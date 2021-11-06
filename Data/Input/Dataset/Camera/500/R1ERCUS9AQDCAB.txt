@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We 've had ours for about three months now and we 're pretty pleased with it .</Tokens>
+		<POS>PRP VBP VBD PRP IN IN CD NNS RB CC PRP VBP RB VBN IN PRP .</POS>
+		<Lemma>we have have ours for about three month now and we be pretty please with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Criticisms : My bf set it up and said the hoops to jump through were a bit much .</Tokens>
+		<POS>NNS : PRP$ NN VBD PRP RP CC VBD DT NNS TO VB IN VBD DT NN JJ .</POS>
+		<Lemma>criticism : my bf set it up and say the hoop to jump through be a bit much .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It will work via any operating system , but for full functionality - including sound - you have to view it through Internet Explorer .</Tokens>
+		<POS>PRP MD VB IN DT NN NN , CC IN JJ NN : VBG NN : PRP VBP TO VB PRP IN NN NNP .</POS>
+		<Lemma>it will work via any operating system , but for full functionality - include sound - you have to view it through internet Explorer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't know ANYONE who uses that old insecure operating system ... why did they set it up the cam to only fully function that way ?</Tokens>
+		<POS>PRP VBP RB VB NN WP VBZ IN JJ JJ NN NN : WRB VBD PRP VBD PRP RP DT NN TO RB RB VB DT NN .</POS>
+		<Lemma>I do not know anyone who use that old insecure operating system ... why do they set it up the cam to only fully function that way ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And I got it specifically to view while I 'm at work , and we only use Macs here at work , so talk about disappointed there .</Tokens>
+		<POS>CC PRP VBD PRP RB TO VB IN PRP VBP IN NN , CC PRP RB VBP NNPS RB IN NN , RB VB IN JJ EX .</POS>
+		<Lemma>and I get it specifically to view while I be at work , and we only use Macs here at work , so talk about disappointed there .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I can see just fine , but no sound .</Tokens>
+		<POS>PRP MD VB RB JJ , CC DT NN .</POS>
+		<Lemma>I can see just fine , but no sound .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>: -LRB- The tilt\/pan function is S-L-O-W-W-W-W .</Tokens>
+		<POS>: -LRB- DT NN NN VBZ NN .</POS>
+		<Lemma>: -lrb- the tilt\/pan function be s-l-o-w-w-w-w .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Other than that , it 's pretty doggone neat .</Tokens>
+		<POS>JJ IN DT , PRP VBZ RB JJ JJ .</POS>
+		<Lemma>other than that , it be pretty doggone neat .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I especially like that we can set up multiple user profiles with different levels of control .</Tokens>
+		<POS>PRP RB IN IN PRP MD VB RP JJ NN NNS IN JJ NNS IN NN .</POS>
+		<Lemma>I especially like that we can set up multiple user profile with different level of control .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So overall we 'd say we 're \* mostly \* happy with it .</Tokens>
+		<POS>RB RB PRP MD VB PRP VBP SYM RB SYM JJ IN PRP .</POS>
+		<Lemma>so overall we would say we be \* mostly \* happy with it .</Lemma>
+	</Sentence>
+</Document>

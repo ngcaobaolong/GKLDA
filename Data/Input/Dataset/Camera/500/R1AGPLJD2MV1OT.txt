@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this for my 9yr old grand daughter , she loves it .</Tokens>
+		<POS>PRP VBD DT IN PRP$ JJ JJ JJ NN , PRP VBZ PRP .</POS>
+		<Lemma>I get this for my 9yr old grand daughter , she love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Found it to be easy to use .</Tokens>
+		<POS>VB PRP TO VB JJ TO VB .</POS>
+		<Lemma>find it to be easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do wish we could plug it into an electrical plug to charge instead of the usb port , as I do n't want it to just `` hang '' while it 's charging , but we will have to buy a separate cord if we do n't want to plug it in direct .</Tokens>
+		<POS>PRP VBP VB PRP MD VB PRP IN DT JJ NN TO VB RB IN DT NN NN , IN PRP VBP RB VB PRP TO RB `` VB '' IN PRP VBZ VBG , CC PRP MD VB TO VB DT JJ NN IN PRP VBP RB VB TO VB PRP IN JJ .</POS>
+		<Lemma>I do wish we could plug it into a electrical plug to charge instead of the usb port , as I do not want it to just `` hang '' while it be charge , but we will have to buy a separate cord if we do not want to plug it in direct .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No big deal , I just do n't want the weight of the camera pulling on the little plug as it charges .</Tokens>
+		<POS>DT JJ NN , PRP RB VBP RB VB DT NN IN DT NN VBG IN DT JJ NN IN PRP VBZ .</POS>
+		<Lemma>no big deal , I just do not want the weight of the camera pull on the little plug as it charge .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>One thing , none of us can figure out how to use the wrist strap for it , as we are not sure how to attach the camera to the strap , nothing seems to work .</Tokens>
+		<POS>CD NN , NN IN PRP MD VB RP WRB TO VB DT NN NN IN PRP , IN PRP VBP RB JJ WRB TO VB DT NN TO DT NN , NN VBZ TO VB .</POS>
+		<Lemma>one thing , none of we can figure out how to use the wrist strap for it , as we be not sure how to attach the camera to the strap , nothing seem to work .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Surely , we will figure it out .</Tokens>
+		<POS>RB , PRP MD VB PRP RP .</POS>
+		<Lemma>surely , we will figure it out .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>One last issue , we can not figure out how to increase the volume when taking videos .</Tokens>
+		<POS>CD JJ NN , PRP MD RB VB RP WRB TO VB DT NN WRB VBG NNS .</POS>
+		<Lemma>one last issue , we can not figure out how to increase the volume when take video .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>We went into settings , and put it up as far as possible , but we still can barely hear voices when we record and on playback , that is frustrating .</Tokens>
+		<POS>PRP VBD IN NNS , CC VBD PRP RP RB RB IN JJ , CC PRP RB MD RB VB NNS WRB PRP NN CC IN NN , WDT VBZ JJ .</POS>
+		<Lemma>we go into setting , and put it up as far as possible , but we still can barely hear voice when we record and on playback , that be frustrating .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have called support a couple of times , wow , that 's a process !</Tokens>
+		<POS>PRP VBP VBN NN DT NN IN NNS , NN , DT VBZ DT NN .</POS>
+		<Lemma>I have call support a couple of time , wow , that be a process !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I think it will be fine , once we get a little help with it .</Tokens>
+		<POS>PRP VBP PRP MD VB JJ , IN PRP VBP DT JJ NN IN PRP .</POS>
+		<Lemma>I think it will be fine , once we get a little help with it .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I think I will take it out to Walmart , to the photo center , those guys can probably help me with the issues .</Tokens>
+		<POS>PRP VBP PRP MD VB PRP IN TO NNP , TO DT NN NN , DT NNS MD RB VB PRP IN DT NNS .</POS>
+		<Lemma>I think I will take it out to Walmart , to the photo center , those guy can probably help I with the issue .</Lemma>
+	</Sentence>
+</Document>

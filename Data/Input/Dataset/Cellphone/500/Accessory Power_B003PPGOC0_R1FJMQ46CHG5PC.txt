@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Oh my god , I 've been looking for this for years !</Tokens>
+		<POS>UH PRP$ NN , PRP VBP VBN VBG IN DT IN NNS .</POS>
+		<Lemma>oh my god , I have be look for this for year !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've had other iPod adapters and continually was disappointed .</Tokens>
+		<POS>PRP VBP VBD JJ NN NNS CC RB VBD VBN .</POS>
+		<Lemma>I have have other ipod adapter and continually be disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've finally ended my search .</Tokens>
+		<POS>PRP VBP RB VBN PRP$ NN .</POS>
+		<Lemma>I have finally end my search .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This product is amazing !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this product be amazing !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I never have to mess with the radio station and my tunes come through beautifully .</Tokens>
+		<POS>PRP RB VBP TO NN IN DT NN NN CC PRP$ NNS VBP IN RB .</POS>
+		<Lemma>I never have to mess with the radio station and my tune come through beautifully .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I also enjoy using the hands free phone calling .</Tokens>
+		<POS>PRP RB VBP VBG DT NNS JJ NN VBG .</POS>
+		<Lemma>I also enjoy use the hand free phone call .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I use it with my iPhone .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NNP .</POS>
+		<Lemma>I use it with my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I love listening to pandora in my truck !</Tokens>
+		<POS>PRP VBP VBG TO VB IN PRP$ NN .</POS>
+		<Lemma>I love listen to pandora in my truck !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Thank you thank you flexmart !</Tokens>
+		<POS>VB PRP VB PRP NN .</POS>
+		<Lemma>thank you thank you flexmart !</Lemma>
+	</Sentence>
+</Document>

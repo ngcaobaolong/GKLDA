@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this from Amazon .</Tokens>
+		<POS>PRP VBD DT IN NNP .</POS>
+		<Lemma>I purchase this from Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Shot it today down here in San Francisco .</Tokens>
+		<POS>VB PRP NN RB RB IN NNP NNP .</POS>
+		<Lemma>shoot it today down here in San Francisco .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had the D90 for almost two years so I ca n't help but compare the two .</Tokens>
+		<POS>PRP VBD DT NN IN RB CD NNS IN PRP MD RB VB CC VB DT CD .</POS>
+		<Lemma>I have the d90 for almost two year so I can not help but compare the two .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>1 - Very similar in feel with the body being a bit larger with a bit more heft - all these things being positive since all four fingers fit on the grip at once now with room for my pinky .</Tokens>
+		<POS>LS : RB JJ IN NN IN DT NN VBG DT NN JJR IN DT NN RBR SYM : PDT DT NNS VBG JJ IN DT CD NNS VBP IN DT NN IN RB RB IN NN IN PRP$ NN .</POS>
+		<Lemma>1 - very similar in feel with the body be a bit larger with a bit more heft - all these thing be positive since all four finger fit on the grip at once now with room for my pinky .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Ca n't think of a better fit with the D300s being too heavy and too large for my taste .</Tokens>
+		<POS>NN RB VB IN DT JJR NN IN DT NNS VBG RB JJ CC RB JJ IN PRP$ NN .</POS>
+		<Lemma>ca not think of a better fit with the d300 be too heavy and too large for my taste .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>2 - Feels snappier and a bit more responsive .</Tokens>
+		<POS>LS : VBZ JJR CC DT NN RBR JJ .</POS>
+		<Lemma>2 - feel snappier and a bit more responsive .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>3-Auto focus quicker and more accurate .</Tokens>
+		<POS>JJ NN JJR CC JJR JJ .</POS>
+		<Lemma>3-auto focus quicker and more accurate .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>3-The menus are set up pretty much the same with the D7000 having more choices to make in the menus .</Tokens>
+		<POS>JJ NNS VBP VBN RP RB RB DT JJ IN DT NN VBG RBR NNS TO VB IN DT NNS .</POS>
+		<Lemma>3-the menu be set up pretty much the same with the d7000 have more choice to make in the menu .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I am sure I am leaving out all kinds of things but that is just a quick run down of a few things I noticed today as I was shooting .</Tokens>
+		<POS>PRP VBP JJ PRP VBP VBG RP DT NNS IN NNS CC DT VBZ RB DT JJ NN IN IN DT JJ NNS PRP VBD NN IN PRP VBD VBG .</POS>
+		<Lemma>I be sure I be leave out all kind of thing but that be just a quick run down of a few thing I notice today as I be shoot .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Just a really confident inspiring camera .</Tokens>
+		<POS>RB DT RB JJ JJ NN .</POS>
+		<Lemma>just a really confident inspiring camera .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Very very positive with a similar D90 feel but even better , kind of like the D90 has grown up into an amazing , well rounded , confident inspiring camera ... ...</Tokens>
+		<POS>RB RB JJ IN DT JJ NN NN CC RB RBR , NN IN IN DT NN VBZ VBN RB IN DT JJ , RB VBD , JJ JJ NN : :</POS>
+		<Lemma>very very positive with a similar d90 feel but even better , kind of like the d90 have grow up into a amazing , well round , confident inspiring camera ... ...</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The taste is not good , I feel throwing up after eating this product .</Tokens>
+		<POS>DT NN VBZ RB JJ , PRP VBP VBG RP IN VBG DT NN .</POS>
+		<Lemma>the taste be not good , I feel throw up after eat this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recommend everybody not to eat this product</Tokens>
+		<POS>PRP VBP NN RB TO VB DT NN</POS>
+		<Lemma>I recommend everybody not to eat this product</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am using this monitor right now and love it .</Tokens>
+		<POS>PRP VBP VBG DT NN RB RB CC VBP PRP .</POS>
+		<Lemma>I be use this monitor right now and love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Of course anything is a step up from the CRT I was using !</Tokens>
+		<POS>IN NN NN VBZ DT NN RB IN DT NNP PRP VBD VBG .</POS>
+		<Lemma>of course anything be a step up from the CRT I be use !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The color is crisp and the display is bright .</Tokens>
+		<POS>DT NN VBZ JJ CC DT NN VBZ JJ .</POS>
+		<Lemma>the color be crisp and the display be bright .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very easy to set up - just plug and play .</Tokens>
+		<POS>RB JJ TO VB RP : RB NN CC NN .</POS>
+		<Lemma>very easy to set up - just plug and play .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't think you can beat it for the price .</Tokens>
+		<POS>PRP VBP RB VB PRP MD VB PRP IN DT NN .</POS>
+		<Lemma>I do not think you can beat it for the price .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I looked at several devices of this ilk and settled on this one .</Tokens>
+		<POS>PRP VBD IN JJ NNS IN DT NN CC VBN IN DT CD .</POS>
+		<Lemma>I look at several device of this ilk and settle on this one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Compact , two USB outlets and functions as advertised .</Tokens>
+		<POS>NNP , CD JJ NNS CC NNS IN VBN .</POS>
+		<Lemma>Compact , two usb outlet and function as advertise .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought three additional ones for Christmas presents .</Tokens>
+		<POS>PRP VBD CD JJ NNS IN NNP NNS .</POS>
+		<Lemma>I buy three additional one for Christmas present .</Lemma>
+	</Sentence>
+</Document>

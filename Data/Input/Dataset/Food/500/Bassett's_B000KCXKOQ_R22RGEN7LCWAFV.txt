@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Perfect Doctor Who themed gift for someone not fortunate enough to live in the UK .</Tokens>
+		<POS>NNP NNP WP VBN NN IN NN RB JJ JJ TO VB IN DT NNP .</POS>
+		<Lemma>Perfect Doctor who theme gift for someone not fortunate enough to live in the UK .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Tasty as well , I like that it 's less sweet than american candy .</Tokens>
+		<POS>JJ RB RB , PRP VBP IN PRP VBZ JJR JJ IN JJ NN .</POS>
+		<Lemma>tasty as well , I like that it be less sweet than american candy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They 're like jelly beans and fruit chews mixed together perfectly .</Tokens>
+		<POS>PRP VBP IN RB NNS CC NN NNS VBN RB RB .</POS>
+		<Lemma>they be like jelly bean and fruit chew mix together perfectly .</Lemma>
+	</Sentence>
+</Document>

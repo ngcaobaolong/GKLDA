@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>In energy snack I 've tried every form and brand .</Tokens>
+		<POS>IN NN NN PRP VBP VBN DT NN CC NN .</POS>
+		<Lemma>in energy snack I have try every form and brand .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I think I finally found one that I 'd stay with , until someone comes up with a better\/tastier\/easier product .</Tokens>
+		<POS>PRP VBP PRP RB VBD CD WDT PRP MD VB IN , IN NN VBZ RP IN DT NN NN .</POS>
+		<Lemma>I think I finally find one that I would stay with , until someone come up with a better\/tastier\/easier product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is s small palm sized waffle , not hallow but semi soaked -LRB- moist -RRB- .</Tokens>
+		<POS>DT VBZ VBZ JJ NN VBD NN , RB NN CC NN JJ -LRB- JJ -RRB- .</POS>
+		<Lemma>this be s small palm size waffle , not hallow but semus soaked -lrb- moist -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It will crumble therefore do n't take it out of th package -LRB- the package can catch the falling crumbs -RRB- To open is easy , just tear the folded area with your teeth or fingers -LRB- the tab in the back where the nutrition info is -RRB- .</Tokens>
+		<POS>PRP MD VB RB VBP RB VB PRP IN IN DT NN -LRB- DT NN MD VB DT VBG NNS -RRB- TO VB VBZ JJ , RB VB DT VBN NN IN PRP$ NNS CC NNS -LRB- DT NN IN DT NN WRB DT NN NN VBZ -RRB- .</POS>
+		<Lemma>it will crumble therefore do not take it out of th package -lrb- the package can catch the fall crumb -rrb- to open be easy , just tear the fold area with you tooth or finger -lrb- the tab in the back where the nutrition info be -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It will open the pack right in the middle exposing half of the waffle .</Tokens>
+		<POS>PRP MD VB DT NN NN IN DT JJ VBG NN IN DT NN .</POS>
+		<Lemma>it will open the pack right in the middle expose half of the waffle .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Just hold the half that 's still in the package and start eating .</Tokens>
+		<POS>RB VB DT NN WDT VBZ RB IN DT NN CC VB VBG .</POS>
+		<Lemma>just hold the half that be still in the package and start eat .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This is the fastest and safest way to consume this product while on the go -LRB- I did just that while hiking , holding my poles in one hand and eating this from the other hand -RRB- .</Tokens>
+		<POS>DT VBZ DT JJS CC JJS NN TO VB DT NN IN IN DT NN -LRB- PRP VBD RB IN IN VBG , VBG PRP$ NNS IN CD NN CC VBG DT IN DT JJ NN -RRB- .</POS>
+		<Lemma>this be the fastest and safest way to consume this product while on the go -lrb- I do just that while hike , hold my pole in one hand and eat this from the other hand -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Have n't tried the chocolate flavor yet but I love all three -LRB- strawberry , vanilla , and honey -RRB- that I 've tried .</Tokens>
+		<POS>VBP RB VBD DT NN NN RB CC PRP VBP DT CD -LRB- NN , NN , CC NN -RRB- IN PRP VBP VBN .</POS>
+		<Lemma>have not try the chocolate flavor yet but I love all three -lrb- strawberry , vanilla , and honey -rrb- that I have try .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Bought Vanilla and Honey from Amazon in bulk .</Tokens>
+		<POS>JJ NN CC NNP IN NNP IN NN .</POS>
+		<Lemma>bought vanilla and Honey from Amazon in bulk .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I know I will finish them based on my scheduled hikes coming up in the remaining 2012 .</Tokens>
+		<POS>PRP VBP PRP MD VB PRP VBN IN PRP$ VBN NNS VBG RP IN DT VBG CD .</POS>
+		<Lemma>I know I will finish they base on my schedule hike come up in the remain 2012 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>At 160 calories , it is a good hourly snack .</Tokens>
+		<POS>IN CD NNS , PRP VBZ DT JJ JJ NN .</POS>
+		<Lemma>at 160 calorie , it be a good hourly snack .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>But the reason I bought it is because it tastes GOOD and no need to work hard to eat it .</Tokens>
+		<POS>CC DT NN PRP VBD PRP VBZ IN PRP VBZ JJ CC DT NN TO VB RB TO VB PRP .</POS>
+		<Lemma>but the reason I buy it be because it taste good and no need to work hard to eat it .</Lemma>
+	</Sentence>
+</Document>

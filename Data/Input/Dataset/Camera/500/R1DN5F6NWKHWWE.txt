@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After many hours of research I decided on the 310hs .</Tokens>
+		<POS>IN JJ NNS IN NN PRP VBD IN DT NNS .</POS>
+		<Lemma>after many hour of research I decide on the 310h .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a great camera and is the first camera I have had that takes great photos even in low light .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC VBZ DT JJ NN PRP VBP VBN IN VBZ JJ NNS RB IN JJ NN .</POS>
+		<Lemma>it be a great camera and be the first camera I have have that take great photo even in low light .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The auto mode is amazing and adjusts before you eyes making it super easy to use , yet you can switch it to have more control if you want .</Tokens>
+		<POS>DT NN NN VBZ JJ CC VBZ IN PRP NNS VBG PRP JJ JJ TO VB , RB PRP MD VB PRP TO VB JJR NN IN PRP VBP .</POS>
+		<Lemma>the auto mode be amazing and adjust before you eye make it super easy to use , yet you can switch it to have more control if you want .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I love that it fits in my pocket and the zoom is great .</Tokens>
+		<POS>PRP VBP IN PRP VBZ IN PRP$ NN CC DT NN VBZ JJ .</POS>
+		<Lemma>I love that it fit in my pocket and the zoom be great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have nothing bad to say about this camera .</Tokens>
+		<POS>PRP VBP NN JJ TO VB IN DT NN .</POS>
+		<Lemma>I have nothing bad to say about this camera .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I purchased the green and love it .</Tokens>
+		<POS>PRP VBD DT JJ CC VBP PRP .</POS>
+		<Lemma>I purchase the green and love it .</Lemma>
+	</Sentence>
+</Document>

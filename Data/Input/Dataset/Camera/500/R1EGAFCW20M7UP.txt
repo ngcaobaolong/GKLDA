@@ -1,0 +1,232 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There are a lot of reviews here and a lot of good information .</Tokens>
+		<POS>EX VBP DT NN IN NNS RB CC DT NN IN JJ NN .</POS>
+		<Lemma>there be a lot of review here and a lot of good information .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like it so much I sold my dslr and 3 lenses .</Tokens>
+		<POS>PRP VBP PRP RB RB PRP VBD PRP$ NN CC CD NNS .</POS>
+		<Lemma>I like it so much I sell my dslr and 3 lens .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's my only camera , a very unusual experience .</Tokens>
+		<POS>PRP VBZ PRP$ JJ NN , DT RB JJ NN .</POS>
+		<Lemma>it be my only camera , a very unusual experience .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What follows is based on firmware 1.30 .</Tokens>
+		<POS>WDT VBZ VBZ VBN IN NN CD .</POS>
+		<Lemma>what follow be base on firmware 1.30 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Some pointers\/suggestions : If you have little knowledge of photography the X100 is not a great place to start .</Tokens>
+		<POS>DT NNS : IN PRP VBP JJ NN IN NN DT NN VBZ RB DT JJ NN TO VB .</POS>
+		<Lemma>some pointers\/suggestions : if you have little knowledge of photography the x100 be not a great place to start .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's complicated , a bit rough around the edges and not all that flexible with a fixed lens .</Tokens>
+		<POS>PRP VBZ VBN , DT NN JJ IN DT NNS CC RB DT DT JJ IN DT VBN NN .</POS>
+		<Lemma>it be complicate , a bit rough around the edge and not all that flexible with a fix lens .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Rough edges are an underpowered processor , undocumented ways to get around some of the camera 's issues -LRB- autofocus -RRB- , pitiful battery life and a poor menu\/controls setup for a few key settings -LRB- like iso -RRB- .</Tokens>
+		<POS>JJ NNS VBP DT JJ NN , JJ NNS TO VB IN DT IN DT NN POS NNS -LRB- NN -RRB- , JJ NN NN CC DT JJ NNS NN IN DT JJ JJ NNS -LRB- IN NN -RRB- .</POS>
+		<Lemma>rough edge be a underpowered processor , undocumented way to get around some of the camera 's issue -lrb- autofocus -rrb- , pitiful battery life and a poor menu\/controls setup for a few key setting -lrb- like iso -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you machine gun shots , this is not the camera for you .</Tokens>
+		<POS>IN PRP NN NN NNS , DT VBZ RB DT NN IN PRP .</POS>
+		<Lemma>if you machine gun shot , this be not the camera for you .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The buffer 's too small and the battery too small .</Tokens>
+		<POS>DT NN POS RB JJ CC DT NN RB JJ .</POS>
+		<Lemma>the buffer 's too small and the battery too small .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Inconsistent start times from sleep .</Tokens>
+		<POS>JJ NN NNS IN NN .</POS>
+		<Lemma>inconsistent start time from sleep .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Its a function of remaining battery life for sure , as well as other stuff that appears to get in the way .</Tokens>
+		<POS>PRP$ DT NN IN VBG NN NN IN JJ , RB RB IN JJ NN WDT VBZ TO VB IN DT NN .</POS>
+		<Lemma>its a function of remain battery life for sure , as well as other stuff that appear to get in the way .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I do n't let the camera sleep as on\/off gives a start time that 's consistent .</Tokens>
+		<POS>PRP VBP RB VB DT NN NN IN JJ VBZ DT NN NN WDT VBZ JJ .</POS>
+		<Lemma>I do not let the camera sleep as on\/off give a start time that be consistent .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>When rushed , the camera can get a bit weird .</Tokens>
+		<POS>WRB VBN , DT NN MD VB DT NN JJ .</POS>
+		<Lemma>when rush , the camera can get a bit weird .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Pop the battery and you 're up again .</Tokens>
+		<POS>NN DT NN CC PRP VBP RP RB .</POS>
+		<Lemma>pop the battery and you be up again .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I use a 95mbps card .</Tokens>
+		<POS>PRP VBP DT NNS NN .</POS>
+		<Lemma>I use a 95mbp card .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I doubt if you can go much slower .</Tokens>
+		<POS>PRP VBP IN PRP MD VB RB JJR .</POS>
+		<Lemma>I doubt if you can go much slower .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The lens hood is over priced and sort of stinks .</Tokens>
+		<POS>DT NN NN VBZ IN VBN CC NN IN NNS .</POS>
+		<Lemma>the lens hood be over price and sort of stink .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>It blocks the af assist light and the slot supports on mine line up exactly where I need to see through the slot -LRB- the JJC hood did a fine job of copying Fuji 's as their slot supports are in the same place .</Tokens>
+		<POS>PRP VBZ DT NN VB JJ CC DT NN VBZ IN JJ NN IN RB WRB PRP VBP TO VB IN DT NN -LRB- DT NNP NN VBD DT JJ NN IN NN NNP POS IN PRP$ NN NNS VBP IN DT JJ NN .</POS>
+		<Lemma>it block the af assist light and the slot support on mine line up exactly where I need to see through the slot -lrb- the JJC hood do a fine job of copying Fuji 's as they slot support be in the same place .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Stacked empty filter rings are better .</Tokens>
+		<POS>VBN JJ NN NNS VBP RBR .</POS>
+		<Lemma>stack empty filter ring be better .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>X100 strong points : For the money , build and materials quality is excellent .</Tokens>
+		<POS>NN JJ NNS : IN DT NN , VB CC NNS NN VBZ JJ .</POS>
+		<Lemma>x100 strong point : for the money , build and material quality be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The lens is very good .</Tokens>
+		<POS>DT NN VBZ RB JJ .</POS>
+		<Lemma>the lens be very good .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>You can easily spend more on worst lenses that this entire camera costs .</Tokens>
+		<POS>PRP MD RB VB RBR IN JJS NNS IN DT JJ NN NNS .</POS>
+		<Lemma>you can easily spend more on worst lens that this entire camera cost .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>f2 is soft , 2.8 is good , above that it 's superb .</Tokens>
+		<POS>NN VBZ JJ , CD VBZ JJ , IN IN PRP VBZ JJ .</POS>
+		<Lemma>f2 be soft , 2.8 be good , above that it be superb .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The lens is a bit dark in the corners .</Tokens>
+		<POS>DT NN VBZ DT NN JJ IN DT NNS .</POS>
+		<Lemma>the lens be a bit dark in the corner .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>ACRs lens profile takes care of it -- most people wo n't even notice it .</Tokens>
+		<POS>NNS NN NN VBZ NN IN PRP : JJS NNS MD RB RB VB PRP .</POS>
+		<Lemma>acr lens profile take care of it -- most people will not even notice it .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>While AF is not dslr fast , it 's quicker than its telling you .</Tokens>
+		<POS>IN NN VBZ RB VB RB , PRP VBZ JJR IN PRP$ VBG PRP .</POS>
+		<Lemma>while af be not dslr fast , it be quicker than its tell you .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>You do not need to wait for focus confirmation .</Tokens>
+		<POS>PRP VBP RB VB TO VB IN NN NN .</POS>
+		<Lemma>you do not need to wait for focus confirmation .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Simply press the shutter in one continuous press and you 're in focus -LRB- except in macro where you need confirmation as it can hunt -RRB- .</Tokens>
+		<POS>RB VB DT NN IN CD JJ NN CC PRP VBP IN NN -LRB- IN IN NN WRB PRP VBP NN IN PRP MD NN -RRB- .</POS>
+		<Lemma>simply press the shutter in one continuous press and you be in focus -lrb- except in macro where you need confirmation as it can hunt -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>I believe the lag is related to the slow refresh rate of the evf\/rear display and the ovf 's confirmation is tied to that chain of events .</Tokens>
+		<POS>PRP VBP DT NN VBZ VBN TO DT JJ NN NN IN DT JJ NN CC DT NN POS NN VBZ VBN TO DT NN IN NNS .</POS>
+		<Lemma>I believe the lag be relate to the slow refresh rate of the evf\/rear display and the ovf 's confirmation be tie to that chain of event .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>AF accuracy is superb .</Tokens>
+		<POS>NN NN VBZ JJ .</POS>
+		<Lemma>af accuracy be superb .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>It took me a bit of time to get used to the camera and I certainly had some out of focus shots during the first week or two .</Tokens>
+		<POS>PRP VBD PRP DT NN IN NN TO VB VBN TO DT NN CC PRP RB VBD DT IN IN NN NNS IN DT JJ NN CC CD .</POS>
+		<Lemma>it take I a bit of time to get use to the camera and I certainly have some out of focus shot during the first week or two .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>But since then , af is virtually always spot on .</Tokens>
+		<POS>CC IN RB , NN VBZ RB RB VB IN .</POS>
+		<Lemma>but since then , af be virtually always spot on .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>It can hunt in low light but a single tiny move of the focus spot will usually get focus .</Tokens>
+		<POS>PRP MD NN IN JJ NN CC DT JJ JJ NN IN DT NN NN MD RB VB NN .</POS>
+		<Lemma>it can hunt in low light but a single tiny move of the focus spot will usually get focus .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>It 's certainly less hunting than fast glass on my Nikons .</Tokens>
+		<POS>PRP VBZ RB JJR NN IN JJ NN IN PRP$ NNPS .</POS>
+		<Lemma>it be certainly less hunting than fast glass on my Nikons .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>Superb low light\/high iso performer .</Tokens>
+		<POS>NNP JJ NN NN NN .</POS>
+		<Lemma>Superb low light\/high iso performer .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Many appear to have focus issues in low light .</Tokens>
+		<POS>JJ VBP TO VB NN NNS IN JJ NN .</POS>
+		<Lemma>many appear to have focus issue in low light .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>I do not and I do a lot of low light shooting -LRB- AF-S , nothing special -RRB- .</Tokens>
+		<POS>PRP VBP RB CC PRP VBP DT NN IN JJ JJ NN -LRB- NN , NN JJ -RRB- .</POS>
+		<Lemma>I do not and I do a lot of low light shooting -lrb- af-s , nothing special -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>Lovely in hand .</Tokens>
+		<POS>RB IN NN .</POS>
+		<Lemma>lovely in hand .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Outstanding IQ .</Tokens>
+		<POS>JJ NNP .</POS>
+		<Lemma>outstanding IQ .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Outstanding out-of-camera jpeg 's .</Tokens>
+		<POS>JJ NN NN POS .</POS>
+		<Lemma>outstanding out-of-camera jpeg 's .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>It took me months to wean myself off RAW but I 'm finally there and shoot jpeg only -LRB- Astia in my case -RRB- .</Tokens>
+		<POS>PRP VBD PRP NNS TO VB PRP RP NN CC PRP VBP RB RB CC VB NN RB -LRB- NNP IN PRP$ NN -RRB- .</POS>
+		<Lemma>it take I month to wean myself off raw but I be finally there and shoot jpeg only -lrb- Astia in my case -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>I use the RAW button in lighting situations where I believe I may want bits and bytes .</Tokens>
+		<POS>PRP VBP DT NN NN IN NN NNS WRB PRP VBP PRP MD VB NNS CC NNS .</POS>
+		<Lemma>I use the raw button in lighting situation where I believe I may want bit and byte .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>For jpeg , I use auto iso and auto DR. I 'm a somewhat deliberate shooter who has always shot with wide lenses .</Tokens>
+		<POS>IN NN , PRP VBP NN NN CC NN NN PRP VBP DT RB JJ NN WP VBZ RB VBN IN JJ NNS .</POS>
+		<Lemma>for jpeg , I use auto iso and auto dr. I be a somewhat deliberate shooter who have always shoot with wide lens .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>I also value small and light .</Tokens>
+		<POS>PRP RB VBP JJ CC JJ .</POS>
+		<Lemma>I also value small and light .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>For me the X100 is a great tool .</Tokens>
+		<POS>IN PRP DT NN VBZ DT JJ NN .</POS>
+		<Lemma>for I the x100 be a great tool .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>However , it 's not for everyone so do n't be swayed by the hype and the looks .</Tokens>
+		<POS>RB , PRP VBZ RB IN NN RB VBP RB VB VBN IN DT NN CC DT NNS .</POS>
+		<Lemma>however , it be not for everyone so do not be sway by the hype and the look .</Lemma>
+	</Sentence>
+</Document>

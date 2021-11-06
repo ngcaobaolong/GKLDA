@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered this video camera as a Christmas gift for my grandson -LRB- age 11 -RRB- who had been trying to take videos with a regular camera without much success .</Tokens>
+		<POS>PRP VBD DT NN NN IN DT NNP NN IN PRP$ NN -LRB- NN CD -RRB- WP VBD VBN VBG TO VB NNS IN DT JJ NN IN JJ NN .</POS>
+		<Lemma>I order this video camera as a Christmas gift for my grandson -lrb- age 11 -rrb- who have be try to take video with a regular camera without much success .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>With the Kokak PlaySport , he sets up scenes -LRB- using a green screen as a backdrop made from plastic tablecloths -RRB- and then he imports the videos into the computer and adds special effects .</Tokens>
+		<POS>IN DT NNP NNP , PRP VBZ RP NNS -LRB- VBG DT JJ NN IN DT NN VBN IN JJ NNS -RRB- CC RB PRP VBZ DT NNS IN DT NN CC VBZ JJ NNS .</POS>
+		<Lemma>with the Kokak PlaySport , he set up scene -lrb- use a green screen as a backdrop make from plastic tablecloth -rrb- and then he import the video into the computer and add special effect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>He also uses it to take still pictures and no longer uses his camera .</Tokens>
+		<POS>PRP RB VBZ PRP TO VB RB NNS CC RB RBR VBZ PRP$ NN .</POS>
+		<Lemma>he also use it to take still picture and no longer use he camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>He has n't tried to take underwater photos yet , but I 'm sure he will someday .</Tokens>
+		<POS>PRP VBZ RB VBN TO VB JJ NNS RB , CC PRP VBP JJ PRP MD RB .</POS>
+		<Lemma>he have not try to take underwater photo yet , but I be sure he will someday .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>He had this video camera up and running with no adult supervision , except I did show him how to format the memory card .</Tokens>
+		<POS>PRP VBD DT NN NN RB CC VBG IN DT JJ NN , IN PRP VBD VB PRP WRB TO NN DT NN NN .</POS>
+		<Lemma>he have this video camera up and run with no adult supervision , except I do show he how to format the memory card .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is a very durable camera .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN .</POS>
+		<Lemma>it be a very durable camera .</Lemma>
+	</Sentence>
+</Document>

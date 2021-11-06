@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this product since I misplaced my charger for Nokia N97 mini .</Tokens>
+		<POS>PRP VBD DT NN IN PRP VBD PRP$ NN IN NNP NNP NNS .</POS>
+		<Lemma>I buy this product since I misplace my charger for Nokia N97 minus .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This actually comes with a micro USB charge cable which fits and works perfectly for my Nokia N97 mini .</Tokens>
+		<POS>DT RB VBZ IN DT JJ JJ NN NN WDT VBZ CC VBZ RB IN PRP$ NNP NN NNS .</POS>
+		<Lemma>this actually come with a micro usb charge cable which fit and work perfectly for my Nokia n97 minus .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you wish to charge any other device which does not use micro USB model , I prefer you to buy BESTEK USB charger along with this product .</Tokens>
+		<POS>IN PRP VBP TO VB DT JJ NN WDT VBZ RB VB JJ JJ NN , PRP VBP PRP TO VB NNP JJ NN IN IN DT NN .</POS>
+		<Lemma>if you wish to charge any other device which do not use micro usb model , I prefer you to buy BESTEK usb charger along with this product .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This way one can use this charger for charging any phone device .</Tokens>
+		<POS>DT NN CD MD VB DT NN IN VBG DT NN NN .</POS>
+		<Lemma>this way one can use this charger for charge any phone device .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I regularly use this product with the wall socket option .</Tokens>
+		<POS>PRP RB VBP DT NN IN DT NN NN NN .</POS>
+		<Lemma>I regularly use this product with the wall socket option .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But I have tested this as a car charger and found no issues .</Tokens>
+		<POS>CC PRP VBP VBN DT IN DT NN NN CC VBD DT NNS .</POS>
+		<Lemma>but I have test this as a car charger and find no issue .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I tried plugging two USB cables at the same time and both the mobiles got charged as expected .</Tokens>
+		<POS>PRP VBD VBG CD JJ NNS IN DT JJ NN CC CC DT NNS VBD VBN IN VBN .</POS>
+		<Lemma>I try plug two usb cable at the same time and both the mobile get charge as expect .</Lemma>
+	</Sentence>
+</Document>

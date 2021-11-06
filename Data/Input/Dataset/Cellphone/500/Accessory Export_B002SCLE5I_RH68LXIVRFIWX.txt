@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Had absolutely no results on my Droid .</Tokens>
+		<POS>VBD RB DT NNS IN PRP$ NN .</POS>
+		<Lemma>have absolutely no result on my droid .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's nothing but a piece of tape .</Tokens>
+		<POS>PRP VBZ NN CC DT NN IN NN .</POS>
+		<Lemma>it be nothing but a piece of tape .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The `` metal '' does not even stick out so I think it is just a coloring rather than metal .</Tokens>
+		<POS>DT `` NN '' VBZ RB RB VB RP IN PRP VBP PRP VBZ RB DT VBG RB IN NN .</POS>
+		<Lemma>the `` metal '' do not even stick out so I think it be just a color rather than metal .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Either way , it does not work .</Tokens>
+		<POS>DT NN , PRP VBZ RB VB .</POS>
+		<Lemma>either way , it do not work .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Let me start out by saying that this is my 1st review , I have depended on other reviewers here on Amazon to help me with many purchases .</Tokens>
+		<POS>VB PRP VB RP IN VBG IN DT VBZ PRP$ JJ NN , PRP VBP VBN IN JJ NNS RB IN NNP TO VB PRP IN JJ NNS .</POS>
+		<Lemma>let I start out by say that this be my 1st review , I have depend on other reviewer here on Amazon to help I with many purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have rarely been let down .</Tokens>
+		<POS>PRP VBP RB VBN VBN RP .</POS>
+		<Lemma>I have rarely be let down .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Thank you all .</Tokens>
+		<POS>VB PRP DT .</POS>
+		<Lemma>thank you all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My husband has congestive heart failure and is on a very low sodium diet -LRB- 1000 mg .</Tokens>
+		<POS>PRP$ NN VBZ JJ NN NN CC VBZ IN DT RB JJ NN NN -LRB- CD NN .</POS>
+		<Lemma>my husband have congestive heart failure and be on a very low sodium diet -lrb- 1000 mg .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>max .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>max .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>daily -RRB- .</Tokens>
+		<POS>RB -RRB- .</POS>
+		<Lemma>daily -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>We thought that he would never eat soup again until we tried this prouduct .</Tokens>
+		<POS>PRP VBD IN PRP MD RB VB NN RB IN PRP VBD DT NN .</POS>
+		<Lemma>we think that he would never eat soup again until we try this prouduct .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's really hard to make soup that tastes good without adding salt .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB NN IN NNS JJ IN VBG NN .</POS>
+		<Lemma>it be really hard to make soup that taste good without add salt .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It was easy and very tasty to accomplish this feat with Bob 's Red Mill soup mix .</Tokens>
+		<POS>PRP VBD JJ CC RB JJ TO VB DT NN IN NNP POS NNP NNP NN NN .</POS>
+		<Lemma>it be easy and very tasty to accomplish this feat with Bob 's Red Mill soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I sauteed some onions in a tad of butter , chopped some carrots and added the left overs from a -LRB- low sodium seasoned -RRB- roast beef that I had frozen .</Tokens>
+		<POS>PRP VBD DT NNS IN DT NN IN NN , VBN DT NNS CC VBD DT JJ NNS IN DT -LRB- JJ NN JJ -RRB- NN NN IN PRP VBD VBN .</POS>
+		<Lemma>I saute some onion in a tad of butter , chop some carrot and add the left over from a -lrb- low sodium seasoned -rrb- roast beef that I have freeze .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I threw this in the pot with the soup mix and added a packet of Herb-ox sodium free beef bouillon per cup of water .</Tokens>
+		<POS>PRP VBD DT IN DT NN IN DT NN NN CC VBD DT NN IN JJ NN JJ NN NN IN NN IN NN .</POS>
+		<Lemma>I throw this in the pot with the soup mix and add a packet of herb-ox sodium free beef bouillon per cup of water .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>My husband had soup tonight for the first time since he had heart surgery and he loved it .</Tokens>
+		<POS>PRP$ NN VBD NN NN IN DT JJ NN IN PRP VBD NN NN CC PRP VBD PRP .</POS>
+		<Lemma>my husband have soup tonight for the first time since he have heart surgery and he love it .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I enjoyed it myself but did add a sprinkle of sea salt for myself .</Tokens>
+		<POS>PRP VBD PRP PRP CC VBD VB DT VB IN NN NN IN PRP .</POS>
+		<Lemma>I enjoy it myself but do add a sprinkle of sea salt for myself .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It was so good that I just had to thank everyone for recommending it .</Tokens>
+		<POS>PRP VBD RB JJ IN PRP RB VBD TO VB NN IN VBG PRP .</POS>
+		<Lemma>it be so good that I just have to thank everyone for recommend it .</Lemma>
+	</Sentence>
+</Document>

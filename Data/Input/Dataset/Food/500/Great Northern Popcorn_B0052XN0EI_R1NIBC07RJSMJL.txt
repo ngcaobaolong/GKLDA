@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>You definitely want this maize .</Tokens>
+		<POS>PRP RB VBP DT NN .</POS>
+		<Lemma>you definitely want this maize .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It pops almost flawlessly and is excellent value compared to the name brand kernels I 've found locally , which are about $ 10 for 2 pounds , and a vastly better value than microwave popcorn , which would be - what - $ 4 for 1 lb 5 oz of kernels ?</Tokens>
+		<POS>PRP VBZ RB RB CC VBZ JJ NN VBN TO DT NN NN NNS PRP VBP VBN RB , WDT VBP IN $ CD IN CD NNS , CC DT RB JJR NN IN NN NN , WDT MD VB : WP : $ CD IN CD NN CD NN IN NNS .</POS>
+		<Lemma>it pop almost flawlessly and be excellent value compare to the name brand kernel I have find locally , which be about $ 10 for 2 pound , and a vastly better value than microwave popcorn , which would be - what - $ 4 for 1 lb 5 oz of kernel ?</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I found only 6 partially or completely un-popped kernels out of a half-cup of kernels .</Tokens>
+		<POS>PRP VBD RB CD RB CC RB JJ NNS IN IN DT NN IN NNS .</POS>
+		<Lemma>I find only 6 partially or completely un-popped kernel out of a half-cup of kernel .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There is no questioning its great poppability .</Tokens>
+		<POS>EX VBZ DT VBG PRP$ JJ NN .</POS>
+		<Lemma>there be no question its great poppability .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My bag 's expiration date is December 2013 .</Tokens>
+		<POS>PRP$ NN POS NN NN VBZ NNP CD .</POS>
+		<Lemma>my bag 's expiration date be December 2013 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My popping tools were basic : Standard aluminum cooking and lid with popcorn oil and a bit of Flavacol .</Tokens>
+		<POS>PRP$ VBG NNS VBD JJ : NNP NN NN CC NN IN NN NN CC DT NN IN NN .</POS>
+		<Lemma>my pop tool be basic : Standard aluminum cooking and lid with popcorn oil and a bit of flavacol .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It 's the best popcorn I 've had .</Tokens>
+		<POS>PRP VBZ DT JJS NN PRP VBP VBN .</POS>
+		<Lemma>it be the best popcorn I have have .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So light and crunchy !</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>so light and crunchy !</Lemma>
+	</Sentence>
+</Document>

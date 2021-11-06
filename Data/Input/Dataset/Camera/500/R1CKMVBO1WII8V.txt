@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to take on a cross country trip that ended at Yosemite .</Tokens>
+		<POS>PRP VBD DT TO VB RP DT JJ NN NN WDT VBD IN NNP .</POS>
+		<Lemma>I buy this to take on a cross country trip that end at Yosemite .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I planned on buying back-up batteries before I left Texas , but did not have time .</Tokens>
+		<POS>PRP VBD IN VBG JJ NNS IN PRP VBD NNP , CC VBD RB VB NN .</POS>
+		<Lemma>I plan on buy back-up battery before I leave Texas , but do not have time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So glad to use it a bit at Canyon de Chelly !</Tokens>
+		<POS>RB JJ TO VB PRP DT NN IN NNP IN NNP .</POS>
+		<Lemma>so glad to use it a bit at Canyon de Chelly !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Not only did it eat batteries , it also mysteriously deletes photos .</Tokens>
+		<POS>RB RB VBD PRP VB NNS , PRP RB RB VBZ NNS .</POS>
+		<Lemma>not only do it eat battery , it also mysteriously delete photo .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>User beware !</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>user beware !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And yes , I have used the program to find those pictures they are nowhere to be found .</Tokens>
+		<POS>CC RB , PRP VBP VBN DT NN TO VB DT NNS CC PRP VBP RB TO VB VBN .</POS>
+		<Lemma>and yes , I have use the program to find those picture they be nowhere to be find .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Was it the disc , camera , changing batteries out , Indian voodo , or what - I will never know .</Tokens>
+		<POS>VBD PRP DT NN , NN , VBG NNS RB , JJ NN , CC WP : PRP MD RB VB .</POS>
+		<Lemma>be it the disc , camera , change battery out , indian voodo , or what - I will never know .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is the first time for me to lose pictures - all of the canyon hike GONE FOREVER !</Tokens>
+		<POS>DT VBZ DT JJ NN IN PRP TO VB NNS : DT IN DT NN VBP NNP RB .</POS>
+		<Lemma>this be the first time for I to lose picture - all of the canyon hike GONE forever !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>-LRB- other digital cameras include : Cannon , Kodak , Sony , Samsung -RRB- .</Tokens>
+		<POS>-LRB- JJ JJ NNS VBP : NNP , NNP , NNP , NNP -RRB- .</POS>
+		<Lemma>-lrb- other digital camera include : Cannon , Kodak , Sony , Samsung -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>At 16 mega pixel setting , it will go through a battery after ~ 100 pictures .</Tokens>
+		<POS>IN CD JJ NN NN , PRP MD VB IN DT NN IN NN CD NNS .</POS>
+		<Lemma>at 16 mega pixel setting , it will go through a battery after ~ 100 picture .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Never could get panorama to work - even with the 32 GB disc .</Tokens>
+		<POS>RB MD VB NN TO VB : RB IN DT CD NN NN .</POS>
+		<Lemma>never could get panorama to work - even with the 32 gb disc .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I bought 3 back-up batteries they were n't easy to find at that in Flagstaff Sante Fe .</Tokens>
+		<POS>PRP VBD CD JJ NNS CC PRP VBD RB JJ TO VB IN DT IN NNP CC NNP NNP .</POS>
+		<Lemma>I buy 3 back-up battery they be not easy to find at that in Flagstaff Sante Fe .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Pictures are not awesome by any means , but I am just an amatuer did not want to take the Cannon Rebel Ti1 this time around as we did alot of hiking that camera is just too bulky .</Tokens>
+		<POS>NNS VBP RB JJ IN DT NNS , CC PRP VBP RB DT NN CC VBD RB VB TO VB DT NNP NN NN DT NN RP IN PRP VBD NN IN NN CC IN NN VBZ RB RB JJ .</POS>
+		<Lemma>picture be not awesome by any means , but I be just a amatuer do not want to take the Cannon rebel ti1 this time around as we do alot of hiking that camera be just too bulky .</Lemma>
+	</Sentence>
+</Document>

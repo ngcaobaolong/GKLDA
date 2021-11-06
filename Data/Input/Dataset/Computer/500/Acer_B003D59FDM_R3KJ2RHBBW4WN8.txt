@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>EXCELLENT FOR THE PRICE , COMES WITH 3 YR WARRANTY .</Tokens>
+		<POS>JJ IN DT NN , VBZ IN CD NN NN .</POS>
+		<Lemma>excellent for the price , come with 3 yr warranty .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>VERY HAPPY WITH IT.COM ES WITH CD FOR SETUP , BUT NOT NEEDED , JUST PLUG IT IN AND GO .</Tokens>
+		<POS>RB JJ IN NN NN IN NNP IN NNP , NNP NNP NNP , RB VB PRP IN CC NN .</POS>
+		<Lemma>very happy with it.com e with CD for SETUP , BUT NOT NEEDED , just plug it in and go .</Lemma>
+	</Sentence>
+</Document>

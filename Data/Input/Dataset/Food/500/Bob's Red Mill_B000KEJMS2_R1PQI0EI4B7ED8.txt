@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love lentil soup and this is best by far .</Tokens>
+		<POS>NN NN NN CC DT VBZ RB IN RB .</POS>
+		<Lemma>love lentil soup and this be best by far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And I do n't give 5 stars for something that is n't worth it .</Tokens>
+		<POS>CC PRP VBP RB VB CD NNS IN NN WDT VBZ RB JJ PRP .</POS>
+		<Lemma>and I do not give 5 star for something that be not worth it .</Lemma>
+	</Sentence>
+</Document>

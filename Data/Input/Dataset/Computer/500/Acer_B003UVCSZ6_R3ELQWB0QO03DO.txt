@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent monitor , used it for a surveillance system and it works great .</Tokens>
+		<POS>JJ NN , VBD PRP IN DT NN NN CC PRP VBZ JJ .</POS>
+		<Lemma>excellent monitor , use it for a surveillance system and it work great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recommend this monitor for the price that I paid , , it a WOW</Tokens>
+		<POS>PRP VBP DT NN IN DT NN IN PRP VBD , , PRP DT NNP</POS>
+		<Lemma>I recommend this monitor for the price that I pay , , it a WOW</Lemma>
+	</Sentence>
+</Document>

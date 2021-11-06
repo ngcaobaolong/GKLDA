@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bob 's Red Mill Gluten-Free whole grain bread mix takes all the guesswork out of making a good loaf of gluten-free bread .</Tokens>
+		<POS>NNP POS NNP NNP NNP JJ NN NN NN VBZ PDT DT NN IN IN VBG DT JJ NN IN JJ NN .</POS>
+		<Lemma>Bob 's Red Mill Gluten-Free whole grain bread mix take all the guesswork out of make a good loaf of gluten-free bread .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I make mine into individual rolls and I am very pleased with the results .</Tokens>
+		<POS>PRP VBP PRP IN JJ NNS CC PRP VBP RB JJ IN DT NNS .</POS>
+		<Lemma>I make mine into individual roll and I be very pleased with the result .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Making homemade gluten-free bread takes so many ingredients .</Tokens>
+		<POS>VBG JJ JJ NN VBZ RB JJ NNS .</POS>
+		<Lemma>make homemade gluten-free bread take so many ingredient .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is much more convenient to simply open a bag of Box 's bread mix and know that it will turn out perfectly every time .</Tokens>
+		<POS>PRP VBZ RB RBR JJ TO RB VB DT NN IN NNP POS NN NN CC VB IN PRP MD VB RP RB DT NN .</POS>
+		<Lemma>it be much more convenient to simply open a bag of Box 's bread mix and know that it will turn out perfectly every time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>No more money thrown away on mistakes !!</Tokens>
+		<POS>DT JJR NN VBN RP IN NNS IN</POS>
+		<Lemma>no more money throw away on mistake !!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I will continue to buy this and other gluten-free products from Bob 's Red Mill .</Tokens>
+		<POS>PRP MD VB TO VB DT CC JJ JJ NNS IN NNP POS NNP NNP .</POS>
+		<Lemma>I will continue to buy this and other gluten-free product from Bob 's Red Mill .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I know I can depend on the quality and the taste .</Tokens>
+		<POS>PRP VBP PRP MD VB IN DT NN CC DT NN .</POS>
+		<Lemma>I know I can depend on the quality and the taste .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've used this charger for a day now .</Tokens>
+		<POS>PRP VBP VBN DT NN IN DT NN RB .</POS>
+		<Lemma>I have use this charger for a day now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've used it to charge two iPhone 3GS at once , also on an HTC Incredible , Motorola Droid , and HTC Hero .</Tokens>
+		<POS>PRP VBP VBN PRP TO VB CD NNP NNS IN RB , RB IN DT NNP JJ , NNP NNP , CC NNP NNP .</POS>
+		<Lemma>I have use it to charge two iPhone 3g at once , also on a HTC incredible , Motorola Droid , and HTC Hero .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It comes with 3 charging cables : mini , micro , and ipod .</Tokens>
+		<POS>PRP VBZ IN CD VBG NNS : NNS , JJ , CC NN .</POS>
+		<Lemma>it come with 3 charge cable : minus , micro , and ipod .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It will take any other USB cable you want to shove in there .</Tokens>
+		<POS>PRP MD VB DT JJ JJ NN PRP VBP TO VB IN RB .</POS>
+		<Lemma>it will take any other usb cable you want to shove in there .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's a nice charger becuase it folds up small , and it does AC charging , DC charging , or you can throw in some AA 's while you are out and about for some charging .</Tokens>
+		<POS>PRP VBZ DT JJ NN NN PRP VBZ RP JJ , CC PRP VBZ NN NN , NN NN , CC PRP MD VB IN DT NN POS IN PRP VBP RB CC RB IN DT VBG .</POS>
+		<Lemma>it be a nice charger becuase it fold up small , and it do ac charging , dc charging , or you can throw in some aa 's while you be out and about for some charge .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>One things is that it did n't give so much power from generic AA 's .</Tokens>
+		<POS>CD NNS VBZ IN PRP VBD RB VB RB JJ NN IN JJ NN POS .</POS>
+		<Lemma>one thing be that it do not give so much power from generic aa 's .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I tried some from the 99 cent store that did n't work amazing .</Tokens>
+		<POS>PRP VBD DT IN DT CD NN NN WDT VBD RB VB JJ .</POS>
+		<Lemma>I try some from the 99 cent store that do not work amazing .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Then I tried some Mitsubishi Alkaline batteries , and then some generic Ni-MH recharegables and it worked a lot better .</Tokens>
+		<POS>RB PRP VBD DT NNP NNP NNS , CC RB DT JJ NN NNS CC PRP VBD DT NN JJR .</POS>
+		<Lemma>then I try some Mitsubishi Alkaline battery , and then some generic ni-mh recharegable and it work a lot better .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Also , one thing is that it ONLY CHARGES ONE DEVICE AT A TIME with AA batteries .</Tokens>
+		<POS>RB , CD NN VBZ IN PRP RB VBZ CD NN IN DT NN IN NN NNS .</POS>
+		<Lemma>also , one thing be that it only charge one device at a time with aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>By AC and DC it did two iPhones at once .</Tokens>
+		<POS>IN NN CC NN PRP VBD CD NNS IN RB .</POS>
+		<Lemma>by ac and dc it do two iphone at once .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This charger DOES N'T charge AA batteries .</Tokens>
+		<POS>DT NN VBZ RB VB NN NNS .</POS>
+		<Lemma>this charger do not charge aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It actually only takes juice FROM them to your phone .</Tokens>
+		<POS>PRP RB RB VBZ NN IN PRP TO PRP$ NN .</POS>
+		<Lemma>it actually only take juice from they to you phone .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It 's a fun toy and it beats the heck out of the ugly oem chargers which can cost just as much at the store .</Tokens>
+		<POS>PRP VBZ DT NN NN CC PRP VBZ DT NN IN IN DT JJ NN NNS WDT MD VB RB RB JJ IN DT NN .</POS>
+		<Lemma>it be a fun toy and it beat the heck out of the ugly oem charger which can cost just as much at the store .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Also , the quality seems pretty good .</Tokens>
+		<POS>RB , DT NN VBZ RB JJ .</POS>
+		<Lemma>also , the quality seem pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The charging is pretty fast .</Tokens>
+		<POS>DT NN VBZ RB RB .</POS>
+		<Lemma>the charging be pretty fast .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Definitely as good or better than charging by computer USB or other .</Tokens>
+		<POS>RB IN JJ CC JJR IN VBG IN NN JJ CC JJ .</POS>
+		<Lemma>definitely as good or better than charge by computer usb or other .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>One more thing , it will take back-up power from a 9-volt battery also .</Tokens>
+		<POS>CD JJR NN , PRP MD VB JJ NN IN DT JJ NN RB .</POS>
+		<Lemma>one more thing , it will take back-up power from a 9-volt battery also .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Same thing as AA batteries .</Tokens>
+		<POS>JJ NN IN NN NNS .</POS>
+		<Lemma>same thing as aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>\*\*\*\*\* The included cables can also be used for data transfer ... this is pretty obvious though I think .</Tokens>
+		<POS>NN DT VBN NNS MD RB VB VBN IN NNS NN : DT VBZ RB JJ IN PRP VBP .</POS>
+		<Lemma>\*\*\*\*\* the include cable can also be use for datum transfer ... this be pretty obvious though I think .</Lemma>
+	</Sentence>
+</Document>

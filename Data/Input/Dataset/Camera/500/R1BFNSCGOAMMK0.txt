@@ -1,0 +1,242 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My first DSLR was a D80 I purchased four years ago .</Tokens>
+		<POS>PRP$ JJ NN VBD DT NN PRP VBD CD NNS RB .</POS>
+		<Lemma>my first dslr be a d80 I purchase four year ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The shutter went out a few weeks back but I had been planning to upgrade to the D7000 anyway so this just hurried things up .</Tokens>
+		<POS>DT NN VBD RP DT JJ NNS RB CC PRP VBD VBN VBG TO VB TO DT NN RB RB DT RB VBN NNS RP .</POS>
+		<Lemma>the shutter go out a few week back but I have be plan to upgrade to the d7000 anyway so this just hurry thing up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought the D7000 kit with the 18-105 lens but quickly sold that on Ebay .</Tokens>
+		<POS>PRP VBD DT NN NN IN DT CD NN CC RB VBD IN IN NNP .</POS>
+		<Lemma>I buy the d7000 kit with the 18-105 lens but quickly sell that on Ebay .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There is nothing wrong with the 18-105 lens , but it would be a shame to keep that as your only or primary lens on such a fine camera .</Tokens>
+		<POS>EX VBZ NN JJ IN DT CD NN , CC PRP MD VB DT NN TO VB DT IN PRP$ JJ CC JJ NN IN PDT DT JJ NN .</POS>
+		<Lemma>there be nothing wrong with the 18-105 lens , but it would be a shame to keep that as you only or primary lens on such a fine camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It really belongs with more of an entry level DSLR such as the D3100 .</Tokens>
+		<POS>PRP RB VBZ IN JJR IN DT NN NN NN JJ IN DT NN .</POS>
+		<Lemma>it really belong with more of a entry level dslr such as the d3100 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Consider the 16-85 , 35mm 1.8 prime , or 18-200 .</Tokens>
+		<POS>VB DT CD , CD CD JJ , CC CD .</POS>
+		<Lemma>consider the 16-85 , 35mm 1.8 prime , or 18-200 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I was shooting with a Tamron 17-50 2.8 lens on the D80 .</Tokens>
+		<POS>PRP VBD VBG IN DT NNP CD CD NN IN DT NN .</POS>
+		<Lemma>I be shoot with a Tamron 17-50 2.8 lens on the d80 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For low light , it worked pretty well but greater than half the time I needed to use my SB-600 flash to capture my young kids doing what they do -LRB- move -RRB- .</Tokens>
+		<POS>IN JJ NN , PRP VBD RB RB CC JJR IN PDT DT NN PRP VBD TO VB PRP$ NN NN TO VB PRP$ JJ NNS VBG WP PRP VBP -LRB- NN -RRB- .</POS>
+		<Lemma>for low light , it work pretty well but greater than half the time I need to use my sb-600 flash to capture my young kid do what they do -lrb- move -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The only downside to the Tamron , or combination of the Tamron with the D80 , was that the images tended to be soft , especially when opened up .</Tokens>
+		<POS>DT JJ NN TO DT NNP , CC NN IN DT NNP IN DT NN , VBD IN DT NNS VBD TO VB JJ , RB WRB VBN RP .</POS>
+		<Lemma>the only downside to the Tamron , or combination of the Tamron with the d80 , be that the image tend to be soft , especially when open up .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>So I also upgraded my lens to the Nikkor 16-85 .</Tokens>
+		<POS>IN PRP RB VBD PRP$ NN TO DT NNP CD .</POS>
+		<Lemma>so I also upgrade my lens to the Nikkor 16-85 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>While this is a variable lens that maxes out at 3.5 , it is amazingly sharp combined with the D7000 .</Tokens>
+		<POS>IN DT VBZ DT JJ NN WDT VBZ RP IN CD , PRP VBZ RB JJ VBN IN DT NN .</POS>
+		<Lemma>while this be a variable lens that max out at 3.5 , it be amazingly sharp combine with the d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>And the extra reach is great for getting better shots and also providing relatively shallow depth of field that otherwise would be lost with the slower aperture .</Tokens>
+		<POS>CC DT JJ NN VBZ JJ IN VBG JJR NNS CC RB VBG RB JJ NN IN NN WDT RB MD VB VBN IN DT JJR NN .</POS>
+		<Lemma>and the extra reach be great for get better shot and also provide relatively shallow depth of field that otherwise would be lose with the slower aperture .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The reason I mention the lens change is that I would n't have gone to a variable lens had it not been for the amazing ISO performance on the D7000 .</Tokens>
+		<POS>DT NN PRP VBP DT NN NN VBZ IN PRP MD RB VB VBN TO DT JJ NN VBD PRP RB VBN IN DT JJ NN NN IN DT NN .</POS>
+		<Lemma>the reason I mention the lens change be that I would not have go to a variable lens have it not be for the amazing iso performance on the d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I am now shooting flashless at very fast shutter speeds .</Tokens>
+		<POS>PRP VBP RB VBG JJ IN RB JJ NN NNS .</POS>
+		<Lemma>I be now shoot flashless at very fast shutter speed .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I usually shoot raw and process with Lightroom and I 'm seeing amazing results at 800 ISO even when fully blown up -LRB- 1:1 -RRB- .</Tokens>
+		<POS>PRP RB VBP JJ CC NN IN NN CC PRP VBP VBG JJ NNS IN CD NN RB WRB RB VBN RP -LRB- CD -RRB- .</POS>
+		<Lemma>I usually shoot raw and process with lightroom and I be see amazing result at 800 iso even when fully blow up -lrb- 1:1 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>At ISO 1600 , I can see minor noise but Lightroom 3 's noise reduction easily eliminates it .</Tokens>
+		<POS>IN NN CD , PRP MD VB JJ NN CC NN CD POS NN NN RB VBZ PRP .</POS>
+		<Lemma>at iso 1600 , I can see minor noise but lightroom 3 's noise reduction easily eliminate it .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>3200 certainly is n't noiseless but again , Lightroom can clean it up very well in most situations .</Tokens>
+		<POS>CD RB VBZ RB JJ CC RB , NN MD VB PRP RP RB RB IN JJS NNS .</POS>
+		<Lemma>3200 certainly be not noiseless but again , lightroom can clean it up very well in most situation .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>My old D80 had more noise at 400 than the D7000 has at 1600 ; I 'd say 800 on it was equivalent to 3200 on the D7000 .</Tokens>
+		<POS>PRP$ JJ NN VBD RBR NN IN CD IN DT NN VBZ IN CD : PRP MD VB CD IN PRP VBD JJ TO CD IN DT NN .</POS>
+		<Lemma>my old d80 have more noise at 400 than the d7000 have at 1600 ; I would say 800 on it be equivalent to 3200 on the d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>I could see printing 1600 shots at smaller sizes with no need for software cleanup .</Tokens>
+		<POS>PRP MD VB NN CD NNS IN JJR NNS IN DT NN IN NN NN .</POS>
+		<Lemma>I could see printing 1600 shot at smaller size with no need for software cleanup .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>So while my results are preliminary -LRB- 3 weeks in -RRB- , I am astonished at the ISO capabilities of this camera .</Tokens>
+		<POS>RB IN PRP$ NNS VBP JJ -LRB- CD NNS IN -RRB- , PRP VBP VBN IN DT NN NNS IN DT NN .</POS>
+		<Lemma>so while my result be preliminary -lrb- 3 week in -rrb- , I be astonish at the iso capability of this camera .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I no longer have d700 envy and am glad I can get great dx lenses for under $ 700 as opposed to $ 1500 for fx .</Tokens>
+		<POS>PRP RB RB VBP CD NN CC VBP JJ PRP MD VB JJ NN NNS IN IN $ CD IN VBN TO $ CD IN NN .</POS>
+		<Lemma>I no longer have d700 envy and be glad I can get great dx lens for under $ 700 as oppose to $ 1500 for fx .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Perfect for enthusiasts like me !</Tokens>
+		<POS>NNP IN NNS IN PRP .</POS>
+		<Lemma>Perfect for enthusiast like I !</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>You 've seen the stat that the D7000 can shoot 6 shots per second .</Tokens>
+		<POS>PRP VBP VBN DT NN IN DT NN MD VB CD NNS IN NN .</POS>
+		<Lemma>you have see the stat that the d7000 can shoot 6 shot per second .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>The 6FPS shutter is in some ways overkill .</Tokens>
+		<POS>DT NN NN VBZ IN DT NNS NN .</POS>
+		<Lemma>the 6fp shutter be in some way overkill .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>But if you shoot HDR\/Bracket shots in quick succession having such a rapid shutter can allow you to do so handheld .</Tokens>
+		<POS>CC IN PRP VBP NNP NNS IN JJ NN VBG PDT DT JJ NN MD VB PRP TO VB RB JJ .</POS>
+		<Lemma>but if you shoot HDR\/Bracket shot in quick succession have such a rapid shutter can allow you to do so handheld .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>This is really only possible because of the high ISO capabilities enabling very fast shutter times .</Tokens>
+		<POS>DT VBZ RB RB JJ IN IN DT JJ NN NNS VBG RB JJ NN NNS .</POS>
+		<Lemma>this be really only possible because of the high iso capability enable very fast shutter time .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>And for sporting events and the like , it 's nice to have the ability to rapidly fire off shots .</Tokens>
+		<POS>CC IN VBG NNS CC DT JJ , PRP VBZ JJ TO VB DT NN TO RB VB RP NNS .</POS>
+		<Lemma>and for sport event and the like , it be nice to have the ability to rapidly fire off shot .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>I have also noticed considerably improved metering and white balance on the D7000 compared to my old D80 .</Tokens>
+		<POS>PRP VBP RB VBN RB VBN NN CC JJ NN IN DT NN VBN TO PRP$ JJ NN .</POS>
+		<Lemma>I have also notice considerably improve metering and white balance on the d7000 compare to my old d80 .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Of the 350 or so shots I 've taken , I am spending much less time adjusting lighting and white balance in Lightroom .</Tokens>
+		<POS>IN DT CD CC RB NNS PRP VBP VBN , PRP VBP VBG RB JJR NN VBG NN CC JJ NN IN NNP .</POS>
+		<Lemma>of the 350 or so shot I have take , I be spend much less time adjust lighting and white balance in Lightroom .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>As others have mentioned , the ergonomics\/design of the camera are quite good and I really enjoy the many direct access shortcuts for adjusting everything from focus to flash to white balance and much more .</Tokens>
+		<POS>IN NNS VBP VBN , DT NN IN DT NN VBP RB JJ CC PRP RB VBP DT JJ JJ NN NNS IN VBG NN IN NN TO VB TO JJ NN CC RB RBR .</POS>
+		<Lemma>as other have mention , the ergonomics\/design of the camera be quite good and I really enjoy the many direct access shortcut for adjust everything from focus to flash to white balance and much more .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>The two custom settings are very easy to set and perfect for your two most common profiles -LRB- e.g. indoor portrait and outdoor landscape -RRB- .</Tokens>
+		<POS>DT CD NN NNS VBP RB JJ TO VB CC JJ IN PRP$ CD RBS JJ NNS -LRB- FW JJ NN CC JJ NN -RRB- .</POS>
+		<Lemma>the two custom setting be very easy to set and perfect for you two most common profile -lrb- e.g. indoor portrait and outdoor landscape -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>The screen is beautiful and moving in and around even RAW files is very smooth and fast .</Tokens>
+		<POS>DT NN VBZ JJ CC VBG IN CC IN RB NN NNS VBZ RB JJ CC JJ .</POS>
+		<Lemma>the screen be beautiful and move in and around even raw file be very smooth and fast .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>I went with two 16GB SD class 10 Transcend cards and while I 'm currently using the RAW 1 \/ JPEG 2 option , I plan to use the second as a backup card once I go to RAW only .</Tokens>
+		<POS>PRP VBD IN CD NN NN NN CD NNP NNS CC IN PRP VBP RB VBG DT NN CD : NN CD NN , PRP VBP TO VB DT JJ IN DT NN NN IN PRP VBP TO NN RB .</POS>
+		<Lemma>I go with two 16gb sd class 10 Transcend card and while I be currently use the raw 1 \/ jpeg 2 option , I plan to use the second as a backup card once I go to raw only .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>I 've only toyed with the video function but that was a part of my consideration since I dislike carrying two cameras , plus chargers and media , on family vacations .</Tokens>
+		<POS>PRP VBP RB VBN IN DT NN NN CC DT VBD DT NN IN PRP$ NN IN PRP VBP VBG CD NNS , CC NNS CC NNS , IN NN NNS .</POS>
+		<Lemma>I have only toy with the video function but that be a part of my consideration since I dislike carry two camera , plus charger and media , on family vacation .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>The tests I 've done in 1080P have been very impressive , albeit large as you would expect .</Tokens>
+		<POS>DT NNS PRP VBP VBN IN NN VBP VBN RB JJ , IN JJ IN PRP MD VB .</POS>
+		<Lemma>the test I have do in 1080p have be very impressive , albeit large as you would expect .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Auto-focusing while video recording is okay , as long as the background is n't too noisy or subjects too many .</Tokens>
+		<POS>NN IN NN NN VBZ JJ , RB RB IN DT NN VBZ RB RB JJ CC NNS RB JJ .</POS>
+		<Lemma>auto-focusing while video recording be okay , as long as the background be not too noisy or subject too many .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>The biggest downside I have experienced is the built-in microphone picks up lots of auto focusing noise .</Tokens>
+		<POS>DT JJS NN PRP VBP VBN VBZ DT JJ NN VBZ RP NNS IN NN VBG NN .</POS>
+		<Lemma>the biggest downside I have experience be the built-in microphone pick up lot of auto focus noise .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>I have not yet invested in an external mic but probably will need to .</Tokens>
+		<POS>PRP VBP RB RB VBN IN DT JJ JJ CC RB MD VB TO .</POS>
+		<Lemma>I have not yet invest in a external mic but probably will need to .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>All in all I am very pleased with the D7000 and see no major shortcomings .</Tokens>
+		<POS>DT IN DT PRP VBP RB JJ IN DT NN CC VB DT JJ NNS .</POS>
+		<Lemma>all in all I be very pleased with the d7000 and see no major shortcoming .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>It 's not cheap , but you get a lot for your money if you are in the market for a prosumer class DSLR .</Tokens>
+		<POS>PRP VBZ RB JJ , CC PRP VBP DT NN IN PRP$ NN IN PRP VBP IN DT NN IN DT NN NN NN .</POS>
+		<Lemma>it be not cheap , but you get a lot for you money if you be in the market for a prosumer class dslr .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>For users who wo n't explore and use the MANY options and capabilities of this camera , I would recommend considering the 3100 at less than half the cost .</Tokens>
+		<POS>IN NNS WP MD RB VB CC VB DT NNP NNS CC NNS IN DT NN , PRP MD VB VBG DT CD IN JJR IN PDT DT NN .</POS>
+		<Lemma>for user who will not explore and use the MANY option and capability of this camera , I would recommend consider the 3100 at less than half the cost .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>For D70\/80\/90 users who are ready to step up big time in terms of performance , this is the upgrade you have been waiting for .</Tokens>
+		<POS>IN NN NNS WP VBP JJ TO VB RP JJ NN IN NNS IN NN , DT VBZ DT NN PRP VBP VBN VBG IN .</POS>
+		<Lemma>for d70\/80\/90 user who be ready to step up big time in term of performance , this be the upgrade you have be wait for .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>Some will hold out for a D700 successor -LRB- D800 or whatever it ends up being called -RRB- .</Tokens>
+		<POS>DT MD VB RP IN DT NN NN -LRB- NN CC WDT PRP VBZ RP VBG VBN -RRB- .</POS>
+		<Lemma>some will hold out for a d700 successor -lrb- d800 or whatever it end up be call -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>I have no doubt it will be an amazing camera but cost wise , you 're going to be looking at $ 2500 + for the body alone and pay roughly double for coverage equivalent lenses .</Tokens>
+		<POS>PRP VBP DT NN PRP MD VB DT JJ NN CC NN JJ , PRP VBP VBG TO VB VBG IN $ CD CC IN DT NN RB CC VB RB JJ IN NN JJ NNS .</POS>
+		<Lemma>I have no doubt it will be a amazing camera but cost wise , you be go to be look at $ 2500 + for the body alone and pay roughly double for coverage equivalent lens .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>So figure $ 4K just to get started .</Tokens>
+		<POS>RB NN $ CD RB TO VB VBN .</POS>
+		<Lemma>so figure $ 4k just to get start .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>Too rich for my non-professional needs but certainly should be considered if your work or wants dictate that level of camera .</Tokens>
+		<POS>RB JJ IN PRP$ JJ NNS CC RB MD VB VBN IN PRP$ NN CC VBZ VBP DT NN IN NN .</POS>
+		<Lemma>too rich for my non-professional need but certainly should be consider if you work or want dictate that level of camera .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>And there maybe be a D300s replacement in the works too .</Tokens>
+		<POS>CC EX RB VB DT NN NN IN DT NNS RB .</POS>
+		<Lemma>and there maybe be a d300 replacement in the work too .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>Still , I 'd urge anyone to consider the D7000 , which in my opinion is the best cropped sensor DSLR to date .</Tokens>
+		<POS>RB , PRP MD VB NN TO VB DT NN , WDT IN PRP$ NN VBZ DT JJS VBN NN NN TO NN .</POS>
+		<Lemma>still , I would urge anyone to consider the d7000 , which in my opinion be the best crop sensor dslr to date .</Lemma>
+	</Sentence>
+</Document>

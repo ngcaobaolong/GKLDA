@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The nuts taste great !</Tokens>
+		<POS>DT NNS VBP JJ .</POS>
+		<Lemma>the nut taste great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I got some laughs from family about me buying 10lbs of nuts , but they 're all eating them and they will be gone soon .</Tokens>
+		<POS>PRP VBD DT NNS IN NN IN PRP VBG NNS IN NNS , CC PRP VBP DT VBG PRP CC PRP MD VB VBN RB .</POS>
+		<Lemma>I get some laugh from family about I buy 10lb of nut , but they be all eat they and they will be go soon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Who 's laughing now ?!</Tokens>
+		<POS>WP VBZ VBG RB IN</POS>
+		<Lemma>who be laugh now ?!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I guess they are , cause they 're eating all my nuts I paid for .</Tokens>
+		<POS>PRP VBP PRP VBP , VBP PRP VBP VBG DT PRP$ NNS PRP VBD IN .</POS>
+		<Lemma>I guess they be , cause they be eat all my nut I pay for .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was a great base for vegetable soup .</Tokens>
+		<POS>DT VBD DT JJ NN IN NN NN .</POS>
+		<Lemma>this be a great base for vegetable soup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You could easily add meat or other things but it was good just by itself .</Tokens>
+		<POS>PRP MD RB VB NN CC JJ NNS CC PRP VBD JJ RB IN PRP .</POS>
+		<Lemma>you could easily add meat or other thing but it be good just by itself .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Bob 's brand soups and cereals have not disappointed us .</Tokens>
+		<POS>NNP POS NN NNS CC NNS VBP RB JJ PRP .</POS>
+		<Lemma>Bob 's brand soup and cereal have not disappointed we .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Set up with iPhone 4 took less than 1 minute .</Tokens>
+		<POS>VB RP IN NNP CD VBD JJR IN CD NN .</POS>
+		<Lemma>set up with iPhone 4 take less than 1 minute .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No problems with syncing so far .</Tokens>
+		<POS>DT NNS IN NN RB RB .</POS>
+		<Lemma>no problem with syncing so far .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Only issue is the flex arm of the product will droop a bit over time , but no deal breaker .</Tokens>
+		<POS>RB NN VBZ DT JJ NN IN DT NN MD VB DT NN IN NN , CC DT NN NN .</POS>
+		<Lemma>only issue be the flex arm of the product will droop a bit over time , but no deal breaker .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can just readjust it .</Tokens>
+		<POS>PRP MD RB VB PRP .</POS>
+		<Lemma>you can just readjust it .</Lemma>
+	</Sentence>
+</Document>

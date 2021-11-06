@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this camera for use on detailed instruction videos and we are greatly pleased .</Tokens>
+		<POS>VBN DT NN IN NN IN JJ NN NNS CC PRP VBP RB JJ .</POS>
+		<Lemma>buy this camera for use on detailed instruction video and we be greatly pleased .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>One trick we learned was to keep the object slightly farther away and use the zoom on this camera .</Tokens>
+		<POS>CD NN PRP VBD VBD TO VB DT NN RB RB RB CC VB DT NN IN DT NN .</POS>
+		<Lemma>one trick we learn be to keep the object slightly farther away and use the zoom on this camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This was really an excellent purchase for the money .</Tokens>
+		<POS>DT VBD RB DT JJ NN IN DT NN .</POS>
+		<Lemma>this be really a excellent purchase for the money .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I would recommend to a friend !</Tokens>
+		<POS>PRP MD VB TO DT NN .</POS>
+		<Lemma>I would recommend to a friend !</Lemma>
+	</Sentence>
+</Document>

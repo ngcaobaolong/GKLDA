@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Acer 17 '' Monitor is the Best !</Tokens>
+		<POS>DT NNP CD '' NNP VBZ DT JJS .</POS>
+		<Lemma>the Acer 17 '' Monitor be the best !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I fell in love with Acer when I was working part time for a small computer company .</Tokens>
+		<POS>PRP VBD IN NN IN NNP WRB PRP VBD VBG NN NN IN DT JJ NN NN .</POS>
+		<Lemma>I fall in love with Acer when I be work part time for a small computer company .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The screen always shows true color and I have never has any trouble hooking it up to any computer on the market .</Tokens>
+		<POS>DT NN RB VBZ JJ NN CC PRP VBP RB VBZ DT NN VBG PRP RP TO DT NN IN DT NN .</POS>
+		<Lemma>the screen always show true color and I have never have any trouble hook it up to any computer on the market .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The size is just right for a medium to small desk top area .</Tokens>
+		<POS>DT NN VBZ RB JJ IN DT NN TO JJ NN JJ NN .</POS>
+		<Lemma>the size be just right for a medium to small desk top area .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The pen \ pencil holder at the base is a nice touch .</Tokens>
+		<POS>DT NN NN NN NN IN DT NN VBZ DT JJ NN .</POS>
+		<Lemma>the pen \ pencil holder at the base be a nice touch .</Lemma>
+	</Sentence>
+</Document>

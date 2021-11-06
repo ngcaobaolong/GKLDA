@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor works fine .</Tokens>
+		<POS>DT NN VBZ NN .</POS>
+		<Lemma>the monitor work fine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nice picture .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>nice picture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Once I figured out how to get sound from this monitor , though , I was very disappointed .</Tokens>
+		<POS>RB PRP VBD RP WRB TO VB VB IN DT NN , RB , PRP VBD RB JJ .</POS>
+		<Lemma>once I figure out how to get sound from this monitor , though , I be very disappointed .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Do n't get rid of your old speakers -- you 'll need them !</Tokens>
+		<POS>VBP RB VB JJ IN PRP$ JJ NNS : PRP MD VB PRP .</POS>
+		<Lemma>do not get rid of you old speaker -- you 'll need they !</Lemma>
+	</Sentence>
+</Document>

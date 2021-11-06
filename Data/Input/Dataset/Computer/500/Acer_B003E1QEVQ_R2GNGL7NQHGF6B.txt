@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great find for those who really hate the newer `` wide '' monitors .</Tokens>
+		<POS>DT VBZ DT JJ VB IN DT WP RB VBP DT JJR `` JJ '' NNS .</POS>
+		<Lemma>this be a great find for those who really hate the newer `` wide '' monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The 4:3 aspect ratio is still the best for many people using desktop apps .</Tokens>
+		<POS>DT CD NN NN VBZ RB DT JJS IN JJ NNS VBG NN NNS .</POS>
+		<Lemma>the 4:3 aspect ratio be still the best for many people use desktop app .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We use two of these per desktop and with Windows 7 they really do the job for stock traders , imaging , and especially Web developers -LRB- development IDE on one side , results on the other -RRB- .</Tokens>
+		<POS>PRP VBP CD IN DT IN NN CC IN NNP CD PRP RB VBP DT NN IN NN NNS , NN , CC RB NN NNS -LRB- NN NN IN CD NN , VBZ IN DT JJ -RRB- .</POS>
+		<Lemma>we use two of these per desktop and with Windows 7 they really do the job for stock trader , imaging , and especially web developer -lrb- development ide on one side , result on the other -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The downside is that the speakers are really inadequate for all but the most primitive needs -LRB- like Windows alert sounds -RRB- .</Tokens>
+		<POS>DT NN VBZ IN DT NNS VBP RB JJ IN DT CC DT RBS JJ NNS -LRB- IN NNP JJ NNS -RRB- .</POS>
+		<Lemma>the downside be that the speaker be really inadequate for all but the most primitive need -lrb- like Windows alert sound -rrb- .</Lemma>
+	</Sentence>
+</Document>

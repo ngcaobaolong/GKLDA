@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the best pop corn that I have ever bought .</Tokens>
+		<POS>DT VBZ DT JJS NN NN IN PRP VBP RB VBN .</POS>
+		<Lemma>this be the best pop corn that I have ever buy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The 100 calorie and low salt was what I was looking for .</Tokens>
+		<POS>DT CD NN CC JJ NN VBD WP PRP VBD VBG IN .</POS>
+		<Lemma>the 100 calorie and low salt be what I be look for .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The flavor is great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the flavor be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I will for sure be ordering this product again ...</Tokens>
+		<POS>PRP MD IN JJ VB VBG DT NN RB :</POS>
+		<Lemma>I will for sure be order this product again ...</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It did not affix well on screen .</Tokens>
+		<POS>PRP VBD RB VB RB IN NN .</POS>
+		<Lemma>it do not affix well on screen .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Difficult to apply .</Tokens>
+		<POS>JJ TO VB .</POS>
+		<Lemma>difficult to apply .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I ca n't recommend it to anyone .</Tokens>
+		<POS>PRP MD RB VB PRP TO NN .</POS>
+		<Lemma>I can not recommend it to anyone .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Lots of dust in cover itself .</Tokens>
+		<POS>NNS IN NN IN NN PRP .</POS>
+		<Lemma>lot of dust in cover itself .</Lemma>
+	</Sentence>
+</Document>

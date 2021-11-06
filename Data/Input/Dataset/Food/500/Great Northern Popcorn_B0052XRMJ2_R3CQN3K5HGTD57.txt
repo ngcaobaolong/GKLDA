@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I recently bought an air popper for my kids and I to enjoy healthy popcorn together .</Tokens>
+		<POS>PRP RB VBD DT NN NN IN PRP$ NNS CC PRP TO VB JJ NN RB .</POS>
+		<Lemma>I recently buy a air popper for my kid and I to enjoy healthy popcorn together .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>First of all , this 5 pound bad will last FOREVER if you 're just using it for you and your family .</Tokens>
+		<POS>NNP IN DT , DT CD NN JJ MD VB RB IN PRP VBP RB VBG PRP IN PRP CC PRP$ NN .</POS>
+		<Lemma>First of all , this 5 pound bad will last forever if you be just use it for you and you family .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So it is a good bargain if you eat a lot of popcorn .</Tokens>
+		<POS>IN PRP VBZ DT JJ NN IN PRP VBP DT NN IN NN .</POS>
+		<Lemma>so it be a good bargain if you eat a lot of popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But the popped corn itself was lacking in taste .</Tokens>
+		<POS>CC DT VBN NN PRP VBD VBG IN NN .</POS>
+		<Lemma>but the pop corn itself be lack in taste .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Difficult to chew and `` cardboard-y '' .</Tokens>
+		<POS>JJ TO VB CC `` JJ '' .</POS>
+		<Lemma>difficult to chew and `` cardboard-y '' .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Love that it 's organic .</Tokens>
+		<POS>NN IN PRP VBZ JJ .</POS>
+		<Lemma>love that it be organic .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Love that it 's a HUGE bag .</Tokens>
+		<POS>NN IN PRP VBZ DT JJ NN .</POS>
+		<Lemma>love that it be a huge bag .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Do n't love the taste .</Tokens>
+		<POS>VBP RB VB DT NN .</POS>
+		<Lemma>do not love the taste .</Lemma>
+	</Sentence>
+</Document>

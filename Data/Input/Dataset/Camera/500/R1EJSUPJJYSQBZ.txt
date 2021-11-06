@@ -1,0 +1,142 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was not planning to write a review for this camera , but after figuring out the menus and adjusting it to my liking , I just felt all tingly inside and wanted to express my joy .</Tokens>
+		<POS>PRP VBD RB VBG TO VB DT NN IN DT NN , CC IN VBG RP DT NNS CC VBG PRP TO PRP$ NN , PRP RB VBD DT JJ NN CC VBD TO VB PRP$ NN .</POS>
+		<Lemma>I be not plan to write a review for this camera , but after figure out the menu and adjust it to my liking , I just feel all tingly inside and want to express my joy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>First of all , let me start off by saying I used to own a Canon 7D with Sigma 17-50mm lens .</Tokens>
+		<POS>NNP IN DT , VB PRP VB RP IN VBG PRP VBD TO VB DT NNP NN IN NNP CD NN .</POS>
+		<Lemma>First of all , let I start off by say I use to own a Canon 7d with Sigma 17-50mm lens .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>That was an amazing camera and had so much features that I miss compared to the d7000 -LRB- like the way it felt in my hands , well-thought-out button locations , and Canon 's picture quality -RRB- .</Tokens>
+		<POS>DT VBD DT JJ NN CC VBD RB JJ NNS IN PRP VBP VBN TO DT NN -LRB- IN DT NN PRP VBD IN PRP$ NNS , JJ NN NNS , CC NNP POS NN NN -RRB- .</POS>
+		<Lemma>that be a amazing camera and have so much feature that I miss compare to the d7000 -lrb- like the way it feel in my hand , well-thought-out button location , and Canon 's picture quality -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But I sold it because I wanted to shoot Nikon again .</Tokens>
+		<POS>CC PRP VBD PRP IN PRP VBD TO VB NNP RB .</POS>
+		<Lemma>but I sell it because I want to shoot Nikon again .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- I wish I can have both ! -RRB-</Tokens>
+		<POS>-LRB- PRP VBP PRP MD VB DT . -RRB-</POS>
+		<Lemma>-lrb- I wish I can have both ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Anyways , I bought the same lens , Sigma 17-50mm , for the D7000 , and and after taking a couple hundreds shots and messing around with the menu , I can say this about the camera : 1 .</Tokens>
+		<POS>RB , PRP VBD DT JJ NN , NNP NN , IN DT NN , CC CC IN VBG DT NN NNS NNS CC VBG RP IN DT NN , PRP MD VB DT IN DT NN : CD .</POS>
+		<Lemma>anyways , I buy the same lens , Sigma 17-50mm , for the d7000 , and and after take a couple hundred shot and mess around with the menu , I can say this about the camera : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The metering system is excellent on the camera .</Tokens>
+		<POS>DT NN NN VBZ JJ IN DT NN .</POS>
+		<Lemma>the metering system be excellent on the camera .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>All the shots I 've taken so far has come out in good , natural looking colors .</Tokens>
+		<POS>PDT DT NNS PRP VBP VBN RB RB VBZ VBN RP IN JJ , JJ VBG NNS .</POS>
+		<Lemma>all the shot I have take so far have come out in good , natural look color .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The menu system is very flexible .</Tokens>
+		<POS>DT NN NN VBZ RB JJ .</POS>
+		<Lemma>the menu system be very flexible .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The one thing that I felt that was missing when I started using it was the ability to easily adjust the ISO .</Tokens>
+		<POS>DT CD NN IN PRP VBD DT VBD VBG WRB PRP VBD VBG PRP VBD DT NN TO RB VB DT NN .</POS>
+		<Lemma>the one thing that I feel that be miss when I start use it be the ability to easily adjust the iso .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>You have to use both hands -LRB- press the ISO button and then rotate the dial -RRB- to change it .</Tokens>
+		<POS>PRP VBP TO VB CC NNS -LRB- NN DT NN NN CC RB VB DT NN -RRB- TO VB PRP .</POS>
+		<Lemma>you have to use both hand -lrb- press the iso button and then rotate the dial -rrb- to change it .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>But after messing around with the menu , I found the `` Easy ISO '' function .</Tokens>
+		<POS>CC IN VBG RP IN DT NN , PRP VBD DT `` NNP NN '' NN .</POS>
+		<Lemma>but after mess around with the menu , I find the `` Easy iso '' function .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It allows you to change the ISO just by rotating the front dial , located near where you place your index finger .</Tokens>
+		<POS>PRP VBZ PRP TO VB DT NN RB IN VBG DT JJ NN , JJ IN WRB PRP VBP PRP$ NN NN .</POS>
+		<Lemma>it allow you to change the iso just by rotate the front dial , located near where you place you index finger .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>This got me to like this camera even more because I constantly adjust the ISO and the EV to compensate for the conditions that I shoot in .</Tokens>
+		<POS>DT VBD PRP TO VB DT NN RB RBR IN PRP RB VBP DT NN CC DT NN TO VB IN DT NNS IN PRP VBP IN .</POS>
+		<Lemma>this get I to like this camera even more because I constantly adjust the iso and the ev to compensate for the condition that I shoot in .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>And there are a ton of other customizable settings - you HAVE to play around with it .</Tokens>
+		<POS>CC EX VBP DT NN IN JJ JJ NNS : PRP VBP TO VB RP IN PRP .</POS>
+		<Lemma>and there be a ton of other customizable setting - you have to play around with it .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>6 Frames per second is good enough !</Tokens>
+		<POS>CD NNS IN NN VBZ JJ RB .</POS>
+		<Lemma>6 frame per second be good enough !</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>The 8 fps on the Canon was noticeable faster , but I do n't miss it at all because it does not affect the shutter speed .</Tokens>
+		<POS>DT CD NNS IN DT NNP VBD JJ RBR , CC PRP VBP RB VB PRP IN DT IN PRP VBZ RB VB DT JJR NN .</POS>
+		<Lemma>the 8 fp on the Canon be noticeable faster , but I do not miss it at all because it do not affect the shutter speed .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>The ISO is amazing .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the iso be amazing .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>My only gripes are the way the grip feels and the size .</Tokens>
+		<POS>PRP$ JJ NNS VBP DT NN DT NN VBZ CC DT NN .</POS>
+		<Lemma>my only gripe be the way the grip feel and the size .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>But that 's probably because I miss the 7D a lot in this aspect .</Tokens>
+		<POS>CC DT VBZ RB IN PRP VBP DT NN DT NN IN DT NN .</POS>
+		<Lemma>but that be probably because I miss the 7d a lot in this aspect .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>And to those who are choosing between this camera and the 7D , I would say flip a coin if money is not an issue because both has their pros and cons .</Tokens>
+		<POS>CC TO DT WP VBP VBG IN DT NN CC DT NN , PRP MD VB VB DT NN IN NN VBZ RB DT NN IN DT VBZ PRP$ NNS CC NNS .</POS>
+		<Lemma>and to those who be choose between this camera and the 7d , I would say flip a coin if money be not a issue because both have they pro and con .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Canon shooters would get mad at me for comparing this to the 7D , but it 's true .</Tokens>
+		<POS>NNP NNS MD VB JJ IN PRP IN VBG DT TO DT NN , CC PRP VBZ JJ .</POS>
+		<Lemma>Canon shooter would get mad at I for compare this to the 7d , but it be true .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Even Nikon shooters compare this to the D300s , which is in the same class as the 7d .</Tokens>
+		<POS>RB NNP NNS VBP DT TO DT NNS , WDT VBZ IN DT JJ NN IN DT NN .</POS>
+		<Lemma>even Nikon shooter compare this to the d300 , which be in the same class as the 7d .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>The 7D has superior ergonomics and handling compare to the d7000 , but the D7000 has better metering and and is better in contrasty situations .</Tokens>
+		<POS>DT NNP VBZ JJ NNS CC VBG VB TO DT NN , CC DT NN VBZ JJR NN CC CC VBZ RBR IN JJ NNS .</POS>
+		<Lemma>the 7D have superior ergonomics and handle compare to the d7000 , but the d7000 have better metering and and be better in contrasty situation .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>P.S. I was not able to find any focus or pixel issues on mine .</Tokens>
+		<POS>NNP PRP VBD RB JJ TO VB DT NN CC NN NNS IN NN .</POS>
+		<Lemma>P.S. I be not able to find any focus or pixel issue on mine .</Lemma>
+	</Sentence>
+</Document>

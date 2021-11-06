@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm not sure how or why this soup mix is getting such good reviews .</Tokens>
+		<POS>PRP VBP RB JJ WRB CC WRB DT NN NN VBZ VBG JJ JJ NNS .</POS>
+		<Lemma>I be not sure how or why this soup mix be get such good review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has no flavor whatsoever .</Tokens>
+		<POS>PRP VBZ DT NN RB .</POS>
+		<Lemma>it have no flavor whatsoever .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>When they dehydrated the ingredients they pulled all the flavor out .</Tokens>
+		<POS>WRB PRP VBD DT NNS PRP VBD PDT DT NN RP .</POS>
+		<Lemma>when they dehydrate the ingredient they pull all the flavor out .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've tried everything to make a decent dish with this stuff , but always turns out bland and tasteless .</Tokens>
+		<POS>PRP VBP VBD NN TO VB DT JJ NN IN DT NN , CC RB VBZ RP JJ CC JJ .</POS>
+		<Lemma>I have try everything to make a decent dish with this stuff , but always turn out bland and tasteless .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The recommend mix is also WAY off -LRB- 4 cups water \/ mix -RRB- ... you 'll end up with a lintel sludge that is nothing like soup .</Tokens>
+		<POS>DT VB NN VBZ RB NNP RP -LRB- CD NNS NN : NN -RRB- : PRP MD VB RP IN DT NN NN WDT VBZ NN IN NN .</POS>
+		<Lemma>the recommend mix be also WAY off -lrb- 4 cup water \/ mix -rrb- ... you 'll end up with a lintel sludge that be nothing like soup .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I think I could probably calk my bathroom with it or make a nice adobe hut however .</Tokens>
+		<POS>PRP VBP PRP MD RB VB PRP$ NN IN PRP CC VB DT JJ NN NN RB .</POS>
+		<Lemma>I think I could probably calk my bathroom with it or make a nice adobe hut however .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you are into very bland food this will probably be good .</Tokens>
+		<POS>IN PRP VBP IN RB JJ NN DT MD RB VB JJ .</POS>
+		<Lemma>if you be into very bland food this will probably be good .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you like flavor stay away .</Tokens>
+		<POS>IN PRP IN NN VB RB .</POS>
+		<Lemma>if you like flavor stay away .</Lemma>
+	</Sentence>
+</Document>

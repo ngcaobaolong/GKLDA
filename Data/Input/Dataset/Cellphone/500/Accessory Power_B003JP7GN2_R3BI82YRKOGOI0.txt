@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this charger for about a month , and I can say I love it .</Tokens>
+		<POS>PRP VBP VBD DT NN IN IN DT NN , CC PRP MD VB PRP VBP PRP .</POS>
+		<Lemma>I have have this charger for about a month , and I can say I love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have not tried to charge my phone with batteries , but I have used it in a wall outlet as well as in the car .</Tokens>
+		<POS>PRP VBP RB VBN TO VB PRP$ NN IN NNS , CC PRP VBP VBN PRP IN DT NN NN RB RB IN IN DT NN .</POS>
+		<Lemma>I have not try to charge my phone with battery , but I have use it in a wall outlet as well as in the car .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I LOVE the fact that it fits in my purse , and I can also keep it all wrapped up in my glove box .</Tokens>
+		<POS>PRP VBP DT NN IN PRP VBZ IN PRP$ NN , CC PRP MD RB VB PRP DT VBD RP IN PRP$ NN NN .</POS>
+		<Lemma>I love the fact that it fit in my purse , and I can also keep it all wrap up in my glove box .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have a Droid Incredible and I 've never had an issue with it not working well .</Tokens>
+		<POS>PRP VBP DT NNP JJ CC PRP VBP RB VBN DT NN IN PRP RB VBG RB .</POS>
+		<Lemma>I have a Droid incredible and I have never have a issue with it not work well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It charges as quickly and efficiently as the one that came with the phone .</Tokens>
+		<POS>PRP VBZ RB RB CC RB IN DT CD WDT VBD IN DT NN .</POS>
+		<Lemma>it charge as quickly and efficiently as the one that come with the phone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Also , for the price I love that if I lose it or leave it at a friend 's house , I 'm not going to cry over it .</Tokens>
+		<POS>RB , IN DT NN PRP VBP IN IN PRP VBP PRP CC VB PRP IN DT NN POS NN , PRP VBP RB VBG TO VB IN PRP .</POS>
+		<Lemma>also , for the price I love that if I lose it or leave it at a friend 's house , I be not go to cry over it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Definitely recommended .</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>definitely recommend .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this camera hoping it 'd be the perfect addition to my purse - the camera I could use it to catch shots of my children at the park , birthday parties , etc. .</Tokens>
+		<POS>PRP VBD DT NN VBG PRP MD VB DT JJ NN TO PRP$ NN : DT NN PRP MD VB PRP TO VB NNS IN PRP$ NNS IN DT NN , NN NNS , FW .</POS>
+		<Lemma>I purchase this camera hope it would be the perfect addition to my purse - the camera I could use it to catch shot of my child at the park , birthday party , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But the only pro to this camera is that it is easy to use .</Tokens>
+		<POS>CC DT JJ NN TO DT NN VBZ IN PRP VBZ JJ TO VB .</POS>
+		<Lemma>but the only pro to this camera be that it be easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's super slow and hard to focus .</Tokens>
+		<POS>PRP VBZ JJ JJ CC JJ TO VB .</POS>
+		<Lemma>it be super slow and hard to focus .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There were so many pictures that I missed because it took too long to take the picture -LRB- and , as you know , kids do n't quite sit still -RRB- .</Tokens>
+		<POS>EX VBD RB JJ NNS IN PRP VBD IN PRP VBD RB JJ TO VB DT NN -LRB- CC , IN PRP VBP , NNS VBP RB RB VB RB -RRB- .</POS>
+		<Lemma>there be so many picture that I miss because it take too long to take the picture -lrb- and , as you know , kid do not quite sit still -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have shots of them getting up , turning their heads , with their eyes closed , but very few shots that I actually wanted !</Tokens>
+		<POS>PRP VBP NNS IN PRP VBG RP , VBG PRP$ NNS , IN PRP$ NNS VBD , CC RB JJ NNS IN PRP RB VBD .</POS>
+		<Lemma>I have shot of they get up , turn they head , with they eye close , but very few shot that I actually want !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And , many of them are blurry because the kids moved .</Tokens>
+		<POS>CC , JJ IN PRP VBP JJ IN DT NNS VBD .</POS>
+		<Lemma>and , many of they be blurry because the kid move .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There were also times that I missed the opportunity altogether because I had to press the button multiple times or hold it down .</Tokens>
+		<POS>EX VBD RB NNS IN PRP VBD DT NN RB IN PRP VBD TO VB DT NN JJ NNS CC VB PRP RP .</POS>
+		<Lemma>there be also time that I miss the opportunity altogether because I have to press the button multiple time or hold it down .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It 's really a plug-and-play item in that once I charged the battery I could just toss it in my purse and go .</Tokens>
+		<POS>PRP VBZ RB DT JJ NN IN DT IN PRP VBD DT NN PRP MD RB VB PRP IN PRP$ NN CC VB .</POS>
+		<Lemma>it be really a plug-and-play item in that once I charge the battery I could just toss it in my purse and go .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>But , I had to return it , I did n't want to take the chance of missing all the holiday fun .</Tokens>
+		<POS>CC , PRP VBD TO VB PRP , PRP VBD RB VB TO VB DT NN IN VBG PDT DT NN NN .</POS>
+		<Lemma>but , I have to return it , I do not want to take the chance of miss all the holiday fun .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I 'm currently looking for a quicker , sharper , and easy-to-use point and shoot .</Tokens>
+		<POS>PRP VBP RB VBG IN DT JJR , JJR , CC JJ NN CC NN .</POS>
+		<Lemma>I be currently look for a quicker , sharper , and easy-to-use point and shoot .</Lemma>
+	</Sentence>
+</Document>

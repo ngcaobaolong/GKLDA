@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First compared to the D300 ; I like the e-5 except for the limited high ISO which falls short of the Nikon .</Tokens>
+		<POS>RB VBN TO DT NN : PRP VBP DT NN IN IN DT JJ JJ NN WDT VBZ JJ IN DT NNP .</POS>
+		<Lemma>first compare to the d300 ; I like the e-5 except for the limited high iso which fall short of the Nikon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The flaw I had with the e-30 was poor performance in autofocus in low light conditions .</Tokens>
+		<POS>DT NN PRP VBD IN DT NN VBD JJ NN IN NN IN JJ JJ NNS .</POS>
+		<Lemma>the flaw I have with the e-30 be poor performance in autofocus in low light condition .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The e-5 auto-focus is much better than both cameras -LRB- IMHO -RRB- .</Tokens>
+		<POS>DT NN NN VBZ RB JJR IN DT NNS -LRB- NN -RRB- .</POS>
+		<Lemma>the e-5 auto-focus be much better than both camera -lrb- imho -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I typically shoot in a studio environment so I rarely shoot beyond 200 ISO .</Tokens>
+		<POS>PRP RB VBP IN DT NN NN IN PRP RB VBP IN CD NN .</POS>
+		<Lemma>I typically shoot in a studio environment so I rarely shoot beyond 200 iso .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However , I do shoot for postcard sales and the e-5 looks great in the color and it 's very detailed image - really nice .</Tokens>
+		<POS>RB , PRP VBP VB IN NN NNS CC DT NN VBZ JJ IN DT NN CC PRP VBZ RB JJ NN : RB JJ .</POS>
+		<Lemma>however , I do shoot for postcard sale and the e-5 look great in the color and it be very detailed image - really nice .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The new processor is exceptional and the umph it gives to my Olympus lenses is un-believable .</Tokens>
+		<POS>DT JJ NN VBZ JJ CC DT NN PRP VBZ TO PRP$ NNP NNS VBZ JJ .</POS>
+		<Lemma>the new processor be exceptional and the umph it give to my Olympus lens be un-believable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>All in all I 'm very happy with the e-5 and will now start selling off the Nikon camera and lenses .</Tokens>
+		<POS>DT IN DT PRP VBP RB JJ IN DT NN CC MD RB VB VBG RP DT NNP NN CC NNS .</POS>
+		<Lemma>all in all I be very happy with the e-5 and will now start sell off the Nikon camera and lens .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Nothing against Nikon , I used them for over 40 years and made many exceptional photographs .</Tokens>
+		<POS>NN IN NNP , PRP VBD PRP IN IN CD NNS CC VBD JJ JJ NNS .</POS>
+		<Lemma>nothing against Nikon , I use they for over 40 year and make many exceptional photograph .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>A year ago I was at a photoshoot with my Nikon -LRB- s -RRB- and realized that everyone is getting the same image - I wanted my work to be different , so I went to an Olympus .</Tokens>
+		<POS>DT NN IN PRP VBD IN DT NN IN PRP$ NNP -LRB- NNS -RRB- CC VBD IN NN VBZ VBG DT JJ NN : PRP VBD PRP$ NN TO VB JJ , IN PRP VBD TO DT NNP .</POS>
+		<Lemma>a year ago I be at a photoshoot with my Nikon -lrb- s -rrb- and realize that everyone be get the same image - I want my work to be different , so I go to a Olympus .</Lemma>
+	</Sentence>
+</Document>

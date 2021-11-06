@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Go Groove FlexSMART X2 AMAZON to use with my old stereo system without Aux .</Tokens>
+		<POS>PRP VBD DT NNP NNP NNP NN NNP TO VB IN PRP$ JJ NN NN IN NNP .</POS>
+		<Lemma>I buy the Go Groove FlexSMART x2 AMAZON to use with my old stereo system without Aux .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>port .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>port .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I like to listen to all kinds of music from all over the world using Live Streaming Music thru Tunin radio .</Tokens>
+		<POS>PRP VBP TO VB TO DT NNS IN NN IN DT IN DT NN VBG NNP NNP NNP NN NN NN .</POS>
+		<Lemma>I like to listen to all kind of music from all over the world use Live Streaming Music thru tunin radio .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The sound is amazingly clear .</Tokens>
+		<POS>DT NN VBZ RB JJ .</POS>
+		<Lemma>the sound be amazingly clear .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>NO static no hissing sounds , providing your radio is of decent quality .</Tokens>
+		<POS>NN JJ DT JJ NNS , VBG PRP$ NN VBZ IN JJ NN .</POS>
+		<Lemma>no static no hissing sound , provide you radio be of decent quality .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The unit is easy to use , you can also answer your phone Hands free through your stereo .</Tokens>
+		<POS>DT NN VBZ JJ TO VB , PRP MD RB VB PRP$ NN NNS JJ IN PRP$ NN .</POS>
+		<Lemma>the unit be easy to use , you can also answer you phone hand free through you stereo .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>An excellent buy .</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>a excellent buy .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I use mine with my blackberry , my son uses his I Phone , my wife her Droid , my daughter her I Pad and they are all very happy with this product .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NN , PRP$ NN VBZ PRP$ PRP VBP , PRP$ NN PRP$ NN , PRP$ NN PRP$ PRP NN CC PRP VBP DT RB JJ IN DT NN .</POS>
+		<Lemma>I use mine with my blackberry , my son use he I phone , my wife she droid , my daughter she I pad and they be all very happy with this product .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Just simple AMAZING product for the price .</Tokens>
+		<POS>RB JJ NNP NN IN DT NN .</POS>
+		<Lemma>just simple AMAZING product for the price .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Thanks AMAZON another great product and price .</Tokens>
+		<POS>NNS NNP DT JJ NN CC NN .</POS>
+		<Lemma>thanks AMAZON another great product and price .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I strongly recommend it .</Tokens>
+		<POS>PRP RB VB PRP .</POS>
+		<Lemma>I strongly recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Sorry i only have 5 stars !</Tokens>
+		<POS>JJ FW RB VBP CD NNS .</POS>
+		<Lemma>sorry i only have 5 star !</Lemma>
+	</Sentence>
+</Document>

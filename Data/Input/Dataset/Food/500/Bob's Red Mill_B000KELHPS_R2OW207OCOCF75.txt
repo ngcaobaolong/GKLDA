@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This whole grain gluten free bread is very good .</Tokens>
+		<POS>DT JJ NN NN JJ NN VBZ RB JJ .</POS>
+		<Lemma>this whole grain gluten free bread be very good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is also a good value , at least compared to more expensive options like the Namaste Foods bread mix -LRB- also very good -RRB- .</Tokens>
+		<POS>PRP VBZ RB DT JJ NN , IN JJS VBN TO RBR JJ NNS IN DT NNP NNP NN NN -LRB- RB RB JJ -RRB- .</POS>
+		<Lemma>it be also a good value , at least compare to more expensive option like the Namaste Foods bread mix -lrb- also very good -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Also check out the Chebe line of products if you ca n't have any gluten .</Tokens>
+		<POS>RB VB RP DT NNP NN IN NNS IN PRP MD RB VB DT NN .</POS>
+		<Lemma>also check out the Chebe line of product if you can not have any gluten .</Lemma>
+	</Sentence>
+</Document>

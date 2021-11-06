@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Did not `` enhance '' anything , my cell phone signal was more enhanced when I removed the product , followed directions and even applied two of them , it was pretty sad .</Tokens>
+		<POS>VBD RB `` VBP '' NN , PRP$ NN NN NN VBD RBR VBN WRB PRP VBD DT NN , VBD NNS CC RB VBD CD IN PRP , PRP VBD RB JJ .</POS>
+		<Lemma>do not `` enhance '' anything , my cell phone signal be more enhance when I remove the product , follow direction and even apply two of they , it be pretty sad .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My first HD camera and I chose this based on videos I 've seen on YouTube -LRB- cause I do a lot of YouTube videos myself -RRB- .</Tokens>
+		<POS>PRP$ JJ NN NN CC PRP VBD DT VBN IN NNS PRP VBP VBN IN NNP -LRB- VB PRP VBP DT NN IN NNP NNS PRP -RRB- .</POS>
+		<Lemma>my first hd camera and I choose this base on video I have see on YouTube -lrb- cause I do a lot of YouTube video myself -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>720p is the max resolution though .</Tokens>
+		<POS>NN VBZ DT NN NN IN .</POS>
+		<Lemma>720p be the max resolution though .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I bought this when it was more expensive but overall it does the job I need .</Tokens>
+		<POS>PRP VBD DT WRB PRP VBD RBR JJ CC JJ PRP VBZ DT NN PRP VBP .</POS>
+		<Lemma>I buy this when it be more expensive but overall it do the job I need .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The Flip Share software is pretty good but as for editing , you can only trim the ends of your video -LRB- I have n't figured out how to trim a part in the middle of a video yet -RRB- , but it also allows you to add a title , background music , and credits at the end when making your movie .</Tokens>
+		<POS>DT NNP NN NN VBZ RB JJ CC IN IN NN , PRP MD RB VB DT NNS IN PRP$ NN -LRB- PRP VBP RB VBN RP WRB TO VB DT NN IN DT NN IN DT NN RB -RRB- , CC PRP RB VBZ PRP TO VB DT NN , NN NN , CC NNS IN DT NN WRB VBG PRP$ NN .</POS>
+		<Lemma>the Flip share software be pretty good but as for editing , you can only trim the end of you video -lrb- I have not figure out how to trim a part in the middle of a video yet -rrb- , but it also allow you to add a title , background music , and credit at the end when make you movie .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It will not allow you to upload videos from Flip Share to YouTube greater than 10 minutes .</Tokens>
+		<POS>PRP MD RB VB PRP TO NN NNS IN NNP NN TO NNP JJR IN CD NNS .</POS>
+		<Lemma>it will not allow you to upload video from Flip share to YouTube greater than 10 minute .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I just bypass this by uploading the file directly from my saved folder to YouTube via Google Chrome instead .</Tokens>
+		<POS>PRP RB VBP DT IN VBG DT NN RB IN PRP$ VBN NN TO NNP IN NNP NNP RB .</POS>
+		<Lemma>I just bypass this by upload the file directly from my save folder to YouTube via Google Chrome instead .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Night time shots are not that great at all !</Tokens>
+		<POS>NNP NN NNS VBP RB IN JJ IN DT .</POS>
+		<Lemma>Night time shot be not that great at all !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Better have a flashlight on hand or be near a good light source -LRB- headlights , porch light , camp fire , etc. -RRB- otherwise everything captured is too dark to view .</Tokens>
+		<POS>RBR VB DT NN IN NN CC VB IN DT JJ NN NN -LRB- NNS , NN NN , NN NN , NN -RRB- RB NN VBN VBZ RB JJ TO VB .</POS>
+		<Lemma>better have a flashlight on hand or be near a good light source -lrb- headlight , porch light , camp fire , etc. -rrb- otherwise everything capture be too dark to view .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Adding a LED light of some sort would 've been a nice feature to include on this IMO .</Tokens>
+		<POS>VBG DT NN NN IN DT NN MD VB VBN DT JJ NN TO VB IN DT NN .</POS>
+		<Lemma>add a led light of some sort would have be a nice feature to include on this imo .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Oh , and I like the battery feature where you can use 3 AAA batteries in place of the stock rechargeable battery when it runs out of juice for when recharging is not an option .</Tokens>
+		<POS>UH , CC PRP VBP DT NN NN WRB PRP MD VB CD NNP NNS IN NN IN DT NN JJ NN WRB PRP VBZ IN IN NN IN WRB VBG VBZ RB DT NN .</POS>
+		<Lemma>oh , and I like the battery feature where you can use 3 AAA battery in place of the stock rechargeable battery when it run out of juice for when recharge be not a option .</Lemma>
+	</Sentence>
+</Document>

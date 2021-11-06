@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Monitors have gotten too large and wide for my tastes .</Tokens>
+		<POS>NNS VBP VBN RB JJ CC JJ IN PRP$ NNS .</POS>
+		<Lemma>monitor have get too large and wide for my taste .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I found this the finest monitor I 've tested in this price range that fits nicely on a table that does not need to be more than three feet away to take it all in .</Tokens>
+		<POS>PRP VBD DT DT JJS NN PRP VBP VBN IN DT NN NN WDT VBZ RB IN DT NN WDT VBZ RB VB TO VB JJR IN CD NNS RB TO VB PRP DT IN .</POS>
+		<Lemma>I find this the finest monitor I have test in this price range that fit nicely on a table that do not need to be more than three foot away to take it all in .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I waited three months after buying this to post this review so I 've kicked it around awhile .</Tokens>
+		<POS>PRP VBD CD NNS IN VBG DT TO VB DT NN IN PRP VBP VBD PRP IN RB .</POS>
+		<Lemma>I wait three month after buy this to post this review so I have kick it around awhile .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>NO dead pixels , 250 nits is plenty of brightness because there are contrast and cool\/hot brightness settings that suit any tastes !</Tokens>
+		<POS>NN JJ NNS , CD NNS VBZ NN IN NN IN EX VBP NN CC NN NN NNS WDT VBP DT NNS .</POS>
+		<Lemma>no dead pixel , 250 nit be plenty of brightness because there be contrast and cool\/hot brightness setting that suit any taste !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I just hope they keep making this winner and do n't change anything if and when I need a second or third one .</Tokens>
+		<POS>PRP RB VBP PRP VB VBG DT NN CC VBP RB VB NN IN CC WRB PRP VBP DT JJ CC JJ CD .</POS>
+		<Lemma>I just hope they keep make this winner and do not change anything if and when I need a second or third one .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Nice job Acer !</Tokens>
+		<POS>JJ NN NNP .</POS>
+		<Lemma>nice job Acer !</Lemma>
+	</Sentence>
+</Document>

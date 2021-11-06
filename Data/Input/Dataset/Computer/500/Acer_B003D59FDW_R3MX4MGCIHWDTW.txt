@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As advertised , works great Adjusting the lighting of the screen to your liking can be a pain , but no other problems .</Tokens>
+		<POS>IN VBN , VBZ JJ VBG DT NN IN DT NN TO PRP$ NN MD VB DT NN , CC DT JJ NNS .</POS>
+		<Lemma>as advertise , work great adjust the lighting of the screen to you liking can be a pain , but no other problem .</Lemma>
+	</Sentence>
+</Document>

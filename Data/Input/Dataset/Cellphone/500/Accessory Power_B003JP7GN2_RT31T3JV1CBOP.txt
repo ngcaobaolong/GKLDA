@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is an amazing multi purpose charger .</Tokens>
+		<POS>DT VBZ DT JJ NNS NN NN .</POS>
+		<Lemma>this be a amazing multus purpose charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I purchased one and it was so handy , that I have now purchased three - one for each vehicle .</Tokens>
+		<POS>PRP VBD CD CC PRP VBD RB JJ , IN PRP VBP RB VBN CD : CD IN DT NN .</POS>
+		<Lemma>I purchase one and it be so handy , that I have now purchase three - one for each vehicle .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Highly recommend product and company - very fast shipping .</Tokens>
+		<POS>RB VB NN CC NN : RB JJ NN .</POS>
+		<Lemma>highly recommend product and company - very fast shipping .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thanks so much .</Tokens>
+		<POS>NNS RB RB .</POS>
+		<Lemma>thanks so much .</Lemma>
+	</Sentence>
+</Document>

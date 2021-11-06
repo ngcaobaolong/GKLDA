@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It is so thin , my husband carries this camera in a generic case in the front pocket of his pants everyday with no problems .</Tokens>
+		<POS>PRP VBZ RB JJ , PRP$ NN VBZ DT NN IN DT JJ NN IN DT JJ NN IN PRP$ NNS JJ IN DT NNS .</POS>
+		<Lemma>it be so thin , my husband carry this camera in a generic case in the front pocket of he pants everyday with no problem .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The OLED display screen is beautiful and exceptionally clear .</Tokens>
+		<POS>DT JJ NN NN VBZ JJ CC RB JJ .</POS>
+		<Lemma>the oled display screen be beautiful and exceptionally clear .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>He says the only `` con '' is that the cropping feature is not as versatile as other Nikon cameras .</Tokens>
+		<POS>PRP VBZ DT JJ `` NN '' VBZ IN DT VBG NN VBZ RB IN JJ IN JJ NNP NNS .</POS>
+		<Lemma>he say the only `` con '' be that the crop feature be not as versatile as other Nikon camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>He bought the red one !</Tokens>
+		<POS>PRP VBD DT JJ CD .</POS>
+		<Lemma>he buy the red one !</Lemma>
+	</Sentence>
+</Document>

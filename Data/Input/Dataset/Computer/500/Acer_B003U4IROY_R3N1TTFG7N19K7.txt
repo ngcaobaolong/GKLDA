@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor was simple to set up , and the display automatically adjusted to my system .</Tokens>
+		<POS>DT NN VBD JJ TO VB RP , CC DT NN RB VBN TO PRP$ NN .</POS>
+		<Lemma>the monitor be simple to set up , and the display automatically adjust to my system .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The resolution was good .</Tokens>
+		<POS>DT NN VBD JJ .</POS>
+		<Lemma>the resolution be good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , the screen was damaged on one side on arrival , so that I had to return the Acer monitor .</Tokens>
+		<POS>RB , DT NN VBD VBN IN CD NN IN NN , RB IN PRP VBD TO VB DT NNP NN .</POS>
+		<Lemma>however , the screen be damage on one side on arrival , so that I have to return the Acer monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Amazon made this easy to do .</Tokens>
+		<POS>NNP VBD DT JJ TO VB .</POS>
+		<Lemma>Amazon make this easy to do .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They do not have a replacement monitor in stock and notified me that they are processing a refund .</Tokens>
+		<POS>PRP VBP RB VB DT NN NN IN NN CC VBN PRP IN PRP VBP VBG DT NN .</POS>
+		<Lemma>they do not have a replacement monitor in stock and notify I that they be process a refund .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I purchased the Acer S211HL bd elsewhere at the same good price and am very satisfied with it .</Tokens>
+		<POS>PRP VBD DT NNP NN NN RB IN DT JJ JJ NN CC VBP RB JJ IN PRP .</POS>
+		<Lemma>I purchase the Acer s211hl bd elsewhere at the same good price and be very satisfied with it .</Lemma>
+	</Sentence>
+</Document>

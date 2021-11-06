@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've tried several FM adapters , in the past , for my iPods and iPhones , and none were ever all that satisfying .</Tokens>
+		<POS>PRP VBP VBN JJ NNP NNS , IN DT NN , IN PRP$ NNS CC NNS , CC NN VBD RB DT DT VBG .</POS>
+		<Lemma>I have try several FM adapter , in the past , for my ipod and iphone , and none be ever all that satisfy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>While they `` worked , '' there always seemed to be too much noise , due to the closely packed station frequencies in the areas where I 've lived .</Tokens>
+		<POS>IN PRP `` VBD , '' EX RB VBD TO VB RB JJ NN , JJ TO DT RB JJ NN NNS IN DT NNS WRB PRP VBP VBN .</POS>
+		<Lemma>while they `` work , '' there always seem to be too much noise , due to the closely packed station frequency in the area where I have live .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So I was hesitant to buy another one , but the failing tape deck in my Audi TT made my old cassette adapter useless , and I was unable to take advantage of the otherwise really nice sound system .</Tokens>
+		<POS>IN PRP VBD JJ TO VB DT CD , CC DT VBG NN NN IN PRP$ NNP NN VBD PRP$ JJ NN NN JJ , CC PRP VBD JJ TO VB NN IN DT RB RB JJ NN NN .</POS>
+		<Lemma>so I be hesitant to buy another one , but the fail tape deck in my Audi tt make my old cassette adapter useless , and I be unable to take advantage of the otherwise really nice sound system .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So I decided to give the FlexSMART X2 a try , and I have to say I was impressed .</Tokens>
+		<POS>IN PRP VBD TO VB DT NN NN DT NN , CC PRP VBP TO VB PRP VBD JJ .</POS>
+		<Lemma>so I decide to give the flexsmart x2 a try , and I have to say I be impressed .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's very easy to set up , the Bluetooth works very well , and it looks pretty cool , too .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB RP , DT NNP VBZ RB RB , CC PRP VBZ RB JJ , RB .</POS>
+		<Lemma>it be very easy to set up , the Bluetooth work very well , and it look pretty cool , too .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>And the best thing about it is that its FM transmitter seems to work very well , even in an area with a crowded radio dial .</Tokens>
+		<POS>CC DT JJS NN IN PRP VBZ IN PRP$ NNP NN VBZ TO VB RB RB , RB IN DT NN IN DT JJ NN NN .</POS>
+		<Lemma>and the best thing about it be that its FM transmitter seem to work very well , even in a area with a crowded radio dial .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There are a few minor improvements I 'd like to see , like moving the USB power port down off of the control unit to the part the plugs into the lighter , having the knob default to volume control mode , with press-for-station control -LRB- instead of vice versa -RRB- , and not having the volume reset every time the unit is turned on .</Tokens>
+		<POS>EX VBP DT JJ JJ NNS PRP MD VB TO VB , IN VBG DT JJ NN NN IN RB IN DT NN NN TO DT NN DT NNS IN DT JJR , VBG DT NN NN TO NN NN NN , IN NN NN -LRB- RB IN NN RB -RRB- , CC RB VBG DT NN VB DT NN DT NN VBZ VBN RP .</POS>
+		<Lemma>there be a few minor improvement I would like to see , like move the usb power port down off of the control unit to the part the plug into the lighter , have the knob default to volume control mode , with press-for-station control -lrb- instead of vice versa -rrb- , and not have the volume reset every time the unit be turn on .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But , otherwise , I 'd say this is a great product .</Tokens>
+		<POS>CC , RB , PRP MD VB DT VBZ DT JJ NN .</POS>
+		<Lemma>but , otherwise , I would say this be a great product .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I would definitely recommend it to anyone wary of an FM transmitter due to past experience .</Tokens>
+		<POS>PRP MD RB VB PRP TO NN JJ IN DT NNP NN JJ TO JJ NN .</POS>
+		<Lemma>I would definitely recommend it to anyone wary of a FM transmitter due to past experience .</Lemma>
+	</Sentence>
+</Document>

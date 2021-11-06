@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works great so far !</Tokens>
+		<POS>NNP JJ RB RB .</POS>
+		<Lemma>Works great so far !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy installment , fast shipping , gift to my Popee .</Tokens>
+		<POS>NNP NN , JJ NN , NN TO PRP$ NNP .</POS>
+		<Lemma>Easy installment , fast shipping , gift to my Popee .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wish the monitor was adjustable for movement ...</Tokens>
+		<POS>PRP VBP DT NN VBD JJ IN NN :</POS>
+		<Lemma>I wish the monitor be adjustable for movement ...</Lemma>
+	</Sentence>
+</Document>

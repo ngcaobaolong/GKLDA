@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent Camera for the price , only flow I can see is that Zoom is only 4x and Lcd resulation is only 23K Pixels and Sony warrenty service is sucks as well as customer service</Tokens>
+		<POS>JJ NN IN DT NN , RB NN PRP MD VB VBZ IN NN VBZ RB NN CC NN NN VBZ RB CD NNS CC NNP JJ NN VBZ VBZ RB RB IN NN NN</POS>
+		<Lemma>excellent camera for the price , only flow I can see be that zoom be only 4x and lcd resulation be only 23k pixel and Sony warrenty service be suck as well as customer service</Lemma>
+	</Sentence>
+</Document>

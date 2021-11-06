@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The ELM327 Bluetooth scanner is a fully functional OBD-II Scanner with bluetooth connectivity .</Tokens>
+		<POS>DT NN NNP NN VBZ DT RB JJ NNP NNP IN NN NN .</POS>
+		<Lemma>the elm327 Bluetooth scanner be a fully functional OBD-II Scanner with bluetooth connectivity .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Like all inexpensive copies of existing electronics , this one has its limitations .</Tokens>
+		<POS>IN DT JJ NNS IN VBG NNS , DT NN VBZ PRP$ NNS .</POS>
+		<Lemma>like all inexpensive copy of exist electronics , this one have its limitation .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The device is rather large , and you may find it to be intrusive if you use it continuously -LRB- mine sticks down into the kick zone of my automobile 's driving position -RRB- .</Tokens>
+		<POS>DT NN VBZ RB JJ , CC PRP MD VB PRP TO VB JJ IN PRP VBP PRP RB -LRB- JJ NNS RB IN DT NN NN IN PRP$ NN POS VBG NN -RRB- .</POS>
+		<Lemma>the device be rather large , and you may find it to be intrusive if you use it continuously -lrb- mine stick down into the kick zone of my automobile 's drive position -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But the picture allows you determined the size , so you get what you see .</Tokens>
+		<POS>CC DT NN VBZ PRP VBD DT NN , IN PRP VBP WP PRP VBP .</POS>
+		<Lemma>but the picture allow you determine the size , so you get what you see .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The software is a typical collection of ancient 16 and 32 bit Windows ` freeware ' or ` abandonware ' , as well as an older Demo-ware application .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN JJ CD CC CD NN NNP `` NN '' CC `` NN '' , RB RB IN DT JJR JJ NN .</POS>
+		<Lemma>the software be a typical collection of ancient 16 and 32 bit Windows ` freeware ' or ` abandonware ' , as well as a older demo-ware application .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you buy a Chinese knockoff like this ... well , you know what you 're going to get .</Tokens>
+		<POS>IN PRP VBP DT JJ NN IN DT : RB , PRP VBP WP PRP VBP VBG TO VB .</POS>
+		<Lemma>if you buy a chinese knockoff like this ... well , you know what you be go to get .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Do NOT expect to be able to use the software for .</Tokens>
+		<POS>VBP RB VB TO VB JJ TO VB DT NN IN .</POS>
+		<Lemma>do not expect to be able to use the software for .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>well , anything much .</Tokens>
+		<POS>RB , NN RB .</POS>
+		<Lemma>well , anything much .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Plan on getting your own shareware or purchasing a license for a commercial package .</Tokens>
+		<POS>NN IN VBG PRP$ JJ NN CC VBG DT NN IN DT JJ NN .</POS>
+		<Lemma>plan on get you own shareware or purchase a license for a commercial package .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This is NOT going to be a ` plug and play ' setup for you , solely due to the software .</Tokens>
+		<POS>DT VBZ RB VBG TO VB DT `` NN CC VB '' NN IN PRP , RB JJ TO DT NN .</POS>
+		<Lemma>this be not go to be a ` plug and play ' setup for you , solely due to the software .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Other reviews have commented on this , so it was n't a surprise to me .</Tokens>
+		<POS>JJ NNS VBP VBN IN DT , IN PRP VBD RB DT NN TO PRP .</POS>
+		<Lemma>other review have comment on this , so it be not a surprise to I .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>As a cheap diagnostic tool , it 's very valuable .</Tokens>
+		<POS>IN DT JJ JJ NN , PRP VBZ RB JJ .</POS>
+		<Lemma>as a cheap diagnostic tool , it be very valuable .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>As a real time mileage gage with appropriate software on a Palm or Android phone , it will more than pay for itself , especially with the cost of gasoline over $ 3.30 a gallon and rising .</Tokens>
+		<POS>IN DT JJ NN NN NN IN JJ NN IN DT NNP CC NNP NN , PRP MD RBR IN VB IN PRP , RB IN DT NN IN NN IN $ CD DT NN CC VBG .</POS>
+		<Lemma>as a real time mileage gage with appropriate software on a Palm or Android phone , it will more than pay for itself , especially with the cost of gasoline over $ 3.30 a gallon and rise .</Lemma>
+	</Sentence>
+</Document>

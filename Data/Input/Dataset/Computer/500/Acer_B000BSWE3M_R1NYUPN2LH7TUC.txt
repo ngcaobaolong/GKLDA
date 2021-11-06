@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>great monitor , but has one dead pixel , which i think is fine , because it was a good deal for $ 200 .</Tokens>
+		<POS>JJ NN , CC VBZ CD JJ NN , WDT FW VBP VBZ JJ , IN PRP VBD DT JJ NN IN $ CD .</POS>
+		<Lemma>great monitor , but have one dead pixel , which i think be fine , because it be a good deal for $ 200 .</Lemma>
+	</Sentence>
+</Document>

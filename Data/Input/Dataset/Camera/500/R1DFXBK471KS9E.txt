@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really love this camera is amazing , I 'm taking wonderful pictures and enjoying a lot this product , is really good !</Tokens>
+		<POS>PRP RB VBP DT NN VBZ JJ , PRP VBP VBG JJ NNS CC VBG DT NN DT NN , VBZ RB JJ .</POS>
+		<Lemma>I really love this camera be amazing , I be take wonderful picture and enjoy a lot this product , be really good !</Lemma>
+	</Sentence>
+</Document>

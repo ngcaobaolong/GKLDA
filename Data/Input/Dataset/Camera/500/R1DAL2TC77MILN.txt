@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wish I could take a class about how to use this camera .</Tokens>
+		<POS>PRP VBP PRP MD VB DT NN IN WRB TO VB DT NN .</POS>
+		<Lemma>I wish I could take a class about how to use this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have n't had time to read the whole manual and I feel like I am missing out on a lot of the features .</Tokens>
+		<POS>PRP VBP RB VBD NN TO VB DT JJ NN CC PRP VBP IN PRP VBP VBG RP IN DT NN IN DT NNS .</POS>
+		<Lemma>I have not have time to read the whole manual and I feel like I be miss out on a lot of the feature .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I thought it was more of a point and shoot camera but it seems to be a little more than that .</Tokens>
+		<POS>PRP VBD PRP VBD JJR IN DT NN CC VB NN CC PRP VBZ TO VB DT RB JJR IN DT .</POS>
+		<Lemma>I think it be more of a point and shoot camera but it seem to be a little more than that .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do love the pictures it takes .</Tokens>
+		<POS>PRP VBP VB DT NNS PRP VBZ .</POS>
+		<Lemma>I do love the picture it take .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I love the color .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love the color .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I really do like it but it is hard to figure out .</Tokens>
+		<POS>PRP RB VBP IN PRP CC PRP VBZ JJ TO VB RP .</POS>
+		<Lemma>I really do like it but it be hard to figure out .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Also , it is bigger than I expected .</Tokens>
+		<POS>RB , PRP VBZ JJR IN PRP VBD .</POS>
+		<Lemma>also , it be bigger than I expect .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I sometimes wonder if I would n't have been better getting a bigger camera that takes better picture since this one is bigger than I expected .</Tokens>
+		<POS>PRP RB VBP IN PRP MD RB VB VBN JJR VBG DT JJR NN WDT VBZ JJR NN IN DT CD VBZ JJR IN PRP VBD .</POS>
+		<Lemma>I sometimes wonder if I would not have be better get a bigger camera that take better picture since this one be bigger than I expect .</Lemma>
+	</Sentence>
+</Document>

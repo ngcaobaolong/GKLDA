@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent tasting cereal that good for you !</Tokens>
+		<POS>JJ NN NN WDT JJ IN PRP .</POS>
+		<Lemma>excellent tasting cereal that good for you !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I We eat Ezekiel 4:9 -LRB- whether it be original , flax , etc. .</Tokens>
+		<POS>PRP PRP VBP NNP CD -LRB- IN PRP VB JJ , NN , FW .</POS>
+		<Lemma>I we eat Ezekiel 4:9 -lrb- whether it be original , flax , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>. -RRB-</Tokens>
+		<POS>. -RRB-</POS>
+		<Lemma>. -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>almost every morning .</Tokens>
+		<POS>RB DT NN .</POS>
+		<Lemma>almost every morning .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>We mix it in with some other cereal usually , for fun .</Tokens>
+		<POS>PRP VBP PRP IN IN DT JJ NN RB , IN NN .</POS>
+		<Lemma>we mix it in with some other cereal usually , for fun .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I also use it often in making parfaits .</Tokens>
+		<POS>PRP RB VBP PRP RB IN VBG NNS .</POS>
+		<Lemma>I also use it often in make parfait .</Lemma>
+	</Sentence>
+</Document>

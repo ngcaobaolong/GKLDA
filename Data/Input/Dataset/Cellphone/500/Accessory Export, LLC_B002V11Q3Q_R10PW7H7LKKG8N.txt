@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The cable from Abacus 24-7 works as both a charge and sync cable .</Tokens>
+		<POS>DT NN IN NNP CD NNS IN CC DT NN CC NN NN .</POS>
+		<Lemma>the cable from Abacus 24-7 work as both a charge and sync cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I saw some reviews that say this does n't work , but it may be different sellers have somewhat different cables .</Tokens>
+		<POS>PRP VBD DT NNS WDT VBP DT VBZ RB VB , CC PRP MD VB JJ NNS VBP RB JJ NNS .</POS>
+		<Lemma>I see some review that say this do not work , but it may be different seller have somewhat different cable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The problem I have and why it gets a 3 from me , is the cable works but has been acting a bit weird lately -LRB- random disconnects causing Windows to not recognize the device -RRB- .</Tokens>
+		<POS>DT NN PRP VBP CC WRB PRP VBZ DT CD IN PRP , VBZ DT NN VBZ CC VBZ VBN VBG DT NN JJ RB -LRB- JJ NNS VBG NNP TO RB VB DT NN -RRB- .</POS>
+		<Lemma>the problem I have and why it get a 3 from I , be the cable work but have be act a bit weird lately -lrb- random disconnect cause Windows to not recognize the device -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But it 's a knock-off so that 's to be expected sometimes with cheapos .</Tokens>
+		<POS>CC PRP VBZ DT NN IN DT VBZ TO VB VBN RB IN NNS .</POS>
+		<Lemma>but it be a knock-off so that be to be expect sometimes with cheapo .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I will just order another .</Tokens>
+		<POS>PRP MD RB VB DT .</POS>
+		<Lemma>I will just order another .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's only a few cents plus shipping , so you sometimes get what you pay for .</Tokens>
+		<POS>PRP VBZ RB DT JJ NNS CC NN , RB PRP RB VB WP PRP VBP IN .</POS>
+		<Lemma>it be only a few cent plus shipping , so you sometimes get what you pay for .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If the 2nd cable works weirdly though , I may just consider biting the bullet and paying Motorola for an OEM one .</Tokens>
+		<POS>IN DT JJ NN VBZ RB RB , PRP MD RB VB VBG DT NN CC VBG NNP IN DT NNP CD .</POS>
+		<Lemma>if the 2nd cable work weirdly though , I may just consider bite the bullet and pay Motorola for a OEM one .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But if you need a 2nd cable and are not interested in paying $ 20 + to Motorola , for around $ 3.00 , what can you lose giving it a try ?</Tokens>
+		<POS>CC IN PRP VBP DT JJ NN CC VBP RB JJ IN VBG $ CD CC TO NNP , IN IN $ CD , WP MD PRP VB VBG PRP DT NN .</POS>
+		<Lemma>but if you need a 2nd cable and be not interested in pay $ 20 + to Motorola , for around $ 3.00 , what can you lose give it a try ?</Lemma>
+	</Sentence>
+</Document>

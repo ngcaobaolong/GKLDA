@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received the Kodak Playfull Waterproof camera nicely packaged as I requested gift wrapping since the camera was a Christmas present was for my 8yr daughter .</Tokens>
+		<POS>PRP VBD DT NNP NNP NNP NN RB VBN IN PRP VBD NN VBG IN DT NN VBD DT NNP JJ VBD IN PRP$ JJ NN .</POS>
+		<Lemma>I receive the Kodak Playfull Waterproof camera nicely package as I request gift wrap since the camera be a Christmas present be for my 8yr daughter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After my daughter opened the present on Christmas day , I proceeded to charged the camera on my computer 's USB port as instructed in the included manual .</Tokens>
+		<POS>IN PRP$ NN VBD DT JJ IN NNP NN , PRP VBD TO VBN DT NN IN PRP$ NN POS JJ NN IN VBN IN DT VBN NN .</POS>
+		<Lemma>after my daughter open the present on Christmas day , I proceed to charge the camera on my computer 's usb port as instruct in the include manual .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The instructions stated that once the camera was plugged in , the LCD screen should show an icon indicating that the camera was in the process of charging -LRB- since the camera did not arrive charged -RRB- .</Tokens>
+		<POS>DT NNS VBD IN RB DT NN VBD VBN IN , DT NNS NN MD VB DT NN VBG IN DT NN VBD IN DT NN IN VBG -LRB- IN DT NN VBD RB VB VBN -RRB- .</POS>
+		<Lemma>the instruction state that once the camera be plug in , the lcd screen should show a icon indicate that the camera be in the process of charge -lrb- since the camera do not arrive charge -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , after trying several USB ports , no image was shown on the LCD screen .</Tokens>
+		<POS>RB , IN VBG JJ JJ NNS , DT NN VBD VBN IN DT NNS NN .</POS>
+		<Lemma>however , after try several usb port , no image be show on the lcd screen .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Needless to say , my daughter was heartbroken when she found out that I had to return her present since it was defective .</Tokens>
+		<POS>JJ TO VB , PRP$ NN VBD VBN WRB PRP VBD RP IN PRP VBD TO VB PRP$ JJ IN PRP VBD JJ .</POS>
+		<Lemma>needless to say , my daughter be heartbroken when she find out that I have to return she present since it be defective .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I requested a replacement camera from Amazon .</Tokens>
+		<POS>PRP VBD DT NN NN IN NNP .</POS>
+		<Lemma>I request a replacement camera from Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Hopefully , we have better luck with the replacement camera .</Tokens>
+		<POS>RB , PRP VBP JJR NN IN DT NN NN .</POS>
+		<Lemma>hopefully , we have better luck with the replacement camera .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Go-Groove Flexsmart 2 is the best universal handsfree smartphone solution so far for your car .</Tokens>
+		<POS>DT NNP NNP CD VBZ DT JJS JJ NN NN NN RB RB IN PRP$ NN .</POS>
+		<Lemma>the Go-Groove Flexsmart 2 be the best universal handsfree smartphone solution so far for you car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is easy to install , easy to use , and beats the heck out of driving around looking like a character from Star Trek wanna-be .</Tokens>
+		<POS>PRP VBZ JJ TO VB , JJ TO VB , CC VBZ DT NN IN IN VBG IN VBG IN DT NN IN NNP NNP NN .</POS>
+		<Lemma>it be easy to install , easy to use , and beat the heck out of drive around look like a character from Star Trek wanna-be .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought an extra attachment so that I can mount my PDA to the dash and easily access the Navigator app , voice activated calling and other automated and voice activated app related functionality .</Tokens>
+		<POS>PRP VBD DT JJ NN IN IN PRP MD VB PRP$ NN TO DT NN CC RB NN DT NNP NN , NN VBD VBG CC JJ VBN CC NN VBD NN JJ NN .</POS>
+		<Lemma>I buy a extra attachment so that I can mount my pda to the dash and easily access the Navigator app , voice activate call and other automate and voice activate app related functionality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pairing is easy .</Tokens>
+		<POS>VBG VBZ JJ .</POS>
+		<Lemma>pair be easy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Phone connection is automatic .</Tokens>
+		<POS>NN NN VBZ JJ .</POS>
+		<Lemma>phone connection be automatic .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The unit includes a recharge connection for your phone .</Tokens>
+		<POS>DT NN VBZ DT NN NN IN PRP$ NN .</POS>
+		<Lemma>the unit include a recharge connection for you phone .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I had mine set up and funtional in about two minutes .</Tokens>
+		<POS>PRP VBD JJ VBN RP CC JJ IN IN CD NNS .</POS>
+		<Lemma>I have mine set up and funtional in about two minute .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Sound is directed to a pre-selected FM radio station , and whenever a call comes in or you are using any voice activated app or music app , the call takes priority over the previously active function and returns you to the previous function when the call ends .</Tokens>
+		<POS>NN VBZ VBN TO DT JJ NN NN NN , CC WRB DT NN VBZ IN CC PRP VBP VBG DT NN VBD NN CC NN NN , DT NN VBZ NN IN DT RB JJ NN CC NNS PRP TO DT JJ NN WRB DT NN VBZ .</POS>
+		<Lemma>sound be direct to a pre-selected fm radio station , and whenever a call come in or you be use any voice activate app or music app , the call take priority over the previously active function and return you to the previous function when the call end .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Sound quality for phone calls , voice activated apps and music is superior .</Tokens>
+		<POS>JJ NN IN NN NNS , NN VBD NNS CC NN VBZ JJ .</POS>
+		<Lemma>sound quality for phone call , voice activate app and music be superior .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>For those of us with tech defficient cars , this is a very welcome development in safety concious , hands-free smartphone technology .</Tokens>
+		<POS>IN DT IN PRP IN NN JJ NNS , DT VBZ DT RB JJ NN IN NN JJ , JJ NN NN .</POS>
+		<Lemma>for those of we with tech defficient car , this be a very welcome development in safety concious , hands-free smartphone technology .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens><a href="http://www.amazon.com/gp/product/B003PPGOC0/ref=cm_cr_asin_lnk/184-4840221-7979059"> GOgroove Flexsmart X2 Advanced Wireless In-Car Bluetooth FM Transmitter with Charging , Music Control and Hands-Free Calling Capability for Android , iPhone , Blackberry and Windows Smartphones </a></Tokens>
+		<POS>NN NN NN NN NNP NNP NNP NNP NNP NN IN VBG , NNP NNP CC NNP VBG NN IN NNP , NNP , NNP CC NNP NNPS IN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b003ppgoc0/ref=cm_cr_asin_lnk/184-4840221-7979059"> gogroove flexsmart x2 Advanced Wireless In-Car Bluetooth FM transmitter with charge , Music Control and Hands-Free call capability for Android , iPhone , Blackberry and Windows Smartphones </a></Lemma>
+	</Sentence>
+</Document>

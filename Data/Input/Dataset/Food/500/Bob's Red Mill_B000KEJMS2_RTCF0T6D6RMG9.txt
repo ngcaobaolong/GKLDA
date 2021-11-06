@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bob 's Red Mill Red Lentils are delicious .</Tokens>
+		<POS>NNP POS NNP NNP NNP NNPS VBP JJ .</POS>
+		<Lemma>Bob 's Red Mill Red Lentils be delicious .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are very different from regular brown lentils , with a lighter , less earthy flavor .</Tokens>
+		<POS>PRP VBP RB JJ IN JJ JJ NNS , IN DT JJR , RBR JJ NN .</POS>
+		<Lemma>they be very different from regular brown lentil , with a lighter , less earthy flavor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Red lentils do not require any soaking , just rinse .</Tokens>
+		<POS>NNP NNS VBP RB VB DT VBG , RB NN .</POS>
+		<Lemma>Red lentil do not require any soak , just rinse .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>High in fiber , they are superb in soups and appealing to children as well as adults .</Tokens>
+		<POS>JJ IN NN , PRP VBP JJ IN NNS CC VBG TO NNS RB RB IN NNS .</POS>
+		<Lemma>high in fiber , they be superb in soup and appeal to child as well as adult .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I highly recommend an easy Moroccan type red lentil soup with lots of fresh lemon .</Tokens>
+		<POS>PRP RB VBP DT JJ JJ NN JJ NN NN IN NNS IN JJ JJ .</POS>
+		<Lemma>I highly recommend a easy moroccan type red lentil soup with lot of fresh lemon .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Google for recipes .</Tokens>
+		<POS>NNP IN NNS .</POS>
+		<Lemma>Google for recipe .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Or Simply chop one onion and saute quickly in olive oil , add plenty of chicken or vegetable broth , a can of diced tomatoes -LRB- or chopped fresh -RRB- , perhaps some chopped fresh flat-leaf parsley and juice from several lemons -LRB- I make the entire lentil bag at once because the soup goes fast in my house -RRB- .</Tokens>
+		<POS>CC RB VB CD NN CC NN RB IN JJ NN , VB NN IN NN CC NN NN , DT NN IN JJ NNS -LRB- CC VBN JJ -RRB- , RB DT VBN JJ NN NN CC NN IN JJ NNS -LRB- PRP VBP DT JJ NN NN IN RB IN DT NN VBZ RB IN PRP$ NN -RRB- .</POS>
+		<Lemma>or simply chop one onion and saute quickly in olive oil , add plenty of chicken or vegetable broth , a can of diced tomato -lrb- or chop fresh -rrb- , perhaps some chop fresh flat-leaf parsley and juice from several lemon -lrb- I make the entire lentil bag at once because the soup go fast in my house -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The soup cooks on the stovetop in only an hour or so .</Tokens>
+		<POS>DT NN NNS IN DT NN IN RB DT NN CC RB .</POS>
+		<Lemma>the soup cook on the stovetop in only a hour or so .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Warm and tasty in winter , light and citrusy enough for summer .</Tokens>
+		<POS>JJ CC JJ IN NN , NN CC JJ RB IN NN .</POS>
+		<Lemma>warm and tasty in winter , light and citrusy enough for summer .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Red lentils freeze well .</Tokens>
+		<POS>NNP NNS VBP RB .</POS>
+		<Lemma>Red lentil freeze well .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Fabulous healthy vegetarian meal served with whole grain crusty bread .</Tokens>
+		<POS>NNP JJ JJ NN VBD IN JJ NN JJ NN .</POS>
+		<Lemma>Fabulous healthy vegetarian meal serve with whole grain crusty bread .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Comfort food at its best .</Tokens>
+		<POS>NN NN IN PRP$ JJS .</POS>
+		<Lemma>comfort food at its best .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Try them !</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>try they !</Lemma>
+	</Sentence>
+</Document>

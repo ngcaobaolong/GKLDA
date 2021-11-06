@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I upgraded from an E-500 which is a good camera and good base -LRB- with quite an investment in lenses ! -RRB-</Tokens>
+		<POS>PRP VBD IN DT NN WDT VBZ DT JJ NN CC JJ NN -LRB- IN RB DT NN IN NNS . -RRB-</POS>
+		<Lemma>I upgrade from a e-500 which be a good camera and good base -lrb- with quite a investment in lens ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>but I wanted something with a little more capability .</Tokens>
+		<POS>CC PRP VBD NN IN DT RB RBR NN .</POS>
+		<Lemma>but I want something with a little more capability .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I took my E-5 on vacation and used it as an opportunity to experiment and have not been disappointed .</Tokens>
+		<POS>PRP VBD PRP$ NN IN NN CC VBD PRP IN DT NN TO NN CC VBP RB VBN VBN .</POS>
+		<Lemma>I take my e-5 on vacation and use it as a opportunity to experiment and have not be disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Would n't pretend to have become a master yet - another vacation is on the horizon ... Some clear differences - pictures in low light are so much better , while have not used much the video is impressive , picture stabilization , white balance and speed are much improved .</Tokens>
+		<POS>MD RB VB TO VB VBN DT NN RB : DT NN VBZ IN DT NN : DT JJ NNS : NNS IN JJ NN VBP RB RB JJR , IN VBP RB VBN JJ DT NN VBZ JJ , NN NN , JJ NN CC NN VBP JJ VBN .</POS>
+		<Lemma>would not pretend to have become a master yet - another vacation be on the horizon ... some clear difference - picture in low light be so much better , while have not use much the video be impressive , picture stabilization , white balance and speed be much improve .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Much still to learn but very impressed so far and I can now take photos I simply could n't before .</Tokens>
+		<POS>RB RB TO VB CC RB JJ RB RB CC PRP MD RB VB NNS PRP RB MD RB RB .</POS>
+		<Lemma>much still to learn but very impressed so far and I can now take photo I simply could not before .</Lemma>
+	</Sentence>
+</Document>

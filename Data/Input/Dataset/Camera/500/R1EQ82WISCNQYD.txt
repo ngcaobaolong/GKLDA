@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We received the camera , took it out of the box and we recorder our daughter 's community theater performance that night .</Tokens>
+		<POS>PRP VBD DT NN , VBD PRP IN IN DT NN CC PRP NN PRP$ NN POS NN NN NN WDT NN .</POS>
+		<Lemma>we receive the camera , take it out of the box and we recorder we daughter 's community theater performance that night .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera is incredibly easy to use , the picture and zoom are very good , and the sound was surprisingly good .</Tokens>
+		<POS>DT NN VBZ RB JJ TO VB , DT NN CC NN VBP RB JJ , CC DT NN VBD RB JJ .</POS>
+		<Lemma>the camera be incredibly easy to use , the picture and zoom be very good , and the sound be surprisingly good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only draw back to the camera are the hoops you have to jump thru to transfer to a Mac .</Tokens>
+		<POS>DT JJ NN RB TO DT NN VBP DT NNS PRP VBP TO VB NN TO VB TO DT NNP .</POS>
+		<Lemma>the only draw back to the camera be the hoop you have to jump thru to transfer to a Mac .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After struggling with it for a while I bought a transfer program which solved the problem .</Tokens>
+		<POS>IN VBG IN PRP IN DT NN PRP VBD DT NN NN WDT VBD DT NN .</POS>
+		<Lemma>after struggle with it for a while I buy a transfer program which solve the problem .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I thought that iMovie would accept the files easily , but it does n't .</Tokens>
+		<POS>PRP VBD IN NNP MD VB DT NNS RB , CC PRP VBZ RB .</POS>
+		<Lemma>I think that iMovie would accept the file easily , but it do not .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Not a big deal , but this is n't something you 'll find in the manual .</Tokens>
+		<POS>RB DT JJ NN , CC DT VBZ RB NN PRP MD VB IN DT NN .</POS>
+		<Lemma>not a big deal , but this be not something you 'll find in the manual .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>A great little camcorder that 's worth the $ .</Tokens>
+		<POS>DT JJ JJ NN WDT VBZ JJ DT $ .</POS>
+		<Lemma>a great little camcorder that be worth the $ .</Lemma>
+	</Sentence>
+</Document>

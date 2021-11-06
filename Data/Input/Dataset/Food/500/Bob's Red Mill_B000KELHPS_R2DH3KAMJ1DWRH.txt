@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I will preface this by stating this is not a bad product .</Tokens>
+		<POS>PRP MD NN DT IN VBG DT VBZ RB DT JJ NN .</POS>
+		<Lemma>I will preface this by state this be not a bad product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I will also take the blame perhaps for not researching well enough , but this was nothing of what I expected .</Tokens>
+		<POS>PRP MD RB VB DT NN RB IN RB VBG RB RB , CC DT VBD NN IN WP PRP VBD .</POS>
+		<Lemma>I will also take the blame perhaps for not research well enough , but this be nothing of what I expect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I expected a nice hearty brown multigrain bread .</Tokens>
+		<POS>PRP VBD DT JJ JJ JJ NN NN .</POS>
+		<Lemma>I expect a nice hearty brown multigrain bread .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What I was shocked to find out was , with the carraway and such , this tastes much more like a rye bread than a multigrain .</Tokens>
+		<POS>WP PRP VBD VBN TO VB RP VBD , IN DT NN CC JJ , DT NNS RB RBR IN DT NN NN IN DT NN .</POS>
+		<Lemma>what I be shock to find out be , with the carraway and such , this taste much more like a rye bread than a multigrain .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So if you want something with spice and punch go for it , if you just want a hearty multi-grain -- look elsewhere .</Tokens>
+		<POS>RB IN PRP VBP NN IN NN CC VB VB IN PRP , IN PRP RB VBP DT JJ JJ : VB RB .</POS>
+		<Lemma>so if you want something with spice and punch go for it , if you just want a hearty multi-grain -- look elsewhere .</Lemma>
+	</Sentence>
+</Document>

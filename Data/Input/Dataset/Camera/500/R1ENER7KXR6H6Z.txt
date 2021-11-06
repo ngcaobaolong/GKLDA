@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When searching for a new camera , it always seems like a product is strong on one category and skimps in another .</Tokens>
+		<POS>WRB VBG IN DT JJ NN , PRP RB VBZ IN DT NN VBZ JJ IN CD NN CC NNS IN DT .</POS>
+		<Lemma>when search for a new camera , it always seem like a product be strong on one category and skimp in another .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This has it all !</Tokens>
+		<POS>DT VBZ PRP DT .</POS>
+		<Lemma>this have it all !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>1080P video , great pictures , 16x zoom and lots of cool features including the panorama function .</Tokens>
+		<POS>NN NN , JJ NNS , NN NN CC NNS IN JJ NNS VBG DT NN NN .</POS>
+		<Lemma>1080p video , great picture , 16x zoom and lot of cool feature include the panorama function .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm extremely happy with the video quality .</Tokens>
+		<POS>PRP VBP RB JJ IN DT JJ NN .</POS>
+		<Lemma>I be extremely happy with the video quality .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I was able to retire the video camera .</Tokens>
+		<POS>PRP VBD JJ TO VB DT NN NN .</POS>
+		<Lemma>I be able to retire the video camera .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is much easier to use , easier to transport and the quality is just as good if not better .</Tokens>
+		<POS>DT VBZ RB JJR TO VB , JJR TO VB CC DT NN VBZ RB RB JJ IN RB JJR .</POS>
+		<Lemma>this be much easier to use , easier to transport and the quality be just as good if not better .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>it is a little bulky but it 's worth it for the quality , zoom and features .</Tokens>
+		<POS>PRP VBZ DT JJ JJ CC PRP VBZ JJ PRP IN DT NN , NN CC NNS .</POS>
+		<Lemma>it be a little bulky but it be worth it for the quality , zoom and feature .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>All the options and modes on this make my old Cyber-shot cameras look like Fisher price toys .</Tokens>
+		<POS>PDT DT NNS CC NNS IN DT VB PRP$ JJ NN NNS VBP IN NNP NN NNS .</POS>
+		<Lemma>all the option and mode on this make my old cyber-shot camera look like Fisher price toy .</Lemma>
+	</Sentence>
+</Document>

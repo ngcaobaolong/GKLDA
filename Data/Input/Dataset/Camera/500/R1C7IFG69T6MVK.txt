@@ -1,0 +1,342 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am a photography teacher in NYC and online .</Tokens>
+		<POS>PRP VBP DT NN NN IN NNP CC NN .</POS>
+		<Lemma>I be a photography teacher in NYC and online .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>-LRB- See my Amazon profile for my website . -RRB-</Tokens>
+		<POS>-LRB- VB PRP$ NNP NN IN PRP$ NN . -RRB-</POS>
+		<Lemma>-lrb- see my Amazon profile for my website . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I teach beginner and intermediate photography students every week .</Tokens>
+		<POS>PRP VBP NN CC JJ NN NNS DT NN .</POS>
+		<Lemma>I teach beginner and intermediate photography student every week .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've also been a professional photographer for the last five years with images published in The New York Times , GQ , New York Magazine , Women 's Wear Daily , The New York Observer , The Village Voice and Time Out New York .</Tokens>
+		<POS>PRP VBP RB VBN DT JJ NNP IN DT JJ CD NNS IN NNS VBN IN DT NNP NNP NNP , NNP , NNP NNP NNP , NNP POS VB NNP , DT NNP NNP NNP , DT NNP NNP CC NNP IN NNP NNP .</POS>
+		<Lemma>I have also be a professional photographer for the last five year with image publish in the New York Times , GQ , New York Magazine , Women 's wear Daily , the New York Observer , the Village Voice and Time out New York .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- This review is for beginner photographers . -RRB-</Tokens>
+		<POS>-LRB- DT NN VBZ IN NN NNS . -RRB-</POS>
+		<Lemma>-lrb- this review be for beginner photographer . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you 're a beginner , you 're most likely asking yourself : Nikon or Canon ?</Tokens>
+		<POS>IN PRP VBP DT NN , PRP VBP RBS JJ VBG PRP : NNP CC NNP .</POS>
+		<Lemma>if you be a beginner , you be most likely ask yourself : Nikon or Canon ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Really , I feel confident in saying that you ca n't go wrong with either .</Tokens>
+		<POS>RB , PRP VBP JJ IN VBG IN PRP MD RB VB JJ IN CC .</POS>
+		<Lemma>really , I feel confident in say that you can not go wrong with either .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I 've used both brand 's cameras extensively and find that they both offer amazing image quality with well-built , solid cameras that , if taken care of , will last decades .</Tokens>
+		<POS>PRP VBP VBN DT NN POS NNS RB CC VB IN PRP DT VBP JJ NN NN IN JJ , JJ NNS IN , IN VBN NN IN , MD VB NNS .</POS>
+		<Lemma>I have use both brand 's camera extensively and find that they both offer amazing image quality with well-built , solid camera that , if take care of , will last decade .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There are two differences between the cameras , though , that can be taken into consideration .</Tokens>
+		<POS>EX VBP CD NNS IN DT NNS , RB , WDT MD VB VBN IN NN .</POS>
+		<Lemma>there be two difference between the camera , though , that can be take into consideration .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The user-interface : If cameras were computers , Nikons would be PCs and Canons would be MACs .</Tokens>
+		<POS>DT NN : IN NNS VBD NNS , NNPS MD VB NNS CC NNS MD VB NNS .</POS>
+		<Lemma>the user-interface : if camera be computer , Nikons would be pc and canon would be mac .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>PCs are built for people not afraid of technology whereas Macs are built for people who want things super-easy .</Tokens>
+		<POS>NNS VBP VBN IN NNS RB JJ IN NN IN NNS VBP VBN IN NNS WP VBP NNS JJ .</POS>
+		<Lemma>pc be build for people not afraid of technology whereas mac be build for people who want thing super-easy .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Nikons excel at customization options which means you 'll see so many more options with the Advanced features of a Nikon than you will with a Canon .</Tokens>
+		<POS>NNPS VBP IN NN NNS WDT VBZ PRP MD VB RB JJ JJR NNS IN DT NNP NNS IN DT NNP IN PRP MD IN DT NNP .</POS>
+		<Lemma>Nikons excel at customization option which mean you 'll see so many more option with the Advanced feature of a Nikon than you will with a Canon .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Canons , on the other hand , excel at ease-of-use for beginners .</Tokens>
+		<POS>NNS , IN DT JJ NN , VB IN NN IN NNS .</POS>
+		<Lemma>canon , on the other hand , excel at ease-of-use for beginner .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Canons offer less advanced options and can be easier to learn on .</Tokens>
+		<POS>NNS VBP JJR JJ NNS CC MD VB JJR TO VB IN .</POS>
+		<Lemma>canon offer less advanced option and can be easier to learn on .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>This can be frustrating down the line , though , once you 've learned a lot about photography .</Tokens>
+		<POS>DT MD VB VBG IN DT NN , RB , RB PRP VBP VBN DT NN IN NN .</POS>
+		<Lemma>this can be frustrate down the line , though , once you have learn a lot about photography .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>At that point you may want all of the options that Nikon offers and be frustrated with your Canon .</Tokens>
+		<POS>IN DT NN PRP MD VB DT IN DT NNS WDT NNP NNS CC VB VBN IN PRP$ NNP .</POS>
+		<Lemma>at that point you may want all of the option that Nikon offer and be frustrate with you Canon .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>If you 're someone who really likes to delve deep into your hobbies or if you 're intent on becoming a professional photographer , I 'd say a Nikon would be your best bet .</Tokens>
+		<POS>IN PRP VBP NN WP RB VBZ TO VB JJ IN PRP$ NNS CC IN PRP VBP NN IN VBG DT JJ NNP , PRP MD VB DT NNP MD VB PRP$ JJS NN .</POS>
+		<Lemma>if you be someone who really like to delve deep into you hobby or if you be intent on become a professional photographer , I would say a Nikon would be you best bet .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>If you 're someone who wants to learn the basics of photography and only imagine yourself being a hobbyist , Canon would be a better option for you .</Tokens>
+		<POS>IN PRP VBP NN WP VBZ TO VB DT NNS IN NN CC RB VBP PRP VBG DT NN , NNP MD VB DT JJR NN IN PRP .</POS>
+		<Lemma>if you be someone who want to learn the basics of photography and only imagine yourself be a hobbyist , Canon would be a better option for you .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Where Nikon excels : Flash photography .</Tokens>
+		<POS>WRB NNP VBZ : VB NN .</POS>
+		<Lemma>where Nikon excel : flash photography .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I often find myself in situations where I 'm shooting event photography -LRB- weddings , movie premiers , benefits and galas -RRB- where I need to use a lot of flash .</Tokens>
+		<POS>PRP RB VBP PRP IN NNS WRB PRP VBP JJ NN NN -LRB- NNS , NN NNS , NNS CC NNS -RRB- WRB PRP VBP TO VB DT NN IN NN .</POS>
+		<Lemma>I often find myself in situation where I be shooting event photography -lrb- wedding , movie premier , benefit and gala -rrb- where I need to use a lot of flash .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>For this kind of photography , I 'll always prefer to be shooting with a Nikon .</Tokens>
+		<POS>IN DT NN IN NN , PRP MD RB VB TO VB VBG IN DT NNP .</POS>
+		<Lemma>for this kind of photography , I 'll always prefer to be shoot with a Nikon .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Nikon 's flash metering -LRB- how the camera magically decides how much light to fire out of the flash -RRB- is much more consistent than Canon 's .</Tokens>
+		<POS>NNP POS NN NN -LRB- WRB DT NN RB VBZ WRB JJ NN TO VB IN IN DT NN -RRB- VBZ RB RBR JJ IN NNP POS .</POS>
+		<Lemma>Nikon 's flash metering -lrb- how the camera magically decide how much light to fire out of the flash -rrb- be much more consistent than Canon 's .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>You can take a Canon and shoot the same scene three times in a row with flash and all three images will be at different brightness levels .</Tokens>
+		<POS>PRP MD VB DT NNP CC VB DT JJ NN CD NNS IN DT NN IN NN CC DT CD NNS MD VB IN JJ NN NNS .</POS>
+		<Lemma>you can take a Canon and shoot the same scene three time in a row with flash and all three image will be at different brightness level .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>You can do the same thing with a Nikon and all three images will be wonderfully the same .</Tokens>
+		<POS>PRP MD VB DT JJ NN IN DT NNP CC DT CD NNS MD VB RB DT JJ .</POS>
+		<Lemma>you can do the same thing with a Nikon and all three image will be wonderfully the same .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>If you 're somebody who plans on shooting a lot with flash -LRB- indoor photography , event photography , etc. -RRB- you 'll want to consider going with Nikon .</Tokens>
+		<POS>IN PRP VBP NN WP VBZ IN VBG DT NN IN NN -LRB- JJ NN , NN NN , NN -RRB- PRP MD VB TO VB VBG IN NNP .</POS>
+		<Lemma>if you be somebody who plan on shoot a lot with flash -lrb- indoor photography , event photography , etc. -rrb- you 'll want to consider go with Nikon .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Where Canon excels : Richness of colors .</Tokens>
+		<POS>WRB NNP VBZ : NN IN NNS .</POS>
+		<Lemma>where Canon excel : richness of color .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I 've been in numerous situations where I 've been on the red carpet taking the exact same picture as the photographer next to me .</Tokens>
+		<POS>PRP VBP VBN IN JJ NNS WRB PRP VBP VBN IN DT JJ NN VBG DT JJ JJ NN IN DT NNP JJ TO PRP .</POS>
+		<Lemma>I have be in numerous situation where I have be on the red carpet take the exact same picture as the photographer next to I .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>I 'll have a Canon and the person next to me will have a Nikon .</Tokens>
+		<POS>PRP MD VB DT NNP CC DT NN JJ TO PRP MD VB DT NNP .</POS>
+		<Lemma>I 'll have a Canon and the person next to I will have a Nikon .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>This has provided quite a few opportunities to compare the images side-by-side .</Tokens>
+		<POS>DT VBZ VBN RB DT JJ NNS TO VB DT NNS RB .</POS>
+		<Lemma>this have provide quite a few opportunity to compare the image side-by-side .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>What I 've found is that the colors on the Canon 's images look richer and make the image pop more .</Tokens>
+		<POS>WP PRP VBP VBN VBZ IN DT NNS IN DT NNP POS NNS VBP JJR CC VB DT NN NN RBR .</POS>
+		<Lemma>what I have find be that the color on the Canon 's image look richer and make the image pop more .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>If I 'm doing fine art photography -LRB- anything I 'd like to someday hang in a gallery -RRB- , I 'll always want to be shooting with a Canon for this reason .</Tokens>
+		<POS>IN PRP VBP VBG JJ NN NN -LRB- NN PRP MD VB TO RB VB IN DT NN -RRB- , PRP MD RB VB TO VB VBG IN DT NNP IN DT NN .</POS>
+		<Lemma>if I be do fine art photography -lrb- anything I would like to someday hang in a gallery -rrb- , I 'll always want to be shoot with a Canon for this reason .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>If you 're set on Nikon , there are three cameras you should be considering and it all comes down to what your budget is : D7000 $ 1,400 without lens D5100 $ 750 without lens D3100 $ 600 only available with lens -LRB- current prices as of 2\/19\/11 -RRB- Here 's what you get for spending extra money -LRB- each camera compared to the one below it -RRB- : D3100 vs. D5100 : The D3100 is an EXCELLENT camera so if you only have $ 550 to spend total on camera and lens then go out and buy this camera .</Tokens>
+		<POS>IN PRP VBP VBN IN NNP , EX VBP CD NNS PRP MD VB VBG CC PRP RB VBZ RP TO WP PRP$ NN VBZ : CD $ CD IN NN NN $ CD IN NN NN $ CD RB JJ IN NN -LRB- JJ NNS IN IN CD -RRB- RB VBZ WP PRP VBP IN NN JJ NN -LRB- DT NN VBN TO DT CD IN PRP -RRB- : NN CC NN : DT NN VBZ DT JJ NN RB IN PRP RB VBP $ CD TO VB JJ IN NN CC NN RB VB RP CC VB DT NN .</POS>
+		<Lemma>if you be set on Nikon , there be three camera you should be consider and it all come down to what you budget be : d7000 $ 1,400 without lens d5100 $ 750 without lens d3100 $ 600 only available with lens -lrb- current price as of 2\/19\/11 -rrb- here be what you get for spending extra money -lrb- each camera compare to the one below it -rrb- : d3100 vs. d5100 : the d3100 be a excellent camera so if you only have $ 550 to spend total on camera and lens then go out and buy this camera .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>You wo n't regret it .</Tokens>
+		<POS>PRP MD RB VB PRP .</POS>
+		<Lemma>you will not regret it .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>If you 're considering spending more money , here 's what you 'll get from the D5100 in comparison : - Better performance in low light situations .</Tokens>
+		<POS>IN PRP VBP VBG VBG JJR NN , RB POS WP PRP MD VB IN DT NN IN NN : : RBR NN IN JJ JJ NNS .</POS>
+		<Lemma>if you be consider spend more money , here 's what you 'll get from the d5100 in comparison : - better performance in low light situation .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>- A higher resolution screen on the back of the camera so you can see your images more clearly and make out if they actually turned out well .</Tokens>
+		<POS>: NN JJR NN NN IN DT NN IN DT NN IN PRP MD VB PRP$ NNS RBR RB CC VB RP IN PRP RB VBD RP RB .</POS>
+		<Lemma>- a higher resolution screen on the back of the camera so you can see you image more clearly and make out if they actually turn out well .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>- An external mic jack .</Tokens>
+		<POS>: DT JJ JJ NN .</POS>
+		<Lemma>- a external mic jack .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>-LRB- If you 're planning on shooting video with an external mic , you 'll want the D5100 over the D3100 . -RRB-</Tokens>
+		<POS>-LRB- IN PRP VBP VBG IN NN NN IN DT JJ JJ , PRP MD VB DT NN IN DT NN . -RRB-</POS>
+		<Lemma>-lrb- if you be plan on shooting video with a external mic , you 'll want the d5100 over the d3100 . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>- A flip out screen -LRB- handy if you want to put your camera anywhere but at your eye level and be able to see what your camera is about to capture before you shoot it -RRB- - Faster continuous shooting .</Tokens>
+		<POS>: NN VB RP NN -LRB- JJ IN PRP VBP TO VB PRP$ NN RB CC IN PRP$ NN NN CC VB JJ TO VB WP PRP$ NN VBZ IN TO VB IN PRP VBP PRP -RRB- : JJR JJ NN .</POS>
+		<Lemma>- a flip out screen -lrb- handy if you want to put you camera anywhere but at you eye level and be able to see what you camera be about to capture before you shoot it -rrb- - faster continuous shooting .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>If you 're often shooting sports or any fast moving subject , continuous shooting allows you to capture multiple images in a single second .</Tokens>
+		<POS>IN PRP VBP RB JJ NNS CC DT JJ VBG NN , JJ NN VBZ PRP TO VB JJ NNS IN DT JJ NN .</POS>
+		<Lemma>if you be often shooting sport or any fast move subject , continuous shooting allow you to capture multiple image in a single second .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>The D3100 shoots at three frames per second whereas the D5100 shoots at four frames per second .</Tokens>
+		<POS>DT NN VBZ IN CD NNS IN JJ IN DT NN VBZ IN CD NNS IN NN .</POS>
+		<Lemma>the d3100 shoot at three frame per second whereas the d5100 shoot at four frame per second .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>- Higher ISO options .</Tokens>
+		<POS>: JJR NN NNS .</POS>
+		<Lemma>- higher iso option .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>The D5100 offers one more stop of ISO than the D3100 does .</Tokens>
+		<POS>DT NN VBZ CD JJR NN IN NN IN DT NN VBZ .</POS>
+		<Lemma>the d5100 offer one more stop of iso than the d3100 do .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>If you do n't know what ISO means -LRB- or what a stop is -RRB- just know that this allows you to more easily shoot images in low-light situations .</Tokens>
+		<POS>IN PRP VBP RB VB WP NN VBZ -LRB- CC WP DT NN VBZ -RRB- RB VB IN DT VBZ PRP TO RBR RB VB NNS IN JJ NNS .</POS>
+		<Lemma>if you do not know what iso mean -lrb- or what a stop be -rrb- just know that this allow you to more easily shoot image in low-light situation .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>- Longer battery life .</Tokens>
+		<POS>: JJR NN NN .</POS>
+		<Lemma>- longer battery life .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>The D5100 's battery will last 20 % longer than the D3100 The two advantages of the D3100 over the D5100 are : less expensive and less weight .</Tokens>
+		<POS>DT NN POS NN MD VB CD NN JJR IN DT NN DT CD NNS IN DT NN IN DT NN VBP : RBR JJ CC RBR NN .</POS>
+		<Lemma>the d5100 's battery will last 20 % longer than the d3100 the two advantage of the d3100 over the d5100 be : less expensive and less weight .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>Whenever a camera is less expensive , it means you 'll have more in your budget for the lens .</Tokens>
+		<POS>NNP DT NN VBZ RBR JJ , PRP VBZ PRP MD VB RBR IN PRP$ NN IN DT NN .</POS>
+		<Lemma>Whenever a camera be less expensive , it mean you 'll have more in you budget for the lens .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>The D3100 weighs 10 % lighter and is 10 % smaller than the D5100 .</Tokens>
+		<POS>DT NN VBZ CD NN JJR CC VBZ CD NN JJR IN DT NN .</POS>
+		<Lemma>the d3100 weigh 10 % lighter and be 10 % smaller than the d5100 .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>D5100 vs. D7000 : The D5100 is Nikon 's latest and greatest and is even newer than the D7000 .</Tokens>
+		<POS>CD CC CD : DT NN VBZ NNP POS JJS CC JJS CC VBZ RB JJR IN DT NN .</POS>
+		<Lemma>d5100 vs. d7000 : the d5100 be Nikon 's latest and greatest and be even newer than the d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Phenomenal camera !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>phenomenal camera !</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>If you 're stuck , though , between the D5100 and the D7000 , here 's what you 'll get by spending more money on the D7000 : - More focus points .</Tokens>
+		<POS>IN PRP VBP VBN , RB , IN DT NN CC DT NN , RB POS WP PRP MD VB IN VBG JJR NN IN DT NN : : JJR NN NNS .</POS>
+		<Lemma>if you be stick , though , between the d5100 and the d7000 , here 's what you 'll get by spend more money on the d7000 : - more focus point .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>When using auto-focus , the D7000 will have an easier time focusing on what you want it to focus on .</Tokens>
+		<POS>WRB VBG NN , DT NN MD VB DT JJR NN VBG IN WP PRP VBP PRP TO VB IN .</POS>
+		<Lemma>when use auto-focus , the d7000 will have a easier time focus on what you want it to focus on .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>-60 % longer lasting batteries .</Tokens>
+		<POS>CD NN JJR JJ NNS .</POS>
+		<Lemma>-60 % longer lasting battery .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>- Faster continuous shooting .</Tokens>
+		<POS>: JJR JJ NN .</POS>
+		<Lemma>- faster continuous shooting .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>If you 're often shooting sports or any fast moving subject , continuous shooting allows you to capture multiple images in a single second .</Tokens>
+		<POS>IN PRP VBP RB JJ NNS CC DT JJ VBG NN , JJ NN VBZ PRP TO VB JJ NNS IN DT JJ NN .</POS>
+		<Lemma>if you be often shooting sport or any fast move subject , continuous shooting allow you to capture multiple image in a single second .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>The D5100 shoots at four frames per second whereas the D7000 shoots at six frames per second .</Tokens>
+		<POS>DT NN VBZ IN CD NNS IN JJ IN DT NN VBZ IN CD NNS IN NN .</POS>
+		<Lemma>the d5100 shoot at four frame per second whereas the d7000 shoot at six frame per second .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>- Weather sealed .</Tokens>
+		<POS>: NN VBN .</POS>
+		<Lemma>- weather seal .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>This means you can shoot with the D7000 in the rain .</Tokens>
+		<POS>DT VBZ PRP MD VB IN DT NN IN DT NN .</POS>
+		<Lemma>this mean you can shoot with the d7000 in the rain .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>- Two memory card slots .</Tokens>
+		<POS>: CD NN NN NNS .</POS>
+		<Lemma>- two memory card slot .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>This is really a cool feature .</Tokens>
+		<POS>DT VBZ RB DT JJ NN .</POS>
+		<Lemma>this be really a cool feature .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>The D7000 has two memory card slots which means you 'll be less likely to find yourself standing in front of a gorgeous scene with no more memory left .</Tokens>
+		<POS>DT NN VBZ CD NN NN NNS WDT VBZ PRP MD VB RBR JJ TO VB PRP VBG IN NN IN DT JJ NN IN DT JJR NN VBD .</POS>
+		<Lemma>the d7000 have two memory card slot which mean you 'll be less likely to find yourself stand in front of a gorgeous scene with no more memory leave .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>- Faster shutter speed .</Tokens>
+		<POS>: JJR JJR NN .</POS>
+		<Lemma>- faster shutter speed .</Lemma>
+	</Sentence>
+	<Sentence id="61">
+		<Tokens>The fastest shutter speed on the D5100 is 1\/4000th of a second ; on the D7000 : 1\/8000th of a second .</Tokens>
+		<POS>DT JJS JJR NN IN DT NN VBZ NN IN DT JJ : IN DT NN : NN IN DT JJ .</POS>
+		<Lemma>the fastest shutter speed on the d5100 be 1\/4000th of a second ; on the d7000 : 1\/8000th of a second .</Lemma>
+	</Sentence>
+	<Sentence id="62">
+		<Tokens>To be honest , I ca n't think of any practical reason why this would benefit you unless you 're planning on shooting some really bright scenes like directly into the sun .</Tokens>
+		<POS>TO VB JJ , PRP MD RB VB IN DT JJ NN WRB DT MD VB PRP IN PRP VBP VBG IN VBG DT RB JJ NNS IN RB IN DT NN .</POS>
+		<Lemma>to be honest , I can not think of any practical reason why this would benefit you unless you be plan on shoot some really bright scene like directly into the sun .</Lemma>
+	</Sentence>
+	<Sentence id="63">
+		<Tokens>Advantages of the D5100 over the D7000 : - A flip out screen -LRB- handy if you want to put your camera anywhere but at your eye level and be able to see what your camera is about to capture before you shoot it -RRB- - Smaller and lighter : The D5100 is 10 % smaller and 30 % lighter than the D7000 .</Tokens>
+		<POS>NNS IN DT NN IN DT NN : : DT JJ IN NN -LRB- JJ IN PRP VBP TO VB PRP$ NN RB CC IN PRP$ NN NN CC VB JJ TO VB WP PRP$ NN VBZ IN TO VB IN PRP VBP PRP -RRB- : JJR CC JJR : DT NN VBZ CD NN JJR CC CD NN JJR IN DT NN .</POS>
+		<Lemma>advantage of the d5100 over the d7000 : - a flip out screen -lrb- handy if you want to put you camera anywhere but at you eye level and be able to see what you camera be about to capture before you shoot it -rrb- - smaller and lighter : the d5100 be 10 % smaller and 30 % lighter than the d7000 .</Lemma>
+	</Sentence>
+	<Sentence id="64">
+		<Tokens>This is something to consider if you plan on carrying your camera around with you a lot .</Tokens>
+		<POS>DT VBZ NN TO VB IN PRP VBP IN VBG PRP$ NN IN IN PRP DT NN .</POS>
+		<Lemma>this be something to consider if you plan on carry you camera around with you a lot .</Lemma>
+	</Sentence>
+	<Sentence id="65">
+		<Tokens>- Less expensive so you can spend more on your lens !</Tokens>
+		<POS>: RBR JJ IN PRP MD VB RBR IN PRP$ NN .</POS>
+		<Lemma>- less expensive so you can spend more on you lens !</Lemma>
+	</Sentence>
+	<Sentence id="66">
+		<Tokens>If I can clarify any of this , please email me !</Tokens>
+		<POS>IN PRP MD VB DT IN DT , VB NN PRP .</POS>
+		<Lemma>if I can clarify any of this , please email I !</Lemma>
+	</Sentence>
+	<Sentence id="67">
+		<Tokens>- JP Pullos , photography teacher , NYC and online -LRB- see my Amazon profile for my website -RRB-</Tokens>
+		<POS>: NNP NNP , NN NN , NNP CC NN -LRB- VB PRP$ NNP NN IN PRP$ NN -RRB-</POS>
+		<Lemma>- JP Pullos , photography teacher , NYC and online -lrb- see my Amazon profile for my website -rrb-</Lemma>
+	</Sentence>
+</Document>

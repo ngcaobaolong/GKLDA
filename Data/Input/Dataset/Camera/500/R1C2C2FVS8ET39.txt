@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I use this awesome little camera to capture my teachers ' lectures and PowerPoint presentations .</Tokens>
+		<POS>PRP VBP DT JJ JJ NN TO VB PRP$ NNS POS VBZ CC NN NNS .</POS>
+		<Lemma>I use this awesome little camera to capture my teacher ' lecture and powerpoint presentation .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera is quiet , lightweight , and not very distracting .</Tokens>
+		<POS>DT NN VBZ JJ , JJ , CC RB RB JJ .</POS>
+		<Lemma>this camera be quiet , lightweight , and not very distracting .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It uploads to my laptop VERY easily - literally just `` plug play '' .</Tokens>
+		<POS>PRP VBZ TO PRP$ NN RB RB : RB RB `` VB CC VB '' .</POS>
+		<Lemma>it upload to my laptop very easily - literally just `` plug play '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is well worth what 's paid for it and I 've recommended it to many other Vet Tech students !</Tokens>
+		<POS>PRP VBZ RB JJ WP VBZ VBN IN PRP CC PRP VBP VBN PRP TO JJ JJ NN NNP NNS .</POS>
+		<Lemma>it be well worth what be pay for it and I have recommend it to many other vet Tech student !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only thing I do n't like is the little red light that turns on when it 's recording - but I used to be a private eye so I like cameras to be discreet -LRB- and a little pink duct tape took care of that ! -RRB-</Tokens>
+		<POS>DT JJ NN PRP VBP RB VB VBZ DT JJ JJ NN WDT VBZ IN WRB PRP VBZ NN : CC PRP VBD TO VB DT JJ NN IN PRP VBP NNS TO VB JJ -LRB- CC DT JJ JJ NN NN VBD NN IN DT . -RRB-</POS>
+		<Lemma>the only thing I do not like be the little red light that turn on when it be recording - but I use to be a private eye so I like camera to be discreet -lrb- and a little pink duct tape take care of that ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Oh , and go ahead and purchase some AA batteries !</Tokens>
+		<POS>UH , CC VB RB CC VB DT NN NNS .</POS>
+		<Lemma>oh , and go ahead and purchase some aa battery !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used to have an iPhone player in my car that connected to the phone via a cradle then had a cable that ran up to the AUX input and another cable that plugged into the headphone socket .</Tokens>
+		<POS>PRP VBD TO VB DT NNP NN IN PRP$ NN IN VBN TO DT NN IN DT NN RB VBD DT NN WDT VBD RB TO DT NNP NN CC DT NN WDT VBD IN DT NN NN .</POS>
+		<Lemma>I use to have a iPhone player in my car that connect to the phone via a cradle then have a cable that run up to the AUX input and another cable that plug into the headphone socket .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>All this then plugged into the cigarette lighter .</Tokens>
+		<POS>PDT DT RB VBN IN DT NN JJR .</POS>
+		<Lemma>all this then plug into the cigarette lighter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It worked well but it was a bit clumsy , my wife complained about the phone quality all the time -LRB- echo -RRB- and the cables recently started to fall apart .</Tokens>
+		<POS>PRP VBD RB CC PRP VBD DT NN JJ , PRP$ NN VBD IN DT NN NN PDT DT NN -LRB- VBP -RRB- CC DT NNS RB VBD TO VB RB .</POS>
+		<Lemma>it work well but it be a bit clumsy , my wife complain about the phone quality all the time -lrb- echo -rrb- and the cable recently start to fall apart .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was going to replace it when I came across the GO groove Flexsmart and I 'm glad I did !</Tokens>
+		<POS>PRP VBD VBG TO VB PRP WRB PRP VBD IN DT NN NN NN CC PRP VBP JJ PRP VBD .</POS>
+		<Lemma>I be go to replace it when I come across the go groove flexsmart and I be glad I do !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Simple plug and play - plug it in , turn it on and turn your phone to Bluetooth search mode .</Tokens>
+		<POS>JJ NN CC NN : VB PRP IN , VB PRP IN CC VB PRP$ NN TO NNP NN NN .</POS>
+		<Lemma>simple plug and play - plug it in , turn it on and turn you phone to Bluetooth search mode .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Once paired it stays connected every time you get in the car - no plugging and unplugging cables constantly , sound is good and phone quality is good .</Tokens>
+		<POS>RB JJ PRP VBZ JJ DT NN PRP VBP IN DT NN : DT VBG CC VBG NNS RB , NN VBZ JJ CC NN NN VBZ JJ .</POS>
+		<Lemma>once paired it stay connected every time you get in the car - no plug and unplug cable constantly , sound be good and phone quality be good .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>My only minor gripe is that every time I turn the car on , the Flexsmart defaults to volume level 20 -LRB- out of 30 -RRB- and I need to crank it up but obviously this is very minor .</Tokens>
+		<POS>PRP$ JJ JJ NN VBZ IN DT NN PRP VBP DT NN IN , DT NNP NNS TO NN NN CD -LRB- IN IN CD -RRB- CC PRP VBP TO VB PRP RP CC RB DT VBZ RB JJ .</POS>
+		<Lemma>my only minor gripe be that every time I turn the car on , the Flexsmart default to volume level 20 -lrb- out of 30 -rrb- and I need to crank it up but obviously this be very minor .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Highly recommended .</Tokens>
+		<POS>RB VBN .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+</Document>

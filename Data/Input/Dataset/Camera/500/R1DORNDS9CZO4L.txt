@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Buyer Beware .</Tokens>
+		<POS>NNP VB .</POS>
+		<Lemma>Buyer beware .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I purchased this waterproof camera from AceElectronix .</Tokens>
+		<POS>PRP VBD DT JJ NN IN NNP .</POS>
+		<Lemma>I purchase this waterproof camera from AceElectronix .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Invoice listed condition as `` NEW '' .</Tokens>
+		<POS>NNP VBD NN IN `` NNP '' .</POS>
+		<Lemma>Invoice list condition as `` NEW '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It worked well for the first 6 days of my Caribbean vacation until it stopped working due to water damage under the LCD screen .</Tokens>
+		<POS>PRP VBD RB IN DT JJ CD NNS IN PRP$ NNP NN IN PRP VBD VBG RB TO NN NN IN DT NNS NN .</POS>
+		<Lemma>it work well for the first 6 day of my Caribbean vacation until it stop work due to water damage under the lcd screen .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I contacted GE customer service directly and was given instructions on how to return it to them .</Tokens>
+		<POS>PRP VBD NNP NN NN RB CC VBD VBN NNS IN WRB TO VB PRP TO PRP .</POS>
+		<Lemma>I contact GE customer service directly and be give instruction on how to return it to they .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>One week later I received a phone call from GE customer service asking if I knew the camera was a reconditioned one since the invoice I sent them said new .</Tokens>
+		<POS>CD NN RB PRP VBD DT NN NN IN NNP NN NN VBG IN PRP VBD DT NN VBD DT VBN CD IN DT NN PRP VBD PRP VBD JJ .</POS>
+		<Lemma>one week later I receive a phone call from GE customer service ask if I know the camera be a recondition one since the invoice I send they say new .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>They knew because of a green dot on the camera where the SD card is installed as well as the box the camera was shipped to me in was a generic GE box used for 3 different models of cameras .</Tokens>
+		<POS>PRP VBD IN IN DT JJ NN IN DT NN WRB DT NN NN VBZ VBN RB RB IN DT NN DT NN VBD VBN TO PRP IN VBD DT JJ NNP NN VBN IN CD JJ NNS IN NNS .</POS>
+		<Lemma>they know because of a green dot on the camera where the sd card be install as well as the box the camera be ship to I in be a generic GE box use for 3 different model of camera .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Reconditioned cameras only have 3 month warranties instead of 1 yr warranties .</Tokens>
+		<POS>VBN NNS RB VBP CD NN NNS RB IN CD NN NNS .</POS>
+		<Lemma>recondition camera only have 3 month warranty instead of 1 yr warranty .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Fortunately I was within the 3 month window and GE will be replacing the camera .</Tokens>
+		<POS>RB PRP VBD IN DT CD NN NN CC NNP MD VB VBG DT NN .</POS>
+		<Lemma>fortunately I be within the 3 month window and GE will be replace the camera .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Impressed with GE service .</Tokens>
+		<POS>VBN IN NNP NN .</POS>
+		<Lemma>impress with GE service .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Disappointed with AceElectronix .</Tokens>
+		<POS>VBN IN NNP .</POS>
+		<Lemma>disappoint with AceElectronix .</Lemma>
+	</Sentence>
+</Document>

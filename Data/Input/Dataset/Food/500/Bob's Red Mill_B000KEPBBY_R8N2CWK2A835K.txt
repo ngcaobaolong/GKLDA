@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bob 's Red Mill Soup Mix is a nutritional powerhouse and a big money-saver .</Tokens>
+		<POS>NNP POS NNP NNP NNP NNP VBZ DT JJ NN CC DT JJ NN .</POS>
+		<Lemma>Bob 's Red Mill Soup Mix be a nutritional powerhouse and a big money-saver .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Add the chopped veggies of your choice , tomato paste , some extra brown rice or whole-grain pasta and you have a satisfying meal that you 'll especially enjoy on a cold day .</Tokens>
+		<POS>VB DT VBN NNS IN PRP$ NN , NN NN , DT JJ JJ NN CC JJ NN CC PRP VBP DT JJ NN IN PRP MD RB VB IN DT JJ NN .</POS>
+		<Lemma>add the chop veggy of you choice , tomato paste , some extra brown rice or whole-grain pasta and you have a satisfying meal that you 'll especially enjoy on a cold day .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The flavor is rich , without the overpowering saltiness of other soup mixes .</Tokens>
+		<POS>DT NN VBZ JJ , IN DT JJ NN IN JJ NN VBZ .</POS>
+		<Lemma>the flavor be rich , without the overpowering saltiness of other soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can make it extra-hearty by tossing in chopped chicken and using chicken stock instead of plain water .</Tokens>
+		<POS>PRP MD VB PRP JJ IN VBG IN VBN NN CC VBG NN NN RB IN JJ NN .</POS>
+		<Lemma>you can make it extra-hearty by toss in chop chicken and use chicken stock instead of plain water .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Unless you 're serving a crowd , you 'll have lots left over .</Tokens>
+		<POS>IN PRP VBP VBG DT NN , PRP MD VB NNS VBN RP .</POS>
+		<Lemma>unless you be serve a crowd , you 'll have lot leave over .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I like to freeze the rest and have a home-made meal in reserve for those nights when you 're too tired to cook .</Tokens>
+		<POS>PRP VBP TO VB DT NN CC VBP DT JJ NN IN NN IN DT NNS WRB PRP VBP RB JJ TO VB .</POS>
+		<Lemma>I like to freeze the rest and have a home-made meal in reserve for those night when you be too tired to cook .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>-LRB- So much better than wasting money on take-out in a tough economy ! -RRB-</Tokens>
+		<POS>-LRB- RB RB JJR IN VBG NN IN NN IN DT JJ NN . -RRB-</POS>
+		<Lemma>-lrb- so much better than waste money on take-out in a tough economy ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Love it !</Tokens>
+		<POS>NN PRP .</POS>
+		<Lemma>love it !</Lemma>
+	</Sentence>
+</Document>

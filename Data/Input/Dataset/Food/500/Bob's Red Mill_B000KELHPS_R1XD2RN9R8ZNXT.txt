@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This bread mix is awesome .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>this bread mix be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've tried many gluten free mixes , and this is the best I 've tried , by far .</Tokens>
+		<POS>PRP VBP VBN JJ NN JJ VBZ , CC DT VBZ DT JJS PRP VBP VBN , IN RB .</POS>
+		<Lemma>I have try many gluten free mix , and this be the best I have try , by far .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It does n't even taste `` gluten free '' , -LRB- meaning mediocre flavor and texture -RRB- and I actually enjoy it .</Tokens>
+		<POS>PRP VBZ RB RB VB `` NN JJ '' , -LRB- VBG JJ NN CC NN -RRB- CC PRP RB VBP PRP .</POS>
+		<Lemma>it do not even taste `` gluten free '' , -lrb- mean mediocre flavor and texture -rrb- and I actually enjoy it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Buy it by the case from Amazon ; good price and quick delivery .</Tokens>
+		<POS>VB PRP IN DT NN IN NNP : JJ NN CC JJ NN .</POS>
+		<Lemma>buy it by the case from Amazon ; good price and quick delivery .</Lemma>
+	</Sentence>
+</Document>

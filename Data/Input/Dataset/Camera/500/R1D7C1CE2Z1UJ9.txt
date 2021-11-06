@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the G12 because my `` serious '' bag with the 30D and all the heavy lenses and flashes has grown too big and expensive for travel and everyday tasks , not to mention intimidating to others .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ `` JJ '' NN IN DT NN CC PDT DT JJ NNS CC NNS VBZ VBN RB JJ CC JJ IN NN CC JJ NNS , RB TO VB VBG TO NNS .</POS>
+		<Lemma>I buy the g12 because my `` serious '' bag with the 30d and all the heavy lens and flash have grow too big and expensive for travel and everyday task , not to mention intimidate to other .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had held buying a G-series camera from at least when the G10 came out , but now I finally took the plunge with the G12 and could n't be happier .</Tokens>
+		<POS>PRP VBD VBN VBG DT JJ NN IN IN JJS WRB DT NN VBD RP , CC RB PRP RB VBD DT NN IN DT NN CC MD RB VB JJR .</POS>
+		<Lemma>I have hold buy a g-series camera from at least when the g10 come out , but now I finally take the plunge with the g12 and could not be happier .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am not really into `` auto '' modes and shoot almost exculsively in raw format so I can postprocess with care in my PC later .</Tokens>
+		<POS>PRP VBP RB RB IN `` NN '' NNS CC VB RB RB IN JJ NN IN PRP MD VB IN NN IN PRP$ NN RB .</POS>
+		<Lemma>I be not really into `` auto '' mode and shoot almost exculsively in raw format so I can postprocess with care in my pc later .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>What I really needed was a sharp lens , a good sensor and good ergonomics .</Tokens>
+		<POS>WP PRP RB VBD VBD DT JJ NN , DT JJ NN CC JJ NNS .</POS>
+		<Lemma>what I really need be a sharp lens , a good sensor and good ergonomics .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The G12 does all of this , plus it is very fast , has great battery life , a hot shoe , remote trigger input , and plenty of very useful semiautomatic modes .</Tokens>
+		<POS>DT NN VBZ DT IN DT , CC PRP VBZ RB RB , VBZ JJ NN NN , DT JJ NN , JJ NN NN , CC NN IN RB JJ JJ NNS .</POS>
+		<Lemma>the g12 do all of this , plus it be very fast , have great battery life , a hot shoe , remote trigger input , and plenty of very useful semiautomatic mode .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The controls are of true EOS fashion and very easy to learn coming from a D-series camera .</Tokens>
+		<POS>DT NNS VBP IN JJ NNS NN CC RB JJ TO VB VBG IN DT NNS NN .</POS>
+		<Lemma>the control be of true eo fashion and very easy to learn come from a d-series camera .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And the sensor quality is very nice , specially skin tones are gorgeous .</Tokens>
+		<POS>CC DT NN NN VBZ RB JJ , RB NN NNS VBP JJ .</POS>
+		<Lemma>and the sensor quality be very nice , specially skin tone be gorgeous .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The G12 is not a full DSLR replacement for many reasons , but it does n't need or try to be one .</Tokens>
+		<POS>DT NN VBZ RB DT JJ NN NN IN JJ NNS , CC PRP VBZ RB VB CC VB TO VB CD .</POS>
+		<Lemma>the g12 be not a full dslr replacement for many reason , but it do not need or try to be one .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is a perfect little brother for the full size camera and it 's going to be used 80 % of the time .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN IN DT JJ NN NN CC PRP VBZ VBG TO VB VBN CD NN IN DT NN .</POS>
+		<Lemma>it be a perfect little brother for the full size camera and it be go to be use 80 % of the time .</Lemma>
+	</Sentence>
+</Document>

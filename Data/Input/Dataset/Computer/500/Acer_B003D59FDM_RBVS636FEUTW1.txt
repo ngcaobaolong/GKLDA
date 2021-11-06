@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Perfect new computer monitor for my needs .</Tokens>
+		<POS>NNP JJ NN NN IN PRP$ NNS .</POS>
+		<Lemma>Perfect new computer monitor for my need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Larger , clearer , brighter ... exactly what I wanted .</Tokens>
+		<POS>NNP , JJR , RBR : RB WP PRP VBD .</POS>
+		<Lemma>Larger , clearer , brighter ... exactly what I want .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Came in quick time and perfect condition .</Tokens>
+		<POS>NNP IN JJ NN CC JJ NN .</POS>
+		<Lemma>Came in quick time and perfect condition .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thanks so much !</Tokens>
+		<POS>NNS RB RB .</POS>
+		<Lemma>thanks so much !</Lemma>
+	</Sentence>
+</Document>

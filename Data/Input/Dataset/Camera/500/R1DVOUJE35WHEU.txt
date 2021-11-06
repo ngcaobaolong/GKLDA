@@ -1,0 +1,137 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm a hobbyist who was attracted to the X100 's retro design , hybrid viewfinder and solid build but my decision to purchase the camera was based on it 's superior image quality , true-to-life colors and shooting performance .</Tokens>
+		<POS>PRP VBP DT NN WP VBD VBN TO DT NN POS NN NN , NN NN CC JJ VB CC PRP$ NN TO VB DT NN VBD VBN IN PRP VBZ JJ NN NN , JJ NNS CC JJ NN .</POS>
+		<Lemma>I be a hobbyist who be attract to the x100 's retro design , hybrid viewfinder and solid build but my decision to purchase the camera be base on it be superior image quality , true-to-life color and shooting performance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera 's color performance can not be overstated - it 's remarkable even under difficult mixed indoor lighting .</Tokens>
+		<POS>DT NN POS NN NN MD RB VB VBN : PRP VBZ JJ RB IN JJ JJ JJ NN .</POS>
+		<Lemma>the camera 's color performance can not be overstate - it be remarkable even under difficult mixed indoor lighting .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Its outdoor color performance is equally excellent even with strong UV light , reflective light , backlighting , and color casts .</Tokens>
+		<POS>PRP$ JJ NN NN VBZ RB JJ RB IN JJ NN NN , JJ NN , NN , CC NN VBZ .</POS>
+		<Lemma>its outdoor color performance be equally excellent even with strong uv light , reflective light , backlighting , and color cast .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In regard to lighting , the X100 's built-in flash may be it most understated feature .</Tokens>
+		<POS>IN NN TO NN , DT NN POS JJ NN MD VB PRP RBS VBN NN .</POS>
+		<Lemma>in regard to lighting , the x100 's built-in flash may be it most understate feature .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It compliments almost all lighting conditions and delivers natural color and balanced tones .</Tokens>
+		<POS>PRP NNS RB DT NN NNS CC VBZ JJ NN CC JJ NNS .</POS>
+		<Lemma>it compliment almost all lighting condition and deliver natural color and balanced tone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The flash acts more as a fill than as a primary light source .</Tokens>
+		<POS>DT NN VBZ RBR IN DT NN IN IN DT JJ JJ NN .</POS>
+		<Lemma>the flash act more as a fill than as a primary light source .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It blends equally well with mixed light , direct sunlight and low light .</Tokens>
+		<POS>PRP VBZ RB RB IN JJ NN , JJ NN CC JJ NN .</POS>
+		<Lemma>it blend equally well with mixed light , direct sunlight and low light .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Also , the flash has excellent reach of up to 50 feet , and it enables nighttime photography of any subject within range that can be seen with the naked eye .</Tokens>
+		<POS>RB , DT NN VBZ JJ NN IN RB TO CD NNS , CC PRP VBZ JJ NN IN DT JJ IN NN WDT MD VB VBN IN DT JJ NN .</POS>
+		<Lemma>also , the flash have excellent reach of up to 50 foot , and it enable nighttime photography of any subject within range that can be see with the naked eye .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Shooting performance is also very good - there is no shutter lag .</Tokens>
+		<POS>NN NN VBZ RB RB JJ : EX VBZ DT NN NN .</POS>
+		<Lemma>shooting performance be also very good - there be no shutter lag .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>While not as fast as a dSLR , I 've been able to shoot action - swimming and pole vaulting - again with accurate color rendition .</Tokens>
+		<POS>IN RB RB JJ IN DT NN , PRP VBP VBN JJ TO VB NN : NN CC NN VBG : RB IN JJ NN NN .</POS>
+		<Lemma>while not as fast as a dslr , I have be able to shoot action - swimming and pole vault - again with accurate color rendition .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Swim events can be difficult to photograph because of harsh lighting , shadows , color casts , and movement .</Tokens>
+		<POS>VB NNS MD VB JJ TO NN IN IN JJ NN , NNS , NN VBZ , CC NN .</POS>
+		<Lemma>swim event can be difficult to photograph because of harsh lighting , shadow , color cast , and movement .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The camera 's `` normal '' JPEG mode provides excellent images and shooting JPEG rather than RAW greatly increases performance .</Tokens>
+		<POS>DT NN POS `` JJ '' NN NN VBZ JJ NNS CC JJ NN RB IN NN RB VBZ NN .</POS>
+		<Lemma>the camera 's `` normal '' jpeg mode provide excellent image and shooting jpeg rather than raw greatly increase performance .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>While I 'm not against shooting RAW , I greatly prefer the speed , size , and convenience of JPEG files .</Tokens>
+		<POS>IN PRP VBP RB IN JJ NN , PRP RB VBP DT NN , NN , CC NN IN NNP NNS .</POS>
+		<Lemma>while I be not against shooting raw , I greatly prefer the speed , size , and convenience of JPEG file .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Overall , the camera is a pleasure to hold and use .</Tokens>
+		<POS>RB , DT NN VBZ DT NN TO VB CC VB .</POS>
+		<Lemma>overall , the camera be a pleasure to hold and use .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The primary controls are responsive and their placement is ideal although the secondary controls , i.e. Command Control , Command Dial and Menu\/OK button could be better .</Tokens>
+		<POS>DT JJ NNS VBP JJ CC PRP$ NN VBZ JJ IN DT JJ NNS , FW NN NN , NN NN CC NN NN MD VB RBR .</POS>
+		<Lemma>the primary control be responsive and they placement be ideal although the secondary control , i.e. command control , command dial and menu\/ok button could be better .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The Menu\/OK button needs to be larger and the Control Dial should be replaced with four buttons .</Tokens>
+		<POS>DT NN NN VBZ TO VB JJR CC DT NNP NNP MD VB VBN IN CD NNS .</POS>
+		<Lemma>the menu\/ok button need to be larger and the Control Dial should be replace with four button .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The current dial is sloppy .</Tokens>
+		<POS>DT JJ NN VBZ JJ .</POS>
+		<Lemma>the current dial be sloppy .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Also , the Command Control which has a nice tactile feel serves little purpose as it 's currently configured but could easily be made much more useful with a firmware update .</Tokens>
+		<POS>RB , DT NN NN WDT VBZ DT JJ JJ NN VBZ JJ NN IN PRP VBZ RB VBN CC MD RB VB VBN RB RBR JJ IN DT NN VBP .</POS>
+		<Lemma>also , the command control which have a nice tactile feel serve little purpose as it be currently configure but could easily be make much more useful with a firmware update .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>For instance , allowing it to be configured as an optional Menu\/OK button would resolve the problem with the size of the current button .</Tokens>
+		<POS>IN NN , VBG PRP TO VB VBN IN DT JJ NN NN MD VB DT NN IN DT NN IN DT JJ NN .</POS>
+		<Lemma>for instance , allow it to be configure as a optional menu\/ok button would resolve the problem with the size of the current button .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Also , a simple firmware update would make the manual focus ring more responsive and practical .</Tokens>
+		<POS>RB , DT JJ NN VBP MD VB DT JJ NN NN RBR JJ CC JJ .</POS>
+		<Lemma>also , a simple firmware update would make the manual focus ring more responsive and practical .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Lastly , there are several useful and reasonably priced accessories for this camera .</Tokens>
+		<POS>RB , EX VBP JJ JJ CC RB VBN NNS IN DT NN .</POS>
+		<Lemma>lastly , there be several useful and reasonably price accessory for this camera .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Ken Rockwell has an excellent suggestion for an inexpensive lens cover alternative using two reverse mounted 49mm filters -LRB- see his website -RRB- .</Tokens>
+		<POS>NNP NNP VBZ DT JJ NN IN DT JJ NN NN NN VBG CD JJ VBD CD NNS -LRB- VB PRP$ NN -RRB- .</POS>
+		<Lemma>Ken Rockwell have a excellent suggestion for a inexpensive lens cover alternative use two reverse mount 49mm filter -lrb- see he website -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>AC MAXX has a quality universal 2.8 '' LCD protector and there are excellent low-cost two piece leather cases which are useful both in the field and for safe storage .</Tokens>
+		<POS>NN NNP VBZ DT NN JJ CD '' NNS NN CC EX VBP JJ JJ CD NN NN NNS WDT VBP JJ CC IN DT NN CC IN JJ NN .</POS>
+		<Lemma>ac MAXX have a quality universal 2.8 '' lcd protector and there be excellent low-cost two piece leather case which be useful both in the field and for safe storage .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Also , Digipower makes a fast travel charger which allows you to leave the supplied charger , with it 's easy to loose plastic spacer , at home along with the nicely made but easy to loose lens cover .</Tokens>
+		<POS>RB , NNP VBZ DT JJ NN NN WDT VBZ PRP TO VB DT VBN NN , IN PRP VBZ JJ TO JJ NN NN , IN NN IN IN DT RB VBN CC JJ TO JJ NN NN .</POS>
+		<Lemma>also , Digipower make a fast travel charger which allow you to leave the supply charger , with it be easy to loose plastic spacer , at home along with the nicely make but easy to loose lens cover .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>All of these items can be found on Amazon .</Tokens>
+		<POS>DT IN DT NNS MD VB VBN IN NNP .</POS>
+		<Lemma>all of these item can be find on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I highly recommend the X100 to photography enthusiasts and believe that its manufacturer 's list price is reasonable .</Tokens>
+		<POS>PRP RB VB DT NN TO NN NNS CC VBP IN PRP$ NN POS NN NN VBZ JJ .</POS>
+		<Lemma>I highly recommend the x100 to photography enthusiast and believe that its manufacturer 's list price be reasonable .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>However , I would not recommend the camera to `` point and shoot '' photographers who are dependent on pre-sets and do n't have the patience or desire to learn photography fundamentals .</Tokens>
+		<POS>RB , PRP MD RB VB DT NN TO `` NN CC NN '' NNS WP VBP JJ IN NNS CC VBP RB VB DT NN CC NN TO VB NN NNS .</POS>
+		<Lemma>however , I would not recommend the camera to `` point and shoot '' photographer who be dependent on pre-set and do not have the patience or desire to learn photography fundamental .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great light weight monitor for the money .</Tokens>
+		<POS>JJ JJ NN NN IN DT NN .</POS>
+		<Lemma>great light weight monitor for the money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use it as a portable monitor to have two screens with my laptop .</Tokens>
+		<POS>PRP VBP PRP IN DT JJ NN TO VB CD NNS IN PRP$ NN .</POS>
+		<Lemma>I use it as a portable monitor to have two screen with my laptop .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Fits easily in a 20 '' notebook bag together with my laptop and all accessories .</Tokens>
+		<POS>VBZ RB IN DT CD '' NN NN RB IN PRP$ NN CC DT NNS .</POS>
+		<Lemma>fit easily in a 20 '' notebook bag together with my laptop and all accessory .</Lemma>
+	</Sentence>
+</Document>

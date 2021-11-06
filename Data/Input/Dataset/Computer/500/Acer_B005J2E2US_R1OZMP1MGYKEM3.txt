@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you want : lightweight , superbright display , value pricing , excellent response time with very little heat generated , then you should buy this laptop product .</Tokens>
+		<POS>IN PRP VBP : JJ , JJ NN , NN NN , JJ NN NN IN RB JJ NN VBN , RB PRP MD VB DT NN NN .</POS>
+		<Lemma>if you want : lightweight , superbright display , value pricing , excellent response time with very little heat generate , then you should buy this laptop product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I researched for a long time and postponed purchase waiting for Windows 8 news , tablets to be or not be , and finally ignored predictions of the death of the laptop .</Tokens>
+		<POS>PRP VBD IN DT JJ NN CC VBD NN VBG IN NNP CD NN , NNS TO VB CC RB VB , CC RB VBN NNS IN DT NN IN DT NN .</POS>
+		<Lemma>I research for a long time and postpone purchase wait for Windows 8 news , tablet to be or not be , and finally ignore prediction of the death of the laptop .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you want to play touch screen games , buy something else .</Tokens>
+		<POS>IN PRP VBP TO VB NN NN NNS , VB NN RB .</POS>
+		<Lemma>if you want to play touch screen game , buy something else .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If you need to type , utilize the web , emails , and other software look at this laptop .</Tokens>
+		<POS>IN PRP VBP TO NN , VBP DT NN , NNS , CC JJ NN NN IN DT NN .</POS>
+		<Lemma>if you need to type , utilize the web , email , and other software look at this laptop .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And miracle of ages , it is small enough to actually use on an aircraft without acrobatics .</Tokens>
+		<POS>CC NN IN NNS , PRP VBZ JJ RB TO RB VB IN DT NN IN NNS .</POS>
+		<Lemma>and miracle of age , it be small enough to actually use on a aircraft without acrobatics .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Keyboard touch for me is perfect and full sized - wifi ,3 usb , card reader and even attractive appearance .</Tokens>
+		<POS>NN NN IN PRP VBZ JJ CC JJ VBN : NN CD NN , NN NN CC RB JJ NN .</POS>
+		<Lemma>keyboard touch for I be perfect and full size - wifus ,3 usb , card reader and even attractive appearance .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>11.6 '' screen is more than adequate for me and for travel uses .</Tokens>
+		<POS>CD '' NN VBZ JJR IN JJ IN PRP CC IN NN NNS .</POS>
+		<Lemma>11.6 '' screen be more than adequate for I and for travel use .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Also has HDMI connection for big screen at home or hotel .</Tokens>
+		<POS>RB VBZ NN NN IN JJ NN IN NN CC NN .</POS>
+		<Lemma>also have hdmus connection for big screen at home or hotel .</Lemma>
+	</Sentence>
+</Document>

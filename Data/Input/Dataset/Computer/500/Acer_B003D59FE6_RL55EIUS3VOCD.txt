@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered this monitor from Amazon on Thursday and I received it on Monday .</Tokens>
+		<POS>PRP VBD DT NN IN NNP IN NNP CC PRP VBD PRP IN NNP .</POS>
+		<Lemma>I order this monitor from Amazon on Thursday and I receive it on Monday .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This was very prompt standard shipping service .</Tokens>
+		<POS>DT VBD RB JJ JJ NN NN .</POS>
+		<Lemma>this be very prompt standard shipping service .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have limited space with not enough room for a wide screen monitor .</Tokens>
+		<POS>PRP VBP VBN NN IN RB JJ NN IN DT JJ NN NN .</POS>
+		<Lemma>I have limit space with not enough room for a wide screen monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This 4 X 3 monitor fits my space very well .</Tokens>
+		<POS>DT CD NN CD NN VBZ PRP$ NN RB RB .</POS>
+		<Lemma>this 4 x 3 monitor fit my space very well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The monitor works very well with a sharp and bright display .</Tokens>
+		<POS>DT NN VBZ RB RB IN DT JJ CC JJ NN .</POS>
+		<Lemma>the monitor work very well with a sharp and bright display .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have been using it for about a month and am well pleased with it .</Tokens>
+		<POS>PRP VBP VBN VBG PRP IN IN DT NN CC VBP RB VBN IN PRP .</POS>
+		<Lemma>I have be use it for about a month and be well please with it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The only negative thing about this was the instructions for adjusting the display were not very clear and it took a little time to figure out how to do it .</Tokens>
+		<POS>DT JJ JJ NN IN DT VBD DT NNS IN VBG DT NN VBD RB RB JJ CC PRP VBD DT JJ NN TO VB RP WRB TO VB PRP .</POS>
+		<Lemma>the only negative thing about this be the instruction for adjust the display be not very clear and it take a little time to figure out how to do it .</Lemma>
+	</Sentence>
+</Document>

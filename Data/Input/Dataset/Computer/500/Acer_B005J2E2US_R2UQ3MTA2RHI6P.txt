@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just what I was looking for - something small -LRB- and cheap -RRB- for traveling .</Tokens>
+		<POS>RB WP PRP VBD VBG IN : NN JJ -LRB- CC JJ -RRB- IN VBG .</POS>
+		<Lemma>just what I be look for - something small -lrb- and cheap -rrb- for travel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has everything I need .</Tokens>
+		<POS>PRP VBZ NN PRP VBP .</POS>
+		<Lemma>it have everything I need .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So far I have n't had any problems or complaints .</Tokens>
+		<POS>RB RB PRP VBP RB VBD DT NNS CC NNS .</POS>
+		<Lemma>so far I have not have any problem or complaint .</Lemma>
+	</Sentence>
+</Document>

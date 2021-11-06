@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I can not comment on price because this is not sold locally ; however , I can comment on taste .</Tokens>
+		<POS>PRP MD RB VB IN NN IN DT VBZ RB VBN RB : RB , PRP MD VB IN NN .</POS>
+		<Lemma>I can not comment on price because this be not sell locally ; however , I can comment on taste .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These are so simple to cook and healthy .</Tokens>
+		<POS>DT VBP RB JJ TO VB CC JJ .</POS>
+		<Lemma>these be so simple to cook and healthy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I found a really good lentil soup recipe to use these in .</Tokens>
+		<POS>PRP VBD DT RB JJ NN NN NN TO VB DT IN .</POS>
+		<Lemma>I find a really good lentil soup recipe to use these in .</Lemma>
+	</Sentence>
+</Document>

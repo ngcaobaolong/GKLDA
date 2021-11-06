@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Product easy to use .</Tokens>
+		<POS>NN JJ TO VB .</POS>
+		<Lemma>product easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My only problem is that the cover could have been more sturdy .</Tokens>
+		<POS>PRP$ JJ NN VBZ IN DT NN MD VB VBN RBR JJ .</POS>
+		<Lemma>my only problem be that the cover could have be more sturdy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have not tried using it with the battery but I am very happy so far .</Tokens>
+		<POS>PRP VBP RB VBN VBG PRP IN DT NN CC PRP VBP RB JJ RB RB .</POS>
+		<Lemma>I have not try use it with the battery but I be very happy so far .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First of all , do n't be put off by the price .</Tokens>
+		<POS>NNP IN DT , VBP RB VB VBN RP IN DT NN .</POS>
+		<Lemma>First of all , do not be put off by the price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If you 've kept track of grocery store receipts lately or the sharp increase in basic foods over the last year , you may see how this product could save you time , gas and MONEY .</Tokens>
+		<POS>IN PRP VBP VBN NN IN NN NN NNS RB CC DT JJ NN IN JJ NNS IN DT JJ NN , PRP MD VB WRB DT NN MD VB PRP NN , NN CC NN .</POS>
+		<Lemma>if you have keep track of grocery store receipt lately or the sharp increase in basic food over the last year , you may see how this product could save you time , gas and money .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>At the time of this writing , it cost about $ 16.88 for four packages of this mix .</Tokens>
+		<POS>IN DT NN IN DT NN , PRP VBD IN $ CD IN CD NNS IN DT NN .</POS>
+		<Lemma>at the time of this writing , it cost about $ 16.88 for four package of this mix .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>EACH package easily serves 8-16 people with soup left over .</Tokens>
+		<POS>NN NN RB VBZ CD NNS IN NN VBD RP .</POS>
+		<Lemma>each package easily serve 8-16 people with soup leave over .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>While the instructions note to add 4 cups of water or a water and broth combo , we quickly discovered we had to double or even triple the liquid added .</Tokens>
+		<POS>IN DT NNS VBP TO VB CD NNS IN NN CC DT NN CC NN NN , PRP RB VBD PRP VBD TO VB CC RB JJ DT NN VBD .</POS>
+		<Lemma>while the instruction note to add 4 cup of water or a water and broth combo , we quickly discover we have to double or even triple the liquid add .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>No problem there , because we had more soup !</Tokens>
+		<POS>DT NN RB , IN PRP VBD RBR NN .</POS>
+		<Lemma>no problem there , because we have more soup !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you do n't have fresh veggies or spices around , this will suffice as is and it is thick and satisfying .</Tokens>
+		<POS>IN PRP VBP RB VB JJ NNS CC NNS RB , DT MD VB RB VBZ CC PRP VBZ JJ CC JJ .</POS>
+		<Lemma>if you do not have fresh veggy or spice around , this will suffice as be and it be thick and satisfying .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you garden , you 'll improve the taste by adding fresh chopped parsley , garlic and whatever veggies you want .</Tokens>
+		<POS>IN PRP VBP , PRP MD VB DT NN IN VBG JJ VBN NN , NN CC WDT NNS PRP VBP .</POS>
+		<Lemma>if you garden , you 'll improve the taste by add fresh chop parsley , garlic and whatever veggy you want .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>A can of tomatoes -LRB- or fresh , chopped ones -RRB- does no harm .</Tokens>
+		<POS>DT MD IN NNS -LRB- CC JJ , VBN NNS -RRB- VBZ DT NN .</POS>
+		<Lemma>a can of tomato -lrb- or fresh , chop one -rrb- do no harm .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is a mix you can play with , add ingredients and spices .</Tokens>
+		<POS>DT VBZ DT NN PRP MD VB IN , VB NNS CC NNS .</POS>
+		<Lemma>this be a mix you can play with , add ingredient and spice .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>IMPORTANT : this is not a salted mix .</Tokens>
+		<POS>JJ : DT VBZ RB DT JJ NN .</POS>
+		<Lemma>important : this be not a salted mix .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It is full of split peas , barley , lentils , whole wheat pasta , dehydrated spinach , tomato , onion , etc. .</Tokens>
+		<POS>PRP VBZ JJ IN NN NNS , NN , NNS , JJ NN NN , JJ NN , NN , NN , FW .</POS>
+		<Lemma>it be full of split pea , barley , lentil , whole wheat pasta , dehydrated spinach , tomato , onion , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If you do n't use salt , consider adding a salt substitute .</Tokens>
+		<POS>IN PRP VBP RB VB NN , VBP VBG DT NN NN .</POS>
+		<Lemma>if you do not use salt , consider add a salt substitute .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I also added basil .</Tokens>
+		<POS>PRP RB VBD NN .</POS>
+		<Lemma>I also add basil .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It was delightful , quick and is now a pantry staple .</Tokens>
+		<POS>PRP VBD JJ , JJ CC VBZ RB DT NN NN .</POS>
+		<Lemma>it be delightful , quick and be now a pantry staple .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Nutrition : 330 calories -LRB- 1\/2 cup -RRB- only 20 calories from fat .</Tokens>
+		<POS>NNP : CD NNS -LRB- CD NN -RRB- RB CD NNS IN NN .</POS>
+		<Lemma>Nutrition : 330 calorie -lrb- 1\/2 cup -rrb- only 20 calorie from fat .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Significant source of iron at 22 % of the Daily Value .</Tokens>
+		<POS>JJ NN IN NN IN CD NN IN DT NNP NNP .</POS>
+		<Lemma>significant source of iron at 22 % of the Daily Value .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Protein : 20 grams .</Tokens>
+		<POS>NN : CD NNS .</POS>
+		<Lemma>protein : 20 gram .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Fiber - 8 grams .</Tokens>
+		<POS>NN : CD NNS .</POS>
+		<Lemma>fiber - 8 gram .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Add some bread and you have a meal , rounded out with some greens , perhaps .</Tokens>
+		<POS>VB DT NN CC PRP VBP DT NN , VBD RP IN DT NNS , RB .</POS>
+		<Lemma>add some bread and you have a meal , round out with some green , perhaps .</Lemma>
+	</Sentence>
+</Document>

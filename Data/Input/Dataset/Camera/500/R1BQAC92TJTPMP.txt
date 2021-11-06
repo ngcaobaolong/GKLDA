@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera has worked great .</Tokens>
+		<POS>DT NN VBZ VBN JJ .</POS>
+		<Lemma>the camera have work great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>There are so many features that we are still learning how to use everything .</Tokens>
+		<POS>EX VBP RB JJ NNS IN PRP VBP RB VBG WRB TO VB NN .</POS>
+		<Lemma>there be so many feature that we be still learn how to use everything .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It takes great pics , is easy to use and does anything u could ever ask of a camera .</Tokens>
+		<POS>PRP VBZ JJ NNS , VBZ JJ TO VB CC VBZ NN NN MD RB VB IN DT NN .</POS>
+		<Lemma>it take great pic , be easy to use and do anything u could ever ask of a camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If your looking for a top of the line product with all the features this is the right buy .</Tokens>
+		<POS>IN PRP$ VBG IN DT NN IN DT NN NN IN PDT DT NNS DT VBZ DT JJ NN .</POS>
+		<Lemma>if you look for a top of the line product with all the feature this be the right buy .</Lemma>
+	</Sentence>
+</Document>

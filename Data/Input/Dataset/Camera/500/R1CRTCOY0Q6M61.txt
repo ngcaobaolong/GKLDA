@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera , for me , fits the bill .</Tokens>
+		<POS>DT NN , IN PRP , VBZ DT NN .</POS>
+		<Lemma>this camera , for I , fit the bill .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is inexpensive .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be inexpensive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It works .</Tokens>
+		<POS>PRP VBZ .</POS>
+		<Lemma>it work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>and it works with my mac .</Tokens>
+		<POS>CC PRP VBZ IN PRP$ NN .</POS>
+		<Lemma>and it work with my mac .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have imovie '08 and iphoto .</Tokens>
+		<POS>PRP VBP JJ CD CC NN .</POS>
+		<Lemma>I have imovie '08 and iphoto .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My mac is a 10.5.8 As soon as I got the camera I charged it -LRB- that takes a while -RRB- and then shot some footage .</Tokens>
+		<POS>PRP$ NN VBZ DT CD IN RB IN PRP VBD DT NN PRP VBD PRP -LRB- WDT VBZ DT NN -RRB- CC RB VBD DT NN .</POS>
+		<Lemma>my mac be a 10.5.8 as soon as I get the camera I charge it -lrb- that take a while -rrb- and then shoot some footage .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Then I plugged it into my mac using the usb cable that comes with the camera .</Tokens>
+		<POS>RB PRP VBD PRP IN PRP$ NN VBG DT NN NN WDT VBZ IN DT NN .</POS>
+		<Lemma>then I plug it into my mac use the usb cable that come with the camera .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This opened Iphoto and I downloaded it directly into iphoto .</Tokens>
+		<POS>DT VBD NNP CC PRP VBD PRP RB IN NN .</POS>
+		<Lemma>this open Iphoto and I download it directly into iphoto .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I played it and burned it from iphoto with ease .</Tokens>
+		<POS>PRP VBD PRP CC VBD PRP IN NN IN NN .</POS>
+		<Lemma>I play it and burn it from iphoto with ease .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Next I will try moving it from iphoto to imovie .</Tokens>
+		<POS>JJ PRP MD VB VBG PRP IN NN TO NN .</POS>
+		<Lemma>next I will try move it from iphoto to imovie .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Yes , it can be grainy at times in quality .</Tokens>
+		<POS>UH , PRP MD VB JJ IN NNS IN NN .</POS>
+		<Lemma>yes , it can be grainy at time in quality .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>But for the price , I am not complaining .</Tokens>
+		<POS>CC IN DT NN , PRP VBP RB VBG .</POS>
+		<Lemma>but for the price , I be not complain .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The one very bad thing is that battery is not removable .</Tokens>
+		<POS>DT CD RB JJ NN VBZ IN NN VBZ RB JJ .</POS>
+		<Lemma>the one very bad thing be that battery be not removable .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Once the battery is gone , your camera is gone .</Tokens>
+		<POS>RB DT NN VBZ VBN , PRP$ NN VBZ VBN .</POS>
+		<Lemma>once the battery be go , you camera be go .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>But again , for the price , ca n't complain .</Tokens>
+		<POS>CC RB , IN DT NN , MD RB VB .</POS>
+		<Lemma>but again , for the price , can not complain .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I also bought a bigger more expensive chip to put in it as I have read using the smaller chips can lead to freeze ups .</Tokens>
+		<POS>PRP RB VBD DT JJR RBR JJ NN TO VB IN PRP IN PRP VBP VBN VBG DT JJR NNS MD VB TO VB NNS .</POS>
+		<Lemma>I also buy a bigger more expensive chip to put in it as I have read use the smaller chip can lead to freeze up .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I got mine at bestbuy - it was cheaper than on amazon ... so shop around ...</Tokens>
+		<POS>PRP VBD NN IN NN : PRP VBD JJR IN IN NN : IN NN IN :</POS>
+		<Lemma>I get mine at bestbuy - it be cheaper than on amazon ... so shop around ...</Lemma>
+	</Sentence>
+</Document>

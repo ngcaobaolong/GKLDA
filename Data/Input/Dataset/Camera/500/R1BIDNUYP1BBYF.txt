@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a cute little camera -LRB- maybe even too little -RRB- but I felt the pictures were n't as sharp as they should be and took too long to take -LRB- hard to take of active kids -RRB- .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN -LRB- RB RB RB JJ -RRB- CC PRP VBD DT NNS VBD RB RB JJ IN PRP MD VB CC VBD RB JJ TO VB -LRB- JJ TO VB IN JJ NNS -RRB- .</POS>
+		<Lemma>this be a cute little camera -lrb- maybe even too little -rrb- but I feel the picture be not as sharp as they should be and take too long to take -lrb- hard to take of active kid -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I found the video sound quality to be poor -LRB- unless you were hoping to hear the lens zooming in and out -RRB- .</Tokens>
+		<POS>PRP VBD DT NN JJ NN TO VB JJ -LRB- IN PRP VBD VBG TO VB DT NN VBG IN CC IN -RRB- .</POS>
+		<Lemma>I find the video sound quality to be poor -lrb- unless you be hope to hear the lens zoom in and out -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I probably would have kept it b\/c I found some tricks to get the pictures to come out sharper and take faster and I already have an HD camcorder .</Tokens>
+		<POS>PRP RB MD VB VBN PRP NN PRP VBD DT NNS TO VB DT NNS TO VB RP JJR CC VB JJR CC PRP RB VBP DT NN NN .</POS>
+		<Lemma>I probably would have keep it b\/c I find some trick to get the picture to come out sharper and take faster and I already have a hd camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>HOWEVER , there was a defect - every picture taken at 7x or 8x zoom had a small dot on it very likely caused by dust inside the camera .</Tokens>
+		<POS>RB , EX VBD DT NN : DT NN VBN IN CD CC CD NN VBD DT JJ NN IN PRP RB RB VBN IN NN IN DT NN .</POS>
+		<Lemma>however , there be a defect - every picture take at 7x or 8x zoom have a small dot on it very likely cause by dust inside the camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Canon said I could send it in the be fixed but upon researching I saw other people found defects with the same camera -LRB- lens issues -RRB- , I did n't want to wait a month or more for the camera only to have it need more repair in the future so it went back .</Tokens>
+		<POS>NNP VBD PRP MD VB PRP IN DT VB VBN CC IN VBG PRP VBD JJ NNS VBD NNS IN DT JJ NN -LRB- NN NNS -RRB- , PRP VBD RB VB TO VB DT NN CC JJR IN DT NN RB TO VB PRP VB RBR NN IN DT NN IN PRP VBD RB .</POS>
+		<Lemma>Canon say I could send it in the be fix but upon research I see other people find defect with the same camera -lrb- lens issue -rrb- , I do not want to wait a month or more for the camera only to have it need more repair in the future so it go back .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I ordered the Sony Cybershot DSC-Hx7v as my second choice .</Tokens>
+		<POS>PRP VBD DT NNP NNP NN IN PRP$ JJ NN .</POS>
+		<Lemma>I order the Sony Cybershot dsc-hx7v as my second choice .</Lemma>
+	</Sentence>
+</Document>

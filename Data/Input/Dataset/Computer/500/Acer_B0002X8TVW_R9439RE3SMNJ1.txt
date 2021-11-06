@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this Acer 19 in LCD monitor for my wife , and she found that the text in small fonts is not clear .</Tokens>
+		<POS>PRP VBD DT NNP CD IN NNS VBP IN PRP$ NN , CC PRP VBD IN DT NN IN JJ NNS VBZ RB JJ .</POS>
+		<Lemma>I purchase this Acer 19 in lcd monitor for my wife , and she find that the text in small font be not clear .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It hurts eyes .</Tokens>
+		<POS>PRP VBZ NNS .</POS>
+		<Lemma>it hurt eye .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>So we decided to return it to seller</Tokens>
+		<POS>IN PRP VBD TO VB PRP TO NN</POS>
+		<Lemma>so we decide to return it to seller</Lemma>
+	</Sentence>
+</Document>

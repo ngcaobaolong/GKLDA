@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had purchased a more expensive item as I like to listen to the music on my phone while traveling .</Tokens>
+		<POS>PRP VBD VBN DT RBR JJ NN IN PRP VBP TO VB TO DT NN IN PRP$ NN IN VBG .</POS>
+		<Lemma>I have purchase a more expensive item as I like to listen to the music on my phone while travel .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>In less than a year it was not functioning well .</Tokens>
+		<POS>IN JJR IN DT NN PRP VBD RB VBG RB .</POS>
+		<Lemma>in less than a year it be not function well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This product however , cheaper but packed with functionality .</Tokens>
+		<POS>DT NN RB , JJR CC VBD IN NN .</POS>
+		<Lemma>this product however , cheaper but pack with functionality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Love that I can charge my phone , listen to music wirelessly , talk `` on the phone '' hands free , and charge several different phone brands with the flexsmart .</Tokens>
+		<POS>NN IN PRP MD VB PRP$ NN , VBP TO NN RB , NN `` IN DT NN '' NNS JJ , CC VB JJ JJ NN NNS IN DT NN .</POS>
+		<Lemma>love that I can charge my phone , listen to music wirelessly , talk `` on the phone '' hand free , and charge several different phone brand with the flexsmart .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have not had it very long but I sure am enjoying it .</Tokens>
+		<POS>PRP VBP RB VBN PRP RB RB CC PRP RB VBP VBG PRP .</POS>
+		<Lemma>I have not have it very long but I sure be enjoy it .</Lemma>
+	</Sentence>
+</Document>

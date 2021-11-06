@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After reading about Monsanto and all the GM products -LRB- genetically modified to resist the pesticide Roundup -RRB- , I am happy to find Organic -LRB- non-GM -RRB- popcorn from Amazon .</Tokens>
+		<POS>IN VBG IN NNP CC PDT DT NNP NNS -LRB- RB VBN TO VB DT NN NN -RRB- , PRP VBP JJ TO VB NNP -LRB- JJ -RRB- NN IN NNP .</POS>
+		<Lemma>after read about Monsanto and all the GM product -lrb- genetically modify to resist the pesticide roundup -rrb- , I be happy to find Organic -lrb- non-gm -rrb- popcorn from Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I received it promptly and gave it to my son for Christmas with an Air popper I also purchased from Amazon .</Tokens>
+		<POS>PRP VBD PRP RB CC VBD PRP TO PRP$ NN IN NNP IN DT NNP NN NN RB VBD IN NNP .</POS>
+		<Lemma>I receive it promptly and give it to my son for Christmas with a Air popper i also purchase from Amazon .</Lemma>
+	</Sentence>
+</Document>

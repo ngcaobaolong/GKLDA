@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought one recently .</Tokens>
+		<POS>PRP VBD CD RB .</POS>
+		<Lemma>I buy one recently .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After Cisco decided to discontinue the entire line .</Tokens>
+		<POS>IN NNP VBD TO VB DT JJ NN .</POS>
+		<Lemma>after Cisco decide to discontinue the entire line .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I know several people who own one and they all liked theirs .</Tokens>
+		<POS>PRP VBP JJ NNS WP VBP CD CC PRP DT VBD PRP .</POS>
+		<Lemma>I know several people who own one and they all like theirs .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So far I have been impressed with the overall quality , and ease of use .</Tokens>
+		<POS>RB RB PRP VBP VBN VBN IN DT JJ NN , CC NN IN NN .</POS>
+		<Lemma>so far I have be impress with the overall quality , and ease of use .</Lemma>
+	</Sentence>
+</Document>

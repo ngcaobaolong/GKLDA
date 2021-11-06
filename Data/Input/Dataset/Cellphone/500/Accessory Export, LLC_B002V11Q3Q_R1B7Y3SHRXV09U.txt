@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works fine as far as cables go .</Tokens>
+		<POS>NNP NN IN RB IN NNS VBP .</POS>
+		<Lemma>Works fine as far as cable go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does n't wash windows or anything else .</Tokens>
+		<POS>PRP VBZ RB VB NNS CC NN RB .</POS>
+		<Lemma>it do not wash window or anything else .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was very happy with this camcorder .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NN .</POS>
+		<Lemma>I be very happy with this camcorder .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've only used it a few times , but I 'm pretty impressed !</Tokens>
+		<POS>PRP VBP RB VBN PRP DT JJ NNS , CC PRP VBP RB JJ .</POS>
+		<Lemma>I have only use it a few time , but I be pretty impressed !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I used it to tape Karate testing that was indoors with too much back-lighting .</Tokens>
+		<POS>PRP VBD PRP TO NN NN NN WDT VBD RB IN RB JJ NN .</POS>
+		<Lemma>I use it to tape karate testing that be indoors with too much back-lighting .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The action was captured well , and even with the excessive back-lighting coming in from the windows behind my subject , I could see him just fine !!</Tokens>
+		<POS>DT NN VBD VBN RB , CC RB IN DT JJ NN VBG IN IN DT NNS IN PRP$ NN , PRP MD VB PRP RB JJ NN</POS>
+		<Lemma>the action be capture well , and even with the excessive back-lighting come in from the window behind my subject , I could see he just fine !!</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The microphone did a good job picking up everything that was going on , too !</Tokens>
+		<POS>DT NN VBD DT JJ NN VBG RP NN WDT VBD VBG IN , RB .</POS>
+		<Lemma>the microphone do a good job pick up everything that be go on , too !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This camcorder performed way better than I expected for the price I paid !</Tokens>
+		<POS>DT NN VBD RB JJR IN PRP VBD IN DT NN PRP VBD .</POS>
+		<Lemma>this camcorder perform way better than I expect for the price I pay !</Lemma>
+	</Sentence>
+</Document>

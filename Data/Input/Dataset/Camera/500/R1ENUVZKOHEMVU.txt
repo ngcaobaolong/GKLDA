@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What amazing pictures .</Tokens>
+		<POS>WDT JJ NNS .</POS>
+		<Lemma>what amazing picture .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It has been a long time since I owed such a great product .</Tokens>
+		<POS>PRP VBZ VBN DT JJ NN IN PRP VBD PDT DT JJ NN .</POS>
+		<Lemma>it have be a long time since I owe such a great product .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Pictures are clear almost always do to the built in stabilizer .</Tokens>
+		<POS>NNS VBP JJ RB RB VBP TO DT VBN IN NN .</POS>
+		<Lemma>picture be clear almost always do to the build in stabilizer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great videos also .</Tokens>
+		<POS>JJ NNS RB .</POS>
+		<Lemma>great video also .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was sceptical at first with the one negitive review , but I am very glad I decided to get this monitor .</Tokens>
+		<POS>PRP VBD JJ IN JJ IN DT CD JJ NN , CC PRP VBP RB JJ PRP VBD TO VB DT NN .</POS>
+		<Lemma>I be sceptical at first with the one negitive review , but I be very glad I decide to get this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No dead pixels , very bright , clear and crisp and a great price .</Tokens>
+		<POS>DT JJ NNS , RB JJ , JJ CC JJ CC DT JJ NN .</POS>
+		<Lemma>no dead pixel , very bright , clear and crisp and a great price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There is no ghosting in games at all .</Tokens>
+		<POS>EX VBZ DT NN IN NNS IN DT .</POS>
+		<Lemma>there be no ghosting in game at all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You do n't have to worry about image brun since the monitor will put itself into a standby mode .</Tokens>
+		<POS>PRP VBP RB VB TO VB IN NN NN IN DT NN MD VB PRP IN DT JJ NN .</POS>
+		<Lemma>you do not have to worry about image brun since the monitor will put itself into a standby mode .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It truly gives me a new way of computing .</Tokens>
+		<POS>PRP RB VBZ PRP DT JJ NN IN NN .</POS>
+		<Lemma>it truly give I a new way of computing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>MUST BUY A + !</Tokens>
+		<POS>NNP NNP NN CC .</POS>
+		<Lemma>MUST BUY a + !</Lemma>
+	</Sentence>
+</Document>

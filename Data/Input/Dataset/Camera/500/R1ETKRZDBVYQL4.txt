@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My point-and-shoots continually frustrated me with low-light performance .</Tokens>
+		<POS>PRP$ NNS RB VBD PRP IN JJ NN .</POS>
+		<Lemma>my point-and-shoot continually frustrate I with low-light performance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Having decided to upgrade to a dslr-size sensor , I promised myself to learn the difference between aperture and ISO and I bought this camera .</Tokens>
+		<POS>VBG VBN TO VB TO DT JJ NN , PRP VBD PRP TO VB DT NN IN NN CC NN CC PRP VBD DT NN .</POS>
+		<Lemma>have decide to upgrade to a dslr-size sensor , I promise myself to learn the difference between aperture and iso and I buy this camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am thrilled !</Tokens>
+		<POS>PRP VBP VBN .</POS>
+		<Lemma>I be thrill !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The pictures without flash -LRB- including auto HDR and anti-shake -RRB- are beautiful .</Tokens>
+		<POS>DT NNS IN NN -LRB- VBG NN NN CC NN -RRB- VBP JJ .</POS>
+		<Lemma>the picture without flash -lrb- include auto hdr and anti-shake -rrb- be beautiful .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm barely scratching the surface of what this can do , I know , but right now everything is happy .</Tokens>
+		<POS>PRP VBP RB VBG DT NN IN WP DT MD VB , PRP VBP , CC RB RB NN VBZ JJ .</POS>
+		<Lemma>I be barely scratch the surface of what this can do , I know , but right now everything be happy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Pros : lighter than comparable dSLRs , great thumb grip , sensor switches automatically between viewfinder and screen when you hold it up to your face .</Tokens>
+		<POS>NNS : JJR IN JJ NNS , JJ NN NN , NN VBZ RB IN NN CC NN WRB PRP VBP PRP RP TO PRP$ NN .</POS>
+		<Lemma>pro : lighter than comparable dslr , great thumb grip , sensor switch automatically between viewfinder and screen when you hold it up to you face .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Cons : still heavy , 18-55 lens makes the camera too big for my purse , panorama mode requires steadier hands than I have .</Tokens>
+		<POS>NNS : RB JJ , CD NN VBZ DT NN RB JJ IN PRP$ NN , NN NN VBZ JJR NNS IN PRP VBP .</POS>
+		<Lemma>con : still heavy , 18-55 lens make the camera too big for my purse , panorama mode require steadier hand than I have .</Lemma>
+	</Sentence>
+</Document>

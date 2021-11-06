@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Well , after having my CRT motor for 15 years I decided to upgrade my desktop 's monitor .</Tokens>
+		<POS>RB , IN VBG PRP$ NNP NN IN CD NNS PRP VBD TO VB PRP$ NN POS NN .</POS>
+		<Lemma>well , after have my CRT motor for 15 year I decide to upgrade my desktop 's monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was in a bit of a pickle trying to choose a good monitor for a relatively low price .</Tokens>
+		<POS>PRP VBD IN DT NN IN DT NN VBG TO VB DT JJ NN IN DT RB JJ NN .</POS>
+		<Lemma>I be in a bit of a pickle try to choose a good monitor for a relatively low price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I bought this from MicroCenter actually and not from Amazon , but it 's still the same monitor regardless of the seller .</Tokens>
+		<POS>PRP VBD DT IN NNP RB CC RB IN NNP , CC PRP VBZ RB DT JJ NN RB IN DT NN .</POS>
+		<Lemma>I buy this from MicroCenter actually and not from Amazon , but it be still the same monitor regardless of the seller .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I decided upon this one and it is just great .</Tokens>
+		<POS>PRP VBD IN DT CD CC PRP VBZ RB JJ .</POS>
+		<Lemma>I decide upon this one and it be just great .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The screen is clear , bright , and crisp .</Tokens>
+		<POS>DT NN VBZ JJ , JJ , CC JJ .</POS>
+		<Lemma>the screen be clear , bright , and crisp .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The colors are also well-balanced , which may be a subjective observation .</Tokens>
+		<POS>DT NNS VBP RB JJ , WDT MD VB DT JJ NN .</POS>
+		<Lemma>the color be also well-balanced , which may be a subjective observation .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Great picture .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great picture .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is no halo , as I 've experienced no leakage of the backlight from the frame .</Tokens>
+		<POS>EX VBZ DT NN , IN PRP VBP VBN DT NN IN DT NN IN DT NN .</POS>
+		<Lemma>there be no halo , as I have experience no leakage of the backlight from the frame .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The monitor itself is nice and light but still sturdy .</Tokens>
+		<POS>DT NN PRP VBZ JJ CC JJ CC RB JJ .</POS>
+		<Lemma>the monitor itself be nice and light but still sturdy .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It responds quickly after turning it on and there are no dead or stuck pixels .</Tokens>
+		<POS>PRP VBZ RB IN VBG PRP IN CC EX VBP DT JJ CC JJ NNS .</POS>
+		<Lemma>it respond quickly after turn it on and there be no dead or stuck pixel .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The menu options are pretty standard , but Acer does offer a extra feature or two concerning viewing quality , ease of adjustments , and energy saving options .</Tokens>
+		<POS>DT NN NNS VBP RB JJ , CC NNP VBZ VB DT JJ NN CC CD VBG VBG NN , NN IN NNS , CC NN NN NNS .</POS>
+		<Lemma>the menu option be pretty standard , but Acer do offer a extra feature or two concern view quality , ease of adjustment , and energy saving option .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It 's not like I 've never seen or used another LCD monitor before , it 's just that I 've never owned one besides the one on my tablet pc .</Tokens>
+		<POS>PRP VBZ RB IN PRP VBP RB VBN CC VBN DT NNS VBP RB , PRP VBZ RB IN PRP VBP RB VBN CD IN DT CD IN PRP$ NN NN .</POS>
+		<Lemma>it be not like I have never see or use another lcd monitor before , it be just that I have never own one besides the one on my tablet pc .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Overall , and excellent product and an equally excellent buy .</Tokens>
+		<POS>RB , CC JJ NN CC DT RB JJ NN .</POS>
+		<Lemma>overall , and excellent product and a equally excellent buy .</Lemma>
+	</Sentence>
+</Document>

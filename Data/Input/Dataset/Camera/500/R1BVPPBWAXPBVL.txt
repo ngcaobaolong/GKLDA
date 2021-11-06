@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I `` m sorry that I do n't have more energy to write a better review , however if you are looking for a great point and shoot that wo n't break the budget please get the H70 while they are still around .</Tokens>
+		<POS>PRP `` NN JJ IN PRP VBP RB VB JJR NN TO VB DT JJR NN , RB IN PRP VBP VBG IN DT JJ NN CC VB IN MD RB VB DT NN VB VB DT NN IN PRP VBP RB RB .</POS>
+		<Lemma>I `` m sorry that I do not have more energy to write a better review , however if you be look for a great point and shoot that will not break the budget please get the h70 while they be still around .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If not , it 's replacement the H90 would be a fine substitute .</Tokens>
+		<POS>IN RB , PRP VBZ NN DT NN MD VB DT JJ NN .</POS>
+		<Lemma>if not , it be replacement the h90 would be a fine substitute .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The DSC-H70 is actually a 2011 model that is still being sold -LRB- NEW -RRB- by Amazon and their partners that still have them in stock .</Tokens>
+		<POS>DT NN VBZ RB DT CD NN WDT VBZ RB VBG VBN -LRB- NNP -RRB- IN NNP CC PRP$ NNS WDT RB VBP PRP IN NN .</POS>
+		<Lemma>the dsc-h70 be actually a 2011 model that be still be sell -lrb- NEW -rrb- by Amazon and they partner that still have they in stock .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>While this was a $ 229 - $ 249 camera last year -LRB- the current price of the H90 -RRB- , I snagged it for just shy of $ 175 .</Tokens>
+		<POS>IN DT VBD DT $ CD : $ CD NN JJ NN -LRB- DT JJ NN IN DT NN -RRB- , PRP VBD PRP IN RB JJ IN $ CD .</POS>
+		<Lemma>while this be a $ 229 - $ 249 camera last year -lrb- the current price of the h90 -rrb- , I snag it for just shy of $ 175 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can buy it from one of Amazon 's partner stores so long as it is new in box .</Tokens>
+		<POS>PRP MD VB PRP IN CD IN NNP POS NN NNS RB RB IN PRP VBZ JJ IN NN .</POS>
+		<Lemma>you can buy it from one of Amazon 's partner store so long as it be new in box .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I was also able to add the Square Trade warranty to my camera with damage protection at a very reasonable price -LRB- about $ 40 -RRB- .</Tokens>
+		<POS>PRP VBD RB JJ TO VB DT NNP NNP NN TO PRP$ NN IN NN NN IN DT RB JJ NN -LRB- IN $ CD -RRB- .</POS>
+		<Lemma>I be also able to add the Square Trade warranty to my camera with damage protection at a very reasonable price -lrb- about $ 40 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The H70 does not have a very powerful zoom but when it is engaged the pictures are still very accurate .</Tokens>
+		<POS>DT NN VBZ RB VB DT RB JJ NN CC WRB PRP VBZ VBN DT NNS VBP RB RB JJ .</POS>
+		<Lemma>the h70 do not have a very powerful zoom but when it be engage the picture be still very accurate .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Leaving the flash in Auto mode -LRB- called Intelligent Auto -RRB- seems to allow for the capture of just the right amount of light .</Tokens>
+		<POS>VBG DT NN IN NN NN -LRB- VBN JJ NN -RRB- VBZ TO VB IN DT NN IN RB DT JJ NN IN NN .</POS>
+		<Lemma>leave the flash in auto mode -lrb- call intelligent auto -rrb- seem to allow for the capture of just the right amount of light .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have not tried this cam in a room that is completely dark yet .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN DT NN WDT VBZ RB JJ RB .</POS>
+		<Lemma>I have not try this cam in a room that be completely dark yet .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>There are a lot of technology critics who will say the best point and shoot is on the iPhone 4s , but some of you are probably like me and do not want to have to pay $ 100 a month just to use a camera .</Tokens>
+		<POS>EX VBP DT NN IN NN NNS WP MD VB DT JJS NN CC NN VBZ IN DT NNP NNS , CC DT IN PRP VBP RB IN PRP CC VB RB VB TO VB TO VB $ CD DT NN RB TO VB DT NN .</POS>
+		<Lemma>there be a lot of technology critic who will say the best point and shoot be on the iPhone 4 , but some of you be probably like I and do not want to have to pay $ 100 a month just to use a camera .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Do n't kid yourself this camera is not a DSLR or the higher end Canon S95 .</Tokens>
+		<POS>VBP RB NN PRP DT NN VBZ RB DT NN CC DT JJR NN NNP NNP .</POS>
+		<Lemma>do not kid yourself this camera be not a dslr or the higher end Canon S95 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>However , I am VERY satisfied with this model and would recommend the H70\/H90 to anyone .</Tokens>
+		<POS>RB , PRP VBP RB VBN IN DT NN CC MD VB DT NN TO NN .</POS>
+		<Lemma>however , I be very satisfy with this model and would recommend the h70\/h90 to anyone .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Picture stability \/ auto focus is amazing .</Tokens>
+		<POS>NNP NN : NN NN VBZ JJ .</POS>
+		<Lemma>Picture stability \/ auto focus be amazing .</Lemma>
+	</Sentence>
+</Document>

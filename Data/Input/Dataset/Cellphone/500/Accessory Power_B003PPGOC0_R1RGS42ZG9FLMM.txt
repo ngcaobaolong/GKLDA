@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This worked great with my iPhone 3GS , but my iPhone 4s is another story .</Tokens>
+		<POS>DT VBD JJ IN PRP$ NNP NNP , CC PRP$ NNP NNS VBZ DT NN .</POS>
+		<Lemma>this work great with my iPhone 3GS , but my iPhone 4 be another story .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does n't seem to recognize that the is a Bluetooth device in the area .</Tokens>
+		<POS>PRP VBZ RB VB TO VB IN DT VBZ DT NNP NN IN DT NN .</POS>
+		<Lemma>it do not seem to recognize that the be a Bluetooth device in the area .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It finds my other Bluetooth devices just fine , but this one does n't register .</Tokens>
+		<POS>PRP VBZ PRP$ JJ NNP NNS RB JJ , CC DT CD VBZ RB VB .</POS>
+		<Lemma>it find my other Bluetooth device just fine , but this one do not register .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have tried power cycling both theis device and the phone .</Tokens>
+		<POS>PRP VBP VBN NN NN CC NN NN CC DT NN .</POS>
+		<Lemma>I have try power cycling both thei device and the phone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've tried using my wife 's phone -LRB- 4s as well -RRB- .</Tokens>
+		<POS>PRP VBP VBN VBG PRP$ NN POS NN -LRB- NNS RB RB -RRB- .</POS>
+		<Lemma>I have try use my wife 's phone -lrb- 4 as well -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We have iOS 5.0.1 .</Tokens>
+		<POS>PRP VBP NNP CD .</POS>
+		<Lemma>we have iOS 5.0.1 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have seen other posts saying it works for the 4S , but I have two examples for which that is n't true .</Tokens>
+		<POS>PRP VBP VBN JJ NNS VBG PRP VBZ IN DT NN , CC PRP VBP CD NNS IN WDT WDT VBZ RB JJ .</POS>
+		<Lemma>I have see other post say it work for the 4 , but I have two example for which that be not true .</Lemma>
+	</Sentence>
+</Document>

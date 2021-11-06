@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased three of this item to have them handy for travel and in the car .</Tokens>
+		<POS>PRP VBD CD IN DT NN TO VB PRP JJ IN NN CC IN DT NN .</POS>
+		<Lemma>I purchase three of this item to have they handy for travel and in the car .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After two weeks one pulled apart and another does not always connect as expected so my phone does not charge .</Tokens>
+		<POS>IN CD NNS CD VBD RB CC DT VBZ RB RB VB IN VBN RB PRP$ NN VBZ RB VB .</POS>
+		<Lemma>after two week one pull apart and another do not always connect as expect so my phone do not charge .</Lemma>
+	</Sentence>
+</Document>

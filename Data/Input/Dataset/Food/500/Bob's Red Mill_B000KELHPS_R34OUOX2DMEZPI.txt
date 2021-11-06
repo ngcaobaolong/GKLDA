@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been gluten free for over 10 years , and have reluctantly tried every bread you can buy .</Tokens>
+		<POS>PRP VBP VBN VBN JJ IN IN CD NNS , CC VBP RB VBN DT NN PRP MD VB .</POS>
+		<Lemma>I have be gluten free for over 10 year , and have reluctantly try every bread you can buy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is by far the best bread I have ever tasted .</Tokens>
+		<POS>DT VBZ IN RB DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>this be by far the best bread I have ever taste .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has flavor and texture , it toasts well and freezes great too .</Tokens>
+		<POS>PRP VBZ NN CC NN , PRP VBZ RB CC VBZ JJ RB .</POS>
+		<Lemma>it have flavor and texture , it toast well and freeze great too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I slice it thin and freeze for sandwiches , then take out what I need for lunch .</Tokens>
+		<POS>PRP VBP PRP JJ CC NN IN NNS , RB VB RP WP PRP VBP IN NN .</POS>
+		<Lemma>I slice it thin and freeze for sandwich , then take out what I need for lunch .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>At work I pop it in the toaster to warm it up and I have a wonderful sandwich .</Tokens>
+		<POS>IN NN PRP VBP PRP IN DT NN TO VB PRP RB CC PRP VBP DT JJ NN .</POS>
+		<Lemma>at work I pop it in the toaster to warm it up and I have a wonderful sandwich .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Something I have n't had in years .</Tokens>
+		<POS>NN PRP VBP RB VBN IN NNS .</POS>
+		<Lemma>something I have not have in year .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I add extra sesame seeds to the mix .</Tokens>
+		<POS>PRP VBP JJ NN NNS TO DT NN .</POS>
+		<Lemma>I add extra sesame seed to the mix .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I make this in my Zojirushi bread machine on a gluten free bread pre-programmed cycle .</Tokens>
+		<POS>PRP VBP DT IN PRP$ NNP NN NN IN DT NN JJ NN JJ NN .</POS>
+		<Lemma>I make this in my Zojirushi bread machine on a gluten free bread pre-programmed cycle .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Perfect loaf every time .</Tokens>
+		<POS>NNP NN DT NN .</POS>
+		<Lemma>Perfect loaf every time .</Lemma>
+	</Sentence>
+</Document>

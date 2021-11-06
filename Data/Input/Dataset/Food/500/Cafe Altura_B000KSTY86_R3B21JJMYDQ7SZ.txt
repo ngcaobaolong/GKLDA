@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>my husband and I have been drinking this coffee for about a year .</Tokens>
+		<POS>PRP$ NN CC PRP VBP VBN VBG DT NN IN IN DT NN .</POS>
+		<Lemma>my husband and I have be drink this coffee for about a year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's full bodied and rich .</Tokens>
+		<POS>PRP VBZ JJ VBN CC JJ .</POS>
+		<Lemma>it be full body and rich .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And amazon 's subscribe and save program makes it very affordable .</Tokens>
+		<POS>CC NN POS VB CC VB NN VBZ PRP RB JJ .</POS>
+		<Lemma>and amazon 's subscribe and save program make it very affordable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Plus , we never run out of coffee !</Tokens>
+		<POS>NN , PRP RB VBP IN IN NN .</POS>
+		<Lemma>plus , we never run out of coffee !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works great for a while , but after a few months it does n't work anymore .</Tokens>
+		<POS>NNP JJ IN DT NN , CC IN DT JJ NNS PRP VBZ RB VB RB .</POS>
+		<Lemma>Works great for a while , but after a few month it do not work anymore .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The signal is extremely weak , I have to crank my radio volume up to extremely loud to get a decent volume out of this .</Tokens>
+		<POS>DT NN VBZ RB JJ , PRP VBP TO VB PRP$ NN NN IN TO RB JJ TO VB DT JJ NN IN IN DT .</POS>
+		<Lemma>the signal be extremely weak , I have to crank my radio volume up to extremely loud to get a decent volume out of this .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is annoying when I have to switch channel on the radio and it almost always gives me a heart attack with the loud volume .</Tokens>
+		<POS>DT VBZ JJ WRB PRP VBP TO VB NN IN DT NN CC PRP RB RB VBZ PRP DT NN NN IN DT JJ NN .</POS>
+		<Lemma>this be annoying when I have to switch channel on the radio and it almost always give I a heart attack with the loud volume .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Worse yet , now the signal out is so bad it 's extremely staticky .</Tokens>
+		<POS>JJR RB , RB DT NN RP VBZ RB JJ PRP VBZ RB JJ .</POS>
+		<Lemma>worse yet , now the signal out be so bad it be extremely staticky .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The one solution I noticed is when I put my hand very near or touch the device , that removes all the static .</Tokens>
+		<POS>DT CD NN PRP VBD VBZ WRB PRP VBP PRP$ NN RB IN CC VB DT NN , WDT VBZ PDT DT JJ .</POS>
+		<Lemma>the one solution I notice be when I put my hand very near or touch the device , that remove all the static .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Do n't ask me why .</Tokens>
+		<POS>VBP RB VB PRP WRB .</POS>
+		<Lemma>do not ask I why .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But this is also extremely annoying because I 'm forced to drive with 1 hand if I wanna listen to music .</Tokens>
+		<POS>CC DT VBZ RB RB JJ IN PRP VBP VBN TO VB IN CD NN IN PRP VBP VB TO NN .</POS>
+		<Lemma>but this be also extremely annoying because I be force to drive with 1 hand if I wanna listen to music .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>And the moment my hand lets go for a bit the damn thing becomes staticky again .</Tokens>
+		<POS>CC DT NN PRP$ NN VBZ VB IN DT NN DT JJ NN VBZ JJ RB .</POS>
+		<Lemma>and the moment my hand let go for a bit the damn thing become staticky again .</Lemma>
+	</Sentence>
+</Document>

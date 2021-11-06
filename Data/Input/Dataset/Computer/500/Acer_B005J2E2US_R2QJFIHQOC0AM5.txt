@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>this is the slowest worst computer i have ever had in my life , it freezes all the time , slower than a turtle , too small , i wish i can take this useless thing back .</Tokens>
+		<POS>DT VBZ DT JJS JJS NN FW VBP RB VBN IN PRP$ NN , PRP VBZ PDT DT NN , JJR IN DT NN , RB JJ , FW NN FW MD VB DT JJ NN RB .</POS>
+		<Lemma>this be the slowest worst computer i have ever have in my life , it freeze all the time , slower than a turtle , too small , i wish i can take this useless thing back .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>dont rush into buying a computer !</Tokens>
+		<POS>JJ NN IN VBG DT NN .</POS>
+		<Lemma>dont rush into buy a computer !</Lemma>
+	</Sentence>
+</Document>

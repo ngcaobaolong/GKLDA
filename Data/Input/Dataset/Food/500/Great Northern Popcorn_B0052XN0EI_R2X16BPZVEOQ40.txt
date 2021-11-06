@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is cheaper than generic at the store , but pops as good or better than Reddenbacher .</Tokens>
+		<POS>DT NN VBZ JJR IN JJ IN DT NN , CC VBZ RB JJ CC JJR IN NNP .</POS>
+		<Lemma>this popcorn be cheaper than generic at the store , but pop as good or better than Reddenbacher .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After doing 5 pans , I am still having to take it off the burner early because the lid is an inch over the pan !</Tokens>
+		<POS>IN VBG CD NNS , PRP VBP RB VBG TO VB PRP IN DT NN RB IN DT NN VBZ DT NN IN DT NN .</POS>
+		<Lemma>after do 5 pan , I be still have to take it off the burner early because the lid be a inch over the pan !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm adding too many kernels out of habit .</Tokens>
+		<POS>PRP VBP VBG RB JJ NNS IN IN NN .</POS>
+		<Lemma>I be add too many kernel out of habit .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The oil I have been using is <a href="http://www.amazon.com/gp/product/B003NCEATE/ref=cm_cr_asin_lnk/176-3185358-0505029"> Wabash Valley Farms Real Theater Popcorn Popping Oil , 16-Ounce Jars -LRB- Pack of 3 -RRB- </a> It 's super yummy !</Tokens>
+		<POS>DT NN PRP VBP VBN VBG VBZ JJ NNP NNP NNPS NNP NNP NNP NNP NNP , NNP NNP -LRB- NN IN CD -RRB- JJ PRP VBZ JJ JJ .</POS>
+		<Lemma>the oil I have be use be <a href="http://www.amazon.com/gp/product/b003nceate/ref=cm_cr_asin_lnk/176-3185358-0505029"> Wabash Valley Farms Real Theater Popcorn Popping Oil , 16-Ounce Jars -lrb- pack of 3 -rrb- </a> it be super yummy !</Lemma>
+	</Sentence>
+</Document>

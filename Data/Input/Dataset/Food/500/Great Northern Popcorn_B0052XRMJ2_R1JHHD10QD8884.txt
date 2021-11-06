@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>it woks fine for your average poping - better than the crap store bought bags , but not as good as Orville Red 's I would probably purchase again , but its lasting pretty long .</Tokens>
+		<POS>PRP VBZ NN IN PRP$ JJ NN : JJR IN DT NN NN VBD NNS , CC RB RB JJ IN NNP NNP POS PRP MD RB VB RB , CC PRP$ JJ RB RB .</POS>
+		<Lemma>it wok fine for you average poping - better than the crap store buy bag , but not as good as Orville Red 's I would probably purchase again , but its lasting pretty long .</Lemma>
+	</Sentence>
+</Document>

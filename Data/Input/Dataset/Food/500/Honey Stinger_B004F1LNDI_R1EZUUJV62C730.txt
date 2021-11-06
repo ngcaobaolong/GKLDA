@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>They taste good and in nice little individual packages so you can take them with you anywhere you go .</Tokens>
+		<POS>PRP VBP JJ CC IN JJ JJ JJ NNS IN PRP MD VB PRP IN PRP RB PRP VBP .</POS>
+		<Lemma>they taste good and in nice little individual package so you can take they with you anywhere you go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Have not tried the vanilla version , but i am hooked .</Tokens>
+		<POS>VBP RB VBN DT NN NN , CC FW VBP JJ .</POS>
+		<Lemma>have not try the vanilla version , but i be hooked .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are moist and soft , you can see the honey , dont we all eat with our eyes first ?</Tokens>
+		<POS>PRP VBP JJ CC JJ , PRP MD VB DT NN , NN PRP DT VBP IN PRP$ NNS RB .</POS>
+		<Lemma>they be moist and soft , you can see the honey , dont we all eat with we eye first ?</Lemma>
+	</Sentence>
+</Document>

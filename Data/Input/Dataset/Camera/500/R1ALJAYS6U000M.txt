@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So simple to use and give the best picture from the first moment .</Tokens>
+		<POS>RB JJ TO VB CC VB DT JJS NN IN DT JJ NN .</POS>
+		<Lemma>so simple to use and give the best picture from the first moment .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recommended .</Tokens>
+		<POS>PRP VBD .</POS>
+		<Lemma>I recommend .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This camera is very friendly to use , and at the same time allow to make picutres on good quality on momnets that is require pro equipment .</Tokens>
+		<POS>DT NN VBZ RB JJ TO VB , CC IN DT JJ NN VB TO VB NNS IN JJ NN IN NNS WDT VBZ VB JJ NN .</POS>
+		<Lemma>this camera be very friendly to use , and at the same time allow to make picutre on good quality on momnet that be require pro equipment .</Lemma>
+	</Sentence>
+</Document>

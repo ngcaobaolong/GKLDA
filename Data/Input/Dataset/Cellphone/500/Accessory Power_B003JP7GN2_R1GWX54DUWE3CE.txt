@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Amazon , Newegg and others offer this charger .</Tokens>
+		<POS>NNP , NNP CC NNS VBP DT NN .</POS>
+		<Lemma>Amazon , Newegg and other offer this charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Both sites list compatible devices including the Samsung Galaxy Tab .</Tokens>
+		<POS>DT NNS NN JJ NNS VBG DT NNP NNP NNP .</POS>
+		<Lemma>both site list compatible device include the Samsung Galaxy Tab .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Ordered based on good reviews but when I rec 'd it , not only did the plug not fit the tab the mfgr stated its not designed to charge or power tablets rather `` small cell phones and mp3 players '' .</Tokens>
+		<POS>VBN VBN IN JJ NNS CC WRB PRP NN MD PRP , RB RB VBD DT NN RB VB DT NN DT NN VBD PRP$ RB VBN TO VB CC NN NNS RB `` JJ NN NNS CC NN NNS '' .</POS>
+		<Lemma>order base on good review but when I rec would it , not only do the plug not fit the tab the mfgr state its not design to charge or power tablet rather `` small cell phone and mp3 player '' .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Any device requiring more than 5 volts is SOL .</Tokens>
+		<POS>DT NN VBG JJR IN CD NNS VBZ NNP .</POS>
+		<Lemma>any device require more than 5 volt be SOL .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Sending back to Amazon .</Tokens>
+		<POS>VBG RB TO NNP .</POS>
+		<Lemma>send back to Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Great idea , poor communication of compatible devices .</Tokens>
+		<POS>JJ NN , JJ NN IN JJ NNS .</POS>
+		<Lemma>great idea , poor communication of compatible device .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Caveat Emptor ... Hex</Tokens>
+		<POS>NN NNP : NNP</POS>
+		<Lemma>caveat Emptor ... Hex</Lemma>
+	</Sentence>
+</Document>

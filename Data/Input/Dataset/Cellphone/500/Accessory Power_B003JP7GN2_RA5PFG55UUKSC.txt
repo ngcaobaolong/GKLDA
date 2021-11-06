@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this item from Accessory Genie and I just wanted to let them know them know that this device has worked out like a charm .</Tokens>
+		<POS>PRP VBD DT NN IN NNP NNP CC PRP RB VBD TO VB PRP VB PRP VB IN DT NN VBZ VBN RP IN DT NN .</POS>
+		<Lemma>I buy this item from Accessory Genie and I just want to let they know they know that this device have work out like a charm .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I carry it with me where ever I go , because it lets me charge several devices and it also has the automobile cigarette lighter insert , which I use almost every day while I buzz from errand to errand .</Tokens>
+		<POS>PRP VBP PRP IN PRP WRB RB PRP VBP , IN PRP VBZ PRP VB JJ NNS CC PRP RB VBZ DT NN NN JJR NN , WDT PRP VBP RB DT NN IN PRP VBP IN NN TO NN .</POS>
+		<Lemma>I carry it with I where ever I go , because it let I charge several device and it also have the automobile cigarette lighter insert , which I use almost every day while I buzz from errand to errand .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is a very useful item , and I am glad that I bought it .</Tokens>
+		<POS>PRP VBZ DT RB JJ NN , CC PRP VBP JJ IN PRP VBD PRP .</POS>
+		<Lemma>it be a very useful item , and I be glad that I buy it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You -LRB- Accessory Genie -RRB- asked me to give you some feedback on the product several weeks ago , but I wanted to use it for a while , first .</Tokens>
+		<POS>PRP -LRB- NNP NNP -RRB- VBD PRP TO VB PRP DT NN IN DT NN JJ NNS RB , CC PRP VBD TO VB PRP IN DT NN , RB .</POS>
+		<Lemma>you -lrb- Accessory Genie -rrb- ask I to give you some feedback on the product several week ago , but I want to use it for a while , first .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So here you are .</Tokens>
+		<POS>RB RB PRP VBP .</POS>
+		<Lemma>so here you be .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thank you both for the timely manner in which you were able to deliver this to me and for your honest and up-front description of the product as well as your following up .</Tokens>
+		<POS>VB PRP DT IN DT JJ NN IN WDT PRP VBD JJ TO VB DT TO PRP CC IN PRP$ JJ CC JJ NN IN DT NN RB RB IN PRP$ VBG RP .</POS>
+		<Lemma>thank you both for the timely manner in which you be able to deliver this to I and for you honest and up-front description of the product as well as you follow up .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>the whole experience worked for me !</Tokens>
+		<POS>DT JJ NN VBD IN PRP .</POS>
+		<Lemma>the whole experience work for I !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I was a little worried about it at first , because the cover that goes over the car charger connection when it folds back up looked quite flimsy .</Tokens>
+		<POS>PRP VBD DT JJ JJ IN PRP IN RB , IN DT NN WDT VBZ IN DT NN NN NN WRB PRP VBZ RB RB VBD RB JJ .</POS>
+		<Lemma>I be a little worried about it at first , because the cover that go over the car charger connection when it fold back up look quite flimsy .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have been proven wrong .</Tokens>
+		<POS>PRP VBP VBN VBN JJ .</POS>
+		<Lemma>I have be prove wrong .</Lemma>
+	</Sentence>
+</Document>

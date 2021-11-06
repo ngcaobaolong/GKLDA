@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I share the positive experiences of other reviewers .</Tokens>
+		<POS>PRP VBP DT JJ NNS IN JJ NNS .</POS>
+		<Lemma>I share the positive experience of other reviewer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The device works as advertised and is very easy to use .</Tokens>
+		<POS>DT NN VBZ IN VBN CC VBZ RB JJ TO VB .</POS>
+		<Lemma>the device work as advertise and be very easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>One thing I have been having trouble with though , is that there is a hissing sound -LRB- like old time audio tape hiss , but louder -RRB- in bluetooth audio that goes away when I have my hand near the X2 control .</Tokens>
+		<POS>CD NN PRP VBP VBN VBG NN IN RB , VBZ IN EX VBZ DT JJ NN -LRB- IN JJ NN JJ NN NN , CC RBR -RRB- IN NN NN WDT VBZ RB WRB PRP VBP PRP$ NN IN DT NN NN .</POS>
+		<Lemma>one thing I have be have trouble with though , be that there be a hissing sound -lrb- like old time audio tape hiss , but louder -rrb- in bluetooth audio that go away when I have my hand near the x2 control .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The audio quality is excellent when my hand is near the X2 , but has noticable hiss as soon as I move my hand away .</Tokens>
+		<POS>DT JJ NN VBZ JJ WRB PRP$ NN VBZ IN DT NN , CC VBZ JJ NN RB RB IN PRP VBP PRP$ NN RB .</POS>
+		<Lemma>the audio quality be excellent when my hand be near the x2 , but have noticable hiss as soon as I move my hand away .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This morning I discovered that this appears to have to do with the USB charging cable .</Tokens>
+		<POS>DT NN PRP VBD IN DT VBZ TO VB TO VB IN DT JJ VBG NN .</POS>
+		<Lemma>this morning I discover that this appear to have to do with the usb charge cable .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>By chance , I happened to disconnect my phone from the usb charging cable before turning off the X2 and the car 's radio .</Tokens>
+		<POS>IN NN , PRP VBD TO VB PRP$ NN IN DT NN VBG NN IN VBG RP DT NN CC DT NN POS NN .</POS>
+		<Lemma>by chance , I happen to disconnect my phone from the usb charge cable before turn off the x2 and the car 's radio .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The hiss immediately went away .</Tokens>
+		<POS>DT NN RB VBD RB .</POS>
+		<Lemma>the hiss immediately go away .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I plugged the charger cable back into the phone , and the hiss was back .</Tokens>
+		<POS>PRP VBD DT NN NN RB IN DT NN , CC DT NN VBD RB .</POS>
+		<Lemma>I plug the charger cable back into the phone , and the hiss be back .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>So if I want the best audio quality , It appears that I ca n't charge my Droidx at the same time as listening to music -RRB- .</Tokens>
+		<POS>RB IN PRP VBP DT JJS JJ NN , PRP VBZ IN PRP MD RB VB PRP$ NN IN DT JJ NN IN VBG TO NN -RRB- .</POS>
+		<Lemma>so if I want the best audio quality , it appear that I can not charge my droidx at the same time as listen to music -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I may try a different USB cable .</Tokens>
+		<POS>PRP MD VB DT JJ JJ NN .</POS>
+		<Lemma>I may try a different usb cable .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Maybe the one that came with the X2 does n't have good shielding and is leaking RF noise ?</Tokens>
+		<POS>RB DT CD WDT VBD IN DT NN VBZ RB VB JJ VBG CC VBZ VBG NN NN .</POS>
+		<Lemma>maybe the one that come with the x2 do not have good shield and be leak rf noise ?</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I will also try a different FM station and see if I can find one at the opposite end of the spectrum -LRB- I am using 97.1 right now -RRB- that is outside the frequency of hiss .</Tokens>
+		<POS>PRP MD RB VB DT JJ NN NN CC VB IN PRP MD VB CD IN DT JJ NN IN DT NN -LRB- PRP VBP VBG CD RB RB -RRB- WDT VBZ IN DT NN IN NN .</POS>
+		<Lemma>I will also try a different fm station and see if I can find one at the opposite end of the spectrum -lrb- I be use 97.1 right now -rrb- that be outside the frequency of hiss .</Lemma>
+	</Sentence>
+</Document>

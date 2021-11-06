@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Muy Buen Producto , cumple con todo lo especificado !!</Tokens>
+		<POS>NNP NNP NNP , NN NN NN NN NN NN</POS>
+		<Lemma>Muy Buen Producto , cumple con todo lo especificado !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Solo deber&iacute;a mejorar la documentaci&oacute;n y el conector a 12v El envi&oacute; se realizo a termino .</Tokens>
+		<POS>JJ NN FW FW FW FW FW FW DT JJ NNP FW FW FW DT NN .</POS>
+		<Lemma>solo deber&iacute;a mejorar la documentaci&oacute;n y el conector a 12v El envi&oacute; se realizo a termino .</Lemma>
+	</Sentence>
+</Document>

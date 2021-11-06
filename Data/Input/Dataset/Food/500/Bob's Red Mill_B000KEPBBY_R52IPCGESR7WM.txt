@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>THIS IS THE BASE FOR ALL OF MY SOUPS .</Tokens>
+		<POS>NNP VBZ DT NN IN NN IN NNP NNP .</POS>
+		<Lemma>THIS be the base for all of MY SOUPS .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>ADD CHICKEN STOCK , BARLEY AND WHATEVER MEATS & VEGGIES YOU LIKE .</Tokens>
+		<POS>VB NNP NNP , NNP CC NNP NNP CC NNP PRP IN .</POS>
+		<Lemma>add CHICKEN STOCK , BARLEY and WHATEVER MEATS & VEGGIES you like .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>YOU CANT MISS. .</Tokens>
+		<POS>PRP VBP NNP .</POS>
+		<Lemma>you cant MISS. .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera -LRB- from RitzCamera -RRB- over a year ago before I went on a cruise down to the Mexican Riviera to upgrade from my SLR .</Tokens>
+		<POS>PRP VBD DT NN -LRB- IN NNP -RRB- IN DT NN IN IN PRP VBD IN DT NN IN TO DT JJ NNP TO VB IN PRP$ NN .</POS>
+		<Lemma>I buy this camera -lrb- from RitzCamera -rrb- over a year ago before I go on a cruise down to the mexican Riviera to upgrade from my slr .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera takes very high quality pictures and is fairly light weight and can be stored in any carry on without taking up your whole bag .</Tokens>
+		<POS>DT NN VBZ RB JJ NN NNS CC VBZ RB JJ NN CC MD VB VBN IN DT VBP RP IN VBG RP PRP$ JJ NN .</POS>
+		<Lemma>this camera take very high quality picture and be fairly light weight and can be store in any carry on without take up you whole bag .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I loved the outcome of my panoramic feature -LRB- which you can do in 3D -RRB- with the arch in Cabo San Lucas .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ JJ NN -LRB- WDT PRP MD VB IN NN -RRB- IN DT NN IN NNP NNP NNP .</POS>
+		<Lemma>I love the outcome of my panoramic feature -lrb- which you can do in 3d -rrb- with the arch in Cabo San Lucas .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I also use the camera for some amateur family portraits and never have complaints on the quality .</Tokens>
+		<POS>PRP RB VBP DT NN IN DT JJ NN NNS CC RB VBP NNS IN DT NN .</POS>
+		<Lemma>I also use the camera for some amateur family portrait and never have complaint on the quality .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am very impressed and am SUPER sastified with this camera .</Tokens>
+		<POS>PRP VBP RB JJ CC VBP NN VBN IN DT NN .</POS>
+		<Lemma>I be very impressed and be super sastify with this camera .</Lemma>
+	</Sentence>
+</Document>

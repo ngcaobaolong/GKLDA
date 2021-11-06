@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Right out of the box , no weird setup programs to load .</Tokens>
+		<POS>RB IN IN DT NN , DT JJ NN NNS TO NN .</POS>
+		<Lemma>right out of the box , no weird setup program to load .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Amazing clarity ; it took a while to get used to having so much more room on my computer desktop side to side -LRB- its a widescreen monitor -RRB- , but now I do n't know how I ever did without it .</Tokens>
+		<POS>JJ NN : PRP VBD DT NN TO VB VBN TO VBG RB RB JJR NN IN PRP$ NN NN NN TO NN -LRB- PRP$ DT JJ NN -RRB- , CC RB PRP VBP RB VB WRB PRP RB VBD IN PRP .</POS>
+		<Lemma>amazing clarity ; it take a while to get use to have so much more room on my computer desktop side to side -lrb- its a widescreen monitor -rrb- , but now I do not know how I ever do without it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Watching High def movie trailers on this screen is my new hobbie !</Tokens>
+		<POS>VBG JJ NN NN NNS IN DT NN VBZ PRP$ JJ NN .</POS>
+		<Lemma>watch high def movie trailer on this screen be my new hobbie !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Unbelievable !</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>unbelievable !</Lemma>
+	</Sentence>
+</Document>

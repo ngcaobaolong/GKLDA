@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had the camera about 2 weeks and have been very pleased with it .</Tokens>
+		<POS>PRP VBP VBD DT NN IN CD NNS CC VBP VBN RB JJ IN PRP .</POS>
+		<Lemma>I have have the camera about 2 week and have be very pleased with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was able to shoot 197 pictures and 7 videos with one set of batteries .</Tokens>
+		<POS>PRP VBD JJ TO VB CD NNS CC CD NNS IN CD NN IN NNS .</POS>
+		<Lemma>I be able to shoot 197 picture and 7 video with one set of battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have had good luck shooting underwater pictures of my grandkid at the pool .</Tokens>
+		<POS>PRP VBP VBN JJ NN NN JJ NNS IN PRP$ NN IN DT NN .</POS>
+		<Lemma>I have have good luck shooting underwater picture of my grandkid at the pool .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only negatives I have are 1 -RRB- the flash is weak ; if the subject is more than 5 feet away you wo n't get a good shot .</Tokens>
+		<POS>DT JJ NNS PRP VBP VBP LS -RRB- DT NN VBZ JJ : IN DT NN VBZ JJR IN CD NNS RB PRP MD RB VB DT JJ NN .</POS>
+		<Lemma>the only negative I have be 1 -rrb- the flash be weak ; if the subject be more than 5 foot away you will not get a good shot .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>2 -RRB- In powersave mode the LCD viewscreen is almost impossible to see in an outdoor setting .</Tokens>
+		<POS>LS -RRB- IN NN NN DT NNS NN VBZ RB JJ TO VB IN DT JJ NN .</POS>
+		<Lemma>2 -rrb- in powersave mode the lcd viewscreen be almost impossible to see in a outdoor setting .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall this is a GREAT little camera for the money .</Tokens>
+		<POS>RB DT VBZ DT JJ JJ NN IN DT NN .</POS>
+		<Lemma>overall this be a great little camera for the money .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wanted some healthy cereal that would very nutritious .</Tokens>
+		<POS>PRP VBD DT JJ NN WDT MD RB JJ .</POS>
+		<Lemma>I want some healthy cereal that would very nutritious .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was already familiar with Ezekiel bread , so why not try the cereal ?</Tokens>
+		<POS>PRP VBD RB JJ IN NNP NN , RB WRB RB VB DT NN .</POS>
+		<Lemma>I be already familiar with Ezekiel bread , so why not try the cereal ?</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's good .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do n't eat it plain , however .</Tokens>
+		<POS>PRP VBP RB VB PRP RB , RB .</POS>
+		<Lemma>I do not eat it plain , however .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I always chop up a banana in it .</Tokens>
+		<POS>PRP RB VBP RP DT NN IN PRP .</POS>
+		<Lemma>I always chop up a banana in it .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's healthy , inexpensive -LRB- when you consider how much nutrition you 're getting -RRB- , and tastes good .</Tokens>
+		<POS>PRP VBZ JJ , JJ -LRB- WRB PRP VBP WRB JJ NN PRP VBP VBG -RRB- , CC NNS JJ .</POS>
+		<Lemma>it be healthy , inexpensive -lrb- when you consider how much nutrition you be get -rrb- , and taste good .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I eat a bowl of this most mornings .</Tokens>
+		<POS>PRP VBP DT NN IN DT RBS NNS .</POS>
+		<Lemma>I eat a bowl of this most morning .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the 1st one in early 2010 , I could n't believe the quality in this monitor .</Tokens>
+		<POS>PRP VBD DT CD CD IN JJ CD , PRP MD RB VB DT NN IN DT NN .</POS>
+		<Lemma>I buy the 1st one in early 2010 , I could not believe the quality in this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The colors are great , and the price is something I could n't beat at that time .</Tokens>
+		<POS>DT NNS VBP JJ , CC DT NN VBZ NN PRP MD RB VB IN DT NN .</POS>
+		<Lemma>the color be great , and the price be something I could not beat at that time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Actually around that time , 20 inch monitors were selling from $ 149 to $ 200 for top brands .</Tokens>
+		<POS>RB IN DT NN , CD NN NNS VBD VBG IN $ CD TO $ CD IN JJ NNS .</POS>
+		<Lemma>actually around that time , 20 inch monitor be sell from $ 149 to $ 200 for top brand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was short in funds so was forced to buy this Acer H202H .</Tokens>
+		<POS>PRP VBD JJ IN NNS RB VBD VBN TO VB DT NNP NN .</POS>
+		<Lemma>I be short in fund so be force to buy this Acer h202h .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 'm happy I did , I do n't normally go for Made in China products , but I 'm afraid to say China is building some great stuff .</Tokens>
+		<POS>PRP VBP JJ PRP VBD , PRP VBP RB RB VB IN VBN IN NNP NNS , CC PRP VBP JJ TO VB NNP VBZ VBG DT JJ NN .</POS>
+		<Lemma>I be happy I do , I do not normally go for make in China product , but I be afraid to say China be build some great stuff .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I understand Acer is in line with WTO and that not all parts are from China , so I guess I could be happy I 'm buying a global product , but when you do n't have a job , you have to budget your funds .</Tokens>
+		<POS>PRP VBP NNP VBZ IN NN IN NN CC IN RB DT NNS VBP IN NNP , RB PRP VBP PRP MD VB JJ PRP VBP VBG DT JJ NN , CC WRB PRP VBP RB VB DT NN , PRP VBP TO NN PRP$ NNS .</POS>
+		<Lemma>I understand Acer be in line with wto and that not all part be from China , so I guess I could be happy I be buy a global product , but when you do not have a job , you have to budget you fund .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Anyways , what got me to write this review was that I was having back issues , sitting at my desk for 12 hours a day , then was told that I should buy a podium desk and place my dual monitors on the wall using a VESA mount , which I bought here on amazon for $ 14.99 VideoSecu '' -LRB- ... -RRB- '' .</Tokens>
+		<POS>RB , WDT VBD PRP TO VB DT NN VBD IN PRP VBD VBG RP NNS , VBG IN PRP$ NN IN CD NNS DT NN , RB VBD VBN IN PRP MD VB DT NN NN CC NN PRP$ JJ NNS IN DT NN VBG DT NNP VB , WDT PRP VBD RB IN NN IN $ CD NNP '' -LRB- : -RRB- '' .</POS>
+		<Lemma>anyways , what get I to write this review be that I be have back issue , sit at my desk for 12 hour a day , then be tell that I should buy a podium desk and place my dual monitor on the wall use a VESA mount , which I buy here on amazon for $ 14.99 VideoSecu '' -lrb- ... -rrb- '' .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Here again , I was surprised that the mount and monitor seemed like it was made for each other , easy easy install .</Tokens>
+		<POS>RB RB , PRP VBD VBN IN DT VBP CC VBP VBN IN PRP VBD VBN IN DT JJ , JJ JJ VB .</POS>
+		<Lemma>here again , I be surprise that the mount and monitor seem like it be make for each other , easy easy install .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I ca n't be any happier ... !!</Tokens>
+		<POS>PRP MD RB VB DT JJR : NN</POS>
+		<Lemma>I can not be any happier ... !!</Lemma>
+	</Sentence>
+</Document>

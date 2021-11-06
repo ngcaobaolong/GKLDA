@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased one of this camera -LRB- FI8918W -RRB- for the purpouse of evaluation , I was very surpriced with the quality of the image , the easy to install , and that even when the description says that the infra red light is good up to 10 meters , I has two of them istalled and I can see very clearly up to 23 meters in total darkness .</Tokens>
+		<POS>PRP VBD CD IN DT NN -LRB- NN -RRB- IN DT NN IN NN , PRP VBD RB JJ IN DT NN IN DT NN , DT JJ TO VB , CC IN RB WRB DT NN VBZ IN DT NN JJ NN VBZ JJ IN TO CD NNS , PRP VBZ CD IN PRP VBD CC PRP MD VB RB RB IN TO CD NNS IN JJ NN .</POS>
+		<Lemma>I purchase one of this camera -lrb- fi8918w -rrb- for the purpouse of evaluation , I be very surpriced with the quality of the image , the easy to install , and that even when the description say that the infra red light be good up to 10 meter , I have two of they istall and I can see very clearly up to 23 meter in total darkness .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I liked the two way sound , it sounds very clear The software comes with the camera , I was running in 12 minutes after open the package I have several cameras from well known names , that does not match the quality of this one -LRB- FI8916W -RRB- and they cost more .</Tokens>
+		<POS>PRP VBD DT CD NN NN , PRP VBZ RB JJ DT NN VBZ IN DT NN , PRP VBD VBG IN CD NNS IN JJ DT NN PRP VBP JJ NNS IN RB VBN NNS , IN VBZ RB VB DT NN IN DT CD -LRB- NN -RRB- CC PRP VBP JJR .</POS>
+		<Lemma>I like the two way sound , it sound very clear the software come with the camera , I be run in 12 minute after open the package I have several camera from well know name , that do not match the quality of this one -lrb- fi8916w -rrb- and they cost more .</Lemma>
+	</Sentence>
+</Document>

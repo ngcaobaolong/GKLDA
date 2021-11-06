@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just got a brand new desktop because I was getting tired of the small screen on my laptop ... so I needed a nice monitor to go with it .</Tokens>
+		<POS>PRP RB VBD DT NN JJ NN IN PRP VBD VBG JJ IN DT JJ NN IN PRP$ NN : IN PRP VBD DT JJ NN TO VB IN PRP .</POS>
+		<Lemma>I just get a brand new desktop because I be get tired of the small screen on my laptop ... so I need a nice monitor to go with it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After looking online & in stores for almost a week I decided on this Acer monitor .</Tokens>
+		<POS>IN VBG NN CC IN NNS IN RB DT NN PRP VBD IN DT NNP NN .</POS>
+		<Lemma>after look online & in store for almost a week I decide on this Acer monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It had all great reviews and it 's full HD , just what you need nowadays ... The monitor hooks up easily to the desktop and has a decent stand .</Tokens>
+		<POS>PRP VBD DT JJ NNS CC PRP VBZ JJ NN , RB WP PRP VBP RB : DT NN VBZ RP RB TO DT NN CC VBZ DT JJ NN .</POS>
+		<Lemma>it have all great review and it be full hd , just what you need nowadays ... the monitor hook up easily to the desktop and have a decent stand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's very thin and does n't take up much space at all .</Tokens>
+		<POS>PRP VBZ RB JJ CC VBZ RB VB RP JJ NN IN DT .</POS>
+		<Lemma>it be very thin and do not take up much space at all .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The picture is bright & sharp and the colors are right on point ... no dead pixels either , unlike some others that are dead out the box .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ CC DT NNS VBP JJ IN NN : DT JJ NNS CC , IN DT NNS WDT VBP JJ IN DT NN .</POS>
+		<Lemma>the picture be bright & sharp and the color be right on point ... no dead pixel either , unlike some other that be dead out the box .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The actual model number for this monitor has been discontinued but you can still find them floating around if you look ... I got lucky and found another one here on Amazon because I decided to get a 2nd monitor and I wanted the same one I already have .</Tokens>
+		<POS>DT JJ NN NN IN DT NN VBZ VBN VBN CC PRP MD RB VB PRP VBG IN IN PRP VBP : PRP VBD JJ CC VBD DT CD RB IN NNP IN PRP VBD TO VB DT JJ NN CC PRP VBD DT JJ CD PRP RB VBP .</POS>
+		<Lemma>the actual model number for this monitor have be discontinue but you can still find they float around if you look ... I get lucky and find another one here on Amazon because I decide to get a 2nd monitor and I want the same one I already have .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The quality & performance of this monitor is awesome ... the contrast , brightness and sharpness is way better than most I looked at in-store and it costs about $ 50.00 less than some monitors with the same or similar specs .</Tokens>
+		<POS>DT NN CC NN IN DT NN VBZ JJ : DT NN , NN CC NN VBZ RB JJR IN JJS PRP VBD IN JJ CC PRP VBZ IN $ CD JJR IN DT NNS IN DT JJ CC JJ NNS .</POS>
+		<Lemma>the quality & performance of this monitor be awesome ... the contrast , brightness and sharpness be way better than most I look at in-store and it cost about $ 50.00 less than some monitor with the same or similar spec .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It has 100x100 VESA mounting holes in the back so it 's easily mounted to the wall or wall mount and it 's very light .</Tokens>
+		<POS>PRP VBZ CD NN VBG NNS IN DT NN IN PRP VBZ RB VBN TO DT NN CC NN VBP CC PRP VBZ RB JJ .</POS>
+		<Lemma>it have 100x100 vesa mount hole in the back so it be easily mount to the wall or wall mount and it be very light .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>If you want a great monitor that works as good as it looks then this is the one .</Tokens>
+		<POS>IN PRP VBP DT JJ NN WDT VBZ RB JJ IN PRP VBZ RB DT VBZ DT CD .</POS>
+		<Lemma>if you want a great monitor that work as good as it look then this be the one .</Lemma>
+	</Sentence>
+</Document>

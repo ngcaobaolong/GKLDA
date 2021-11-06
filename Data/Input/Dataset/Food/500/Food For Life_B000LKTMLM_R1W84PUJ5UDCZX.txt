@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was n't crazy about this cereal .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NN .</POS>
+		<Lemma>I be not crazy about this cereal .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I thought it would be a little like grape nuts , but it really was like small pieces of their bread dried up and crumbled -LRB- I do like their bread , but not this way -RRB- .</Tokens>
+		<POS>PRP VBD PRP MD VB DT JJ IN NN NNS , CC PRP RB VBD IN JJ NNS IN PRP$ NN VBD RB CC VBN -LRB- PRP VBP VB PRP$ NN , CC RB DT NN -RRB- .</POS>
+		<Lemma>I think it would be a little like grape nut , but it really be like small piece of they bread dry up and crumble -lrb- I do like they bread , but not this way -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was sorry that I bought the the six pack .</Tokens>
+		<POS>PRP VBD JJ IN PRP VBD DT DT CD NN .</POS>
+		<Lemma>I be sorry that I buy the the six pack .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Try to find it from your local grocery store and see if you like it before purchasing so many from here .</Tokens>
+		<POS>VB TO VB PRP IN PRP$ JJ NN NN CC VB IN PRP IN PRP IN VBG RB JJ IN RB .</POS>
+		<Lemma>try to find it from you local grocery store and see if you like it before purchase so many from here .</Lemma>
+	</Sentence>
+</Document>

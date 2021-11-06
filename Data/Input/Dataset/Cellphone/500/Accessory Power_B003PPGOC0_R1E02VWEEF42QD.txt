@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bluetooth connects very quickly with Nexus S. The FM transmitter does a great job of finding a frequency and broadcasts loud and clear with no interference .</Tokens>
+		<POS>NNP VBZ RB RB IN NNP NNP NNP NNP NN VBZ DT JJ NN IN VBG DT NN CC NNS JJ CC JJ IN DT NN .</POS>
+		<Lemma>Bluetooth connect very quickly with Nexus S. The FM transmitter do a great job of find a frequency and broadcast loud and clear with no interference .</Lemma>
+	</Sentence>
+</Document>

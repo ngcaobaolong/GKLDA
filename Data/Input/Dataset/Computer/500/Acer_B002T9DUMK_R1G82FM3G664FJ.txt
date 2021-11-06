@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor has 3 things going for it & many negative things about mount & use .</Tokens>
+		<POS>DT NN VBZ CD NNS VBG IN PRP CC JJ JJ NNS IN VBP CC VBP .</POS>
+		<Lemma>this monitor have 3 thing go for it & many negative thing about mount & use .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's by far the crispiest , brightest picture of any I saw with a maximum 8-million :1 contrast ratio compared to Lcds i 've seen that have a maximum 80 thousand :1 .</Tokens>
+		<POS>PRP VBZ IN RB DT JJS , JJS NN IN DT PRP VBD IN DT NN NN CD NN NN VBN TO NNPS FW VBP VBN WDT VBP DT NN CD CD NN .</POS>
+		<Lemma>it be by far the crispiest , brightest picture of any I see with a maximum 8-million :1 contrast ratio compare to Lcds i have see that have a maximum 80 thousand :1 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It consumes less power , runs a lot cooler .</Tokens>
+		<POS>PRP VBZ JJR NN , VBZ DT NN NN .</POS>
+		<Lemma>it consume less power , run a lot cooler .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's light & slim , which hardly matters when it is setting on a desk on it 's OEM base .</Tokens>
+		<POS>PRP VBZ JJ CC JJ , WDT RB VBZ WRB PRP VBZ VBG RP DT NN IN PRP VBZ NNP NN .</POS>
+		<Lemma>it be light & slim , which hardly matter when it be set on a desk on it be OEM base .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Now the negatives , which are many & pronounced : Acer calls it an LED screen but on the guide & printed elsewhere it 's called an LCD , so who knows ?</Tokens>
+		<POS>RB DT NNS , WDT VBP JJ CC JJ : NNP VBZ PRP DT VBN NN CC IN DT NN CC VBN RB PRP VBZ VBN DT NNS , RB WP VBZ .</POS>
+		<Lemma>now the negative , which be many & pronounced : Acer call it a lead screen but on the guide & print elsewhere it be call a lcd , so who know ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>More importantly , this monitor , being extremely light & slim , would be most ideal for wall mounting either on a swivel arm or directly , except for one major detail : Acer provided no mounting alternatives other than the base !</Tokens>
+		<POS>RBR RB , DT NN , VBG RB JJ CC JJ , MD VB RBS JJ IN NN VBG RB IN DT NN NN CC RB , IN IN CD JJ NN : NNP VBD DT VBG NNS JJ IN DT NN .</POS>
+		<Lemma>more importantly , this monitor , be extremely light & slim , would be most ideal for wall mount either on a swivel arm or directly , except for one major detail : Acer provide no mount alternative other than the base !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It ca n't be mounted to anything other than the base because it does n't have the usual 3 15\/16 inch square mounting point in its center that 99.99 % of all other monitors have , plus all the controls & connections are in the OEM base that can not be removed .</Tokens>
+		<POS>PRP MD RB VB VBN TO NN JJ IN DT NN IN PRP VBZ RB VB DT JJ CD NN NN VBG NN IN PRP$ NN IN CD NN IN DT JJ NNS VBP , CC PDT DT NNS CC NNS VBP IN DT NNP NN WDT MD RB VB VBN .</POS>
+		<Lemma>it can not be mount to anything other than the base because it do not have the usual 3 15\/16 inch square mount point in its center that 99.99 % of all other monitor have , plus all the control & connection be in the OEM base that can not be remove .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So you have no mounting alternatives for this monitor except the OEM base , which is elegant but extremely nonfucntional !</Tokens>
+		<POS>IN PRP VBP DT VBG NNS IN DT NN IN DT NNP NN , WDT VBZ JJ CC RB JJ .</POS>
+		<Lemma>so you have no mount alternative for this monitor except the OEM base , which be elegant but extremely nonfucntional !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>With a full range tilt of only 10 degrees & no swivel or height adjustment , you can point it way down but just a smidge up beyond vertical position !</Tokens>
+		<POS>IN DT JJ NN NN IN RB CD NNS CC DT NN CC NN NN , PRP MD VB PRP RB RB CC RB DT NN RP IN JJ NN .</POS>
+		<Lemma>with a full range tilt of only 10 degree & no swivel or height adjustment , you can point it way down but just a smidge up beyond vertical position !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>In fact , I 've a wedge under my base right now to provide more backward titl !</Tokens>
+		<POS>IN NN , PRP VBP DT NN IN PRP$ NN RB RB TO VB JJR RB NN .</POS>
+		<Lemma>in fact , I have a wedge under my base right now to provide more backward titl !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>& the on-screen programmable features ?</Tokens>
+		<POS>CC DT JJ JJ NNS .</POS>
+		<Lemma>& the on-screen programmable feature ?</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>They automatically go out so fast that you better not hesitate or even blink before the display goes out .</Tokens>
+		<POS>PRP RB VB RP RB RB IN PRP JJR RB VB CC RB VB IN DT NN VBZ RP .</POS>
+		<Lemma>they automatically go out so fast that you better not hesitate or even blink before the display go out .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I changed the OSD to 30 seconds which was better , except when i turned the monitor off & back on , it went back to the 10 second , so it is very frustrating to program .</Tokens>
+		<POS>PRP VBD DT NNP TO CD NNS WDT VBD RBR , IN WRB FW VBD DT NN IN CC RB IN , PRP VBD RB TO DT CD JJ , IN PRP VBZ RB JJ TO NN .</POS>
+		<Lemma>I change the OSD to 30 seconds which be better , except when i turn the monitor off & back on , it go back to the 10 second , so it be very frustrating to program .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Most importantly : Its MTBF -LRB- estimated lifespan in hours -RRB- is only 15000 -LRB- a spec you do n't see until you buy it and open it -RRB- which is like 625 days or less than 2 years .</Tokens>
+		<POS>RBS RB : PRP$ NN -LRB- VBN NN IN NNS -RRB- VBZ RB CD -LRB- DT NN PRP VBP RB VB IN PRP VBP PRP CC VB PRP -RRB- WDT VBZ IN CD NNS CC JJR IN CD NNS .</POS>
+		<Lemma>most importantly : its mtbf -lrb- estimate lifespan in hour -rrb- be only 15000 -lrb- a spec you do not see until you buy it and open it -rrb- which be like 625 day or less than 2 year .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Personally , that scared me because I use the computer a lot .</Tokens>
+		<POS>RB , IN JJ PRP IN PRP VBP DT NN DT NN .</POS>
+		<Lemma>personally , that scared I because I use the computer a lot .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>But all the monitors try to hide that spec so I still do n't know how it compares with others .</Tokens>
+		<POS>CC PDT DT NNS VBP TO VB DT NN IN PRP RB VBP RB VB WRB PRP VBZ IN NNS .</POS>
+		<Lemma>but all the monitor try to hide that spec so I still do not know how it compare with other .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I know I 've had my 17-inch Dell on the same PC for 7 years & it still works perfectly .</Tokens>
+		<POS>PRP VBP PRP VBP VBD PRP$ JJ NNP IN DT JJ NN IN CD NNS CC PRP RB VBZ RB .</POS>
+		<Lemma>I know I have have my 17-inch Dell on the same pc for 7 year & it still work perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Somehow I do n't think I 'll get near the same service life out of this Acer & I think this is quite illustrative of how all businesses routinely scam us with shoddy , poorly designed products & misleading information .</Tokens>
+		<POS>RB PRP VBP RB VB PRP MD VB IN DT JJ NN NN IN IN DT NNP CC PRP VBP DT VBZ RB JJ IN WRB DT NNS RB NN PRP IN JJ , RB VBN NNS CC VBG NN .</POS>
+		<Lemma>somehow I do not think I 'll get near the same service life out of this Acer & I think this be quite illustrative of how all business routinely scam we with shoddy , poorly design product & mislead information .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Also , it has the oldest , most antiquated monitor connection there is , the blue analog vga connection , along with 2 of the latest , hdmi , leaving out a middle one , the digital white DVI connection which provides a much better signal than the blue one if your computer has that , but to connect DVI to this monitor , you have to buy an adapter to HDMI for it .</Tokens>
+		<POS>RB , PRP VBZ DT JJS , RBS JJ NN NN EX VBZ , DT JJ NN NN NN , IN IN CD IN DT JJS , NNS , VBG RP DT JJ CD , DT JJ JJ NNP NN WDT VBZ DT RB JJR NN IN DT JJ CD IN PRP$ NN VBZ DT , CC TO VB NNP TO DT NN , PRP VBP TO VB DT NN TO NNP IN PRP .</POS>
+		<Lemma>also , it have the oldest , most antiquated monitor connection there be , the blue analog vga connection , along with 2 of the latest , hdmus , leave out a middle one , the digital white DVI connection which provide a much better signal than the blue one if you computer have that , but to connect DVI to this monitor , you have to buy a adapter to HDMI for it .</Lemma>
+	</Sentence>
+</Document>

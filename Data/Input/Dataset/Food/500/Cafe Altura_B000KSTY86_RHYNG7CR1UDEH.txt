@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Coffe was delivered very fresh .</Tokens>
+		<POS>NNP VBD VBN RB JJ .</POS>
+		<Lemma>Coffe be deliver very fresh .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>That 's good .</Tokens>
+		<POS>DT VBZ JJ .</POS>
+		<Lemma>that be good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The taste ?</Tokens>
+		<POS>DT NN .</POS>
+		<Lemma>the taste ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Meh : Not too bad , not too good .</Tokens>
+		<POS>NNP : RB RB JJ , RB RB JJ .</POS>
+		<Lemma>Meh : not too bad , not too good .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can do a lot better for the price .</Tokens>
+		<POS>PRP MD VB DT NN JJR IN DT NN .</POS>
+		<Lemma>you can do a lot better for the price .</Lemma>
+	</Sentence>
+</Document>

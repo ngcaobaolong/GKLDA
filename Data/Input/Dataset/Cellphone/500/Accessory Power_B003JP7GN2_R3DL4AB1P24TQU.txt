@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is an amazingly versatile USB charger , with more power source options than anything I 've seen .</Tokens>
+		<POS>DT VBZ DT RB JJ JJ NN , IN JJR NN NN NNS IN NN PRP VBP VBN .</POS>
+		<Lemma>this be a amazingly versatile usb charger , with more power source option than anything I have see .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And yet , it 's more compact than the ones I 've seen without the source battery options , i.e. with only 110V and 12VDC as as power sources .</Tokens>
+		<POS>CC RB , PRP VBZ JJR JJ IN DT NNS PRP VBP VBN IN DT NN NN NNS , FW IN RB NN CC NN IN IN NN NNS .</POS>
+		<Lemma>and yet , it be more compact than the one I have see without the source battery option , i.e. with only 110v and 12vdc as as power source .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And finally , it works as advertised in every respect .</Tokens>
+		<POS>CC RB , PRP VBZ IN VBN IN DT NN .</POS>
+		<Lemma>and finally , it work as advertise in every respect .</Lemma>
+	</Sentence>
+</Document>

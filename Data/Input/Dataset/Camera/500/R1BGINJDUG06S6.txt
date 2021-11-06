@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Beautiful pictures inside and outside !</Tokens>
+		<POS>JJ NNS IN CC IN .</POS>
+		<Lemma>beautiful picture inside and outside !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was in daught to bought a similar Sony but now I am certain I made the best choice .</Tokens>
+		<POS>PRP VBD IN NN TO VBN DT JJ NNP CC RB PRP VBP JJ PRP VBD DT JJS NN .</POS>
+		<Lemma>I be in daught to buy a similar Sony but now I be certain I make the best choice .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased this a little while ago since I travel a lot for work .</Tokens>
+		<POS>VBN DT DT JJ IN RB IN PRP VBP DT NN IN NN .</POS>
+		<Lemma>purchase this a little while ago since I travel a lot for work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It worked great at first and having two usb ports was super convenient .</Tokens>
+		<POS>PRP VBD JJ IN JJ CC VBG CD NN NNS VBD JJ JJ .</POS>
+		<Lemma>it work great at first and have two usb port be super convenient .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I thought being able to charge the phone using 2xAA batteries would be great however I found that when powering my phone off of batteries it merely kept my phone on but the power gauge still dropped to zero .</Tokens>
+		<POS>PRP VBD VBG JJ TO VB DT NN VBG NN NNS MD VB JJ RB PRP VBD IN WRB VBG PRP$ NN IN IN NNS PRP RB VBD PRP$ NN IN CC DT NN NN RB VBD TO CD .</POS>
+		<Lemma>I think be able to charge the phone use 2xaa battery would be great however I find that when power my phone off of battery it merely keep my phone on but the power gauge still drop to zero .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Once I disconnected the charger from my phone it powered off .</Tokens>
+		<POS>RB PRP VBD DT NN IN PRP$ NN PRP VBD RP .</POS>
+		<Lemma>once I disconnect the charger from my phone it power off .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also , the cigarette lighter piece that folds out eventually stopped working after I used it for about a month .</Tokens>
+		<POS>RB , DT NN JJR NN IN VBZ RP RB VBD VBG IN PRP VBD PRP IN IN DT NN .</POS>
+		<Lemma>also , the cigarette lighter piece that fold out eventually stop work after I use it for about a month .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It turns out the ground wire became disconnected from one of the terminals .</Tokens>
+		<POS>PRP VBZ RP DT NN NN VBD VBN IN CD IN DT NNS .</POS>
+		<Lemma>it turn out the ground wire become disconnect from one of the terminal .</Lemma>
+	</Sentence>
+</Document>

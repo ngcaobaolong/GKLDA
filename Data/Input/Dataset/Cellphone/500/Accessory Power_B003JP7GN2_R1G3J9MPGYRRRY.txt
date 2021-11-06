@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great universal travel charger .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN NN .</POS>
+		<Lemma>this be a great universal travel charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It uses many power sources which makes it very convenient .</Tokens>
+		<POS>PRP VBZ JJ NN NNS WDT VBZ PRP RB JJ .</POS>
+		<Lemma>it use many power source which make it very convenient .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm impressed by the quality and the price .</Tokens>
+		<POS>PRP VBP JJ IN DT NN CC DT NN .</POS>
+		<Lemma>I be impressed by the quality and the price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I think I 'm going to pick up two more for my other vehicles .</Tokens>
+		<POS>PRP VBP PRP VBP VBG TO VB RP CD JJR IN PRP$ JJ NNS .</POS>
+		<Lemma>I think I be go to pick up two more for my other vehicle .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You ca n't go wrong with this universal travel charger .</Tokens>
+		<POS>PRP MD RB VB JJ IN DT JJ NN NN .</POS>
+		<Lemma>you can not go wrong with this universal travel charger .</Lemma>
+	</Sentence>
+</Document>

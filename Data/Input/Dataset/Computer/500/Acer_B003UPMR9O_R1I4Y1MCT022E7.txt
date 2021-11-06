@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent monitor for the money .</Tokens>
+		<POS>JJ NN IN DT NN .</POS>
+		<Lemma>excellent monitor for the money .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was refurbished and missing 2 metal balances for plastic legs ; otherwise , good condition .</Tokens>
+		<POS>PRP VBD VBN CC VBG CD NN NNS IN JJ NNS : RB , JJ NN .</POS>
+		<Lemma>it be refurbish and miss 2 metal balance for plastic leg ; otherwise , good condition .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>All 3 plugs were received , but no instructions .</Tokens>
+		<POS>DT CD NNS VBD VBN , CC DT NNS .</POS>
+		<Lemma>all 3 plug be receive , but no instruction .</Lemma>
+	</Sentence>
+</Document>

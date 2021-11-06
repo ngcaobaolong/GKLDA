@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was an excellent purchase .</Tokens>
+		<POS>DT VBD DT JJ NN .</POS>
+		<Lemma>this be a excellent purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera came as promised .</Tokens>
+		<POS>DT NN VBD IN VBN .</POS>
+		<Lemma>the camera come as promise .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I could not tell it had ever been used .</Tokens>
+		<POS>PRP MD RB VB PRP VBD RB VBN VBN .</POS>
+		<Lemma>I could not tell it have ever be use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have never been disappointed buying through Amazon .</Tokens>
+		<POS>PRP VBP RB VBN VBN VBG IN NNP .</POS>
+		<Lemma>I have never be disappoint buy through Amazon .</Lemma>
+	</Sentence>
+</Document>

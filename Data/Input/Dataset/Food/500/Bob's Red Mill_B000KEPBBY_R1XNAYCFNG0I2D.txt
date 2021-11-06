@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>-LRB- UPDATED -- see new info at end -RRB- Whenever we have meat with bones , we save the bones and scraps , including fat we 'll later discard , and make stock -LRB- easy : just cover with water and add cut-up whole carrots w \/ skin , cut-up whole onions w \/ skin and cut-up whole washed celery with leaves and stems , several whole peppercorns , a few broken bay-leaves , and a couple of whole cloves ; boil for several hours until everything falls apart ; refrigerate until stock is solid like gelatin ; remove ALL fat congealed on top of cold stock ; heat again , to get one more crack at the flavors from the solids before discarding them ; and strain in very fine strainer -- can now use as is , or clarify for bouillon by boiling 10 minutes with added egg whites & shells and\/or other precipitates and then straining a few times through cheesecloth -RRB- .</Tokens>
+		<POS>-LRB- VBN : VB JJ NN IN NN -RRB- NN PRP VBP NN IN NNS , PRP VBP DT NNS CC NNS , VBG NN PRP MD RB VB , CC VB NN -LRB- JJ : RB VBP IN NN CC VB JJ JJ NNS NN : NN , JJ JJ NNS NN : NN CC JJ JJ VBN NN IN NNS CC VBZ , JJ JJ NNS , DT JJ JJ NNS , CC DT NN IN JJ NNS : VB IN JJ NNS IN NN VBZ RB : VB IN NN VBZ JJ IN NN : VB NN JJ VBN IN NN IN JJ NN : NN RB , TO VB CD JJR NN IN DT NNS IN DT NNS IN VBG PRP : CC NN IN RB JJ NN : MD RB VB RB VBZ , CC VB IN NN IN VBG CD NNS IN VBN NN NNS CC NNS CC JJ NNS CC RB VBG DT JJ NNS IN NN -RRB- .</POS>
+		<Lemma>-lrb- update -- see new info at end -rrb- whenever we have meat with bone , we save the bone and scrap , include fat we 'll later discard , and make stock -lrb- easy : just cover with water and add cut-up whole carrot w \/ skin , cut-up whole onion w \/ skin and cut-up whole wash celery with leaf and stem , several whole peppercorn , a few broken bay-leaf , and a couple of whole clove ; boil for several hour until everything fall apart ; refrigerate until stock be solid like gelatin ; remove all fat congeal on top of cold stock ; heat again , to get one more crack at the flavor from the solid before discard they ; and strain in very fine strainer -- can now use as be , or clarify for bouillon by boil 10 minute with add egg whites & shell and\/or other precipitate and then strain a few time through cheesecloth -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's wonderful to have this almost free stock .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT RB JJ NN .</POS>
+		<Lemma>it be wonderful to have this almost free stock .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But sometimes we do n't know what to do with it or have extra stock we freeze , hoping we 'll need it later .</Tokens>
+		<POS>CC RB PRP VBP RB VB WP TO VB IN PRP CC VBP JJ NN PRP VBP , VBG PRP MD VB PRP RB .</POS>
+		<Lemma>but sometimes we do not know what to do with it or have extra stock we freeze , hope we 'll need it later .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>One frequent answer : Bob 's Red Mill veggie soup mix !</Tokens>
+		<POS>CD JJ NN : NNP POS NNP NNP NN NN NN .</POS>
+		<Lemma>one frequent answer : Bob 's Red Mill veggie soup mix !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Add one cup of mix to 1 quart of fresh or frozen stock , simmer for 1 hour with or without additions , and we 're set .</Tokens>
+		<POS>VB CD NN IN NN TO CD NN IN JJ CC JJ NN , NN IN CD NN IN CC IN NNS , CC PRP VBP VBN .</POS>
+		<Lemma>add one cup of mix to 1 quart of fresh or frozen stock , simmer for 1 hour with or without addition , and we be set .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My husband tends to be very picky but absolutely loves this .</Tokens>
+		<POS>PRP$ NN VBZ TO VB RB JJ CC RB VBZ DT .</POS>
+		<Lemma>my husband tend to be very picky but absolutely love this .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>We both love that we control the amount of sodium and seasonings , either during cooking or individually at the table .</Tokens>
+		<POS>PRP DT VBP IN PRP VBP DT NN IN NN CC NNS , CC IN NN CC RB IN DT NN .</POS>
+		<Lemma>we both love that we control the amount of sodium and seasoning , either during cooking or individually at the table .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>We also love that it takes virtually no time to prepare for cooking and is done in an hour -- `` fast food '' , as long as we plan our rendezvous at table 60 minutes in advance !</Tokens>
+		<POS>PRP RB VBP IN PRP VBZ RB DT NN TO VB IN NN CC VBZ VBN IN DT NN : `` JJ NN '' , RB RB IN PRP VBP PRP$ NN IN NN CD NNS IN NN .</POS>
+		<Lemma>we also love that it take virtually no time to prepare for cooking and be do in a hour -- `` fast food '' , as long as we plan we rendezvous at table 60 minute in advance !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Frequent modifications : -LRB- 1 -RRB- use instead of homemade stock any type of commercial stock , bouillon , etc. or just plain water , either in 4:1 ratio or up to 8:1 ratio ; -LRB- 2 -RRB- add virtually anything from your pantry , fridge or freezer : cooked meat , fish or vegetables near the end just to get heated through , uncooked meat , fish or vegetables nearer the beginning to have plenty of time to cook , or grains or pasta in time to cook according to their package directions -LRB- but add extra water or stock to make up for liquid they 'll absorb -RRB- ; -LRB- 3 -RRB- blend most but not all the soup near the end using an outside blender or food processor , or an immersion blender or potato masher right in the pot ; -LRB- 4 -RRB- add fresh or dried herbs or other flavorings of your choice such as soy sauce or other ethnic sauces near the end ; and -LRB- 5 -RRB- add milk , evaporated milk or cream near the end -LRB- or a roux or flour dissolved in water , as long as you simmer at least 5 minutes afterwards to cook the flour -RRB- to make a cream soup or gravy-like soup .</Tokens>
+		<POS>JJ NNS : -LRB- LS -RRB- VB RB IN JJ NN DT NN IN JJ NN , NN , FW CC RB JJ NN , CC IN CD NN CC RB TO CD NN : -LRB- LS -RRB- VB RB NN IN PRP$ NN , NN CC NN : VBN NN , NN CC NNS IN DT NN RB TO VB VBN IN , JJ NN , NN CC NNS IN DT VBG TO VB NN IN NN TO VB , CC NNS CC NN IN NN TO VB VBG TO PRP$ NN NNS -LRB- CC VBP JJ NN CC NN TO VB RP IN NN PRP MD VB -RRB- : -LRB- LS -RRB- VB RBS CC RB DT DT NN IN DT NN VBG DT JJ NN CC NN NN , CC DT NN NN CC NN NN NN IN DT NN : -LRB- LS -RRB- VB JJ CC VBD NNS CC JJ NNS IN PRP$ NN JJ IN NN NN CC JJ JJ NNS IN DT NN : CC -LRB- LS -RRB- VB NN , VBN NN CC NN IN DT NN -LRB- CC DT NN CC NN VBD IN NN , RB RB IN PRP VBP IN JJS CD NNS RB TO VB DT NN -RRB- TO VB DT NN NN CC JJ NN .</POS>
+		<Lemma>frequent modification : -lrb- 1 -rrb- use instead of homemade stock any type of commercial stock , bouillon , etc. or just plain water , either in 4:1 ratio or up to 8:1 ratio ; -lrb- 2 -rrb- add virtually anything from you pantry , fridge or freezer : cook meat , fish or vegetable near the end just to get heat through , uncooked meat , fish or vegetable nearer the begin to have plenty of time to cook , or grain or pasta in time to cook accord to they package direction -lrb- but add extra water or stock to make up for liquid they 'll absorb -rrb- ; -lrb- 3 -rrb- blend most but not all the soup near the end use a outside blender or food processor , or a immersion blender or potato masher right in the pot ; -lrb- 4 -rrb- add fresh or dry herb or other flavoring of you choice such as soy sauce or other ethnic sauce near the end ; and -lrb- 5 -rrb- add milk , evaporate milk or cream near the end -lrb- or a roux or flour dissolve in water , as long as you simmer at least 5 minute afterwards to cook the flour -rrb- to make a cream soup or gravy-like soup .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>But remember : the basic soup itself , no modifications , is also great .</Tokens>
+		<POS>CC VB : DT JJ NN PRP , DT NNS , VBZ RB JJ .</POS>
+		<Lemma>but remember : the basic soup itself , no modification , be also great .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Have it your way , and enjoy !</Tokens>
+		<POS>VBP PRP PRP$ NN , CC VB .</POS>
+		<Lemma>have it you way , and enjoy !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>A greatly appreciated staple in our house .</Tokens>
+		<POS>DT RB VBN NN IN PRP$ NN .</POS>
+		<Lemma>a greatly appreciate staple in we house .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>UPDATE 7-23-12 : Our `` new favorite '' is to make this soup in a 4-1 ratio -LRB- 4 parts stock to 1 part soup mix -RRB- , add chopped raw onions , celery and carrots with the mix -LRB- `` mirepoix '' , except you actually eat them `` as is '' at the end -RRB- , also add with the mix some minced or chopped fresh garlic and a can of diced tomatoes with juice , add microwave-reheated frozen part-veggie meatballs or crumbled part-veggie leftover meatloaf plus any chopped fresh greens or sprouts from the vegetable drawer during the last 5 minutes of cooking , and top with rich , non-fat Greek yogurt -LRB- plain , of course -RRB- plus salt and pepper if desired when serving .</Tokens>
+		<POS>VB CD : PRP$ `` JJ JJ '' VBZ TO VB DT NN IN DT CD NN -LRB- CD NNS NN TO CD NN NN NN -RRB- , VB VBN JJ NNS , NN CC NNS IN DT NN -LRB- `` NN '' , IN PRP RB VBP PRP `` RB VBZ '' IN DT NN -RRB- , RB VB IN DT NN DT VBN CC VBN JJ NN CC DT NN IN JJ NNS IN NN , VB JJ JJ NN NNS CC VBN NN JJR NN CC DT VBN JJ NNS CC NNS IN DT NN NN IN DT JJ CD NNS IN NN , CC JJ IN JJ , JJ JJ NN -LRB- NN , IN NN -RRB- CC NN CC NN IN VBN WRB VBG .</POS>
+		<Lemma>update 7-23-12 : we `` new favorite '' be to make this soup in a 4-1 ratio -lrb- 4 part stock to 1 part soup mix -rrb- , add chop raw onion , celery and carrot with the mix -lrb- `` mirepoix '' , except you actually eat they `` as be '' at the end -rrb- , also add with the mix some mince or chop fresh garlic and a can of diced tomato with juice , add microwave-reheated frozen part-veggie meatball or crumble part-veggie leftover meatloaf plus any chop fresh green or sprout from the vegetable drawer during the last 5 minute of cooking , and top with rich , non-fat greek yogurt -lrb- plain , of course -rrb- plus salt and pepper if desire when serve .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Delish !</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>delish !</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>It 's now my husband 's favorite soup .</Tokens>
+		<POS>PRP VBZ RB PRP$ NN POS JJ NN .</POS>
+		<Lemma>it be now my husband 's favorite soup .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>So fast and easy , too -- five minutes of prep followed by 1 hour of unattended cooking and 5 more minutes at the end .</Tokens>
+		<POS>RB JJ CC JJ , RB : CD NNS IN NN VBN IN CD NN IN JJ NN CC CD JJR NNS IN DT NN .</POS>
+		<Lemma>so fast and easy , too -- five minute of prep follow by 1 hour of unattended cooking and 5 more minute at the end .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Incredibly fast , low-cost , low-cal and nutritious weeknight dinner or weekend lunch for family and lucky guests .</Tokens>
+		<POS>RB RB , JJ , JJ CC JJ NN NN CC NN NN IN NN CC JJ NNS .</POS>
+		<Lemma>incredibly fast , low-cost , low-cal and nutritious weeknight dinner or weekend lunch for family and lucky guest .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Leftovers are fabulous , too , for a second meal or for a reheatable lunch even days later !</Tokens>
+		<POS>NNP VBP JJ , RB , IN DT JJ NN CC IN DT JJ NN RB NNS RB .</POS>
+		<Lemma>Leftovers be fabulous , too , for a second meal or for a reheatable lunch even day later !</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Add even more flavor if you like by including one or two bay leaves during cooking and discarding them before serving .</Tokens>
+		<POS>VB RB RBR NN IN PRP IN IN VBG CD CC CD NN VBZ IN NN CC VBG PRP IN VBG .</POS>
+		<Lemma>add even more flavor if you like by include one or two bay leave during cooking and discard they before serve .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>: -RRB-</Tokens>
+		<POS>: -RRB-</POS>
+		<Lemma>: -rrb-</Lemma>
+	</Sentence>
+</Document>

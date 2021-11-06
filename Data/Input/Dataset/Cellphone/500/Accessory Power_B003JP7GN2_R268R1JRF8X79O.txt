@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Messed around a little charging my HTC Incredible .</Tokens>
+		<POS>VBN IN DT JJ VBG PRP$ NNP JJ .</POS>
+		<Lemma>mess around a little charge my HTC incredible .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Also charged my MP3 player .</Tokens>
+		<POS>RB VBN PRP$ NN NN .</POS>
+		<Lemma>also charge my mp3 player .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I used USB batteries , around half charged , 600mAh .</Tokens>
+		<POS>PRP VBD JJ NNS , IN DT VBN , NN .</POS>
+		<Lemma>I use usb battery , around half charge , 600mah .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They did a fair job of keeping the Incredible charged while I used it .</Tokens>
+		<POS>PRP VBD DT JJ NN IN VBG DT JJ VBN IN PRP VBD PRP .</POS>
+		<Lemma>they do a fair job of keep the incredible charge while I use it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>After a few hours or so of part-time use , the charging indicator on the phone disappeared even though the red light on the TRANS4M was still on so I 'm not sure if there was a trickle of battery power still going to the phone or not .</Tokens>
+		<POS>IN DT JJ NNS CC RB IN JJ NN , DT VBG NN IN DT NN VBD RB IN DT JJ NN IN DT NN VBD RB IN RB PRP VBP RB JJ IN EX VBD DT VB IN NN NN RB VBG TO DT NN CC RB .</POS>
+		<Lemma>after a few hour or so of part-time use , the charge indicator on the phone disappear even though the red light on the trans4m be still on so I be not sure if there be a trickle of battery power still go to the phone or not .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I unplugged it to see if the batteries continued to drain .</Tokens>
+		<POS>PRP VBD PRP TO VB IN DT NNS VBD TO VB .</POS>
+		<Lemma>I unplug it to see if the battery continue to drain .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>After a few hours , the light faded and the batteries were dead .</Tokens>
+		<POS>IN DT JJ NNS , DT JJ VBN CC DT NNS VBD JJ .</POS>
+		<Lemma>after a few hour , the light fade and the battery be dead .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The DC car plug -LRB- folds into the AA battery housing -RRB- does n't lock when out so might flop around if you 're on bumpy roads or going over speed bumps .</Tokens>
+		<POS>DT NN NN NN -LRB- VBZ IN DT NN NN NN -RRB- VBZ RB VB WRB RP RB MD VB IN IN PRP VBP IN JJ NNS CC VBG IN NN NNS .</POS>
+		<Lemma>the dc car plug -lrb- fold into the aa battery housing -rrb- do not lock when out so might flop around if you be on bumpy road or go over speed bump .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>-LRB- Side Note -RRB- Not a big deal .</Tokens>
+		<POS>-LRB- NN NN -RRB- RB DT JJ NN .</POS>
+		<Lemma>-lrb- side note -rrb- not a big deal .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I made the mistake of using my other cables and only now discovered the cables that come with the TRANS4M do not work on data transfer .</Tokens>
+		<POS>PRP VBD DT NN IN VBG PRP$ JJ NNS CC RB RB VBN DT NNS WDT VBP IN DT NN VBP RB VB IN NNS NN .</POS>
+		<Lemma>I make the mistake of use my other cable and only now discover the cable that come with the trans4m do not work on datum transfer .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>They only charge the device .</Tokens>
+		<POS>PRP RB VBP DT NN .</POS>
+		<Lemma>they only charge the device .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm giving this USB charger one star , but I could be mistaken .</Tokens>
+		<POS>PRP VBP VBG DT JJ NN CD NN , CC PRP MD VB VBN .</POS>
+		<Lemma>I be give this usb charger one star , but I could be mistake .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have a 6 year old prepaid cell phone with a micro usb port .</Tokens>
+		<POS>PRP VBP DT CD NN JJ JJ NN NN IN DT JJ NN NN .</POS>
+		<Lemma>I have a 6 year old prepaid cell phone with a micro usb port .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I mistakenly clicked to buy this mini usb charger .</Tokens>
+		<POS>PRP RB VBD TO VB DT JJ NN NN .</POS>
+		<Lemma>I mistakenly click to buy this mini usb charger .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I bought a mini to micro adapter to solve this problem : http:\/\/www.amazon.com\/gp\/product\/B002O1S8IE Either this charger , or the adapter I bought to fit it to my phone , does n't work .</Tokens>
+		<POS>PRP VBD DT NNS TO JJ NN TO VB DT NN : NN CC DT NN , CC DT NN PRP VBD TO VB PRP TO PRP$ NN , VBZ RB VB .</POS>
+		<Lemma>I buy a minus to micro adapter to solve this problem : http:\/\/www.amazon.com\/gp\/product\/b002o1s8ie either this charger , or the adapter I buy to fit it to my phone , do not work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My phone wo n't charge off them .</Tokens>
+		<POS>PRP$ NN MD RB VB RP PRP .</POS>
+		<Lemma>my phone will not charge off they .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I may have messed up and bought the wrong thing -LRB- s -RRB- .</Tokens>
+		<POS>PRP MD VB VBN RP CC VBD DT JJ NN -LRB- NNS -RRB- .</POS>
+		<Lemma>I may have mess up and buy the wrong thing -lrb- s -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm not meaning to advertise for AT&T but , a friend 's AT&T phone charger works with my phone .</Tokens>
+		<POS>PRP VBP RB VBG TO VB IN NNP CC , DT NN POS NNP NN NN VBZ IN PRP$ NN .</POS>
+		<Lemma>I be not mean to advertise for AT&T but , a friend 's AT&T phone charger work with my phone .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I may buy one myself and see if it works .</Tokens>
+		<POS>PRP MD VB CD PRP CC VB IN PRP VBZ .</POS>
+		<Lemma>I may buy one myself and see if it work .</Lemma>
+	</Sentence>
+</Document>

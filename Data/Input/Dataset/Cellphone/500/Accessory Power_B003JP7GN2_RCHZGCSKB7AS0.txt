@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this item because it sounded good and had mostly positive reviews .</Tokens>
+		<POS>PRP VBD DT NN IN PRP VBD JJ CC VBD RB JJ NNS .</POS>
+		<Lemma>I buy this item because it sound good and have mostly positive review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It appeared to work well for several months , but I only tried the wall plug in that time .</Tokens>
+		<POS>PRP VBD TO VB RB IN JJ NNS , CC PRP RB VBD DT NN NN IN DT NN .</POS>
+		<Lemma>it appear to work well for several month , but I only try the wall plug in that time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just recently I tried the 12V plug , which did not work and resulted in a faint smell of fried IC .</Tokens>
+		<POS>RB RB PRP VBD DT NN NN , WDT VBD RB VB CC VBD IN DT JJ NN IN JJ NN .</POS>
+		<Lemma>just recently I try the 12v plug , which do not work and result in a faint smell of fried ic .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>That same day , the wall plug stopped working as well .</Tokens>
+		<POS>DT JJ NN , DT NN NN VBD VBG RB RB .</POS>
+		<Lemma>that same day , the wall plug stop work as well .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I contacted the company for warranty service -LRB- 3 years are advertised ! -RRB-</Tokens>
+		<POS>PRP VBD DT NN IN NN NN -LRB- CD NNS VBP VBN . -RRB-</POS>
+		<Lemma>I contact the company for warranty service -lrb- 3 year be advertise ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>, and was told that they would be happy to replace it for a $ 3.99 handling fee !</Tokens>
+		<POS>, CC VBD VBN IN PRP MD VB JJ TO VB PRP IN DT $ CD VBG NN .</POS>
+		<Lemma>, and be tell that they would be happy to replace it for a $ 3.99 handle fee !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This is in addition to the -LRB- understandable -RRB- cost of shipping the dead part back to them .</Tokens>
+		<POS>DT VBZ IN NN TO DT -LRB- JJ -RRB- NN IN VBG DT JJ NN RB TO PRP .</POS>
+		<Lemma>this be in addition to the -lrb- understandable -rrb- cost of ship the dead part back to they .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So much for their great warranty .</Tokens>
+		<POS>RB RB IN PRP$ JJ NN .</POS>
+		<Lemma>so much for they great warranty .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There is no indication on their web site or anywhere else I could find that there would be a charge to replace a broken part , and had I known I would have bought a different charger .</Tokens>
+		<POS>EX VBZ DT NN IN PRP$ NN NN CC RB RB PRP MD VB IN EX MD VB DT NN TO VB DT JJ NN , CC VBD PRP JJ PRP MD VB VBN DT JJ NN .</POS>
+		<Lemma>there be no indication on they web site or anywhere else I could find that there would be a charge to replace a broken part , and have I known I would have buy a different charger .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>No way am I going to send them money until they can prove to me that their part will work longer than two months of intermittent use .</Tokens>
+		<POS>DT NN VBP PRP VBG TO VB PRP NN IN PRP MD VB TO PRP IN PRP$ NN MD VB JJR IN CD NNS IN JJ NN .</POS>
+		<Lemma>no way be I go to send they money until they can prove to I that they part will work longer than two month of intermittent use .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>-LRB- Updated 5\/16\/11 -RRB- A few weeks after posting this review I was contacted by the vendor apologizing for the handling fee and offering my a no-cost RMA .</Tokens>
+		<POS>-LRB- VBN CD -RRB- DT JJ NNS IN VBG DT NN PRP VBD VBN IN DT NN VBG IN DT VBG NN CC NN PRP$ DT JJ NN .</POS>
+		<Lemma>-lrb- update 5\/16\/11 -rrb- a few week after post this review I be contact by the vendor apologize for the handle fee and offering my a no-cost rma .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I just received the replacement part and so far it is working -LRB- wall plug and 12V connector tested -RRB- .</Tokens>
+		<POS>PRP RB VBD DT NN NN CC RB RB PRP VBZ VBG -LRB- NN NN CC NN NN VBN -RRB- .</POS>
+		<Lemma>I just receive the replacement part and so far it be work -lrb- wall plug and 12v connector test -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I am not ready to up the rating until I have used it more , but I am hopeful ... -LRB- Updated 5\/26\/11 -RRB- After a week or so of use , the new unit appears to be working , and I tried all of the inputs right away this time .</Tokens>
+		<POS>PRP VBP RB JJ TO RP DT NN IN PRP VBP VBN PRP RBR , CC PRP VBP JJ : -LRB- VBN CD -RRB- IN DT NN CC RB IN NN , DT JJ NN VBZ TO VB VBG , CC PRP VBD DT IN DT NNS RB RB DT NN .</POS>
+		<Lemma>I be not ready to up the rating until I have use it more , but I be hopeful ... -lrb- update 5\/26\/11 -rrb- after a week or so of use , the new unit appear to be work , and I try all of the input right away this time .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I like the features of this product a lot , and the vendor did do the right thing the seond time around .</Tokens>
+		<POS>PRP VBP DT NNS IN DT NN DT NN , CC DT NN VBD VB DT JJ NN DT JJ NN IN .</POS>
+		<Lemma>I like the feature of this product a lot , and the vendor do do the right thing the seond time around .</Lemma>
+	</Sentence>
+</Document>

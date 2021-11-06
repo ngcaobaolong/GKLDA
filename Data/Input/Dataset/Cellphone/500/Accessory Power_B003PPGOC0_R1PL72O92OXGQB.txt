@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works perfectly with my HTC Thunderbolt .</Tokens>
+		<POS>NNP RB IN PRP$ NNP NNP .</POS>
+		<Lemma>Works perfectly with my HTC Thunderbolt .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I can play music over the car radio , and the included microphone is a great addition for handsfree calling .</Tokens>
+		<POS>PRP MD VB NN IN DT NN NN , CC DT VBN NN VBZ DT JJ NN IN NN NN .</POS>
+		<Lemma>I can play music over the car radio , and the include microphone be a great addition for handsfree calling .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Some people have told me that I sound distant , but they can hear me , and I hear them perfectly through the car speakers .</Tokens>
+		<POS>DT NNS VBP VBN PRP IN PRP VBP JJ , CC PRP MD VB PRP , CC PRP VBP PRP RB IN DT NN NNS .</POS>
+		<Lemma>some people have tell I that I sound distant , but they can hear I , and I hear they perfectly through the car speaker .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Works great for cars that do n't have bluetooth built in .</Tokens>
+		<POS>NNP JJ IN NNS WDT VBP RB VB NN VBN IN .</POS>
+		<Lemma>Works great for car that do not have bluetooth build in .</Lemma>
+	</Sentence>
+</Document>

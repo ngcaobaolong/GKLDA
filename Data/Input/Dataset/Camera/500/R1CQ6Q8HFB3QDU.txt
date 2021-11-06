@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cute machine which has the option of front and back viewing , I found the camera itself easy to use , great for travel ; although , not being very computer literate , the downloading , blogging , burning took me awhile to do .</Tokens>
+		<POS>DT JJ NN WDT VBZ DT NN IN NN CC RB VBG , PRP VBD DT NN PRP JJ TO VB , JJ IN NN : IN , RB VBG RB NN NN , DT NN , NN , VBG VBD PRP RB TO VB .</POS>
+		<Lemma>this cute machine which have the option of front and back view , I find the camera itself easy to use , great for travel ; although , not be very computer literate , the downloading , blogging , burn take I awhile to do .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The unit holds few controls , on\/off , menu , light -LRB- which is fairly bright -RRB- , port for the computer which pops out from the side -LRB- they also include a short , extension wire to help -RRB- , the front\/back viewing .</Tokens>
+		<POS>DT NN VBZ JJ NNS , JJ , NN , NN -LRB- WDT VBZ RB JJ -RRB- , NN IN DT NN WDT VBZ RP IN DT NN -LRB- PRP RB VBP DT JJ , NN NN TO VB -RRB- , DT NN NN .</POS>
+		<Lemma>the unit hold few control , on\/off , menu , light -lrb- which be fairly bright -rrb- , port for the computer which pop out from the side -lrb- they also include a short , extension wire to help -rrb- , the front\/back viewing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It states about 30 minutes of contiuous filming ; one can , of course , can shoot photos .</Tokens>
+		<POS>PRP VBZ IN CD NNS IN JJ VBG : PRP MD , IN NN , MD VB NNS .</POS>
+		<Lemma>it state about 30 minute of contiuous film ; one can , of course , can shoot photo .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There are 3 pixel settings for various situations .</Tokens>
+		<POS>EX VBP CD NN NNS IN JJ NNS .</POS>
+		<Lemma>there be 3 pixel setting for various situation .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I think the images are quite sharp , and the playback and volume fine .</Tokens>
+		<POS>PRP VBP DT NNS VBP RB JJ , CC DT NN CC NN NN .</POS>
+		<Lemma>I think the image be quite sharp , and the playback and volume fine .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>One needs to load an outside social site or use Sony 's to do the blogging .</Tokens>
+		<POS>CD VBZ TO VB DT JJ JJ NN CC NN NNP POS TO VB DT NN .</POS>
+		<Lemma>one need to load a outside social site or use Sony 's to do the blogging .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There 's lot of instruction which can be downloaded .</Tokens>
+		<POS>EX VBZ NN IN NN WDT MD VB VBN .</POS>
+		<Lemma>there be lot of instruction which can be download .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I struggled with them .</Tokens>
+		<POS>PRP VBD IN PRP .</POS>
+		<Lemma>I struggle with they .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 'm more of a follow the dots , go from 1-10 , outlined kind of learner .</Tokens>
+		<POS>PRP VBP JJR IN DT VBP DT NNS , VB IN CD , VBN NN IN NN .</POS>
+		<Lemma>I be more of a follow the dot , go from 1-10 , outline kind of learner .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I do n't know , maybe it 's just me , but I had to review the instruction frequently .</Tokens>
+		<POS>PRP VBP RB VB , RB PRP VBZ RB PRP , CC PRP VBD TO VB DT NN RB .</POS>
+		<Lemma>I do not know , maybe it be just I , but I have to review the instruction frequently .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Overall , I like it , and have traveled , hiked , shot from home , indoors and outdoors , and the machine has held up .</Tokens>
+		<POS>RB , PRP VBP PRP , CC VBP VBN , VBN , VBN IN NN , RB CC RB , CC DT NN VBZ VBN RP .</POS>
+		<Lemma>overall , I like it , and have travel , hike , shoot from home , indoors and outdoors , and the machine have hold up .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Now the question is , is it worth the price and now with our I-phones doing so much , is it still pertinent .</Tokens>
+		<POS>RB DT NN VBZ , VBZ PRP IN DT NN CC RB IN PRP$ NNS VBG RB RB , VBZ PRP RB JJ .</POS>
+		<Lemma>now the question be , be it worth the price and now with we i-phone do so much , be it still pertinent .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Either way , I 'm going to make use of it .</Tokens>
+		<POS>DT NN , PRP VBP VBG TO VB NN IN PRP .</POS>
+		<Lemma>either way , I be go to make use of it .</Lemma>
+	</Sentence>
+</Document>

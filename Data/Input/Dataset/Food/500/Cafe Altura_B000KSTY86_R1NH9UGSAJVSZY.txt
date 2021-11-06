@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The beans are extremely oily , so you should not be using it with an automatic espresso machine as it clogs it .</Tokens>
+		<POS>DT NNS VBP RB JJ , IN PRP MD RB VB VBG PRP IN DT JJ NN NN IN PRP VBZ PRP .</POS>
+		<Lemma>the bean be extremely oily , so you should not be use it with a automatic espresso machine as it clog it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The coffee is very rich and flavorful .</Tokens>
+		<POS>DT NN VBZ RB JJ CC JJ .</POS>
+		<Lemma>the coffee be very rich and flavorful .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I used Keurig coffee maker , it took some time for the water to drip through the oily coffee , but it was worth waiting .</Tokens>
+		<POS>PRP VBD NNP NN NN , PRP VBD DT NN IN DT NN TO VB IN DT JJ NN , CC PRP VBD JJ VBG .</POS>
+		<Lemma>I use Keurig coffee maker , it take some time for the water to drip through the oily coffee , but it be worth wait .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Recommended for regular coffee makers .</Tokens>
+		<POS>VBN IN JJ NN NNS .</POS>
+		<Lemma>recommend for regular coffee maker .</Lemma>
+	</Sentence>
+</Document>

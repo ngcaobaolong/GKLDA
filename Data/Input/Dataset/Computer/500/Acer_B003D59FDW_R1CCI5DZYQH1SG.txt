@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am so so HAPPY with this monitor .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT NN .</POS>
+		<Lemma>I be so so happy with this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It exceeds my expectations .</Tokens>
+		<POS>PRP VBZ PRP$ NNS .</POS>
+		<Lemma>it exceed my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After using the old model for so long this was like getting a gift for Christmas that you really wanted .</Tokens>
+		<POS>IN VBG DT JJ NN IN RB RB DT VBD IN VBG DT NN IN NNP IN PRP RB VBD .</POS>
+		<Lemma>after use the old model for so long this be like get a gift for Christmas that you really want .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thank You</Tokens>
+		<POS>VB PRP</POS>
+		<Lemma>thank you</Lemma>
+	</Sentence>
+</Document>

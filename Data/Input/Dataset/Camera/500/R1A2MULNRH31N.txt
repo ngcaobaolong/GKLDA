@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is an excellent camera for digital cameras .</Tokens>
+		<POS>DT VBZ DT JJ NN IN JJ NNS .</POS>
+		<Lemma>this be a excellent camera for digital camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am enjoying the type and style of this camera .</Tokens>
+		<POS>PRP VBP VBG DT NN CC NN IN DT NN .</POS>
+		<Lemma>I be enjoy the type and style of this camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Awesome deal from amazon .</Tokens>
+		<POS>JJ NN IN NN .</POS>
+		<Lemma>awesome deal from amazon .</Lemma>
+	</Sentence>
+</Document>

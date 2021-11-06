@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wanted to report that I am extremely happy with the product .</Tokens>
+		<POS>PRP VBD TO VB IN PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>I want to report that I be extremely happy with the product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Ever since I received it , I have used it .</Tokens>
+		<POS>RB IN PRP VBD PRP , PRP VBP VBN PRP .</POS>
+		<Lemma>ever since I receive it , I have use it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is great for going from the car , to a house , to a bus .</Tokens>
+		<POS>PRP VBZ JJ IN VBG IN DT NN , TO DT NN , TO DT NN .</POS>
+		<Lemma>it be great for go from the car , to a house , to a bus .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In the car , I love being able to charge both my phone and my ipod and then have the ability to continue charging it on the same device when I get home .</Tokens>
+		<POS>IN DT NN , PRP VBP VBG JJ TO VB CC PRP$ NN CC PRP$ NN CC RB VBP DT NN TO VB VBG PRP IN DT JJ NN WRB PRP VBP NN .</POS>
+		<Lemma>in the car , I love be able to charge both my phone and my ipod and then have the ability to continue charge it on the same device when I get home .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very recently I even tried the AA and 9V charging methods .</Tokens>
+		<POS>RB RB PRP RB VBD DT NN CC NN VBG NNS .</POS>
+		<Lemma>very recently I even try the aa and 9v charge method .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Both were extremely successful .</Tokens>
+		<POS>DT VBD RB JJ .</POS>
+		<Lemma>both be extremely successful .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Without the aid of this device , I would have surely run out of battery and had to find an alternative method of entertainment on a long bus ride .</Tokens>
+		<POS>IN DT NN IN DT NN , PRP MD VB RB VBN IN IN NN CC VBD TO VB DT JJ NN IN NN IN DT JJ NN NN .</POS>
+		<Lemma>without the aid of this device , I would have surely run out of battery and have to find a alternative method of entertainment on a long bus ride .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you play games on either a phone or an ipod this will really help .</Tokens>
+		<POS>IN PRP VBP NNS IN CC DT NN CC DT NN DT MD RB VB .</POS>
+		<Lemma>if you play game on either a phone or a ipod this will really help .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is much cheaper than buying a side battery backup and is versatile in its usage .</Tokens>
+		<POS>PRP VBZ JJ JJR IN VBG DT NN NN NN CC VBZ JJ IN PRP$ NN .</POS>
+		<Lemma>it be much cheaper than buy a side battery backup and be versatile in its usage .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This is an amazing accessory .</Tokens>
+		<POS>DT VBZ DT JJ NN .</POS>
+		<Lemma>this be a amazing accessory .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Normally I do n't write product reviews , but for this product , I just had to .</Tokens>
+		<POS>RB PRP VBP RB VB NN NNS , CC IN DT NN , PRP RB VBD TO .</POS>
+		<Lemma>normally I do not write product review , but for this product , I just have to .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>If you use electronics a lot , and need to charge them this is a must-have !</Tokens>
+		<POS>IN PRP VBP NNS DT NN , CC VB TO VB PRP DT VBZ DT JJ .</POS>
+		<Lemma>if you use electronics a lot , and need to charge they this be a must-have !</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>You 'll be glad you brought it !</Tokens>
+		<POS>PRP MD VB JJ PRP VBD PRP .</POS>
+		<Lemma>you 'll be glad you bring it !</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I was !</Tokens>
+		<POS>PRP VBD .</POS>
+		<Lemma>I be !</Lemma>
+	</Sentence>
+</Document>

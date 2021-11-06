@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>well ... this is cheap and great deal , i found on google search engine , than i decided to buy ... i am happy with that product .</Tokens>
+		<POS>RB : DT VBZ JJ CC JJ NN , FW VBN IN NN NN NN , IN FW VBD TO VB : FW VBP JJ IN DT NN .</POS>
+		<Lemma>well ... this be cheap and great deal , i find on google search engine , than i decide to buy ... i be happy with that product .</Lemma>
+	</Sentence>
+</Document>

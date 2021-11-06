@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased the camera for a Florida Keys trip and it held up well with getting tossed around the boat .</Tokens>
+		<POS>VBN DT NN IN DT NNP NNPS NN CC PRP VBD RP RB IN VBG VBD RP DT NN .</POS>
+		<Lemma>purchase the camera for a Florida Keys trip and it hold up well with get toss around the boat .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Nephew dove to around 15 feet + and no leaks as other reported .</Tokens>
+		<POS>NN VBD TO IN CD NNS CC CC DT NNS IN JJ VBN .</POS>
+		<Lemma>nephew dive to around 15 foot + and no leak as other report .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Would assume that you have to be careful in closing the camera to stay water tight .</Tokens>
+		<POS>MD VB IN PRP VBP TO VB JJ IN VBG DT NN TO VB NN JJ .</POS>
+		<Lemma>would assume that you have to be careful in close the camera to stay water tight .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pics are better then anticipated , will try surfing next .</Tokens>
+		<POS>NNS VBP RBR RB VBN , MD VB NN JJ .</POS>
+		<Lemma>pic be better then anticipate , will try surfing next .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wanted a camera for my purse and this little thing fits the bill ... use it at least two to three times a day for little things that need to be remembered !</Tokens>
+		<POS>VBD DT NN IN PRP$ NN CC DT JJ NN VBZ DT NN : VB PRP IN JJS CD TO CD NNS DT NN IN JJ NNS WDT VBP TO VB VBN .</POS>
+		<Lemma>want a camera for my purse and this little thing fit the bill ... use it at least two to three time a day for little thing that need to be remember !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>: -RRB-</Tokens>
+		<POS>: -RRB-</POS>
+		<Lemma>: -rrb-</Lemma>
+	</Sentence>
+</Document>

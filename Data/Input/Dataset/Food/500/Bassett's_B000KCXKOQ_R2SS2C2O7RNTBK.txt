@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm a recently converted `` Whovian '' harboring an immense curiosity regarding the Fourth Doctor 's favorite snack\/conversation starter\/peace offering of choice -LRB- although Beatles George Harrison and Ringo Starr reportedly liked them , which often resulted in fans throwing them at the both of them mid-concert -RRB- , so I ordered a bag at a decent price .</Tokens>
+		<POS>PRP VBP DT RB VBN `` NNP '' VBG DT JJ NN VBG DT JJ NN POS JJ NN NN NN IN NN -LRB- IN NNP NNP NNP CC NNP NNP RB VBD PRP , WDT RB VBD IN NNS VBG PRP IN DT DT IN PRP JJ -RRB- , IN PRP VBD DT NN IN DT JJ NN .</POS>
+		<Lemma>I be a recently convert `` Whovian '' harbor a immense curiosity regard the fourth doctor 's favorite snack\/conversation starter\/peace offering of choice -lrb- although Beatles George Harrison and Ringo Starr reportedly like they , which often result in fan throw they at the both of they mid-concert -rrb- , so I order a bag at a decent price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It took its sweet time getting here , but I 'd say it 's worth it .</Tokens>
+		<POS>PRP VBD PRP$ JJ NN VBG RB , CC PRP MD VB PRP VBZ JJ PRP .</POS>
+		<Lemma>it take its sweet time get here , but I would say it be worth it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First off : I do n't know what other people were complaining about with respect to the portion size : the bag may not be huge , but you 're actually are getting a rather large portion , particularly because of the size of each individual candy .</Tokens>
+		<POS>NNP RB : PRP VBP RB VB WP JJ NNS VBD VBG IN IN NN TO DT NN NN : DT NN MD RB VB JJ , CC PRP VBP RB VBP VBG DT RB JJ NN , RB IN IN DT NN IN DT JJ NN .</POS>
+		<Lemma>First off : I do not know what other people be complain about with respect to the portion size : the bag may not be huge , but you be actually be get a rather large portion , particularly because of the size of each individual candy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Each `` Jelly Baby '' is about an inch long -LRB- the same length of a Sour Patch Kid -RRB- but about 3\/4 of an inch thick -LRB- more than twice as thick as a Sour Patch Kid , and about twice the size overall as an average gummy bear -RRB- .</Tokens>
+		<POS>DT `` NNP NNP '' VBZ IN DT NN RB -LRB- DT JJ NN IN DT JJ NNP NNP -RRB- CC IN CD IN DT NN JJ -LRB- JJR IN RB IN JJ IN DT JJ NNP NNP , CC IN RB DT NN RB IN DT JJ NN NN -RRB- .</POS>
+		<Lemma>each `` Jelly Baby '' be about a inch long -lrb- the same length of a sour Patch Kid -rrb- but about 3\/4 of a inch thick -lrb- more than twice as thick as a sour Patch Kid , and about twice the size overall as a average gummy bear -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In other words , these things are pretty big as far as soft\/gelatin based candy goes : so for the size you actually get a lot even with the fairly small bag .</Tokens>
+		<POS>IN JJ NNS , DT NNS VBP RB JJ IN RB IN NN VBN NN VBZ : RB IN DT NN PRP RB VBP DT NN RB IN DT RB JJ NN .</POS>
+		<Lemma>in other word , these thing be pretty big as far as soft\/gelatin base candy go : so for the size you actually get a lot even with the fairly small bag .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>To put it in perspective : a whole bag of Haribo Gummy Bears is about 450 calories .</Tokens>
+		<POS>TO VB PRP IN NN : DT JJ NN IN NNP NNP NNPS VBZ IN CD NNS .</POS>
+		<Lemma>to put it in perspective : a whole bag of Haribo Gummy Bears be about 450 calorie .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>A bag of Jelly Babies is about 720 .</Tokens>
+		<POS>DT NN IN NNP NNS VBZ IN CD .</POS>
+		<Lemma>a bag of Jelly baby be about 720 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you 're watching your figure , keep that in mind !</Tokens>
+		<POS>IN PRP VBP VBG PRP$ NN , VB DT IN NN .</POS>
+		<Lemma>if you be watch you figure , keep that in mind !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Jelly Babies are nothing like gummy bears , contrary to appearance or rumor .</Tokens>
+		<POS>NNP NNS VBP NN IN JJ NNS , JJ TO NN CC NN .</POS>
+		<Lemma>Jelly baby be nothing like gummy bear , contrary to appearance or rumor .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Their texture and flavor is more akin to an American Jelly bean .</Tokens>
+		<POS>PRP$ NN CC NN VBZ RBR JJ TO DT JJ NNP NN .</POS>
+		<Lemma>they texture and flavor be more akin to a american Jelly bean .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>They have a soft outer shell of gelatin and starch and a softer `` jelly '' -LRB- gelatin -RRB- center where most of the flavor is concentrated .</Tokens>
+		<POS>PRP VBP DT JJ JJ NN IN NN CC NN CC DT JJR `` NN '' -LRB- NN -RRB- NN WRB JJS IN DT NN VBZ VBN .</POS>
+		<Lemma>they have a soft outer shell of gelatin and starch and a softer `` jelly '' -lrb- gelatin -rrb- center where most of the flavor be concentrate .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Basically , imagine a jelly bean with a really , really , really , really soft outer shell in the shape of a person , and that 's the closest approximation you can get .</Tokens>
+		<POS>RB , VBP DT NN NN IN DT RB , RB , RB , RB JJ JJ NN IN DT NN IN DT NN , CC DT VBZ DT JJS NN PRP MD VB .</POS>
+		<Lemma>basically , imagine a jelly bean with a really , really , really , really soft outer shell in the shape of a person , and that be the closest approximation you can get .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The flavors will taste a bit off or peculiar to Americans , because most of the flavor is derived from actual fruit juice and real sugar -LRB- in contrast to most American gummy candies , which use artificial flavors and high fructose corn syrup -RRB- .</Tokens>
+		<POS>DT NNS MD VB DT NN RP CC JJ TO NNPS , IN JJS IN DT NN VBZ VBN IN JJ NN NN CC JJ NN -LRB- IN NN TO RBS JJ NN NNS , WDT VBP JJ NNS CC JJ NN NN NN -RRB- .</POS>
+		<Lemma>the flavor will taste a bit off or peculiar to Americans , because most of the flavor be derive from actual fruit juice and real sugar -lrb- in contrast to most american gummy candy , which use artificial flavor and high fructose corn syrup -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The flavors are also based around British sensibilities , so flavors like blackcurrant might be a little peculiar tasting as well .</Tokens>
+		<POS>DT NNS VBP RB VBN IN JJ NNS , RB NNS IN NN MD VB DT JJ JJ NN RB RB .</POS>
+		<Lemma>the flavor be also base around british sensibility , so flavor like blackcurrant might be a little peculiar tasting as well .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>There also is a slightly grainy texture to them : this is from the starch coating used to break the candies from the molds .</Tokens>
+		<POS>EX RB VBZ DT RB JJ NN TO PRP : DT VBZ IN DT NN NN VBN TO VB DT NNS IN DT NNS .</POS>
+		<Lemma>there also be a slightly grainy texture to they : this be from the starch coating use to break the candy from the mold .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>All and all , I enjoyed them , but not enough to say I could eat them every day -LRB- like the Doctor did -RRB- .</Tokens>
+		<POS>DT CC DT , PRP VBD PRP , CC RB JJ TO VB PRP MD VB PRP DT NN -LRB- IN DT NN VBD -RRB- .</POS>
+		<Lemma>all and all , I enjoy they , but not enough to say I could eat they every day -lrb- like the doctor do -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I 'd say they 're sweets best suited for a particular mood .</Tokens>
+		<POS>PRP MD VB PRP VBP NNS JJS VBN IN DT JJ NN .</POS>
+		<Lemma>I would say they be sweet best suit for a particular mood .</Lemma>
+	</Sentence>
+</Document>

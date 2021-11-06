@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this webcam about a year ago .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN RB .</POS>
+		<Lemma>I buy this webcam about a year ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Six months later it stopped working .</Tokens>
+		<POS>CD NNS RB PRP VBD VBG .</POS>
+		<Lemma>six month later it stop work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I am a computer scientist -LRB- BA MS -RRB- with 30 plus of year of experience .</Tokens>
+		<POS>PRP VBP DT NN NN -LRB- NN CC NN -RRB- IN CD CC IN NN IN NN .</POS>
+		<Lemma>I be a computer scientist -lrb- ba m -rrb- with 30 plus of year of experience .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When the device stopped working , six months ago , I tried to reconfigured and nothing worked .</Tokens>
+		<POS>WRB DT NN VBD VBG , CD NNS RB , PRP VBD TO VBN CC NN VBD .</POS>
+		<Lemma>when the device stop work , six month ago , I try to reconfigure and nothing work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I left it along for six months , and last night I spent 4 hours going through hundreds of website and searching for `` my '' problem and trying `` everything under the sun . ''</Tokens>
+		<POS>PRP VBD PRP IN IN CD NNS , CC JJ NN PRP VBD CD NNS VBG IN NNS IN NN CC VBG IN `` PRP$ '' NN CC VBG `` NN IN DT NN . ''</POS>
+		<Lemma>I leave it along for six month , and last night I spend 4 hour go through hundred of website and search for `` my '' problem and try `` everything under the sun . ''</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Thirty minutes ago , I finally called FOSCAM tech support .</Tokens>
+		<POS>CD NNS RB , PRP RB VBD NNP NN NN .</POS>
+		<Lemma>thirty minute ago , I finally call FOSCAM tech support .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>They took my number and had a tech person in India or Pakistan call me back .</Tokens>
+		<POS>PRP VBD PRP$ NN CC VBD DT NN NN IN NNP CC NNP VB PRP RB .</POS>
+		<Lemma>they take my number and have a tech person in India or Pakistan call I back .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Very nice guy .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very nice guy .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I assumed `` Okay I 'm going to learn something new ! ''</Tokens>
+		<POS>PRP VBD `` UH PRP VBP VBG TO VB NN JJ . ''</POS>
+		<Lemma>I assume `` okay I be go to learn something new ! ''</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The tech support spent 20 minutes trying to figure out what was wrong .</Tokens>
+		<POS>DT NN NN VBD CD NNS VBG TO VB RP WP VBD JJ .</POS>
+		<Lemma>the tech support spend 20 minute try to figure out what be wrong .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>He finally told me `` Give me $ 39 , and I can fix the software in the unit . ''</Tokens>
+		<POS>PRP RB VBD PRP `` VB PRP $ CD , CC PRP MD VB DT NN IN DT NN . ''</POS>
+		<Lemma>he finally tell I `` give I $ 39 , and I can fix the software in the unit . ''</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I replied `` Why ca n't I fix it ? ''</Tokens>
+		<POS>PRP VBD `` WRB MD RB PRP VBP PRP . ''</POS>
+		<Lemma>I reply `` why can not I fix it ? ''</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>He said `` okay , '' and the conversation ended .</Tokens>
+		<POS>PRP VBD `` JJ , '' CC DT NN VBD .</POS>
+		<Lemma>he say `` okay , '' and the conversation end .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>FOSCAM IS A PIECE CRAP\/HUSTLER !</Tokens>
+		<POS>NNP VBZ DT NN NN .</POS>
+		<Lemma>FOSCAM be a piece crap\/hustler !</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Thank goodness for the competition !!</Tokens>
+		<POS>VB NN IN DT NN IN</POS>
+		<Lemma>thank goodness for the competition !!</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I am now buying another brand .</Tokens>
+		<POS>PRP VBP RB VBG DT NN .</POS>
+		<Lemma>I be now buy another brand .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Or , I forgot to tell you ... this device is a pain to configure !</Tokens>
+		<POS>CC , PRP VBD TO VB PRP : DT NN VBZ DT NN TO VB .</POS>
+		<Lemma>or , I forget to tell you ... this device be a pain to configure !</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Search ALL over .</Tokens>
+		<POS>VB NN IN .</POS>
+		<Lemma>search all over .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Do n't know why FOSCAM ca n't built a decent user interface .</Tokens>
+		<POS>VBP RB VB WRB NNP MD RB VBD DT JJ NN NN .</POS>
+		<Lemma>do not know why FOSCAM can not build a decent user interface .</Lemma>
+	</Sentence>
+</Document>

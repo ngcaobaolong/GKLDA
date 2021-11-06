@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Love it !</Tokens>
+		<POS>NN PRP .</POS>
+		<Lemma>love it !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Wonderfull pics of my daugther 's volleyball games .</Tokens>
+		<POS>JJ NNS IN PRP$ NN POS NN NNS .</POS>
+		<Lemma>wonderfull pic of my daugther 's volleyball game .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Wish I would have bought it sooner .</Tokens>
+		<POS>NNP PRP MD VB VBN PRP RBR .</POS>
+		<Lemma>Wish I would have buy it sooner .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am looking forward to taking it on vacation this spring .</Tokens>
+		<POS>PRP VBP VBG RB TO VBG PRP IN NN DT NN .</POS>
+		<Lemma>I be look forward to take it on vacation this spring .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great camera for a beginner .</Tokens>
+		<POS>JJ NN IN DT NN .</POS>
+		<Lemma>great camera for a beginner .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It was a super product .</Tokens>
+		<POS>PRP VBD DT JJ NN .</POS>
+		<Lemma>it be a super product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Just as they said .</Tokens>
+		<POS>RB IN PRP VBD .</POS>
+		<Lemma>just as they say .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Arrived very quickly .</Tokens>
+		<POS>VBN RB RB .</POS>
+		<Lemma>arrive very quickly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Will order again , already gone through 5lbs an have started on the other 5 .</Tokens>
+		<POS>MD VB RB , RB VBN IN NNS DT VBP VBN IN DT JJ CD .</POS>
+		<Lemma>will order again , already go through 5lb a have start on the other 5 .</Lemma>
+	</Sentence>
+</Document>

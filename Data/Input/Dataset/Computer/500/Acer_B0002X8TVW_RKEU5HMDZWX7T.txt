@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased the LCD for my wife since she had no desktop space with the CRT Display .</Tokens>
+		<POS>PRP VBD DT NNS IN PRP$ NN IN PRP VBD DT NN NN IN DT NNP NNP .</POS>
+		<Lemma>I purchase the lcd for my wife since she have no desktop space with the CRT Display .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She loves it !</Tokens>
+		<POS>PRP VBZ PRP .</POS>
+		<Lemma>she love it !</Lemma>
+	</Sentence>
+</Document>

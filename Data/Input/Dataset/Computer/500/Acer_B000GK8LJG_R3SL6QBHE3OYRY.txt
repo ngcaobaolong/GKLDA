@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very happy with purchase .</Tokens>
+		<POS>RB JJ IN NN .</POS>
+		<Lemma>very happy with purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Monitor doubles as a primary monitor for a Mac G2 as well as a secondary monitor for a Dell Notebook .</Tokens>
+		<POS>NNP VBZ IN DT JJ NN IN DT NNP NN RB RB IN DT JJ NN IN DT NNP NNP .</POS>
+		<Lemma>Monitor double as a primary monitor for a Mac g2 as well as a secondary monitor for a Dell Notebook .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>No problems detected , no flaws noticed .</Tokens>
+		<POS>DT NNS VBN , DT NNS VBD .</POS>
+		<Lemma>no problem detect , no flaw notice .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Just an average user getting good value in this product .</Tokens>
+		<POS>RB DT JJ NN VBG JJ NN IN DT NN .</POS>
+		<Lemma>just a average user get good value in this product .</Lemma>
+	</Sentence>
+</Document>

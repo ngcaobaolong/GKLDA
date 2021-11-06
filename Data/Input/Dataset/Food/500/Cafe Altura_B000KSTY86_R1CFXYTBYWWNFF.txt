@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Let me start by saying it was very good but ... I would n't exactly call this dark roast .</Tokens>
+		<POS>VB PRP VB IN VBG PRP VBD RB JJ CC : PRP MD RB RB VB DT JJ NN .</POS>
+		<Lemma>let I start by say it be very good but ... I would not exactly call this dark roast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have been drinking Italian Espresso roast and this did n't have the body that I expected .</Tokens>
+		<POS>PRP VBP VBN VBG JJ NN NN CC DT VBD RB VB DT NN IN PRP VBD .</POS>
+		<Lemma>I have be drink italian espresso roast and this do not have the body that I expect .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I will certainly drink it up and enjoy it , maybe even mix it in with the espresso beans .</Tokens>
+		<POS>PRP MD RB VB PRP RB CC VB PRP , RB RB VB PRP IN IN DT NN NNS .</POS>
+		<Lemma>I will certainly drink it up and enjoy it , maybe even mix it in with the espresso bean .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And darn it , why ca n't these manufacturers make these bags reclosable ??</Tokens>
+		<POS>CC JJ PRP , WRB MD RB DT NNS VBP DT NNS JJ NN</POS>
+		<Lemma>and darn it , why can not these manufacturer make these bag reclosable ??</Lemma>
+	</Sentence>
+</Document>

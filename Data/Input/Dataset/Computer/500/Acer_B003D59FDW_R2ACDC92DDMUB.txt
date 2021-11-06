@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I do n't think that I should have to write anything in the review .</Tokens>
+		<POS>PRP VBP RB VB IN PRP MD VB TO VB NN IN DT NN .</POS>
+		<Lemma>I do not think that I should have to write anything in the review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If I did n't like the product or thought that there was a problem I would share that .</Tokens>
+		<POS>IN PRP VBD RB VB DT NN CC VBD IN EX VBD DT NN PRP MD VB DT .</POS>
+		<Lemma>if I do not like the product or think that there be a problem I would share that .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But if I give 5 stars that means I had no problems .</Tokens>
+		<POS>CC IN PRP VBP CD NNS WDT VBZ PRP VBD DT NNS .</POS>
+		<Lemma>but if I give 5 star that mean I have no problem .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thanks</Tokens>
+		<POS>NNS</POS>
+		<Lemma>thanks</Lemma>
+	</Sentence>
+</Document>

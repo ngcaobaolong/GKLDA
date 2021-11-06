@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Did much research on a High Def camera narrowed it down to Canon and Sony mainly due to their name in photography .</Tokens>
+		<POS>VBD JJ NN IN DT JJ NN NN VBD PRP RP TO NNP CC NNP RB JJ TO PRP$ NN IN NN .</POS>
+		<Lemma>do much research on a high def camera narrow it down to Canon and Sony mainly due to they name in photography .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The selling point for me was 8gb internal memory and double SD card slots .</Tokens>
+		<POS>DT NN NN IN PRP VBD JJ JJ NN CC JJ NN NN NNS .</POS>
+		<Lemma>the selling point for I be 8gb internal memory and double sd card slot .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Got camera mainly for recording performances of grandchildren , one dance recitals and two for ballgames .</Tokens>
+		<POS>NNP NN RB IN VBG NNS IN NNS , CD NN NNS CC CD IN NNS .</POS>
+		<Lemma>Got camera mainly for record performance of grandchild , one dance recital and two for ballgame .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have used the camera for outside and inside and its preformance and clarity is outstanding .</Tokens>
+		<POS>PRP VBP VBN DT NN IN JJ CC JJ CC PRP$ NN CC NN VBZ JJ .</POS>
+		<Lemma>I have use the camera for outside and inside and its preformance and clarity be outstanding .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I like the `` sports '' feature for tracking the kids and keeping them in focus .</Tokens>
+		<POS>PRP VBP DT `` NNS '' NN IN VBG DT NNS CC VBG PRP IN NN .</POS>
+		<Lemma>I like the `` sport '' feature for track the kid and keep they in focus .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The white balance feature indoors adjust for glare of spotlights on indoor use .</Tokens>
+		<POS>DT JJ NN NN RB VBP IN NN IN NNS IN JJ NN .</POS>
+		<Lemma>the white balance feature indoors adjust for glare of spotlight on indoor use .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This camera is only limited by the users ability to adjust for different locations and being able to follow instruction in pdf instruction manual that can be downloaded on installation of software disc that came with camera .</Tokens>
+		<POS>DT NN VBZ RB VBN IN DT NNS NN TO VB IN JJ NNS CC VBG JJ TO VB NN IN NN NN NN WDT MD VB VBN IN NN IN NN NN WDT VBD IN NN .</POS>
+		<Lemma>this camera be only limit by the user ability to adjust for different location and be able to follow instruction in pdf instruction manual that can be download on installation of software disc that come with camera .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Auto funtion works good for beginner user but that manual twicking brings the camera to life .</Tokens>
+		<POS>NN NN VBZ JJ IN NN NN CC IN JJ NN VBZ DT NN TO NN .</POS>
+		<Lemma>auto funtion work good for beginner user but that manual twicking bring the camera to life .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Will review more and later as user has more experiences with camera .</Tokens>
+		<POS>MD VB JJR CC RB IN NN VBZ JJR NNS IN NN .</POS>
+		<Lemma>will review more and later as user have more experience with camera .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Again excellent camera and at Cheapest price on the internet through amazon .</Tokens>
+		<POS>RB JJ NN CC IN JJS NN IN DT NN IN NN .</POS>
+		<Lemma>again excellent camera and at cheapest price on the internet through amazon .</Lemma>
+	</Sentence>
+</Document>

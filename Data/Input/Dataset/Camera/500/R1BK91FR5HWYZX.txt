@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am about to buy this and I cant help but wonder why the black version is cheaper than silver - and by $ 25 !</Tokens>
+		<POS>PRP VBP IN TO VB DT CC PRP VBP NN CC VBP WRB DT JJ NN VBZ JJR IN NN : CC IN $ CD .</POS>
+		<Lemma>I be about to buy this and I cant help but wonder why the black version be cheaper than silver - and by $ 25 !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's not effecting my decision , i wanted the silver anyway but i was just curious .</Tokens>
+		<POS>PRP VBZ RB VBG PRP$ NN , FW VBD DT NN RB CC FW VBD RB JJ .</POS>
+		<Lemma>it be not effect my decision , i want the silver anyway but i be just curious .</Lemma>
+	</Sentence>
+</Document>

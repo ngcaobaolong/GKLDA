@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this coffee for the first time when Amazon had a lightening deal , offering it for $ 13 .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN WRB NNP VBD DT VBG NN , VBG PRP IN $ CD .</POS>
+		<Lemma>I get this coffee for the first time when Amazon have a lighten deal , offer it for $ 13 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I opened the bag , it smelled so freshly roasted !</Tokens>
+		<POS>WRB PRP VBD DT NN , PRP VBD RB RB JJ .</POS>
+		<Lemma>when I open the bag , it smell so freshly roasted !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After brewing , I was amazed how this coffee is seriously dark and strong as it stated !</Tokens>
+		<POS>IN NN , PRP VBD VBN WRB DT NN VBZ RB JJ CC JJ IN PRP VBD .</POS>
+		<Lemma>after brewing , I be amaze how this coffee be seriously dark and strong as it state !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I did n't need to grind as much as I use for other coffee to achieve strong taste , yet this coffee is never acidic or bitter .</Tokens>
+		<POS>PRP VBD RB VB TO VB RB JJ IN PRP VBP IN JJ NN TO VB JJ NN , RB DT NN VBZ RB JJ CC JJ .</POS>
+		<Lemma>I do not need to grind as much as I use for other coffee to achieve strong taste , yet this coffee be never acidic or bitter .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Simply wonderful coffee for strong coffee lovers like me !</Tokens>
+		<POS>RB JJ NN IN JJ NN NNS IN PRP .</POS>
+		<Lemma>simply wonderful coffee for strong coffee lover like I !</Lemma>
+	</Sentence>
+</Document>

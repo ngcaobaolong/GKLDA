@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this product be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've tried many other FM Transmitters that always seem to have a lot of background noise , like static or hissing .</Tokens>
+		<POS>PRP VBP VBN JJ JJ NN NNS WDT RB VBP TO VB DT NN IN NN NN , IN JJ CC JJ .</POS>
+		<Lemma>I have try many other fm transmitter that always seem to have a lot of background noise , like static or hissing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This bad boy is clear and crisp !</Tokens>
+		<POS>DT JJ NN VBZ JJ CC JJ .</POS>
+		<Lemma>this bad boy be clear and crisp !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I used it with my Motorola Atrix 4G for over a year and a half and now I use it with my new Samsung Galaxy Note .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ NNP NNP NN IN IN DT NN CC DT NN CC RB PRP VBP PRP IN PRP$ JJ NNP NNP NN .</POS>
+		<Lemma>I use it with my Motorola Atrix 4g for over a year and a half and now I use it with my new Samsung Galaxy note .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>With the G-Note it appears to work even better .</Tokens>
+		<POS>IN DT NNP PRP VBZ TO VB RB RBR .</POS>
+		<Lemma>with the G-Note it appear to work even better .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The only thing I have n't finished testing out is how great it will hold my charge while the phone is in use like with my GPS constantly running for a road trip .</Tokens>
+		<POS>DT JJ NN PRP VBP RB VBN NN RP VBZ WRB JJ PRP MD VB PRP$ NN IN DT NN VBZ IN NN IN IN PRP$ NN RB VBG IN DT NN NN .</POS>
+		<Lemma>the only thing I have not finish testing out be how great it will hold my charge while the phone be in use like with my gp constantly run for a road trip .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I am not sure if it 's powerful enough to charge the phone for such a long period of time with that much strain on the battery .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP VBZ JJ RB TO VB DT NN IN JJ DT JJ NN IN NN IN DT JJ NN IN DT NN .</POS>
+		<Lemma>I be not sure if it be powerful enough to charge the phone for such a long period of time with that much strain on the battery .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>In most cases you 'll end up with the charging part of the FlexSMART X2 just holding your charge instead of charging it but other than that it gets the job done !</Tokens>
+		<POS>IN JJS NNS PRP MD VB RP IN DT VBG NN IN DT NN NN RB VBG PRP$ NN RB IN VBG PRP CC JJ IN IN PRP VBZ DT NN VBN .</POS>
+		<Lemma>in most case you 'll end up with the charge part of the flexsmart x2 just hold you charge instead of charge it but other than that it get the job do !</Lemma>
+	</Sentence>
+</Document>

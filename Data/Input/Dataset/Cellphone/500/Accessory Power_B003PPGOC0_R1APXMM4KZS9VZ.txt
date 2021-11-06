@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love the groove transmitter it works great I love listening to Pandora thru the radio and the hands free calling .</Tokens>
+		<POS>PRP VBP DT NN NN PRP VBZ JJ PRP VBP VBG TO NNP IN DT NN CC DT NNS JJ VBG .</POS>
+		<Lemma>I love the groove transmitter it work great I love listen to Pandora thru the radio and the hand free call .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is definately a MUST HAVE</Tokens>
+		<POS>DT VBZ RB DT NNP NNP</POS>
+		<Lemma>this be definately a MUST HAVE</Lemma>
+	</Sentence>
+</Document>

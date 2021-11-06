@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great monitor .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The stand does n't adjust for height or angel .</Tokens>
+		<POS>DT NN VBZ RB VB IN NN CC NN .</POS>
+		<Lemma>the stand do not adjust for height or angel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had to put a note pad under it because the of the glare .</Tokens>
+		<POS>PRP VBD TO VB DT NN NN IN PRP IN DT IN DT NN .</POS>
+		<Lemma>I have to put a note pad under it because the of the glare .</Lemma>
+	</Sentence>
+</Document>

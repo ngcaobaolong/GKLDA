@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was a little nervous purchasing this netbook but after reading several of the reviews I dedcided to go ahead with the purchase .</Tokens>
+		<POS>PRP VBD DT JJ JJ VBG DT NN CC IN VBG JJ IN DT NNS PRP VBD TO VB RB IN DT NN .</POS>
+		<Lemma>I be a little nervous purchase this netbook but after read several of the review I dedcide to go ahead with the purchase .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I must say so far I am very pleased .</Tokens>
+		<POS>PRP MD VB RB RB PRP VBP RB JJ .</POS>
+		<Lemma>I must say so far I be very pleased .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I did upgrade the memory as many of the reviews recommeneded it .</Tokens>
+		<POS>PRP VBD VB DT NN IN JJ IN DT NNS VBD PRP .</POS>
+		<Lemma>I do upgrade the memory as many of the review recommenede it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It was very easy to do and I did notice a difference in the speed immediately .</Tokens>
+		<POS>PRP VBD RB JJ TO VB CC PRP VBD VB DT NN IN DT NN RB .</POS>
+		<Lemma>it be very easy to do and I do notice a difference in the speed immediately .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The picture of the item shows an HDMI port , but the actual item does n't have one .</Tokens>
+		<POS>DT NN IN DT NN VBZ DT NN NN , CC DT JJ NN VBZ RB VB CD .</POS>
+		<Lemma>the picture of the item show a hdmus port , but the actual item do not have one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Other than having to buy a DVI to HDMI adapter , I had no other issues .</Tokens>
+		<POS>JJ IN VBG TO VB DT NNP TO NNP NN , PRP VBD DT JJ NNS .</POS>
+		<Lemma>other than have to buy a DVI to HDMI adapter , I have no other issue .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Still early to rate .</Tokens>
+		<POS>RB RB TO NN .</POS>
+		<Lemma>still early to rate .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Sometimes the auto focus acts up and causes the image to be fusy .</Tokens>
+		<POS>RB DT NN NN VBZ RB CC VBZ DT NN TO VB JJ .</POS>
+		<Lemma>sometimes the auto focus act up and cause the image to be fusy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Seems best to leave alone and not move the zoom on the fly .</Tokens>
+		<POS>VBZ JJS TO VB RB CC RB VB DT NN IN DT NN .</POS>
+		<Lemma>seem best to leave alone and not move the zoom on the fly .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Most of my pictures were shot on 720 .</Tokens>
+		<POS>JJS IN PRP$ NNS VBD VBN IN CD .</POS>
+		<Lemma>most of my picture be shoot on 720 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am going to move to 1080 and compare but I think I will stay with 1080 .</Tokens>
+		<POS>PRP VBP VBG TO VB TO CD CC VB CC PRP VBP PRP MD VB IN CD .</POS>
+		<Lemma>I be go to move to 1080 and compare but I think I will stay with 1080 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The plan was to use on my motorcycle for pictures .</Tokens>
+		<POS>DT NN VBD TO VB IN PRP$ NN IN NNS .</POS>
+		<Lemma>the plan be to use on my motorcycle for picture .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Straight ahead shots are weard with everything comming head on .</Tokens>
+		<POS>JJ RB NNS VBP VBN IN NN VBG NN IN .</POS>
+		<Lemma>straight ahead shot be weard with everything com head on .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Side shots show too much blur .</Tokens>
+		<POS>NN NNS VBP RB JJ NN .</POS>
+		<Lemma>side shot show too much blur .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>But 1-oclock is working .</Tokens>
+		<POS>CC NN VBZ VBG .</POS>
+		<Lemma>but 1-oclock be work .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>As for the camera itself all the previous rewiews I read are accurate .</Tokens>
+		<POS>IN IN DT NN PRP PDT DT JJ NNS PRP VBP VBP JJ .</POS>
+		<Lemma>as for the camera itself all the previous rewiew I read be accurate .</Lemma>
+	</Sentence>
+</Document>

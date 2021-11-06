@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Cafe Altura is yet to disappoint me .</Tokens>
+		<POS>NNP NNP VBZ RB TO VB PRP .</POS>
+		<Lemma>Cafe Altura be yet to disappoint I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Another excellent bean & roast from this coffee roaster .</Tokens>
+		<POS>DT JJ NN CC NN IN DT NN NN .</POS>
+		<Lemma>another excellent bean & roast from this coffee roaster .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As always quick\/consistent arrival from amazon , its available under subscribe & save , which reduces the price .</Tokens>
+		<POS>IN RB JJ NN IN NN , PRP$ JJ IN VB CC VB , WDT VBZ DT NN .</POS>
+		<Lemma>as always quick\/consistent arrival from amazon , its available under subscribe & save , which reduce the price .</Lemma>
+	</Sentence>
+</Document>

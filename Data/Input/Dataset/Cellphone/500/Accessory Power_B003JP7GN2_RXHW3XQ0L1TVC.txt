@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It does what is stated as all the optional charging points work just great .</Tokens>
+		<POS>PRP VBZ WP VBZ VBN IN PDT DT JJ VBG NNS VB RB JJ .</POS>
+		<Lemma>it do what be state as all the optional charge point work just great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Been charging 5th gen-iPod , and htc droid eris without issue from the 120v plug , and the car 12v plug .</Tokens>
+		<POS>VBN VBG JJ NN , CC NN NN VBZ IN NN IN DT CD NN , CC DT NN CD NN .</POS>
+		<Lemma>be charge 5th gen-ipod , and htc droid eri without issue from the 120v plug , and the car 12v plug .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The `` AA '' battery option works fine , but the 12v plug has to be out to use the `` AA '' batteries .</Tokens>
+		<POS>DT `` NN '' NN NN VBZ NN , CC DT NN NN VBZ TO VB RB TO VB DT `` NN '' NNS .</POS>
+		<Lemma>the `` aa '' battery option work fine , but the 12v plug have to be out to use the `` aa '' battery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No big deal , just not as compact .</Tokens>
+		<POS>DT JJ NN , RB RB IN JJ .</POS>
+		<Lemma>no big deal , just not as compact .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I use the charger nearly every day and has been great !</Tokens>
+		<POS>PRP VBP DT NN RB DT NN CC VBZ VBN JJ .</POS>
+		<Lemma>I use the charger nearly every day and have be great !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Having a dual output USB charger is the bomb and from so many optional sources is really terrific .</Tokens>
+		<POS>VBG DT JJ NN JJ NN VBZ DT NN CC IN RB JJ JJ NNS VBZ RB JJ .</POS>
+		<Lemma>have a dual output usb charger be the bomb and from so many optional source be really terrific .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Bought this with one thing in mind and that is to charge phone and iPod when in the backcountry and have limited daylight to charge devices from solar power .</Tokens>
+		<POS>VBN DT IN CD NN IN NN CC DT VBZ TO VB NN CC NN WRB IN DT NN CC VBP VBN NN TO VB NNS IN JJ NN .</POS>
+		<Lemma>buy this with one thing in mind and that be to charge phone and ipod when in the backcountry and have limit daylight to charge device from solar power .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So far , so good .</Tokens>
+		<POS>RB RB , RB JJ .</POS>
+		<Lemma>so far , so good .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You ca n't go wrong for the price .</Tokens>
+		<POS>PRP MD RB VB JJ IN DT NN .</POS>
+		<Lemma>you can not go wrong for the price .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Hope it holds up over time .</Tokens>
+		<POS>NNP PRP VBZ RP IN NN .</POS>
+		<Lemma>Hope it hold up over time .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>My <only> gripe is the floppiness of the 12v connector when plugged into the car , the body of the rest of the charger should have been manufactured a little tighter so that it stays in the angle that you set it .</Tokens>
+		<POS>PRP$ JJ NN VBZ DT NN IN DT NN NN WRB VBN IN DT NN , DT NN IN DT NN IN DT NN MD VB VBN VBN DT JJ JJR IN IN PRP VBZ IN DT NN IN PRP VBP PRP .</POS>
+		<Lemma>my <only> gripe be the floppiness of the 12v connector when plug into the car , the body of the rest of the charger should have be manufacture a little tighter so that it stay in the angle that you set it .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Not a problem , just hope that it gets built a bit tighter in the future .</Tokens>
+		<POS>RB DT NN , RB VBP IN PRP VBZ VBN DT NN JJR IN DT NN .</POS>
+		<Lemma>not a problem , just hope that it get build a bit tighter in the future .</Lemma>
+	</Sentence>
+</Document>

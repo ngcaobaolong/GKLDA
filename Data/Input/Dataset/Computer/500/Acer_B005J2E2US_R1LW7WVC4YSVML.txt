@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is an excellent product for girls , but also for people that want to spend fewer money on a better product !</Tokens>
+		<POS>DT VBZ DT JJ NN IN NNS , CC RB IN NNS WDT VBP TO VB JJR NN IN DT JJR NN .</POS>
+		<Lemma>this be a excellent product for girl , but also for people that want to spend fewer money on a better product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The keyboard has big buttons that makes it very comfortable for writing , it has also o multigesture touchpad that makes the using very comfortable and even faster .</Tokens>
+		<POS>DT NN VBZ JJ NNS WDT VBZ PRP RB JJ IN VBG , PRP VBZ RB NN JJ NN WDT VBZ DT VBG RB JJ CC RB RBR .</POS>
+		<Lemma>the keyboard have big button that make it very comfortable for write , it have also o multigesture touchpad that make the use very comfortable and even faster .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I liked it !</Tokens>
+		<POS>PRP VBD PRP .</POS>
+		<Lemma>I like it !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It works good and my girlfriend is happy for her new netbook .</Tokens>
+		<POS>PRP VBZ JJ CC PRP$ NN VBZ JJ IN PRP$ JJ NN .</POS>
+		<Lemma>it work good and my girlfriend be happy for she new netbook .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>For those who want to buy this , it is a very nice : it 's a dual core processor and it has 2 Gb of ram , that makes this product the best choice beetween the today \ s netbooks .</Tokens>
+		<POS>IN DT WP VBP TO VB DT , PRP VBZ DT RB JJ : PRP VBZ DT JJ NN NN CC PRP VBZ CD NN IN NN , WDT VBZ DT NN DT JJS NN NN DT NN RB VBZ NNS .</POS>
+		<Lemma>for those who want to buy this , it be a very nice : it be a dual core processor and it have 2 gb of ram , that make this product the best choice beetween the today \ s netbook .</Lemma>
+	</Sentence>
+</Document>

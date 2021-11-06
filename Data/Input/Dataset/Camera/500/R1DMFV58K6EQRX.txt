@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this camera for three weeks now and I love it .</Tokens>
+		<POS>PRP VBP VBD DT NN IN CD NNS RB CC PRP VBP PRP .</POS>
+		<Lemma>I have have this camera for three week now and I love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The zoom is fantastic , it shoots great pictures at high shutter speeds , it is very easy to use but has plenty of settings for the more experienced photographers .</Tokens>
+		<POS>DT NN VBZ JJ , PRP VBZ JJ NNS IN JJ NN NNS , PRP VBZ RB JJ TO VB CC VBZ NN IN NNS IN DT RBR JJ NNS .</POS>
+		<Lemma>the zoom be fantastic , it shoot great picture at high shutter speed , it be very easy to use but have plenty of setting for the more experienced photographer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only problem I have with this camera is that pictures at 800 ISO or higher are not good , there 's lots of noise .</Tokens>
+		<POS>DT JJ NN PRP VBP IN DT NN VBZ IN NNS IN CD NN CC JJR VBP RB JJ , EX VBZ NNS IN NN .</POS>
+		<Lemma>the only problem I have with this camera be that picture at 800 iso or higher be not good , there be lot of noise .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If portability is not an issue for you , and want to shoot decent HD video and great bright picture then this is the camera for you .</Tokens>
+		<POS>IN NN VBZ RB DT NN IN PRP , CC VBP TO VB JJ NN NN CC JJ JJ NN RB DT VBZ DT NN IN PRP .</POS>
+		<Lemma>if portability be not a issue for you , and want to shoot decent hd video and great bright picture then this be the camera for you .</Lemma>
+	</Sentence>
+</Document>

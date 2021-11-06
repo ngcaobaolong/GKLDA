@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was hoping to get it a little sooner , but then again I am impatient .</Tokens>
+		<POS>PRP VBD VBG TO VB PRP DT JJ RBR , CC RB RB PRP VBP JJ .</POS>
+		<Lemma>I be hope to get it a little sooner , but then again I be impatient .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is absolutely the best deal I could find anywhere .</Tokens>
+		<POS>DT VBZ RB DT JJS NN PRP MD VB RB .</POS>
+		<Lemma>this be absolutely the best deal I could find anywhere .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The picture is crisp , clear and bright .</Tokens>
+		<POS>DT NN VBZ JJ , JJ CC JJ .</POS>
+		<Lemma>the picture be crisp , clear and bright .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The installation is easy and the monitor stand is much sturdier than I anticipated .</Tokens>
+		<POS>DT NN VBZ JJ CC DT NN NN VBZ JJ JJR IN PRP VBD .</POS>
+		<Lemma>the installation be easy and the monitor stand be much sturdier than I anticipate .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The 19 '' screen helps with being able to see EVERYTHING .</Tokens>
+		<POS>DT CD '' NN VBZ IN VBG JJ TO VB NNP .</POS>
+		<Lemma>the 19 '' screen help with be able to see EVERYTHING .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I thought Acer was sort of an `` off-brand '' , but the quality of the product matches or surpasses many other that were hundreds more .</Tokens>
+		<POS>PRP VBD NNP VBD NN IN DT `` NN '' , CC DT NN IN DT NN VBZ CC VBZ JJ JJ WDT VBD NNS RBR .</POS>
+		<Lemma>I think Acer be sort of a `` off-brand '' , but the quality of the product match or surpass many other that be hundred more .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The only comparible monitor I would recommend is the one sold on Apple 's website .</Tokens>
+		<POS>DT JJ JJ NN PRP MD VB VBZ DT CD VBN IN NNP POS NN .</POS>
+		<Lemma>the only comparible monitor I would recommend be the one sell on Apple 's website .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>But its about 3 times the price , so there you go .</Tokens>
+		<POS>CC PRP$ IN CD NNS DT NN , RB RB PRP VBP .</POS>
+		<Lemma>but its about 3 time the price , so there you go .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I mix one-half serving of Ezekiel 4:9 with one-half serving of Kashi `` U '' , add sliced banana or fresh blueberries and skim milk or plain Greek yogurt .</Tokens>
+		<POS>PRP VBP JJ VBG IN NNP CD IN JJ VBG IN NNP `` NNP '' , VB JJ NN CC JJ NNS CC NN NN CC JJ JJ NN .</POS>
+		<Lemma>I mix one-half serve of Ezekiel 4:9 with one-half serve of Kashi `` U '' , add sliced banana or fresh blueberry and skim milk or plain greek yogurt .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Healthy , interesting textures , flavorful combination .</Tokens>
+		<POS>JJ , JJ NNS , JJ NN .</POS>
+		<Lemma>healthy , interesting texture , flavorful combination .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This cereal varies widely in price , depending on where you shop .</Tokens>
+		<POS>DT NN VBZ RB IN NN , VBG IN WRB PRP VBP .</POS>
+		<Lemma>this cereal vary widely in price , depend on where you shop .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Amazon has a very reasonable price on the six-pack for this nutritional and convenient product .</Tokens>
+		<POS>NNP VBZ DT RB JJ NN IN DT NN IN DT JJ CC JJ NN .</POS>
+		<Lemma>Amazon have a very reasonable price on the six-pack for this nutritional and convenient product .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens><a href="http://www.amazon.com/gp/product/B000LKYX48/ref=cm_cr_asin_lnk/186-5401249-6958807"> Food For Life Ezekiel 4:9 Organic Sprouted Grain Cereal , Golden Flax , 16-Ounce Boxes -LRB- Pack of 6 -RRB- </a></Tokens>
+		<POS>NN NN IN NNP NNP CD NNP NNP NNP NN , NNP NNP , NNP NNPS -LRB- NN IN CD -RRB- IN</POS>
+		<Lemma><a href="http://www.amazon.com/gp/product/b000lkyx48/ref=cm_cr_asin_lnk/186-5401249-6958807"> food for Life Ezekiel 4:9 Organic Sprouted Grain cereal , Golden Flax , 16-Ounce Boxes -lrb- pack of 6 -rrb- </a></Lemma>
+	</Sentence>
+</Document>

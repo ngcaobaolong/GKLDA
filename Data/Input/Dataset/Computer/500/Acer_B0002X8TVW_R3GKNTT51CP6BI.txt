@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I loved this monitor ... I had it for 4 months , before it started breaking .</Tokens>
+		<POS>PRP VBD DT NN : PRP VBD PRP IN CD NNS , IN PRP VBD VBG .</POS>
+		<Lemma>I love this monitor ... I have it for 4 month , before it start break .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have no idea why and it is leaving me in a very bad place as far as my home office is concerned .</Tokens>
+		<POS>PRP VBP DT NN WRB CC PRP VBZ VBG PRP IN DT RB JJ NN IN RB IN PRP$ NN NN VBZ VBN .</POS>
+		<Lemma>I have no idea why and it be leave I in a very bad place as far as my home office be concern .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Acer does n't have a contact telephone number , rather an email address .</Tokens>
+		<POS>NNP VBZ RB VB DT NN NN NN , RB DT NN NN .</POS>
+		<Lemma>Acer do not have a contact telephone number , rather a email address .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I hope this is not a continue of things to come .</Tokens>
+		<POS>PRP VBP DT VBZ RB DT VB IN NNS TO VB .</POS>
+		<Lemma>I hope this be not a continue of thing to come .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I really need high reliablity and hope this is just a fluke .</Tokens>
+		<POS>PRP RB VBP JJ NN CC NN DT VBZ RB DT NN .</POS>
+		<Lemma>I really need high reliablity and hope this be just a fluke .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>: -LRB-</Tokens>
+		<POS>: -LRB-</POS>
+		<Lemma>: -lrb-</Lemma>
+	</Sentence>
+</Document>

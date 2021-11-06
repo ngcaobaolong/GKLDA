@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking to upgrade to a widescreen monitor .</Tokens>
+		<POS>PRP VBD VBG TO VB TO DT JJ NN .</POS>
+		<Lemma>I be look to upgrade to a widescreen monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After looking at several $ 99 specials I saw this monitor on Amazon .</Tokens>
+		<POS>IN VBG IN JJ $ CD NNS PRP VBD DT NN IN NNP .</POS>
+		<Lemma>after look at several $ 99 special I see this monitor on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>$ 129.99 delivered .</Tokens>
+		<POS>$ CD VBN .</POS>
+		<Lemma>$ 129.99 deliver .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I recieved this monitor 2 days after ordering .</Tokens>
+		<POS>PRP VBD DT NN CD NNS IN VBG .</POS>
+		<Lemma>I recieve this monitor 2 day after order .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Packaged well with everything included , even a DVI cable .</Tokens>
+		<POS>VBN RB IN NN VBD , RB DT NNP NN .</POS>
+		<Lemma>package well with everything include , even a DVI cable .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Setup plugged in started up , No Dead Pixels !</Tokens>
+		<POS>NN VBD IN VBN RP , DT NNP NNPS .</POS>
+		<Lemma>setup plug in start up , no Dead Pixels !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>1980 X 1080 without any adjustments .</Tokens>
+		<POS>CD NN CD IN DT NNS .</POS>
+		<Lemma>1980 x 1080 without any adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>To say the least I am extremely pleased with this monitor .</Tokens>
+		<POS>TO VB DT JJS PRP VBP RB JJ IN DT NN .</POS>
+		<Lemma>to say the least I be extremely pleased with this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Beautiful looks and an amazing picture !</Tokens>
+		<POS>JJ NNS CC DT JJ NN .</POS>
+		<Lemma>beautiful look and a amazing picture !</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The 3 year warranity is n't bad either !!!</Tokens>
+		<POS>DT CD NN NN VBZ RB JJ CC CD</POS>
+		<Lemma>the 3 year warranity be not bad either !!!</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>You ca n't beat the quality of this monitor for $ 130 bucks !</Tokens>
+		<POS>PRP MD RB VB DT NN IN DT NN IN $ CD NNS .</POS>
+		<Lemma>you can not beat the quality of this monitor for $ 130 buck !</Lemma>
+	</Sentence>
+</Document>

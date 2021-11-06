@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camara is the one I need : the quality of the pictures is excelent and it is very simple to handle</Tokens>
+		<POS>DT NN VBZ DT CD PRP VBP : DT NN IN DT NNS VBZ JJ CC PRP VBZ RB JJ TO VB</POS>
+		<Lemma>this camara be the one I need : the quality of the picture be excelent and it be very simple to handle</Lemma>
+	</Sentence>
+</Document>

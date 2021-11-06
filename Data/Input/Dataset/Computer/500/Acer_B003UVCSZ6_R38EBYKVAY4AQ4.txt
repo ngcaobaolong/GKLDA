@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>How often can you really even say that ?</Tokens>
+		<POS>WRB RB MD PRP RB RB VB IN .</POS>
+		<Lemma>how often can you really even say that ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But here its true , and I am quite pleased !</Tokens>
+		<POS>CC RB PRP$ JJ , CC PRP VBP RB JJ .</POS>
+		<Lemma>but here its true , and I be quite pleased !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Would buy again</Tokens>
+		<POS>MD VB RB</POS>
+		<Lemma>would buy again</Lemma>
+	</Sentence>
+</Document>

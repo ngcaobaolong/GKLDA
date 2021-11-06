@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It does take fairly good clear videos , but the still camera takes low quality photos and there is no flash , despite the cost .</Tokens>
+		<POS>PRP VBZ VB RB JJ JJ NNS , CC DT RB NN VBZ JJ NN NNS CC EX VBZ DT NN , IN DT NN .</POS>
+		<Lemma>it do take fairly good clear video , but the still camera take low quality photo and there be no flash , despite the cost .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My phone camera takes better photos .</Tokens>
+		<POS>PRP$ NN NN VBZ JJR NNS .</POS>
+		<Lemma>my phone camera take better photo .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The other problem is that the only way to charge it is via the USB port .</Tokens>
+		<POS>DT JJ NN VBZ IN DT JJ NN TO VB PRP VBZ IN DT JJ NN .</POS>
+		<Lemma>the other problem be that the only way to charge it be via the usb port .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So if the battery runs low and you do n't have a USB port nearby , you 're out of luck .</Tokens>
+		<POS>RB IN DT NN VBZ JJ CC PRP VBP RB VB DT JJ NN RB , PRP VBP IN IN NN .</POS>
+		<Lemma>so if the battery run low and you do not have a usb port nearby , you be out of luck .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>And there is no additional video card or image storage .</Tokens>
+		<POS>CC EX VBZ DT JJ NN NN CC NN NN .</POS>
+		<Lemma>and there be no additional video card or image storage .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So much for vacation videos ... For the cost , I think they really skimped on some standard features .</Tokens>
+		<POS>RB RB IN NN NNS : IN DT NN , PRP VBP PRP RB VBD IN DT JJ NNS .</POS>
+		<Lemma>so much for vacation video ... for the cost , I think they really skimp on some standard feature .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The still camera is low quality .</Tokens>
+		<POS>DT RB NN VBZ JJ NN .</POS>
+		<Lemma>the still camera be low quality .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>No flash .</Tokens>
+		<POS>DT NN .</POS>
+		<Lemma>no flash .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>No accessbile battery .</Tokens>
+		<POS>DT NN NN .</POS>
+		<Lemma>no accessbile battery .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>No additional storage .</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>no additional storage .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The only good thing is that the video quality is pretty good .</Tokens>
+		<POS>DT RB JJ NN VBZ IN DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>the only good thing be that the video quality be pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I received this as a gift , but if I was buying it myself I would definitely shop around or wait until they upgrade it to what should be standard features at this cost .</Tokens>
+		<POS>PRP VBD DT IN DT NN , CC IN PRP VBD VBG PRP PRP PRP MD RB VB IN CC VB IN PRP VBP PRP TO WP MD VB JJ NNS IN DT NN .</POS>
+		<Lemma>I receive this as a gift , but if I be buy it myself I would definitely shop around or wait until they upgrade it to what should be standard feature at this cost .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I 'm only mildly impressed .</Tokens>
+		<POS>PRP VBP RB RB JJ .</POS>
+		<Lemma>I be only mildly impressed .</Lemma>
+	</Sentence>
+</Document>

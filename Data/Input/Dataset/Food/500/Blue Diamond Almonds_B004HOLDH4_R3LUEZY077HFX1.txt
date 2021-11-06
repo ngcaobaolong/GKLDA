@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've tried several other brands of roasted salted almonds available via the Internet and in stores .</Tokens>
+		<POS>PRP VBP VBN JJ JJ NNS IN JJ JJ NNS JJ IN DT NN CC IN NNS .</POS>
+		<Lemma>I have try several other brand of roasted salted almond available via the internet and in store .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The Blue Diamond brand is definitely the best tasting of all .</Tokens>
+		<POS>DT NNP NNP NN VBZ RB DT JJS NN IN DT .</POS>
+		<Lemma>the Blue Diamond brand be definitely the best tasting of all .</Lemma>
+	</Sentence>
+</Document>

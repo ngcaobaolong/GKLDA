@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I overall really like this camera !</Tokens>
+		<POS>PRP RB RB IN DT NN .</POS>
+		<Lemma>I overall really like this camera !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Things I like : 1 .</Tokens>
+		<POS>NNS PRP VBP : CD .</POS>
+		<Lemma>thing I like : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>An optical viewfinder on a camera that is lower end , Huge !</Tokens>
+		<POS>DT JJ NN IN DT NN WDT VBZ JJR NN , JJ .</POS>
+		<Lemma>a optical viewfinder on a camera that be lower end , huge !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>2 : allows a decent amount of manual control 3 .</Tokens>
+		<POS>CD : VBZ DT JJ NN IN NN NN CD .</POS>
+		<Lemma>2 : allow a decent amount of manual control 3 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Face priority button on back 4 .</Tokens>
+		<POS>NNP NN NN IN RB CD .</POS>
+		<Lemma>Face priority button on back 4 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Good infrared assist light good low light focusing .</Tokens>
+		<POS>JJ JJ VB JJ JJ JJ NN VBG .</POS>
+		<Lemma>good infrared assist light good low light focus .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>5 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>5 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Intuitive control set .</Tokens>
+		<POS>JJ NN VBN .</POS>
+		<Lemma>intuitive control set .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>What I do n't like 1 .</Tokens>
+		<POS>WP PRP VBP RB VB CD .</POS>
+		<Lemma>what I do not like 1 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The top mode dial to far right , and shutter button\/zoom dial should be interchanged .</Tokens>
+		<POS>DT JJ NN NN TO RB RB , CC NN NN NN MD VB VBN .</POS>
+		<Lemma>the top mode dial to far right , and shutter button\/zoom dial should be interchange .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>to me this is more intuitive .</Tokens>
+		<POS>TO PRP DT VBZ RBR JJ .</POS>
+		<Lemma>to I this be more intuitive .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Initially I tried to use the mode dial , till I was able to retrain my brain .</Tokens>
+		<POS>RB PRP VBD TO VB DT NN NN , IN PRP VBD JJ TO VB PRP$ NN .</POS>
+		<Lemma>initially I try to use the mode dial , till I be able to retrain my brain .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The trashcan button can only be used in review mode .</Tokens>
+		<POS>DT NN NN MD RB VB VBN IN NN NN .</POS>
+		<Lemma>the trashcan button can only be use in review mode .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I delete a lot right after the shot because I can decide in my initial review if the pic .</Tokens>
+		<POS>PRP VBP DT NN NN IN DT NN IN PRP MD VB IN PRP$ JJ NN IN DT NN .</POS>
+		<Lemma>I delete a lot right after the shot because I can decide in my initial review if the pic .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>With this I have to go into review mode , then delete .</Tokens>
+		<POS>IN DT PRP VBP TO VB IN NN NN , RB VB .</POS>
+		<Lemma>with this I have to go into review mode , then delete .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Since timer shares this button , it is easy to set timer , and not realize it .</Tokens>
+		<POS>IN NN NNS DT NN , PRP VBZ JJ TO VB NN , CC RB VB PRP .</POS>
+		<Lemma>since timer share this button , it be easy to set timer , and not realize it .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Remember these are my personal gripes , and these could be non issues to others .</Tokens>
+		<POS>VB DT VBP PRP$ JJ NNS , CC DT MD VB JJ NNS TO NNS .</POS>
+		<Lemma>remember these be my personal gripe , and these could be non issue to other .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Also I never read manuals , and can usually figure things out .</Tokens>
+		<POS>RB PRP RB VBD NNS , CC MD RB VB NNS RP .</POS>
+		<Lemma>also I never read manual , and can usually figure thing out .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The menus for me were easy to navigate , but could be more difficult for others .</Tokens>
+		<POS>DT NNS IN PRP VBD JJ TO VB , CC MD VB RBR JJ IN NNS .</POS>
+		<Lemma>the menu for I be easy to navigate , but could be more difficult for other .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I have to rate as a 4.5 since to me the shutter button and mode dial should swap positions !</Tokens>
+		<POS>PRP VBP TO NN IN DT CD IN TO PRP DT NN NN CC NN NN MD VB NNS .</POS>
+		<Lemma>I have to rate as a 4.5 since to I the shutter button and mode dial should swap position !</Lemma>
+	</Sentence>
+</Document>

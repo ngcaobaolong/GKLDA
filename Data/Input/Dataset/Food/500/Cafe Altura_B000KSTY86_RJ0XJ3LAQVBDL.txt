@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I absolutely love Cafe Altura Columbian Dark .</Tokens>
+		<POS>PRP RB VBP NNP NNP NNP JJ .</POS>
+		<Lemma>I absolutely love Cafe Altura Columbian dark .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I buy about 8 pounds a month .</Tokens>
+		<POS>PRP VBP IN CD NNS DT NN .</POS>
+		<Lemma>I buy about 8 pound a month .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I saw the Peruvian and decided to try it .</Tokens>
+		<POS>PRP VBD DT JJ CC VBD TO VB PRP .</POS>
+		<Lemma>I see the peruvian and decide to try it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I thought that it was awful .</Tokens>
+		<POS>PRP VBD IN PRP VBD JJ .</POS>
+		<Lemma>I think that it be awful .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I made one pot and will probably throw the rest of it away .</Tokens>
+		<POS>PRP VBD CD NN CC MD RB VB DT NN IN PRP RB .</POS>
+		<Lemma>I make one pot and will probably throw the rest of it away .</Lemma>
+	</Sentence>
+</Document>

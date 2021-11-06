@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Size : It is not that small , but not that big .</Tokens>
+		<POS>NN : PRP VBZ RB IN JJ , CC RB DT JJ .</POS>
+		<Lemma>size : it be not that small , but not that big .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is not a pocket camera to carry with , yet it is kind of small in your hand for a good grip .</Tokens>
+		<POS>PRP VBZ RB DT NN NN TO VB IN , RB PRP VBZ NN IN JJ IN PRP$ NN IN DT JJ NN .</POS>
+		<Lemma>it be not a pocket camera to carry with , yet it be kind of small in you hand for a good grip .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Focus : It will get the focus , but slow for my taste .</Tokens>
+		<POS>NN : PRP MD VB DT NN , CC JJ IN PRP$ NN .</POS>
+		<Lemma>focus : it will get the focus , but slow for my taste .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Lens : The kid lens tend to be too warm and mask a yellowish to the images .</Tokens>
+		<POS>NNP : DT NN NN VBP TO VB RB JJ CC NN DT JJ TO DT NNS .</POS>
+		<Lemma>Lens : the kid lens tend to be too warm and mask a yellowish to the image .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>battery : is good , it hold a charge for months in storage and last the whole day on a typical use .</Tokens>
+		<POS>NN : VBZ JJ , PRP VBP DT NN IN NNS IN NN CC VB DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>battery : be good , it hold a charge for month in storage and last the whole day on a typical use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Video : I like it a lot .</Tokens>
+		<POS>NNP : PRP VBP PRP DT NN .</POS>
+		<Lemma>Video : I like it a lot .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would say , it does video better than still picture .</Tokens>
+		<POS>PRP MD VB , PRP VBZ NN JJR IN RB NN .</POS>
+		<Lemma>I would say , it do video better than still picture .</Lemma>
+	</Sentence>
+</Document>

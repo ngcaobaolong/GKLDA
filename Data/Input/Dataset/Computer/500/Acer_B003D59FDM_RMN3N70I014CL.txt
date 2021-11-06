@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just love this Monitor !</Tokens>
+		<POS>PRP RB VBP DT NNP .</POS>
+		<Lemma>I just love this Monitor !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>All you have to do is just plug it in and go !!</Tokens>
+		<POS>DT PRP VBP TO VB VBZ RB VB PRP IN CC VB IN</POS>
+		<Lemma>all you have to do be just plug it in and go !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>NO complicated attachments .</Tokens>
+		<POS>DT JJ NNS .</POS>
+		<Lemma>no complicated attachment .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Its that easy !</Tokens>
+		<POS>PRP$ WDT JJ .</POS>
+		<Lemma>its that easy !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I had a old huge Monitor -LRB- which was working fine -RRB- had to get rid of it , because LCD screens are the IN thing and NOW I just love it !</Tokens>
+		<POS>PRP VBD DT JJ JJ NNP -LRB- WDT VBD VBG NN -RRB- VBD TO VB JJ IN PRP , IN NNS NNS VBP DT IN NN CC RB PRP RB VBP PRP .</POS>
+		<Lemma>I have a old huge Monitor -lrb- which be work fine -rrb- have to get rid of it , because lcd screen be the in thing and now I just love it !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>This is a great product for those who are not that computer savvy !!</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT WP VBP RB IN NN JJ NN</POS>
+		<Lemma>this be a great product for those who be not that computer savvy !!</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I highly recommend it !!</Tokens>
+		<POS>PRP RB VB PRP IN</POS>
+		<Lemma>I highly recommend it !!</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,1397 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Short version : this is easily the most sophisticated pro-sumer dslr on the planet .</Tokens>
+		<POS>JJ NN : DT VBZ RB DT RBS JJ NN NN IN DT NN .</POS>
+		<Lemma>short version : this be easily the most sophisticated pro-sumer dslr on the planet .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>-LRB- \* Amendment : The A77 now assumes that title , with the caveat that the A77 is n't really a DSLR . -RRB-</Tokens>
+		<POS>-LRB- SYM NN : DT NN RB VBZ IN NN , IN DT NN IN DT NN VBZ RB RB DT NN . -RRB-</POS>
+		<Lemma>-lrb- \* amendment : the a77 now assume that title , with the caveat that the a77 be not really a dslr . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has a set of features that make it easier to take great pictures in the most challenging circumstances .</Tokens>
+		<POS>PRP VBZ DT NN IN NNS WDT VBP PRP JJR TO VB JJ NNS IN DT RBS JJ NNS .</POS>
+		<Lemma>it have a set of feature that make it easier to take great picture in the most challenging circumstance .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This review is for the camera with the kit lens .</Tokens>
+		<POS>DT NN VBZ IN DT NN IN DT NN NN .</POS>
+		<Lemma>this review be for the camera with the kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The lens is a compromise : the body and moving parts are essentially all lightweight plastic .</Tokens>
+		<POS>DT NN VBZ DT NN : DT NN CC VBG NNS VBP RB DT JJ NN .</POS>
+		<Lemma>the lens be a compromise : the body and move part be essentially all lightweight plastic .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I even noticed some plastic-on-plastic chatter when zooming in and out .</Tokens>
+		<POS>PRP RB VBD DT JJ NN WRB VBG IN CC IN .</POS>
+		<Lemma>I even notice some plastic-on-plastic chatter when zoom in and out .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But Sony knew that their -LRB- pre-A77 -RRB- flagship pro-sumer camera -LRB- the A700 was getting long in the tooth -RRB- had better perform well , so they put the money in the optics .</Tokens>
+		<POS>CC NNP VBD IN PRP$ -LRB- NN -RRB- NN JJ NN -LRB- DT NN VBD VBG RB IN DT NN -RRB- VBD RBR VB RB , IN PRP VBP DT NN IN DT NNS .</POS>
+		<Lemma>but Sony know that they -lrb- pre-a77 -rrb- flagship pro-sumer camera -lrb- the a700 be get long in the tooth -rrb- have better perform well , so they put the money in the optics .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I tested this lens against five others using eye-charts at 20 feet , and guess what ?</Tokens>
+		<POS>PRP VBD DT NN IN CD NNS VBG NNS IN CD NNS , CC VB WP .</POS>
+		<Lemma>I test this lens against five other use eye-chart at 20 foot , and guess what ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It was in the upper third of the heap in center sharpness in its zoom range , and it was in company that costs roughly 5X the extra money you pay for it over the camera body price .</Tokens>
+		<POS>PRP VBD IN DT JJ NN IN DT NN IN NN NN IN PRP$ NN NN , CC PRP VBD IN NN WDT VBZ RB NN DT JJ NN PRP VBP IN PRP IN DT NN NN NN .</POS>
+		<Lemma>it be in the upper third of the heap in center sharpness in its zoom range , and it be in company that cost roughly 5x the extra money you pay for it over the camera body price .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>It is exactly what Sony intended it to be : a great place to start , and a good-enough place to stay .</Tokens>
+		<POS>PRP VBZ RB WP NNP VBD PRP TO VB : DT JJ NN TO VB , CC DT JJ NN TO VB .</POS>
+		<Lemma>it be exactly what Sony intend it to be : a great place to start , and a good-enough place to stay .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Now for the longer version of the review .</Tokens>
+		<POS>RB IN DT JJR NN IN DT NN .</POS>
+		<Lemma>now for the longer version of the review .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Long version : When Sony bought the Mind of Minolta , melded it with the minds of one of the world 's leading multi-media companies , and backed it with Sony financial muscle , good things started happening for digital photography .</Tokens>
+		<POS>JJ NN : WRB NNP VBD DT NN IN NNP , VBD PRP IN DT NNS IN CD IN DT NN POS VBG JJ NNS , CC VBD PRP IN NNP JJ NN , JJ NNS VBD VBG IN JJ NN .</POS>
+		<Lemma>long version : when Sony buy the mind of Minolta , meld it with the mind of one of the world 's lead multi-media company , and back it with Sony financial muscle , good thing start happen for digital photography .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Sony corporate revenue is 10 times that of Nikon and Canon put together , and when Sony shows up , they come to play .</Tokens>
+		<POS>NNP JJ NN VBZ CD NNS IN IN NNP CC NNP VBN RB , CC WRB NNP VBZ RP , PRP VBP TO VB .</POS>
+		<Lemma>Sony corporate revenue be 10 time that of Nikon and Canon put together , and when Sony show up , they come to play .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I have had an A550 for over a year , but on careful reading of specs and the A580 owner 's manual , I decided to upgrade .</Tokens>
+		<POS>PRP VBP VBD DT NN IN IN DT NN , CC IN JJ NN IN NNS CC DT NN NN POS NN , PRP VBD TO VB .</POS>
+		<Lemma>I have have a a550 for over a year , but on careful reading of spec and the a580 owner 's manual , I decide to upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The DSLR innovations from Sony are beginning to snowball .</Tokens>
+		<POS>DT NN NNS IN NNP VBP VBG TO NN .</POS>
+		<Lemma>the dslr innovation from Sony be begin to snowball .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>This camera , prior to the A77 , was ahead of every other camera on the planet in three areas that are critical to non-professionals : 1 .</Tokens>
+		<POS>DT NN , RB TO DT NN , VBD RB IN DT JJ NN IN DT NN IN CD NNS WDT VBP JJ TO NNS : CD .</POS>
+		<Lemma>this camera , prior to the a77 , be ahead of every other camera on the planet in three area that be critical to non-professional : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>low light performance - it is excellent out to ISO 6400 -LRB- Pros care about this too and it beats the A77 in my own tests . -RRB-</Tokens>
+		<POS>JJ JJ NN : PRP VBZ JJ IN TO NN CD -LRB- NNS VBP IN DT RB CC PRP VBZ DT NN IN PRP$ JJ NNS . -RRB-</POS>
+		<Lemma>low light performance - it be excellent out to iso 6400 -lrb- pro care about this too and it beat the a77 in my own test . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>\* Amendment : The word on the street is that Sony is now selling this camera 's sensor to Nikon for use in the D5100 .</Tokens>
+		<POS>SYM NN : DT NN IN DT NN VBZ IN NNP VBZ RB VBG DT NN POS NN TO NNP IN NN IN DT NN .</POS>
+		<Lemma>\* amendment : the word on the street be that Sony be now sell this camera 's sensor to Nikon for use in the d5100 .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>fast-focusing live view with tilt screen , which is slightly better than several other Sony offerings and beats all other brands like a drum -LRB- the A77 has a more degrees of tilting freedom and focuses just as fast -RRB- 3 .</Tokens>
+		<POS>JJ JJ NN IN NN NN , WDT VBZ RB JJR IN JJ JJ NNP NNS CC VBZ DT JJ NNS IN DT VBP -LRB- DT NN VBZ DT RBR NNS IN VBG NN CC VBZ RB RB JJ -RRB- CD .</POS>
+		<Lemma>fast-focusing live view with tilt screen , which be slightly better than several other Sony offering and beat all other brand like a drum -lrb- the a77 have a more degree of tilt freedom and focus just as fast -rrb- 3 .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>high dynamic range -LRB- HDR -RRB- feature , which , for stationary subjects , will bring images out of the shadows with full detail , grain-free , like you wo n't believe -LRB- the A77 also has this -RRB- The A580 has multi-frame noise reduction -LRB- MFNR -RRB- , which will REALLY help out in low light as long as the scene is stationary .</Tokens>
+		<POS>JJ JJ NN -LRB- NN -RRB- NN , WDT , IN JJ NNS , MD VB NNS IN IN DT NNS IN JJ NN , NN , IN PRP MD RB VB -LRB- DT NN RB VBZ DT -RRB- DT NN VBZ JJ NN NN -LRB- NN -RRB- , WDT MD RB VB RP IN JJ NN RB RB IN DT NN VBZ JJ .</POS>
+		<Lemma>high dynamic range -lrb- hdr -rrb- feature , which , for stationary subject , will bring image out of the shadow with full detail , grain-free , like you will not believe -lrb- the a77 also have this -rrb- the a580 have multi-frame noise reduction -lrb- mfnr -rrb- , which will really help out in low light as long as the scene be stationary .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Of course , using a long exposure on a tripod also requires that the scene is stationary .</Tokens>
+		<POS>IN NN , VBG DT JJ NN IN DT NN RB VBZ IN DT NN VBZ JJ .</POS>
+		<Lemma>of course , use a long exposure on a tripod also require that the scene be stationary .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>MFNR is a selection on the ISO menu , so the camera will optimize the ISO according to the scene .</Tokens>
+		<POS>NN VBZ DT NN IN DT NN NN , IN DT NN MD VB DT NN VBG TO DT NN .</POS>
+		<Lemma>mfnr be a selection on the iso menu , so the camera will optimize the iso accord to the scene .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I 've become very dependent on this feature when working in a hurry in low light .</Tokens>
+		<POS>PRP VBP VBN RB JJ IN DT NN WRB VBG IN DT NN IN JJ NN .</POS>
+		<Lemma>I have become very dependent on this feature when work in a hurry in low light .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I set it as a memory preset so I can get in and out of the mode with just a twist of the knob .</Tokens>
+		<POS>PRP VBP PRP IN DT NN JJ IN PRP MD VB IN CC IN IN DT NN IN RB DT NN IN DT NN .</POS>
+		<Lemma>I set it as a memory preset so I can get in and out of the mode with just a twist of the knob .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>The A580\/560 has added the video capability that the A550\/500 lacked .</Tokens>
+		<POS>DT NN VBZ VBN DT NN NN IN DT CD VBD .</POS>
+		<Lemma>the a580\/560 have add the video capability that the a550\/500 lack .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>It shoots 1080\/60i , which deinterlaces in a 1080p TV to become 1080\/30p and is technically better than what you get from the high-def movie standard of 1080\/24p , but is not up to the 1080p\/60p of the most recent video cams .</Tokens>
+		<POS>PRP VBZ RB , WDT VBZ IN DT JJ NN TO VB NN CC VBZ RB JJR IN WP PRP VBP IN DT JJ NN NN IN NN , CC VBZ RB RB TO DT NN IN DT RBS JJ NN NNS .</POS>
+		<Lemma>it shoot 1080\/60i , which deinterlace in a 1080p tv to become 1080\/30p and be technically better than what you get from the high-def movie standard of 1080\/24p , but be not up to the 1080p\/60p of the most recent video cam .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>It can be very , very sharp according to your optics and your success at focusing .</Tokens>
+		<POS>PRP MD VB RB , RB JJ VBG TO PRP$ NNS CC PRP$ NN IN VBG .</POS>
+		<Lemma>it can be very , very sharp accord to you optics and you success at focus .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>The A580\/560 does not focus during video shooting like the A77\/65\/55 \/ 35 SLTs , but it does something that they do not : it allows you to choose the lens aperture f-number .</Tokens>
+		<POS>DT NN VBZ RB VB IN NN NN IN DT NN : CD NNS , CC PRP VBZ NN IN PRP VBP RB : PRP VBZ PRP TO VB DT NN NN NN .</POS>
+		<Lemma>the a580\/560 do not focus during video shooting like the a77\/65\/55 \/ 35 slt , but it do something that they do not : it allow you to choose the lens aperture f-number .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>-LRB- Higher f-number means a more closed down aperture , means more of your scene in focus , and means you may need more light when you take advantage of it . -RRB-</Tokens>
+		<POS>-LRB- JJR NN VBZ DT RBR VBN RB RB , VBZ JJR IN PRP$ NN IN NN , CC VBZ PRP MD VB RBR JJ WRB PRP VBP NN IN PRP . -RRB-</POS>
+		<Lemma>-lrb- higher f-number mean a more close down aperture , mean more of you scene in focus , and mean you may need more light when you take advantage of it . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>The A580 allows manual focus while shooting , but that 's awkward without a tripod .</Tokens>
+		<POS>DT NN VBZ JJ NN IN NN , CC DT VBZ JJ IN DT NN .</POS>
+		<Lemma>the a580 allow manual focus while shooting , but that be awkward without a tripod .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>On the A580\/560 , you can zoom while you shoot , but you ca n't change the aperture while shooting .</Tokens>
+		<POS>IN DT NN , PRP MD VB IN PRP VBP , CC PRP MD RB VB DT NN IN NN .</POS>
+		<Lemma>on the a580\/560 , you can zoom while you shoot , but you can not change the aperture while shooting .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>-LRB- The manual is extremely confusing on that point . -RRB-</Tokens>
+		<POS>-LRB- DT NN VBZ RB JJ IN DT NN . -RRB-</POS>
+		<Lemma>-lrb- the manual be extremely confusing on that point . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>With the A580\/560 , you set up your focus and your f-number before you start shooting .</Tokens>
+		<POS>IN DT NN , PRP VBD RP PRP$ NN CC PRP$ NN IN PRP VBP VBG .</POS>
+		<Lemma>with the a580\/560 , you set up you focus and you f-number before you start shoot .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>-LRB- Use aperture priority and press your still-photography shutter halfway to set the focus . -RRB-</Tokens>
+		<POS>-LRB- NN NN NN CC NN PRP$ NN NN RB TO VB DT NN . -RRB-</POS>
+		<Lemma>-lrb- use aperture priority and press you still-photography shutter halfway to set the focus . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>Then you press the video button , and focus stays fixed until you stop shooting video and change it -LRB- unless you adjust manually -RRB- .</Tokens>
+		<POS>RB PRP VBP DT NN NN , CC VB NNS VBN IN PRP VBP VBG NN CC VB PRP -LRB- IN PRP VBP RB -RRB- .</POS>
+		<Lemma>then you press the video button , and focus stay fix until you stop shoot video and change it -lrb- unless you adjust manually -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>Given that this is an APS-C sensor , you should be able to get enough depth of focus to cover most - but not all - circumstances .</Tokens>
+		<POS>VBN IN DT VBZ DT NN NN , PRP MD VB JJ TO VB RB NN IN NN TO VB RBS : CC RB DT : NNS .</POS>
+		<Lemma>give that this be a aps-c sensor , you should be able to get enough depth of focus to cover most - but not all - circumstance .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>If you need a lot of your scene in focus at once , the A580\/560 is preferable ; if you need to follow a objects as they move a lot closer or a lot further away , the SLTs are your best bet .</Tokens>
+		<POS>IN PRP VBP DT NN IN PRP$ NN IN NN IN RB , DT NN VBZ JJ : IN PRP VBP TO VB DT NNS IN PRP VBP DT RB JJR CC DT NN RB RB , DT NNS VBP PRP$ JJS NN .</POS>
+		<Lemma>if you need a lot of you scene in focus at once , the a580\/560 be preferable ; if you need to follow a object as they move a lot closer or a lot further away , the slt be you best bet .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Both designs , unlike the A77 , will have a heating problem if you shoot video continuously for more than a few minutes , which most of us rarely do .</Tokens>
+		<POS>DT NNS , IN DT NN , MD VB DT NN NN IN PRP VBP JJ RB IN JJR IN DT JJ NNS , WDT JJS IN PRP RB VBP .</POS>
+		<Lemma>both design , unlike the a77 , will have a heating problem if you shoot video continuously for more than a few minute , which most of we rarely do .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>What I 've done with video has looked very sharp .</Tokens>
+		<POS>WP PRP VBP VBN IN NN VBZ VBN RB JJ .</POS>
+		<Lemma>what I have do with video have look very sharp .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>When shooting video , you ca n't use the optical viewfinder .</Tokens>
+		<POS>WRB VBG NN , PRP MD RB VB DT JJ NN .</POS>
+		<Lemma>when shoot video , you can not use the optical viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>The A580\/560 has done away with two of the three most-significant negatives that I had identified for the A550\/500 .</Tokens>
+		<POS>DT NN VBZ VBN RP IN CD IN DT CD JJS NNS IN PRP VBD VBN IN DT CD .</POS>
+		<Lemma>the a580\/560 have do away with two of the three most-significant negative that I have identify for the a550\/500 .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>The only one left is lack of program shift , although there is a very useful manual-mode shift , which is often overlooked by professional reviewers .</Tokens>
+		<POS>DT JJ CD NN VBZ NN IN NN NN , IN EX VBZ DT RB JJ NN NN , WDT VBZ RB VBN IN JJ NNS .</POS>
+		<Lemma>the only one left be lack of program shift , although there be a very useful manual-mode shift , which be often overlook by professional reviewer .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>The rest of this review will explain the still-camera features and their associated benefits and liabilities , point out some other key discriminators , provide recommendations for sources of additional information , and offer suggestions for accessory purchases .</Tokens>
+		<POS>DT NN IN DT NN MD VB DT NN NNS CC PRP$ VBN NNS CC NNS , NN IN DT JJ JJ NNS , VBP NNS IN NNS IN JJ NN , CC NN NNS IN JJ NNS .</POS>
+		<Lemma>the rest of this review will explain the still-camera feature and they associate benefit and liability , point out some other key discriminator , provide recommendation for source of additional information , and offer suggestion for accessory purchase .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>I 'll discuss the kit lens , and I 'll look at the A55\/35 , which I 've been able to work with briefly .</Tokens>
+		<POS>PRP MD VB DT NN NN , CC PRP MD VB IN DT NNP , WDT PRP VBP VBN JJ TO VB IN NN .</POS>
+		<Lemma>I 'll discuss the kit lens , and I 'll look at the A55\/35 , which I have be able to work with briefly .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>I 'll point out differences relative to the A550\/500 , just in case you 're considering upgrading .</Tokens>
+		<POS>PRP MD VB RP NNS JJ TO DT CD , RB IN NN PRP VBP VBG VBG .</POS>
+		<Lemma>I 'll point out difference relative to the a550\/500 , just in case you be consider upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>Finally , and you may want to skip ahead to this , I 'll cover the differences between the A580 and the A560 , from a real-world user 's perspective .</Tokens>
+		<POS>RB , CC PRP MD VB TO VB RB TO DT , PRP MD VB DT NNS IN DT NN CC DT NN , IN DT JJ NN POS NN .</POS>
+		<Lemma>finally , and you may want to skip ahead to this , I 'll cover the difference between the a580 and the a560 , from a real-world user 's perspective .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>There are three kinds of potential buyers for this camera : those who already own a Sony SLR or a Minolta SLR , those who own another brand of digital SLR , and those who would be newcomers to digital SLRs but typically already have compact digital cameras .</Tokens>
+		<POS>EX VBP CD NNS IN JJ NNS IN DT NN : DT WP RB VBP DT NNP NN CC DT NNP NNP , DT WP VBP DT NN IN JJ NNP , CC DT WP MD VB NNS TO JJ NNS CC RB RB VB JJ JJ NNS .</POS>
+		<Lemma>there be three kind of potential buyer for this camera : those who already own a Sony slr or a Minolta SLR , those who own another brand of digital SLR , and those who would be newcomer to digital slr but typically already have compact digital camera .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>Most of the first group is pretty much already in Sony 's pocket , because they have sunk cost in lenses and accessories that they can use on the A580 .</Tokens>
+		<POS>JJS IN DT JJ NN VBZ RB JJ RB IN NNP POS NN , IN PRP VBP VBN NN IN NNS CC NNS IN PRP MD VB IN DT NN .</POS>
+		<Lemma>most of the first group be pretty much already in Sony 's pocket , because they have sink cost in lens and accessory that they can use on the a580 .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>The second group will be a hard sell because they 're fully vested in another brand .</Tokens>
+		<POS>DT JJ NN MD VB DT JJ NN IN PRP VBP RB VBN IN DT NN .</POS>
+		<Lemma>the second group will be a hard sell because they be fully vest in another brand .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>The third group is wide open , and the obvious opportunity for Sony 's DSLR brand growth .</Tokens>
+		<POS>DT JJ NN VBZ JJ JJ , CC DT JJ NN IN NNP POS NNP NN NN .</POS>
+		<Lemma>the third group be wide open , and the obvious opportunity for Sony 's DSLR brand growth .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>This is exactly why Sony has put so much emphasis on the live view capability .</Tokens>
+		<POS>DT VBZ RB WRB NNP VBZ VBN RB JJ NN IN DT JJ NN NN .</POS>
+		<Lemma>this be exactly why Sony have put so much emphasis on the live view capability .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>The owners of compact point-and-shoots are accustomed to framing their shots in a video display on the backs of their cameras -LRB- live view -RRB- , and may be reluctant to buy a big , clunky , expensive camera that wo n't do live view as well as what they already have .</Tokens>
+		<POS>DT NNS IN JJ NNS VBP VBN TO VBG PRP$ NNS IN DT NN NN IN DT NNS IN PRP$ NNS -LRB- JJ NN -RRB- , CC MD VB JJ TO VB DT JJ , JJ , JJ NN WDT MD RB VB VB NN RB RB IN WP PRP RB VBP .</POS>
+		<Lemma>the owner of compact point-and-shoot be accustom to frame they shot in a video display on the back of they camera -lrb- live view -rrb- , and may be reluctant to buy a big , clunky , expensive camera that will not do live view as well as what they already have .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>This group is also likely not to know that they should care about program shift , even though it can be handy .</Tokens>
+		<POS>DT NN VBZ RB JJ RB TO VB IN PRP MD VB IN NN NN , RB IN PRP MD VB JJ .</POS>
+		<Lemma>this group be also likely not to know that they should care about program shift , even though it can be handy .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>I 've said that Sony is targeting the DSLR newcomer here .</Tokens>
+		<POS>PRP VBP VBD IN NNP VBZ VBG DT NN NN RB .</POS>
+		<Lemma>I have say that Sony be target the dslr newcomer here .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>I 'm not implying that this is an entry-level DSLR .</Tokens>
+		<POS>PRP VBP RB VBG IN DT VBZ DT JJ NNP .</POS>
+		<Lemma>I be not imply that this be a entry-level DSLR .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>And speaking as one who spent 30 years with Nikon-professional and Hasselblad film cameras , I have to say that the SLR snobs should wake up and smell the live-view coffee .</Tokens>
+		<POS>CC VBG IN CD WP VBD CD NNS IN NN CC NNP NN NNS , PRP VBP TO VB IN DT NN NNS MD VB RB CC VB DT JJ NN .</POS>
+		<Lemma>and speak as one who spend 30 year with nikon-professional and Hasselblad film camera , I have to say that the slr snob should wake up and smell the live-view coffee .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>There are many , many situations in which live view is a vastly superior way to set up a shot .</Tokens>
+		<POS>EX VBP JJ , JJ NNS IN WDT VBP NN VBZ DT RB JJ NN TO VB RP DT NN .</POS>
+		<Lemma>there be many , many situation in which live view be a vastly superior way to set up a shot .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>I predict that in five to seven years , all DSLRs - even the pro models - will have live view capability like the A580 .</Tokens>
+		<POS>PRP VBP IN IN CD TO CD NNS , DT NNS : RB DT JJ NNS : MD VB JJ NN NN IN DT NN .</POS>
+		<Lemma>I predict that in five to seven year , all dslr - even the pro model - will have live view capability like the a580 .</Lemma>
+	</Sentence>
+	<Sentence id="59">
+		<Tokens>It is just ahead of its time .</Tokens>
+		<POS>PRP VBZ RB RB IN PRP$ NN .</POS>
+		<Lemma>it be just ahead of its time .</Lemma>
+	</Sentence>
+	<Sentence id="60">
+		<Tokens>Several of this camera 's innovations fall under the heading of compositing : the generation of a composite image through the combining of multiple , automatically shot , preliminary images .</Tokens>
+		<POS>JJ IN DT NN POS NNS VBP IN DT VBG IN NN : DT NN IN DT JJ NN IN DT VBG IN JJ , RB VBN , JJ NNS .</POS>
+		<Lemma>several of this camera 's innovation fall under the head of compositing : the generation of a composite image through the combine of multiple , automatically shoot , preliminary image .</Lemma>
+	</Sentence>
+	<Sentence id="61">
+		<Tokens>Professionals have always done this on their computers after-the-fact , using software like Photoshop .</Tokens>
+		<POS>NNS VBP RB VBN DT IN PRP$ NNS JJ , VBG NN IN NNP .</POS>
+		<Lemma>professional have always do this on they computer after-the-fact , use software like Photoshop .</Lemma>
+	</Sentence>
+	<Sentence id="62">
+		<Tokens>Now it can be done for three different purposes , very effectively - instantly - in your camera .</Tokens>
+		<POS>RB PRP MD VB VBN IN CD JJ NNS , RB RB : RB : IN PRP$ NN .</POS>
+		<Lemma>now it can be do for three different purpose , very effectively - instantly - in you camera .</Lemma>
+	</Sentence>
+	<Sentence id="63">
+		<Tokens>So what 's the significance of the three superlatives that I cited first ?</Tokens>
+		<POS>RB WP VBZ DT NN IN DT CD NNS IN PRP VBD RB .</POS>
+		<Lemma>so what be the significance of the three superlative that I cite first ?</Lemma>
+	</Sentence>
+	<Sentence id="64">
+		<Tokens>The capability out to ISO 6400 means you can shoot in lower light .</Tokens>
+		<POS>DT NN IN TO NN CD VBZ PRP MD VB IN JJR NN .</POS>
+		<Lemma>the capability out to iso 6400 mean you can shoot in lower light .</Lemma>
+	</Sentence>
+	<Sentence id="65">
+		<Tokens>It affords a faster shutter speed that will facilitate the use of longer -LRB- i.e. , telephoto -RRB- lenses , without a tripod , and deliver fast-action shots with less blurring .</Tokens>
+		<POS>PRP VBZ DT RBR JJR NN WDT MD VB DT NN IN JJR -LRB- FW , NN -RRB- NNS , IN DT NN , CC VB JJ NNS IN JJR VBG .</POS>
+		<Lemma>it afford a faster shutter speed that will facilitate the use of longer -lrb- i.e. , telephoto -rrb- lens , without a tripod , and deliver fast-action shot with less blur .</Lemma>
+	</Sentence>
+	<Sentence id="66">
+		<Tokens>Alternatively , you can get greater depth of focus and\/or get by with a smaller , lighter , and cheaper lens -LRB- i.e. , with larger f-number -RRB- .</Tokens>
+		<POS>RB , PRP MD VB JJR NN IN NN CC VB IN IN DT JJR , JJR , CC JJR NN -LRB- FW , IN JJR NN -RRB- .</POS>
+		<Lemma>alternatively , you can get greater depth of focus and\/or get by with a smaller , lighter , and cheaper lens -lrb- i.e. , with larger f-number -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="67">
+		<Tokens>The terrific built-in stabilization , coupled with the low-light-capable sensor , delivers this capability .</Tokens>
+		<POS>DT JJ JJ NN , VBN IN DT JJ NN , VBZ DT NN .</POS>
+		<Lemma>the terrific built-in stabilization , couple with the low-light-capable sensor , deliver this capability .</Lemma>
+	</Sentence>
+	<Sentence id="68">
+		<Tokens>The fact that the stabilization is built in to the camera body instead of the lens means you can buy excellent , cheap , vintage Minolta lenses and get the full benefit of stabilization .</Tokens>
+		<POS>DT NN IN DT NN VBZ VBN IN TO DT NN NN RB IN DT NN VBZ PRP MD VB JJ , JJ , JJ NNP NNS CC VB DT JJ NN IN NN .</POS>
+		<Lemma>the fact that the stabilization be build in to the camera body instead of the lens mean you can buy excellent , cheap , vintage Minolta lens and get the full benefit of stabilization .</Lemma>
+	</Sentence>
+	<Sentence id="69">
+		<Tokens>Sony makes their own sensors and even sells sensors to competitors .</Tokens>
+		<POS>NNP VBZ PRP$ JJ NNS CC RB VBZ NNS TO NNS .</POS>
+		<Lemma>Sony make they own sensor and even sell sensor to competitor .</Lemma>
+	</Sentence>
+	<Sentence id="70">
+		<Tokens>Given Sony 's obvious priority for DSLR market share , they can be expected to hold some things back from their DSLR competition .</Tokens>
+		<POS>VBN NNP POS JJ NN IN NN NN NN , PRP MD VB VBN TO VB DT NNS RB IN PRP$ NN NN .</POS>
+		<Lemma>give Sony 's obvious priority for dslr market share , they can be expect to hold some thing back from they dslr competition .</Lemma>
+	</Sentence>
+	<Sentence id="71">
+		<Tokens>The combined sensor and stabilization capability will allow you to sit in the den and shoot Fido without a flash .</Tokens>
+		<POS>DT JJ NN CC NN NN MD VB PRP TO VB IN DT NN CC NN NN IN DT NN .</POS>
+		<Lemma>the combined sensor and stabilization capability will allow you to sit in the den and shoot fido without a flash .</Lemma>
+	</Sentence>
+	<Sentence id="72">
+		<Tokens>No more pet red-eye !</Tokens>
+		<POS>DT RBR JJ NN .</POS>
+		<Lemma>no more pet red-eye !</Lemma>
+	</Sentence>
+	<Sentence id="73">
+		<Tokens>It also means you can sit in your den with the manual -LRB- or better yet , with the soon-to-be-released books that I recommend here -RRB- and learn the camera pretty much inside-out , working in available light .</Tokens>
+		<POS>PRP RB VBZ PRP MD VB IN PRP$ NN IN DT NN -LRB- CC JJR RB , IN DT JJ NNS IN PRP VBP RB -RRB- CC VB DT NN RB RB JJ , VBG IN JJ NN .</POS>
+		<Lemma>it also mean you can sit in you den with the manual -lrb- or better yet , with the soon-to-be-released book that I recommend here -rrb- and learn the camera pretty much inside-out , work in available light .</Lemma>
+	</Sentence>
+	<Sentence id="74">
+		<Tokens>There is a new compositing feature that adds even more low-light capability for near-stationary scenes : the hand-held twilight mode .</Tokens>
+		<POS>EX VBZ DT JJ NN NN WDT VBZ RB RBR JJ NN IN JJ NNS : DT JJ NN NN .</POS>
+		<Lemma>there be a new compositing feature that add even more low-light capability for near-stationary scene : the hand-held twilight mode .</Lemma>
+	</Sentence>
+	<Sentence id="75">
+		<Tokens>This mode , market-tested earlier this year on Sony 's higher-end point-and-shoot models , fires a burst of 6 frames , aligns them , and then uses them to reduce both random and detector-specific noise in a composite image with no attendant loss of detail .</Tokens>
+		<POS>DT NN , JJ RBR DT NN IN NNP POS JJ NN NNS , VBZ DT NN IN CD NNS , VBZ PRP , CC RB VBZ PRP TO VB CC JJ CC JJ NN IN DT JJ NN IN DT JJ NN IN NN .</POS>
+		<Lemma>this mode , market-tested earlier this year on Sony 's higher-end point-and-shoot model , fire a burst of 6 frame , align they , and then use they to reduce both random and detector-specific noise in a composite image with no attendant loss of detail .</Lemma>
+	</Sentence>
+	<Sentence id="76">
+		<Tokens>This really matters .</Tokens>
+		<POS>DT RB NNS .</POS>
+		<Lemma>this really matter .</Lemma>
+	</Sentence>
+	<Sentence id="77">
+		<Tokens>In addition to near instantaneous focusing -LRB- in decent light -RRB- , the live view screen is bright and has extraordinarily high resolution .</Tokens>
+		<POS>IN NN TO IN JJ VBG -LRB- IN JJ NN -RRB- , DT JJ NN NN VBZ JJ CC VBZ RB JJ NN .</POS>
+		<Lemma>in addition to near instantaneous focus -lrb- in decent light -rrb- , the live view screen be bright and have extraordinarily high resolution .</Lemma>
+	</Sentence>
+	<Sentence id="78">
+		<Tokens>You can set up the shot better , you get a better review of what you 've shot , and you have a better idea of whether you need to reshoot .</Tokens>
+		<POS>PRP MD VB RP DT NN RB , PRP VBP DT JJR NN IN WP PRP VBP VBN , CC PRP VBP DT JJR NN IN IN PRP VBP TO VB .</POS>
+		<Lemma>you can set up the shot better , you get a better review of what you have shoot , and you have a better idea of whether you need to reshoot .</Lemma>
+	</Sentence>
+	<Sentence id="79">
+		<Tokens>The tilting screen allows you to shoot over crowds , shoot over fences , shoot from waist level , and shoot from floor\/ground level without having to lay down to do it .</Tokens>
+		<POS>DT VBG NN VBZ PRP TO VB IN NNS , NN IN NNS , NN IN NN NN , CC VB IN JJ NN IN VBG TO VB RP TO VB PRP .</POS>
+		<Lemma>the tilt screen allow you to shoot over crowd , shoot over fence , shoot from waist level , and shoot from floor\/ground level without have to lay down to do it .</Lemma>
+	</Sentence>
+	<Sentence id="80">
+		<Tokens>It 's extremely handy for macro work .</Tokens>
+		<POS>PRP VBZ RB JJ IN NN NN .</POS>
+		<Lemma>it be extremely handy for macro work .</Lemma>
+	</Sentence>
+	<Sentence id="81">
+		<Tokens>You 'll also find yourself using the tilting screen in ordinary circumstances .</Tokens>
+		<POS>PRP MD RB VB PRP VBG DT VBG NN IN JJ NNS .</POS>
+		<Lemma>you 'll also find yourself use the tilt screen in ordinary circumstance .</Lemma>
+	</Sentence>
+	<Sentence id="82">
+		<Tokens>-LRB- Some have complained that this camera does not have an LCD readout on top .</Tokens>
+		<POS>-LRB- DT VBP VBN IN DT NN VBZ RB VB DT NNS NN IN NN .</POS>
+		<Lemma>-lrb- some have complain that this camera do not have a lcd readout on top .</Lemma>
+	</Sentence>
+	<Sentence id="83">
+		<Tokens>The flip-up screen does help compensate . -RRB-</Tokens>
+		<POS>DT JJ NN VBZ VB VB . -RRB-</POS>
+		<Lemma>the flip-up screen do help compensate . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="84">
+		<Tokens>Other DSLR brands , with the exception of Olympus , have totally pathetic live-view focusing capability .</Tokens>
+		<POS>JJ NN NNS , IN DT NN IN NNP , VBP RB JJ JJ VBG NN .</POS>
+		<Lemma>other dslr brand , with the exception of Olympus , have totally pathetic live-view focus capability .</Lemma>
+	</Sentence>
+	<Sentence id="85">
+		<Tokens>That 's an understatement .</Tokens>
+		<POS>DT VBZ DT NN .</POS>
+		<Lemma>that be a understatement .</Lemma>
+	</Sentence>
+	<Sentence id="86">
+		<Tokens>And even Olympus does not have the tilt screen .</Tokens>
+		<POS>CC RB NNP VBZ RB VB DT NN NN .</POS>
+		<Lemma>and even Olympus do not have the tilt screen .</Lemma>
+	</Sentence>
+	<Sentence id="87">
+		<Tokens>-LRB- Nikon actually has a better tilt screen , similar to the A55\/35 , but they do n't have the fast-focus live view . -RRB-</Tokens>
+		<POS>-LRB- NNP RB VBZ DT JJR NN NN , JJ TO DT NN , CC PRP VBP RB VB DT NN JJ NN . -RRB-</POS>
+		<Lemma>-lrb- Nikon actually have a better tilt screen , similar to the a55\/35 , but they do not have the fast-focus live view . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="88">
+		<Tokens>BTW , any DSLR will focus fast and allow you to squeeze off a shot in a split second when you use the optical viewfinder .</Tokens>
+		<POS>NNP , DT NN MD VB JJ CC VB PRP TO VB RP DT NN IN DT NN RB WRB PRP VBP DT JJ NN .</POS>
+		<Lemma>BTW , any dslr will focus fast and allow you to squeeze off a shot in a split second when you use the optical viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="89">
+		<Tokens>With this camera , the difference is that you can have it both ways , and both ways will yield way faster focusing than a compact point-and-shoot .</Tokens>
+		<POS>IN DT NN , DT NN VBZ IN PRP MD VB PRP DT NNS , CC DT NNS MD VB NN RBR VBG IN DT JJ NN .</POS>
+		<Lemma>with this camera , the difference be that you can have it both way , and both way will yield way faster focus than a compact point-and-shoot .</Lemma>
+	</Sentence>
+	<Sentence id="90">
+		<Tokens>These first two features alone , on an otherwise good camera , should be sufficient to persuade the DSLR newcomer to get onboard the A580\/560 bandwagon .</Tokens>
+		<POS>DT JJ CD NNS RB , IN DT RB JJ NN , MD VB JJ TO VB DT NN NN TO VB VB DT NN NN .</POS>
+		<Lemma>these first two feature alone , on a otherwise good camera , should be sufficient to persuade the dslr newcomer to get onboard the a580\/560 bandwagon .</Lemma>
+	</Sentence>
+	<Sentence id="91">
+		<Tokens>HDR is another compositing mode .</Tokens>
+		<POS>NNP VBZ DT NN NN .</POS>
+		<Lemma>HDR be another compositing mode .</Lemma>
+	</Sentence>
+	<Sentence id="92">
+		<Tokens>When you shoot with HDR , the camera shoots three frames in succession at differing exposure levels -LRB- you can set the difference to be up to 6 stops total across the three frames -RRB- .</Tokens>
+		<POS>WRB PRP VBP IN NN , DT NN VBZ CD NNS IN NN IN VBG NN NNS -LRB- PRP MD VB DT NN TO VB RB TO CD VBZ JJ IN DT CD NNS -RRB- .</POS>
+		<Lemma>when you shoot with hdr , the camera shoot three frame in succession at differ exposure level -lrb- you can set the difference to be up to 6 stop total across the three frame -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="93">
+		<Tokens>It then superimposes the pictures , replacing dark areas in the middle exposure with corresponding areas from the higher exposure , and replacing `` whited-out '' areas in the middle exposure with corresponding areas from the lower exposure .</Tokens>
+		<POS>PRP RB VBZ DT NNS , VBG JJ NNS IN DT JJ NN IN JJ NNS IN DT JJR NN , CC VBG `` JJ '' NNS IN DT JJ NN IN JJ NNS IN DT JJR NN .</POS>
+		<Lemma>it then superimpose the picture , replace dark area in the middle exposure with corresponding area from the higher exposure , and replace `` whited-out '' area in the middle exposure with corresponding area from the lower exposure .</Lemma>
+	</Sentence>
+	<Sentence id="94">
+		<Tokens>This camera , like others , has a mode called dynamic range optimization -LRB- DRO -RRB- that selectively adjusts contrast to improve shadow detail .</Tokens>
+		<POS>DT NN , IN NNS , VBZ DT NN VBN JJ NN NN -LRB- NN -RRB- WDT RB VBZ NN TO VB NN NN .</POS>
+		<Lemma>this camera , like other , have a mode call dynamic range optimization -lrb- dro -rrb- that selectively adjust contrast to improve shadow detail .</Lemma>
+	</Sentence>
+	<Sentence id="95">
+		<Tokens>DRO exploits the fact that the camera 's RAW images have 4-stops more dynamic range than jpeg , so there is room for adjustment .</Tokens>
+		<POS>NN VBZ DT NN IN DT NN POS NN NNS VBP NNS RBR JJ NN IN NN , RB EX VBZ NN IN NN .</POS>
+		<Lemma>dro exploit the fact that the camera 's raw image have 4-stop more dynamic range than jpeg , so there be room for adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="96">
+		<Tokens>HDR beats DRO by matching the actual exposure to the available light in different parts of the same picture , producing shadow detail that is sharper with less grain than DRO .</Tokens>
+		<POS>NN VBZ NN IN VBG DT JJ NN TO DT JJ NN IN JJ NNS IN DT JJ NN , VBG NN NN WDT VBZ JJR IN JJR NN IN NNP .</POS>
+		<Lemma>hdr beat dro by match the actual exposure to the available light in different part of the same picture , produce shadow detail that be sharper with less grain than DRO .</Lemma>
+	</Sentence>
+	<Sentence id="97">
+		<Tokens>You might wonder if you would have a problem holding the camera steady enough to capture three frames for overlay .</Tokens>
+		<POS>PRP MD VB IN PRP MD VB DT NN VBG DT NN JJ JJ TO VB CD NNS IN NN .</POS>
+		<Lemma>you might wonder if you would have a problem hold the camera steady enough to capture three frame for overlay .</Lemma>
+	</Sentence>
+	<Sentence id="98">
+		<Tokens>With the built in stabilization and the image correlation algorithm , the camera will take care of it , just as it does in the twilight mode .</Tokens>
+		<POS>IN DT VBN IN NN CC DT NN NN NN , DT NN MD VB NN IN PRP , RB IN PRP VBZ IN DT NN NN .</POS>
+		<Lemma>with the build in stabilization and the image correlation algorithm , the camera will take care of it , just as it do in the twilight mode .</Lemma>
+	</Sentence>
+	<Sentence id="99">
+		<Tokens>The only catch is that moving objects will produce a triple image , so you will only turn on HDR when you are shooting near-static scenes .</Tokens>
+		<POS>DT JJ NN VBZ IN VBG NNS MD VB DT JJ NN , RB PRP MD RB VB RP NN WRB PRP VBP JJ JJ NNS .</POS>
+		<Lemma>the only catch be that move object will produce a triple image , so you will only turn on hdr when you be shooting near-static scene .</Lemma>
+	</Sentence>
+	<Sentence id="100">
+		<Tokens>Also , since HDR lightens the dark areas of the photo , you wo n't want to use HDR on static scenes when you need strong contrast between light and dark areas .</Tokens>
+		<POS>RB , IN NNP VBZ DT JJ NNS IN DT NN , PRP MD RB VB TO VB NNP IN JJ NNS WRB PRP VBP JJ NN IN JJ CC JJ NNS .</POS>
+		<Lemma>also , since HDR lighten the dark area of the photo , you will not want to use HDR on static scene when you need strong contrast between light and dark area .</Lemma>
+	</Sentence>
+	<Sentence id="101">
+		<Tokens>-LRB- The A550\/500 shoots two frames instead of three and spans from 1 to 3 stops as compared to the A580\/560 's 1 to 6 . -RRB-</Tokens>
+		<POS>-LRB- DT CD VBZ CD NNS RB IN CD CC VBZ IN CD TO CD VBZ IN VBN TO DT NN POS CD TO CD . -RRB-</POS>
+		<Lemma>-lrb- the a550\/500 shoot two frame instead of three and span from 1 to 3 stop as compare to the a580\/560 's 1 to 6 . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="102">
+		<Tokens>HDR saves the composite image and also saves the medium-exposure image -LRB- which the A550 could n't do , because it had no medium image -RRB- .</Tokens>
+		<POS>NNP VBZ DT JJ NN CC RB VBZ DT JJ NN -LRB- WDT DT NN MD RB VB , IN PRP VBD DT NN NN -RRB- .</POS>
+		<Lemma>HDR save the composite image and also save the medium-exposure image -lrb- which the a550 could not do , because it have no medium image -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="103">
+		<Tokens>This can be a God-send if you forget to turn off HDR and shoot something moving -LRB- as I did in Harry Potter 's King 's Cross station this summer -RRB- .</Tokens>
+		<POS>DT MD VB DT NN IN PRP VB TO VB RP NNP CC VB NN VBG -LRB- IN PRP VBD IN NNP NNP POS NNP POS NNP NN DT NN -RRB- .</POS>
+		<Lemma>this can be a god-send if you forget to turn off HDR and shoot something move -lrb- as I do in Harry Potter 's King 's Cross station this summer -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="104">
+		<Tokens>It also gives you something to compare .</Tokens>
+		<POS>PRP RB VBZ PRP NN TO VB .</POS>
+		<Lemma>it also give you something to compare .</Lemma>
+	</Sentence>
+	<Sentence id="105">
+		<Tokens>I used HDR heavily on the A550 and got terrific results .</Tokens>
+		<POS>PRP VBD NNP RB IN DT NN CC VBD JJ NNS .</POS>
+		<Lemma>I use HDR heavily on the a550 and get terrific result .</Lemma>
+	</Sentence>
+	<Sentence id="106">
+		<Tokens>The best just got better with the A580\/560 .</Tokens>
+		<POS>DT JJS RB VBD JJR IN DT NN .</POS>
+		<Lemma>the best just get better with the a580\/560 .</Lemma>
+	</Sentence>
+	<Sentence id="107">
+		<Tokens>My only recommendation to Sony for improvement would be to have an option to do the HDR process in RAW and output the image in RAW to preserve the full dynamic range of the sensor .</Tokens>
+		<POS>PRP$ JJ NN TO NNP IN NN MD VB TO VB DT NN TO VB DT NN NN IN NN CC NN DT NN IN NN TO VB DT JJ JJ NN IN DT NN .</POS>
+		<Lemma>my only recommendation to Sony for improvement would be to have a option to do the hdr process in raw and output the image in raw to preserve the full dynamic range of the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="108">
+		<Tokens>As it is , Sony giveth , and Sony taketh away .</Tokens>
+		<POS>IN PRP VBZ , NNP VBZ , CC NNP VBP RB .</POS>
+		<Lemma>as it be , Sony giveth , and Sony taketh away .</Lemma>
+	</Sentence>
+	<Sentence id="109">
+		<Tokens>What are some other significant features ?</Tokens>
+		<POS>WP VBP DT JJ JJ NNS .</POS>
+		<Lemma>what be some other significant feature ?</Lemma>
+	</Sentence>
+	<Sentence id="110">
+		<Tokens>Early mirror lockup on self-timer .</Tokens>
+		<POS>JJ NN NN IN NN .</POS>
+		<Lemma>early mirror lockup on self-timer .</Lemma>
+	</Sentence>
+	<Sentence id="111">
+		<Tokens>This allows you to absolutely remove mirror-induced vibrations that may cause some blurring .</Tokens>
+		<POS>DT VBZ PRP TO RB VB JJ NNS WDT MD VB DT VBG .</POS>
+		<Lemma>this allow you to absolutely remove mirror-induced vibration that may cause some blur .</Lemma>
+	</Sentence>
+	<Sentence id="112">
+		<Tokens>Mirror-slap vibrations are a much worse problem on full-frame cameras than on APS-C , because the mirrors are bigger .</Tokens>
+		<POS>JJ NNS VBP DT RB JJR NN IN JJ NNS IN IN NN , IN DT VBZ VBP JJR .</POS>
+		<Lemma>mirror-slap vibration be a much worse problem on full-frame camera than on aps-c , because the mirror be bigger .</Lemma>
+	</Sentence>
+	<Sentence id="113">
+		<Tokens>Also , the vibrations were much worse in the bad old days before engineers built in damping that essentially has the mirror hit a pillow instead of a hard stop .</Tokens>
+		<POS>RB , DT NNS VBD RB JJR IN DT JJ JJ NNS IN NNS VBN IN VBG IN RB VBZ DT NN VBD DT NN RB IN DT JJ NN .</POS>
+		<Lemma>also , the vibration be much worse in the bad old day before engineer build in damp that essentially have the mirror hit a pillow instead of a hard stop .</Lemma>
+	</Sentence>
+	<Sentence id="114">
+		<Tokens>Even so , I will be comforted to know , when I 'm setting up that once-in-a-lifetime shot , that I do n't have any possible degradation due to the mirror .</Tokens>
+		<POS>RB RB , PRP MD VB VBN TO VB , WRB PRP VBP VBG RP DT JJ NN , IN PRP VBP RB VB DT JJ NN JJ TO DT NN .</POS>
+		<Lemma>even so , I will be comfort to know , when I be set up that once-in-a-lifetime shot , that I do not have any possible degradation due to the mirror .</Lemma>
+	</Sentence>
+	<Sentence id="115">
+		<Tokens>Mirror lockup , which is on all pro cameras , was missing on the A550\/500 , and was one of those problems that the A580\/560 fixed .</Tokens>
+		<POS>NNP NN , WDT VBZ IN DT FW NNS , VBD VBG IN DT CD , CC VBD CD IN DT NNS IN DT NN VBN .</POS>
+		<Lemma>Mirror lockup , which be on all pro camera , be miss on the a550\/500 , and be one of those problem that the a580\/560 fix .</Lemma>
+	</Sentence>
+	<Sentence id="116">
+		<Tokens>The only thing better would be if the A580\/560 would let you keep the mirror locked up to avoid the self-timer-mode delay when you 're ready to shoot .</Tokens>
+		<POS>DT JJ NN RBR MD VB IN DT NN MD VB PRP VB DT NN VBN RP TO VB DT JJ NN WRB PRP VBP JJ TO VB .</POS>
+		<Lemma>the only thing better would be if the a580\/560 would let you keep the mirror lock up to avoid the self-timer-mode delay when you be ready to shoot .</Lemma>
+	</Sentence>
+	<Sentence id="117">
+		<Tokens>The other of my two major problems with the A550\/500 that the A580\/560 has fixed is the lack of depth of field preview .</Tokens>
+		<POS>DT JJ IN PRP$ CD JJ NNS IN DT NN IN DT NN VBZ VBN VBZ DT NN IN NN IN NN NN .</POS>
+		<Lemma>the other of my two major problem with the a550\/500 that the a580\/560 have fix be the lack of depth of field preview .</Lemma>
+	</Sentence>
+	<Sentence id="118">
+		<Tokens>This allows you to see how much of a scene is in focus at your current f-number .</Tokens>
+		<POS>DT VBZ PRP TO VB WRB JJ IN DT NN VBZ IN NN IN PRP$ JJ NN .</POS>
+		<Lemma>this allow you to see how much of a scene be in focus at you current f-number .</Lemma>
+	</Sentence>
+	<Sentence id="119">
+		<Tokens>When you do the preview , the camera stops down the lens so that you can see its effect through the viewfinder .</Tokens>
+		<POS>WRB PRP VBP DT NN , DT NN VBZ RP DT NN IN IN PRP MD VB PRP$ NN IN DT NN .</POS>
+		<Lemma>when you do the preview , the camera stop down the lens so that you can see its effect through the viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="120">
+		<Tokens>Of course the view becomes darker as this happens , but you can usually get a better idea of your depth of focus .</Tokens>
+		<POS>IN NN DT NN VBZ JJR IN DT VBZ , CC PRP MD RB VB DT JJR NN IN PRP$ NN IN NN .</POS>
+		<Lemma>of course the view become darker as this happen , but you can usually get a better idea of you depth of focus .</Lemma>
+	</Sentence>
+	<Sentence id="121">
+		<Tokens>This feature is all the more important now that the camera has video that ca n't change focus while shooting .</Tokens>
+		<POS>DT NN VBZ PDT DT RBR JJ RB IN DT NN VBZ NN WDT MD RB VB NN IN NN .</POS>
+		<Lemma>this feature be all the more important now that the camera have video that can not change focus while shooting .</Lemma>
+	</Sentence>
+	<Sentence id="122">
+		<Tokens>Another compositing function is the panoramic mode .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN .</POS>
+		<Lemma>another compositing function be the panoramic mode .</Lemma>
+	</Sentence>
+	<Sentence id="123">
+		<Tokens>Using it is very intuitive : you hold down the shutter button and pan the camera .</Tokens>
+		<POS>VBG PRP VBZ RB JJ : PRP VBP RP DT NN NN CC VB DT NN .</POS>
+		<Lemma>use it be very intuitive : you hold down the shutter button and pan the camera .</Lemma>
+	</Sentence>
+	<Sentence id="124">
+		<Tokens>The camera wildly fires at what must be 7fps until you stop .</Tokens>
+		<POS>DT NN RB VBZ IN WP MD VB NNS IN PRP VBP .</POS>
+		<Lemma>the camera wildly fire at what must be 7fp until you stop .</Lemma>
+	</Sentence>
+	<Sentence id="125">
+		<Tokens>-LRB- The camera gives you an indication of the speed at which you should pan the camera . -RRB-</Tokens>
+		<POS>-LRB- DT NN VBZ PRP DT NN IN DT NN IN WDT PRP MD VB DT NN . -RRB-</POS>
+		<Lemma>-lrb- the camera give you a indication of the speed at which you should pan the camera . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="126">
+		<Tokens>At that point , it knits the frames together into a continuous photo .</Tokens>
+		<POS>IN DT NN , PRP VBZ DT NNS RB IN DT JJ NN .</POS>
+		<Lemma>at that point , it knit the frame together into a continuous photo .</Lemma>
+	</Sentence>
+	<Sentence id="127">
+		<Tokens>I 've only played with it a little , but my first impression is `` WoW . ''</Tokens>
+		<POS>PRP VBP RB VBN IN PRP DT JJ , CC PRP$ JJ NN VBZ `` NNP . ''</POS>
+		<Lemma>I have only play with it a little , but my first impression be `` WoW . ''</Lemma>
+	</Sentence>
+	<Sentence id="128">
+		<Tokens>I 'm looking forward to using it in the future .</Tokens>
+		<POS>PRP VBP VBG RB TO VBG PRP IN DT NN .</POS>
+		<Lemma>I be look forward to use it in the future .</Lemma>
+	</Sentence>
+	<Sentence id="129">
+		<Tokens>The A580 will take an SD card and a Memory Stick simultaneously .</Tokens>
+		<POS>DT NN MD VB DT NN NN CC DT NN NNP RB .</POS>
+		<Lemma>the a580 will take a sd card and a memory Stick simultaneously .</Lemma>
+	</Sentence>
+	<Sentence id="130">
+		<Tokens>You have to throw a mechanical switch to go from one to another .</Tokens>
+		<POS>PRP VBP TO VB DT JJ NN TO VB IN CD TO DT .</POS>
+		<Lemma>you have to throw a mechanical switch to go from one to another .</Lemma>
+	</Sentence>
+	<Sentence id="131">
+		<Tokens>SD cards will give you about the same speed and storage as memory sticks for about half the price , so having the SD option is valuable .</Tokens>
+		<POS>NN NNS MD VB PRP IN DT JJ NN CC NN IN NN VBZ IN IN PDT DT NN , RB VBG DT NN NN VBZ JJ .</POS>
+		<Lemma>sd card will give you about the same speed and storage as memory stick for about half the price , so have the sd option be valuable .</Lemma>
+	</Sentence>
+	<Sentence id="132">
+		<Tokens>I keep my A580 loaded with both .</Tokens>
+		<POS>PRP VBP PRP$ NN VBN IN DT .</POS>
+		<Lemma>I keep my a580 load with both .</Lemma>
+	</Sentence>
+	<Sentence id="133">
+		<Tokens>It just means I have a deeper built-in magazine and something to fall back on in case of a problem with one of the cards .</Tokens>
+		<POS>PRP RB VBZ PRP VBP DT JJR JJ NN CC NN TO VB RB IN IN NN IN DT NN IN CD IN DT NNS .</POS>
+		<Lemma>it just mean I have a deeper built-in magazine and something to fall back on in case of a problem with one of the card .</Lemma>
+	</Sentence>
+	<Sentence id="134">
+		<Tokens>Some will think that it 's a big deal that the A580 has an ISO 100 setting while the lowest on the A550\/500 and A560 is ISO 200 .</Tokens>
+		<POS>DT MD VB IN PRP VBZ DT JJ NN IN DT NN VBZ DT NN CD NN IN DT JJS IN DT NN CC NN VBZ NN CD .</POS>
+		<Lemma>some will think that it be a big deal that the a580 have a iso 100 setting while the lowest on the a550\/500 and a560 be iso 200 .</Lemma>
+	</Sentence>
+	<Sentence id="135">
+		<Tokens>The A550\/500 has a native resolution of ISO 200 -LRB- the A560 does as well -RRB- , and would derive no benefit from operating with double the light , which it would get at ISO 100 .</Tokens>
+		<POS>DT CD VBZ DT JJ NN IN NN CD -LRB- DT NN VBZ RB RB -RRB- , CC MD VB DT NN IN VBG IN JJ DT NN , WDT PRP MD VB IN NN CD .</POS>
+		<Lemma>the a550\/500 have a native resolution of iso 200 -lrb- the a560 do as well -rrb- , and would derive no benefit from operate with double the light , which it would get at iso 100 .</Lemma>
+	</Sentence>
+	<Sentence id="136">
+		<Tokens>Some will like the idea that they can use slower shutter speeds or wider apertures when they need to .</Tokens>
+		<POS>DT MD VB DT NN IN PRP MD VB JJR NN NNS CC JJR NNS WRB PRP VBP TO .</POS>
+		<Lemma>some will like the idea that they can use slower shutter speed or wider aperture when they need to .</Lemma>
+	</Sentence>
+	<Sentence id="137">
+		<Tokens>The A580\/560 has essentially the same viewfinder as the A550\/500 , providing 95 percent coverage .</Tokens>
+		<POS>DT NN VBZ RB DT JJ NN IN DT CD , VBG CD NN NN .</POS>
+		<Lemma>the a580\/560 have essentially the same viewfinder as the a550\/500 , provide 95 percent coverage .</Lemma>
+	</Sentence>
+	<Sentence id="138">
+		<Tokens>The phase detection autofocus system , however , has been upgraded from 9 to 15 points .</Tokens>
+		<POS>DT NN NN NN NN , RB , VBZ VBN VBN IN CD TO CD NNS .</POS>
+		<Lemma>the phase detection autofocus system , however , have be upgrade from 9 to 15 point .</Lemma>
+	</Sentence>
+	<Sentence id="139">
+		<Tokens>While the A550\/500 had one , center-located , cross-hair sensor , the A580\/560 has three .</Tokens>
+		<POS>IN DT CD VBD CD , JJ , JJ NN , DT NN VBZ CD .</POS>
+		<Lemma>while the a550\/500 have one , center-located , cross-hair sensor , the a580\/560 have three .</Lemma>
+	</Sentence>
+	<Sentence id="140">
+		<Tokens>This has the effect of adding another two line-array of focus points .</Tokens>
+		<POS>DT VBZ DT NN IN VBG DT CD NN IN NN NNS .</POS>
+		<Lemma>this have the effect of add another two line-array of focus point .</Lemma>
+	</Sentence>
+	<Sentence id="141">
+		<Tokens>This all improves focusing performance , but I saw little need for improvement in my A550 .</Tokens>
+		<POS>DT DT VBZ VBG NN , CC PRP VBD JJ NN IN NN IN PRP$ NN .</POS>
+		<Lemma>this all improve focus performance , but I see little need for improvement in my a550 .</Lemma>
+	</Sentence>
+	<Sentence id="142">
+		<Tokens>The A580 and the A560 will both shoot up to 7 frames per second , which is world class but is exceeded by the SLTs .</Tokens>
+		<POS>DT NN CC DT NN MD CC VB RP TO CD NNS IN JJ , WDT VBZ NN NN CC VBZ VBN IN DT NNS .</POS>
+		<Lemma>the a580 and the a560 will both shoot up to 7 frame per second , which be world class but be exceed by the slt .</Lemma>
+	</Sentence>
+	<Sentence id="143">
+		<Tokens>The A580\/560 ca n't auto-adjust focus while firing at 7 fps , the same as while shooting video .</Tokens>
+		<POS>DT NN MD RB VB NN IN NN IN CD NNS , DT JJ IN IN VBG NN .</POS>
+		<Lemma>the a580\/560 can not auto-adjust focus while firing at 7 fp , the same as while shoot video .</Lemma>
+	</Sentence>
+	<Sentence id="144">
+		<Tokens>If you 're shooting something moving toward or away from you , you 'll need to slow down to 5fps , which you can do .</Tokens>
+		<POS>IN PRP VBP VBG NN VBG IN CC RB IN PRP , PRP MD VB TO VB RP TO NNS , WDT PRP MD VB .</POS>
+		<Lemma>if you be shoot something move toward or away from you , you 'll need to slow down to 5fp , which you can do .</Lemma>
+	</Sentence>
+	<Sentence id="145">
+		<Tokens>As the A580 is firing and filling your buffer , it is dumping from the buffer to your memory stick or SD card .</Tokens>
+		<POS>IN DT NN VBZ NN CC VBG PRP$ NN , PRP VBZ VBG IN DT NN TO PRP$ NN NN CC NN NN .</POS>
+		<Lemma>as the a580 be firing and fill you buffer , it be dump from the buffer to you memory stick or sd card .</Lemma>
+	</Sentence>
+	<Sentence id="146">
+		<Tokens>The A580 has a buffer that will allow you to shoot three times as many RAW shots or twice as many maximum-size jpegs as the A560 at that rate before it slows down .</Tokens>
+		<POS>DT NN VBZ DT NN WDT MD VB PRP TO VB CD NNS IN JJ NN NNS CC RB RB JJ JJ NNS IN DT NN IN DT NN IN PRP VBZ RP .</POS>
+		<Lemma>the a580 have a buffer that will allow you to shoot three time as many raw shot or twice as many maximum-size jpeg as the a560 at that rate before it slow down .</Lemma>
+	</Sentence>
+	<Sentence id="147">
+		<Tokens>-LRB- The A560 is just as fast , but has a much smaller buffer , so it slows down sooner . -RRB-</Tokens>
+		<POS>-LRB- DT NN VBZ RB RB RB , CC VBZ DT RB JJR NN , IN PRP VBZ RP RBR . -RRB-</POS>
+		<Lemma>-lrb- the a560 be just as fast , but have a much smaller buffer , so it slow down sooner . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="148">
+		<Tokens>A faster stick\/card will give you more shots before the buffer tops out .</Tokens>
+		<POS>DT JJR NN MD VB PRP RBR NNS IN DT NN VBZ RP .</POS>
+		<Lemma>a faster stick\/card will give you more shot before the buffer top out .</Lemma>
+	</Sentence>
+	<Sentence id="149">
+		<Tokens>The A550 had no further increase in shots-before-slowdown when I went to cards faster than class 6 .</Tokens>
+		<POS>DT NN VBD DT JJ NN IN JJ WRB PRP VBD TO NNS RBR IN NN CD .</POS>
+		<Lemma>the a550 have no further increase in shots-before-slowdown when I go to card faster than class 6 .</Lemma>
+	</Sentence>
+	<Sentence id="150">
+		<Tokens>I hope to do the necessary tests to determine where the point of diminishing returns is on this camera .</Tokens>
+		<POS>PRP VBP TO VB DT JJ NNS TO VB WRB DT NN IN VBG NNS VBZ IN DT NN .</POS>
+		<Lemma>I hope to do the necessary test to determine where the point of diminish return be on this camera .</Lemma>
+	</Sentence>
+	<Sentence id="151">
+		<Tokens>When I do , I 'll add it to this review .</Tokens>
+		<POS>WRB PRP VBP , PRP MD VB PRP TO DT NN .</POS>
+		<Lemma>when I do , I 'll add it to this review .</Lemma>
+	</Sentence>
+	<Sentence id="152">
+		<Tokens>I 'd like to make one more point about speed : many bloggers have made a big deal about `` how fast '' a camera is .</Tokens>
+		<POS>PRP MD VB TO VB CD JJR NN IN NN : JJ NNS VBP VBN DT JJ NN IN `` WRB JJ '' DT NN VBZ .</POS>
+		<Lemma>I would like to make one more point about speed : many blogger have make a big deal about `` how fast '' a camera be .</Lemma>
+	</Sentence>
+	<Sentence id="153">
+		<Tokens>Ask yourself whether you really want to go around shooting 7 or 10 fps on a regular basis .</Tokens>
+		<POS>VB PRP IN PRP RB VBP TO VB IN NN CD CC CD NNS IN DT JJ NN .</POS>
+		<Lemma>ask yourself whether you really want to go around shooting 7 or 10 fp on a regular basis .</Lemma>
+	</Sentence>
+	<Sentence id="154">
+		<Tokens>If you do , you 're going to spend a lot of time reviewing images and deleting .</Tokens>
+		<POS>IN PRP VBP , PRP VBP VBG TO VB DT NN IN NN VBG NNS CC VBG .</POS>
+		<Lemma>if you do , you be go to spend a lot of time review image and delete .</Lemma>
+	</Sentence>
+	<Sentence id="155">
+		<Tokens>The faster the frame rate , the more sifting you have to do .</Tokens>
+		<POS>DT JJR DT NN NN , DT RBR VBG PRP VBP TO VB .</POS>
+		<Lemma>the faster the frame rate , the more sift you have to do .</Lemma>
+	</Sentence>
+	<Sentence id="156">
+		<Tokens>I doubt that fps beyond 3 to 5 will turn out to be important to most of the people , most of the time .</Tokens>
+		<POS>PRP VBP IN NNS IN CD TO CD MD VB RP TO VB JJ TO JJS IN DT NNS , JJS IN DT NN .</POS>
+		<Lemma>I doubt that fp beyond 3 to 5 will turn out to be important to most of the people , most of the time .</Lemma>
+	</Sentence>
+	<Sentence id="157">
+		<Tokens>What about the negative I mentioned at the start ?</Tokens>
+		<POS>WP IN DT JJ PRP VBD IN DT NN .</POS>
+		<Lemma>what about the negative I mention at the start ?</Lemma>
+	</Sentence>
+	<Sentence id="158">
+		<Tokens>Program shift would allow you to take the camera 's program-mode choice of aperture and shutter-speed setting and quickly and smoothly shift to other aperture-shutter combinations of equivalent exposure .</Tokens>
+		<POS>NN NN MD VB PRP TO VB DT NN POS JJ NN IN NN CC NN NN CC RB CC RB NN TO JJ JJ NNS IN JJ NN .</POS>
+		<Lemma>program shift would allow you to take the camera 's program-mode choice of aperture and shutter-speed setting and quickly and smoothly shift to other aperture-shutter combination of equivalent exposure .</Lemma>
+	</Sentence>
+	<Sentence id="159">
+		<Tokens>-LRB- For the technology-savvy , it 's like an instantaneous shift from Program mode to Aperture Priority or Shutter priority , while starting at the initial Program mode settings . -RRB-</Tokens>
+		<POS>-LRB- IN DT JJ , PRP VBZ IN DT JJ NN IN NN NN TO NNP NNP CC NNP NN , IN VBG IN DT JJ NN NN NNS . -RRB-</POS>
+		<Lemma>-lrb- for the technology-savvy , it be like a instantaneous shift from program mode to Aperture Priority or Shutter priority , while start at the initial program mode setting . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="160">
+		<Tokens>With the A560\/A580 , you ca n't do that .</Tokens>
+		<POS>IN DT NN , PRP MD RB VB DT .</POS>
+		<Lemma>with the a560\/a580 , you can not do that .</Lemma>
+	</Sentence>
+	<Sentence id="161">
+		<Tokens>You can , however , do a `` manual shift . ''</Tokens>
+		<POS>PRP MD , RB , VBP DT `` JJ NN . ''</POS>
+		<Lemma>you can , however , do a `` manual shift . ''</Lemma>
+	</Sentence>
+	<Sentence id="162">
+		<Tokens>This accomplishes a similar purpose but only in manual mode and not with the camera 's programmed exposure as a starting point .</Tokens>
+		<POS>DT VBZ DT JJ NN CC RB IN JJ NN CC RB IN DT NN POS VBN NN IN DT VBG NN .</POS>
+		<Lemma>this accomplish a similar purpose but only in manual mode and not with the camera 's program exposure as a start point .</Lemma>
+	</Sentence>
+	<Sentence id="163">
+		<Tokens>Program shift is a nice feature , and I wish the A580\/560 had it , but it 's no show-stopper .</Tokens>
+		<POS>NN NN VBZ DT JJ NN , CC PRP VBP DT NN VBD PRP , CC PRP VBZ DT NN .</POS>
+		<Lemma>program shift be a nice feature , and I wish the a580\/560 have it , but it be no show-stopper .</Lemma>
+	</Sentence>
+	<Sentence id="164">
+		<Tokens>Stuff you should consider buying : Books on the A580\/560 by Gary L. Friedman and David D. Busch .</Tokens>
+		<POS>NN PRP MD VB NN : NNS IN DT NN IN NNP NNP NNP CC NNP NNP NNP .</POS>
+		<Lemma>stuff you should consider buying : book on the a580\/560 by Gary L. Friedman and David D. Busch .</Lemma>
+	</Sentence>
+	<Sentence id="165">
+		<Tokens>Gary teamed with Tony Phillips to get his book out first .</Tokens>
+		<POS>NNP VBD IN NNP NNP TO VB PRP$ NN IN RB .</POS>
+		<Lemma>Gary team with Tony Phillips to get he book out first .</Lemma>
+	</Sentence>
+	<Sentence id="166">
+		<Tokens>He specializes in in-depth books on Sony cameras .</Tokens>
+		<POS>PRP VBZ IN JJ NNS IN NNP NNS .</POS>
+		<Lemma>he specialize in in-depth book on Sony camera .</Lemma>
+	</Sentence>
+	<Sentence id="167">
+		<Tokens>Busch writes good , comprehensive camera guides in general .</Tokens>
+		<POS>NNP VBZ JJ , JJ NN NNS IN JJ .</POS>
+		<Lemma>Busch write good , comprehensive camera guide in general .</Lemma>
+	</Sentence>
+	<Sentence id="168">
+		<Tokens>My favorite author on Sony cameras is Friedman .</Tokens>
+		<POS>PRP$ JJ NN IN NNP NNS VBZ NNP .</POS>
+		<Lemma>my favorite author on Sony camera be Friedman .</Lemma>
+	</Sentence>
+	<Sentence id="169">
+		<Tokens>He is a pro photographer who uses -- lives with -- Sony cameras both in studio and in outdoor shooting worldwide .</Tokens>
+		<POS>PRP VBZ DT JJ NNP WP VBZ : VBZ IN : NNP NNS CC IN NN CC IN JJ NN RB .</POS>
+		<Lemma>he be a pro photographer who use -- live with -- Sony camera both in studio and in outdoor shooting worldwide .</Lemma>
+	</Sentence>
+	<Sentence id="170">
+		<Tokens>Does that mean he 's out of touch with the needs and concerns of users like us ?</Tokens>
+		<POS>VBZ IN NN PRP VBZ IN IN NN IN DT NNS CC NNS IN NNS IN PRP .</POS>
+		<Lemma>do that mean he be out of touch with the need and concern of user like we ?</Lemma>
+	</Sentence>
+	<Sentence id="171">
+		<Tokens>No , because he 's constantly teaching seminars .</Tokens>
+		<POS>DT , IN PRP VBZ RB VBG NNS .</POS>
+		<Lemma>no , because he be constantly teach seminar .</Lemma>
+	</Sentence>
+	<Sentence id="172">
+		<Tokens>If you 're not sure about the A580 , get the Pdf version of Gary 's book .</Tokens>
+		<POS>IN PRP VBP RB JJ IN DT NN , VB DT NN NN IN NNP POS NN .</POS>
+		<Lemma>if you be not sure about the a580 , get the pdf version of Gary 's book .</Lemma>
+	</Sentence>
+	<Sentence id="173">
+		<Tokens>Once you get past the somewhat Dick-and-Jane stuff at the beginning , you 'll find around 460 pages of the most thorough treatment of this camera available -LRB- now or in the future -RRB- , with a pretty decent course in digital photography woven in .</Tokens>
+		<POS>RB PRP VBP IN DT RB JJ NN IN DT NN , PRP MD VB IN CD NNS IN DT RBS JJ NN IN DT NN JJ -LRB- RB CC IN DT NN -RRB- , IN DT RB JJ NN IN JJ NN VBN IN .</POS>
+		<Lemma>once you get past the somewhat dick-and-jane stuff at the beginning , you 'll find around 460 page of the most thorough treatment of this camera available -lrb- now or in the future -rrb- , with a pretty decent course in digital photography weave in .</Lemma>
+	</Sentence>
+	<Sentence id="174">
+		<Tokens>Even if you do n't buy an A580 , you 'll be a smarter buyer after Gary 's book if you 're less than a seasoned DSLR user .</Tokens>
+		<POS>RB IN PRP VBP RB VB DT NN , PRP MD VB DT RBR NN IN NNP POS NN IN PRP VBP JJR IN DT JJ NNP NN .</POS>
+		<Lemma>even if you do not buy a a580 , you 'll be a smarter buyer after Gary 's book if you be less than a seasoned DSLR user .</Lemma>
+	</Sentence>
+	<Sentence id="175">
+		<Tokens>You will need something to use to clean the sensor when it gets dust on it .</Tokens>
+		<POS>PRP MD VB NN TO VB TO VB DT NN WRB PRP VBZ NN IN PRP .</POS>
+		<Lemma>you will need something to use to clean the sensor when it get dust on it .</Lemma>
+	</Sentence>
+	<Sentence id="176">
+		<Tokens>Unless you install just one lens and never take it off , the sensor will get dust on it , and it may get dust on it anyway .</Tokens>
+		<POS>IN PRP VBP RB CD NN CC RB VB PRP RP , DT NN MD VB NN IN PRP , CC PRP MD VB NN IN PRP RB .</POS>
+		<Lemma>unless you install just one lens and never take it off , the sensor will get dust on it , and it may get dust on it anyway .</Lemma>
+	</Sentence>
+	<Sentence id="177">
+		<Tokens>At a minimum , get a Giottos Rocket Blaster Air Blower - Red -LRB- Large -RRB- 7.5 '' - AA1903 .</Tokens>
+		<POS>IN DT NN , VB DT NN NNP NNP NNP NNP NNP : NNP -LRB- JJ -RRB- CD '' : NN NN .</POS>
+		<Lemma>at a minimum , get a Giottos Rocket Blaster Air Blower - Red -lrb- large -rrb- 7.5 '' - aa1903 .</Lemma>
+	</Sentence>
+	<Sentence id="178">
+		<Tokens>Friedman does n't agree with me , but get one anyway .</Tokens>
+		<POS>NNP VBZ RB VB IN PRP , CC VB CD RB .</POS>
+		<Lemma>Friedman do not agree with I , but get one anyway .</Lemma>
+	</Sentence>
+	<Sentence id="179">
+		<Tokens>Then consider a VisibleDust Brite Vue Sensor Loupe - VisibleDust 3468822 , an Arctic Butterfly SL 700 Sensor Brush , a LensPen SensorKlear Loupe Kit w\/SensorKlear II , and\/or a Digital Survival KIT - Sensor Swab Type 2 -LRB- w\/Eclipse -RRB- .</Tokens>
+		<POS>RB VB DT NN NNP NNP NNP NNP NNP : NNP CD NN , DT NN NNP NNP NNP CD NNP NNP NN , DT NNP NNP NNP NN NN CD , CC DT NNP NNP NNP : NN NN NN CD -LRB- NN -RRB- .</POS>
+		<Lemma>then consider a VisibleDust Brite Vue Sensor Loupe - VisibleDust 3468822 , a Arctic Butterfly SL 700 Sensor Brush , a LensPen SensorKlear Loupe kit w\/sensorklear ii , and\/or a Digital Survival KIT - sensor swab type 2 -lrb- w\/eclipse -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="180">
+		<Tokens>-LRB- Extensive tests have shown that the Eclipse fluid is okay on Sony senors - you do n't need the E2 fluid as was once thought . -RRB-</Tokens>
+		<POS>-LRB- JJ NNS VBP VBN IN DT NNP NN VBZ JJ IN NNP NNS : PRP VBP RB VB DT NN NN IN VBD RB VBN . -RRB-</POS>
+		<Lemma>-lrb- extensive test have show that the Eclipse fluid be okay on Sony senor - you do not need the e2 fluid as be once think . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="181">
+		<Tokens>Do n't get all these accessories !</Tokens>
+		<POS>VBP RB VB PDT DT NNS .</POS>
+		<Lemma>do not get all these accessory !</Lemma>
+	</Sentence>
+	<Sentence id="182">
+		<Tokens>Just get the blower and check the others out .</Tokens>
+		<POS>RB VB DT NN CC VB DT NNS RP .</POS>
+		<Lemma>just get the blower and check the other out .</Lemma>
+	</Sentence>
+	<Sentence id="183">
+		<Tokens>I especially like the VisibleDust Sensor Loupe , and I 'd by the cheaper version of the two available on Amazon .</Tokens>
+		<POS>PRP RB IN DT NNP NNP NNP , CC PRP MD IN DT JJR NN IN DT CD JJ IN NNP .</POS>
+		<Lemma>I especially like the VisibleDust Sensor Loupe , and I would by the cheaper version of the two available on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="184">
+		<Tokens>Because of their built-in lighting , these loupes will even expose dust that is too small to cause a problem .</Tokens>
+		<POS>IN IN PRP$ JJ NN , DT NNS MD RB VB NN WDT VBZ RB JJ TO VB DT NN .</POS>
+		<Lemma>because of they built-in lighting , these loupe will even expose dust that be too small to cause a problem .</Lemma>
+	</Sentence>
+	<Sentence id="185">
+		<Tokens>If the sensor looks clean under your loupe , it 's clean .</Tokens>
+		<POS>IN DT NN VBZ JJ IN PRP$ NN , PRP VBZ JJ .</POS>
+		<Lemma>if the sensor look clean under you loupe , it be clean .</Lemma>
+	</Sentence>
+	<Sentence id="186">
+		<Tokens>As an aside , I think I 'd better tell you what I 've learned about cleaning the sensor .</Tokens>
+		<POS>IN DT RB , PRP VBP PRP MD RB VB PRP WP PRP VBP VBN IN VBG DT NN .</POS>
+		<Lemma>as a aside , I think I would better tell you what I have learn about clean the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="187">
+		<Tokens>First turn the camera body face down and switch it on and off a few times , which shakes the sensor .</Tokens>
+		<POS>NNP VB DT NN NN VBP RB CC VB PRP IN CC IN DT JJ NNS , WDT VBZ DT NN .</POS>
+		<Lemma>First turn the camera body face down and switch it on and off a few time , which shake the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="188">
+		<Tokens>If that does n't work , insert a well-charged battery , turn the body face down , and switch the sensor clean mode on and off a few times .</Tokens>
+		<POS>IN DT VBZ RB VB , VB DT JJ NN , VB DT NN NN RB , CC VBP DT NN JJ NN IN CC IN DT JJ NNS .</POS>
+		<Lemma>if that do not work , insert a well-charged battery , turn the body face down , and switch the sensor clean mode on and off a few time .</Lemma>
+	</Sentence>
+	<Sentence id="189">
+		<Tokens>It is n't documented , but that gives the sensor a better shake -LRB- like an ultrasonic cleaner -RRB- than the on-off shake - I only know because I can feel it .</Tokens>
+		<POS>PRP VBZ RB VBN , CC IN VBZ DT NN DT JJR NN -LRB- IN DT JJ NN -RRB- IN DT JJ NN : PRP RB VBP IN PRP MD VB PRP .</POS>
+		<Lemma>it be not document , but that give the sensor a better shake -lrb- like a ultrasonic cleaner -rrb- than the on-off shake - I only know because I can feel it .</Lemma>
+	</Sentence>
+	<Sentence id="190">
+		<Tokens>If that does n't work , be sure you have a well-charged battery -LRB- or put it on an external power supply -RRB- , turn on the clean mode , remove the lens or body cap , hold it up with its face down , and use the blower brush .</Tokens>
+		<POS>IN DT VBZ RB VB , VB JJ PRP VBP DT JJ NN -LRB- CC VB PRP IN DT JJ NN NN -RRB- , VB RP DT JJ NN , VB DT NN CC NN NN , VBP PRP RP IN PRP$ NN RB , CC VB DT NN NN .</POS>
+		<Lemma>if that do not work , be sure you have a well-charged battery -lrb- or put it on a external power supply -rrb- , turn on the clean mode , remove the lens or body cap , hold it up with its face down , and use the blower brush .</Lemma>
+	</Sentence>
+	<Sentence id="191">
+		<Tokens>By holding it face down , you have better odds of causing debris to fall out of the camera .</Tokens>
+		<POS>IN VBG PRP VB RP , PRP VBP JJR NNS IN VBG NN TO VB IN IN DT NN .</POS>
+		<Lemma>by hold it face down , you have better odds of cause debris to fall out of the camera .</Lemma>
+	</Sentence>
+	<Sentence id="192">
+		<Tokens>If the blower does n't work , consider the other options I listed previously .</Tokens>
+		<POS>IN DT NN VBZ RB VB , VB DT JJ NNS PRP VBD RB .</POS>
+		<Lemma>if the blower do not work , consider the other option I list previously .</Lemma>
+	</Sentence>
+	<Sentence id="193">
+		<Tokens>The blower has worked for me about 80 percent of the time .</Tokens>
+		<POS>DT NN VBZ VBN IN PRP IN CD NN IN DT NN .</POS>
+		<Lemma>the blower have work for I about 80 percent of the time .</Lemma>
+	</Sentence>
+	<Sentence id="194">
+		<Tokens>If you are klutzy with delicate instruments , and the blower brush does n't work , take it to a camera shop .</Tokens>
+		<POS>IN PRP VBP JJ IN JJ NNS , CC DT NN NN VBZ RB VB , VB PRP TO DT NN NN .</POS>
+		<Lemma>if you be klutzy with delicate instrument , and the blower brush do not work , take it to a camera shop .</Lemma>
+	</Sentence>
+	<Sentence id="195">
+		<Tokens>You have to be very careful about poking around the sensor .</Tokens>
+		<POS>PRP VBP TO VB RB JJ IN VBG IN DT NN .</POS>
+		<Lemma>you have to be very careful about poke around the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="196">
+		<Tokens>Do n't use a sensor brush on anything but the sensor so you do n't pick up any contamination on the brush .</Tokens>
+		<POS>VBP RB VB DT NN NN IN NN CC DT NN IN PRP VBP RB VB RP DT NN IN DT NN .</POS>
+		<Lemma>do not use a sensor brush on anything but the sensor so you do not pick up any contamination on the brush .</Lemma>
+	</Sentence>
+	<Sentence id="197">
+		<Tokens>The A580 's wall around the recessed sensor may have grease on it ; do n't touch any sensor brush against anything around the sensor .</Tokens>
+		<POS>DT NN POS NN IN DT JJ NN MD VB NN IN PRP : VBP RB VB DT NN NN IN NN IN DT NN .</POS>
+		<Lemma>the a580 's wall around the recessed sensor may have grease on it ; do not touch any sensor brush against anything around the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="198">
+		<Tokens>I will sometimes test a brush on a squeaky clean filter to make sure the brush is clean before using it on the sensor .</Tokens>
+		<POS>PRP MD RB VB DT NN IN DT RB JJ NN TO VB JJ DT NN VBZ JJ IN VBG PRP IN DT NN .</POS>
+		<Lemma>I will sometimes test a brush on a squeaky clean filter to make sure the brush be clean before use it on the sensor .</Lemma>
+	</Sentence>
+	<Sentence id="199">
+		<Tokens>Also , if your Arctic Butterfly brush seems loose or falls apart when you turn it on , just push it back together , which will permanently fix it .</Tokens>
+		<POS>RB , IN PRP$ NNP NNP NN VBZ JJ CC VBZ RB WRB PRP VBP PRP IN , RB VB PRP RB RB , WDT MD RB VB PRP .</POS>
+		<Lemma>also , if you Arctic Butterfly brush seem loose or fall apart when you turn it on , just push it back together , which will permanently fix it .</Lemma>
+	</Sentence>
+	<Sentence id="200">
+		<Tokens>Some were shipped without being properly assembled .</Tokens>
+		<POS>DT VBD VBN IN VBG RB VBN .</POS>
+		<Lemma>some be ship without be properly assemble .</Lemma>
+	</Sentence>
+	<Sentence id="201">
+		<Tokens>-LRB- Hard to forgive , considering the price . -RRB-</Tokens>
+		<POS>-LRB- JJ TO VB , VBG DT NN . -RRB-</POS>
+		<Lemma>-lrb- hard to forgive , consider the price . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="202">
+		<Tokens>A lot of people buy a vertical grip .</Tokens>
+		<POS>DT NN IN NNS VBP DT JJ NN .</POS>
+		<Lemma>a lot of people buy a vertical grip .</Lemma>
+	</Sentence>
+	<Sentence id="203">
+		<Tokens>The VGB50AM grip , which was made for the A550\/500 , will fit and operate on the A580\/560 .</Tokens>
+		<POS>DT NN NN , WDT VBD VBN IN DT CD , MD VB CC VB IN DT NN .</POS>
+		<Lemma>the vgb50am grip , which be make for the a550\/500 , will fit and operate on the a580\/560 .</Lemma>
+	</Sentence>
+	<Sentence id="204">
+		<Tokens>Vertical grips allow you to hold the camera and control it comfortably for portrait format .</Tokens>
+		<POS>JJ NNS VBP PRP TO VB DT NN CC VB PRP RB IN NN NN .</POS>
+		<Lemma>vertical grip allow you to hold the camera and control it comfortably for portrait format .</Lemma>
+	</Sentence>
+	<Sentence id="205">
+		<Tokens>They replace your camera 's internal battery with two batteries located in the grip .</Tokens>
+		<POS>PRP VB PRP$ NN POS JJ NN IN CD NNS JJ IN DT NN .</POS>
+		<Lemma>they replace you camera 's internal battery with two battery located in the grip .</Lemma>
+	</Sentence>
+	<Sentence id="206">
+		<Tokens>The A580\/560 will display the charge status of both batteries and let you know which one is currently in use .</Tokens>
+		<POS>DT NN MD VB DT NN NN IN CC NNS CC VB PRP VB WDT NN VBZ RB IN NN .</POS>
+		<Lemma>the a580\/560 will display the charge status of both battery and let you know which one be currently in use .</Lemma>
+	</Sentence>
+	<Sentence id="207">
+		<Tokens>These things are all good , but the grips are n't free , and they add both bulk and weight .</Tokens>
+		<POS>DT NNS VBP DT JJ , CC DT NNS VBP RB JJ , CC PRP VBP DT NN CC NN .</POS>
+		<Lemma>these thing be all good , but the grip be not free , and they add both bulk and weight .</Lemma>
+	</Sentence>
+	<Sentence id="208">
+		<Tokens>They are the kind of thing you want with you when you are going out specifically to shoot pictures .</Tokens>
+		<POS>PRP VBP DT NN IN NN PRP VBP IN PRP WRB PRP VBP VBG RP RB TO VB NNS .</POS>
+		<Lemma>they be the kind of thing you want with you when you be go out specifically to shoot picture .</Lemma>
+	</Sentence>
+	<Sentence id="209">
+		<Tokens>They can be overkill if you are slinging a camera over your shoulder just in case you need it .</Tokens>
+		<POS>PRP MD VB NN IN PRP VBP VBG DT NN IN PRP$ NN RB IN NN PRP VBP PRP .</POS>
+		<Lemma>they can be overkill if you be sling a camera over you shoulder just in case you need it .</Lemma>
+	</Sentence>
+	<Sentence id="210">
+		<Tokens>Also , they can cause you to be mistaken for a pro - they are n't stealthy .</Tokens>
+		<POS>RB , PRP MD VB PRP TO VB VBN IN DT NN : PRP VBP RB JJ .</POS>
+		<Lemma>also , they can cause you to be mistake for a pro - they be not stealthy .</Lemma>
+	</Sentence>
+	<Sentence id="211">
+		<Tokens>Note that most cases designed for DSLRs wo n't fit a camera with a vertical grip .</Tokens>
+		<POS>VB IN JJS NNS VBN IN NNS MD RB VB DT NN IN DT JJ NN .</POS>
+		<Lemma>note that most case design for dslr will not fit a camera with a vertical grip .</Lemma>
+	</Sentence>
+	<Sentence id="212">
+		<Tokens>I use Zing pouches to hold my camera bodies with a grip attached .</Tokens>
+		<POS>PRP VBP VBG NNS TO VB PRP$ NN NNS IN DT NN VBN .</POS>
+		<Lemma>I use zing pouch to hold my camera body with a grip attach .</Lemma>
+	</Sentence>
+	<Sentence id="213">
+		<Tokens>If you get a separate flash , get lithium -LRB- non-rechargeable -RRB- batteries for it or either NiMH or NiZn rechargeables .</Tokens>
+		<POS>IN PRP VBP DT JJ NN , VB NN -LRB- JJ -RRB- NNS IN PRP CC CC NN CC NN NNS .</POS>
+		<Lemma>if you get a separate flash , get lithium -lrb- non-rechargeable -rrb- battery for it or either nimh or nizn rechargeable .</Lemma>
+	</Sentence>
+	<Sentence id="214">
+		<Tokens>I have the HLV-F20AM and the HLV-F58AM flashes and I love them .</Tokens>
+		<POS>PRP VBP DT NN CC DT NN NNS CC PRP VBP PRP .</POS>
+		<Lemma>I have the hlv-f20am and the hlv-f58am flash and I love they .</Lemma>
+	</Sentence>
+	<Sentence id="215">
+		<Tokens>I advise , however , that the A560\/A580 built-in flash is quite capable , providing good , even illumination .</Tokens>
+		<POS>PRP VBP , RB , IN DT NNP JJ NN VBZ RB JJ , VBG JJ , RB NN .</POS>
+		<Lemma>I advise , however , that the A560\/A580 built-in flash be quite capable , provide good , even illumination .</Lemma>
+	</Sentence>
+	<Sentence id="216">
+		<Tokens>Of course , it ca n't do bounce ; it 's more prone to produce red-eye because it sits low ; it ca n't operate off the camera ; and it has less power .</Tokens>
+		<POS>IN NN , PRP MD RB VB VB : PRP VBZ JJR JJ TO VB NN IN PRP VBZ JJ : PRP MD RB VB RP DT NN : CC PRP VBZ JJR NN .</POS>
+		<Lemma>of course , it can not do bounce ; it be more prone to produce red-eye because it sit low ; it can not operate off the camera ; and it have less power .</Lemma>
+	</Sentence>
+	<Sentence id="217">
+		<Tokens>There are some very well-done reviews on the 18-55 kit lens on Amazon .</Tokens>
+		<POS>EX VBP DT RB JJ NNS IN DT CD NN NN IN NNP .</POS>
+		<Lemma>there be some very well-done review on the 18-55 kit lens on Amazon .</Lemma>
+	</Sentence>
+	<Sentence id="218">
+		<Tokens>It is very compact and lightweight .</Tokens>
+		<POS>PRP VBZ RB JJ CC JJ .</POS>
+		<Lemma>it be very compact and lightweight .</Lemma>
+	</Sentence>
+	<Sentence id="219">
+		<Tokens>You 'll be able to use its zoom range effectively for landscape , indoor and outdoor architecture , and portraiture .</Tokens>
+		<POS>PRP MD VB JJ TO VB PRP$ NN NN RB IN NN , JJ CC JJ NN , CC NN .</POS>
+		<Lemma>you 'll be able to use its zoom range effectively for landscape , indoor and outdoor architecture , and portraiture .</Lemma>
+	</Sentence>
+	<Sentence id="220">
+		<Tokens>This lens reaches 82.5 mm full-frame equivalent , which can mean you 'll need to do a little cropping if you want head-and-shoulder portraits .</Tokens>
+		<POS>DT NN VBZ CD NN JJ NN , WDT MD VB PRP MD VB TO VB DT JJ VBG IN PRP VBP JJ NNS .</POS>
+		<Lemma>this lens reach 82.5 mm full-frame equivalent , which can mean you 'll need to do a little crop if you want head-and-shoulder portrait .</Lemma>
+	</Sentence>
+	<Sentence id="221">
+		<Tokens>If you want to sit on the couch and fill the frame with your toddler sitting halfway across the room , expect to have to get up .</Tokens>
+		<POS>IN PRP VBP TO VB IN DT NN CC VB DT NN IN PRP$ NN VBG RB IN DT NN , VBP TO VB TO VB RP .</POS>
+		<Lemma>if you want to sit on the couch and fill the frame with you toddler sit halfway across the room , expect to have to get up .</Lemma>
+	</Sentence>
+	<Sentence id="222">
+		<Tokens>The lens is a terrific buy at $ 100 when bought with a camera body package .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN $ CD WRB VBN IN DT NN NN NN .</POS>
+		<Lemma>the lens be a terrific buy at $ 100 when buy with a camera body package .</Lemma>
+	</Sentence>
+	<Sentence id="223">
+		<Tokens>It is so good at macro -LRB- close-up -RRB- photography , it is arguably worth the price just for that .</Tokens>
+		<POS>PRP VBZ RB JJ IN NN -LRB- NN -RRB- NN , PRP VBZ RB JJ DT NN RB IN DT .</POS>
+		<Lemma>it be so good at macro -lrb- close-up -rrb- photography , it be arguably worth the price just for that .</Lemma>
+	</Sentence>
+	<Sentence id="224">
+		<Tokens>I strongly recommend the Sony DT 16-105 as a rock-solid performer at a reasonable price .</Tokens>
+		<POS>PRP RB VB DT NNP NNP CD IN DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>I strongly recommend the Sony DT 16-105 as a rock-solid performer at a reasonable price .</Lemma>
+	</Sentence>
+	<Sentence id="225">
+		<Tokens>This lens is compact and practical and is my walk-around lens .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ CC VBZ PRP$ JJ NN .</POS>
+		<Lemma>this lens be compact and practical and be my walk-around lens .</Lemma>
+	</Sentence>
+	<Sentence id="226">
+		<Tokens>Of course , it , like all DT lenses , will not support my full-frame camera .</Tokens>
+		<POS>IN NN , PRP , IN DT NN NNS , MD RB VB PRP$ JJ NN .</POS>
+		<Lemma>of course , it , like all dt lens , will not support my full-frame camera .</Lemma>
+	</Sentence>
+	<Sentence id="227">
+		<Tokens>Search Amazon for DT 16-105mm f\/3 .5 -5.6 .</Tokens>
+		<POS>VB NNP IN NNP CD NN CD CD .</POS>
+		<Lemma>search Amazon for DT 16-105mm f\/3 .5 -5.6 .</Lemma>
+	</Sentence>
+	<Sentence id="228">
+		<Tokens>Others to consider are the kit lens and the Sony DT 18-250mm f\/3 .5 -6.3 Zoom , which is among the first `` super zooms '' to have strong resolution across the full zoom range .</Tokens>
+		<POS>NNS TO VB VBP DT NN NN CC DT NNP NNP NNP NN CD CD NN , WDT VBZ IN DT JJ `` JJ NNS '' TO VB JJ NN IN DT JJ NN NN .</POS>
+		<Lemma>other to consider be the kit lens and the Sony DT 18-250mm f\/3 .5 -6.3 zoom , which be among the first `` super zoom '' to have strong resolution across the full zoom range .</Lemma>
+	</Sentence>
+	<Sentence id="229">
+		<Tokens>The ultimate walk-around DT lens is supposed to be the Zeiss DT 16-80mm f\/3 .5 -4.5 , but it 's pricey , especially given its zoom range and some reviewers have questioned its build quality -LRB- but not its optics -RRB- .</Tokens>
+		<POS>DT JJ JJ NNP NN VBZ VBN TO VB DT NN NNP NNP JJ NN CD CD NN , CC PRP VBZ JJ , RB VBN PRP$ NN NN CC DT NNS VBP VBN PRP$ VB NN -LRB- CC RB PRP$ NNS -RRB- .</POS>
+		<Lemma>the ultimate walk-around DT lens be suppose to be the Zeiss DT 16-80mm f\/3 .5 -4.5 , but it be pricey , especially give its zoom range and some reviewer have question its build quality -lrb- but not its optics -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="230">
+		<Tokens>Zeiss and Leica make the best camera optics in the world , bar none , and I speak from experience .</Tokens>
+		<POS>NNP CC NNP VBP DT JJS NN NNS IN DT NN , NN NN , CC PRP VBP IN NN .</POS>
+		<Lemma>Zeiss and Leica make the best camera optics in the world , bar none , and I speak from experience .</Lemma>
+	</Sentence>
+	<Sentence id="231">
+		<Tokens>The Sony G-series represents the -LRB- non-Zeiss -RRB- Sony premium line , inherited from the Minolta premium line .</Tokens>
+		<POS>DT NNP NN VBZ DT -LRB- JJ -RRB- NNP NN NN , VBN IN DT NNP NN NN .</POS>
+		<Lemma>the Sony g-series represent the -lrb- non-zeiss -rrb- Sony premium line , inherit from the Minolta premium line .</Lemma>
+	</Sentence>
+	<Sentence id="232">
+		<Tokens>Consider some of the used Minolta AF lenses .</Tokens>
+		<POS>VB DT IN DT VBN NNP NNP NNS .</POS>
+		<Lemma>consider some of the use Minolta AF lens .</Lemma>
+	</Sentence>
+	<Sentence id="233">
+		<Tokens>Some very , very cheap ones are also very , very good .</Tokens>
+		<POS>DT RB , RB JJ NNS VBP RB RB , RB JJ .</POS>
+		<Lemma>some very , very cheap one be also very , very good .</Lemma>
+	</Sentence>
+	<Sentence id="234">
+		<Tokens>The fact that Sony builds its stabilization into the camera means you get full functionality : stabilization as well as autofocus .</Tokens>
+		<POS>DT NN IN NNP VBZ PRP$ NN IN DT NN VBZ PRP VB JJ NN : NN RB RB IN NN .</POS>
+		<Lemma>the fact that Sony build its stabilization into the camera mean you get full functionality : stabilization as well as autofocus .</Lemma>
+	</Sentence>
+	<Sentence id="235">
+		<Tokens>The downside is that their focal lengths were chosen for full-frame use , and they are less than ideal when multiplied by 1.5 as you must do for this camera to get to the 35mm full-frame equivalent .</Tokens>
+		<POS>DT NN VBZ IN PRP$ JJ NNS VBD VBN IN JJ NN , CC PRP VBP RBR IN JJ WRB VBN IN CD IN PRP MD VB IN DT NN TO VB TO DT CD JJ NN .</POS>
+		<Lemma>the downside be that they focal length be choose for full-frame use , and they be less than ideal when multiply by 1.5 as you must do for this camera to get to the 35mm full-frame equivalent .</Lemma>
+	</Sentence>
+	<Sentence id="236">
+		<Tokens>Three in my collection are the Maxxum AF 50mm F1 .7 , the Maxxum AF 35-70mm F4 , and the Minolta AF 70-210 F4 .</Tokens>
+		<POS>CD IN PRP$ NN VBP DT NNP NNP CD NN CD , DT NNP NNP CD NN , CC DT NNP NNP CD NN .</POS>
+		<Lemma>three in my collection be the Maxxum AF 50mm f1 .7 , the Maxxum AF 35-70mm f4 , and the Minolta AF 70-210 f4 .</Lemma>
+	</Sentence>
+	<Sentence id="237">
+		<Tokens>This last lens must not be confused with the 70-210 F4.5-5 .6 , which is smaller , much cheaper on the used market , and does not have the reputation for sharpness of the F4 , which is called the `` beer can '' .</Tokens>
+		<POS>DT JJ NN MD RB VB VBN IN DT CD NN CD , WDT VBZ JJR , JJ JJR IN DT VBN NN , CC VBZ RB VB DT NN IN NN IN DT NN , WDT VBZ VBN DT `` NN MD '' .</POS>
+		<Lemma>this last lens must not be confuse with the 70-210 f4.5-5 .6 , which be smaller , much cheaper on the use market , and do not have the reputation for sharpness of the f4 , which be call the `` beer can '' .</Lemma>
+	</Sentence>
+	<Sentence id="238">
+		<Tokens>The much-cheaper lens , however , is a more-than-adequate performer , and it makes a great first step into telephoto range from the kit lens .</Tokens>
+		<POS>DT JJ NN , RB , VBZ DT JJ NN , CC PRP VBZ DT JJ JJ NN IN JJ NN IN DT NN NN .</POS>
+		<Lemma>the much-cheaper lens , however , be a more-than-adequate performer , and it make a great first step into telephoto range from the kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="239">
+		<Tokens>Look for it on eBaY as one of the best lens buys in the present market .</Tokens>
+		<POS>VB IN PRP IN NN IN CD IN DT JJS NN VBZ IN DT JJ NN .</POS>
+		<Lemma>look for it on ebay as one of the best lens buy in the present market .</Lemma>
+	</Sentence>
+	<Sentence id="240">
+		<Tokens>The `` beer can '' is a better , but much pricier , option .</Tokens>
+		<POS>DT `` NN MD '' VBZ DT RBR , CC JJ JJR , NN .</POS>
+		<Lemma>the `` beer can '' be a better , but much pricier , option .</Lemma>
+	</Sentence>
+	<Sentence id="241">
+		<Tokens>The lack of a built-in motor makes these Minolta lenses , like the kit lens , smaller and lighter than the higher-end of the newer lenses , yet I 've had no problem with focus lag on the cheaper lenses .</Tokens>
+		<POS>DT NN IN DT JJ NN VBZ DT NNP NNS , IN DT NN NN , JJR CC JJR IN DT NN IN DT JJR NNS , RB PRP VBP VBD DT NN IN NN NN IN DT JJR NNS .</POS>
+		<Lemma>the lack of a built-in motor make these Minolta lens , like the kit lens , smaller and lighter than the higher-end of the newer lens , yet I have have no problem with focus lag on the cheaper lens .</Lemma>
+	</Sentence>
+	<Sentence id="242">
+		<Tokens>I bought three of my Minolta lenses based on Freidman 's recommendations in his A550 and A900 books .</Tokens>
+		<POS>PRP VBD CD IN PRP$ NNP NNS VBN IN NNP POS NNS IN PRP$ NN CC NN NNS .</POS>
+		<Lemma>I buy three of my Minolta lens base on Freidman 's recommendation in he a550 and a900 book .</Lemma>
+	</Sentence>
+	<Sentence id="243">
+		<Tokens>Also do n't forget that the Minolta\/Maxxum lenses are full-frame , so they should hold value or appreciate in value and can help you transition to full-frame later .</Tokens>
+		<POS>RB VBP RB VB IN DT NNP NNS VBP JJ , IN PRP MD VB NN CC VB IN NN CC MD VB PRP NN TO JJ RB .</POS>
+		<Lemma>also do not forget that the Minolta\/Maxxum lens be full-frame , so they should hold value or appreciate in value and can help you transition to full-frame later .</Lemma>
+	</Sentence>
+	<Sentence id="244">
+		<Tokens>I use the purple , blue , and black , cheap-but-high-quality , Zing pouches for storing these lenses .</Tokens>
+		<POS>PRP VBP DT JJ , JJ , CC JJ , JJ , VBG NNS IN VBG DT NNS .</POS>
+		<Lemma>I use the purple , blue , and black , cheap-but-high-quality , zing pouch for store these lens .</Lemma>
+	</Sentence>
+	<Sentence id="245">
+		<Tokens>Get a UV filter for your lens to protect it , but take it off when you want the absolute best lens performance .</Tokens>
+		<POS>VB DT NN NN IN PRP$ NN TO VB PRP , CC VBP PRP RP WRB PRP VBP DT JJ JJS NN NN .</POS>
+		<Lemma>get a uv filter for you lens to protect it , but take it off when you want the absolute best lens performance .</Lemma>
+	</Sentence>
+	<Sentence id="246">
+		<Tokens>-LRB- You should try shooting with and without the UV filter when shooting long-range in hazy atmosphere .</Tokens>
+		<POS>-LRB- PRP MD VB NN IN CC IN DT NN NN WRB VBG JJ IN JJ NN .</POS>
+		<Lemma>-lrb- you should try shooting with and without the uv filter when shoot long-range in hazy atmosphere .</Lemma>
+	</Sentence>
+	<Sentence id="247">
+		<Tokens>It may actually improve performance in haze by blocking the UV light scattered by the haze .</Tokens>
+		<POS>PRP MD RB VB NN IN NN IN VBG DT NN NN VBN IN DT NN .</POS>
+		<Lemma>it may actually improve performance in haze by block the uv light scatter by the haze .</Lemma>
+	</Sentence>
+	<Sentence id="248">
+		<Tokens>This really mattered with UV-sensitive film , but is not such a big deal for digital detector arrays . -RRB-</Tokens>
+		<POS>DT RB VBN IN JJ NN , CC VBZ RB JJ DT JJ NN IN JJ NN NNS . -RRB-</POS>
+		<Lemma>this really matter with uv-sensitive film , but be not such a big deal for digital detector array . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="249">
+		<Tokens>Also consider a circular polarizer at some point for increased color saturation and reduction in surface reflections .</Tokens>
+		<POS>RB VB DT JJ NN IN DT NN IN VBN NN NN CC NN IN NN NNS .</POS>
+		<Lemma>also consider a circular polarizer at some point for increase color saturation and reduction in surface reflection .</Lemma>
+	</Sentence>
+	<Sentence id="250">
+		<Tokens>The better coated the filters are , the less they tend to degrade other aspects of performance .</Tokens>
+		<POS>DT JJR VBD DT NNS VBP , DT JJR PRP VBP TO VB JJ NNS IN NN .</POS>
+		<Lemma>the better coat the filter be , the less they tend to degrade other aspect of performance .</Lemma>
+	</Sentence>
+	<Sentence id="251">
+		<Tokens>The best , IMHO , are Heliopan SH-PMC , B+W Pro lines , and Hoya 's top lines .</Tokens>
+		<POS>DT JJS , NN , VBP JJ NN , NNP FW NNS , CC NNP POS JJ NNS .</POS>
+		<Lemma>the best , imho , be heliopan sh-pmc , B+W pro line , and Hoya 's top line .</Lemma>
+	</Sentence>
+	<Sentence id="252">
+		<Tokens>B+W are easy to clean and my personal choice .</Tokens>
+		<POS>NN VBP JJ TO JJ CC PRP$ JJ NN .</POS>
+		<Lemma>b+w be easy to clean and my personal choice .</Lemma>
+	</Sentence>
+	<Sentence id="253">
+		<Tokens>BTW , polarizers from these companies can be so expensive you may feel like putting a cheaper UV filter in front of it to protect it !</Tokens>
+		<POS>NNP , NNS IN DT NNS MD VB RB JJ PRP MD VB IN VBG DT JJR NN NN IN NN IN PRP TO VB PRP .</POS>
+		<Lemma>BTW , polarizer from these company can be so expensive you may feel like put a cheaper uv filter in front of it to protect it !</Lemma>
+	</Sentence>
+	<Sentence id="254">
+		<Tokens>Do n't let the cost of these extras scare you .</Tokens>
+		<POS>VBP RB VB DT NN IN DT NNS VBP PRP .</POS>
+		<Lemma>do not let the cost of these extra scare you .</Lemma>
+	</Sentence>
+	<Sentence id="255">
+		<Tokens>All you really have to have are a kit lens and the Giottos blower .</Tokens>
+		<POS>DT PRP RB VBP TO VB VBP DT NN NN CC DT NNP NN .</POS>
+		<Lemma>all you really have to have be a kit lens and the Giottos blower .</Lemma>
+	</Sentence>
+	<Sentence id="256">
+		<Tokens>The rest are just things to be aware of .</Tokens>
+		<POS>DT NN VBP RB NNS TO VB JJ IN .</POS>
+		<Lemma>the rest be just thing to be aware of .</Lemma>
+	</Sentence>
+	<Sentence id="257">
+		<Tokens>You can start with these basics and then build as you discover where you want to go next .</Tokens>
+		<POS>PRP MD VB IN DT NNS CC RB VB IN PRP VBP WRB PRP VBP TO VB JJ .</POS>
+		<Lemma>you can start with these basics and then build as you discover where you want to go next .</Lemma>
+	</Sentence>
+	<Sentence id="258">
+		<Tokens>I promised at the beginning that I 'd cover the differences between the A580 and A560 from a real-world perspective .</Tokens>
+		<POS>PRP VBD IN DT NN IN PRP MD VB DT NNS IN DT NN CC NN IN DT JJ NN .</POS>
+		<Lemma>I promise at the beginning that I would cover the difference between the a580 and a560 from a real-world perspective .</Lemma>
+	</Sentence>
+	<Sentence id="259">
+		<Tokens>The differences are -LRB- 1 -RRB- the A580 has 16.2 megapixels in an image , while the A560 has 14.2 ; -LRB- 2 -RRB- the A580 has the larger buffer allowing longer 7fps bursts as explained above ; -LRB- 3 -RRB- auto ISO starts at 100 -LRB- A580 -RRB- vs 200 -LRB- A560 -RRB- ; and -LRB- 4 -RRB- the A580 is slightly more sensitive -LRB- EV 17 vs 16 -RRB- .</Tokens>
+		<POS>DT NNS VBP -LRB- LS -RRB- DT NN VBZ CD NNS IN DT NN , IN DT NN VBZ CD : -LRB- LS -RRB- DT NN VBZ DT JJR NN VBG JJR NNS NNS IN VBN IN : -LRB- LS -RRB- NN NN VBZ IN CD -LRB- NN -RRB- CC CD -LRB- NN -RRB- : CC -LRB- LS -RRB- DT NN VBZ RB RBR JJ -LRB- NN CD CC CD -RRB- .</POS>
+		<Lemma>the difference be -lrb- 1 -rrb- the a580 have 16.2 megapixel in a image , while the a560 have 14.2 ; -lrb- 2 -rrb- the a580 have the larger buffer allow longer 7fp burst as explain above ; -lrb- 3 -rrb- auto iso start at 100 -lrb- a580 -rrb- vs 200 -lrb- a560 -rrb- ; and -lrb- 4 -rrb- the a580 be slightly more sensitive -lrb- ev 17 vs 16 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="260">
+		<Tokens>Note that the A560 's pixel count , ISO lower-limit , and sensor dimensions are identical to the A550 .</Tokens>
+		<POS>VB IN DT NN POS NN NN , NN NN , CC NN NNS VBP JJ TO DT NN .</POS>
+		<Lemma>note that the a560 's pixel count , iso lower-limit , and sensor dimension be identical to the a550 .</Lemma>
+	</Sentence>
+	<Sentence id="261">
+		<Tokens>If the sensor is the same , it 's not bad news , because the A550 is a wonderful camera .</Tokens>
+		<POS>IN DT NN VBZ DT JJ , PRP VBZ RB JJ NN , IN DT NN VBZ DT JJ NN .</POS>
+		<Lemma>if the sensor be the same , it be not bad news , because the a550 be a wonderful camera .</Lemma>
+	</Sentence>
+	<Sentence id="262">
+		<Tokens>Also remember that the improved HDR mode and the new twilight mode help the sensor , so in those applications , -LRB- not to mention other features including video -RRB- the A560 can beat the A550 .</Tokens>
+		<POS>RB VBP IN DT VBN NNP NN CC DT JJ NN NN VBP DT NN , RB IN DT NNS , -LRB- RB TO VB JJ NNS VBG NN -RRB- DT NN MD VB DT NN .</POS>
+		<Lemma>also remember that the improve HDR mode and the new twilight mode help the sensor , so in those application , -lrb- not to mention other feature include video -rrb- the a560 can beat the a550 .</Lemma>
+	</Sentence>
+	<Sentence id="263">
+		<Tokens>I 've already discussed the significance of the ISO difference and burst mode duration differences between the A580 and A560 .</Tokens>
+		<POS>PRP VBP RB VBN DT NN IN DT NN NN CC NN NN NN NNS IN DT NN CC NN .</POS>
+		<Lemma>I have already discuss the significance of the iso difference and burst mode duration difference between the a580 and a560 .</Lemma>
+	</Sentence>
+	<Sentence id="264">
+		<Tokens>As far as pixel count goes , it 's technically a mixed bag , because the sensor plane is practically the same size on both cameras -LRB- they 're the same height , and the A580 's is less than one half percent wider -RRB- .</Tokens>
+		<POS>IN RB IN NN NN VBZ , PRP VBZ RB DT JJ NN , IN DT NN NN VBZ RB DT JJ NN IN DT NNS -LRB- PRP VBP DT JJ NN , CC DT NN POS VBZ JJR IN CD NN NN JJR -RRB- .</POS>
+		<Lemma>as far as pixel count go , it be technically a mixed bag , because the sensor plane be practically the same size on both camera -lrb- they be the same height , and the a580 's be less than one half percent wider -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="265">
+		<Tokens>Technically , that means that while you get higher resolution with the A580 , your image could be commensurately noisier .</Tokens>
+		<POS>NNP , WDT VBZ IN IN PRP VBP JJR NN IN DT NN , PRP$ NN MD VB RB JJR .</POS>
+		<Lemma>Technically , that mean that while you get higher resolution with the a580 , you image could be commensurately noisier .</Lemma>
+	</Sentence>
+	<Sentence id="266">
+		<Tokens>The A580 will give you only a 6.8 percent increase in pixels per inch .</Tokens>
+		<POS>DT NN MD VB PRP RB DT CD NN NN IN NNS IN NN .</POS>
+		<Lemma>the a580 will give you only a 6.8 percent increase in pixel per inch .</Lemma>
+	</Sentence>
+	<Sentence id="267">
+		<Tokens>You wo n't be able to see a difference in resolution , and you wo n't see a difference in noise because of the detector size difference .</Tokens>
+		<POS>PRP MD RB VB JJ TO VB DT NN IN NN , CC PRP MD RB VB DT NN IN NN IN IN DT NN NN NN .</POS>
+		<Lemma>you will not be able to see a difference in resolution , and you will not see a difference in noise because of the detector size difference .</Lemma>
+	</Sentence>
+	<Sentence id="268">
+		<Tokens>Are there differences in the focal plane array technology ?</Tokens>
+		<POS>VBP EX NNS IN DT JJ NN NN NN .</POS>
+		<Lemma>be there difference in the focal plane array technology ?</Lemma>
+	</Sentence>
+	<Sentence id="269">
+		<Tokens>It would seem unlikely , since they are both `` Exmor '' CMOS sensors .</Tokens>
+		<POS>PRP MD VB JJ , IN PRP VBP DT `` NNP '' NNP NNS .</POS>
+		<Lemma>it would seem unlikely , since they be both `` Exmor '' CMOS sensor .</Lemma>
+	</Sentence>
+	<Sentence id="270">
+		<Tokens>I think the choice between the A560 and A580 should depend in part on the size of your total investment .</Tokens>
+		<POS>PRP VBP DT NN IN DT NN CC NN MD VB IN NN IN DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>I think the choice between the a560 and a580 should depend in part on the size of you total investment .</Lemma>
+	</Sentence>
+	<Sentence id="271">
+		<Tokens>If you are planning to invest a whole lot more on lenses , the $ 200 -LRB- or so -RRB- difference in the bodies wo n't be significant .</Tokens>
+		<POS>IN PRP VBP VBG TO VB DT JJ NN RBR IN NNS , DT $ CD -LRB- CC RB -RRB- NN IN DT NNS MD RB VB JJ .</POS>
+		<Lemma>if you be plan to invest a whole lot more on lens , the $ 200 -lrb- or so -rrb- difference in the body will not be significant .</Lemma>
+	</Sentence>
+	<Sentence id="272">
+		<Tokens>On the other hand , if you 're only buying one or two lenses in the sub - $ 500 range , you will probably do better to put the $ 200 into lenses .</Tokens>
+		<POS>IN DT JJ NN , IN PRP VBP RB VBG CD CC CD NNS IN DT NN : $ CD NN , PRP MD RB VB JJR TO VB DT $ CD IN NNS .</POS>
+		<Lemma>on the other hand , if you be only buy one or two lens in the sub - $ 500 range , you will probably do better to put the $ 200 into lens .</Lemma>
+	</Sentence>
+	<Sentence id="273">
+		<Tokens>I wish you luck in your decision .</Tokens>
+		<POS>PRP VBP PRP NN IN PRP$ NN .</POS>
+		<Lemma>I wish you luck in you decision .</Lemma>
+	</Sentence>
+	<Sentence id="274">
+		<Tokens>I could keep going , but let 's leave the heavy duty reporting to Friedman .</Tokens>
+		<POS>PRP MD VB VBG , CC VB POS VB DT JJ NN VBG TO NNP .</POS>
+		<Lemma>I could keep go , but let 's leave the heavy duty report to Friedman .</Lemma>
+	</Sentence>
+	<Sentence id="275">
+		<Tokens>I 'll close by saying that the A550 made me an advocate of the Sony DSLR .</Tokens>
+		<POS>PRP MD RB IN VBG IN DT NN VBD PRP DT NN IN DT NNP NNP .</POS>
+		<Lemma>I 'll close by say that the a550 make I a advocate of the Sony DSLR .</Lemma>
+	</Sentence>
+	<Sentence id="276">
+		<Tokens>The A580 is a step up in still camera features , not to mention the video capability .</Tokens>
+		<POS>DT NN VBZ DT NN RB IN RB NN NNS , RB TO VB DT NN NN .</POS>
+		<Lemma>the a580 be a step up in still camera feature , not to mention the video capability .</Lemma>
+	</Sentence>
+	<Sentence id="277">
+		<Tokens>If I did n't love the camera , I would n't have taken the time to write this review .</Tokens>
+		<POS>IN PRP VBD RB VB DT NN , PRP MD RB VB VBN DT NN TO VB DT NN .</POS>
+		<Lemma>if I do not love the camera , I would not have take the time to write this review .</Lemma>
+	</Sentence>
+	<Sentence id="278">
+		<Tokens>Good shooting , Tim Naff</Tokens>
+		<POS>JJ NN , NNP NNP</POS>
+		<Lemma>good shooting , Tim Naff</Lemma>
+	</Sentence>
+</Document>

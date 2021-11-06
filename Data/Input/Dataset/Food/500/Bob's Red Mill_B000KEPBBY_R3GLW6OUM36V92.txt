@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This mix makes a great economical soup and you can vary it by the addition of some meat .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ NN CC PRP MD VB PRP IN DT NN IN DT NN .</POS>
+		<Lemma>this mix make a great economical soup and you can vary it by the addition of some meat .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm amending my review .</Tokens>
+		<POS>PRP VBP VBG PRP$ NN .</POS>
+		<Lemma>I be amend my review .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I recently went in to configure this for the web and and upon changing the IP address per the instructions , on reboot I can no longer connect to the camera .</Tokens>
+		<POS>PRP RB VBD IN TO VB DT IN DT NN CC CC IN VBG DT NNP NN IN DT NNS , IN NN PRP MD RB RB VB TO DT NN .</POS>
+		<Lemma>I recently go in to configure this for the web and and upon change the IP address per the instruction , on reboot I can no longer connect to the camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not only that , but resetting the camera to factory defaults seems to only apply to the admin account .</Tokens>
+		<POS>RB RB IN , CC VBG DT NN TO NN NNS VBZ TO RB VB TO DT NN NN .</POS>
+		<Lemma>not only that , but reset the camera to factory default seem to only apply to the admin account .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When using an IP scanner , the camera no longer shows up .</Tokens>
+		<POS>WRB VBG DT NNP NN , DT NN RB RB VBZ RP .</POS>
+		<Lemma>when use a IP scanner , the camera no longer show up .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's now a worthless piece of crap .</Tokens>
+		<POS>PRP VBZ RB DT JJ NN IN NN .</POS>
+		<Lemma>it be now a worthless piece of crap .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I should add that Foscam 's support is absolutely terrible .</Tokens>
+		<POS>PRP MD VB IN NNP POS NN VBZ RB JJ .</POS>
+		<Lemma>I should add that Foscam 's support be absolutely terrible .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>To even contact them they want you to install some odd database app at the root level of your computer .</Tokens>
+		<POS>TO RB VB PRP PRP VBP PRP TO VB DT JJ NN NN IN DT NN NN IN PRP$ NN .</POS>
+		<Lemma>to even contact they they want you to install some odd database app at the root level of you computer .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I would strongly recommend any other vendor .</Tokens>
+		<POS>PRP MD RB VB DT JJ NN .</POS>
+		<Lemma>I would strongly recommend any other vendor .</Lemma>
+	</Sentence>
+</Document>

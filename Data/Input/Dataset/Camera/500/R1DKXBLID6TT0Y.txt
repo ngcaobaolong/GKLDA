@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>In video mode shooting in low light somehow footage gets too dark , in fact it gets much darker once I press `` video '' button and apparently there is no way to correct that - so called `` full manual control in video mode '' is only available with manual focus !</Tokens>
+		<POS>IN NN NN NN IN JJ JJ RB NN VBZ RB JJ , IN NN PRP VBZ RB JJR IN PRP VBP `` NN '' NN CC RB EX VBZ DT NN TO VB DT : RB VBN `` JJ NN NN IN NN NN '' VBZ RB JJ IN JJ NN .</POS>
+		<Lemma>in video mode shooting in low light somehow footage get too dark , in fact it get much darker once I press `` video '' button and apparently there be no way to correct that - so call `` full manual control in video mode '' be only available with manual focus !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And why I need Sony SLT if I have to switch to manual focus anyway ?</Tokens>
+		<POS>CC WRB PRP VBP NNP NNP IN PRP VBP TO VB TO JJ NN RB .</POS>
+		<Lemma>and why I need Sony SLT if I have to switch to manual focus anyway ?</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I can be better off with Canon or Nikon 's offering then , which also have much better lens selection .</Tokens>
+		<POS>PRP MD VB JJR RP IN NNP CC NNP POS NN RB , WDT RB VBP RB JJR NN NN .</POS>
+		<Lemma>I can be better off with Canon or Nikon 's offering then , which also have much better lens selection .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's not possible even preset EV correction before switching to video , which is possible in much less expensive cameras .</Tokens>
+		<POS>PRP VBZ RB JJ RB JJ NN NN IN VBG TO NN , WDT VBZ JJ IN JJ RBR JJ NNS .</POS>
+		<Lemma>it be not possible even preset ev correction before switch to video , which be possible in much less expensive camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Shooting stills is not possible in movie mode either , which seems to be downgrade from a55 .</Tokens>
+		<POS>NN NNS VBZ RB JJ IN NN NN CC , WDT VBZ TO VB NN IN NN .</POS>
+		<Lemma>shooting still be not possible in movie mode either , which seem to be downgrade from a55 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The camera does not deliver what I expected from such high price point .</Tokens>
+		<POS>DT NN VBZ RB VB WP PRP VBD IN JJ JJ NN NN .</POS>
+		<Lemma>the camera do not deliver what I expect from such high price point .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Comparing to a55 Sony asks $ 200 more just for more pixels .</Tokens>
+		<POS>VBG TO NN NNP VBZ $ CD JJR RB IN JJR NNS .</POS>
+		<Lemma>compare to a55 Sony ask $ 200 more just for more pixel .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I do n't need them .</Tokens>
+		<POS>PRP VBP RB VB PRP .</POS>
+		<Lemma>I do not need they .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Update : I returned the camera , just to many issues to tolerate for $ 1k price tag : - inconsistent exposure with built-in flash with still subject - random lockups , sometimes camera would n't turn on , sometimes it would n't turn off - custom WB does not work indoors at all , get error every time - AF errors in movie mode with sony 55-200 lens , camera would start loosing focus all over the sudden when filming a still subject - noise is really big issue for this sensor , iso 1600 is barely usable for indoors - pictures are less sharp with a65 vs a55 shot with same lens I would rather see Sony giving us bigger sensor at affordable price put into SLT bodies then keep adding pixels to APS-C .</Tokens>
+		<POS>NNP : PRP VBD DT NN , RB TO JJ NNS TO VB IN $ CD NN NN : : JJ NN IN JJ NN IN RB JJ : JJ NNS , RB NN MD RB VB RP , RB PRP MD RB VB RP : NN NN VBZ RB VB RB IN DT , VB NN DT NN : NN NNS IN NN NN IN NN CD NN , NN MD VB VBG NN DT IN DT JJ WRB VBG DT RB JJ : NN VBZ RB JJ NN IN DT NN , NN CD VBZ RB JJ IN RB : NNS VBP RBR JJ IN NN CC NN NN IN JJ NN PRP MD RB VB NNP VBG PRP JJR NN IN JJ NN VBD IN NNP NNS RB VBP VBG NNS TO NN .</POS>
+		<Lemma>Update : I return the camera , just to many issue to tolerate for $ 1k price tag : - inconsistent exposure with built-in flash with still subject - random lockup , sometimes camera would not turn on , sometimes it would not turn off - custom wb do not work indoors at all , get error every time - af error in movie mode with sony 55-200 lens , camera would start loose focus all over the sudden when film a still subject - noise be really big issue for this sensor , iso 1600 be barely usable for indoors - picture be less sharp with a65 vs a55 shot with same lens I would rather see Sony give we bigger sensor at affordable price put into SLT body then keep add pixel to aps-c .</Lemma>
+	</Sentence>
+</Document>

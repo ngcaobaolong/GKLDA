@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have loved Famous Amos cookies for years and this is a great way to take them with me wherever I go .</Tokens>
+		<POS>PRP VBP VBN NNP NNP NNS IN NNS CC DT VBZ DT JJ NN TO VB PRP IN PRP WRB PRP VBP .</POS>
+		<Lemma>I have love Famous Amos cookie for year and this be a great way to take they with I wherever I go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These are great for when you pack your lunch and also great in that you have a limited portion and wo n't overeat .</Tokens>
+		<POS>DT VBP JJ IN WRB PRP VBP PRP$ NN CC RB JJ IN IN PRP VBP DT JJ NN CC MD RB VB .</POS>
+		<Lemma>these be great for when you pack you lunch and also great in that you have a limited portion and will not overeat .</Lemma>
+	</Sentence>
+</Document>

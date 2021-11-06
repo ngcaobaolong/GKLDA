@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I ordered this as a Christmas gift for my parents .</Tokens>
+		<POS>PRP VBD DT IN DT NNP NN IN PRP$ NNS .</POS>
+		<Lemma>I order this as a Christmas gift for my parent .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have the older version ... This one is sleeker thinner .</Tokens>
+		<POS>PRP VBP DT JJR NN : DT NN VBZ JJ CC JJR .</POS>
+		<Lemma>I have the older version ... this one be sleeker thinner .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm jealous !</Tokens>
+		<POS>PRP VBP JJ .</POS>
+		<Lemma>I be jealous !</Lemma>
+	</Sentence>
+</Document>

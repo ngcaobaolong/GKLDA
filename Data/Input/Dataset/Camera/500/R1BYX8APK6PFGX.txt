@@ -1,0 +1,97 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was looking for a good wearable camera both for motorcycle and snowboarding in wintertime .</Tokens>
+		<POS>PRP VBD VBG IN DT JJ JJ NN CC IN NN CC NN IN NN .</POS>
+		<Lemma>I be look for a good wearable camera both for motorcycle and snowboarding in wintertime .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I evaluate Contour and also GoPro , but what kick me to decide for Contour was the GPS functionality on their full HD cam , named Contour GPS .</Tokens>
+		<POS>PRP VBP NNP CC RB NN , CC WP VBP PRP TO VB IN NNP VBD DT NN NN IN PRP$ JJ NN NN , VBN NNP NNP .</POS>
+		<Lemma>I evaluate Contour and also gopro , but what kick I to decide for Contour be the gp functionality on they full hd cam , name Contour GPS .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This feature allow to record not only great videos but also the GPS coordinates in syncro with the movie and review your video with other usefull data like Speed , altitude , etc. .</Tokens>
+		<POS>DT NN VBP TO VB RB RB JJ NNS CC RB DT NN VBZ IN NN IN DT NN CC VB PRP$ NN IN JJ JJ NNS IN NN , NN , FW .</POS>
+		<Lemma>this feature allow to record not only great video but also the gp coordinate in syncro with the movie and review you video with other usefull datum like speed , altitude , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The package include the cam , plus a mini usb cable to connect to PC , battery and a 2GB microSD -LRB- at max resolution you have to consider a storage need of 1 GB for 8-9 minutes -RRB- , and some clips to anchor the cam to an helmet .</Tokens>
+		<POS>DT NN VBP DT NN , CC DT JJ NN NN TO VB TO NN , NN CC DT NN NN -LRB- IN NN NN PRP VBP TO VB DT NN NN IN CD NN IN CD NNS -RRB- , CC DT NNS TO VB DT NN TO DT NN .</POS>
+		<Lemma>the package include the cam , plus a mini usb cable to connect to pc , battery and a 2gb microsd -lrb- at max resolution you have to consider a storage need of 1 gb for 8-9 minute -rrb- , and some clip to anchor the cam to a helmet .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Sw can be downloaded from the Contour internet site and it 's an editor plus a camera setting module , and a online community modality .</Tokens>
+		<POS>NN MD VB VBN IN DT NNP NN NN CC PRP VBZ DT NN CC DT NN VBG NN , CC DT JJ NN NN .</POS>
+		<Lemma>sw can be download from the Contour internet site and it be a editor plus a camera set module , and a online community modality .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The first test was done on the mountain clipping the cam to my snowboard helmet , and testing the camera in 2 video modality : full HD 25 Fps and 920x760 @ 60 Fps .</Tokens>
+		<POS>DT JJ NN VBD VBN IN DT NN JJ DT NN TO PRP$ NN NN , CC VBG DT NN IN CD NN NN : JJ NN CD NNS CC NN SYM CD NNS .</POS>
+		<Lemma>the first test be do on the mountain clipping the cam to my snowboard helmet , and test the camera in 2 video modality : full hd 25 fp and 920x760 @ 60 fp .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>1st result was not good at all , because I discover on their internet site that there were been a FW upgrade available .</Tokens>
+		<POS>JJ NN VBD RB JJ IN DT , IN PRP VBP IN PRP$ NN NN WDT EX VBD VBN DT NN NN JJ .</POS>
+		<Lemma>1st result be not good at all , because I discover on they internet site that there be be a fw upgrade available .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Last is 1.07 .</Tokens>
+		<POS>JJ VBZ CD .</POS>
+		<Lemma>last be 1.07 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The previous has some lights change problems when you move from light to dark ambient and result were not so good .</Tokens>
+		<POS>DT JJ VBZ DT NNS VBP NNS WRB PRP VBP IN NN TO JJ JJ CC VBP VBD RB RB JJ .</POS>
+		<Lemma>the previous have some light change problem when you move from light to dark ambient and result be not so good .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>After the Fw upgrade everything was really better .</Tokens>
+		<POS>IN DT NN NN NN VBD RB JJR .</POS>
+		<Lemma>after the fw upgrade everything be really better .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>An important care for the GPS feature it 's to do a complete fix , just after power on the cam and before to start to record something , otherwise , like I have experienced you will only save the video without any GPS data .</Tokens>
+		<POS>DT JJ NN IN DT NNP NN PRP VBZ TO VB DT JJ NN , RB IN NN IN DT NN CC IN TO VB TO VB NN , RB , IN PRP VBP VBN PRP MD RB VB DT NN IN DT NN NNS .</POS>
+		<Lemma>a important care for the GPS feature it be to do a complete fix , just after power on the cam and before to start to record something , otherwise , like I have experience you will only save the video without any gp datum .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The first day I have n't recorded any GPS data because I was thinking the GPS fix was already done .</Tokens>
+		<POS>DT JJ NN CD VBP RB VBN DT NN NNS IN PRP VBD VBG DT NNP NN VBD RB VBN .</POS>
+		<Lemma>the first day i have not record any gp datum because I be think the GPS fix be already do .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Overall construction quality it 's very good , with an alluminium body , and a laser allignement feature .</Tokens>
+		<POS>JJ NN NN PRP VBZ RB JJ , IN DT NN NN , CC DT NN NN NN .</POS>
+		<Lemma>overall construction quality it be very good , with a alluminium body , and a laser allignement feature .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>My only complaint it 's about the clip to fix the camera to the helmet , in my opinion they should think about a different approach , that can stabilize better the cam and make a faster allignement .</Tokens>
+		<POS>PRP$ JJ NN PRP VBZ IN DT NN TO VB DT NN TO DT NN , IN PRP$ NN PRP MD VB IN DT JJ NN , WDT MD VB JJR DT NN CC VB DT RBR NN .</POS>
+		<Lemma>my only complaint it be about the clip to fix the camera to the helmet , in my opinion they should think about a different approach , that can stabilize better the cam and make a faster allignement .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>For the video quality I 'm very satisfied and I ca n't wait summer to test it on my motorbike .</Tokens>
+		<POS>IN DT JJ NN PRP VBP RB JJ CC PRP MD RB VB NN TO VB PRP IN PRP$ NN .</POS>
+		<Lemma>for the video quality I be very satisfied and I can not wait summer to test it on my motorbike .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Yesterday they announce that there will be available an extra feature very interesting , an external viewfinder via bluetooth on your Iphone .</Tokens>
+		<POS>NN PRP VBP IN EX MD VB JJ DT JJ NN RB JJ , DT JJ NN IN NN IN PRP$ NNP .</POS>
+		<Lemma>yesterday they announce that there will be available a extra feature very interesting , a external viewfinder via bluetooth on you Iphone .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>This extra feature will be available via an app thanks to the internal bluetooth chipset already present in the cam !</Tokens>
+		<POS>DT JJ NN MD VB JJ IN DT NN NNS TO DT JJ NN NN RB JJ IN DT NN .</POS>
+		<Lemma>this extra feature will be available via a app thanks to the internal bluetooth chipset already present in the cam !</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Hope that this little review can be usefull ... Ciao from Italy Enrico ; -RRB-</Tokens>
+		<POS>NNP IN DT JJ NN MD VB NN : NNP IN NNP NNP : -RRB-</POS>
+		<Lemma>Hope that this little review can be usefull ... Ciao from Italy Enrico ; -rrb-</Lemma>
+	</Sentence>
+</Document>

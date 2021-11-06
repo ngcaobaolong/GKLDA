@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this monitor to go to a dual monitor config .</Tokens>
+		<POS>PRP VBD DT NN TO VB TO DT JJ NN NN .</POS>
+		<Lemma>I get this monitor to go to a dual monitor config .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My other monitor is a 23 inch ACER .</Tokens>
+		<POS>PRP$ JJ NN VBZ DT CD NN NNP .</POS>
+		<Lemma>my other monitor be a 23 inch ACER .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I thot my original monitor had a good image , but the S201HL has a much brighter display .</Tokens>
+		<POS>PRP VBP PRP$ JJ NN VBD DT JJ NN , CC DT NN VBZ DT JJ JJR NN .</POS>
+		<Lemma>I thot my original monitor have a good image , but the s201hl have a much brighter display .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Everything is brighter and better defined on it .</Tokens>
+		<POS>NN VBZ RBR CC RBR VBN IN PRP .</POS>
+		<Lemma>everything be brighter and better define on it .</Lemma>
+	</Sentence>
+</Document>

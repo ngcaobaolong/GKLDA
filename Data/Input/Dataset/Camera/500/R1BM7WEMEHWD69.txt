@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>One of the reasons I bought this little pocket video camcorder was to take some videos in the outdoors while doing sports .</Tokens>
+		<POS>CD IN DT NNS PRP VBD DT JJ NN NN NN VBD TO VB DT NNS IN DT NNS IN VBG NNS .</POS>
+		<Lemma>one of the reason I buy this little pocket video camcorder be to take some video in the outdoors while do sport .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wanted a video camera that I could drop , get wet and dirty and at the same time be able to take high quality HD video .</Tokens>
+		<POS>PRP VBD DT JJ NN IN PRP MD VB , VB JJ CC JJ CC IN DT JJ NN VB JJ TO VB JJ NN NN NN .</POS>
+		<Lemma>I want a video camera that I could drop , get wet and dirty and at the same time be able to take high quality hd video .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In all is a well built and rugged design but the problem with this pocket camera is the VIDEO QUALITY .</Tokens>
+		<POS>IN DT VBZ DT RB VBN CC JJ NN CC DT NN IN DT NN NN VBZ DT NN NN .</POS>
+		<Lemma>in all be a well build and rugged design but the problem with this pocket camera be the video quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have seen better results from an iPhone camera and I have also seen better results from a Veho Muvi HD pro Micro camera in low light conditions .</Tokens>
+		<POS>PRP VBP VBN JJR NNS IN DT NNP NN CC PRP VBP RB VBN JJR NNS IN DT NNP NNP NNP JJ NNP NN IN JJ JJ NNS .</POS>
+		<Lemma>I have see better result from a iPhone camera and I have also see better result from a Veho Muvi HD pro Micro camera in low light condition .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The video quality is TERRIBLE , too granny even in high lighting conditions which make the camera a waste of money .</Tokens>
+		<POS>DT JJ NN VBZ JJ , RB JJ RB IN JJ NN NNS WDT VBP DT NN DT NN IN NN .</POS>
+		<Lemma>the video quality be terrible , too granny even in high lighting condition which make the camera a waste of money .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In low light conditions the video was showing white and black pix elations dots .</Tokens>
+		<POS>IN JJ JJ NNS DT NN VBD VBG JJ CC JJ NN NNS NNS .</POS>
+		<Lemma>in low light condition the video be show white and black pix elation dot .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Simply not acceptable at all .</Tokens>
+		<POS>RB RB JJ IN DT .</POS>
+		<Lemma>simply not acceptable at all .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>In all you could buy a GoPro HD HERO 960 for a little more and have a camera with better specs regarding water , shock and dirt resistance and with a superb HD video quality .</Tokens>
+		<POS>IN DT PRP MD VB DT NNP NNP NN CD IN DT RB JJR CC VBP DT NN IN JJR NNS VBG NN , NN CC NN NN CC IN DT JJ NN NN NN .</POS>
+		<Lemma>in all you could buy a GoPro HD hero 960 for a little more and have a camera with better spec regard water , shock and dirt resistance and with a superb hd video quality .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I returned this camera to Amazon and I will be buying the GoPro HD HERO 960 for almost the same price .</Tokens>
+		<POS>PRP VBD DT NN TO NNP CC PRP MD VB VBG DT NNP NNP NN CD IN RB DT JJ NN .</POS>
+		<Lemma>I return this camera to Amazon and I will be buy the GoPro HD hero 960 for almost the same price .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The retail price of the GoPro HD HERO 960 is of $ 179 do n't buy it for more .</Tokens>
+		<POS>DT JJ NN IN DT NNP NNP NN CD VBZ IN $ CD VBP RB VB PRP IN JJR .</POS>
+		<Lemma>the retail price of the GoPro HD hero 960 be of $ 179 do not buy it for more .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>There are some retailers here in Amazon selling the GoPro HD HERO 960 for $ 259 which is the retail price of the full 1080p GoPro HD HERO camera so be careful .</Tokens>
+		<POS>EX VBP DT NNS RB IN NNP VBG DT NNP NNP NN CD IN $ CD WDT VBZ DT JJ NN IN DT JJ JJ NN NN NN NN RB VB JJ .</POS>
+		<Lemma>there be some retailer here in Amazon sell the GoPro HD hero 960 for $ 259 which be the retail price of the full 1080p gopro hd hero camera so be careful .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>If you have the money to buy the full 1080p GoPro HD HERO go for it you wo n't regret it .</Tokens>
+		<POS>IN PRP VBP DT NN TO VB DT JJ JJ NN NN NN VB IN PRP PRP MD RB VB PRP .</POS>
+		<Lemma>if you have the money to buy the full 1080p gopro hd hero go for it you will not regret it .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Check out the Youtube video ; HD Hero SHOOTOUT : Canon XH-A1 HDV vs. GoPro HD HERO</Tokens>
+		<POS>VB RP DT NNP NN : NN NN NN : NNP NNP NNP IN NNP NNP NNP</POS>
+		<Lemma>check out the Youtube video ; hd hero shootout : Canon XH-A1 HDV vs. GoPro HD HERO</Lemma>
+	</Sentence>
+</Document>

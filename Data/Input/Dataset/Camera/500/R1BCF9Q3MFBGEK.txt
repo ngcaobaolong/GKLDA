@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is my first DSLR .</Tokens>
+		<POS>DT VBZ PRP$ JJ NN .</POS>
+		<Lemma>this be my first dslr .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was choosing between 60D and T3i .</Tokens>
+		<POS>PRP VBD VBG IN NN CC NN .</POS>
+		<Lemma>I be choose between 60d and t3us .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Canon had a promotion and bought the 60D body for $ 900 -LRB- T3i with the kit lens was $ 800 -RRB- .</Tokens>
+		<POS>NNP VBD DT NN CC VBD DT JJ NN IN $ CD -LRB- NN IN DT NN NN VBD $ CD -RRB- .</POS>
+		<Lemma>Canon have a promotion and buy the 60d body for $ 900 -lrb- t3us with the kit lens be $ 800 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Borrowed an 18-55 from my brother .</Tokens>
+		<POS>VBN DT CD IN PRP$ NN .</POS>
+		<Lemma>borrow a 18-55 from my brother .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very happy with my choice .</Tokens>
+		<POS>RB JJ IN PRP$ NN .</POS>
+		<Lemma>very happy with my choice .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The camera is much more feature reach then T3i for almost the same price .</Tokens>
+		<POS>DT NN VBZ RB JJR NN NN RB NN IN RB DT JJ NN .</POS>
+		<Lemma>the camera be much more feature reach then t3us for almost the same price .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The good pentaprism viewfinder of 60D was probably the most important feature for me .</Tokens>
+		<POS>DT JJ NN NN IN NN VBD RB DT RBS JJ NN IN PRP .</POS>
+		<Lemma>the good pentaprism viewfinder of 60d be probably the most important feature for I .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Do n't use the camera for video much , prefer using the Flip .</Tokens>
+		<POS>VBP RB VB DT NN IN NN RB , VBP VBG DT NN .</POS>
+		<Lemma>do not use the camera for video much , prefer use the flip .</Lemma>
+	</Sentence>
+</Document>

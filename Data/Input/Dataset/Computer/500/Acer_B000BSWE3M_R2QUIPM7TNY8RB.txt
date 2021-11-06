@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The item arrived very , very quickly and the packaging was great .</Tokens>
+		<POS>DT NN VBD RB , RB RB CC DT NN VBD JJ .</POS>
+		<Lemma>the item arrive very , very quickly and the packaging be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The monitor was very easy to install with picture quality that can only be described as fantastic .</Tokens>
+		<POS>DT NN VBD RB JJ TO VB IN NN NN WDT MD RB VB VBN IN JJ .</POS>
+		<Lemma>the monitor be very easy to install with picture quality that can only be describe as fantastic .</Lemma>
+	</Sentence>
+</Document>

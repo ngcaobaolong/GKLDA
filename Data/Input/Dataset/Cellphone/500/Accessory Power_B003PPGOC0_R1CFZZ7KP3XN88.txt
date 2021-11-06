@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm thoroughly enjoying my GOgroove Flexsmart X2 with my Iphone .</Tokens>
+		<POS>PRP VBP RB VBG PRP$ NNP NNP NN IN PRP$ NNP .</POS>
+		<Lemma>I be thoroughly enjoy my GOgroove Flexsmart x2 with my Iphone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The blu tooth works perfectly and provides hands free ability ... a nifty piece of electronic gagetry !</Tokens>
+		<POS>DT NN NN VBZ RB CC VBZ NNS JJ NN : DT JJ NN IN JJ NN .</POS>
+		<Lemma>the blu tooth work perfectly and provide hand free ability ... a nifty piece of electronic gagetry !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have one of my radio presets tuned to a free station so when I get into my car -LRB- with my phone still in my purse -RRB- , as soon as I start the car and push the power button on the Flexsmart , it picks up the blu tooth signal and my Ipod music begins playing through the radio speakers .</Tokens>
+		<POS>PRP VBP CD IN PRP$ NN NNS VBN TO DT JJ NN RB WRB PRP VBP IN PRP$ NN -LRB- IN PRP$ NN RB IN PRP$ NN -RRB- , RB RB IN PRP VBP DT NN CC VB DT NN NN IN DT NNP , PRP VBZ RP DT NN NN NN CC PRP$ NNP NN VBZ VBG IN DT NN NNS .</POS>
+		<Lemma>I have one of my radio preset tune to a free station so when I get into my car -lrb- with my phone still in my purse -rrb- , as soon as I start the car and push the power button on the Flexsmart , it pick up the blu tooth signal and my Ipod music begin play through the radio speaker .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If a call comes in , music pauses ... I touch the blue-lit button and say `` hello '' !</Tokens>
+		<POS>IN DT NN VBZ IN , NN VBZ : PRP VBP DT JJ NN CC VB `` UH '' .</POS>
+		<Lemma>if a call come in , music pause ... I touch the blue-lit button and say `` hello '' !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The callers voice comes in loud and clear over the radio speakers , as well .</Tokens>
+		<POS>DT NNS NN VBZ IN JJ CC JJ IN DT NN NNS , RB RB .</POS>
+		<Lemma>the caller voice come in loud and clear over the radio speaker , as well .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 'm looking forward to trying the Flexsmart on our boat this summer !!</Tokens>
+		<POS>PRP VBP VBG RB TO VBG DT NNP IN PRP$ NN DT NN IN</POS>
+		<Lemma>I be look forward to try the Flexsmart on we boat this summer !!</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I purchased my GOgroove Flexsmart X2 on Amazon through Accessory Genie .</Tokens>
+		<POS>PRP VBD PRP$ NNP NNP NN IN NNP IN NNP NNP .</POS>
+		<Lemma>I purchase my GOgroove Flexsmart x2 on Amazon through Accessory Genie .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>My order arrived quickly , packaged well and in perfect condition .</Tokens>
+		<POS>PRP$ NN VBD RB , VBN RB CC IN JJ NN .</POS>
+		<Lemma>my order arrive quickly , package well and in perfect condition .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Accessory Genie provided contact numbers in case I encountered any difficulty with the product and they even followed up with email to reinforce their customer service availability .</Tokens>
+		<POS>NNP NNP VBD NN NNS IN NN PRP VBD DT NN IN DT NN CC PRP RB VBD RP IN NN TO VB PRP$ NN NN NN .</POS>
+		<Lemma>Accessory Genie provide contact number in case I encounter any difficulty with the product and they even follow up with email to reinforce they customer service availability .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Amazon and Accessory Genie are top-notch !!</Tokens>
+		<POS>NNP CC NNP NNP VBP JJ IN</POS>
+		<Lemma>Amazon and Accessory Genie be top-notch !!</Lemma>
+	</Sentence>
+</Document>

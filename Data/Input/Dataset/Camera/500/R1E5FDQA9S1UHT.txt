@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Waiting for it for a long time .</Tokens>
+		<POS>VBG IN PRP IN DT JJ NN .</POS>
+		<Lemma>wait for it for a long time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a fantastic camera with compact size .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN JJ NN .</POS>
+		<Lemma>it be a fantastic camera with compact size .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The drawback is the lens is more larger than the m43 ones .</Tokens>
+		<POS>DT NN VBZ DT NN VBZ RBR JJR IN DT NN NNS .</POS>
+		<Lemma>the drawback be the lens be more larger than the m43 one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Hope it can be released on time .</Tokens>
+		<POS>NNP PRP MD VB VBN IN NN .</POS>
+		<Lemma>Hope it can be release on time .</Lemma>
+	</Sentence>
+</Document>

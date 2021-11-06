@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Be detailed and specific .</Tokens>
+		<POS>VB JJ CC JJ .</POS>
+		<Lemma>be detailed and specific .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What would you have wanted to know before you purchased the product ?</Tokens>
+		<POS>WP MD PRP VB VBN TO VB IN PRP VBD DT NN .</POS>
+		<Lemma>what would you have want to know before you purchase the product ?</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not too short and not too long .</Tokens>
+		<POS>RB RB JJ CC RB RB RB .</POS>
+		<Lemma>not too short and not too long .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Aim for between 75 and 300 words .</Tokens>
+		<POS>NNP IN IN CD CC CD NNS .</POS>
+		<Lemma>Aim for between 75 and 300 word .</Lemma>
+	</Sentence>
+</Document>

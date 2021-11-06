@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>EXTERNAL QUALITY : I chose this one over the competing Samsung XL-2370 model even though they were similarly priced -LRB- approximately $ 280 -RRB- because I like -LRB- 1 -RRB- the Acer 's shape - which is a sleek , plain rectangular shape , -LRB- 2 -RRB- the sturdy aluminum stand , and -LRB- 3 -RRB- because the screen was an inch bigger -LRB- 24 '' -RRB- than the Samsung model -LRB- 23 '' -RRB- .</Tokens>
+		<POS>JJ NN : PRP VBD DT CD IN DT VBG NNP NNP NN RB IN PRP VBD RB VBN -LRB- RB $ CD -RRB- IN PRP VBP -LRB- LS -RRB- DT NNP POS NN : WDT VBZ DT JJ , JJ JJ NN , -LRB- LS -RRB- DT JJ NN NN , CC -LRB- LS -RRB- IN DT NN VBD DT NN JJR -LRB- CD '' -RRB- IN DT NNP NN -LRB- CD '' -RRB- .</POS>
+		<Lemma>external quality : I choose this one over the compete Samsung XL-2370 model even though they be similarly price -lrb- approximately $ 280 -rrb- because I like -lrb- 1 -rrb- the Acer 's shape - which be a sleek , plain rectangular shape , -lrb- 2 -rrb- the sturdy aluminum stand , and -lrb- 3 -rrb- because the screen be a inch bigger -lrb- 24 '' -rrb- than the Samsung model -lrb- 23 '' -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Also , I did n't like Samsung 's casing - an acryllic plastic which looks rather `` cheapy '' -LRB- although it does look a bit fancy -RRB- .</Tokens>
+		<POS>RB , PRP VBD RB VB NNP POS VBG : DT JJ NN WDT VBZ RB `` JJ '' -LRB- IN PRP VBZ VB DT NN JJ -RRB- .</POS>
+		<Lemma>also , I do not like Samsung 's case - a acryllic plastic which look rather `` cheapy '' -lrb- although it do look a bit fancy -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>With regard to the speaker , I have n't used it yet because I rely on my external speakers , but I will say it looks to be cheaply made - I can gently push my finger on the speaker face and it will sink in some because the face of the speaker is covered by a thin weak sheet of metal\/plastic -LRB- ca n't tell -RRB- .</Tokens>
+		<POS>IN NN TO DT NN , PRP VBP RB VBN PRP RB IN PRP VBP IN PRP$ JJ NNS , CC PRP MD VB PRP VBZ TO VB RB VBN : PRP MD RB VB PRP$ NN IN DT NN NN CC PRP MD VB IN DT IN DT NN IN DT NN VBZ VBN IN DT JJ JJ NN IN JJ -LRB- MD RB VB -RRB- .</POS>
+		<Lemma>with regard to the speaker , I have not use it yet because I rely on my external speaker , but I will say it look to be cheaply make - I can gently push my finger on the speaker face and it will sink in some because the face of the speaker be cover by a thin weak sheet of metal\/plastic -lrb- can not tell -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Had the speaker been of better build-quality I would have given the Acer a better rating .</Tokens>
+		<POS>VBD DT NN VBN IN JJR NN PRP MD VB VBN DT NNP DT JJR NN .</POS>
+		<Lemma>have the speaker be of better build-quality I would have give the Acer a better rating .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>One other highlight : I like how the screen does n't get warm even with extended use .</Tokens>
+		<POS>CD JJ NN : PRP VBP WRB DT NN VBZ RB VB JJ RB IN VBN NN .</POS>
+		<Lemma>one other highlight : I like how the screen do not get warm even with extend use .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Good ol' LED technology !</Tokens>
+		<POS>JJ JJ NN NN .</POS>
+		<Lemma>good ol' led technology !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>INTERNAL QUALITY : The quality of the screen is good , but a caveat is that I 'm not too picky about picture quality because I use it for basic computing and the occasional movie .</Tokens>
+		<POS>JJ NN : DT NN IN DT NN VBZ JJ , CC DT NN VBZ IN PRP VBP RB RB JJ IN NN NN IN PRP VBP PRP IN JJ NN CC DT JJ NN .</POS>
+		<Lemma>internal quality : the quality of the screen be good , but a caveat be that I be not too picky about picture quality because I use it for basic computing and the occasional movie .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It has worked perfectly fine for performing those basic tasks .</Tokens>
+		<POS>PRP VBZ VBN RB JJ IN VBG DT JJ NNS .</POS>
+		<Lemma>it have work perfectly fine for perform those basic task .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>CONCLUSION : If I could go back in time I would buy it again .</Tokens>
+		<POS>NN : IN PRP MD VB RB IN NN PRP MD VB PRP RB .</POS>
+		<Lemma>conclusion : if I could go back in time I would buy it again .</Lemma>
+	</Sentence>
+</Document>

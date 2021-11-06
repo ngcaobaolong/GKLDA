@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My 21 '' Nokia CRT finally gave out last week and I ordered up two of these Acer AL1912 LCD 's to run off of my dual head video card .</Tokens>
+		<POS>PRP$ CD '' NNP NNP RB VBD RP JJ NN CC PRP VBD RP CD IN DT NNP NNP NNS POS TO VB RB IN PRP$ JJ NN NN NN .</POS>
+		<Lemma>my 21 '' Nokia CRT finally give out last week and I order up two of these Acer AL1912 lcd 's to run off of my dual head video card .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I checked around for a straight replacement for my old 21 '' but found the price on an equal monitor had actually gone up .</Tokens>
+		<POS>PRP VBD RP IN DT JJ NN IN PRP$ JJ CD '' CC VBD DT NN IN DT JJ NN VBD RB VBN RP .</POS>
+		<Lemma>I check around for a straight replacement for my old 21 '' but find the price on a equal monitor have actually go up .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I noticed the Acer LCD on sale for just over 3 bills and figured two would make a great replacement and give me a little more desktop real estate to work with .</Tokens>
+		<POS>PRP VBD DT NNP NNS IN NN IN RB IN CD NNS CC VBD CD MD VB DT JJ NN CC VB PRP DT RB JJR NN JJ NN TO VB IN .</POS>
+		<Lemma>I notice the Acer lcd on sale for just over 3 bill and figure two would make a great replacement and give I a little more desktop real estate to work with .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>After setup , I measured the new 19 '' LCD and the old 21 '' screens to compare and found the actual viewable size was only 3\/4 '' smaller !</Tokens>
+		<POS>IN NN , PRP VBD DT JJ CD '' NNS CC DT JJ CD '' NNS TO VB CC VBD DT JJ JJ NN VBD RB CD '' JJR .</POS>
+		<Lemma>after setup , I measure the new 19 '' lcd and the old 21 '' screen to compare and find the actual viewable size be only 3\/4 '' smaller !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Though max resolution is 1280 x 1024 on the LCD , I only notice a small difference , the addition of the 2nd flat panel though yeilded a great deal of welcome new space .</Tokens>
+		<POS>IN NN NN VBZ CD CC CD IN DT NNS , PRP RB VBP DT JJ NN , DT NN IN DT JJ JJ NN IN VBN DT JJ NN IN JJ JJ NN .</POS>
+		<Lemma>though max resolution be 1280 x 1024 on the lcd , I only notice a small difference , the addition of the 2nd flat panel though yeild a great deal of welcome new space .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The new LCD has a very nice bright and vivid display and after installing the driver , I was able to update the refresh frequency to 75hz and play my favorite first person shooter -LRB- counterstrike source -RRB- .</Tokens>
+		<POS>DT JJ NNS VBZ DT RB JJ JJ CC JJ NN CC IN VBG DT NN , PRP VBD JJ TO VB DT JJ NN TO CD CC VB PRP$ JJ JJ NN NN -LRB- NN NN -RRB- .</POS>
+		<Lemma>the new lcd have a very nice bright and vivid display and after install the driver , I be able to update the refresh frequency to 75hz and play my favorite first person shooter -lrb- counterstrike source -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Games are always the toughest test for any computer system so a component that can game well , will definately do great on any desktop application like photo editing , or web browsing .</Tokens>
+		<POS>NNPS VBP RB DT JJS NN IN DT NN NN IN DT NN WDT MD NN RB , MD RB VB JJ IN DT NN NN IN NN NN , CC NN NN .</POS>
+		<Lemma>Games be always the toughest test for any computer system so a component that can game well , will definately do great on any desktop application like photo editing , or web browsing .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I noticed while browsing a couple sites , the white background of pages was so bright it was actually too much so I cranked the brightness down to 50 % .</Tokens>
+		<POS>PRP VBD IN VBG DT NN NNS , DT JJ NN IN NNS VBD RB JJ PRP VBD RB RB JJ IN PRP VBD DT NN IN TO CD NN .</POS>
+		<Lemma>I notice while browse a couple site , the white background of page be so bright it be actually too much so I crank the brightness down to 50 % .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The display stand and case have a nice black design that is compact compared to its equal CRT counterpart and compliment my black computer case and keyboard .</Tokens>
+		<POS>DT NN NN CC NN VBP DT JJ JJ NN WDT VBZ JJ VBN TO PRP$ JJ NNP NN CC NN PRP$ JJ NN NN CC NN .</POS>
+		<Lemma>the display stand and case have a nice black design that be compact compare to its equal CRT counterpart and compliment my black computer case and keyboard .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The shelf on my desk that the CRT monitor used to sit on had a sag of about 1 '' that leveled back out after its removal and replacement of the new LCD .</Tokens>
+		<POS>DT NN IN PRP$ NN IN DT NNP NN VBN TO VB IN VBD DT NN IN IN CD '' IN VBD RB RB IN PRP$ NN CC NN IN DT JJ NNS .</POS>
+		<Lemma>the shelf on my desk that the CRT monitor use to sit on have a sag of about 1 '' that level back out after its removal and replacement of the new lcd .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The more compact LCD also takes up much less space on my desk so I have room for more junk food and empty coke cans ... what a great bonus : -RRB-</Tokens>
+		<POS>DT JJR JJ NNS RB VBZ RP RB JJR NN IN PRP$ NN IN PRP VBP NN IN JJR NN NN CC JJ NN NNS : WP DT JJ NN : -RRB-</POS>
+		<Lemma>the more compact lcd also take up much less space on my desk so I have room for more junk food and empty coke can ... what a great bonus : -rrb-</Lemma>
+	</Sentence>
+</Document>

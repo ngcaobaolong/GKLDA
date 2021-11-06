@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The service was fast and the monitor arrived in good shape in good time .</Tokens>
+		<POS>DT NN VBD JJ CC DT NN VBD IN JJ NN IN JJ NN .</POS>
+		<Lemma>the service be fast and the monitor arrive in good shape in good time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The picture could be a little better .</Tokens>
+		<POS>DT NN MD VB DT JJ JJR .</POS>
+		<Lemma>the picture could be a little better .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Beware .</Tokens>
+		<POS>VB .</POS>
+		<Lemma>beware .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It looks like the perfect product , but in reality it 's got more than one problem .</Tokens>
+		<POS>PRP VBZ IN DT JJ NN , CC IN NN PRP VBZ VBN JJR IN CD NN .</POS>
+		<Lemma>it look like the perfect product , but in reality it be get more than one problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Within 5 months , there are these huge white spots on the screen and the speaker is giving out .</Tokens>
+		<POS>IN CD NNS , EX VBP DT JJ JJ NNS IN DT NN CC DT NN VBZ VBG RP .</POS>
+		<Lemma>within 5 month , there be these huge white spot on the screen and the speaker be give out .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is flimsy and scratches itself on the bottom bezel .</Tokens>
+		<POS>PRP VBZ JJ CC NNS PRP IN DT JJ NN .</POS>
+		<Lemma>it be flimsy and scratch itself on the bottom bezel .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The keyboard broke after a few drops of water spilled on it , too !</Tokens>
+		<POS>DT NN VBD IN DT JJ NNS IN NN VBN IN PRP , RB .</POS>
+		<Lemma>the keyboard break after a few drop of water spill on it , too !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I wanted to send it into repair , but Acer wipes the hard drive and offers no backup options .</Tokens>
+		<POS>PRP VBD TO VB PRP IN NN , CC NNP VBZ DT JJ NN CC VBZ DT NN NNS .</POS>
+		<Lemma>I want to send it into repair , but Acer wipe the hard drive and offer no backup option .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Please beware when buying .</Tokens>
+		<POS>UH VB WRB NN .</POS>
+		<Lemma>please beware when buying .</Lemma>
+	</Sentence>
+</Document>

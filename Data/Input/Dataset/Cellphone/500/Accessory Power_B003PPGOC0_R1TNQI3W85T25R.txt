@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I still like this product even though a bit of static comes through on occasion .</Tokens>
+		<POS>PRP RB IN DT NN RB IN DT NN IN JJ VBZ IN IN NN .</POS>
+		<Lemma>I still like this product even though a bit of static come through on occasion .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I usually just change the frequency and the static goes away .</Tokens>
+		<POS>PRP RB RB VB DT NN CC DT JJ VBZ RB .</POS>
+		<Lemma>I usually just change the frequency and the static go away .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have an iphone4s and it works with this devise .</Tokens>
+		<POS>PRP VBP DT NNS CC PRP VBZ IN DT VB .</POS>
+		<Lemma>I have a iphone4 and it work with this devise .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When I use the bluetooth capabilities to make a call some callers are able to hear me perfectly while one of my friends insists that she can never hear me -LRB- I think it 's her phone -RRB- .</Tokens>
+		<POS>WRB PRP VBP DT NN NNS TO VB DT NN DT NNS VBP JJ TO VB PRP RB IN CD IN PRP$ NNS VBZ IN PRP MD RB VB PRP -LRB- PRP VBP PRP VBZ PRP$ NN -RRB- .</POS>
+		<Lemma>when I use the bluetooth capability to make a call some caller be able to hear I perfectly while one of my friend insist that she can never hear I -lrb- I think it be she phone -rrb- .</Lemma>
+	</Sentence>
+</Document>

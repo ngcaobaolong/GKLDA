@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is not the quality I expected from Acer .</Tokens>
+		<POS>DT VBZ RB DT NN PRP VBD IN NNP .</POS>
+		<Lemma>this be not the quality I expect from Acer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It came with a bad pixel .</Tokens>
+		<POS>PRP VBD IN DT JJ NN .</POS>
+		<Lemma>it come with a bad pixel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Do not buy this model .</Tokens>
+		<POS>VBP RB VB DT NN .</POS>
+		<Lemma>do not buy this model .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Go for the AL1916WABD , thats the newer model to this that also comes with DVI port .</Tokens>
+		<POS>VB IN DT NN , VBZ DT JJR NN TO DT WDT RB VBZ IN NNP NN .</POS>
+		<Lemma>go for the al1916wabd , that the newer model to this that also come with DVI port .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>3 Stars because the monitor is great otherwise .</Tokens>
+		<POS>CD NNP IN DT NN VBZ JJ RB .</POS>
+		<Lemma>3 Stars because the monitor be great otherwise .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The base could be sturdier but I do n't see that as a problem because it wo n't topple over unless you really hit it hard .</Tokens>
+		<POS>DT NN MD VB JJR CC PRP VBP RB VB DT IN DT NN IN PRP MD RB VB IN IN PRP RB VBD PRP RB .</POS>
+		<Lemma>the base could be sturdier but I do not see that as a problem because it will not topple over unless you really hit it hard .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>This would have been so great if it did not have that bad pixel .</Tokens>
+		<POS>DT MD VB VBN RB JJ IN PRP VBD RB VB DT JJ NN .</POS>
+		<Lemma>this would have be so great if it do not have that bad pixel .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The auto adjust functions work well , even with games and movies .</Tokens>
+		<POS>DT NN VBP NNS VB RB , RB IN NNS CC NNS .</POS>
+		<Lemma>the auto adjust function work well , even with game and movie .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am enjoying this product because it is a space saver for me in addition to the clearness of its images .</Tokens>
+		<POS>PRP VBP VBG DT NN IN PRP VBZ DT NN NN IN PRP IN NN TO DT NN IN PRP$ NNS .</POS>
+		<Lemma>I be enjoy this product because it be a space saver for I in addition to the clearness of its image .</Lemma>
+	</Sentence>
+</Document>

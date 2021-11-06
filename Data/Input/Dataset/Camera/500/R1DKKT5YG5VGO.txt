@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have to say that for the price and considering I am upgrading from a Linksys camera that I love this device right out of the box .</Tokens>
+		<POS>PRP VBP TO VB IN IN DT NN CC VBG PRP VBP VBG IN DT NNP NN IN PRP VBP DT NN NN IN IN DT NN .</POS>
+		<Lemma>I have to say that for the price and consider I be upgrade from a Linksys camera that I love this device right out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The setup was mostly easy , so long as you follow the directions .</Tokens>
+		<POS>DT NN VBD RB JJ , RB RB IN PRP VBP DT NNS .</POS>
+		<Lemma>the setup be mostly easy , so long as you follow the direction .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Once setup , I had zero issues with the wifi and have been up and running since I mounted the camera .</Tokens>
+		<POS>RB NN , PRP VBD CD NNS IN DT NNS CC VBP VBN RB CC VBG IN PRP VBD DT NN .</POS>
+		<Lemma>once setup , I have zero issue with the wifus and have be up and run since I mount the camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Love the night vision , works as advertised .</Tokens>
+		<POS>NN DT NN NN , VBZ IN VBN .</POS>
+		<Lemma>love the night vision , work as advertise .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have used it several times to check up on my home while away , from a PC as well as with some 2.99 apps from the Apps store for my iPhone and iPad !</Tokens>
+		<POS>PRP VBP VBN PRP JJ NNS TO VB RP IN PRP$ NN IN RB , IN DT NN RB RB IN IN DT CD NNS IN DT NNP NN IN PRP$ NNP CC NNP .</POS>
+		<Lemma>I have use it several time to check up on my home while away , from a pc as well as with some 2.99 app from the Apps store for my iPhone and iPad !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For the money , you get what you paid for and then some !</Tokens>
+		<POS>IN DT NN , PRP VBP WP PRP VBD IN CC RB DT .</POS>
+		<Lemma>for the money , you get what you pay for and then some !</Lemma>
+	</Sentence>
+</Document>

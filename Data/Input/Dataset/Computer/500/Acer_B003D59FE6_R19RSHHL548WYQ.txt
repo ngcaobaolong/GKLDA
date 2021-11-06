@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great price on a 19 '' monitor !</Tokens>
+		<POS>JJ NN IN DT CD '' NN .</POS>
+		<Lemma>great price on a 19 '' monitor !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Picture quality is good and this monitor provides VESA mounting for SSF PCs like the ASUS Eee Box !</Tokens>
+		<POS>NNP NN VBZ JJ CC DT NN VBZ NNP VBG IN NNP NNS IN DT NNP NNP NNP .</POS>
+		<Lemma>Picture quality be good and this monitor provide VESA mount for SSF pc like the ASUS Eee Box !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this as a Christmas present a while back .</Tokens>
+		<POS>PRP VBD DT IN DT NNP JJ DT NN RB .</POS>
+		<Lemma>I get this as a Christmas present a while back .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like being able to record my riding videos , and this makes it dead simple .</Tokens>
+		<POS>PRP VBP VBG JJ TO VB PRP$ VBG NNS , CC DT VBZ PRP JJ NN .</POS>
+		<Lemma>I like be able to record my ride video , and this make it dead simple .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't particularly care for the software you have to use , but it is functional , and does n't get in the way .</Tokens>
+		<POS>PRP VBP RB RB VB IN DT NN PRP VBP TO VB , CC PRP VBZ JJ , CC VBZ RB VB IN DT NN .</POS>
+		<Lemma>I do not particularly care for the software you have to use , but it be functional , and do not get in the way .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Operation is dead simple .</Tokens>
+		<POS>NN VBZ JJ NN .</POS>
+		<Lemma>operation be dead simple .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>There 's a `` diagnostic '' button that will help you line up the lens as well as display the battery\/SD card status , and there 's the `` record '' slider .</Tokens>
+		<POS>EX VBZ DT `` JJ '' NN WDT MD VB PRP VB RP DT NN RB RB IN NN DT NN NN NN , CC EX VBZ DT `` NN '' NN .</POS>
+		<Lemma>there be a `` diagnostic '' button that will help you line up the lens as well as display the battery\/sd card status , and there be the `` record '' slider .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It 's a giant button that takes up 75 % of the top of the device , and is easily operated with thick gloves .</Tokens>
+		<POS>PRP VBZ DT JJ NN WDT VBZ RP CD NN IN DT NN IN DT NN , CC VBZ RB VBN IN JJ NNS .</POS>
+		<Lemma>it be a giant button that take up 75 % of the top of the device , and be easily operate with thick glove .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The mounts that this camera comes with are straight forward , and I 've yet to have a problem with them not adhering to my helmets .</Tokens>
+		<POS>DT VBZ IN DT NN VBZ IN VBP JJ RB , CC PRP VBP RB TO VB DT NN IN PRP RB JJ TO PRP$ NNS .</POS>
+		<Lemma>the mount that this camera come with be straight forward , and I have yet to have a problem with they not adhering to my helmet .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Video quality is what I would expect from a 720p camera .</Tokens>
+		<POS>NNP NN VBZ WP PRP MD VB IN DT JJ NN .</POS>
+		<Lemma>Video quality be what I would expect from a 720p camera .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>As far as sound goes ... well , I usually just throw out the sound from my videos , but I 've yet to see a helmet camera that produces useful sound at highway speeds , so I 'm not knocking this one for it either .</Tokens>
+		<POS>IN RB IN JJ VBZ : RB , PRP RB RB VB RP DT NN IN PRP$ NNS , CC PRP VBP RB TO VB DT NN NN WDT VBZ JJ NN IN NN NNS , IN PRP VBP RB VBG DT CD IN PRP RB .</POS>
+		<Lemma>as far as sound go ... well , I usually just throw out the sound from my video , but I have yet to see a helmet camera that produce useful sound at highway speed , so I be not knock this one for it either .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>For the money , there is n't a simpler camera on the market .</Tokens>
+		<POS>IN DT NN , EX VBZ RB DT JJR NN IN DT NN .</POS>
+		<Lemma>for the money , there be not a simpler camera on the market .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you 're going to be on a trip for multiple days , just make sure to bring a laptop , as you 'll have no other way of cleaning up your memory card to make room for more videos .</Tokens>
+		<POS>IN PRP VBP VBG TO VB IN DT NN IN JJ NNS , RB VB JJ TO VB DT NN , IN PRP MD VB DT JJ NN IN VBG RP PRP$ NN NN TO VB NN IN JJR NNS .</POS>
+		<Lemma>if you be go to be on a trip for multiple day , just make sure to bring a laptop , as you 'll have no other way of clean up you memory card to make room for more video .</Lemma>
+	</Sentence>
+</Document>

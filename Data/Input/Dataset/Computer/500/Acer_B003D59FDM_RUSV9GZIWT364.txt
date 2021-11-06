@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These monitors are becoming harder to find , they are much better with documents , and that is what I needed .</Tokens>
+		<POS>DT NNS VBP VBG RBR TO VB , PRP VBP RB RBR IN NNS , CC DT VBZ WP PRP VBD .</POS>
+		<Lemma>these monitor be become harder to find , they be much better with document , and that be what I need .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have had several ACER monitors and I like the brand</Tokens>
+		<POS>PRP VBP VBD JJ NNP NNS CC PRP VBP DT NN</POS>
+		<Lemma>I have have several ACER monitor and I like the brand</Lemma>
+	</Sentence>
+</Document>

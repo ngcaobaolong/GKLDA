@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are good but a little big to carry on a run or ride .</Tokens>
+		<POS>DT VBP JJ CC DT JJ JJ TO VB IN DT NN CC NN .</POS>
+		<Lemma>these be good but a little big to carry on a run or ride .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I eat one about 45 minutes before I hit it and it does the trick !</Tokens>
+		<POS>PRP VBP CD IN CD NNS IN PRP VBP PRP CC PRP VBZ DT NN .</POS>
+		<Lemma>I eat one about 45 minute before I hit it and it do the trick !</Lemma>
+	</Sentence>
+</Document>

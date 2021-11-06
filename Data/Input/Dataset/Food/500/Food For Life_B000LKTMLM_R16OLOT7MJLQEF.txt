@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have really enjoyed the Food for Life sprouted grain breads , and this cereal is just as delicious .</Tokens>
+		<POS>PRP VBP RB VBN DT NNP IN NNP VBD NN NNS , CC DT NN VBZ RB IN JJ .</POS>
+		<Lemma>I have really enjoy the Food for Life sprout grain bread , and this cereal be just as delicious .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have been eating it practically everyday since I ordered it .</Tokens>
+		<POS>PRP VBP VBN VBG PRP RB JJ IN PRP VBD PRP .</POS>
+		<Lemma>I have be eat it practically everyday since I order it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm hooked !!</Tokens>
+		<POS>PRP VBP JJ IN</POS>
+		<Lemma>I be hooked !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Please try it , and I promise you will not be disappointed .</Tokens>
+		<POS>VB VB PRP , CC PRP VBP PRP MD RB VB VBN .</POS>
+		<Lemma>please try it , and I promise you will not be disappoint .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's crunchy , nutty , full of solid nutrients , and can work as both a granola\/cereal or even in savory dishes .</Tokens>
+		<POS>PRP VBZ JJ , JJ , JJ IN JJ NNS , CC MD VB IN DT DT NN CC RB IN JJ NNS .</POS>
+		<Lemma>it be crunchy , nutty , full of solid nutrient , and can work as both a granola\/cereal or even in savory dish .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The possiblities are endless !</Tokens>
+		<POS>DT NNS VBP JJ .</POS>
+		<Lemma>the possiblity be endless !</Lemma>
+	</Sentence>
+</Document>

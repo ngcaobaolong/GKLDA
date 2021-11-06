@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The camera is good and it does the job but picture quality is not the greatest .</Tokens>
+		<POS>DT NN VBZ JJ CC PRP VBZ DT NN CC NN NN VBZ RB DT JJS .</POS>
+		<Lemma>the camera be good and it do the job but picture quality be not the greatest .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I take a lot of automobile photos and they do n't come as crisp as I would have liked .</Tokens>
+		<POS>PRP VBP DT NN IN NN NNS CC PRP VBP RB VBN IN JJ IN PRP MD VB VBN .</POS>
+		<Lemma>I take a lot of automobile photo and they do not come as crisp as I would have like .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use to have an older Cybershot and the picture quality was much better and more clearer then this .</Tokens>
+		<POS>PRP VBP TO VB DT JJR NN CC DT NN NN VBD RB JJR CC JJR JJR RB DT .</POS>
+		<Lemma>I use to have a older cybershot and the picture quality be much better and more clearer then this .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 'm still satisfy with it since the price was great and quality is good enough .</Tokens>
+		<POS>PRP VBP RB VB IN PRP IN DT NN VBD JJ CC NN VBZ JJ RB .</POS>
+		<Lemma>I be still satisfy with it since the price be great and quality be good enough .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also when I take photos of people the picture comes out fuzzy sometime with no movement .</Tokens>
+		<POS>RB WRB PRP VBP NNS IN NNS DT NN VBZ RP JJ RB IN DT NN .</POS>
+		<Lemma>also when I take photo of people the picture come out fuzzy sometime with no movement .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall its a good camera and battery life is pretty good too .</Tokens>
+		<POS>RB PRP$ DT JJ NN CC NN NN VBZ RB JJ RB .</POS>
+		<Lemma>overall its a good camera and battery life be pretty good too .</Lemma>
+	</Sentence>
+</Document>

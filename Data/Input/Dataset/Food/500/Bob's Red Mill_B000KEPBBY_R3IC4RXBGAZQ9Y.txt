@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>when everythings cooked i love the chewy texture that the bran adds good thick consistency great starter kit indeed</Tokens>
+		<POS>WRB NNS VBD FW VBP DT JJ NN IN DT NN VBZ JJ JJ NN JJ JJ NN RB</POS>
+		<Lemma>when everything cook i love the chewy texture that the bran add good thick consistency great starter kit indeed</Lemma>
+	</Sentence>
+</Document>

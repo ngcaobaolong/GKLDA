@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It Works perfect ... Excellent versatile product ... It works with my son PS3 controlers charger ... I would recomend it ...</Tokens>
+		<POS>PRP NNP JJ : JJ JJ NN : PRP VBZ IN PRP$ NN NNP NNS NN : PRP MD VB PRP :</POS>
+		<Lemma>it Works perfect ... excellent versatile product ... it work with my son PS3 controler charger ... I would recomend it ...</Lemma>
+	</Sentence>
+</Document>

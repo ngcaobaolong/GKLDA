@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For 2 years I enjoyed the product , mostly as an A\/C charger but also in my car and as a travel charger .</Tokens>
+		<POS>IN CD NNS PRP VBD DT NN , RB IN DT NN NN CC RB IN PRP$ NN CC IN DT NN NN .</POS>
+		<Lemma>for 2 year I enjoy the product , mostly as a a\/c charger but also in my car and as a travel charger .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Then , on a boat trip I connected it to a 12V DC source not realizing that the compartment where the outlet was had a metal strip .</Tokens>
+		<POS>RB , IN DT NN NN PRP VBD PRP TO DT NN NN NN RB VBG IN DT NN WRB DT NN VBD VBD DT NN NN .</POS>
+		<Lemma>then , on a boat trip I connect it to a 12v dc source not realize that the compartment where the outlet be have a metal strip .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The 9V connectors shorted and fried the Trans4m .</Tokens>
+		<POS>DT NN NNS VBD CC VBD DT NN .</POS>
+		<Lemma>the 9v connector short and fry the trans4m .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Probably would have been spared if the connectors would have been covered by an insulating protector .</Tokens>
+		<POS>RB MD VB VBN VBN IN DT NNS MD VB VBN VBN IN DT VBG NN .</POS>
+		<Lemma>probably would have be spare if the connector would have be cover by a insulate protector .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's a shame , as the adapter had grealty serviced me all this time .</Tokens>
+		<POS>PRP VBZ DT NN , IN DT NN VBD NN VBD PRP PDT DT NN .</POS>
+		<Lemma>it be a shame , as the adapter have grealty service I all this time .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I would suggest the manufacturer to incorporate some sort of shielding as the conectors protrude slightly on the back of the charger and it 's very easy for them to get in contact with the surface where the adapter sits .</Tokens>
+		<POS>PRP MD VB DT NN TO VB DT NN IN VBG IN DT NNS VBP RB IN DT NN IN DT NN CC PRP VBZ RB JJ IN PRP TO VB IN NN IN DT NN WRB DT NN VBZ .</POS>
+		<Lemma>I would suggest the manufacturer to incorporate some sort of shield as the conector protrude slightly on the back of the charger and it be very easy for they to get in contact with the surface where the adapter sit .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Apparently , if there is any sort of electric conductivity and it touches the 9V contectors , you risk distroying the adapter .</Tokens>
+		<POS>RB , IN EX VBZ DT NN IN JJ NN CC PRP NNS DT NN NNS , PRP VBP VBG DT NN .</POS>
+		<Lemma>apparently , if there be any sort of electric conductivity and it touch the 9v contector , you risk distroy the adapter .</Lemma>
+	</Sentence>
+</Document>

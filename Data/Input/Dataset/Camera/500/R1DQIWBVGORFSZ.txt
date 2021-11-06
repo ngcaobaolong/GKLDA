@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is my first ever ODBII and so far I love it !!</Tokens>
+		<POS>DT VBZ PRP$ JJ RB CD CC RB RB PRP VBP PRP IN</POS>
+		<Lemma>this be my first ever odbii and so far I love it !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It works as advertised and I had no problems installing it .</Tokens>
+		<POS>PRP VBZ IN VBN CC PRP VBD DT NNS VBG PRP .</POS>
+		<Lemma>it work as advertise and I have no problem install it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use this ODBII scanner together with the Torque App on my Samsung Galaxy Tab 10.1 connected to Land Rover LR3 .</Tokens>
+		<POS>PRP VBP DT NN NN RB IN DT NNP NN IN PRP$ NNP NNP NN CD VBN TO VB NNP NN .</POS>
+		<Lemma>I use this odbius scanner together with the Torque app on my Samsung Galaxy tab 10.1 connect to land Rover lr3 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>All works fine .</Tokens>
+		<POS>DT NNS NN .</POS>
+		<Lemma>all work fine .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The product is well made .</Tokens>
+		<POS>DT NN VBZ RB VBN .</POS>
+		<Lemma>the product be well make .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I do have a suggestion to the manufacturer .</Tokens>
+		<POS>PRP VBP VB DT NN TO DT NN .</POS>
+		<Lemma>I do have a suggestion to the manufacturer .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It would be great is there was another version of the adapter where the connector and hardware is separated by a cable so that you can change the adapters angle when mounting permanently in a car .</Tokens>
+		<POS>PRP MD VB JJ VBZ EX VBD DT NN IN DT NN WRB DT NN CC NN VBZ VBN IN DT NN IN IN PRP MD VB DT NNS NN WRB VBG RB IN DT NN .</POS>
+		<Lemma>it would be great be there be another version of the adapter where the connector and hardware be separate by a cable so that you can change the adapter angle when mount permanently in a car .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This way it does not get in the way when connected to the car .</Tokens>
+		<POS>DT NN PRP VBZ RB VB IN DT NN WRB VBN TO DT NN .</POS>
+		<Lemma>this way it do not get in the way when connect to the car .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Since I my car has lots of leg room I do not mind when the adapter sticks out , but in compact cars I see this being a problem especially if the car connection is in a weird place .</Tokens>
+		<POS>IN PRP PRP$ NN VBZ NNS IN NN NN PRP VBP RB VB WRB DT NN VBZ RP , CC IN JJ NNS PRP VBP DT VBG DT NN RB IN DT NN NN VBZ IN DT JJ NN .</POS>
+		<Lemma>since I my car have lot of leg room I do not mind when the adapter stick out , but in compact car I see this be a problem especially if the car connection be in a weird place .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>-LRB- see The Gramin Eco adapter if you want to see what I mean -RRB-</Tokens>
+		<POS>-LRB- VB DT NNP NNP NN IN PRP VBP TO VB WP PRP VBP -RRB-</POS>
+		<Lemma>-lrb- see the Gramin Eco adapter if you want to see what I mean -rrb-</Lemma>
+	</Sentence>
+</Document>

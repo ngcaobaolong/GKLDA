@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This should be on everyone 's Christmas list .</Tokens>
+		<POS>DT MD VB IN NN POS NNP NN .</POS>
+		<Lemma>this should be on everyone 's Christmas list .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>How about a charger that plugs into the car or wall or works off batteries in a pinch .</Tokens>
+		<POS>WRB RB DT NN WDT VBZ IN DT NN CC NN CC VBZ RP NNS IN DT NN .</POS>
+		<Lemma>how about a charger that plug into the car or wall or work off battery in a pinch .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Then how bout a charger that has USB cords for every one of your gadjets .</Tokens>
+		<POS>RB WRB NN DT NN WDT VBZ JJ NNS IN DT CD IN PRP$ NNS .</POS>
+		<Lemma>then how bout a charger that have usb cord for every one of you gadjet .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I ordered two by mistake and have used both all over the place .</Tokens>
+		<POS>PRP VBD CD IN NN CC VBP VBN DT DT IN DT NN .</POS>
+		<Lemma>I order two by mistake and have use both all over the place .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In both cars .</Tokens>
+		<POS>IN DT NNS .</POS>
+		<Lemma>in both car .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In the airport .</Tokens>
+		<POS>IN DT NN .</POS>
+		<Lemma>in the airport .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>At hotels .</Tokens>
+		<POS>IN NNS .</POS>
+		<Lemma>at hotel .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>For my DROID , my IPOD nano , somebody else 's Blackberry .</Tokens>
+		<POS>IN PRP$ NNP , PRP$ NN NN , NN RB POS NNP .</POS>
+		<Lemma>for my DROID , my ipod nano , somebody else 's Blackberry .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I am going to buy a dozen for Christmas presents !</Tokens>
+		<POS>PRP VBP VBG TO VB DT NN IN NNP VBZ .</POS>
+		<Lemma>I be go to buy a dozen for Christmas present !</Lemma>
+	</Sentence>
+</Document>

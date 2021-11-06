@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I agree with others that it needs to be treated with care but most electronics do need to be treated like they are delicate .</Tokens>
+		<POS>PRP VBP IN NNS IN PRP VBZ TO VB VBN IN NN CC RBS NNS VBP VB TO VB VBN IN PRP VBP JJ .</POS>
+		<Lemma>I agree with other that it need to be treat with care but most electronics do need to be treat like they be delicate .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is sooo handy .</Tokens>
+		<POS>DT VBZ JJ JJ .</POS>
+		<Lemma>this be sooo handy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We love it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>we love it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So versatile .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>so versatile .</Lemma>
+	</Sentence>
+</Document>

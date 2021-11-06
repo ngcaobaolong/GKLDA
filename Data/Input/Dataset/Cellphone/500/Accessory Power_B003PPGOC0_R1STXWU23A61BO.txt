@@ -1,0 +1,162 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>For only slightly more than this thing costs you can find something like a <a href="http://www.amazon.com/gp/product/B001CU9DZU/ref=cm_cr_asin_lnk/175-1544508-5202362"> GROM Adapter\/Interface </a> that 's totally hidden with much better audio quality and no awkward junk sticking out of your cigar lighter socket .</Tokens>
+		<POS>IN RB RB JJR IN DT NN VBZ PRP MD VB NN IN DT JJ NN NN NN WDT VBZ RB VBN IN JJ JJR JJ NN CC DT JJ NN VBG IN IN PRP$ NN JJR NN .</POS>
+		<Lemma>for only slightly more than this thing cost you can find something like a <a href="http://www.amazon.com/gp/product/b001cu9dzu/ref=cm_cr_asin_lnk/175-1544508-5202362"> grom adapter\/interface </a> that be totally hide with much better audio quality and no awkward junk stick out of you cigar lighter socket .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Here are the problems with this GOgroove thing : - Audio quality over FM is still too poor .</Tokens>
+		<POS>RB VBP DT NNS IN DT NN NN : : JJ NN IN NNP VBZ RB RB JJ .</POS>
+		<Lemma>here be the problem with this gogroove thing : - audio quality over FM be still too poor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A cassette deck audio adapter I have is much better even .</Tokens>
+		<POS>DT NN NN NN NN PRP VBP VBZ RB JJR RB .</POS>
+		<Lemma>a cassette deck audio adapter I have be much better even .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>- For some reason the control knob controls the broadcast frequency during normal operation , and it 's too easy to accidentally hit the thing , changing the frequency by 0.1 MHz , breaking the audio connection .</Tokens>
+		<POS>: IN DT NN DT NN NN VBZ DT NN NN IN JJ NN , CC PRP VBZ RB JJ TO RB VB DT NN , VBG DT NN IN CD NN , VBG DT NN NN .</POS>
+		<Lemma>- for some reason the control knob control the broadcast frequency during normal operation , and it be too easy to accidentally hit the thing , change the frequency by 0.1 mhz , break the audio connection .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This is dumb ; they should have given you some way to hide or lock this so hitting the knob while trying to push one of the buttons wo n't change the frequency .</Tokens>
+		<POS>DT VBZ JJ : PRP MD VB VBN PRP DT NN TO VB CC VB DT RB VBG DT NN IN VBG TO VB CD IN DT NNS MD RB VB DT NN .</POS>
+		<Lemma>this be dumb ; they should have give you some way to hide or lock this so hit the knob while try to push one of the button will not change the frequency .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It should n't need to be changed at all unless you 're on a long trip .</Tokens>
+		<POS>PRP MD RB VB TO VB VBN IN DT IN PRP VBP IN DT JJ NN .</POS>
+		<Lemma>it should not need to be change at all unless you be on a long trip .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>- There 's a volume control -LRB- why ? -RRB-</Tokens>
+		<POS>: EX VBZ DT NN NN -LRB- WRB . -RRB-</POS>
+		<Lemma>- there be a volume control -lrb- why ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>that you access by pressing the knob down and then turning it .</Tokens>
+		<POS>IN PRP NN IN VBG DT NN RB CC RB VBG PRP .</POS>
+		<Lemma>that you access by press the knob down and then turn it .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>For some dumb reason it resets to 20 out of 30 whenever the thing is powered off and back on .</Tokens>
+		<POS>IN DT JJ NN PRP VBZ TO CD IN IN CD WRB DT NN VBZ VBN RP CC RP IN .</POS>
+		<Lemma>for some dumb reason it reset to 20 out of 30 whenever the thing be power off and back on .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Why 20\/30 -LRB- or 66 % of full -RRB- is a good default I have no idea , because the volume is too low compared to regular FM stations even when it 's cranked up to 30 .</Tokens>
+		<POS>WRB CD -LRB- CC CD NN IN JJ -RRB- VBZ DT JJ NN PRP VBP DT NN , IN DT NN VBZ RB JJ VBN TO JJ NNP NNS RB WRB PRP VBZ VBN RP TO CD .</POS>
+		<Lemma>why 20\/30 -lrb- or 66 % of full -rrb- be a good default I have no idea , because the volume be too low compare to regular FM station even when it be crank up to 30 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Since the same knob controls the broadcast frequency , it 's also easy to mess that up while you 're trying to fix the volume .</Tokens>
+		<POS>IN DT JJ NN VBZ DT NN NN , PRP VBZ RB JJ TO NN WDT RP IN PRP VBP VBG TO VB DT NN .</POS>
+		<Lemma>since the same knob control the broadcast frequency , it be also easy to mess that up while you be try to fix the volume .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>- The only connection option is the gooseneck connector .</Tokens>
+		<POS>: DT JJ NN NN VBZ DT NN NN .</POS>
+		<Lemma>- the only connection option be the gooseneck connector .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It would have been easy for them to let you detach the gooseneck from the connector and connect up a plain wire between the thing and the power socket so you could mount it with velcro or put it wherever .</Tokens>
+		<POS>PRP MD VB VBN JJ IN PRP TO VB PRP VB DT NN IN DT NN CC VB RP DT JJ NN IN DT NN CC DT NN NN IN PRP MD VB PRP IN NN CC VB PRP WRB .</POS>
+		<Lemma>it would have be easy for they to let you detach the gooseneck from the connector and connect up a plain wire between the thing and the power socket so you could mount it with velcro or put it wherever .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>As things are , if you wanted to do this you 'd need to solder your own connector to the power pins or rig up something similar .</Tokens>
+		<POS>IN NNS VBP , IN PRP VBD TO VB DT PRP MD VB TO VB PRP$ JJ NN TO DT NN NNS CC NN IN NN JJ .</POS>
+		<Lemma>as thing be , if you want to do this you would need to solder you own connector to the power pin or rig up something similar .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>- The thing is just way too expensive for what it does , almost as expensive as a real dash install kit with bluetooth , an aux port , ipod charger\/audio cable , and handsfree mic .</Tokens>
+		<POS>: DT NN VBZ RB RB RB JJ IN WP PRP VBZ , RB IN JJ IN DT JJ NN VB NN IN NN , DT FW NN , NN NN NN , CC NN JJ .</POS>
+		<Lemma>- the thing be just way too expensive for what it do , almost as expensive as a real dash install kit with bluetooth , a aux port , ipod charger\/audio cable , and handsfree mic .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Save your money and just buy a real dash install kit to put behind your head unit .</Tokens>
+		<POS>VB PRP$ NN CC RB VB DT JJ NN VB NN TO VB RP PRP$ NN NN .</POS>
+		<Lemma>save you money and just buy a real dash install kit to put behind you head unit .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>They 're actually pretty easy to install since usually all you need to do is slide the head unit out and plug them in .</Tokens>
+		<POS>PRP VBP RB RB JJ TO VB IN RB DT PRP VBP TO VB VBZ VB DT NN NN IN CC VB PRP IN .</POS>
+		<Lemma>they be actually pretty easy to install since usually all you need to do be slide the head unit out and plug they in .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>The only stuff this thing gets any credit for is : - It does have an audio output jack so you can skip the poor quality FM link and add bluetooth to any aux port .</Tokens>
+		<POS>DT JJ NN DT NN VBZ DT NN IN VBZ : : PRP VBZ VB DT JJ NN NN IN PRP MD VB DT JJ NN NN NN CC VB NN TO DT FW NN .</POS>
+		<Lemma>the only stuff this thing get any credit for be : - it do have a audio output jack so you can skip the poor quality fm link and add bluetooth to any aux port .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Still , this is too expensive compared to a dash install kit .</Tokens>
+		<POS>RB , DT VBZ RB JJ VBN TO DT NN VB NN .</POS>
+		<Lemma>still , this be too expensive compare to a dash install kit .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>- The speakerphone thing is reasonably good .</Tokens>
+		<POS>: DT NN NN VBZ RB JJ .</POS>
+		<Lemma>- the speakerphone thing be reasonably good .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Again though it 's nothing special and you can do better with a dash install for around the same cost .</Tokens>
+		<POS>RB IN PRP VBZ NN JJ CC PRP MD VB JJR IN DT NN VB IN IN DT JJ NN .</POS>
+		<Lemma>again though it be nothing special and you can do better with a dash install for around the same cost .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>- The USB power jack is helpful though that is n't saying much .</Tokens>
+		<POS>: DT JJ NN NN VBZ JJ IN DT VBZ RB VBG RB .</POS>
+		<Lemma>- the usb power jack be helpful though that be not say much .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>I do n't really know why I bought this .</Tokens>
+		<POS>PRP VBP RB RB VB WRB PRP VBD DT .</POS>
+		<Lemma>I do not really know why I buy this .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I feel like an idiot .</Tokens>
+		<POS>PRP VBP IN DT NN .</POS>
+		<Lemma>I feel like a idiot .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I thought perhaps it would make a good temporary solution until I could get my GROM kit installed -LRB- which I did n't have time for before my road trip -RRB- but I 've ended up plugging in my iPhone with the cassette deck adapter that I 've been using because the audio is much better and it 's generally much less trouble .</Tokens>
+		<POS>PRP VBD RB PRP MD VB DT JJ JJ NN IN PRP MD VB PRP$ NNP NN VBN -LRB- WDT PRP VBD RB VB NN IN IN PRP$ NN NN -RRB- CC PRP VBP VBN RP VBG IN PRP$ NNP IN DT NN NN NN IN PRP VBP VBN VBG IN DT NN VBZ RB JJR CC PRP VBZ RB RB JJR NN .</POS>
+		<Lemma>I think perhaps it would make a good temporary solution until I could get my GROM kit install -lrb- which I do not have time for before my road trip -rrb- but I have end up plug in my iPhone with the cassette deck adapter that I have be use because the audio be much better and it be generally much less trouble .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I tried to give this to both my brother AND a friend of mine , and neither of them have any use for it .</Tokens>
+		<POS>PRP VBD TO VB DT TO DT PRP$ NN CC DT NN IN NN , CC DT IN PRP VBP DT NN IN PRP .</POS>
+		<Lemma>I try to give this to both my brother and a friend of mine , and neither of they have any use for it .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I 'll probably try to send this back as soon as I get home .</Tokens>
+		<POS>PRP MD RB VB TO VB DT RB RB RB IN PRP VBP NN .</POS>
+		<Lemma>I 'll probably try to send this back as soon as I get home .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>This thing is just NOT worth it .</Tokens>
+		<POS>DT NN VBZ RB RB IN PRP .</POS>
+		<Lemma>this thing be just not worth it .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Save the money to buy something like a GROM adapter or just a new head unit with Bluetooth , iPod support , etc. .</Tokens>
+		<POS>VB DT NN TO VB NN IN DT NNP NN CC RB DT JJ NN NN IN NNP , NNP NN , FW .</POS>
+		<Lemma>save the money to buy something like a GROM adapter or just a new head unit with Bluetooth , iPod support , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Buy the GOgroove and you 'll probably wish you had n't .</Tokens>
+		<POS>VB DT NN CC PRP MD RB VB PRP VBD RB .</POS>
+		<Lemma>buy the gogroove and you 'll probably wish you have not .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>I wish I had treated the high star rating with much more skepticism .</Tokens>
+		<POS>PRP VBP PRP VBD VBN DT JJ NN NN IN RB JJR NN .</POS>
+		<Lemma>I wish I have treat the high star rating with much more skepticism .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Hopefully this will be the last time I fall for product ratings .</Tokens>
+		<POS>RB DT MD VB DT JJ NN PRP VBP IN NN NNS .</POS>
+		<Lemma>hopefully this will be the last time I fall for product rating .</Lemma>
+	</Sentence>
+</Document>

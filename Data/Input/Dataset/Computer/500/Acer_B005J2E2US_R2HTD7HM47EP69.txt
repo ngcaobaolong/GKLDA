@@ -1,0 +1,127 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My laptops tend to be what they used to call `` desktop replacement '' models - big chunky laptops that are meant to sit on your desk 90 % of the time , not the kind of thing you 'll want to lug around with you day in , day out .</Tokens>
+		<POS>PRP$ NNS VBP TO VB WP PRP VBD TO VB `` NN NN '' NNS : JJ JJ NNS WDT VBP VBN TO VB IN PRP$ NN CD NN IN DT NN , RB DT NN IN NN PRP MD VB TO VB RP IN PRP NN IN , NN RB .</POS>
+		<Lemma>my laptop tend to be what they use to call `` desktop replacement '' model - big chunky laptop that be mean to sit on you desk 90 % of the time , not the kind of thing you 'll want to lug around with you day in , day out .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So , for something more mobile , I tend to go the other way and get a really slim , light machine .</Tokens>
+		<POS>RB , IN NN RBR JJ , PRP VBP TO VB DT JJ NN CC VB DT RB JJ , JJ NN .</POS>
+		<Lemma>so , for something more mobile , I tend to go the other way and get a really slim , light machine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This Acer Aspire One is perfect for just that .</Tokens>
+		<POS>DT NNP NNP CD VBZ JJ IN RB DT .</POS>
+		<Lemma>this Acer Aspire one be perfect for just that .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>If you 've never used a netbook , what you should expect is a machine that sacrifices performance for portability .</Tokens>
+		<POS>IN PRP VBP RB VBN DT NN , WP PRP MD VB VBZ DT NN WDT VBZ NN IN NN .</POS>
+		<Lemma>if you have never use a netbook , what you should expect be a machine that sacrifice performance for portability .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The processor and RAM is a year or two behind what you 'd find in a regular , full-size laptop .</Tokens>
+		<POS>DT NN CC NNP VBZ DT NN CC CD IN WP PRP MD VB IN DT JJ , JJ NN .</POS>
+		<Lemma>the processor and RAM be a year or two behind what you would find in a regular , full-size laptop .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The keyboard is on the small side .</Tokens>
+		<POS>DT NN VBZ IN DT JJ NN .</POS>
+		<Lemma>the keyboard be on the small side .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>There 's no GPU .</Tokens>
+		<POS>EX VBZ DT NNP .</POS>
+		<Lemma>there be no GPU .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There 's no optical drive .</Tokens>
+		<POS>EX VBZ DT JJ NN .</POS>
+		<Lemma>there be no optical drive .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It 's a barebones machine .</Tokens>
+		<POS>PRP VBZ DT JJ NN .</POS>
+		<Lemma>it be a barebones machine .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>What 's surprising though , is that even with those basic components , the netbook still works smoothly .</Tokens>
+		<POS>WP VBZ JJ IN , VBZ IN RB IN DT JJ NNS , DT NN RB VBZ RB .</POS>
+		<Lemma>what be surprising though , be that even with those basic component , the netbook still work smoothly .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>You 're not going to be able to play the latest games on this , but for web browsing , email , playing music , word processing and so on , it 's perfectly fine .</Tokens>
+		<POS>PRP VBP RB VBG TO VB JJ TO VB DT JJS NNS IN DT , CC IN NN NN , NN , VBG NN , NN NN CC RB IN , PRP VBZ RB JJ .</POS>
+		<Lemma>you be not go to be able to play the latest game on this , but for web browsing , email , play music , word processing and so on , it be perfectly fine .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>When my main laptop died on me a few weeks back , I was able to do all my work-related stuff on the Acer Aspire .</Tokens>
+		<POS>WRB PRP$ JJ NN VBD IN PRP DT JJ NNS RB , PRP VBD JJ TO VB DT PRP$ JJ NN IN DT NNP NNP .</POS>
+		<Lemma>when my main laptop die on I a few week back , I be able to do all my work-related stuff on the Acer Aspire .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Couple of browser windows , an Excel spreadsheet , and iTunes playing in the background - no sweat .</Tokens>
+		<POS>NN IN NN NNS , DT NNP NN , CC NNP VBG IN DT NN : DT NN .</POS>
+		<Lemma>couple of browser window , a Excel spreadsheet , and iTunes play in the background - no sweat .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Sure , it 's not ideal because the screen and keyboard are smaller than what I prefer to work on 8-10 hours a day , but it was better than nothing .</Tokens>
+		<POS>RB , PRP VBZ RB JJ IN DT NN CC NN VBP JJR IN WP PRP VBP TO VB IN CD NNS DT NN , CC PRP VBD JJR IN NN .</POS>
+		<Lemma>sure , it be not ideal because the screen and keyboard be smaller than what I prefer to work on 8-10 hour a day , but it be better than nothing .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The battery life is excellent , probably because the screen is so tiny .</Tokens>
+		<POS>DT NN NN VBZ JJ , RB IN DT NN VBZ RB JJ .</POS>
+		<Lemma>the battery life be excellent , probably because the screen be so tiny .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>If you manage the screen brightness appropriately -LRB- do n't keep it at full brightness when you do n't need this -RRB- you can get a surprising amount of hours out of this battery .</Tokens>
+		<POS>IN PRP VBP DT NN NN RB -LRB- VBP RB VB PRP IN JJ NN WRB PRP VBP RB VB DT -RRB- PRP MD VB DT JJ NN IN NNS IN IN DT NN .</POS>
+		<Lemma>if you manage the screen brightness appropriately -lrb- do not keep it at full brightness when you do not need this -rrb- you can get a surprising amount of hour out of this battery .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Maybe most importantly , the price is very attractive .</Tokens>
+		<POS>RB RBS RB , DT NN VBZ RB JJ .</POS>
+		<Lemma>maybe most importantly , the price be very attractive .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I 've purchased phones that are more expensive , but instead of a phone you get a fully functional computer .</Tokens>
+		<POS>PRP VBP VBN NNS WDT VBP RBR JJ , CC RB IN DT NN PRP VBP DT RB JJ NN .</POS>
+		<Lemma>I have purchase phone that be more expensive , but instead of a phone you get a fully functional computer .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Sure , the newer `` ultrabook '' models -LRB- very thin laptops , think MacBook Air etc. -RRB- look way more stylish , but this chunky little netbook works perfectly fine , at a fraction of the price .</Tokens>
+		<POS>RB , DT JJR `` NN '' NNS -LRB- RB JJ NNS , VBP NNP NNP NN -RRB- VBP NN RBR JJ , CC DT JJ JJ NN VBZ RB JJ , IN DT NN IN DT NN .</POS>
+		<Lemma>sure , the newer `` ultrabook '' model -lrb- very thin laptop , think MacBook Air etc. -rrb- look way more stylish , but this chunky little netbook work perfectly fine , at a fraction of the price .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>My only advice , no , my strong recommendation would be to spend $ 20 and buying a memory upgrade .</Tokens>
+		<POS>PRP$ JJ NN , DT , PRP$ JJ NN MD VB TO VB $ CD CC VBG DT NN NN .</POS>
+		<Lemma>my only advice , no , my strong recommendation would be to spend $ 20 and buy a memory upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>An additional 2GB memory stick will improve this machine 's performance dramatically .</Tokens>
+		<POS>DT JJ NN NN NN MD VB DT NN POS NN RB .</POS>
+		<Lemma>a additional 2gb memory stick will improve this machine 's performance dramatically .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Believe me .</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>believe I .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>If you 're spending a few hundred bucks on this anyway , go the extra $ 20 , especially if you 're planning to have a few applications running at the same time .</Tokens>
+		<POS>IN PRP VBP VBG DT JJ CD NNS IN DT RB , VB DT JJ $ CD , RB IN PRP VBP VBG TO VB DT JJ NNS VBG IN DT JJ NN .</POS>
+		<Lemma>if you be spend a few hundred buck on this anyway , go the extra $ 20 , especially if you be plan to have a few application run at the same time .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Bottom line : as your only computer , this wo n't work , but as an extra little laptop to have around for on the couch or on the go , it 's perfect .</Tokens>
+		<POS>NN NN : IN PRP$ JJ NN , DT MD RB VB , CC IN DT JJ JJ NN TO VB RP IN IN DT NN CC IN DT NN , PRP VBZ JJ .</POS>
+		<Lemma>bottom line : as you only computer , this will not work , but as a extra little laptop to have around for on the couch or on the go , it be perfect .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>I got so used to having this thing around that , if mine broke today , I 'd probably buy the exact same model as a replacement on the same day .</Tokens>
+		<POS>PRP VBD RB VBN TO VBG DT NN IN DT , IN PRP VBD NN , PRP MD RB VB DT JJ JJ NN IN DT NN IN DT JJ NN .</POS>
+		<Lemma>I get so use to have this thing around that , if mine break today , I would probably buy the exact same model as a replacement on the same day .</Lemma>
+	</Sentence>
+</Document>

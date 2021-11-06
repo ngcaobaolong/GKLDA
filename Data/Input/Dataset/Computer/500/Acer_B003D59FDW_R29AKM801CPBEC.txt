@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Acer monitor is an outstanding uit and has been a pleasure to use more tha eight hours each day in my business .</Tokens>
+		<POS>DT NNP NN VBZ DT JJ NN CC VBZ VBN DT NN TO VB JJR NN CD NNS DT NN IN PRP$ NN .</POS>
+		<Lemma>the Acer monitor be a outstanding uit and have be a pleasure to use more tha eight hour each day in my business .</Lemma>
+	</Sentence>
+</Document>

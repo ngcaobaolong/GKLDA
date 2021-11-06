@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you 're looking for a product while on the bike for fueling and have had stomach issues digesting those nasty gels , this is the product to get .</Tokens>
+		<POS>IN PRP VBP VBG IN DT NN IN IN DT NN IN NN CC VBP VBN NN NNS VBG DT JJ NNS , DT VBZ DT NN TO VB .</POS>
+		<Lemma>if you be look for a product while on the bike for fueling and have have stomach issue digest those nasty gel , this be the product to get .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It works quite well , has no crash , and no stomach upset issues that the gels cause some people .</Tokens>
+		<POS>PRP VBZ RB RB , VBZ DT NN , CC DT NN JJ NNS IN DT NNS VBP DT NNS .</POS>
+		<Lemma>it work quite well , have no crash , and no stomach upset issue that the gel cause some people .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love the product , the packaging is a little tricky to open while riding but you 'll get the hang of it , and add these as a supplement for long distance rides .</Tokens>
+		<POS>PRP VBP DT NN , DT NN VBZ DT JJ JJ TO VB IN VBG CC PRP MD VB DT VB IN PRP , CC VB DT IN DT NN IN JJ NN NNS .</POS>
+		<Lemma>I love the product , the packaging be a little tricky to open while ride but you 'll get the hang of it , and add these as a supplement for long distance ride .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I use these , peanut butter cracker sandwiches , and thin tortillas with PB&J inside .</Tokens>
+		<POS>PRP VBP DT , NN NN NN NNS , CC JJ NNS IN NN IN .</POS>
+		<Lemma>I use these , peanut butter cracker sandwich , and thin tortilla with pb&j inside .</Lemma>
+	</Sentence>
+</Document>

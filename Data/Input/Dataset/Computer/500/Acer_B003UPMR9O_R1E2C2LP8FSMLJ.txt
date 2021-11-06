@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just purchased this monitor two days ago .</Tokens>
+		<POS>PRP RB VBD DT NN CD NNS RB .</POS>
+		<Lemma>I just purchase this monitor two day ago .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It arrived today -LRB- ground -RRB- very fast shipping to the Minnesota .</Tokens>
+		<POS>PRP VBD NN -LRB- NN -RRB- RB JJ NN TO DT NNP .</POS>
+		<Lemma>it arrive today -lrb- ground -rrb- very fast shipping to the Minnesota .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>What can I say , it works like a monitor should .</Tokens>
+		<POS>WDT MD PRP VB , PRP VBZ IN DT NN MD .</POS>
+		<Lemma>what can I say , it work like a monitor should .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>And its very sleek .</Tokens>
+		<POS>CC PRP$ RB JJ .</POS>
+		<Lemma>and its very sleek .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this camera and the book Photographer 's Guide to the Canon PowerShot S100 and love it .</Tokens>
+		<POS>VBN DT NN CC DT NN NN POS NNP TO DT NNP NNP NN CC VBP PRP .</POS>
+		<Lemma>buy this camera and the book photographer 's Guide to the Canon PowerShot s100 and love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>camera is easy to use and the book is very helpful in walking you through the various functions on this camera .</Tokens>
+		<POS>NN VBZ JJ TO VB CC DT NN VBZ RB JJ IN VBG PRP IN DT JJ NNS IN DT NN .</POS>
+		<Lemma>camera be easy to use and the book be very helpful in walk you through the various function on this camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My photos are already miles ahead of my old point and shoot camera .</Tokens>
+		<POS>PRP$ NNS VBP RB NNS RB IN PRP$ JJ NN CC VB NN .</POS>
+		<Lemma>my photo be already mile ahead of my old point and shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Would recommend this to anyone before stepping of to something intimidating like a DSLR .</Tokens>
+		<POS>MD VB DT TO NN IN VBG IN TO NN VBG IN DT NN .</POS>
+		<Lemma>would recommend this to anyone before step of to something intimidate like a dslr .</Lemma>
+	</Sentence>
+</Document>

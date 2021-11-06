@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Transformer : Excellent idea .</Tokens>
+		<POS>NN : JJ NN .</POS>
+		<Lemma>transformer : excellent idea .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Ability to charge with wall , battery , or in the car , very versatile .</Tokens>
+		<POS>NN TO VB IN NN , NN , CC IN DT NN , RB JJ .</POS>
+		<Lemma>ability to charge with wall , battery , or in the car , very versatile .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>However , the battery connections to the 9volt is not always solid , and neither are the AA connections .</Tokens>
+		<POS>RB , DT NN NNS TO DT NN VBZ RB RB JJ , CC DT VBP DT NN NNS .</POS>
+		<Lemma>however , the battery connection to the 9volt be not always solid , and neither be the aa connection .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I have to check the connections often to make sure it really is charging .</Tokens>
+		<POS>PRP VBP TO VB DT NNS RB TO VB JJ PRP RB VBZ VBG .</POS>
+		<Lemma>I have to check the connection often to make sure it really be charge .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Once I left it alone , trusting it is charging , only to be frustrated an hour later because the battery completely died - the USB connections are sometimes loose .</Tokens>
+		<POS>RB PRP VBD PRP RB , VBG PRP VBZ VBG , RB TO VB VBN DT NN RB IN DT NN RB VBD : DT JJ NNS VBP RB JJ .</POS>
+		<Lemma>once I leave it alone , trust it be charge , only to be frustrate a hour later because the battery completely die - the usb connection be sometimes loose .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Overall , for the price and the quick shipping I think it 's definitely worth the price .</Tokens>
+		<POS>RB , IN DT NN CC DT JJ NN PRP VBP PRP VBZ RB JJ DT NN .</POS>
+		<Lemma>overall , for the price and the quick shipping I think it be definitely worth the price .</Lemma>
+	</Sentence>
+</Document>

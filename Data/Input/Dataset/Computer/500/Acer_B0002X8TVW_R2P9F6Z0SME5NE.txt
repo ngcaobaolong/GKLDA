@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this monitor for about a month now .</Tokens>
+		<POS>PRP VBP VBD DT NN IN IN DT NN RB .</POS>
+		<Lemma>I have have this monitor for about a month now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The screen is huge !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>the screen be huge !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 'm a college student and I thought I would invest into something that will grow with me .</Tokens>
+		<POS>PRP VBP DT NN NN CC PRP VBD PRP MD VB IN NN WDT MD VB IN PRP .</POS>
+		<Lemma>I be a college student and I think I would invest into something that will grow with I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Who knows where LCDs will be in 2 years !?</Tokens>
+		<POS>WP VBZ WRB NNS MD VB IN CD NNS IN</POS>
+		<Lemma>who know where lcd will be in 2 year !?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But all I can say is that for this price , you can not go wrong .</Tokens>
+		<POS>CC DT PRP MD VB VBZ IN IN DT NN , PRP MD RB VB JJ .</POS>
+		<Lemma>but all I can say be that for this price , you can not go wrong .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Good product backed by a flexible warranty .</Tokens>
+		<POS>JJ NN VBN IN DT JJ NN .</POS>
+		<Lemma>good product back by a flexible warranty .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you like watching movies ... pull up a few chairs and be amazed !</Tokens>
+		<POS>IN PRP IN VBG NNS : VB RP DT JJ NNS CC VB VBN .</POS>
+		<Lemma>if you like watch movie ... pull up a few chair and be amaze !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn tastes very good coming out of my Presto air popper .</Tokens>
+		<POS>DT NN VBZ RB JJ VBG IN IN PRP$ NNP NN NN .</POS>
+		<Lemma>this popcorn taste very good come out of my Presto air popper .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would see at least 99 % of kernels pop every time .</Tokens>
+		<POS>PRP MD VB IN JJS CD NN IN NNS VBP DT NN .</POS>
+		<Lemma>I would see at least 99 % of kernel pop every time .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is the only brand I 've tried but I have no reason to switch .</Tokens>
+		<POS>DT VBZ DT JJ NN PRP VBP VBN CC PRP VBP DT NN TO VB .</POS>
+		<Lemma>this be the only brand I have try but I have no reason to switch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>12.5 pounds is a lot of popcorn , dozens of bowls full , so this is a great value .</Tokens>
+		<POS>CD NNS VBZ DT NN IN NN , NNS IN VBZ JJ , RB DT VBZ DT JJ NN .</POS>
+		<Lemma>12.5 pound be a lot of popcorn , dozen of bowl full , so this be a great value .</Lemma>
+	</Sentence>
+</Document>

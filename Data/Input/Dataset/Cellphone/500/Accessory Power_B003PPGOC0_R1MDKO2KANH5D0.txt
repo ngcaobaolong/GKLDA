@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The device is very easy to use once you get your Bluetooth device linked for the first time .</Tokens>
+		<POS>DT NN VBZ RB JJ TO VB RB PRP VB PRP$ NN NN VBN IN DT JJ NN .</POS>
+		<Lemma>the device be very easy to use once you get you bluetooth device link for the first time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The product does everything it advertises and does it well .</Tokens>
+		<POS>DT NN VBZ NN PRP VBZ CC VBZ PRP RB .</POS>
+		<Lemma>the product do everything it advertise and do it well .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've had two wired FM transmitters before this one , and neither gave the clarity and maintains the volume like this device does .</Tokens>
+		<POS>PRP VBP VBD CD VBD NNP NNS IN DT CD , CC DT VBD DT NN CC VBZ DT NN IN DT NN VBZ .</POS>
+		<Lemma>I have have two wire FM transmitter before this one , and neither give the clarity and maintain the volume like this device do .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very pleased .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very pleased .</Lemma>
+	</Sentence>
+</Document>

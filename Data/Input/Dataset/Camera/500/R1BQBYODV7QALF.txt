@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>ease to use , but video have leg all the time when play in computer , play in video camera will be fine .</Tokens>
+		<POS>NN TO VB , CC NN VBP NN PDT DT NN WRB NN IN NN , NN IN NN NN MD VB JJ .</POS>
+		<Lemma>ease to use , but video have leg all the time when play in computer , play in video camera will be fine .</Lemma>
+	</Sentence>
+</Document>

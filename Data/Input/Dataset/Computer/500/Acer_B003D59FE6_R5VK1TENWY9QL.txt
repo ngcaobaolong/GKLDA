@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have four of these on a tester at work .</Tokens>
+		<POS>PRP VBP CD IN DT IN DT NN IN NN .</POS>
+		<Lemma>I have four of these on a tester at work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've been using them about 18 hours a day for the last year and a half and I 've been completely satisfied with them .</Tokens>
+		<POS>PRP VBP VBN VBG PRP IN CD NNS DT NN IN DT JJ NN CC DT NN CC PRP VBP VBN RB VBN IN PRP .</POS>
+		<Lemma>I have be use they about 18 hour a day for the last year and a half and I have be completely satisfy with they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Are they as good as the $ 300 + Dell on my desk ?</Tokens>
+		<POS>VBP PRP RB JJ IN DT $ CD CC NNP IN PRP$ NN .</POS>
+		<Lemma>be they as good as the $ 300 + Dell on my desk ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No , but they cost about a third as much and are n't THAT much different .</Tokens>
+		<POS>DT , CC PRP VBP IN DT JJ RB JJ CC VBP RB WDT RB JJ .</POS>
+		<Lemma>no , but they cost about a third as much and be not that much different .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I detest widescreen monitors for computing .</Tokens>
+		<POS>PRP VBP JJ NNS IN NN .</POS>
+		<Lemma>I detest widescreen monitor for computing .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>They 're great for TV and movies , but for real work , give me the old 4:3 aspect ratio any day .</Tokens>
+		<POS>PRP VBP JJ IN NN CC NNS , CC IN JJ NN , VB PRP DT JJ CD NN NN DT NN .</POS>
+		<Lemma>they be great for tv and movie , but for real work , give I the old 4:3 aspect ratio any day .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Trouble is , the world has gone BS-crazy for widescreen and I fear that it wo n't be long until you ca n't get the regular ones anymore .</Tokens>
+		<POS>NN VBZ , DT NN VBZ VBN JJ IN NN CC PRP VBP IN PRP MD RB VB RB IN PRP MD RB VB DT JJ NNS RB .</POS>
+		<Lemma>trouble be , the world have go bs-crazy for widescreen and I fear that it will not be long until you can not get the regular one anymore .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>So I 'm getting me another Acer V193 for my rec-room computer while I can .</Tokens>
+		<POS>IN PRP VBP VBG PRP DT NNP NN IN PRP$ JJ NN IN PRP MD .</POS>
+		<Lemma>so I be get I another Acer v193 for my rec-room computer while I can .</Lemma>
+	</Sentence>
+</Document>

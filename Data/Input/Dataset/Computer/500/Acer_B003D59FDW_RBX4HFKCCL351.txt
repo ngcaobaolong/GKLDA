@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor for school in order to have a duel screen with my macbook .</Tokens>
+		<POS>PRP VBD DT NN IN NN IN NN TO VB DT NN NN IN PRP$ NN .</POS>
+		<Lemma>I buy this monitor for school in order to have a duel screen with my macbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is a great and reliable monitor and it is very easy to adjust the picture size and quality .</Tokens>
+		<POS>DT VBZ DT JJ CC JJ NN CC PRP VBZ RB JJ TO VB DT NN NN CC NN .</POS>
+		<Lemma>this be a great and reliable monitor and it be very easy to adjust the picture size and quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The previous reviews regarding the adjustability of the stand is over exaggerated .</Tokens>
+		<POS>DT JJ NNS VBG DT NN IN DT NN VBZ IN JJ .</POS>
+		<Lemma>the previous review regard the adjustability of the stand be over exaggerated .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can just hold the top of the monitor with one hand and the bottom with the other other hand to tilt it down .</Tokens>
+		<POS>PRP MD RB VB DT NN IN DT NN IN CD NN CC DT NN IN DT JJ JJ NN TO VB PRP RP .</POS>
+		<Lemma>you can just hold the top of the monitor with one hand and the bottom with the other other hand to tilt it down .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It 's not too difficult to handle the monitor .</Tokens>
+		<POS>PRP VBZ RB RB JJ TO VB DT NN .</POS>
+		<Lemma>it be not too difficult to handle the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The size is perfect as well as I use it to watch movies and tv shows in my room .</Tokens>
+		<POS>DT NN VBZ JJ RB RB IN PRP VBP PRP TO VB NNS CC NN NNS IN PRP$ NN .</POS>
+		<Lemma>the size be perfect as well as I use it to watch movie and tv show in my room .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I do n't have a tv in my room and it 's a good inexpensive replacement for a new tv .</Tokens>
+		<POS>PRP VBP RB VB DT NN IN PRP$ NN CC PRP VBZ DT JJ JJ NN IN DT JJ NN .</POS>
+		<Lemma>I do not have a tv in my room and it be a good inexpensive replacement for a new tv .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The only negative comment I have is that whenever I unplug the chord between my macbook and the monitor to disable the duel screen capability , the colors are off .</Tokens>
+		<POS>DT JJ JJ NN PRP VBP VBZ IN WRB PRP VBP DT NN IN PRP$ NN CC DT NN TO VB DT NN NN NN , DT NNS VBP RB .</POS>
+		<Lemma>the only negative comment I have be that whenever I unplug the chord between my macbook and the monitor to disable the duel screen capability , the color be off .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>All the colors seem to go towards a gray color .</Tokens>
+		<POS>PDT DT NNS VBP TO VB IN DT JJ NN .</POS>
+		<Lemma>all the color seem to go towards a gray color .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I have to restart my computer to go back to the original colors .</Tokens>
+		<POS>PRP VBP TO VB PRP$ NN TO VB RB TO DT JJ NNS .</POS>
+		<Lemma>I have to restart my computer to go back to the original color .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>This is why I only give it 4 stars .</Tokens>
+		<POS>DT VBZ WRB PRP RB VBP PRP CD NNS .</POS>
+		<Lemma>this be why I only give it 4 star .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Besides that , the color -LRB- when working properly -RRB- is great , size is n't too big and is great on a desk .</Tokens>
+		<POS>IN DT , DT NN -LRB- WRB VBG RB -RRB- VBZ JJ , NN VBZ RB RB JJ CC VBZ JJ IN DT NN .</POS>
+		<Lemma>besides that , the color -lrb- when work properly -rrb- be great , size be not too big and be great on a desk .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>This is a great buy .</Tokens>
+		<POS>DT VBZ DT JJ NN .</POS>
+		<Lemma>this be a great buy .</Lemma>
+	</Sentence>
+</Document>

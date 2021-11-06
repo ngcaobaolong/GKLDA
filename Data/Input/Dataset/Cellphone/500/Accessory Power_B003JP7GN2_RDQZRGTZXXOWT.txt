@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased the <a href="http://www.amazon.com/gp/product/B003H3JX96/ref=cm_cr_asin_lnk/183-1241972-2096531"> TRANS4M Compact 4-in-1 Dual USB Charger For Kindle , Kindle DX , Nook , Sony Reader Touch & Pocket , Kobo eReader , Alex eReader , and MORE CHARGES in Four Different Ways - AC \/ DC \/ AA \/ 9V </a> charger for the multi-use design it has .</Tokens>
+		<POS>VBN DT NN NN NN NN JJ JJ NN IN NNP , NNP NNP , NNP , NNP NNP NNP CC NNP , NNP NNP , NNP NNP , CC JJR NNS IN CD JJ NNP : NN : NN : NN : NN NN NN IN DT JJ NN PRP VBZ .</POS>
+		<Lemma>purchase the <a href="http://www.amazon.com/gp/product/b003h3jx96/ref=cm_cr_asin_lnk/183-1241972-2096531"> trans4m compact 4-in-1 dual usb charger for Kindle , Kindle DX , Nook , Sony Reader Touch & Pocket , Kobo eReader , Alex eReader , and more charge in four different Ways - ac \/ dc \/ aa \/ 9v </a> charger for the multi-use design it have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is compact like a regular car charger , but offers the convenience of so much more .</Tokens>
+		<POS>PRP VBZ JJ IN DT JJ NN NN , CC VBZ DT NN IN RB RB RBR .</POS>
+		<Lemma>it be compact like a regular car charger , but offer the convenience of so much more .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It does and can be used as described in the product description .</Tokens>
+		<POS>PRP VBZ CC MD VB VBN IN VBN IN DT NN NN .</POS>
+		<Lemma>it do and can be use as describe in the product description .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Tried it as soon as I received it to charge up an HTC EVO Shift and you could see the charge taking place and it charged in no time .</Tokens>
+		<POS>VBD PRP RB RB IN PRP VBD PRP TO VB RP DT NNP NNP NN CC PRP MD VB DT NN VBG NN CC PRP VBD IN DT NN .</POS>
+		<Lemma>try it as soon as I receive it to charge up a HTC EVO shift and you could see the charge take place and it charge in no time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Purchased it for traveling and also due to power outages a lot in my area .</Tokens>
+		<POS>VBN PRP IN VBG CC RB JJ TO NN NNS DT NN IN PRP$ NN .</POS>
+		<Lemma>purchase it for travel and also due to power outage a lot in my area .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Well I wo n't be caught without power for my phone , Ipod and other usb items that can use the power conversion of this small wonder .</Tokens>
+		<POS>UH PRP MD RB VB VBN IN NN IN PRP$ NN , NN CC JJ NN NNS WDT MD VB DT NN NN IN DT JJ NN .</POS>
+		<Lemma>well I will not be catch without power for my phone , ipod and other usb item that can use the power conversion of this small wonder .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Will even be using it for the ac connection instead of carrying multiple adapters .</Tokens>
+		<POS>MD RB VB VBG PRP IN DT NN NN RB IN VBG JJ NNS .</POS>
+		<Lemma>will even be use it for the ac connection instead of carry multiple adapter .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The delivery of my item was fast from Accessory Genie @ Amazon Marketplace .</Tokens>
+		<POS>DT NN IN PRP$ NN VBD RB IN NNP NNP IN NNP NNP .</POS>
+		<Lemma>the delivery of my item be fast from Accessory Genie @ Amazon Marketplace .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It came packaged in a retail package -LRB- but not the retail price -RRB- , all items included as described along with instructions on use .</Tokens>
+		<POS>PRP VBD VBN IN DT JJ NN -LRB- CC RB DT JJ NN -RRB- , DT NNS VBD IN VBN IN IN NNS IN NN .</POS>
+		<Lemma>it come package in a retail package -lrb- but not the retail price -rrb- , all item include as describe along with instruction on use .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Will definitely recommend to others for purchasing from Accessory Genie , ca n't beat the price they offer .</Tokens>
+		<POS>MD RB VB TO NNS IN VBG IN NNP NNP , MD RB VB DT NN PRP VBP .</POS>
+		<Lemma>will definitely recommend to other for purchase from Accessory Genie , can not beat the price they offer .</Lemma>
+	</Sentence>
+</Document>

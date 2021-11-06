@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I received the `` Sony Cyber-Shot DSC-H70 '' without : user 's guide , manuals , battery charger , data cable , etc. .</Tokens>
+		<POS>PRP VBD DT `` NNP NNP NNP '' IN : NN POS NN , NNS , NN NN , NNS NN , FW .</POS>
+		<Lemma>I receive the `` Sony Cyber-Shot DSC-H70 '' without : user 's guide , manual , battery charger , datum cable , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>\*\* What 's in the Box : digital camera and baterry .</Tokens>
+		<POS>SYM WP VBZ IN DT NNP : JJ NN CC NN .</POS>
+		<Lemma>\*\* what be in the Box : digital camera and baterry .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Only !</Tokens>
+		<POS>RB .</POS>
+		<Lemma>only !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So ... I 'm very disappointed !</Tokens>
+		<POS>RB : PRP VBP RB JJ .</POS>
+		<Lemma>so ... I be very disappointed !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>: -LRB-</Tokens>
+		<POS>: -LRB-</POS>
+		<Lemma>: -lrb-</Lemma>
+	</Sentence>
+</Document>

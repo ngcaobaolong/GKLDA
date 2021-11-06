@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A very poor excuse for a digital camera .</Tokens>
+		<POS>DT RB JJ NN IN DT JJ NN .</POS>
+		<Lemma>a very poor excuse for a digital camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The ease of using this camera is in question and the quality of the pictures leaves a lot to be desired .</Tokens>
+		<POS>DT NN IN VBG DT NN VBZ IN NN CC DT NN IN DT NNS VBZ DT NN TO VB VBN .</POS>
+		<Lemma>the ease of use this camera be in question and the quality of the picture leave a lot to be desire .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have an older Easy Share that was wonderful , but this one just does n't make the grade .</Tokens>
+		<POS>PRP VBP DT JJR NNP NN WDT VBD JJ , CC DT CD RB VBZ RB VB DT NN .</POS>
+		<Lemma>I have a older Easy share that be wonderful , but this one just do not make the grade .</Lemma>
+	</Sentence>
+</Document>

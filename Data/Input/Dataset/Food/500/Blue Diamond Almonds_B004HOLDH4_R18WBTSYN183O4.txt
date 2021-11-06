@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought Blue Diamond Natural Chocolate almonds before & 100 % Natural almonds it was good but this one made me feel sick i only eat 10 for the day & i dont know if it 's the salt or something else with this but i have to throw this away .</Tokens>
+		<POS>PRP VBD NNP NNP NNP NNP NNS IN CC CD NN JJ NNS PRP VBD JJ CC DT CD VBD PRP VB JJ FW RB VB CD IN DT NN CC FW FW VBP IN PRP VBZ DT NN CC NN RB IN DT CC FW VBP TO VB DT RB .</POS>
+		<Lemma>I buy Blue Diamond Natural Chocolate almond before & 100 % natural almond it be good but this one make I feel sick i only eat 10 for the day & i dont know if it be the salt or something else with this but i have to throw this away .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i cant even move to workout im hoping i can sleep this off .</Tokens>
+		<POS>FW FW RB VB TO NN NN VBG FW MD VB DT RP .</POS>
+		<Lemma>i cant even move to workout im hope i can sleep this off .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>but i guess im the 1 in 1 million that this happens to .</Tokens>
+		<POS>CC FW NN VBP DT CD IN CD CD IN DT VBZ TO .</POS>
+		<Lemma>but i guess im the 1 in 1 million that this happen to .</Lemma>
+	</Sentence>
+</Document>

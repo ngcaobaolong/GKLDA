@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I think so highly of this product that I 'm writing my first ever Amazon review of it .</Tokens>
+		<POS>PRP VBP RB RB IN DT NN IN PRP VBP VBG PRP$ JJ RB NNP NN IN PRP .</POS>
+		<Lemma>I think so highly of this product that I be write my first ever Amazon review of it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The GoGroove is the answer to all of the issues I had with all chargers\/music players that I 've had before .</Tokens>
+		<POS>DT NNP VBZ DT NN TO DT IN DT NNS PRP VBD IN DT JJ NNS IN PRP VBP VBN RB .</POS>
+		<Lemma>the GoGroove be the answer to all of the issue I have with all chargers\/music player that I have have before .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>1 -RRB- It 's only $ 50 , which is a steal relative to many of the other solutions on the market .</Tokens>
+		<POS>LS -RRB- PRP VBZ RB $ CD , WDT VBZ DT VB JJ TO JJ IN DT JJ NNS IN DT NN .</POS>
+		<Lemma>1 -rrb- it be only $ 50 , which be a steal relative to many of the other solution on the market .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>2 -RRB- Aesthetically , it 's clean and looks high end .</Tokens>
+		<POS>LS -RRB- RB , PRP VBZ JJ CC VBZ JJ NN .</POS>
+		<Lemma>2 -rrb- aesthetically , it be clean and look high end .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>3 -RRB- It 's well built , does n't feel cheap , and the adjustable neck actually stays in the position you want it in , regardless of whether you hit bumpy road .</Tokens>
+		<POS>LS -RRB- PRP VBZ RB VBN , VBZ RB VB JJ , CC DT JJ NN RB VBZ IN DT NN PRP VBP PRP IN , RB IN IN PRP VBP JJ NN .</POS>
+		<Lemma>3 -rrb- it be well build , do not feel cheap , and the adjustable neck actually stay in the position you want it in , regardless of whether you hit bumpy road .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Not the case with all of the others I 've had .</Tokens>
+		<POS>RB DT NN IN DT IN DT NNS PRP VBP VBN .</POS>
+		<Lemma>not the case with all of the other I have have .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>4 -RRB- A baboon could set it up .</Tokens>
+		<POS>LS -RRB- DT NN MD VB PRP RP .</POS>
+		<Lemma>4 -rrb- a baboon could set it up .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>5 -RRB- Pairs with the iPhone 4 , no problem , and does it quickly once you 're in the car .</Tokens>
+		<POS>LS -RRB- NNPS IN DT NNP CD , DT NN , CC VBZ PRP RB RB PRP VBP IN DT NN .</POS>
+		<Lemma>5 -rrb- Pairs with the iPhone 4 , no problem , and do it quickly once you be in the car .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>6 -RRB- Call quality is awesome .</Tokens>
+		<POS>CD -RRB- VB NN VBZ JJ .</POS>
+		<Lemma>6 -rrb- call quality be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Nobody has complained about not being able to hear me clearly .</Tokens>
+		<POS>NN VBZ VBN IN RB VBG JJ TO VB PRP RB .</POS>
+		<Lemma>nobody have complain about not be able to hear I clearly .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The bluetooth works fantastic and I actually look forward to making calls in the car .</Tokens>
+		<POS>DT NN VBZ JJ CC PRP RB VBP RB TO VBG NNS IN DT NN .</POS>
+		<Lemma>the bluetooth work fantastic and I actually look forward to make call in the car .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>7 -RRB- I have a 3.5 mm jack in my car , so I 'm able to run the sound directly through the aux input on the GoGroove , and then out directly to the car .</Tokens>
+		<POS>CD -RRB- PRP VBP DT CD NN NN IN PRP$ NN , IN PRP VBP JJ TO VB DT NN RB IN DT FW NN IN DT NNP , CC RB IN RB TO DT NN .</POS>
+		<Lemma>7 -rrb- I have a 3.5 mm jack in my car , so I be able to run the sound directly through the aux input on the GoGroove , and then out directly to the car .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It 's great that they included the aux in\/out .</Tokens>
+		<POS>PRP VBZ JJ IN PRP VBD DT FW FW .</POS>
+		<Lemma>it be great that they include the aux in\/out .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Sound quality is great .</Tokens>
+		<POS>JJ NN VBZ JJ .</POS>
+		<Lemma>sound quality be great .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>8 -RRB- It comes with all of the cords you 'd need .</Tokens>
+		<POS>CD -RRB- PRP VBZ IN DT IN DT NNS PRP MD VB .</POS>
+		<Lemma>8 -rrb- it come with all of the cord you would need .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I could n't be any happier with the GoGroove .</Tokens>
+		<POS>PRP MD RB VB DT JJR IN DT NNP .</POS>
+		<Lemma>I could not be any happier with the GoGroove .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Buy it .</Tokens>
+		<POS>VB PRP .</POS>
+		<Lemma>buy it .</Lemma>
+	</Sentence>
+</Document>

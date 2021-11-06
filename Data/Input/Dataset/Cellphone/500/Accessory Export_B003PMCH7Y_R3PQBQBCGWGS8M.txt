@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've had this for about six months I 'd guess ?</Tokens>
+		<POS>PRP VBP VBD DT IN RB CD NNS PRP MD VB .</POS>
+		<Lemma>I have have this for about six month I would guess ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am rough on things , which is why I wanted a cheap car charging solution .</Tokens>
+		<POS>PRP VBP JJ IN NNS , WDT VBZ WRB PRP VBD DT JJ NN VBG NN .</POS>
+		<Lemma>I be rough on thing , which be why I want a cheap car charge solution .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But much to my surprise this thing has held up against me - which is a feat with in its self .</Tokens>
+		<POS>CC JJ TO PRP$ NN DT NN VBZ VBN RP IN PRP : WDT VBZ DT NN IN IN PRP$ NN .</POS>
+		<Lemma>but much to my surprise this thing have hold up against I - which be a feat with in its self .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very happy .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very happy .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I 've recommended this charger to several people .</Tokens>
+		<POS>PRP VBP VBN DT NN TO JJ NNS .</POS>
+		<Lemma>I have recommend this charger to several people .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>We 've all been happy with it .</Tokens>
+		<POS>PRP VBP RB VBN JJ IN PRP .</POS>
+		<Lemma>we have all be happy with it .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was n't expecting anything from this product and it really did n't do much for me .</Tokens>
+		<POS>PRP VBD RB VBG NN IN DT NN CC PRP RB VBD RB VB RB IN PRP .</POS>
+		<Lemma>I be not expect anything from this product and it really do not do much for I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I gave one to my dad , though , and he said it has helped him a lot in weak signal areas .</Tokens>
+		<POS>PRP VBD CD TO PRP$ NN , RB , CC PRP VBD PRP VBZ VBN PRP DT NN IN JJ NN NNS .</POS>
+		<Lemma>I give one to my dad , though , and he say it have help he a lot in weak signal area .</Lemma>
+	</Sentence>
+</Document>

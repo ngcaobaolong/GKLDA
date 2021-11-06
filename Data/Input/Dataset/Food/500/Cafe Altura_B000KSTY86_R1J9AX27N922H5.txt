@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is some of the best coffee I 've ever had .</Tokens>
+		<POS>DT VBZ DT IN DT JJS NN PRP VBP RB VBN .</POS>
+		<Lemma>this be some of the best coffee I have ever have .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is rich yet balanced , full-flavored but has numerous subtle hints of `` je ne sais quoi '' .</Tokens>
+		<POS>PRP VBZ JJ RB JJ , JJ CC VBZ JJ JJ NNS IN `` NN NN FW FW '' .</POS>
+		<Lemma>it be rich yet balanced , full-flavored but have numerous subtle hint of `` je ne sais quoi '' .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I highly reccomend this to coffee affectionados .</Tokens>
+		<POS>PRP RB VBD DT TO NN NNS .</POS>
+		<Lemma>I highly reccomend this to coffee affectionado .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Great product .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product .</Lemma>
+	</Sentence>
+</Document>

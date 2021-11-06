@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The item came before the expected due date .</Tokens>
+		<POS>DT NN VBD IN DT VBN JJ NN .</POS>
+		<Lemma>the item come before the expect due date .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was pleased with how compact this item really is , several of my co-workers purchased a similar item for twice the amount .</Tokens>
+		<POS>PRP VBD VBN IN WRB JJ DT NN RB VBZ , JJ IN PRP$ NNS VBD DT JJ NN IN RB DT NN .</POS>
+		<Lemma>I be please with how compact this item really be , several of my co-worker purchase a similar item for twice the amount .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I would purchase from this vendor with no problem . ''</Tokens>
+		<POS>PRP MD VB IN DT NN IN DT NN . ''</POS>
+		<Lemma>I would purchase from this vendor with no problem . ''</Lemma>
+	</Sentence>
+</Document>

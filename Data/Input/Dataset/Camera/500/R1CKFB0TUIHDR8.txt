@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>There are too many expert opinions out there for me to be reviewing this camera in much detail , so I 'm going to talk about why I have rated it 5 stars on all parameters .</Tokens>
+		<POS>EX VBP RB JJ JJ NNS IN RB IN PRP TO VB VBG DT NN IN JJ NN , IN PRP VBP VBG TO VB IN WRB PRP VBP VBN PRP CD NNS IN DT NNS .</POS>
+		<Lemma>there be too many expert opinion out there for I to be review this camera in much detail , so I be go to talk about why I have rate it 5 star on all parameter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I take photos to make memories , capture moments .</Tokens>
+		<POS>PRP VBP NNS TO VB NNS , NN NNS .</POS>
+		<Lemma>I take photo to make memory , capture moment .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I hardly ever think of if this photo will be appreciated for the great photography skills employed while taking it .</Tokens>
+		<POS>PRP RB RB VB IN IN DT NN MD VB VBN IN DT JJ NN NNS VBN IN VBG PRP .</POS>
+		<Lemma>I hardly ever think of if this photo will be appreciate for the great photography skill employ while take it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I give due attn to the frame composition , the lighting , the shadows , etc. .</Tokens>
+		<POS>PRP VBP JJ NN TO DT NN NN , DT NN , DT NNS , FW .</POS>
+		<Lemma>I give due attn to the frame composition , the lighting , the shadow , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>but not too much time .</Tokens>
+		<POS>CC RB RB JJ NN .</POS>
+		<Lemma>but not too much time .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Instead with every click I let the camera fire 3 frames in varying exposures , so I get more picture options per click to choose from .</Tokens>
+		<POS>RB IN DT VBP PRP VB DT NN NN CD NNS IN VBG NNS , IN PRP VBP JJR NN NNS IN VBP TO VB IN .</POS>
+		<Lemma>instead with every click I let the camera fire 3 frame in vary exposure , so I get more picture option per click to choose from .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This camera allow me to set this very easily in various modes .</Tokens>
+		<POS>DT NN VB PRP TO VB DT RB RB IN JJ NNS .</POS>
+		<Lemma>this camera allow I to set this very easily in various mode .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Almost 7 out of 10 photos I take are people photos -LRB- either it 's me and my wife , of family or friends and so on -RRB- .</Tokens>
+		<POS>RB CD IN IN CD NNS PRP VBP VBP NNS NNS -LRB- CC PRP VBZ PRP CC PRP$ NN , IN NN CC NNS CC RB IN -RRB- .</POS>
+		<Lemma>almost 7 out of 10 photo I take be people photo -lrb- either it be I and my wife , of family or friend and so on -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This camera does a fantastic job of capturing faces and people even in situation with bad lighting -LRB- w\/o using flash -RRB- - like outdoor dinners , etc. .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN VBG NNS CC NNS RB IN NN IN JJ NN -LRB- NN VBG NN -RRB- : IN JJ NNS , FW .</POS>
+		<Lemma>this camera do a fantastic job of capture face and people even in situation with bad lighting -lrb- w\/o use flash -rrb- - like outdoor dinner , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The 270 degrees rotating LCD allows me to position the camera in odd positions without actually getting myself into odd positions and lying on ground , climbing chairs , etc. .</Tokens>
+		<POS>DT CD NNS VBG NNS VBZ PRP TO VB DT NN IN JJ NNS IN RB VBG PRP IN JJ NNS CC VBG IN NN , VBG NNS , FW .</POS>
+		<Lemma>the 270 degree rotate lcd allow I to position the camera in odd position without actually get myself into odd position and lie on ground , climb chair , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The wide angle lens helps capture more into a frame in tight spaces like a room packed with people making merry , or a tall shot of a high rise structure in the background , etc. .</Tokens>
+		<POS>DT JJ NN NN VBZ VB RBR IN DT NN IN JJ NNS IN DT NN VBN IN NNS VBG JJ , CC DT JJ NN IN DT JJ NN NN IN DT NN , FW .</POS>
+		<Lemma>the wide angle lens help capture more into a frame in tight space like a room pack with people make merry , or a tall shot of a high rise structure in the background , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The only place I found this camera to be inadequate was when we recently visited a wild life reserve ... but how often do regular folks do that ???</Tokens>
+		<POS>DT JJ NN PRP VBD DT NN TO VB JJ VBD WRB PRP RB VBD DT JJ NN NN : CC WRB RB VBP JJ NNS VBP IN CD</POS>
+		<Lemma>the only place I find this camera to be inadequate be when we recently visit a wild life reserve ... but how often do regular folk do that ???</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>It starts up quickly , offers very good battery life , and is small enough to fit into your waist pouch while traveling , the battery recharges quickly , it 's not that heavy , and a lot of the controls have dedicated buttons like SLRs so you can change settings really quickly ... No I 'm not suggesting it 's an SLR , but if you are looking to keep it simple and get some great pictures without actually getting under the skin of a camera -LRB- which you ca n't not do with an SLR -RRB- then this is the best thing on the market !</Tokens>
+		<POS>PRP VBZ RP RB , VBZ RB JJ NN NN , CC VBZ JJ RB TO VB IN PRP$ NN NN IN VBG , DT NN VBZ RB , PRP VBZ RB IN JJ , CC DT NN IN DT NNS VBP VBN NNS IN NNS IN PRP MD VB NNS RB RB : UH PRP VBP RB VBG PRP VBZ DT NN , CC IN PRP VBP VBG TO VB PRP JJ CC VB DT JJ NNS IN RB VBG IN DT NN IN DT NN -LRB- WDT PRP MD RB RB VB IN DT NN -RRB- RB DT VBZ DT JJS NN IN DT NN .</POS>
+		<Lemma>it start up quickly , offer very good battery life , and be small enough to fit into you waist pouch while travel , the battery recharge quickly , it be not that heavy , and a lot of the control have dedicate button like slr so you can change setting really quickly ... no I be not suggest it be a slr , but if you be look to keep it simple and get some great picture without actually get under the skin of a camera -lrb- which you can not not do with a slr -rrb- then this be the best thing on the market !</Lemma>
+	</Sentence>
+</Document>

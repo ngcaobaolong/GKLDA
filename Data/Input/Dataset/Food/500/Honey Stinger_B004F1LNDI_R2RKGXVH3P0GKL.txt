@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Not nearly as clunky , heavy , and hard to eat as a Clif Bar , these are a great source of fuel during a long bike ride .</Tokens>
+		<POS>RB RB IN JJ , JJ , CC JJ TO VB IN DT NNP NNP , DT VBP DT JJ NN IN NN IN DT JJ NN NN .</POS>
+		<Lemma>not nearly as clunky , heavy , and hard to eat as a Clif Bar , these be a great source of fuel during a long bike ride .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>And they taste great - not too sweet , but just enough flavor unlike some other fuel sources .</Tokens>
+		<POS>CC PRP VBP JJ : RB RB JJ , CC RB JJ NN IN DT JJ NN NNS .</POS>
+		<Lemma>and they taste great - not too sweet , but just enough flavor unlike some other fuel source .</Lemma>
+	</Sentence>
+</Document>

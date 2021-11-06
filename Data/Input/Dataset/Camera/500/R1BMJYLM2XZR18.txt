@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Lots of features .</Tokens>
+		<POS>NNS IN NNS .</POS>
+		<Lemma>lot of feature .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Panaroma , Hdr , GPS , multiframe noise reduction , impressive iso performance etc. .</Tokens>
+		<POS>NN , NNP , NNP , JJ NN NN , JJ NN NN NN .</POS>
+		<Lemma>panaroma , Hdr , GPS , multiframe noise reduction , impressive iso performance etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>and also small body and excellent build quaility .</Tokens>
+		<POS>CC RB JJ NN CC JJ VB NN .</POS>
+		<Lemma>and also small body and excellent build quaility .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I compare it with Canon 550D and now with Sony A55 , I am definitly happy .</Tokens>
+		<POS>PRP VBP PRP IN NNP NN CC RB IN NNP NNP , PRP VBP RB JJ .</POS>
+		<Lemma>I compare it with Canon 550d and now with Sony A55 , I be definitly happy .</Lemma>
+	</Sentence>
+</Document>

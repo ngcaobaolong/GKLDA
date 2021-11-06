@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera is good .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this camera be good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Pisture quality and easy to use but there is no eye viewer .</Tokens>
+		<POS>JJ NN CC JJ TO VB CC EX VBZ DT NN NN .</POS>
+		<Lemma>pisture quality and easy to use but there be no eye viewer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is alos kind of bulky .</Tokens>
+		<POS>PRP VBZ IN NN IN JJ .</POS>
+		<Lemma>it be alos kind of bulky .</Lemma>
+	</Sentence>
+</Document>

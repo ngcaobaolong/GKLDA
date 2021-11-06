@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Acer has come a long way with its 290 series .</Tokens>
+		<POS>NNP VBZ VBN DT JJ NN IN PRP$ CD NN .</POS>
+		<Lemma>Acer have come a long way with its 290 series .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This particular model seems to be a genuine winner with its unbelieveable price .</Tokens>
+		<POS>DT JJ NN VBZ TO VB DT JJ NN IN PRP$ JJ NN .</POS>
+		<Lemma>this particular model seem to be a genuine winner with its unbelieveable price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Out of the box the Acer looks sleek with no real curves .</Tokens>
+		<POS>IN IN DT NN DT NNP VBZ JJ IN DT JJ NNS .</POS>
+		<Lemma>out of the box the Acer look sleek with no real curve .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It has sleek styling with a titanium alloy lid with sturdy gray contrasting plastic base .</Tokens>
+		<POS>PRP VBZ JJ VBG IN DT NN NN NN IN JJ JJ JJ NN NN .</POS>
+		<Lemma>it have sleek style with a titanium alloy lid with sturdy gray contrasting plastic base .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It looks like a block , very stylish and comtemporary , somthing like Bang and Olufsen would put out .</Tokens>
+		<POS>PRP VBZ IN DT NN , RB JJ CC JJ , VBG IN NNP CC NNP MD VB RP .</POS>
+		<Lemma>it look like a block , very stylish and comtemporary , somthe like Bang and Olufsen would put out .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Startup time is really unbelieveable at a staggering 29 seconds -LRB- XP Pro -RRB- .</Tokens>
+		<POS>NN NN VBZ RB JJ IN DT JJ CD NNS -LRB- NN FW -RRB- .</POS>
+		<Lemma>startup time be really unbelieveable at a staggering 29 seconds -lrb- xp pro -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Applications run smooth and trouble free .</Tokens>
+		<POS>NNS VBP JJ CC NN JJ .</POS>
+		<Lemma>application run smooth and trouble free .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The 64 MB shared video RAM is utilized well with no real performance hindrance .</Tokens>
+		<POS>DT CD NN VBN NN NNP VBZ VBN RB IN DT JJ NN NN .</POS>
+		<Lemma>the 64 mb share video RAM be utilize well with no real performance hindrance .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>When I used dual display at 1024 pixels the output was slightly choppy on DVD video , but on any single screen it is smooth and flowing .</Tokens>
+		<POS>WRB PRP VBD JJ NN IN CD NNS DT NN VBD RB JJ IN NN NN , CC IN DT JJ NN PRP VBZ JJ CC VBG .</POS>
+		<Lemma>when I use dual display at 1024 pixel the output be slightly choppy on dvd video , but on any single screen it be smooth and flow .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The real advantage with this model is that it incorporates wireless \/ wired ethernet , firewire port , 3 USB ports and still allows room for expansion via the PCMCIA slot .</Tokens>
+		<POS>DT JJ NN IN DT NN VBZ IN PRP VBZ JJ : VBN NN , NN NN , CD JJ NNS CC RB VBZ NN IN NN IN DT NNP NN .</POS>
+		<Lemma>the real advantage with this model be that it incorporate wireless \/ wire ethernet , firewire port , 3 usb port and still allow room for expansion via the PCMCIA slot .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Not only that but it also comes with a DVD and CD burner with rewritable capabilities .</Tokens>
+		<POS>RB RB IN CC PRP RB VBZ IN DT NN CC NN NN IN JJ NNS .</POS>
+		<Lemma>not only that but it also come with a dvd and cd burner with rewritable capability .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Battery life on normal use with speakers playing mp3 's is a long long 4 hours minimum .</Tokens>
+		<POS>NN NN IN JJ NN IN NNS VBG NN POS VBZ DT RB RB CD NNS NN .</POS>
+		<Lemma>battery life on normal use with speaker play mp3 's be a long long 4 hour minimum .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>My only two real complaints with this laptop was the display options are limited -LRB- XGA Maximum - 1024 by 768 -RRB- .</Tokens>
+		<POS>PRP$ JJ CD JJ NNS IN DT NN VBD DT NN NNS VBP VBN -LRB- NNP NNP : CD IN CD -RRB- .</POS>
+		<Lemma>my only two real complaint with this laptop be the display option be limit -lrb- XGA Maximum - 1024 by 768 -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Would be perfect to get this with the SXGA screen but I guess thats a slight let down .</Tokens>
+		<POS>MD VB JJ TO VB DT IN DT NNP NN CC PRP VBP NNS DT JJ VB RP .</POS>
+		<Lemma>would be perfect to get this with the SXGA screen but I guess that a slight let down .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The other small problem was that there is no physical buttons for adjusting the volume , but rather has to be done using the function key on the keyboard .</Tokens>
+		<POS>DT JJ JJ NN VBD IN EX VBZ DT JJ NNS IN VBG DT NN , CC RB VBZ TO VB VBN VBG DT NN NN IN DT NN .</POS>
+		<Lemma>the other small problem be that there be no physical button for adjust the volume , but rather have to be do use the function key on the keyboard .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Hence half a point for each had to be removed from the 5 total .</Tokens>
+		<POS>RB PDT DT NN IN DT VBD TO VB VBN IN DT CD NN .</POS>
+		<Lemma>hence half a point for each have to be remove from the 5 total .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Overall , the Centrino provides for a great mobile computing experience with its exceptional battery life .</Tokens>
+		<POS>RB , DT NNP VBZ IN DT JJ JJ NN NN IN PRP$ JJ NN NN .</POS>
+		<Lemma>overall , the Centrino provide for a great mobile computing experience with its exceptional battery life .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Graphics are good , by no means the best , and everything works smoothly out of the box .</Tokens>
+		<POS>NNS VBP JJ , IN DT VBZ DT JJS , CC NN VBZ RB IN IN DT NN .</POS>
+		<Lemma>graphic be good , by no mean the best , and everything work smoothly out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Also this was a great buy since it comes with the Acer one year warranty that is applicable internationally .</Tokens>
+		<POS>RB DT VBD DT JJ NN IN PRP VBZ IN DT NNP CD NN NN WDT VBZ JJ RB .</POS>
+		<Lemma>also this be a great buy since it come with the Acer one year warranty that be applicable internationally .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>4 stars , well done Acer , well done .</Tokens>
+		<POS>CD NNS , RB VBN NNP , RB VBN .</POS>
+		<Lemma>4 star , well do Acer , well do .</Lemma>
+	</Sentence>
+</Document>

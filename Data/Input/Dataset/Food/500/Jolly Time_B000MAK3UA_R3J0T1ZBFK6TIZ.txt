@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Sometimes you just get in a salty snacky mood and this is the PERFECT snack .</Tokens>
+		<POS>RB PRP RB VB IN DT JJ JJ NN CC DT VBZ DT JJ NN .</POS>
+		<Lemma>sometimes you just get in a salty snacky mood and this be the perfect snack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've gotten in the habit of snacking on these in the afternoon and just stopping with the normal snacking -LRB- a bag of cheetohs here , a bag of candy there -RRB- I 've lost 15 pounds in two months .</Tokens>
+		<POS>PRP VBP VBN IN DT NN IN VBG IN DT IN DT NN CC RB VBG IN DT JJ NN -LRB- DT NN IN NNS RB , DT NN IN NN RB -RRB- PRP VBP VBN CD NNS IN CD NNS .</POS>
+		<Lemma>I have get in the habit of snack on these in the afternoon and just stop with the normal snacking -lrb- a bag of cheetoh here , a bag of candy there -rrb- I have lose 15 pound in two month .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This baggie is the perfect size that you can munch on it for awhile , and filling enough that you can feel satisfied after eating it .</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN PRP MD VB IN PRP IN RB , CC VBG RB IN PRP MD VB JJ IN VBG PRP .</POS>
+		<Lemma>this baggie be the perfect size that you can munch on it for awhile , and fill enough that you can feel satisfied after eat it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Love these .</Tokens>
+		<POS>NN DT .</POS>
+		<Lemma>love these .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Of the 100 calorie popcorn bags , I think this tastes best .</Tokens>
+		<POS>IN DT CD NN NN NNS , PRP VBP DT NNS RB .</POS>
+		<Lemma>of the 100 calorie popcorn bag , I think this taste best .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The others tend to be too salty and not have that slight butter grease on it , this satisfies the grease plenty well .</Tokens>
+		<POS>DT NNS VBP TO VB RB JJ CC RB VB DT JJ NN NN IN PRP , DT VBZ DT NN RB RB .</POS>
+		<Lemma>the other tend to be too salty and not have that slight butter grease on it , this satisfy the grease plenty well .</Lemma>
+	</Sentence>
+</Document>

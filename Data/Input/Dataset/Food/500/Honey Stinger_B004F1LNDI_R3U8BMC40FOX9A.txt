@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Taste great .</Tokens>
+		<POS>NN JJ .</POS>
+		<Lemma>taste great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are pretty small so I need at least two on my 2 + hour bike rides .</Tokens>
+		<POS>PRP VBP RB JJ IN PRP VBP IN JJS CD IN PRP$ CD CC NN NN NNS .</POS>
+		<Lemma>they be pretty small so I need at least two on my 2 + hour bike ride .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A noticeable pick me up .</Tokens>
+		<POS>DT JJ NN PRP RP .</POS>
+		<Lemma>a noticeable pick I up .</Lemma>
+	</Sentence>
+</Document>

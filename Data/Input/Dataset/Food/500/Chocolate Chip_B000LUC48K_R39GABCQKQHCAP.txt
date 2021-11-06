@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought these cookes as treats for my son 's flight wing at the Air Force OTS .</Tokens>
+		<POS>PRP VBD DT NNS IN VBZ IN PRP$ NN POS NN NN IN DT NNP NNP NNP .</POS>
+		<Lemma>I buy these cooke as treat for my son 's flight wing at the Air Force OTS .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They only get so much room to keep their goodies -LRB- eats -RRB- and anything that does n't fit in the plastic container has to be shared with the flight .</Tokens>
+		<POS>PRP RB VBP RB JJ NN TO VB PRP$ NNS -LRB- VBZ -RRB- CC NN WDT VBZ RB VB IN DT NN NN VBZ TO VB VBN IN DT NN .</POS>
+		<Lemma>they only get so much room to keep they goody -lrb- eat -rrb- and anything that do not fit in the plastic container have to be share with the flight .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The other guys in the flight are my son 's best friends , buddying up , etc. so they will get to share these great cookies .</Tokens>
+		<POS>DT JJ NNS IN DT NN VBP PRP$ NN POS JJS NNS , VBG RP , FW IN PRP MD VB TO VB DT JJ NNS .</POS>
+		<Lemma>the other guy in the flight be my son 's best friend , buddy up , etc. so they will get to share these great cookie .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Obviously a good treat for them .</Tokens>
+		<POS>RB DT JJ NN IN PRP .</POS>
+		<Lemma>obviously a good treat for they .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>They crave anything from home - the mess food is great but they only get 10 minutes for meals and many times do n't get enough to eat - so treats tide them over and remind them of home .</Tokens>
+		<POS>PRP VBP NN IN NN : DT NN NN VBZ JJ CC PRP RB VBP CD NNS IN NNS CC JJ NNS VBP RB VB RB TO VB : RB VBZ NN PRP IN CC VB PRP IN NN .</POS>
+		<Lemma>they crave anything from home - the mess food be great but they only get 10 minute for meal and many time do not get enough to eat - so treat tide they over and remind they of home .</Lemma>
+	</Sentence>
+</Document>

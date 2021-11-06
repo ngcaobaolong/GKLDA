@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Toshiba Camileo X200 for $ 129 at another store , brand new .</Tokens>
+		<POS>PRP VBD DT NNP NNP NN IN $ CD IN DT NN , NN JJ .</POS>
+		<Lemma>I buy the Toshiba Camileo x200 for $ 129 at another store , brand new .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use it for the taping of lectures .</Tokens>
+		<POS>PRP VBP PRP IN DT NN IN VBZ .</POS>
+		<Lemma>I use it for the taping of lecture .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The camera comes with software that makes uploading to YouTube a breeze .</Tokens>
+		<POS>DT NN VBZ IN NN WDT VBZ VBG TO NNP DT NN .</POS>
+		<Lemma>the camera come with software that make upload to YouTube a breeze .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Transferring a video to DVD using Nero software leaves a presentation that is impeccable .</Tokens>
+		<POS>VBG DT NN TO NN VBG NNP NN VBZ DT NN WDT VBZ JJ .</POS>
+		<Lemma>transfer a video to dvd use Nero software leave a presentation that be impeccable .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>In full HD 1080p , it is equal to any commercial movie DVD .</Tokens>
+		<POS>IN JJ NN NN , PRP VBZ JJ TO DT JJ NN NN .</POS>
+		<Lemma>in full hd 1080p , it be equal to any commercial movie dvd .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>My use involves a small table tripod , and with the remote I can zoom in or out .</Tokens>
+		<POS>PRP$ NN VBZ DT JJ NN NN , CC IN DT JJ PRP MD VB IN CC IN .</POS>
+		<Lemma>my use involve a small table tripod , and with the remote I can zoom in or out .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If one has a shaky hand , the electronic movement control helps a little , so I would recommend use of a tripod if possible .</Tokens>
+		<POS>IN CD VBZ DT JJ NN , DT JJ NN NN VBZ DT JJ , IN PRP MD VB NN IN DT NN IN JJ .</POS>
+		<Lemma>if one have a shaky hand , the electronic movement control help a little , so I would recommend use of a tripod if possible .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>A 15 minute recording uses over 1 G of memory , so a SDHC memory card is recommended , since there is only 1 G on board .</Tokens>
+		<POS>DT CD NN NN VBZ IN CD NN IN NN , IN DT NNP NN NN VBZ VBN , IN EX VBZ RB CD NN IN NN .</POS>
+		<Lemma>a 15 minute recording use over 1 g of memory , so a SDHC memory card be recommend , since there be only 1 g on board .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Excellent HD product .</Tokens>
+		<POS>JJ NN NN .</POS>
+		<Lemma>excellent hd product .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i ordered this as a christmas gift to myself and im in love with this netbook .</Tokens>
+		<POS>LS VBN DT IN DT NN NN TO PRP CC NN IN NN IN DT NN .</POS>
+		<Lemma>i order this as a christmas gift to myself and im in love with this netbook .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its works just like a laptop but more affordable .</Tokens>
+		<POS>PRP$ NNS RB IN DT NN CC JJR JJ .</POS>
+		<Lemma>its work just like a laptop but more affordable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I will be ordering another one .</Tokens>
+		<POS>PRP MD VB VBG DT CD .</POS>
+		<Lemma>I will be order another one .</Lemma>
+	</Sentence>
+</Document>

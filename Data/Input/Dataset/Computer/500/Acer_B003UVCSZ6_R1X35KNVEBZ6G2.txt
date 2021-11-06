@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just received this monitor last night , while yes it does its job as being a HD monitor , I could n't ignore the white background lights emanating from around the edges as the previous reviewer mentioned .</Tokens>
+		<POS>PRP RB VBD DT NN JJ NN , IN UH PRP VBZ PRP$ NN IN VBG DT NN NN , PRP MD RB VB DT JJ NN NNS VBG IN IN DT NNS IN DT JJ NN VBN .</POS>
+		<Lemma>I just receive this monitor last night , while yes it do its job as be a hd monitor , I could not ignore the white background light emanate from around the edge as the previous reviewer mention .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>On the other hand , one ca n't really complain for the price but I could 've forked out a little bit more for a higher quality one .</Tokens>
+		<POS>IN DT JJ NN , CD MD RB RB VB IN DT NN CC PRP MD VB VBN RP DT JJ NN RBR IN DT JJR NN CD .</POS>
+		<Lemma>on the other hand , one can not really complain for the price but I could have fork out a little bit more for a higher quality one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only time this screen does n't bother me is during the day or when you I 'm in a lit room , but once you turn off the lights they ARE that noticeable .</Tokens>
+		<POS>DT JJ NN DT NN VBZ RB VB PRP VBZ IN DT NN CC WRB PRP PRP VBP IN DT VBN NN , CC RB PRP VB RP DT NNS PRP VBP IN JJ .</POS>
+		<Lemma>the only time this screen do not bother I be during the day or when you I be in a light room , but once you turn off the light they be that noticeable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It all depends what you use this screen for , if for the office , no problem .</Tokens>
+		<POS>PRP DT VBZ WP PRP VBP DT NN IN , IN IN DT NN , DT NN .</POS>
+		<Lemma>it all depend what you use this screen for , if for the office , no problem .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However , if you plan on using this to watch movies or play games or anything else that would require to turn off the lights it would be a nuisance to some people .</Tokens>
+		<POS>RB , IN PRP VBP IN VBG DT TO VB NNS CC VB NNS CC NN RB IN MD VB TO VB RP DT NNS PRP MD VB DT NN TO DT NNS .</POS>
+		<Lemma>however , if you plan on use this to watch movie or play game or anything else that would require to turn off the light it would be a nuisance to some people .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>For those who just need an extra monitor for viewing space who do n't care about the rest , then you ca n't beat the price for a monitor of this type .</Tokens>
+		<POS>IN DT WP RB VBP DT JJ NN IN VBG NN WP VBP RB VB IN DT NN , RB PRP MD RB VB DT NN IN DT NN IN DT NN .</POS>
+		<Lemma>for those who just need a extra monitor for view space who do not care about the rest , then you can not beat the price for a monitor of this type .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The colors are gorgeous , bright , and no dead pixels upon start up .</Tokens>
+		<POS>DT NNS VBP JJ , JJ , CC DT JJ NNS IN NN RB .</POS>
+		<Lemma>the color be gorgeous , bright , and no dead pixel upon start up .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Compared to other monitors , unless you 're really really picky about the colors , it holds its own well , at least in my opinion .</Tokens>
+		<POS>VBN TO JJ NNS , IN PRP VBP RB RB JJ IN DT NNS , PRP VBZ PRP$ JJ RB , IN JJS IN PRP$ NN .</POS>
+		<Lemma>compare to other monitor , unless you be really really picky about the color , it hold its own well , at least in my opinion .</Lemma>
+	</Sentence>
+</Document>

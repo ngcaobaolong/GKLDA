@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased two of these to replace two older 19 '' monitors .</Tokens>
+		<POS>PRP VBD CD IN DT TO VB CD JJR CD '' NNS .</POS>
+		<Lemma>I purchase two of these to replace two older 19 '' monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm a web developer so am staring at my monitors for many hours per day ; these are quite nice .</Tokens>
+		<POS>PRP VBP DT NN NN RB VBP VBG IN PRP$ NNS IN JJ NNS IN NN : DT VBP RB JJ .</POS>
+		<Lemma>I be a web developer so be stare at my monitor for many hour per day ; these be quite nice .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very lightweight and easy to mount on my dual monitor stand .</Tokens>
+		<POS>RB JJ CC JJ TO VB IN PRP$ JJ NN NN .</POS>
+		<Lemma>very lightweight and easy to mount on my dual monitor stand .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Colors are bright and clear , very sharp .</Tokens>
+		<POS>NNS VBP JJ CC JJ , RB JJ .</POS>
+		<Lemma>color be bright and clear , very sharp .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't find them too bright at all .</Tokens>
+		<POS>PRP VBP RB VB PRP RB JJ IN DT .</POS>
+		<Lemma>I do not find they too bright at all .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 'd definitely recommend them .</Tokens>
+		<POS>PRP MD RB VB PRP .</POS>
+		<Lemma>I would definitely recommend they .</Lemma>
+	</Sentence>
+</Document>

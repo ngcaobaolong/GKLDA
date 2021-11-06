@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had a K10D , from which I upgraded to a K20D , and then to this one .</Tokens>
+		<POS>PRP VBD DT NN , IN WDT PRP VBD TO DT NN , CC RB TO DT CD .</POS>
+		<Lemma>I have a k10d , from which I upgrade to a k20d , and then to this one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Wow !</Tokens>
+		<POS>UH .</POS>
+		<Lemma>wow !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The K10-to-K20 upgrade felt pretty incremental , but the K20-to-K5 upgrade is just a gigantic one .</Tokens>
+		<POS>DT NN NN VBD RB JJ , CC DT NN NN VBZ RB DT JJ CD .</POS>
+		<Lemma>the k10-to-k20 upgrade feel pretty incremental , but the k20-to-k5 upgrade be just a gigantic one .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The first thing you notice is how much smaller and lighter the K5 is -LRB- K7 users already knew this , I suppose -RRB- .</Tokens>
+		<POS>DT JJ NN PRP VBP VBZ WRB RB JJR CC JJR DT NN VBZ -LRB- NN NNS RB VBD DT , PRP VBP -RRB- .</POS>
+		<Lemma>the first thing you notice be how much smaller and lighter the k5 be -lrb- k7 user already know this , I suppose -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But the real amazing thing about this camera is that it takes stunningly crisp clear -LRB- not grainy -RRB- photos even at absurd ISOs -LRB- 32000 anybody ? -RRB-</Tokens>
+		<POS>CC DT JJ JJ NN IN DT NN VBZ IN PRP VBZ RB JJ JJ -LRB- RB JJ -RRB- NNS RB IN JJ NNS -LRB- CD NN . -RRB-</POS>
+		<Lemma>but the real amazing thing about this camera be that it take stunningly crisp clear -lrb- not grainy -rrb- photo even at absurd iso -lrb- 32000 anybody ? -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The auto white balance is much better than that on the K10 and K20 .</Tokens>
+		<POS>DT NN JJ NN VBZ RB JJR IN DT IN DT NN CC NN .</POS>
+		<Lemma>the auto white balance be much better than that on the k10 and k20 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>On both of those , I usually set the white balance manually because the auto setting was so often wrong .</Tokens>
+		<POS>IN DT IN DT , PRP RB VBP DT JJ NN RB IN DT NN NN VBD RB RB JJ .</POS>
+		<Lemma>on both of those , I usually set the white balance manually because the auto setting be so often wrong .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>On the K5 I have yet to need to set the white balance manually , regardless of the lighting conditions -LRB- I 've shot under flourescent , warm flourescent , incandescent , direct sunlight , shade , and setting sun -RRB- , all looked perfect .</Tokens>
+		<POS>IN DT NN PRP VBP RB TO VB TO VB DT JJ NN RB , RB IN DT NN NNS -LRB- PRP VBP VBN IN JJ , JJ NN , NN , JJ NN , NN , CC VBG NN -RRB- , DT VBD JJ .</POS>
+		<Lemma>on the k5 I have yet to need to set the white balance manually , regardless of the lighting condition -lrb- I have shoot under flourescent , warm flourescent , incandescent , direct sunlight , shade , and set sun -rrb- , all look perfect .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The on screen mid-shot user interface is an improvement .</Tokens>
+		<POS>DT IN NN JJ NN NN VBZ DT NN .</POS>
+		<Lemma>the on screen mid-shot user interface be a improvement .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's always easy to know what mode you 're shooting in , what your settings are , and what controls will alter what .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB WP NN PRP VBP VBG IN , WDT PRP$ NNS VBP , CC WP NNS MD VB WP .</POS>
+		<Lemma>it be always easy to know what mode you be shoot in , what you setting be , and what control will alter what .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>With use , it was n't ever that hard to know on the older models either , but the new on-screen UI is pretty idiot proof .</Tokens>
+		<POS>IN NN , PRP VBD RB RB IN JJ TO VB IN DT JJR NNS CC , CC DT JJ JJ NN VBZ RB JJ NN .</POS>
+		<Lemma>with use , it be not ever that hard to know on the older model either , but the new on-screen uus be pretty idiot proof .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>But back to where I started - the photos !</Tokens>
+		<POS>CC RB TO WRB PRP VBD : DT NNS .</POS>
+		<Lemma>but back to where I start - the photo !</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>They 're amazing !</Tokens>
+		<POS>PRP VBP JJ .</POS>
+		<Lemma>they be amazing !</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>So clear , so sharp , color-perfect , and you can almost shoot in the dark with this thing !</Tokens>
+		<POS>RB JJ , RB JJ , JJ , CC PRP MD RB VB IN DT JJ IN DT NN .</POS>
+		<Lemma>so clear , so sharp , color-perfect , and you can almost shoot in the dark with this thing !</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It 's amazing .</Tokens>
+		<POS>PRP VBZ JJ .</POS>
+		<Lemma>it be amazing .</Lemma>
+	</Sentence>
+</Document>

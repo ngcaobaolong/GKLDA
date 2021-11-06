@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i bought this recently to go with my new acer nettop didnt need or expect to get a led monitor with such quality for this price range but i was wrong !!</Tokens>
+		<POS>LS VBD DT RB TO VB IN PRP$ JJ NN JJ NN NN CC VB TO VB DT VBN NN IN JJ NN IN DT NN NN CC FW VBD JJ NN</POS>
+		<Lemma>i buy this recently to go with my new acer nettop didnt need or expect to get a lead monitor with such quality for this price range but i be wrong !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>if u are just emailing net youtube and so on this is what u want cant beat it for the price but if u are gaming u shld get oone with full hd resolution anyway unlike some comments this model had no problems and still dosent no dead pixels no ghosting and no bleeding</Tokens>
+		<POS>IN NN VBP RB VBG JJ NN CC RB IN DT VBZ WP FW VBP JJ NN PRP IN DT NN CC IN NN VBP NN NN NN VB RB IN JJ NN NN RB IN DT NNS DT NN VBD DT NNS CC RB JJ DT JJ NNS DT NN CC DT NN</POS>
+		<Lemma>if u be just email net youtube and so on this be what u want cant beat it for the price but if u be gaming u shld get oone with full hd resolution anyway unlike some comment this model have no problem and still dosent no dead pixel no ghosting and no bleeding</Lemma>
+	</Sentence>
+</Document>

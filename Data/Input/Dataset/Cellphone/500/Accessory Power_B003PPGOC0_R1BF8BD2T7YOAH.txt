@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was excited when I read the reviews on amazon and ordered this a month back .</Tokens>
+		<POS>PRP VBD VBN WRB PRP VBP DT NNS IN NN CC VBN DT DT NN RB .</POS>
+		<Lemma>I be excite when I read the review on amazon and order this a month back .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have observed any music played through my iPhone is very good .</Tokens>
+		<POS>PRP VBP VBN DT NN VBN IN PRP$ NNP VBZ RB JJ .</POS>
+		<Lemma>I have observe any music play through my iPhone be very good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was told my voice on the other side heard as an echo and it is not clear .</Tokens>
+		<POS>PRP VBD VBN PRP$ NN IN DT JJ NN VBD IN DT VBP CC PRP VBZ RB JJ .</POS>
+		<Lemma>I be tell my voice on the other side hear as a echo and it be not clear .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I had to keep my car volume so high to understand the other person voice .</Tokens>
+		<POS>PRP VBD TO VB PRP$ NN NN RB JJ TO VB DT JJ NN NN .</POS>
+		<Lemma>I have to keep my car volume so high to understand the other person voice .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Also I always hear static noise when I am talking through car audio .</Tokens>
+		<POS>RB PRP RB VBP JJ NN WRB PRP VBP VBG IN NN NN .</POS>
+		<Lemma>also I always hear static noise when I be talk through car audio .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am not going to return since I do n't make much calls from the car .</Tokens>
+		<POS>PRP VBP RB VBG TO VB IN PRP VBP RB VB JJ NNS IN DT NN .</POS>
+		<Lemma>I be not go to return since I do not make much call from the car .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I can manage the calls with high car volume .</Tokens>
+		<POS>PRP MD VB DT NNS IN JJ NN NN .</POS>
+		<Lemma>I can manage the call with high car volume .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This is the reason I had to give only 3 stars for this product .</Tokens>
+		<POS>DT VBZ DT NN PRP VBD TO VB RB CD NNS IN DT NN .</POS>
+		<Lemma>this be the reason I have to give only 3 star for this product .</Lemma>
+	</Sentence>
+</Document>

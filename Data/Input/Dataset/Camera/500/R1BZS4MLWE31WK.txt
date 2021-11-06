@@ -1,0 +1,297 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the camera that replaced my Canon DSLR .</Tokens>
+		<POS>DT VBZ DT NN WDT VBD PRP$ NNP NNP .</POS>
+		<Lemma>this be the camera that replace my Canon DSLR .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I went on a trip to the Canadians Rockies a few months ago .</Tokens>
+		<POS>PRP VBD IN DT NN TO DT NNPS NNPS DT JJ NNS RB .</POS>
+		<Lemma>I go on a trip to the Canadians Rockies a few month ago .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The activities are all outdoors , whether hiking the mountains or the glacier .</Tokens>
+		<POS>DT NNS VBP DT RB , IN VBG DT NNS CC DT NN .</POS>
+		<Lemma>the activity be all outdoors , whether hike the mountain or the glacier .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My Canon T3i -LRB- 600D -RRB- with 18-135mm lens just became such a chore to carry .</Tokens>
+		<POS>PRP$ NNP NN -LRB- NN -RRB- IN JJ NN RB VBD JJ DT NN TO VB .</POS>
+		<Lemma>my Canon t3us -lrb- 600d -rrb- with 18-135mm lens just become such a chore to carry .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was big and heavy .</Tokens>
+		<POS>PRP VBD JJ CC JJ .</POS>
+		<Lemma>it be big and heavy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Fast forward 2 months , I am going to the London Olympics and I desperately wanted smaller and lighter and it basically came down to the two available choices : Micro 4\/3 or Sony NEX .</Tokens>
+		<POS>JJ RB CD NNS , PRP VBP VBG TO DT NNP NNPS CC PRP RB VBD JJR CC JJR CC PRP RB VBD RB TO DT CD JJ NNS : NNP CD CC NNP NNP .</POS>
+		<Lemma>fast forward 2 month , I be go to the London Olympics and I desperately want smaller and lighter and it basically come down to the two available choice : Micro 4\/3 or Sony NEX .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I almost went with M43 b\/c of it 's smaller size but ultimately the higher quality of the Sony sensor and its fantastic lowlight capability won out .</Tokens>
+		<POS>PRP RB VBD IN NN NN IN PRP VBZ JJR NN CC RB DT JJR NN IN DT NNP NN CC PRP$ JJ NN NN VBD RP .</POS>
+		<Lemma>I almost go with m43 b\/c of it be smaller size but ultimately the higher quality of the Sony sensor and its fantastic lowlight capability win out .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I purchased the following : - NEX-5N w \/ 18-55mm - 55-200mm lens - 16mm pancake , VCLECU1 wide angle converter , VCLECF1 fisheye converter - FDA-EV1S EVF - HVLF20S external flash Essentially , I had bought a complete NEX outfit .</Tokens>
+		<POS>PRP VBD DT NN : : NN NN : NN : JJ NN : CD NN , NN JJ NN NN , NN NN NN : NN NN : NN JJ NN RB , PRP VBD VBN DT JJ NN NN .</POS>
+		<Lemma>I purchase the following : - nex-5n w \/ 18-55mm - 55-200mm lens - 16mm pancake , vclecu1 wide angle converter , vclecf1 fisheye converter - fda-ev1 evf - hvlf20 external flash essentially , I have buy a complete nex outfit .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I was a bit nervous about my NEX purchase and taking it to London b\/c it was untested and I really did not have much time to test it out .</Tokens>
+		<POS>PRP VBD DT NN JJ IN PRP$ NN NN CC VBG PRP TO NNP VBD PRP VBD JJ CC PRP RB VBD RB VB JJ NN TO VB PRP RP .</POS>
+		<Lemma>I be a bit nervous about my nex purchase and take it to London b\/c it be untested and I really do not have much time to test it out .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Furthermore , it does n't have all the convenient buttons like my DSLR !</Tokens>
+		<POS>RB , PRP VBZ RB VB PDT DT JJ NNS IN PRP$ NN .</POS>
+		<Lemma>furthermore , it do not have all the convenient button like my dslr !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>However , once I got there , it turned out to be absolute gold .</Tokens>
+		<POS>RB , RB PRP VBD RB , PRP VBD RP TO VB JJ NN .</POS>
+		<Lemma>however , once I get there , it turn out to be absolute gold .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The NEX body is spectacularly thin and light .</Tokens>
+		<POS>DT NNP NN VBZ RB JJ CC JJ .</POS>
+		<Lemma>the NEX body be spectacularly thin and light .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>That 's a huge plus .</Tokens>
+		<POS>DT VBZ DT JJ NN .</POS>
+		<Lemma>that be a huge plus .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It 's too bad Sony could n't produce smaller lens like M43 but oh well ... you are getting that bigger APS-C sensor .</Tokens>
+		<POS>PRP VBZ RB JJ NNP MD RB VB JJR NN IN NN CC UH RB : PRP VBP VBG IN JJR NN NN .</POS>
+		<Lemma>it be too bad Sony could not produce smaller lens like m43 but oh well ... you be get that bigger aps-c sensor .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>When they do finally engineer smaller lens , I 'll upgrade .</Tokens>
+		<POS>WRB PRP VBP RB NN JJR NN , PRP MD VB .</POS>
+		<Lemma>when they do finally engineer smaller lens , I 'll upgrade .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>For now , what I have are fine .</Tokens>
+		<POS>IN RB , WP PRP VBP VBP JJ .</POS>
+		<Lemma>for now , what I have be fine .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>What I appreciated the most is that I can hang the NEX around my neck with the kit zoom or 16mm pancake and not feel like I have whiplash .</Tokens>
+		<POS>WP PRP VBD DT RBS VBZ IN PRP MD VB DT NNP IN PRP$ NN IN DT NN NN CC JJ NN CC RB VB IN PRP VBP NN .</POS>
+		<Lemma>what I appreciate the most be that I can hang the NEX around my neck with the kit zoom or 16mm pancake and not feel like I have whiplash .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Plus , regarding the lack of buttons - what it has is fine .</Tokens>
+		<POS>NN , VBG DT NN IN NNS : WP PRP VBZ VBZ JJ .</POS>
+		<Lemma>plus , regard the lack of button - what it have be fine .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>You can program certain buttons and it served my needs .</Tokens>
+		<POS>PRP MD VB JJ NNS CC PRP VBD PRP$ NNS .</POS>
+		<Lemma>you can program certain button and it serve my need .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I 'm not a pro photographer .</Tokens>
+		<POS>PRP VBP RB DT JJ NNP .</POS>
+		<Lemma>I be not a pro photographer .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>When I take pics , I just simply want instant access to ISO and EV along with your usual aperture\/shutter control .</Tokens>
+		<POS>WRB PRP VBP NNS , PRP RB RB VB JJ NN TO NN CC NN IN IN PRP$ JJ NN NN .</POS>
+		<Lemma>when I take pic , I just simply want instant access to iso and ev along with you usual aperture\/shutter control .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>That 's it .</Tokens>
+		<POS>DT VBZ PRP .</POS>
+		<Lemma>that be it .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>With NEX-5n , EV is already available as the down direction of the dial and I was able to program ISO as the right direction .</Tokens>
+		<POS>IN NN , NN VBZ RB JJ IN DT JJ NN IN DT NN CC PRP VBD JJ TO NN NN IN DT JJ NN .</POS>
+		<Lemma>with nex-5n , ev be already available as the down direction of the dial and I be able to program iso as the right direction .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>With the bottom button , I programmed to access HDR .</Tokens>
+		<POS>IN DT JJ NN , PRP VBD TO NN NN .</POS>
+		<Lemma>with the bottom button , I program to access hdr .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>This was my first camera with HDR -LRB- T3i does n't have it -RRB- and it makes a HUGE difference .</Tokens>
+		<POS>DT VBD PRP$ JJ NN IN NN -LRB- NN VBZ RB VB PRP -RRB- CC PRP VBZ DT NN NN .</POS>
+		<Lemma>this be my first camera with hdr -lrb- t3us do not have it -rrb- and it make a huge difference .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>The contrast outside , especially between shaded and sunlit areas , is a huge improvement to without HDR .</Tokens>
+		<POS>DT NN IN , RB IN JJ CC JJ NNS , VBZ DT JJ NN TO IN NNP .</POS>
+		<Lemma>the contrast outside , especially between shaded and sunlit area , be a huge improvement to without HDR .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Note - it 's important to take HDR photos when you do n't have subjects moving -LRB- like people walking everywhere -RRB- since it essentially takes 3 snaps and combines it into one .</Tokens>
+		<POS>NN : PRP VBZ JJ TO VB NNP NNS WRB PRP VBP RB VB NNS VBG -LRB- IN NNS VBG RB -RRB- IN PRP RB VBZ CD VBZ CC VBZ PRP IN CD .</POS>
+		<Lemma>note - it be important to take HDR photo when you do not have subject move -lrb- like people walk everywhere -rrb- since it essentially take 3 snap and combine it into one .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>It 's an awesome sound though - `` snap snap snap '' within a blink of an eye .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN : `` VB VB VB '' IN DT NN IN DT NN .</POS>
+		<Lemma>it be a awesome sound though - `` snap snap snap '' within a blink of a eye .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>The APS-C sensor , though now over a year old - is still fantastic .</Tokens>
+		<POS>DT NN NN , RB RB IN DT NN JJ : VBZ RB JJ .</POS>
+		<Lemma>the aps-c sensor , though now over a year old - be still fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>It eats darkness for breakfast .</Tokens>
+		<POS>PRP VBZ NN IN NN .</POS>
+		<Lemma>it eat darkness for breakfast .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>In evening events like volleyball and soccer , I used ISO 800 and 1600 to still get fast shutter to stop the action .</Tokens>
+		<POS>IN NN NNS IN NN CC NN , PRP VBD NN CD CC CD TO RB VB JJ NN TO VB DT NN .</POS>
+		<Lemma>in evening event like volleyball and soccer , I use iso 800 and 1600 to still get fast shutter to stop the action .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>Even at 1600 , the images were surprisingly clear .</Tokens>
+		<POS>RB IN CD , DT NNS VBD RB JJ .</POS>
+		<Lemma>even at 1600 , the image be surprisingly clear .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>I really did n't need to push it to 3200 or even 6400 though I could have .</Tokens>
+		<POS>PRP RB VBD RB VB TO VB PRP TO CD CC RB CD IN PRP MD VB .</POS>
+		<Lemma>I really do not need to push it to 3200 or even 6400 though I could have .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>I ended up not using the touchscreen .</Tokens>
+		<POS>PRP VBD RP RB VBG DT NN .</POS>
+		<Lemma>I end up not use the touchscreen .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>I disabled it after too many accidental changes to settings .</Tokens>
+		<POS>PRP VBD PRP IN RB JJ JJ NNS TO NNS .</POS>
+		<Lemma>I disable it after too many accidental change to setting .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>I did n't miss it however .</Tokens>
+		<POS>PRP VBD RB VB PRP RB .</POS>
+		<Lemma>I do not miss it however .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>- The EVF - this is a MUST .</Tokens>
+		<POS>: DT NN : DT VBZ DT NN .</POS>
+		<Lemma>- the evf - this be a must .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>If you purchase NEX-5n , you MUST get this , no questions !</Tokens>
+		<POS>IN PRP VBP NN , PRP VBP VB DT , DT NNS .</POS>
+		<Lemma>if you purchase nex-5n , you must get this , no question !</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Without it , you 'll end up using NEX like a PS .</Tokens>
+		<POS>IN PRP , PRP MD VB RP VBG NNP IN DT NN .</POS>
+		<Lemma>without it , you 'll end up use NEX like a ps .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Besides being able to brace the camera against your body , there 's something to be said about bringing the camera up to your eye and snapping away .</Tokens>
+		<POS>IN VBG JJ TO VB DT NN IN PRP$ NN , EX VBZ NN TO VB VBN IN VBG DT NN IN TO PRP$ NN CC VBG RB .</POS>
+		<Lemma>besides be able to brace the camera against you body , there be something to be say about bring the camera up to you eye and snap away .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>- The 18-55 lens turned out to be very useful snapping away around town .</Tokens>
+		<POS>: DT CD NN VBD RP TO VB RB JJ VBG RB IN NN .</POS>
+		<Lemma>- the 18-55 lens turn out to be very useful snap away around town .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>- The 55-200 was essentially all I used while at the Olympic events b\/c I had nosebleed seats in most .</Tokens>
+		<POS>: DT CD VBD RB DT PRP VBD IN IN DT NNP NNS VBP PRP VBD JJ NNS IN JJS .</POS>
+		<Lemma>- the 55-200 be essentially all I use while at the Olympic event b\/c I have nosebleed seat in most .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>It 's just a bit too long and heavy ... hopefully a more compact iteration will be out soon .</Tokens>
+		<POS>PRP VBZ RB DT NN RB JJ CC JJ : RB DT RBR JJ NN MD VB RB RB .</POS>
+		<Lemma>it be just a bit too long and heavy ... hopefully a more compact iteration will be out soon .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>-16 mm pancake turned out to be an absolute winner when walking down the busy Portobello Rd in Notting Hill .</Tokens>
+		<POS>CD NN NN VBD RP TO VB DT JJ NN WRB VBG RP DT JJ NNP NN IN NNP NNP .</POS>
+		<Lemma>-16 mm pancake turn out to be a absolute winner when walk down the busy Portobello rd in Notting Hill .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>I had the VCLECU1 wide angle on it and I 'd take snaps with or without at will -LRB- if too wide , I 'd simply take it off , hold it in my left hand , take the pic , and then put it back on -RRB- .</Tokens>
+		<POS>PRP VBD DT NN JJ NN IN PRP CC PRP MD VB VBZ IN CC IN IN MD -LRB- IN RB JJ , PRP MD RB VB PRP RP , VBP PRP IN PRP$ JJ NN , VB DT NN , CC RB VBD PRP RB IN -RRB- .</POS>
+		<Lemma>I have the vclecu1 wide angle on it and I would take snap with or without at will -lrb- if too wide , I would simply take it off , hold it in my left hand , take the pic , and then put it back on -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>The pancake and the wide angle converter were absolute winners .</Tokens>
+		<POS>DT NN CC DT JJ NN NN VBD JJ NNS .</POS>
+		<Lemma>the pancake and the wide angle converter be absolute winner .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>I did not use the fisheye so much .</Tokens>
+		<POS>PRP VBD RB VB DT NN RB RB .</POS>
+		<Lemma>I do not use the fisheye so much .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>It 's a cool effect but I found the wide angle converter to be much more practical .</Tokens>
+		<POS>PRP VBZ DT JJ NN CC PRP VBD DT JJ NN NN TO VB RB RBR JJ .</POS>
+		<Lemma>it be a cool effect but I find the wide angle converter to be much more practical .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>At $ 100-110 a pop , the wide angle converter and fish eye are no brainers .</Tokens>
+		<POS>IN $ CD DT NN , DT JJ NN NN CC NN NN VBP DT NNS .</POS>
+		<Lemma>at $ 100-110 a pop , the wide angle converter and fish eye be no brainer .</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>If going with one , I 'd get the wide angle .</Tokens>
+		<POS>IN VBG IN CD , PRP MD VB DT JJ NN .</POS>
+		<Lemma>if go with one , I would get the wide angle .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>- External flash - never once did I use it due to the great low-light capable sensor .</Tokens>
+		<POS>: JJ NN : RB RB VBD PRP VBP PRP JJ TO DT JJ JJ JJ NN .</POS>
+		<Lemma>- external flash - never once do I use it due to the great low-light capable sensor .</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>Side note : When I take a trip , it 's important to have a `` good '' camera -LRB- DSLR equivalent -RRB- and a good PS so you can snap away on a whim or ask others to take photos of you .</Tokens>
+		<POS>NN NN : WRB PRP VBP DT NN , PRP VBZ JJ TO VB DT `` JJ '' NN -LRB- NN NN -RRB- CC DT JJ NN IN PRP MD VB RB IN DT NN CC VB NNS TO VB NNS IN PRP .</POS>
+		<Lemma>side note : when I take a trip , it be important to have a `` good '' camera -lrb- dslr equivalent -rrb- and a good ps so you can snap away on a whim or ask other to take photo of you .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>You ca n't just give some random person on the streets your NEX or DSLR .</Tokens>
+		<POS>PRP MD RB RB VB DT JJ NN IN DT NNS PRP$ NN CC NN .</POS>
+		<Lemma>you can not just give some random person on the street you nex or dslr .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>It 's just too much to ask .</Tokens>
+		<POS>PRP VBZ RB RB JJ TO VB .</POS>
+		<Lemma>it be just too much to ask .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>Instead , just hand them the compact PS .</Tokens>
+		<POS>RB , RB NN PRP DT JJ NN .</POS>
+		<Lemma>instead , just hand they the compact ps .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>My PS is Nikon P310 .</Tokens>
+		<POS>PRP$ NN VBZ NNP NN .</POS>
+		<Lemma>my ps be Nikon p310 .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>Naturally , I had considered others like Canon S100 but for the price I paid , it was a clear win .</Tokens>
+		<POS>RB , PRP VBD VBN NNS IN NNP NN CC IN DT NN PRP VBD , PRP VBD DT JJ VB .</POS>
+		<Lemma>naturally , I have consider other like Canon s100 but for the price I pay , it be a clear win .</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>In actual practice , the photos came out great - colors were natural , the metering was spot on in most cases , low light capability was phenomenal , and the bottom line is that it 's easy for anyone off the street to use .</Tokens>
+		<POS>IN JJ NN , DT NNS VBD RP JJ : NNS VBD JJ , DT NN VBD NN IN IN JJS NNS , JJ NN NN VBD JJ , CC DT JJ NN VBZ IN PRP VBZ JJ IN NN IN DT NN TO VB .</POS>
+		<Lemma>in actual practice , the photo come out great - color be natural , the metering be spot on in most case , low light capability be phenomenal , and the bottom line be that it be easy for anyone off the street to use .</Lemma>
+	</Sentence>
+	<Sentence id="58">
+		<Tokens>I can not wait for the successor to NEX-5n .</Tokens>
+		<POS>PRP MD RB VB IN DT NN TO NN .</POS>
+		<Lemma>I can not wait for the successor to nex-5n .</Lemma>
+	</Sentence>
+</Document>

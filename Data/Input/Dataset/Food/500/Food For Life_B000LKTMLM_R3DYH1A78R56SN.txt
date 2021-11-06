@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am quite sure the bible did n't include soy .</Tokens>
+		<POS>PRP VBP RB JJ DT NN VBD RB VB NN .</POS>
+		<Lemma>I be quite sure the bible do not include soy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am quite cross .</Tokens>
+		<POS>PRP VBP RB JJ .</POS>
+		<Lemma>I be quite cross .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>WHY WOULD YOU INCLUDE SOY ?????</Tokens>
+		<POS>WRB NNP PRP VB NNP CD</POS>
+		<Lemma>why WOULD you include SOY ?????</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They do not restrict themselves to Ezekiel so it is clear that this is a marketing thing -LRB- which would be fine by me , if they had n't include SOY -RRB-</Tokens>
+		<POS>PRP VBP RB VB PRP TO NNP IN PRP VBZ JJ IN DT VBZ DT NN NN -LRB- WDT MD VB JJ IN PRP , IN PRP VBD RB VB NNP -RRB-</POS>
+		<Lemma>they do not restrict themselves to Ezekiel so it be clear that this be a marketing thing -lrb- which would be fine by I , if they have not include SOY -rrb-</Lemma>
+	</Sentence>
+</Document>

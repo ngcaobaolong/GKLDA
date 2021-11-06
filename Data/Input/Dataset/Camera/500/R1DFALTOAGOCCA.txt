@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is my first time writing a review ever .</Tokens>
+		<POS>DT VBZ PRP$ JJ NN VBG DT NN RB .</POS>
+		<Lemma>this be my first time write a review ever .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I feel like obligated to let the consumer know that the output quality of this product is less than okay .</Tokens>
+		<POS>PRP VBP IN VBN TO VB DT NN VBP IN DT NN NN IN DT NN VBZ JJR IN JJ .</POS>
+		<Lemma>I feel like obligate to let the consumer know that the output quality of this product be less than okay .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I own this sx30is for a month now and I have about a thousand pictures in it .</Tokens>
+		<POS>PRP VBP DT NN IN DT NN RB CC PRP VBP IN DT CD NNS IN PRP .</POS>
+		<Lemma>I own this sx30i for a month now and I have about a thousand picture in it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I read all the review before I bought this canon and I can definitely attest that most of the bad reviews are correct .</Tokens>
+		<POS>PRP VBP PDT DT NN IN PRP VBD DT NN CC PRP MD RB VB IN JJS IN DT JJ NNS VBP JJ .</POS>
+		<Lemma>I read all the review before I buy this canon and I can definitely attest that most of the bad review be correct .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am keeping this canon just because of its zoom capability .</Tokens>
+		<POS>PRP VBP VBG DT NN RB IN IN PRP$ NN NN .</POS>
+		<Lemma>I be keep this canon just because of its zoom capability .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Less than good picture is always better than nothing .</Tokens>
+		<POS>RBR IN JJ NN VBZ RB JJR IN NN .</POS>
+		<Lemma>less than good picture be always better than nothing .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>`` My husband and I both now have the FlexSMART and we love the item .</Tokens>
+		<POS>`` PRP$ NN CC PRP DT RB VBP DT NN CC PRP VBP DT NN .</POS>
+		<Lemma>`` my husband and I both now have the flexsmart and we love the item .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy to operate .</Tokens>
+		<POS>NNP TO VB .</POS>
+		<Lemma>Easy to operate .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Now we can listen to SirusXM from our smart phones and still answer handsfree phone calls .</Tokens>
+		<POS>RB PRP MD VB TO JJ IN PRP$ JJ NNS CC RB VB NN NN NNS .</POS>
+		<Lemma>now we can listen to sirusxm from we smart phone and still answer handsfree phone call .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend this item to everyone . ''</Tokens>
+		<POS>PRP MD VB DT NN TO NN . ''</POS>
+		<Lemma>I would recommend this item to everyone . ''</Lemma>
+	</Sentence>
+</Document>

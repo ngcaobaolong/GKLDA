@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The shipment was quick and the product is quality .</Tokens>
+		<POS>DT NN VBD JJ CC DT NN VBZ NN .</POS>
+		<Lemma>the shipment be quick and the product be quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We 'd tried a sample from the LBS and then decided to buy them in bulk .</Tokens>
+		<POS>PRP MD VBD DT NN IN DT NN CC RB VBD TO VB PRP IN NN .</POS>
+		<Lemma>we would try a sample from the lb and then decide to buy they in bulk .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>One of the units was opened , so we discarded that , but everything else has been of high quality .</Tokens>
+		<POS>CD IN DT NNS VBD VBN , IN PRP VBD IN , CC NN RB VBZ VBN IN JJ NN .</POS>
+		<Lemma>one of the unit be open , so we discard that , but everything else have be of high quality .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They go down well on the ride with a little bit of water .</Tokens>
+		<POS>PRP VBP RB RB IN DT NN IN DT JJ NN IN NN .</POS>
+		<Lemma>they go down well on the ride with a little bit of water .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Now if only I could look more graceful in getting the individual packages open while on the ride .</Tokens>
+		<POS>RB IN RB PRP MD VB JJR JJ IN VBG DT JJ NNS JJ IN IN DT NN .</POS>
+		<Lemma>now if only I could look more graceful in get the individual package open while on the ride .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Although this isnt yet the last final ultimate complete charger you 'll ever need its real real close and I would still buy another one !</Tokens>
+		<POS>IN DT NN RB DT JJ JJ JJ JJ NN PRP MD RB VB PRP$ JJ JJ NN CC PRP MD RB VB DT CD .</POS>
+		<Lemma>although this isnt yet the last final ultimate complete charger you 'll ever need its real real close and I would still buy another one !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Does everything with one exception , Charge the double AA batts !!</Tokens>
+		<POS>VBZ NN IN CD NN , NNP DT JJ NN NNS VBP</POS>
+		<Lemma>do everything with one exception , Charge the double aa batt !!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A minor switch could be added to perform that task ... still its a 9.5 out of 10</Tokens>
+		<POS>DT JJ NN MD VB VBN TO VB DT NN : RB PRP$ DT CD IN IN CD</POS>
+		<Lemma>a minor switch could be add to perform that task ... still its a 9.5 out of 10</Lemma>
+	</Sentence>
+</Document>

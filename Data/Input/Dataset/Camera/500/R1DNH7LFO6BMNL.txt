@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this camera for a gift for a once in a lifetime vacation experience .</Tokens>
+		<POS>VBN DT NN IN DT NN IN DT RB IN DT NN NN NN .</POS>
+		<Lemma>buy this camera for a gift for a once in a lifetime vacation experience .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Took great photos and video until it got wet .</Tokens>
+		<POS>VBD JJ NNS CC NN IN PRP VBD JJ .</POS>
+		<Lemma>take great photo and video until it get wet .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As soon as it was submerged , the lens fogged up and the camera shut off .</Tokens>
+		<POS>RB RB IN PRP VBD VBN , DT NN VBD RB CC DT NN VBD RP .</POS>
+		<Lemma>as soon as it be submerge , the lens fog up and the camera shut off .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Tried drying it out but would never turn back on .</Tokens>
+		<POS>VBD VBG PRP RP CC MD RB VB RP IN .</POS>
+		<Lemma>try dry it out but would never turn back on .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Thank goodness the land photos were saved on the SD card .</Tokens>
+		<POS>VB NN DT NN NNS VBD VBN IN DT NN NN .</POS>
+		<Lemma>thank goodness the land photo be save on the sd card .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Could not use for the snorkeling adventure , which is WHY WE BOUGHT THE CAMERA , Kodak says it is under warranty will fix or replace , but will not issue a refund .</Tokens>
+		<POS>MD RB VB IN DT JJ NN , WDT VBZ WRB NNP NNP DT NN , NNP VBZ PRP VBZ IN NN MD VB CC VB , CC MD RB VB DT NN .</POS>
+		<Lemma>could not use for the snorkeling adventure , which be why WE BOUGHT the camera , Kodak say it be under warranty will fix or replace , but will not issue a refund .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I hope it works when they send it back .</Tokens>
+		<POS>PRP VBP PRP VBZ WRB PRP VBP PRP RB .</POS>
+		<Lemma>I hope it work when they send it back .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Very disappointed in the camera .</Tokens>
+		<POS>RB VBN IN DT NN .</POS>
+		<Lemma>very disappoint in the camera .</Lemma>
+	</Sentence>
+</Document>

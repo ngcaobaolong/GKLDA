@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Beware , This cable can only transfer data from a PC .</Tokens>
+		<POS>VB , DT NN MD RB VB NNS IN DT NN .</POS>
+		<Lemma>beware , this cable can only transfer datum from a pc .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It can not charge the Droid when EITHER plugged into a PC or into the wall charger .</Tokens>
+		<POS>PRP MD RB VB DT NNP WRB NNP VBD IN DT NN CC IN DT NN NN .</POS>
+		<Lemma>it can not charge the Droid when EITHER plug into a pc or into the wall charger .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Look elsewhere ...</Tokens>
+		<POS>VB RB :</POS>
+		<Lemma>look elsewhere ...</Lemma>
+	</Sentence>
+</Document>

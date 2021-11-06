@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>PROS : A very small and lightweight video camera that captures color beautifully with subtlety , depth and accuracy .</Tokens>
+		<POS>NNS : DT RB JJ CC JJ NN NN WDT VBZ NN RB IN NN , NN CC NN .</POS>
+		<Lemma>pro : a very small and lightweight video camera that capture color beautifully with subtlety , depth and accuracy .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Super sharp HD images even without using highest quality settings .</Tokens>
+		<POS>NNP JJ NN NNS RB IN VBG JJS NN NNS .</POS>
+		<Lemma>Super sharp hd image even without use highest quality setting .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The wide angle lens is a major plus and the steady shot really works .</Tokens>
+		<POS>DT JJ NN NN VBZ DT JJ NN CC DT JJ NN RB VBZ .</POS>
+		<Lemma>the wide angle lens be a major plus and the steady shot really work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>CONS : Focus is a little tricky and there is no manual focus ring .</Tokens>
+		<POS>NNS : NN VBZ DT JJ JJ CC EX VBZ DT NN NN NN .</POS>
+		<Lemma>con : focus be a little tricky and there be no manual focus ring .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Zoom control is very touchy and must be used carefully .</Tokens>
+		<POS>NN NN VBZ RB JJ CC MD VB VBN RB .</POS>
+		<Lemma>zoom control be very touchy and must be use carefully .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Built-in mic works okay indoors but very sensitive to wind noise when being used outside .</Tokens>
+		<POS>JJ JJ NNS JJ RB CC RB JJ TO VB NN WRB VBG VBN IN .</POS>
+		<Lemma>built-in mic work okay indoors but very sensitive to wind noise when be use outside .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Although it has a mic input , there is no headphone output to monitor your recording .</Tokens>
+		<POS>IN PRP VBZ DT JJ NN , EX VBZ DT NN NN TO VB PRP$ NN .</POS>
+		<Lemma>although it have a mic input , there be no headphone output to monitor you recording .</Lemma>
+	</Sentence>
+</Document>

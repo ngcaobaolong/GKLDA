@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Purchased it to be an all-around travel charger for basic cell phone , Ipod , Iphone .</Tokens>
+		<POS>VBN PRP TO VB DT JJ NN NN IN JJ NN NN , NNP , NNP .</POS>
+		<Lemma>purchase it to be a all-around travel charger for basic cell phone , Ipod , Iphone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Worked fine for just one trip and additional use in the car , then the A\/C plug simply came apart and with it the rest of the gizmo .</Tokens>
+		<POS>JJ NN IN RB CD NN CC JJ NN IN DT NN , RB DT NN NN RB VBD RB CC IN PRP DT NN IN DT NN .</POS>
+		<Lemma>worked fine for just one trip and additional use in the car , then the a\/c plug simply come apart and with it the rest of the gizmo .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Review rating would have been much better if I had n't waited to see how it would hold up .</Tokens>
+		<POS>NNP NN MD VB VBN RB RBR IN PRP VBD RB VBD TO VB WRB PRP MD VB RP .</POS>
+		<Lemma>Review rating would have be much better if I have not wait to see how it would hold up .</Lemma>
+	</Sentence>
+</Document>

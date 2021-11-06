@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just received my shipment and could hardly wait to try this product .</Tokens>
+		<POS>PRP RB VBD PRP$ NN CC MD RB VB TO VB DT NN .</POS>
+		<Lemma>I just receive my shipment and could hardly wait to try this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We love `` slickers '' which is what we call them , instead of stickers because they can be removed so easily .</Tokens>
+		<POS>PRP VBP `` NNS '' WDT VBZ WP PRP VBP PRP , RB IN NNS IN PRP MD VB VBN RB RB .</POS>
+		<Lemma>we love `` slicker '' which be what we call they , instead of sticker because they can be remove so easily .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>My daughter designed signs to be printed in reverse to use on her car windows .</Tokens>
+		<POS>PRP$ NN VBN NNS TO VB VBN IN JJ TO VB IN PRP$ NN NNS .</POS>
+		<Lemma>my daughter design sign to be print in reverse to use on she car window .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They printed beautifully -LRB- we have ` The Print Shop ' program -RRB- .</Tokens>
+		<POS>PRP VBD RB -LRB- PRP VBP `` DT NNP NNP POS NN -RRB- .</POS>
+		<Lemma>they print beautifully -lrb- we have ` the Print Shop ' program -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am going to have a lot of fun with this product because there are windows everywhere and other surfaces like tv screens and computer monitors .</Tokens>
+		<POS>PRP VBP VBG TO VB DT NN IN NN IN DT NN IN EX VBP NNS RB CC JJ NNS IN NN NNS CC NN NNS .</POS>
+		<Lemma>I be go to have a lot of fun with this product because there be window everywhere and other surface like tv screen and computer monitor .</Lemma>
+	</Sentence>
+</Document>

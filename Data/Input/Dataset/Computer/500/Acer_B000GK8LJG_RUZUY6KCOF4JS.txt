@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is great for the price .</Tokens>
+		<POS>DT NN VBZ JJ IN DT NN .</POS>
+		<Lemma>this monitor be great for the price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would have given 5 stars if the instructions had been a little better .</Tokens>
+		<POS>PRP MD VB VBN CD NNS IN DT NNS VBD VBN DT JJ JJR .</POS>
+		<Lemma>I would have give 5 star if the instruction have be a little better .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was able to figure it out ... but a good set of instructions would have been easier .</Tokens>
+		<POS>PRP VBD JJ TO VB PRP RP : CC DT JJ NN IN NNS MD VB VBN JJR .</POS>
+		<Lemma>I be able to figure it out ... but a good set of instruction would have be easier .</Lemma>
+	</Sentence>
+</Document>

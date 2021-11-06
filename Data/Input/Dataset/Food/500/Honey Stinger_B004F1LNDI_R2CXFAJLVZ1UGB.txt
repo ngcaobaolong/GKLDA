@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am a fan of the Honey Stinger bars , and bought these because I needed something lighter that I could take with me on my bike rides or before a jog .</Tokens>
+		<POS>PRP VBP DT NN IN DT NNP NNP NNS , CC VBD DT IN PRP VBD NN JJR IN PRP MD VB IN PRP IN PRP$ NN NNS CC IN DT NN .</POS>
+		<Lemma>I be a fan of the Honey Stinger bar , and buy these because I need something lighter that I could take with I on my bike ride or before a jog .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Wow these are very tasty and are enough of a snack to keep me going .</Tokens>
+		<POS>UH DT VBP RB JJ CC VBP RB IN DT NN TO VB PRP VBG .</POS>
+		<Lemma>wow these be very tasty and be enough of a snack to keep I go .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They are as wide as the base of a soda can , and are great on the go .</Tokens>
+		<POS>PRP VBP IN JJ IN DT NN IN DT NN MD , CC VBP JJ IN DT NN .</POS>
+		<Lemma>they be as wide as the base of a soda can , and be great on the go .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend these if you like the Stinger bars .</Tokens>
+		<POS>PRP MD VB DT IN PRP IN DT NNP NNS .</POS>
+		<Lemma>I would recommend these if you like the Stinger bar .</Lemma>
+	</Sentence>
+</Document>

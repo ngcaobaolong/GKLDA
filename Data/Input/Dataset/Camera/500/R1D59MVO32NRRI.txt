@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Disclaimer : I 'm a geek .</Tokens>
+		<POS>NNP : PRP VBP DT NN .</POS>
+		<Lemma>Disclaimer : I be a geek .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I wanted a camera to watch our dog during the day while we were at work .</Tokens>
+		<POS>PRP VBD DT NN TO VB PRP$ NN IN DT NN IN PRP VBD IN NN .</POS>
+		<Lemma>I want a camera to watch we dog during the day while we be at work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I mulled over this item for awhile due to some of the poor reviews it received on the software .</Tokens>
+		<POS>PRP VBD IN DT NN IN RB JJ TO DT IN DT JJ NNS PRP VBD IN DT NN .</POS>
+		<Lemma>I mull over this item for awhile due to some of the poor review it receive on the software .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Maybe these were from a previous firmware version , but I did not have much difficulty at all understanding the menus or setting up the camera , but I could see that a luddite could stumble over some of the features .</Tokens>
+		<POS>RB DT VBD IN DT JJ NN NN , CC PRP VBD RB VB JJ NN IN DT VBG DT NNS CC VBG RP DT NN , CC PRP MD VB IN DT NN MD VB IN DT IN DT NNS .</POS>
+		<Lemma>maybe these be from a previous firmware version , but I do not have much difficulty at all understand the menu or set up the camera , but I could see that a luddite could stumble over some of the feature .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If setting up static DHCP reservations on your router and configuring port-translation for external access just made you stop reading , then pay some neighborhood kid $ 20 to do this for you .</Tokens>
+		<POS>IN VBG RP JJ NN NNS IN PRP$ NN CC VBG NN IN JJ NN RB VBN PRP VB VBG , RB VB DT NN NN $ CD TO VB DT IN PRP .</POS>
+		<Lemma>if set up static dhcp reservation on you router and configure port-translation for external access just make you stop read , then pay some neighborhood kid $ 20 to do this for you .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>While they 're at it , tell them to install the newest firmware off the US site .</Tokens>
+		<POS>IN PRP VBP IN PRP , VB PRP TO VB DT JJS NN IN DT NNP NN .</POS>
+		<Lemma>while they be at it , tell they to install the newest firmware off the US site .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It adds some features and fixes some annoyances found when you DO N'T use Internet Explorer .</Tokens>
+		<POS>PRP VBZ DT NNS CC NNS DT NNS VBN WRB PRP VBP RB VB NN NNP .</POS>
+		<Lemma>it add some feature and fix some annoyance find when you do not use internet Explorer .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The camera itself seems very well made for being a cheap Chinese-manufactured piece of hardware , but I was willing to overlook the manufacturing due to all the features it comes with .</Tokens>
+		<POS>DT NN PRP VBZ RB RB VBN IN VBG DT JJ JJ NN IN NN , CC PRP VBD JJ TO VB DT NN JJ TO DT DT NNS PRP VBZ IN .</POS>
+		<Lemma>the camera itself seem very well make for be a cheap chinese-manufactured piece of hardware , but I be willing to overlook the manufacturing due to all the feature it come with .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>What I got was a pretty nice looking camera that does everything advertised and allows us to watch our pooch sleep all day -LRB- big surprise -RRB- .</Tokens>
+		<POS>WP PRP VBD VBD DT RB JJ VBG NN WDT VBZ NN JJ CC VBZ PRP TO VB PRP$ NN VB DT NN -LRB- JJ NN -RRB- .</POS>
+		<Lemma>what I get be a pretty nice look camera that do everything advertised and allow we to watch we pooch sleep all day -lrb- big surprise -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If you 're on an Android phone , I highly recommend the full-version of the `` IP Cam Viewer '' app to use the camera to it 's fullest .</Tokens>
+		<POS>IN PRP VBP IN DT JJ NN , PRP RB VB DT NN IN DT `` NNP NNP NNP '' NN TO VB DT NN TO PRP VBZ JJS .</POS>
+		<Lemma>if you be on a android phone , I highly recommend the full-version of the `` IP Cam Viewer '' app to use the camera to it be fullest .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It allows you to move the camera , select all the pre-sets , activate IR , store snapshots and video , listen and broadcast -LRB- although I have n't managed to get the broadcasting working yet -RRB- and more .</Tokens>
+		<POS>PRP VBZ PRP TO VB DT NN , JJ PDT DT NNS , VBP NN , NN NNS CC NN , VB CC VB -LRB- IN PRP VBP RB VBN TO VB DT NN VBG RB -RRB- CC RBR .</POS>
+		<Lemma>it allow you to move the camera , select all the pre-set , activate ir , store snapshot and video , listen and broadcast -lrb- although I have not manage to get the broadcasting work yet -rrb- and more .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>It would be nice if the next firmware update added some features and security , but for the price paid , I 'm not losing sleep over it .</Tokens>
+		<POS>PRP MD VB JJ IN DT JJ NN VBP VBN DT NNS CC NN , CC IN DT NN VBN , PRP VBP RB VBG NN IN PRP .</POS>
+		<Lemma>it would be nice if the next firmware update add some feature and security , but for the price pay , I be not lose sleep over it .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Overall I really like this camera and recommend it often .</Tokens>
+		<POS>JJ PRP RB IN DT NN CC VB PRP RB .</POS>
+		<Lemma>overall I really like this camera and recommend it often .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 'm considering adding a few more to my home for security once I find a decent enclosure to use .</Tokens>
+		<POS>PRP VBP VBG VBG DT JJ JJR TO PRP$ NN IN NN IN PRP VBP DT JJ NN TO VB .</POS>
+		<Lemma>I be consider add a few more to my home for security once I find a decent enclosure to use .</Lemma>
+	</Sentence>
+</Document>

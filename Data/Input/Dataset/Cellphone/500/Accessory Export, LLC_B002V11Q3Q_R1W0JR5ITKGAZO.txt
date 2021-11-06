@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really did n't care about the negative reviews for this product because I only needed it to charge my phone not sync or transfer data .</Tokens>
+		<POS>PRP RB VBD RB VB IN DT JJ NNS IN DT NN IN PRP RB VBD PRP TO VB PRP$ NN RB NN CC NN NNS .</POS>
+		<Lemma>I really do not care about the negative review for this product because I only need it to charge my phone not sync or transfer datum .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Fortunately , it works as a charger and can also sync and transfer data .</Tokens>
+		<POS>RB , PRP VBZ IN DT NN CC MD RB NN CC NN NNS .</POS>
+		<Lemma>fortunately , it work as a charger and can also sync and transfer datum .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The cord is also longer than the original one that came with my phone .</Tokens>
+		<POS>DT NN VBZ RB JJR IN DT JJ CD WDT VBD IN PRP$ NN .</POS>
+		<Lemma>the cord be also longer than the original one that come with my phone .</Lemma>
+	</Sentence>
+</Document>

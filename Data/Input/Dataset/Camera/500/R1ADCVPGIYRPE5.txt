@@ -1,0 +1,87 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've used digital cameras since 1998 and currently own 6 or 7 Canon cameras from pocket to semi-pro DSLR -LRB- 5D -RRB- , I went off brand to try this Kodak camera because of the phenomenal optical zoom range of 30x , equivalent to over 800mm on a 35mm camera .</Tokens>
+		<POS>PRP VBP VBN JJ NNS IN CD CC RB JJ CD CC CD NNP NNS IN NN TO NN NN -LRB- NN -RRB- , PRP VBD RB NN TO VB DT NNP NN IN IN DT JJ JJ NN NN IN NN , JJ TO IN NN IN DT CD NN .</POS>
+		<Lemma>I have use digital camera since 1998 and currently own 6 or 7 Canon camera from pocket to semi-pro dslr -lrb- 5d -rrb- , I go off brand to try this Kodak camera because of the phenomenal optical zoom range of 30x , equivalent to over 800mm on a 35mm camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The camera has the typical small sized sensor of its ilk which creates a tendency to noise at low light levels .</Tokens>
+		<POS>DT NN VBZ DT JJ JJ VBN NN IN PRP$ NN WDT VBZ DT NN TO NN IN JJ JJ NNS .</POS>
+		<Lemma>the camera have the typical small size sensor of its ilk which create a tendency to noise at low light level .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As is increasingly common with newer cameras the Easyshare Max uses a backlight on the sensor to flatten noise , and it works well , but nonetheless if you zoom to the actual pixel level noise is visible even in some well lit shots .</Tokens>
+		<POS>IN VBZ RB JJ IN JJR NNS DT NNP NNP VBZ DT NN IN DT NN TO VB NN , CC PRP VBZ RB , CC RB IN PRP VBP TO DT JJ NN NN NN VBZ JJ RB IN DT RB VBN NNS .</POS>
+		<Lemma>as be increasingly common with newer camera the Easyshare Max use a backlight on the sensor to flatten noise , and it work well , but nonetheless if you zoom to the actual pixel level noise be visible even in some well light shot .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The automatic white balance works very well in a variety of lighting conditions .</Tokens>
+		<POS>DT JJ JJ NN VBZ RB RB IN DT NN IN NN NNS .</POS>
+		<Lemma>the automatic white balance work very well in a variety of lighting condition .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It does a good job with flash on indoor low light shots , but the stunning performance of this camera at full zoom is amazing and well worth the price for that alone .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN NN IN JJ JJ NN NNS , CC DT JJ NN IN DT NN IN JJ NN VBZ JJ CC RB IN DT NN IN DT RB .</POS>
+		<Lemma>it do a good job with flash on indoor low light shot , but the stunning performance of this camera at full zoom be amazing and well worth the price for that alone .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>A family of hawks have been hanging out on a tall tree outside my house , already on top of a hill , using this camera I got shots of them from inside my house through a dirty plate glass window while the hawks were about 150 feet away .</Tokens>
+		<POS>DT NN IN NNS VBP VBN VBG RP IN DT JJ NN IN PRP$ NN , RB IN NN IN DT NN , VBG DT NN PRP VBD NNS IN PRP IN IN PRP$ NN IN DT JJ NN NN NN IN DT NNS VBD RB CD NNS RB .</POS>
+		<Lemma>a family of hawk have be hang out on a tall tree outside my house , already on top of a hill , use this camera I get shot of they from inside my house through a dirty plate glass window while the hawk be about 150 foot away .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Sample photos @ -LRB- ... -RRB- The image stabilization feature works very well , the lag time between fully pressing the shutter from a pre-focused state is negligible , usually undetectable .</Tokens>
+		<POS>NN NNS IN -LRB- : -RRB- DT NN NN NN VBZ RB RB , DT NN NN IN RB VBG DT NN IN DT JJ NN VBZ JJ , RB JJ .</POS>
+		<Lemma>sample photo @ -lrb- ... -rrb- the image stabilization feature work very well , the lag time between fully press the shutter from a pre-focused state be negligible , usually undetectable .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>While using this camera it may seem it saves to the SDHC card very slowly , but in fact what it does by default is show the last image until a timeout is reached , this was an opportunity for improvement never taken .</Tokens>
+		<POS>IN VBG DT NN PRP MD VB PRP VBZ TO DT NNP NN RB RB , CC IN NN WP PRP VBZ IN NN VBZ VB DT JJ NN IN DT NN VBZ VBN , DT VBD DT NN IN NN RB VBN .</POS>
+		<Lemma>while use this camera it may seem it save to the SDHC card very slowly , but in fact what it do by default be show the last image until a timeout be reach , this be a opportunity for improvement never take .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Just press the shutter button slightly when you think the last image should have been saved and you will find it already was when the camera immediately reverts to showing you the current view through the lens .</Tokens>
+		<POS>RB VB DT NN NN RB WRB PRP VBP DT JJ NN MD VB VBN VBN CC PRP MD VB PRP RB VBD WRB DT NN RB VBZ TO VBG PRP DT JJ NN IN DT NN .</POS>
+		<Lemma>just press the shutter button slightly when you think the last image should have be save and you will find it already be when the camera immediately revert to show you the current view through the lens .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I very much like the electronic viewfinder on this camera .</Tokens>
+		<POS>PRP RB RB IN DT JJ NN IN DT NN .</POS>
+		<Lemma>I very much like the electronic viewfinder on this camera .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I use it instead of the LCD panel and suspect that has contributed to the battery life being so good , easily over 200 photos .</Tokens>
+		<POS>PRP VBP PRP RB IN DT NNS NN CC VB DT VBZ VBN TO DT NN NN VBG RB JJ , RB IN CD NNS .</POS>
+		<Lemma>I use it instead of the lcd panel and suspect that have contribute to the battery life be so good , easily over 200 photo .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Many of the images from this camera seem quite soft on focus , no doubt in part because of the agressive noise reduction in the firmware , they benefit from sharpening in post production .</Tokens>
+		<POS>JJ IN DT NNS IN DT NN VBP RB JJ IN NN , DT NN IN NN IN IN DT JJ NN NN IN DT NN , PRP VBP IN VBG IN NN NN .</POS>
+		<Lemma>many of the image from this camera seem quite soft on focus , no doubt in part because of the agressive noise reduction in the firmware , they benefit from sharpen in post production .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>My camera came from Amazon with an included Kodak NiMH AA charger and a set of 4 Kodak NiMH batteries .</Tokens>
+		<POS>PRP$ NN VBD IN NNP IN DT VBN NNP NNP NNP NN CC DT NN IN CD NNP NNP NNS .</POS>
+		<Lemma>my camera come from Amazon with a include Kodak NiMH AA charger and a set of 4 Kodak NiMH battery .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>\*\* See edit below \*\* I -LRB- originally -RRB- gave this camera 4 stars , I 'm glad I did not let this bargain slip by .</Tokens>
+		<POS>SYM VB VB IN SYM PRP -LRB- RB -RRB- VBD DT NN CD NNS , PRP VBP JJ PRP VBD RB VB DT NN NN IN .</POS>
+		<Lemma>\*\* see edit below \*\* I -lrb- originally -rrb- give this camera 4 star , I be glad I do not let this bargain slip by .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>EDITED LATER After using this camera more I find that there is clearly visible noise even in very bright scenes .</Tokens>
+		<POS>NNP NNP IN VBG DT NN RBR PRP VBP IN EX VBZ RB JJ NN RB IN RB JJ NNS .</POS>
+		<Lemma>EDITED LATER after use this camera more I find that there be clearly visible noise even in very bright scene .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I have reduced my rating to two stars because this is completely unlike other cameras I have used .</Tokens>
+		<POS>PRP VBP VBN PRP$ NN TO CD NNS IN DT VBZ RB IN JJ NNS PRP VBP VBN .</POS>
+		<Lemma>I have reduce my rating to two star because this be completely unlike other camera I have use .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Since buying this camera I obtained a very similar Canon model SX-40 , the difference in image quality is like night and day .</Tokens>
+		<POS>IN VBG DT NN PRP VBD DT RB JJ NNP NN NN , DT NN IN NN NN VBZ IN NN CC NN .</POS>
+		<Lemma>since buy this camera I obtain a very similar Canon model sx-40 , the difference in image quality be like night and day .</Lemma>
+	</Sentence>
+</Document>

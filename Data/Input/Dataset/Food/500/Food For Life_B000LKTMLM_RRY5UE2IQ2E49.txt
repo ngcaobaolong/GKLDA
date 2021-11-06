@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cereal is not for everyone , but if you can appreciate the texture and flavor , it 's definitely a winner .</Tokens>
+		<POS>DT NN VBZ RB IN NN , CC IN PRP MD VB DT NN CC NN , PRP VBZ RB DT NN .</POS>
+		<Lemma>this cereal be not for everyone , but if you can appreciate the texture and flavor , it be definitely a winner .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a great cereal to work into your diet , and tastes great in milk , topped with raisins .</Tokens>
+		<POS>PRP VBZ DT JJ NN TO VB IN PRP$ NN , CC NNS JJ IN NN , VBN IN NNS .</POS>
+		<Lemma>it be a great cereal to work into you diet , and taste great in milk , top with raisin .</Lemma>
+	</Sentence>
+</Document>

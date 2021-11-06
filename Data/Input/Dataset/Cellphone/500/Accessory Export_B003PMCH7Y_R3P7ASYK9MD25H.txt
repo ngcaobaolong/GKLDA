@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I did n't expect much from this charger , and my expectations were right because this charger is useless .</Tokens>
+		<POS>PRP VBD RB VB JJ IN DT NN , CC PRP$ NNS VBD RB IN DT NN VBZ JJ .</POS>
+		<Lemma>I do not expect much from this charger , and my expectation be right because this charger be useless .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My phone lit up as if it were connected to the charger , but it drained the battery instead .</Tokens>
+		<POS>PRP$ NN VBD RP IN IN PRP VBD VBN TO DT NN , CC PRP VBD DT NN RB .</POS>
+		<Lemma>my phone light up as if it be connect to the charger , but it drain the battery instead .</Lemma>
+	</Sentence>
+</Document>

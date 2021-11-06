@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Used it for snorkeling and on the beach .</Tokens>
+		<POS>VBN PRP IN VBG CC IN DT NN .</POS>
+		<Lemma>use it for snorkele and on the beach .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Does a good job in rainy weather .</Tokens>
+		<POS>VBZ DT JJ NN IN JJ NN .</POS>
+		<Lemma>do a good job in rainy weather .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is a tough little camera .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN .</POS>
+		<Lemma>it be a tough little camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But ... unlike most other similar cameras battery charging overly complicated -LRB- need to plug into inside of battery and memory card compartment -RRB- also video focus mechanism is overly sensitive .</Tokens>
+		<POS>CC : IN JJS JJ JJ NNS NN VBG RB VBN -LRB- VB TO VB IN NN IN NN CC NN NN NN -RRB- RB JJ NN NN VBZ RB JJ .</POS>
+		<Lemma>but ... unlike most other similar camera battery charge overly complicate -lrb- need to plug into inside of battery and memory card compartment -rrb- also video focus mechanism be overly sensitive .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Overall it 's a decent camera but be clear on how you will use it and compare it with others especially new arrivals to the market .</Tokens>
+		<POS>RB PRP VBZ DT JJ NN CC VB JJ IN WRB PRP MD VB PRP CC VB PRP IN NNS RB JJ NNS TO DT NN .</POS>
+		<Lemma>overall it be a decent camera but be clear on how you will use it and compare it with other especially new arrival to the market .</Lemma>
+	</Sentence>
+</Document>

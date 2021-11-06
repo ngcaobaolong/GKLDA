@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Can I just say that these taste awesome !!</Tokens>
+		<POS>MD PRP RB VBP IN DT NN JJ NN</POS>
+		<Lemma>can I just say that these taste awesome !!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have not had a chance to try these during a run yet , but from the other reviews I 'll probably just open the package first before I leave .</Tokens>
+		<POS>PRP VBP RB VBN DT NN TO VB DT IN DT NN RB , CC IN DT JJ NNS PRP MD RB RB VB DT NN RB IN PRP VBP .</POS>
+		<Lemma>I have not have a chance to try these during a run yet , but from the other review I 'll probably just open the package first before I leave .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They absolutely give me a burst of energy , and taste really good .</Tokens>
+		<POS>PRP RB VBP PRP DT NN IN NN , CC NN RB JJ .</POS>
+		<Lemma>they absolutely give I a burst of energy , and taste really good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>would recommend to others !!</Tokens>
+		<POS>MD VB TO NNS IN</POS>
+		<Lemma>would recommend to other !!</Lemma>
+	</Sentence>
+</Document>

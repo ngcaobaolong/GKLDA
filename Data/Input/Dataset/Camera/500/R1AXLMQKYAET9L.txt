@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the second underwater camera I have owned .</Tokens>
+		<POS>DT VBZ DT JJ JJ NN PRP VBP VBN .</POS>
+		<Lemma>this be the second underwater camera I have own .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The other one was a Olympus Stylus 770SW .</Tokens>
+		<POS>DT JJ CD VBD DT NNP NNP NNP .</POS>
+		<Lemma>the other one be a Olympus Stylus 770SW .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The Olympus died on me in early April .</Tokens>
+		<POS>DT NNP VBD IN PRP IN JJ NNP .</POS>
+		<Lemma>the Olympus die on I in early April .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I was thinking buying another Olympus , when I checked out the Nikon AW100 .</Tokens>
+		<POS>PRP VBD VBG VBG DT NNP , WRB PRP VBD RP DT NNP NN .</POS>
+		<Lemma>I be think buy another Olympus , when I check out the Nikon aw100 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I decided to buy Nikon because it seemed a better camera than the Olympus Stylus Tough 8010 14MP Digit al Camera or Olympus ToughTG-1 iHS .</Tokens>
+		<POS>PRP VBD TO VB NNP IN PRP VBD DT JJR NN IN DT NNP NNP JJ CD NN NNP NNP NNP CC NNP NNP NNP .</POS>
+		<Lemma>I decide to buy Nikon because it seem a better camera than the Olympus Stylus tough 8010 14mp Digit al Camera or Olympus ToughTG-1 iHS .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In the end I am glad I bought the Nikon AW100 .</Tokens>
+		<POS>IN DT NN PRP VBP JJ PRP VBD DT NNP NN .</POS>
+		<Lemma>in the end I be glad I buy the Nikon aw100 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It has been a month now and I am glad to say I made a good choice .</Tokens>
+		<POS>PRP VBZ VBN DT NN RB CC PRP VBP JJ TO VB PRP VBD DT JJ NN .</POS>
+		<Lemma>it have be a month now and I be glad to say I make a good choice .</Lemma>
+	</Sentence>
+</Document>

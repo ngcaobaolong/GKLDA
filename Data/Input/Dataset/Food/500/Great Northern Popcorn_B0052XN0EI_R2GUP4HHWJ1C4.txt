@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I too experienced a little hiccup with my first batch of Great Northern Premium popped corn , however , it turned out to be me `` undercooking '' it that made it taste chewy an unappetizing .</Tokens>
+		<POS>PRP RB VBD DT JJ NN IN PRP$ JJ NN IN NNP NNP NNP VBD NN , RB , PRP VBD RP TO VB PRP `` VBG '' PRP IN VBN PRP VBP JJ DT JJ .</POS>
+		<Lemma>I too experience a little hiccup with my first batch of Great Northern Premium pop corn , however , it turn out to be I `` undercook '' it that make it taste chewy a unappetizing .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I started my first 1\/3 cup batch at 2.30 minutes , trying not to burn it , however , with my second and all subsequent batches , I am using a Nordic Ware popping bowl -LRB- <a href="http://www.amazon.com/gp/product/B00004W4UP/ref=cm_cr_asin_lnk/190-8603083-8546524"> Nordic Ware 60120 Microwaver Popcorn Popper 12 Cup </a> also bought here on Amazon.com -RRB- in our 1000W microwave at 3.05 minutes and it has come out consistently crisp , light and full of flavor each and every time with no burning .</Tokens>
+		<POS>PRP VBD PRP$ JJ CD NN NN IN CD NNS , VBG RB TO VB PRP , RB , IN PRP$ JJ CC DT JJ NNS , PRP VBP VBG DT JJ NNP VBG NN -LRB- NN JJ NNP CD NNP NNP NNP CD NNP NNP RB VBD RB IN NNP -RRB- IN PRP$ NN NN IN CD NNS CC PRP VBZ VBN RP RB JJ , JJ CC JJ IN NN DT CC DT NN IN DT NN .</POS>
+		<Lemma>I start my first 1\/3 cup batch at 2.30 minute , try not to burn it , however , with my second and all subsequent batch , I be use a nordic Ware pop bowl -lrb- <a href="http://www.amazon.com/gp/product/b00004w4up/ref=cm_cr_asin_lnk/190-8603083-8546524"> nordic Ware 60120 Microwaver Popcorn Popper 12 Cup </a> also buy here on Amazon.com -rrb- in we 1000w microwave at 3.05 minute and it have come out consistently crisp , light and full of flavor each and every time with no burning .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Furthermore , I have almost NO kernels left in the bottom of the bowl .</Tokens>
+		<POS>RB , PRP VBP RB NN NNS VBD IN DT NN IN DT NN .</POS>
+		<Lemma>furthermore , I have almost no kernel leave in the bottom of the bowl .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The Nordic Ware bowl allows you to cook without the need for oils of any kind , a plus for the health-conscience .</Tokens>
+		<POS>DT JJ NNP NN VBZ PRP TO VB IN DT NN IN NNS IN DT NN , DT CC IN DT NN .</POS>
+		<Lemma>the nordic Ware bowl allow you to cook without the need for oils of any kind , a plus for the health-conscience .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>To top it off , a little I Ca n't Believe it 's Not Butter 0 calorie spray a few times on top with a light sprinkle of sea salt , a brisk shake to stir it in and you will have the most flavorful , guilt-free movie-time treat , period !</Tokens>
+		<POS>TO VB PRP RP , DT JJ PRP MD RB VB PRP VBZ RB NN CD NN NN DT JJ NNS IN JJ IN DT JJ VBP IN NN NN , DT JJ NN TO VB PRP IN CC PRP MD VB DT RBS JJ , JJ JJ NN , NN .</POS>
+		<Lemma>to top it off , a little I can not believe it be not butter 0 calorie spray a few time on top with a light sprinkle of sea salt , a brisk shake to stir it in and you will have the most flavorful , guilt-free movie-time treat , period !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I love this stuff - we are eating two bowls a night , so the size of the bag does not scare us .</Tokens>
+		<POS>PRP VBP DT NN : PRP VBP VBG CD VBZ DT NN , IN DT NN IN DT NN VBZ RB VB PRP .</POS>
+		<Lemma>I love this stuff - we be eat two bowl a night , so the size of the bag do not scare we .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would recommend moving the kernels to an airtight container however , to keep them fresh .</Tokens>
+		<POS>PRP MD VB VBG DT NNS TO DT JJ NN RB , TO VB PRP JJ .</POS>
+		<Lemma>I would recommend move the kernel to a airtight container however , to keep they fresh .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Great Northern , if you are reading this , a resealable bag would be a nice touch to keep the large bag sealed ... Other than that , keep making flawless popcorn kernels , thanks !</Tokens>
+		<POS>NNP NNP , IN PRP VBP VBG DT , DT JJ NN MD VB DT JJ NN TO VB DT JJ NN VBN : JJ IN DT , VB VBG JJ NN NNS , NNS .</POS>
+		<Lemma>Great Northern , if you be read this , a resealable bag would be a nice touch to keep the large bag seal ... other than that , keep make flawless popcorn kernel , thanks !</Lemma>
+	</Sentence>
+</Document>

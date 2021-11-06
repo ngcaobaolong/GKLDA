@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We did not enjoy this bread which I made in the bread machine .</Tokens>
+		<POS>PRP VBD RB VB DT NN WDT PRP VBD IN DT NN NN .</POS>
+		<Lemma>we do not enjoy this bread which I make in the bread machine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The texture was wet and spongily unappetizing .</Tokens>
+		<POS>DT NN VBD JJ CC JJ JJ .</POS>
+		<Lemma>the texture be wet and spongily unappetizing .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The caraway seed was overpowering .</Tokens>
+		<POS>DT NN NN VBD VBG .</POS>
+		<Lemma>the caraway seed be overpower .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My husband could not finish one slice .</Tokens>
+		<POS>PRP$ NN MD RB VB CD NN .</POS>
+		<Lemma>my husband could not finish one slice .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I ate mine reluctantly .</Tokens>
+		<POS>PRP VBD PRP RB .</POS>
+		<Lemma>I eat mine reluctantly .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The next morning the loaf had taken on a dankness that I can only describe as ... swampy .</Tokens>
+		<POS>DT JJ NN DT NN VBD VBN IN DT NN IN PRP MD RB VB IN : JJ .</POS>
+		<Lemma>the next morning the loaf have take on a dankness that I can only describe as ... swampy .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I threw it away .</Tokens>
+		<POS>PRP VBD PRP RB .</POS>
+		<Lemma>I throw it away .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The dog did n't even want it .</Tokens>
+		<POS>DT NN VBD RB RB VB PRP .</POS>
+		<Lemma>the dog do not even want it .</Lemma>
+	</Sentence>
+</Document>

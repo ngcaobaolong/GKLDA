@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great tranmsitter .</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great tranmsitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Links quickly and easily with my iPhone over bluetooth , and transmits a clear signal to my radio even if that station already has a decent signal .</Tokens>
+		<POS>NNP RB CC RB IN PRP$ NNP IN NN , CC VBZ DT JJ NN TO PRP$ NN RB IN DT NN RB VBZ DT JJ NN .</POS>
+		<Lemma>Links quickly and easily with my iPhone over bluetooth , and transmit a clear signal to my radio even if that station already have a decent signal .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very happy with my purchase !</Tokens>
+		<POS>RB JJ IN PRP$ NN .</POS>
+		<Lemma>very happy with my purchase !</Lemma>
+	</Sentence>
+</Document>

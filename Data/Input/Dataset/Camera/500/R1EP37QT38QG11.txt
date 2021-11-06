@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got the camers wireless and wifi working ok but can not get anyting over the internet as promised .</Tokens>
+		<POS>PRP VBD DT NNS JJ CC NNS VBG NN CC MD RB VB VBG IN DT NN IN VBN .</POS>
+		<Lemma>I get the camer wireless and wifus work ok but can not get anyte over the internet as promise .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The instructions are so geeky I think it is not useable for the home user .</Tokens>
+		<POS>DT NNS VBP RB JJ PRP VBP PRP VBZ RB JJ IN DT NN NN .</POS>
+		<Lemma>the instruction be so geeky I think it be not useable for the home user .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>More like you need to get an expert flown in from Asia to get it to work .</Tokens>
+		<POS>JJR IN PRP VBP TO VB DT NN VBN IN IN NNP TO VB PRP TO VB .</POS>
+		<Lemma>more like you need to get a expert fly in from Asia to get it to work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I suggest you all get some human being remote that provides 2011 instruction .</Tokens>
+		<POS>PRP VBP PRP DT VBP DT JJ VBG JJ IN VBZ CD NN .</POS>
+		<Lemma>I suggest you all get some human be remote that provide 2011 instruction .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The instructions look like they were written for DOS in 1988 for Foscam corporate in house use , and stopped there .</Tokens>
+		<POS>DT NNS VBP IN PRP VBD VBN IN NNP IN CD IN NNP JJ IN NN NN , CC VBD RB .</POS>
+		<Lemma>the instruction look like they be write for DOS in 1988 for Foscam corporate in house use , and stop there .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Inhuman .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Inhuman .</Lemma>
+	</Sentence>
+</Document>

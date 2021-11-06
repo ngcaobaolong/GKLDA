@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've been using this cable for about a month .</Tokens>
+		<POS>PRP VBP VBN VBG DT NN IN IN DT NN .</POS>
+		<Lemma>I have be use this cable for about a month .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So far so good .</Tokens>
+		<POS>RB RB RB JJ .</POS>
+		<Lemma>so far so good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Transfers data from PC to Motorola android .</Tokens>
+		<POS>NNS NNS IN NN TO NNP NN .</POS>
+		<Lemma>transfer datum from pc to Motorola android .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It also charges phone with this cable .</Tokens>
+		<POS>PRP RB VBZ NN IN DT NN .</POS>
+		<Lemma>it also charge phone with this cable .</Lemma>
+	</Sentence>
+</Document>

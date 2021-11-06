@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Fantastic item !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>fantastic item !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very well built and the darn thing actually works as advertised !</Tokens>
+		<POS>RB RB VBN CC DT JJ NN RB VBZ IN VBN .</POS>
+		<Lemma>very well build and the darn thing actually work as advertise !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It even charges my iPhone 4 without any issues !</Tokens>
+		<POS>PRP RB VBZ PRP$ NNP CD IN DT NNS .</POS>
+		<Lemma>it even charge my iPhone 4 without any issue !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The FM transmitter is actually crystal clear over Bluetooth .</Tokens>
+		<POS>DT NNP NN VBZ RB JJ JJ IN NNP .</POS>
+		<Lemma>the FM transmitter be actually crystal clear over Bluetooth .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am listening to my XM radio ap on my iPhone 4 as I am typing this review , on my phone !</Tokens>
+		<POS>PRP VBP VBG TO PRP$ NNP NN NN IN PRP$ NNP CD IN PRP VBP NN DT NN , IN PRP$ NN .</POS>
+		<Lemma>I be listen to my XM radio ap on my iPhone 4 as I be typing this review , on my phone !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Not even a hint of static , and no issues with proximity of the phone to the unit .</Tokens>
+		<POS>RB RB DT NN IN JJ , CC DT NNS IN NN IN DT NN TO DT NN .</POS>
+		<Lemma>not even a hint of static , and no issue with proximity of the phone to the unit .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I got out of my truck with my phone in my chest pocket and finally lost the signal at around 15 ' .</Tokens>
+		<POS>PRP VBD IN IN PRP$ NN IN PRP$ NN IN PRP$ NN NN CC RB VBD DT NN IN IN CD '' .</POS>
+		<Lemma>I get out of my truck with my phone in my chest pocket and finally lose the signal at around 15 ' .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have tried other FM transmitters , Monster comes to mind , which was costly and did not work worth a hill of beans .</Tokens>
+		<POS>PRP VBP VBN JJ NNP NNS , NN VBZ TO VB , WDT VBD JJ CC VBD RB VB IN DT NN IN NNS .</POS>
+		<Lemma>I have try other FM transmitter , monster come to mind , which be costly and do not work worth a hill of bean .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I can say the same about the Kennsington model I had , another waste of money .</Tokens>
+		<POS>PRP MD VB DT JJ IN DT NNP NN PRP VBD , DT NN IN NN .</POS>
+		<Lemma>I can say the same about the Kennsington model I have , another waste of money .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Bottom line , if you need a Bluetooth FM transmitter with a hands free phone to boot , which works too , buy this unit ... You will not regret the purchase !</Tokens>
+		<POS>NN NN , IN PRP VBP DT NNP NNP NN IN DT NNS JJ NN TO NN , WDT VBZ RB , VB DT NN : PRP MD RB VB DT NN .</POS>
+		<Lemma>bottom line , if you need a Bluetooth FM transmitter with a hand free phone to boot , which work too , buy this unit ... you will not regret the purchase !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>And if you have the iPhone 4 this will effortlessly charge your phone as you stream your music from your iPhone !</Tokens>
+		<POS>CC IN PRP VBP DT NNP CD DT MD RB VB PRP$ NN IN PRP NN PRP$ NN IN PRP$ NNP .</POS>
+		<Lemma>and if you have the iPhone 4 this will effortlessly charge you phone as you stream you music from you iPhone !</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>This baby is a real diamond in the rough !</Tokens>
+		<POS>DT NN VBZ DT JJ NN IN DT JJ .</POS>
+		<Lemma>this baby be a real diamond in the rough !</Lemma>
+	</Sentence>
+</Document>

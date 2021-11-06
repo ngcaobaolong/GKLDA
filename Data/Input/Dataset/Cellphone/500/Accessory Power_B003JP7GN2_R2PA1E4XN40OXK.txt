@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this item because it specifically said it was compatible with iphones .</Tokens>
+		<POS>PRP VBD DT NN IN PRP RB VBD PRP VBD JJ IN NNS .</POS>
+		<Lemma>I purchase this item because it specifically say it be compatible with iphone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I just returned from an overseas trip -LRB- which is why I purchased this charger -RRB- .</Tokens>
+		<POS>PRP RB VBD IN DT JJ NN -LRB- WDT VBZ WRB PRP VBD DT NN -RRB- .</POS>
+		<Lemma>I just return from a overseas trip -lrb- which be why I purchase this charger -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It would NOT charge my brand new iphone4 .</Tokens>
+		<POS>PRP MD RB VB PRP$ NN JJ NN .</POS>
+		<Lemma>it would not charge my brand new iphone4 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I received the error message on the phone `` charging is not supported with this device '' .</Tokens>
+		<POS>PRP VBD DT NN NN IN DT NN `` VBG VBZ RB VBN IN DT NN '' .</POS>
+		<Lemma>I receive the error message on the phone `` charge be not support with this device '' .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It also would not charge the Mophie juice pack air -LRB- extra battery power for the phone -RRB- which charges using a USB\/mini USB cable .</Tokens>
+		<POS>PRP RB MD RB VB DT NN NN NN NN -LRB- JJ NN NN IN DT NN -RRB- WDT NNS VBG DT NNP JJ NN .</POS>
+		<Lemma>it also would not charge the mophie juice pack air -lrb- extra battery power for the phone -rrb- which charge use a USB\/mini usb cable .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Good cable , but short .</Tokens>
+		<POS>JJ NN , CC RB .</POS>
+		<Lemma>good cable , but short .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is only about an inch longer than the cable that was OEM with my Droid .</Tokens>
+		<POS>PRP VBZ RB IN DT NN RB IN DT NN WDT VBD NNP IN PRP$ NN .</POS>
+		<Lemma>it be only about a inch longer than the cable that be OEM with my droid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I will give them benefit of the doubt and assume I did n't read the length .</Tokens>
+		<POS>PRP MD VB PRP NN IN DT NN CC VB PRP VBD RB VB DT NN .</POS>
+		<Lemma>I will give they benefit of the doubt and assume I do not read the length .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It travels with my laptop and does a great job .</Tokens>
+		<POS>PRP VBZ IN PRP$ NN CC VBZ DT JJ NN .</POS>
+		<Lemma>it travel with my laptop and do a great job .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Good value and good product , but not as long as I thought .</Tokens>
+		<POS>JJ NN CC JJ NN , CC RB RB JJ IN PRP VBD .</POS>
+		<Lemma>good value and good product , but not as long as I think .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,227 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>While there are some areas that I think the Pentax K-5 could use some improvement ... it is absolutely top-notch in the area that matters above everything else , and that is photo quality .</Tokens>
+		<POS>IN EX VBP DT NNS IN PRP VBP DT NNP NN MD VB DT NN : PRP VBZ RB JJ IN DT NN WDT VBZ IN NN RB , CC DT VBZ JJ NN .</POS>
+		<Lemma>while there be some area that I think the Pentax k-5 could use some improvement ... it be absolutely top-notch in the area that matter above everything else , and that be photo quality .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I really think that if you are not really interested in video , do n't have any particular allegiance to Canon or Nikon and simply want a tough , rugged , sub - $ 1,500 DSLR which will stand up to all the elements and take absolutely top-notch photos -LRB- even with the kit lens -RRB- , then the K-5 is for you .</Tokens>
+		<POS>PRP RB VBP IN IN PRP VBP RB RB JJ IN NN , VBP RB VB DT JJ NN TO NNP CC NNP CC RB VB DT JJ , JJ , SYM : $ CD NN WDT MD VB RP TO PDT DT NNS CC VB RB JJ NNS -LRB- RB IN DT NN NN -RRB- , RB DT NN VBZ IN PRP .</POS>
+		<Lemma>I really think that if you be not really interested in video , do not have any particular allegiance to Canon or Nikon and simply want a tough , rugged , sub - $ 1,500 dslr which will stand up to all the element and take absolutely top-notch photo -lrb- even with the kit lens -rrb- , then the k-5 be for you .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The camera itself is very well-made and surprisingly compact next to its competitors in its price range .</Tokens>
+		<POS>DT NN PRP VBZ RB JJ CC RB JJ JJ TO PRP$ NNS IN PRP$ NN NN .</POS>
+		<Lemma>the camera itself be very well-made and surprisingly compact next to its competitor in its price range .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is basically like a little tank .</Tokens>
+		<POS>PRP VBZ RB IN DT JJ NN .</POS>
+		<Lemma>it be basically like a little tank .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The hand-grip is nice but only accomodates three fingers with your index finger resting on the dial wheel above the hand-grip .</Tokens>
+		<POS>DT NN VBZ JJ CC RB VBZ CD NNS IN PRP$ NN NN VBG IN DT NN NN IN DT NN .</POS>
+		<Lemma>the hand-grip be nice but only accomodate three finger with you index finger rest on the dial wheel above the hand-grip .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>In practice , it does n't feel uncomfortable but I do think this is one area where the Canon 60d and Nikon D7000 do a bit of a better job -LRB- but of course they are also larger -RRB- .</Tokens>
+		<POS>IN NN , PRP VBZ RB VB JJ CC PRP VBP VB DT VBZ CD NN WRB DT NNP NN CC NNP NNP VBP DT NN IN DT JJR NN -LRB- CC IN NN PRP VBP RB JJR -RRB- .</POS>
+		<Lemma>in practice , it do not feel uncomfortable but I do think this be one area where the Canon 60d and Nikon D7000 do a bit of a better job -lrb- but of course they be also larger -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But overall it 's not too bad .</Tokens>
+		<POS>CC JJ PRP VBZ RB RB JJ .</POS>
+		<Lemma>but overall it be not too bad .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>As expected for a camera in this price range , there are many direct access controls for adjusting setting such as the ISO and other nice things like a RAW button for switching to raw from jpeg .</Tokens>
+		<POS>IN VBN IN DT NN IN DT NN NN , EX VBP JJ JJ NN NNS IN VBG VBG JJ IN DT NN CC JJ JJ NNS IN DT NN NN IN VBG TO JJ IN NN .</POS>
+		<Lemma>as expect for a camera in this price range , there be many direct access control for adjust set such as the iso and other nice thing like a raw button for switch to raw from jpeg .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Your thumb is positioned very comfortably on the back of the DSLR , making access to most buttons a breeze .</Tokens>
+		<POS>PRP$ NN VBZ JJ RB RB IN DT NN IN DT NNP , VBG NN TO RBS NNS DT NN .</POS>
+		<Lemma>you thumb be positioned very comfortably on the back of the DSLR , make access to most button a breeze .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The menu system is the same as most Pentax 's of late .</Tokens>
+		<POS>DT NN NN VBZ DT JJ IN JJS NNP POS IN JJ .</POS>
+		<Lemma>the menu system be the same as most Pentax 's of late .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It 's main menu system is pretty similar to Canon 's with respect to how you navigate through it and how everything is laid out .</Tokens>
+		<POS>PRP VBZ JJ NN NN VBZ RB JJ TO NNP POS IN NN TO WRB PRP VBP IN PRP CC WRB NN VBZ VBN RP .</POS>
+		<Lemma>it be main menu system be pretty similar to Canon 's with respect to how you navigate through it and how everything be lay out .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I like Canon 's menu system a lot , so this is a good thing .</Tokens>
+		<POS>PRP VBP NNP POS NN NN DT NN , RB DT VBZ DT JJ NN .</POS>
+		<Lemma>I like Canon 's menu system a lot , so this be a good thing .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>As would be expected , this DSLR is jam packed with features , so a read-through of the manual is highly encouraged .</Tokens>
+		<POS>IN MD VB VBN , DT NN VBZ NN VBN IN NNS , RB DT NN IN DT NN VBZ RB VBN .</POS>
+		<Lemma>as would be expect , this dslr be jam pack with feature , so a read-through of the manual be highly encourage .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Photo quality , as I said before , is top notch .</Tokens>
+		<POS>NNP NN , IN PRP VBD RB , VBZ JJ NN .</POS>
+		<Lemma>Photo quality , as I say before , be top notch .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>What strikes me is the level of detail that is captured in my shots with the K-5 , even with the lowly kit lens .</Tokens>
+		<POS>WDT NNS PRP VBZ DT NN IN NN WDT VBZ VBN IN PRP$ NNS IN DT NN , RB IN DT JJ NN NN .</POS>
+		<Lemma>what strike I be the level of detail that be capture in my shot with the k-5 , even with the lowly kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Even high-sun shots look pretty decent -LRB- well , about as good as you could expect given the conditions -RRB- .</Tokens>
+		<POS>RB JJ NNS VBP RB JJ -LRB- RB , IN RB JJ IN PRP MD VB VBN DT NNS -RRB- .</POS>
+		<Lemma>even high-sun shot look pretty decent -lrb- well , about as good as you could expect give the condition -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I have experienced excellent noise performance up to ISO1600 but even ISO3200 is pretty respectable .</Tokens>
+		<POS>PRP VBP VBN JJ NN NN IN TO NN CC RB NN VBZ RB JJ .</POS>
+		<Lemma>I have experience excellent noise performance up to iso1600 but even iso3200 be pretty respectable .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>One trademark Pentax trait is very vibrant and saturated colors .</Tokens>
+		<POS>CD NN NNP NN VBZ RB JJ CC JJ NNS .</POS>
+		<Lemma>one trademark Pentax trait be very vibrant and saturated color .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>In most instances , this works out quite well .</Tokens>
+		<POS>IN JJS NNS , DT VBZ RP RB RB .</POS>
+		<Lemma>in most instance , this work out quite well .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Although there maybe some shooting conditions where you might want to dial back the saturation just a little .</Tokens>
+		<POS>IN EX RB DT JJ NNS WRB PRP MD VB TO VB RB DT NN RB DT JJ .</POS>
+		<Lemma>although there maybe some shooting condition where you might want to dial back the saturation just a little .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>If you order it with the 18-55 WR kit lens , you will find that its a pretty decent performer .</Tokens>
+		<POS>IN PRP VBP PRP IN DT CD NN NN NN , PRP MD VB IN PRP$ DT RB JJ NN .</POS>
+		<Lemma>if you order it with the 18-55 wr kit lens , you will find that its a pretty decent performer .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>As well as the 50-200 WR kit lens .</Tokens>
+		<POS>RB RB IN DT CD NN NN NN .</POS>
+		<Lemma>as well as the 50-200 wr kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>There is also the 18-135 WR lens as well , which is alright too .</Tokens>
+		<POS>EX VBZ RB DT CD NN NN RB RB , WDT VBZ JJ RB .</POS>
+		<Lemma>there be also the 18-135 wr lens as well , which be alright too .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>Pentax deserves tons of credit for offering a line of a very reasonably-priced , decent-performing weather-sealed kit lenses .</Tokens>
+		<POS>NNP VBZ NNS IN NN IN VBG DT NN IN DT RB JJ , JJ JJ NN NNS .</POS>
+		<Lemma>Pentax deserve ton of credit for offer a line of a very reasonably-priced , decent-performing weather-sealed kit lens .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>The 18-55 WR -LRB- weather-resistant -RRB- kit lens is around $ 150 and the 50-200 WR kit lens is about $ 210 .</Tokens>
+		<POS>DT CD NN -LRB- JJ -RRB- NN NN VBZ IN $ CD CC DT CD NN NN NN VBZ IN $ CD .</POS>
+		<Lemma>the 18-55 wr -lrb- weather-resistant -rrb- kit lens be around $ 150 and the 50-200 wr kit lens be about $ 210 .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>However , as with a lot of DSLRs , it takes some top-notch glass to bring out the K-5 's full potential .</Tokens>
+		<POS>RB , IN IN DT NN IN NNS , PRP VBZ DT JJ NN TO VB RP DT NN POS JJ NN .</POS>
+		<Lemma>however , as with a lot of dslr , it take some top-notch glass to bring out the k-5 's full potential .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>So it 's worthwhile to invest in at least one lens from Pentax 's DA \* line .</Tokens>
+		<POS>IN PRP VBZ JJ TO VB IN IN JJS CD NN IN NNP POS NNP SYM NN .</POS>
+		<Lemma>so it be worthwhile to invest in at least one lens from Pentax 's DA \* line .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Now , onto to some annoyances .</Tokens>
+		<POS>RB , IN TO DT NNS .</POS>
+		<Lemma>now , onto to some annoyance .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>I think the autofocus system is good but not as decent as it could\/should be .</Tokens>
+		<POS>PRP VBP DT NN NN VBZ JJ CC RB IN JJ IN PRP VBD VB .</POS>
+		<Lemma>I think the autofocus system be good but not as decent as it could\/should be .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>It is just a hair slower than the 60d and the D7000 in most instances .</Tokens>
+		<POS>PRP VBZ RB DT NN JJR IN DT JJ CC DT NN IN JJS NNS .</POS>
+		<Lemma>it be just a hair slower than the 60d and the d7000 in most instance .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>But certainly not subpar though .</Tokens>
+		<POS>CC RB RB JJ IN .</POS>
+		<Lemma>but certainly not subpar though .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>However , I think this is an area where some improvement should be made .</Tokens>
+		<POS>RB , PRP VBP DT VBZ DT NN WRB DT NN MD VB VBN .</POS>
+		<Lemma>however , I think this be a area where some improvement should be make .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>Another major irritant is how much time it takes for the camera to display a picture you just took on screen .</Tokens>
+		<POS>DT JJ NN VBZ WRB JJ NN PRP VBZ IN DT NN TO VB DT NN PRP RB VBD RP NN .</POS>
+		<Lemma>another major irritant be how much time it take for the camera to display a picture you just take on screen .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>It is noticeably slower than some other DSLRs and this is also something Pentax needs to work on .</Tokens>
+		<POS>PRP VBZ RB JJR IN DT JJ NNS CC DT VBZ RB NN NNP VBZ TO VB IN .</POS>
+		<Lemma>it be noticeably slower than some other dslr and this be also something Pentax need to work on .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>Also , the viewfinder is 100 % coverage , which is nice .</Tokens>
+		<POS>RB , DT NN VBZ CD NN NN , WDT VBZ JJ .</POS>
+		<Lemma>also , the viewfinder be 100 % coverage , which be nice .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>And while it 's perfectly decent , it is not as good of a magnification as the 60d 's -LRB- although the 60d has only 96 % coverage -RRB- and while it is good , it could be better .</Tokens>
+		<POS>CC IN PRP VBZ RB JJ , PRP VBZ RB RB JJ IN DT NN IN DT NN POS -LRB- IN DT NN VBZ RB CD NN NN -RRB- CC IN PRP VBZ JJ , PRP MD VB RBR .</POS>
+		<Lemma>and while it be perfectly decent , it be not as good of a magnification as the 60d 's -lrb- although the 60d have only 96 % coverage -rrb- and while it be good , it could be better .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>I was also non-plussed by the LCD quality .</Tokens>
+		<POS>PRP VBD RB JJ IN DT NNS NN .</POS>
+		<Lemma>I be also non-plussed by the lcd quality .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>I think its ok , and certainly the resolution number is competitive , but it does n't hold a candle to the ones found on the Canons .</Tokens>
+		<POS>PRP VBP PRP$ NN , CC RB DT NN NN VBZ JJ , CC PRP VBZ RB VB DT NN TO DT NNS VBN IN DT NNPS .</POS>
+		<Lemma>I think its ok , and certainly the resolution number be competitive , but it do not hold a candle to the one find on the Canons .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>The video mode is not really great on this DSLR .</Tokens>
+		<POS>DT NN NN VBZ RB RB JJ IN DT NN .</POS>
+		<Lemma>the video mode be not really great on this dslr .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Still-shooting performance is my top priority so I honestly could care less about the video mode , as I only will need it on rare occaisions .</Tokens>
+		<POS>JJ NN VBZ PRP$ JJ NN IN PRP RB MD VB RBR IN DT NN NN , IN PRP RB MD VB PRP IN JJ NNS .</POS>
+		<Lemma>still-shooting performance be my top priority so I honestly could care less about the video mode , as I only will need it on rare occaision .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>But this is one area where both Canon and Nikon have an advtange .</Tokens>
+		<POS>CC DT VBZ CD NN WRB DT NNP CC NNP VBP DT NN .</POS>
+		<Lemma>but this be one area where both Canon and Nikon have a advtange .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>But , overall , I still give this camera 5 stars due to its photo quality and its ability to take superb photos in just about any condition you throw at it .</Tokens>
+		<POS>CC , RB , PRP RB VBP DT NN CD NNS JJ TO PRP$ JJ NN CC PRP$ NN TO VB JJ NNS IN RB IN DT NN PRP VBP IN PRP .</POS>
+		<Lemma>but , overall , I still give this camera 5 star due to its photo quality and its ability to take superb photo in just about any condition you throw at it .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>Something that ca n't really be said about any of the other DSLRs in this price range .</Tokens>
+		<POS>NN WDT MD RB RB VB VBN IN DT IN DT JJ NNS IN DT NN NN .</POS>
+		<Lemma>something that can not really be say about any of the other dslr in this price range .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>Despite my criticisms , the camera 's performance is overall good , but needs improvement in some areas .</Tokens>
+		<POS>IN PRP$ NNS , DT NN POS NN VBZ JJ JJ , CC VBZ NN IN DT NNS .</POS>
+		<Lemma>despite my criticism , the camera 's performance be overall good , but need improvement in some area .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>But if you are shopping in the $ 1,500 range , this deserves as much consideration -LRB- or perhaps even more depending on what you 're shooting in -RRB- as Canon 's and Nikon 's competing DSLRs .</Tokens>
+		<POS>CC IN PRP VBP VBG IN DT $ CD NN , DT VBZ RB JJ NN -LRB- CC RB RB RBR VBG IN WP PRP VBP VBG IN -RRB- IN NNP POS CC NNP POS VBG NNS .</POS>
+		<Lemma>but if you be shop in the $ 1,500 range , this deserve as much consideration -lrb- or perhaps even more depend on what you be shoot in -rrb- as Canon 's and Nikon 's compete dslr .</Lemma>
+	</Sentence>
+</Document>

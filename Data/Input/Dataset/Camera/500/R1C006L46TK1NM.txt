@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>To be honest the Camera is not a bad buy especially for someone like me who take photos for my partygrenada website .</Tokens>
+		<POS>TO VB JJ DT NNP VBZ RB DT JJ NN RB IN NN IN PRP WP VBP NNS IN PRP$ NN NN .</POS>
+		<Lemma>to be honest the Camera be not a bad buy especially for someone like I who take photo for my partygrenada website .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , I am having a constant issue of the photos showing red .</Tokens>
+		<POS>RB , PRP VBP VBG DT JJ NN IN DT NNS VBG JJ .</POS>
+		<Lemma>however , I be have a constant issue of the photo show red .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In other words instead of getting the natural colors I am getting a constant red in the photos .</Tokens>
+		<POS>IN JJ NNS RB IN VBG DT JJ NNS PRP VBP VBG DT JJ NN IN DT NNS .</POS>
+		<Lemma>in other word instead of get the natural color I be get a constant red in the photo .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I do admit that I am still playing around with the Camera , but after owning -LRB- I still own them -RRB- a Sony DSC-S85 , DSC-F828 , DSLR-A100 , DSLR-A550 and a DCR-SR88 you would think I am fully aware of the ` basic settings ' of the DSC-HX100 .</Tokens>
+		<POS>PRP VBP VB IN PRP VBP RB VBG RP IN DT NNP , CC IN VBG -LRB- PRP RB VBP PRP -RRB- DT NNP NN , NN , NN , NN CC DT NN PRP MD VB PRP VBP RB JJ IN DT `` JJ NNS POS IN DT NN .</POS>
+		<Lemma>I do admit that I be still play around with the Camera , but after own -lrb- I still own they -rrb- a Sony dsc-s85 , dsc-f828 , dslr-a100 , dslr-a550 and a dcr-sr88 you would think I be fully aware of the ` basic setting ' of the dsc-hx100 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>like I mentioned the redish color issue is my only problem with that Camera besides the Battery life .</Tokens>
+		<POS>IN PRP VBD DT JJ NN NN VBZ PRP$ JJ NN IN DT NN IN DT NNP NN .</POS>
+		<Lemma>like I mention the redish color issue be my only problem with that camera besides the Battery life .</Lemma>
+	</Sentence>
+</Document>

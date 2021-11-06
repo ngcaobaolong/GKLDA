@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I REALLY wanted to love this little transmitter .</Tokens>
+		<POS>PRP RB VBD TO VB DT JJ NN .</POS>
+		<Lemma>I really want to love this little transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have an older FM transmitter that is not wireless that I 've been using for a few years with my iPhone 3G and it 's big and gets in the way , often falling into my steering wheel as I drive so when my new iPhone 4s arrived , I was definitely in the market for a new FM transmitter .</Tokens>
+		<POS>PRP VBP DT JJR NN NN WDT VBZ RB JJ IN PRP VBP VBN VBG IN DT JJ NNS IN PRP$ NNP NN CC PRP VBZ JJ CC VBZ IN DT NN , RB VBG IN PRP$ VBG NN IN PRP VBP RB WRB PRP$ JJ NNP NNS VBD , PRP VBD RB IN DT NN IN DT JJ NNP NN .</POS>
+		<Lemma>I have a older fm transmitter that be not wireless that I have be use for a few year with my iPhone 3g and it be big and get in the way , often fall into my steer wheel as I drive so when my new iPhone 4 arrive , I be definitely in the market for a new FM transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I got it all set up -LRB- the directions were n't hard to follow at all -RRB- and synched it up to my iPhone , making the connection through Bluetooth , found the radio station it was recommending and the audio quality was so terrible that I could n't listen to podcasts at all , let alone my music library .</Tokens>
+		<POS>PRP VBD PRP DT VBN RP -LRB- DT NNS VBD RB JJ TO VB IN DT -RRB- CC VBD PRP RP TO PRP$ NNP , VBG DT NN IN NNP , VBD DT NN NN PRP VBD VBG CC DT JJ NN VBD RB JJ IN PRP MD RB VB TO NNS IN DT , VB JJ PRP$ NN NN .</POS>
+		<Lemma>I get it all set up -lrb- the direction be not hard to follow at all -rrb- and synch it up to my iPhone , make the connection through Bluetooth , find the radio station it be recommend and the audio quality be so terrible that I could not listen to podcast at all , let alone my music library .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>All I could hear was static with the audio I was trying to listen to faint in the background .</Tokens>
+		<POS>DT PRP MD VB VBD JJ IN DT NN PRP VBD VBG TO VB TO JJ IN DT NN .</POS>
+		<Lemma>all I could hear be static with the audio I be try to listen to faint in the background .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I tried putting my phone in airplane mode as I 'd seen some suggest but that made no difference .</Tokens>
+		<POS>PRP VBD VBG PRP$ NN IN NN NN IN PRP MD VBN DT VBP CC IN VBN DT NN .</POS>
+		<Lemma>I try put my phone in airplane mode as I would see some suggest but that make no difference .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I tried pushing the search button in the device to have it suggest some other radio frequencies but nothing worked .</Tokens>
+		<POS>PRP VBD VBG DT NN NN IN DT NN TO VB PRP VB DT JJ NN NNS CC NN VBD .</POS>
+		<Lemma>I try push the search button in the device to have it suggest some other radio frequency but nothing work .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Bottom line - I had to return it and am back to using my old transmitter .</Tokens>
+		<POS>NN NN : PRP VBD TO VB PRP CC VBP RB TO VBG PRP$ JJ NN .</POS>
+		<Lemma>bottom line - I have to return it and be back to use my old transmitter .</Lemma>
+	</Sentence>
+</Document>

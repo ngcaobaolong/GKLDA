@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This coffee is fantastic .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this coffee be fantastic .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great , bold flavor with very oily beans .</Tokens>
+		<POS>NNP , JJ NN IN RB JJ NNS .</POS>
+		<Lemma>Great , bold flavor with very oily bean .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This is the first Altura coffee I have tried , but I will definitely be going back and trying the different types of beans they offer .</Tokens>
+		<POS>DT VBZ DT JJ NNP NN PRP VBP VBN , CC PRP MD RB VB VBG RB CC VBG DT JJ NNS IN NNS PRP VBP .</POS>
+		<Lemma>this be the first Altura coffee I have try , but I will definitely be go back and try the different type of bean they offer .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Ca n't go wrong with the Peruvian dark .</Tokens>
+		<POS>NN RB VB JJ IN DT JJ NN .</POS>
+		<Lemma>ca not go wrong with the peruvian dark .</Lemma>
+	</Sentence>
+</Document>

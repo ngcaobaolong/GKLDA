@@ -1,0 +1,137 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My Verizon phone works on the CDMA -LRB- American -RRB- System .</Tokens>
+		<POS>PRP$ NNP NN NNS IN DT NNP -LRB- NNP -RRB- NNP .</POS>
+		<Lemma>my Verizon phone work on the CDMA -lrb- American -rrb- System .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was surprised when I got inconsistent signals in my house .</Tokens>
+		<POS>PRP VBD VBN WRB PRP VBD JJ NNS IN PRP$ NN .</POS>
+		<Lemma>I be surprise when I get inconsistent signal in my house .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I mistakenly thought other phones in our house , which worked very well , were the older GSM , which AT&T uses because 90 % of the world is on the older GSM .</Tokens>
+		<POS>PRP RB VBD JJ NNS IN PRP$ NN , WDT VBD RB RB , VBD DT JJR NN , WDT NNP VBZ IN CD NN IN DT NN VBZ IN DT JJR NN .</POS>
+		<Lemma>I mistakenly think other phone in we house , which work very well , be the older gsm , which AT&T use because 90 % of the world be on the older gsm .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Turns out we are in a poor location for America 's more modern -LRB- and supposedly superior -RRB- CDMA system .</Tokens>
+		<POS>VBZ IN PRP VBP IN DT JJ NN IN NNP POS JJR JJ -LRB- CC RB JJ -RRB- NN NN .</POS>
+		<Lemma>turn out we be in a poor location for America 's more modern -lrb- and supposedly superior -rrb- cdma system .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The best I get with Verizon -LRB- CDMA -RRB- is 1 to 2 bars .</Tokens>
+		<POS>DT JJS PRP VBP IN NNP -LRB- NNP -RRB- VBZ CD TO CD NNS .</POS>
+		<Lemma>the best I get with Verizon -lrb- CDMA -rrb- be 1 to 2 bar .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Some calls work OK , others break up .</Tokens>
+		<POS>DT NNS VBP UH , NNS VBP RP .</POS>
+		<Lemma>some call work ok , other break up .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>As soon as I leave my property in any direction , I get three to four bars quickly .</Tokens>
+		<POS>RB RB IN PRP VBP PRP$ NN IN DT NN , PRP VBP CD TO CD NNS RB .</POS>
+		<Lemma>as soon as I leave my property in any direction , I get three to four bar quickly .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>A mile away and I get six bars .</Tokens>
+		<POS>DT NN RB CC PRP VBP CD NNS .</POS>
+		<Lemma>a mile away and I get six bar .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I concluded I need a signal booster .</Tokens>
+		<POS>PRP VBD PRP VBP DT NN NN .</POS>
+		<Lemma>I conclude I need a signal booster .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I was shocked to find they run into the hundreds of dollars and Wilson , once maker of a fantastic CB radio antenna , is now a Cell signal booster business but wants and outrageous sum for their devices .</Tokens>
+		<POS>PRP VBD VBN TO VB PRP VBP IN DT NNS IN NNS CC NNP , RB NN IN DT JJ NN NN NN , VBZ RB DT NN NN NN NN CC VBZ CC JJ NN IN PRP$ NNS .</POS>
+		<Lemma>I be shock to find they run into the hundred of dollar and Wilson , once maker of a fantastic cb radio antenna , be now a cell signal booster business but want and outrageous sum for they device .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>A lifelong Short Wave radio hobbyist , I know radios are the less important side .</Tokens>
+		<POS>DT JJ JJ NN NN NN , PRP VBP NNS VBP DT RBR JJ NN .</POS>
+		<Lemma>a lifelong short wave radio hobbyist , I know radio be the less important side .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Antenna science is the kicker .</Tokens>
+		<POS>NNP NN VBZ DT NN .</POS>
+		<Lemma>Antenna science be the kicker .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I went looking for passive antenna solutions , opting for this one .</Tokens>
+		<POS>PRP VBD VBG IN JJ NN NNS , VBG IN DT CD .</POS>
+		<Lemma>I go look for passive antenna solution , opt for this one .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I was familiar with the fake boosters advertised on TV .</Tokens>
+		<POS>PRP VBD JJ IN DT JJ NNS VBN IN NN .</POS>
+		<Lemma>I be familiar with the fake booster advertise on tv .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I knew they have no metal to them & are thus useless junk .</Tokens>
+		<POS>PRP VBD PRP VBP DT NN TO PRP CC VBP RB JJ NN .</POS>
+		<Lemma>I know they have no metal to they & be thus useless junk .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I was impressed that this maker provides detailed instructions and is careful with its claims .</Tokens>
+		<POS>PRP VBD JJ IN DT NN VBZ JJ NNS CC VBZ JJ IN PRP$ NNS .</POS>
+		<Lemma>I be impressed that this maker provide detailed instruction and be careful with its claim .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Its true .</Tokens>
+		<POS>PRP$ JJ .</POS>
+		<Lemma>its true .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>A booster can not create a signal when there is none .</Tokens>
+		<POS>DT NN MD RB VB DT NN WRB EX VBZ NN .</POS>
+		<Lemma>a booster can not create a signal when there be none .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>They alone make that clear .</Tokens>
+		<POS>PRP RB VBP IN JJ .</POS>
+		<Lemma>they alone make that clear .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I installed one booster on the left side under my battery as near the antenna as possible .</Tokens>
+		<POS>PRP VBD CD NN IN DT JJ NN IN PRP$ NN IN IN DT NN IN JJ .</POS>
+		<Lemma>I install one booster on the left side under my battery as near the antenna as possible .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I was delighted to find I now get 2 to 3 bars and even 4 bars -LRB- at times -RRB- .</Tokens>
+		<POS>PRP VBD JJ TO VB PRP RB VBP CD TO CD NNS CC RB CD NNS -LRB- IN NNS -RRB- .</POS>
+		<Lemma>I be delighted to find I now get 2 to 3 bar and even 4 bar -lrb- at time -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I installed a second booster next -LRB- not on top of -RRB- to the first one .</Tokens>
+		<POS>PRP VBD DT JJ NN JJ -LRB- RB IN NN IN -RRB- TO DT JJ CD .</POS>
+		<Lemma>I install a second booster next -lrb- not on top of -rrb- to the first one .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>It gave me a slight improvement over the first .</Tokens>
+		<POS>PRP VBD PRP DT JJ NN IN DT JJ .</POS>
+		<Lemma>it give I a slight improvement over the first .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>To clarify , I installed two boosters beside each other , near as possible to my phone 's antenna with the booster arrow pointing to my antenna .</Tokens>
+		<POS>TO VB , PRP VBD CD NNS IN DT JJ , IN IN JJ TO PRP$ NN POS NN IN DT NN NN VBG TO PRP$ NN .</POS>
+		<Lemma>to clarify , I install two booster beside each other , near as possible to my phone 's antenna with the booster arrow point to my antenna .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>My lowest signal strength is now 2 bars , quite often I get 3 and less of the time 4 bars .</Tokens>
+		<POS>PRP$ JJS NN NN VBZ RB CD NNS , RB RB PRP VBP CD CC JJR IN DT NN CD NNS .</POS>
+		<Lemma>my lowest signal strength be now 2 bar , quite often I get 3 and less of the time 4 bar .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>I can now make consistenly decent calls from my house .</Tokens>
+		<POS>PRP MD RB VB RB JJ NNS IN PRP$ NN .</POS>
+		<Lemma>I can now make consistenly decent call from my house .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I still do better away from home with a consistent 4 to 6 bars but I freely get decent , understandable results .</Tokens>
+		<POS>PRP RB VBP JJR RB IN NN IN DT JJ CD TO CD NNS CC PRP RB VBP JJ , JJ NNS .</POS>
+		<Lemma>I still do better away from home with a consistent 4 to 6 bar but I freely get decent , understandable result .</Lemma>
+	</Sentence>
+</Document>

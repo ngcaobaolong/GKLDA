@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We ordered this camera for a special trip .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN .</POS>
+		<Lemma>we order this camera for a special trip .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>A Caribbean cruise and a trip to Jamaica .</Tokens>
+		<POS>DT NNP NN CC DT NN TO NNP .</POS>
+		<Lemma>a Caribbean cruise and a trip to Jamaica .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Tonight we learned that the camera has not even yet been shipped !</Tokens>
+		<POS>NNP PRP VBD IN DT NN VBZ RB RB RB VBN VBN .</POS>
+		<Lemma>Tonight we learn that the camera have not even yet be ship !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Before you blame us for doing things late , we just recently learned our camera is broken and had never had a problem with shipping with Amazon sellers before .</Tokens>
+		<POS>IN PRP VBP PRP IN VBG NNS RB , PRP RB RB VBD PRP$ NN VBZ VBN CC VBD RB VBD DT NN IN NN IN NNP NNS IN .</POS>
+		<Lemma>before you blame we for do thing late , we just recently learn we camera be break and have never have a problem with shipping with Amazon seller before .</Lemma>
+	</Sentence>
+</Document>

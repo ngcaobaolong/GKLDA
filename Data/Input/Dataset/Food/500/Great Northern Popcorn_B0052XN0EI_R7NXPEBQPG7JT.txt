@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This popcorn is awesome .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this popcorn be awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It pops perfectly with very few kernels left unpoped .</Tokens>
+		<POS>PRP VBZ RB IN RB JJ NNS VBD JJ .</POS>
+		<Lemma>it pop perfectly with very few kernel leave unpoped .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Add butter flavored salt , and it taste just like movie theater popcorn and is so addicting that I eat it almost every night .</Tokens>
+		<POS>VB NN JJ NN , CC PRP VBP RB IN NN NN NN CC VBZ RB JJ IN PRP VBP PRP RB DT NN .</POS>
+		<Lemma>add butter flavored salt , and it taste just like movie theater popcorn and be so addicting that I eat it almost every night .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>There is so much in the bag that it will take me a while to get through it , but that means I wont have to worry about running out anytime soon .</Tokens>
+		<POS>EX VBZ RB JJ IN DT NN IN PRP MD VB PRP DT NN TO VB IN PRP , CC DT VBZ PRP VBP VBP TO VB IN VBG RP RB RB .</POS>
+		<Lemma>there be so much in the bag that it will take I a while to get through it , but that mean I wont have to worry about run out anytime soon .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>When doing this on the stove in a covered pot -LRB- cover slightly tilted to let steam out -RRB- , the secret is to heat the oil -LRB- 3 Tbls -RRB- with just a few kernels , and I also sprinkle the butter flavored salt on the oil -LRB- about a cap full -RRB- before the oil gets hot .</Tokens>
+		<POS>WRB VBG DT IN DT NN IN DT JJ NN -LRB- NN RB JJ TO VB NN IN -RRB- , DT NN VBZ TO VB DT NN -LRB- CD NNS -RRB- IN RB DT JJ NNS , CC PRP RB VBP DT NN JJ NN IN DT NN -LRB- IN DT NN JJ -RRB- IN DT NN VBZ JJ .</POS>
+		<Lemma>when do this on the stove in a covered pot -lrb- cover slightly tilted to let steam out -rrb- , the secret be to heat the oil -lrb- 3 tbl -rrb- with just a few kernel , and I also sprinkle the butter flavored salt on the oil -lrb- about a cap full -rrb- before the oil get hot .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>When those kernels start to pop telling you the oil is hot enough , turn off the heat and add the rest of the kernels -LRB- 1\/4 cup -RRB- , cover and count to 30 .</Tokens>
+		<POS>WRB DT NNS VBP TO VB VBG PRP DT NN VBZ JJ RB , VB RP DT NN CC VB DT NN IN DT NNS -LRB- CD NN -RRB- , NN CC NN TO CD .</POS>
+		<Lemma>when those kernel start to pop tell you the oil be hot enough , turn off the heat and add the rest of the kernel -lrb- 1\/4 cup -rrb- , cover and count to 30 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Letting them sit for 30 seconds in the hot oil with the heat off will pre-heat them to pop more consistently .</Tokens>
+		<POS>VBG PRP VB IN CD NNS IN DT JJ NN IN DT NN RP MD VB PRP TO VB RBR RB .</POS>
+		<Lemma>let they sit for 30 seconds in the hot oil with the heat off will pre-heat they to pop more consistently .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>After the 30 , turn the heat back on and once they start to pop , shake the pop occationally to keep the unpoped kernels on the bottom until you hear very few pops , and its done .</Tokens>
+		<POS>IN DT CD , VB DT NN RB IN CC IN PRP VBP TO VB , VB DT NN RB TO VB DT JJ NNS IN DT NN IN PRP VBP RB JJ VBZ , CC PRP$ VBN .</POS>
+		<Lemma>after the 30 , turn the heat back on and once they start to pop , shake the pop occationally to keep the unpoped kernel on the bottom until you hear very few pop , and its do .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>You 'll love it .</Tokens>
+		<POS>PRP MD VB PRP .</POS>
+		<Lemma>you 'll love it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Only add salt to the hot oil and not other flavored seasoning .</Tokens>
+		<POS>RB VB NN TO DT JJ NN CC RB JJ JJ NN .</POS>
+		<Lemma>only add salt to the hot oil and not other flavored seasoning .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Most will burn in the oil so it best to add those to the popcorn after .</Tokens>
+		<POS>JJS MD VB IN DT NN IN PRP JJS TO VB DT TO DT NN IN .</POS>
+		<Lemma>most will burn in the oil so it best to add those to the popcorn after .</Lemma>
+	</Sentence>
+</Document>

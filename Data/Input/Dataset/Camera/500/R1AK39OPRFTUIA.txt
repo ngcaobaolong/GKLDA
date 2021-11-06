@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I wo n't go into a long technical review because there are several here and many others online that you can read if you want that info , but for a short and sweet review - this is an awesome camera !</Tokens>
+		<POS>PRP MD RB VB IN DT JJ JJ NN IN EX VBP JJ RB CC JJ NNS NN IN PRP MD VB IN PRP VBP IN NN , CC IN DT JJ CC JJ NN : DT VBZ DT JJ NN .</POS>
+		<Lemma>I will not go into a long technical review because there be several here and many other online that you can read if you want that info , but for a short and sweet review - this be a awesome camera !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Steven 's comment that it , `` offers a devastating combination of quality and portability '' is EXACTLY right !</Tokens>
+		<POS>NNP POS NN IN PRP , `` VBZ DT JJ NN IN NN CC NN '' VBZ RB JJ .</POS>
+		<Lemma>Steven 's comment that it , `` offer a devastating combination of quality and portability '' be exactly right !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>\* The image quality is great .</Tokens>
+		<POS>SYM DT NN NN VBZ JJ .</POS>
+		<Lemma>\* the image quality be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Better than some dSLRs and very very close to others .</Tokens>
+		<POS>RBR IN DT NNS CC RB RB JJ TO NNS .</POS>
+		<Lemma>better than some dslr and very very close to other .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>-LRB- I 'm talking you have to blow up the image very , very large and `` pixel peep '' to find the differences -RRB- and certainly MUCH better than a `` point and shoot '' .</Tokens>
+		<POS>-LRB- PRP VBP VBG PRP VBP TO VB RP DT NN RB , RB JJ CC `` NN NN '' TO VB DT NNS -RRB- CC RB NN JJR IN DT `` NN CC NN '' .</POS>
+		<Lemma>-lrb- I be talk you have to blow up the image very , very large and `` pixel peep '' to find the difference -rrb- and certainly much better than a `` point and shoot '' .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>\* The focus is super fast \* The size and weight of the camera is nice - it is light weight \* The 3-inch Free-Angle Touch Screen LCD is a great convenience \* LOVE that it has a viewfinder too !!</Tokens>
+		<POS>SYM DT NN VBZ JJ JJ SYM DT NN CC NN IN DT NN VBZ JJ : PRP VBZ JJ NN SYM DT JJ NNP NNP NNP NNS VBZ DT JJ NN SYM VB IN PRP VBZ DT NN RB RB</POS>
+		<Lemma>\* the focus be super fast \* the size and weight of the camera be nice - it be light weight \* the 3-inch Free-Angle Touch Screen lcd be a great convenience \* love that it have a viewfinder too !!</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>\* Video is great and easy to use \* Super easy to use right out of the box - set it on Auto or Intelligent Auto if you need to and go \* Flexibility to use Manual , or any of the other modes I have a dSLR camera and sometimes you just want something lighter to carry around but still get amazing photos .</Tokens>
+		<POS>SYM NNP VBZ JJ CC JJ TO VB SYM NNP JJ TO VB JJ IN IN DT NN : VB PRP IN NN CC JJ NN IN PRP VBP TO CC VB SYM NN TO VB NNP , CC DT IN DT JJ NNS PRP VBP DT NN NN CC RB PRP RB VBP NN JJR TO VB RP CC RB VB JJ NNS .</POS>
+		<Lemma>\* Video be great and easy to use \* Super easy to use right out of the box - set it on auto or intelligent auto if you need to and go \* flexibility to use Manual , or any of the other mode I have a dslr camera and sometimes you just want something lighter to carry around but still get amazing photo .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>This does the trick !</Tokens>
+		<POS>DT VBZ DT NN .</POS>
+		<Lemma>this do the trick !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My first test is to put it on auto mode and start clicking to see what it does .</Tokens>
+		<POS>PRP$ JJ NN VBZ TO VB PRP IN NN NN CC VB VBG TO VB WP PRP VBZ .</POS>
+		<Lemma>my first test be to put it on auto mode and start click to see what it do .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Well I got some amazing quality photos before I even really knew how to use this camera .</Tokens>
+		<POS>UH PRP VBD DT JJ NN NNS IN PRP RB RB VBD WRB TO VB DT NN .</POS>
+		<Lemma>well I get some amazing quality photo before I even really know how to use this camera .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>-LRB- See some of the samples I uploaded here . -RRB-</Tokens>
+		<POS>-LRB- VB DT IN DT NNS PRP VBD RB . -RRB-</POS>
+		<Lemma>-lrb- see some of the sample I upload here . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Of course , the more you use your camera and learn about it , the better the two of you will be together .</Tokens>
+		<POS>IN NN , DT RBR PRP VBP PRP$ NN CC VB IN PRP , DT JJR DT CD IN PRP MD VB RB .</POS>
+		<Lemma>of course , the more you use you camera and learn about it , the better the two of you will be together .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>And , the nice thing about being able to get great photos on Auto if you want to use that setting is that you can give it to your spouse or mom or dad or `` non photo '' family member and they can still get great pictures and enjoy taking those pictures .</Tokens>
+		<POS>CC , DT JJ NN IN VBG JJ TO VB JJ NNS IN NN IN PRP VBP TO VB DT NN VBZ IN PRP MD VB PRP TO PRP$ NN CC NN CC NN CC `` JJ NN '' NN NN CC PRP MD RB VB JJ NNS CC VB VBG DT NNS .</POS>
+		<Lemma>and , the nice thing about be able to get great photo on auto if you want to use that setting be that you can give it to you spouse or mom or dad or `` non photo '' family member and they can still get great picture and enjoy take those picture .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I 've used the 45-200mm and 7-14mm lenses on this and they are excellent choices .</Tokens>
+		<POS>PRP VBP VBN DT NN CC JJ NNS IN DT CC PRP VBP JJ NNS .</POS>
+		<Lemma>I have use the 45-200mm and 7-14mm lens on this and they be excellent choice .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I would love it if the 45-200mm had a little faster aperture but then it would probably be heavier and more expensive .</Tokens>
+		<POS>PRP MD VB PRP IN DT NN VBD DT JJ JJR NN CC RB PRP MD RB VB JJR CC RBR JJ .</POS>
+		<Lemma>I would love it if the 45-200mm have a little faster aperture but then it would probably be heavier and more expensive .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>I 'm not sure you can get better than this camera unless you want to invest thousands and thousands of dollars in a dSLR and the very expensive and very heavy bag of professional prime lenses and then be willing to lug all of that stuff around with you all of the time .</Tokens>
+		<POS>PRP VBP RB JJ PRP MD VB JJR IN DT NN IN PRP VBP TO VB NNS CC NNS IN NNS IN DT NN CC DT RB JJ CC RB JJ NN IN JJ JJ NNS CC RB VB JJ TO VB DT IN DT NN IN IN PRP DT IN DT NN .</POS>
+		<Lemma>I be not sure you can get better than this camera unless you want to invest thousand and thousand of dollar in a dslr and the very expensive and very heavy bag of professional prime lens and then be willing to lug all of that stuff around with you all of the time .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>The fantastic bonus in all of this is awesome video .</Tokens>
+		<POS>DT JJ NN IN DT IN DT VBZ JJ NN .</POS>
+		<Lemma>the fantastic bonus in all of this be awesome video .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I 'm not that into video -LRB- yet -RRB- - I just want to take nice quality videos right out of the box of special moments with friends , family or on vacation .</Tokens>
+		<POS>PRP VBP RB DT IN NN -LRB- RB -RRB- : PRP RB VBP TO VB JJ NN NNS RB IN IN DT NN IN JJ NNS IN NNS , NN CC IN NN .</POS>
+		<Lemma>I be not that into video -lrb- yet -rrb- - I just want to take nice quality video right out of the box of special moment with friend , family or on vacation .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>You can do that with the video - and with the still photography with this camera .</Tokens>
+		<POS>PRP MD VB DT IN DT NN : CC IN DT RB NN IN DT NN .</POS>
+		<Lemma>you can do that with the video - and with the still photography with this camera .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>You can also `` grow into '' it if you want to learn more about either .</Tokens>
+		<POS>PRP MD RB `` VB IN '' PRP IN PRP VBP TO VB JJR IN DT .</POS>
+		<Lemma>you can also `` grow into '' it if you want to learn more about either .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>So , to sum it up - the more I use this camera , the more I like it - and I liked it a lot after my first use .</Tokens>
+		<POS>RB , TO VB PRP RP : DT RBR PRP VBP DT NN , DT RBR PRP VBP PRP : CC PRP VBD PRP DT NN IN PRP$ JJ NN .</POS>
+		<Lemma>so , to sum it up - the more I use this camera , the more I like it - and I like it a lot after my first use .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>If you want to step up from a point and shoot or just lighten the load down from a dSLR I highly recommend the GH2 .</Tokens>
+		<POS>IN PRP VBP TO VB RP IN DT NN CC NN CC RB VB DT NN RB IN DT NN PRP RB VB DT NN .</POS>
+		<Lemma>if you want to step up from a point and shoot or just lighten the load down from a dslr I highly recommend the gh2 .</Lemma>
+	</Sentence>
+</Document>

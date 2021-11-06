@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just purchased this product , made my first batch according to package .</Tokens>
+		<POS>PRP RB VBD DT NN , VBD PRP$ JJ NN VBG TO NN .</POS>
+		<Lemma>I just purchase this product , make my first batch accord to package .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I added fresh herbs at the end , to add a little flavor .</Tokens>
+		<POS>PRP VBD JJ NNS IN DT NN , TO VB DT JJ NN .</POS>
+		<Lemma>I add fresh herb at the end , to add a little flavor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Cooks up in an hour , nice and thick , very flavorful .</Tokens>
+		<POS>NNS RB IN DT NN , JJ CC JJ , RB JJ .</POS>
+		<Lemma>cook up in a hour , nice and thick , very flavorful .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My husband is diabetic , so we are experimenting with a variety of healthy versions of staple food items .</Tokens>
+		<POS>PRP$ NN VBZ JJ , IN PRP VBP VBG IN DT NN IN JJ NNS IN NN NN NNS .</POS>
+		<Lemma>my husband be diabetic , so we be experiment with a variety of healthy version of staple food item .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great with some turkey sausage or a couple of strips of crumbled turkey bacon .</Tokens>
+		<POS>JJ IN DT NN NN CC DT NN IN NNS IN VBN NN NN .</POS>
+		<Lemma>great with some turkey sausage or a couple of strip of crumble turkey bacon .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I keep the open package in the refrigerator , the unopened ones in the basement freezer .</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT NN , DT JJ NNS IN DT NN NN .</POS>
+		<Lemma>I keep the open package in the refrigerator , the unopened one in the basement freezer .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Another item that will become a staple in my kitchen !</Tokens>
+		<POS>DT NN WDT MD VB DT NN IN PRP$ NN .</POS>
+		<Lemma>another item that will become a staple in my kitchen !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>~ yummy !</Tokens>
+		<POS>NN NN .</POS>
+		<Lemma>~ yummy !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>~</Tokens>
+		<POS>NN</POS>
+		<Lemma>~</Lemma>
+	</Sentence>
+</Document>

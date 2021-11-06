@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Fourth Doctors favorite snack which I have not been able to get here in the US in a long time .</Tokens>
+		<POS>DT JJ NNS JJ NN WDT PRP VBP RB VBN JJ TO VB RB IN DT NNP IN DT JJ NN .</POS>
+		<Lemma>the fourth doctor favorite snack which I have not be able to get here in the US in a long time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They are simply wonderful , I have purchased these time and time again and see no reason to stop now .</Tokens>
+		<POS>PRP VBP RB JJ , PRP VBP VBN DT NN CC NN RB CC VB DT NN TO VB RB .</POS>
+		<Lemma>they be simply wonderful , I have purchase these time and time again and see no reason to stop now .</Lemma>
+	</Sentence>
+</Document>

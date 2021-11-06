@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been drinking this coffee for at least a couple of years .</Tokens>
+		<POS>PRP VBP VBN VBG DT NN IN IN JJS DT NN IN NNS .</POS>
+		<Lemma>I have be drink this coffee for at least a couple of year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's a strong-tasting coffee , which is just what I like .</Tokens>
+		<POS>PRP VBZ DT JJ NN , WDT VBZ RB WP PRP VBP .</POS>
+		<Lemma>it be a strong-tasting coffee , which be just what I like .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's not the BEST coffee I 've ever tasted -LRB- I 'm a major coffee snob -RRB- , but it 's good , everyday coffee , and the price is right for an organic coffee -LRB- especially with Subscribe & Save -RRB- .</Tokens>
+		<POS>PRP VBZ RB DT NNP NN PRP VBP RB VBN -LRB- PRP VBP DT JJ NN NN -RRB- , CC PRP VBZ JJ , JJ NN , CC DT NN VBZ JJ IN DT JJ NN -LRB- RB IN NNP CC NNP -RRB- .</POS>
+		<Lemma>it be not the BEST coffee I have ever taste -lrb- I be a major coffee snob -rrb- , but it be good , everyday coffee , and the price be right for a organic coffee -lrb- especially with Subscribe & Save -rrb- .</Lemma>
+	</Sentence>
+</Document>

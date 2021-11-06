@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to have a spare charger that I could keep at work .</Tokens>
+		<POS>PRP VBD DT TO VB DT JJ NN IN PRP MD VB IN NN .</POS>
+		<Lemma>I buy this to have a spare charger that I could keep at work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does n't work .</Tokens>
+		<POS>PRP VBZ RB VB .</POS>
+		<Lemma>it do not work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It caused my Droid to crash first time I connected it .</Tokens>
+		<POS>PRP VBD PRP$ NN TO VB JJ NN PRP VBD PRP .</POS>
+		<Lemma>it cause my droid to crash first time I connect it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Then I tried again and the screen just flashes back and forth between the home screen and the `` USB Connected '' screen , rendering it absolutely useless .</Tokens>
+		<POS>RB PRP VBD RB CC DT NN RB VBZ RB CC RB IN DT NN NN CC DT `` JJ VBN '' NN , VBG PRP RB JJ .</POS>
+		<Lemma>then I try again and the screen just flash back and forth between the home screen and the `` usb connect '' screen , render it absolutely useless .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>At two bucks with free shipping , it is n't worth returning .</Tokens>
+		<POS>IN CD NNS IN JJ NN , PRP VBZ RB JJ VBG .</POS>
+		<Lemma>at two buck with free shipping , it be not worth return .</Lemma>
+	</Sentence>
+</Document>

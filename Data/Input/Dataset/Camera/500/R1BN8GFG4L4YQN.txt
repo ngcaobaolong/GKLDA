@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>i have 5 of these photo albums now and have all my kids ' pictures in them .</Tokens>
+		<POS>LS VBP CD IN DT NN NNS RB CC VB DT PRP$ NNS POS NNS IN PRP .</POS>
+		<Lemma>i have 5 of these photo album now and have all my kid ' picture in they .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>they are quick and easy to use .</Tokens>
+		<POS>PRP VBP JJ CC JJ TO VB .</POS>
+		<Lemma>they be quick and easy to use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>i love the area for writing little notes about the pictures on the side .</Tokens>
+		<POS>LS VBP DT NN IN VBG JJ NNS IN DT NNS IN DT NN .</POS>
+		<Lemma>i love the area for write little note about the picture on the side .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>however - whoever is placing the large sticky labels on them with the product description needs to stop !</Tokens>
+		<POS>RB : WP VBZ VBG DT JJ JJ NNS IN PRP IN DT NN NN VBZ TO VB .</POS>
+		<Lemma>however - whoever be place the large sticky label on they with the product description need to stop !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>it 's nearly impossible to get the goo off the protective covers .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB DT NN IN DT JJ NNS .</POS>
+		<Lemma>it be nearly impossible to get the goo off the protective cover .</Lemma>
+	</Sentence>
+</Document>

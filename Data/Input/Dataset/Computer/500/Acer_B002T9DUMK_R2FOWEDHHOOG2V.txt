@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The speaker does n't work .</Tokens>
+		<POS>DT NN VBZ RB VB .</POS>
+		<Lemma>the speaker do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I returned one and got a new .</Tokens>
+		<POS>PRP VBD CD CC VBD DT JJ .</POS>
+		<Lemma>I return one and get a new .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Still not working .</Tokens>
+		<POS>RB RB VBG .</POS>
+		<Lemma>still not work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The monitor is LCD .</Tokens>
+		<POS>DT NN VBZ NNS .</POS>
+		<Lemma>the monitor be lcd .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is not real LED .</Tokens>
+		<POS>PRP VBZ RB JJ NN .</POS>
+		<Lemma>it be not real led .</Lemma>
+	</Sentence>
+</Document>

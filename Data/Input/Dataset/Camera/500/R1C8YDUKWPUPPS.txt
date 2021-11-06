@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased three of these cameras as a bundled purchase for home security .</Tokens>
+		<POS>PRP VBD CD IN DT NNS IN DT VBN NN IN NN NN .</POS>
+		<Lemma>I purchase three of these camera as a bundle purchase for home security .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Overall , I was very satisfied with them initially .</Tokens>
+		<POS>RB , PRP VBD RB JJ IN PRP RB .</POS>
+		<Lemma>overall , I be very satisfied with they initially .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They require some familiarity with wireless networking to get them all set up -LRB- using static IP addresses and setting up some port forwarding on your router -RRB- but otherwise setup was pretty easy .</Tokens>
+		<POS>PRP VBP DT NN IN JJ NN TO VB PRP DT VBN RP -LRB- VBG JJ NNP NNS CC VBG RP DT NN NN IN PRP$ NN -RRB- CC RB NN VBD RB JJ .</POS>
+		<Lemma>they require some familiarity with wireless networking to get they all set up -lrb- use static IP address and set up some port forwarding on you router -rrb- but otherwise setup be pretty easy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Sound and outgoing audio are rather poor but I hardly use those features .</Tokens>
+		<POS>NN CC JJ NN VBP RB JJ CC PRP RB VBP DT NNS .</POS>
+		<Lemma>sound and outgoing audio be rather poor but I hardly use those feature .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Where Foscam severely disappoints is in warranty support .</Tokens>
+		<POS>WRB NNP RB VBZ VBZ IN NN NN .</POS>
+		<Lemma>where Foscam severely disappoint be in warranty support .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You will find that the one year warranty for these cameras indicates it applies only to cameras purchased directly through their website -LRB- ie : buy it through a reseller and they have no warranty -RRB- .</Tokens>
+		<POS>PRP MD VB IN DT CD NN NN IN DT NNS VBZ PRP VBZ RB TO NNS VBN RB IN PRP$ NN -LRB- FW : VB PRP IN DT NN CC PRP VBP DT NN -RRB- .</POS>
+		<Lemma>you will find that the one year warranty for these camera indicate it apply only to camera purchase directly through they website -lrb- ie : buy it through a reseller and they have no warranty -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Additionally , one of the power supplies for one of my cameras failed after three months and Foscam told me that the warranty applied only to the cameras -LRB- not to the power supply that comes with them in the same box ... -RRB- and despite the fact that they sell the power supplies seperately on their website and advertise them as being covered by a one year warranty ... So if you buy them separately they are each covered by a one year warranty but if you buy them together in one box they are n't ?</Tokens>
+		<POS>RB , CD IN DT NN NNS IN CD IN PRP$ NNS VBD IN CD NNS CC NNP VBD PRP IN DT NN VBD RB TO DT NNS -LRB- RB TO DT NN NN WDT VBZ IN PRP IN DT JJ NN : -RRB- CC IN DT NN IN PRP VBP DT NN NNS RB IN PRP$ NN CC VB PRP IN VBG VBN IN DT CD NN NN : CC IN PRP VBP PRP RB PRP VBP DT VBN IN DT CD NN NN CC IN PRP VBP PRP RB IN CD NN PRP VBP RB .</POS>
+		<Lemma>additionally , one of the power supplies for one of my camera fail after three month and Foscam tell I that the warranty apply only to the camera -lrb- not to the power supply that come with they in the same box ... -rrb- and despite the fact that they sell the power supplies seperately on they website and advertise they as be cover by a one year warranty ... so if you buy they separately they be each cover by a one year warranty but if you buy they together in one box they be not ?</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Anyway ... overall they are adequate but clearly if they start to fail you are n't going to get much help from Foscam .</Tokens>
+		<POS>RB : JJ PRP VBP JJ CC RB IN PRP VBP TO VB PRP VBP RB VBG TO VB JJ NN IN NNP .</POS>
+		<Lemma>anyway ... overall they be adequate but clearly if they start to fail you be not go to get much help from Foscam .</Lemma>
+	</Sentence>
+</Document>

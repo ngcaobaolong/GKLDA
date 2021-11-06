@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this for a my spouse 's Accord as installing a bluetooth adapter into the factory radio would have cost nearly $ 300 .</Tokens>
+		<POS>VBN DT IN DT PRP$ NN POS NNP IN VBG DT NN NN IN DT NN NN MD VB VBN RB $ CD .</POS>
+		<Lemma>buy this for a my spouse 's Accord as install a bluetooth adapter into the factory radio would have cost nearly $ 300 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>He really likes it and is surprised at the clarity and ease of use .</Tokens>
+		<POS>PRP RB VBZ PRP CC VBZ VBN IN DT NN CC NN IN NN .</POS>
+		<Lemma>he really like it and be surprise at the clarity and ease of use .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Everything is easily at his fingertips so he does n't have to look at it to manipulate it .</Tokens>
+		<POS>NN VBZ RB IN PRP$ NNS IN PRP VBZ RB VB TO VB IN PRP TO VB PRP .</POS>
+		<Lemma>everything be easily at he fingertip so he do not have to look at it to manipulate it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The microphone is sometimes a bit lacking , but you just have to speak up over the background noise .</Tokens>
+		<POS>DT NN VBZ RB DT NN VBG , CC PRP RB VBP TO VB RP IN DT NN NN .</POS>
+		<Lemma>the microphone be sometimes a bit lack , but you just have to speak up over the background noise .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Have had it for 33 days , 3 days over Amazons return policy .</Tokens>
+		<POS>NNP VBD PRP IN CD NNS , CD NNS IN NNPS VBP NN .</POS>
+		<Lemma>Have have it for 33 day , 3 day over Amazons return policy .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>WTF ?</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>WTF ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Well anyways , the unit no longer works .</Tokens>
+		<POS>RB RB , DT NN RB RB VBZ .</POS>
+		<Lemma>well anyways , the unit no longer work .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>The arm portion is receiving power as it powers up .</Tokens>
+		<POS>DT NN NN VBZ VBG NN IN PRP NNS RB .</POS>
+		<Lemma>the arm portion be receive power as it power up .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>However , the clip on X2 is no longer working .</Tokens>
+		<POS>RB , DT NN IN NN VBZ RB RB VBG .</POS>
+		<Lemma>however , the clip on x2 be no longer work .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Since it is now outside the 30 days , I sent a note to the seller .</Tokens>
+		<POS>IN PRP VBZ RB IN DT CD NNS , PRP VBD DT NN TO DT NN .</POS>
+		<Lemma>since it be now outside the 30 day , I send a note to the seller .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Hopefully they will replace it .</Tokens>
+		<POS>RB PRP MD VB PRP .</POS>
+		<Lemma>hopefully they will replace it .</Lemma>
+	</Sentence>
+</Document>

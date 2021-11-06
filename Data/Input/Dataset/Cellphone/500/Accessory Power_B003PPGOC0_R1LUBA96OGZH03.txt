@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had my doubts about this product , past FM transmitters I 've purchased in the past did n't work very well .</Tokens>
+		<POS>PRP VBD PRP$ NNS IN DT NN , JJ NNP NNS PRP VBP VBN IN DT NN VBD RB VB RB RB .</POS>
+		<Lemma>I have my doubt about this product , past FM transmitter I have purchase in the past do not work very well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Combine with the Bluetooth functions makes the the best product I 've purchased this year .</Tokens>
+		<POS>VB IN DT NNP VBZ VBZ DT DT JJS NN PRP VBP VBN DT NN .</POS>
+		<Lemma>combine with the Bluetooth function make the the best product I have purchase this year .</Lemma>
+	</Sentence>
+</Document>

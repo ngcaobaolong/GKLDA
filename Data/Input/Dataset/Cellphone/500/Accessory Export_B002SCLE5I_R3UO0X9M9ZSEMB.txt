@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Totally unsatisfied , this product does not work .</Tokens>
+		<POS>RB JJ , DT NN VBZ RB VB .</POS>
+		<Lemma>totally unsatisfied , this product do not work .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would not recommend this product to anyone .</Tokens>
+		<POS>PRP MD RB VB DT NN TO NN .</POS>
+		<Lemma>I would not recommend this product to anyone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It does not boost my cell phone signal at all .</Tokens>
+		<POS>PRP VBZ RB VB PRP$ NN NN NN IN DT .</POS>
+		<Lemma>it do not boost my cell phone signal at all .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Reception still the same .</Tokens>
+		<POS>NN RB DT JJ .</POS>
+		<Lemma>reception still the same .</Lemma>
+	</Sentence>
+</Document>

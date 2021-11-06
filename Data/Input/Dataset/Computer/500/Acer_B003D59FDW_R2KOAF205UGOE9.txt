@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Needed a monitor for my sister quick and this fit the bill .</Tokens>
+		<POS>VBN DT NN IN PRP$ NN JJ CC DT NN DT NN .</POS>
+		<Lemma>need a monitor for my sister quick and this fit the bill .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would buy again from this vendor if the situation arose again</Tokens>
+		<POS>PRP MD VB RB IN DT NN IN DT NN VBD RB</POS>
+		<Lemma>I would buy again from this vendor if the situation arise again</Lemma>
+	</Sentence>
+</Document>

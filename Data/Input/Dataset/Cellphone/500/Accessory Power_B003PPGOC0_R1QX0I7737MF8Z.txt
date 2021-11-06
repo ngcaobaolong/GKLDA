@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Foremost , this product delivers on supplying a Bluetooth car kit on the cheap .</Tokens>
+		<POS>JJ , DT NN VBZ IN VBG DT NNP NN NN IN DT JJ .</POS>
+		<Lemma>foremost , this product deliver on supply a Bluetooth car kit on the cheap .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does the basics well : connects to your phone automatically after power on and delivers audio into your existing radio .</Tokens>
+		<POS>PRP VBZ DT NNS RB : VBZ TO PRP$ NN RB IN NN IN CC VBZ NN IN PRP$ VBG NN .</POS>
+		<Lemma>it do the basics well : connect to you phone automatically after power on and deliver audio into you exist radio .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It also supplies power to your phone via a USB port .</Tokens>
+		<POS>PRP RB VBZ NN TO PRP$ NN IN DT JJ NN .</POS>
+		<Lemma>it also supply power to you phone via a usb port .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Pause\/play , forward one track , and back one track functionality all work as advertised .</Tokens>
+		<POS>NNP , RB CD NN , CC RB CD NN NN DT NN IN VBN .</POS>
+		<Lemma>Pause\/play , forward one track , and back one track functionality all work as advertise .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The FlexSMART X2 supplies that audio to your radio either by broadcasting on an FM frequency or by a 3.5 mm audio jack .</Tokens>
+		<POS>DT NN NN NNS WDT NN TO PRP$ NN CC IN VBG IN DT JJ NN CC IN DT CD NN NN NN .</POS>
+		<Lemma>the flexsmart x2 supplies that audio to you radio either by broadcast on a fm frequency or by a 3.5 mm audio jack .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Yes , the supplied audio is clear , but this is where my quibble starts .</Tokens>
+		<POS>UH , DT VBN NN VBZ JJ , CC DT VBZ WRB PRP$ NN VBZ .</POS>
+		<Lemma>yes , the supply audio be clear , but this be where my quibble start .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The bass response is anemic regardless of FM radio or direct 3.5 mm connection .</Tokens>
+		<POS>DT NN NN VBZ JJ RB IN NNP NN CC JJ CD NN NN .</POS>
+		<Lemma>the bass response be anemic regardless of FM radio or direct 3.5 mm connection .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>As best I can tell , this is not a bluetooth audio thing , but is related to the FlexSMART .</Tokens>
+		<POS>IN JJS PRP MD VB , DT VBZ RB DT NN JJ NN , CC VBZ JJ TO DT NNP .</POS>
+		<Lemma>as best I can tell , this be not a bluetooth audio thing , but be related to the FlexSMART .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>-LRB- If I had to guess , I 'd say there 's a sharp roll off under 250 Hz or so -RRB- .</Tokens>
+		<POS>-LRB- IN PRP VBD TO VB , PRP MD VB EX VBZ DT JJ NN IN IN CD NN CC RB -RRB- .</POS>
+		<Lemma>-lrb- if I have to guess , I would say there be a sharp roll off under 250 hz or so -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>If I plug the 3.5 mm jack directly into the phone , the bass sounds great .</Tokens>
+		<POS>IN PRP VBP DT CD NN NN RB IN DT NN , DT NN VBZ JJ .</POS>
+		<Lemma>if I plug the 3.5 mm jack directly into the phone , the bass sound great .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Outside the audio response issue , one other improvement area is the lighted buttons and display .</Tokens>
+		<POS>IN DT JJ NN NN , CD JJ NN NN VBZ DT VBN NNS CC NN .</POS>
+		<Lemma>outside the audio response issue , one other improvement area be the light button and display .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>They 're simply too bright in a night-time driving situation .</Tokens>
+		<POS>PRP VBP RB RB JJ IN DT JJ VBG NN .</POS>
+		<Lemma>they be simply too bright in a night-time drive situation .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Dimming the lights would be an excellent addition .</Tokens>
+		<POS>VBG DT NNS MD VB DT JJ NN .</POS>
+		<Lemma>dim the light would be a excellent addition .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>I plan to keep the FlexSMART for traveling because of the convenience , but for my everyday driver , I 'm still going the route of plugging directly into the phone for audio .</Tokens>
+		<POS>PRP VBP TO VB DT NN IN VBG IN IN DT NN , CC IN PRP$ JJ NN , PRP VBP RB VBG DT NN IN VBG RB IN DT NN IN NN .</POS>
+		<Lemma>I plan to keep the flexsmart for travel because of the convenience , but for my everyday driver , I be still go the route of plug directly into the phone for audio .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>3 stars is minus 1.5 stars for poor bass response and minus 1\/2 star for the bright display .</Tokens>
+		<POS>CD NNS VBZ CC CD NNS IN JJ NN NN CC CC CD NN IN DT JJ NN .</POS>
+		<Lemma>3 star be minus 1.5 star for poor bass response and minus 1\/2 star for the bright display .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The phone used is a Droid Razr .</Tokens>
+		<POS>DT NN VBN VBZ DT NNP NNP .</POS>
+		<Lemma>the phone use be a Droid Razr .</Lemma>
+	</Sentence>
+</Document>

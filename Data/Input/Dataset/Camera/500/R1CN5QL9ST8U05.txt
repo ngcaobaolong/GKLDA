@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Just got this camera last week , It takes great pictures even when there is not much light .</Tokens>
+		<POS>RB VBD DT NN JJ NN , PRP VBZ JJ NNS RB WRB EX VBZ RB JJ NN .</POS>
+		<Lemma>just get this camera last week , it take great picture even when there be not much light .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It feels well built and very compact .</Tokens>
+		<POS>PRP VBZ RB VBN CC RB JJ .</POS>
+		<Lemma>it feel well build and very compact .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>the panaorama is the easiest i have ever used .</Tokens>
+		<POS>DT NN VBZ DT JJS FW VBP RB VBN .</POS>
+		<Lemma>the panaorama be the easiest i have ever use .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Processing speed is fast with no or little shutter lag .</Tokens>
+		<POS>NN NN VBZ JJ IN DT CC JJ NN NN .</POS>
+		<Lemma>processing speed be fast with no or little shutter lag .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very cool that this will shoot slow motion video .</Tokens>
+		<POS>RB VBP IN DT MD VB JJ NN NN .</POS>
+		<Lemma>very cool that this will shoot slow motion video .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The gps function with a world map is very cool especially for those traveling .</Tokens>
+		<POS>DT NNS VBP IN DT NN NN VBZ RB JJ RB IN DT VBG .</POS>
+		<Lemma>the gp function with a world map be very cool especially for those travel .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you are using the gps you might want to buy extra batteries as it makes the camera less miserly with it on .</Tokens>
+		<POS>IN PRP VBP VBG DT NNS PRP MD VB TO VB JJ NNS IN PRP VBZ DT NN RBR JJ IN PRP IN .</POS>
+		<Lemma>if you be use the gp you might want to buy extra battery as it make the camera less miserly with it on .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>it is nice that it has seperate caqmera and video buttons and a movie light is also nice as it will give some good fill lighting .</Tokens>
+		<POS>PRP VBZ JJ IN PRP VBZ JJ NN CC NN NNS CC DT NN NN VBZ RB JJ IN PRP MD VB DT JJ NN NN .</POS>
+		<Lemma>it be nice that it have seperate caqmera and video button and a movie light be also nice as it will give some good fill lighting .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>All in all a great camera with lots of features .</Tokens>
+		<POS>DT IN PDT DT JJ NN IN NNS IN NNS .</POS>
+		<Lemma>all in all a great camera with lot of feature .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The zoom is only 5x but that is a good thing .</Tokens>
+		<POS>DT NN VBZ RB JJ CC DT VBZ DT JJ NN .</POS>
+		<Lemma>the zoom be only 5x but that be a good thing .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>the new megazoom cameras do not give sharp pictures which is why i picked this camera over the L 120 .</Tokens>
+		<POS>DT JJ NN NNS VBP RB VB JJ NNS WDT VBZ WRB FW VBD DT NN IN DT NN CD .</POS>
+		<Lemma>the new megazoom camera do not give sharp picture which be why i pick this camera over the l 120 .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My old monitor started overheating after many years .</Tokens>
+		<POS>PRP$ JJ NN VBD VBG IN JJ NNS .</POS>
+		<Lemma>my old monitor start overheate after many year .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I left it on all day which probably did n't help .</Tokens>
+		<POS>PRP VBD PRP IN DT NN WDT RB VBD RB VB .</POS>
+		<Lemma>I leave it on all day which probably do not help .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I was going on a 10 week assignment and I purchased a ACER Aspire laptop which I love .</Tokens>
+		<POS>PRP VBD VBG IN DT CD NN NN CC PRP VBD DT NNP NNP NN WDT PRP VBP .</POS>
+		<Lemma>I be go on a 10 week assignment and I purchase a ACER Aspire laptop which I love .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>So when I returned to find my desktop monitor dying a slow death , I immediately thought of Acer again .</Tokens>
+		<POS>RB WRB PRP VBD TO VB PRP$ NN NN VBG DT JJ NN , PRP RB VBD IN NNP RB .</POS>
+		<Lemma>so when I return to find my desktop monitor die a slow death , I immediately think of Acer again .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>While it is not a big screen job , it suits my purposes fine and is very clear .</Tokens>
+		<POS>IN PRP VBZ RB DT JJ NN NN , PRP VBZ PRP$ NNS JJ CC VBZ RB JJ .</POS>
+		<Lemma>while it be not a big screen job , it suit my purpose fine and be very clear .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Highly recommend .</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+</Document>

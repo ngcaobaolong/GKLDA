@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>First let me tell you that I am a photography freak .</Tokens>
+		<POS>JJ VB PRP VB PRP IN PRP VBP DT NN NN .</POS>
+		<Lemma>first let I tell you that I be a photography freak .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have a website with my name -LRB- Deepc visual arts -RRB- .</Tokens>
+		<POS>PRP VBP DT NN IN PRP$ NN -LRB- JJ JJ NNS -RRB- .</POS>
+		<Lemma>I have a website with my name -lrb- deepc visual art -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>In my experience people tend to buy upto 12x18 print most of the times .</Tokens>
+		<POS>IN PRP$ NN NNS VBP TO VB NN NN NN JJS IN DT NNS .</POS>
+		<Lemma>in my experience people tend to buy upto 12x18 print most of the time .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This camera is able to create very good pics until 16x20 at iso100 and 11x14 at iso 400 .</Tokens>
+		<POS>DT NN VBZ JJ TO VB RB JJ NNS IN NN IN NN CC NN IN NN CD .</POS>
+		<Lemma>this camera be able to create very good pic until 16x20 at iso100 and 11x14 at iso 400 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I mainly shoot with semi pro Nikon dslrs .</Tokens>
+		<POS>PRP RB VBP IN JJ JJ NNP NNS .</POS>
+		<Lemma>I mainly shoot with semi pro Nikon dslr .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>But I always wanted to carry one dslr camera with me , all the time .</Tokens>
+		<POS>CC PRP RB VBD TO VB CD JJ NN IN PRP , PDT DT NN .</POS>
+		<Lemma>but I always want to carry one dslr camera with I , all the time .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>That never worked out until I settled for this one .</Tokens>
+		<POS>DT RB VBN RP IN PRP VBD IN DT CD .</POS>
+		<Lemma>that never work out until I settle for this one .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have a small case for this camera and it is on my belt almost all the time .</Tokens>
+		<POS>PRP VBP DT JJ NN IN DT NN CC PRP VBZ IN PRP$ NN RB PDT DT NN .</POS>
+		<Lemma>I have a small case for this camera and it be on my belt almost all the time .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I tried mirror less too .</Tokens>
+		<POS>PRP VBD NN RBR RB .</POS>
+		<Lemma>I try mirror less too .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>But they are little smaller than dslrs and you still have to hang those arond your neck , and did not work for me .</Tokens>
+		<POS>CC PRP VBP JJ JJR IN NNS CC PRP RB VBP TO VB DT JJ PRP$ NN , CC VBD RB VB IN PRP .</POS>
+		<Lemma>but they be little smaller than dslr and you still have to hang those arond you neck , and do not work for I .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>P7000 does not replace a dslr but I am sure it will get me much more sales .</Tokens>
+		<POS>NN VBZ RB VB DT NN CC PRP VBP JJ PRP MD VB PRP RB RBR NNS .</POS>
+		<Lemma>p7000 do not replace a dslr but I be sure it will get I much more sale .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Because a moment matters in photo arts .</Tokens>
+		<POS>IN DT NN NNS IN NN NNS .</POS>
+		<Lemma>because a moment matter in photo art .</Lemma>
+	</Sentence>
+</Document>

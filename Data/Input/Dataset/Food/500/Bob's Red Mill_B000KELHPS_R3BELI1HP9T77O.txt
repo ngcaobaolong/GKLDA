@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had multiple food allergies since 1997 and really missed having a whole grain type of bread to eat -LRB- without mixing a hundred ingredients to make one loaf of bread -RRB- .</Tokens>
+		<POS>PRP VBP VBN JJ NN NNS IN CD CC RB VBD VBG DT JJ NN NN IN NN TO VB -LRB- IN VBG DT CD NNS TO VB CD NN IN NN -RRB- .</POS>
+		<Lemma>I have have multiple food allergy since 1997 and really miss have a whole grain type of bread to eat -lrb- without mix a hundred ingredient to make one loaf of bread -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I tried this mix a few months ago I could n't believe how wonderful it tastes .</Tokens>
+		<POS>WRB PRP VBD DT NN DT JJ NNS IN PRP MD RB VB WRB JJ PRP VBZ .</POS>
+		<Lemma>when I try this mix a few month ago I could not believe how wonderful it taste .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The mix works fine in my bread machine , and the bread looks , feels , and tastes like `` real '' bread .</Tokens>
+		<POS>DT NN VBZ NN IN PRP$ NN NN , CC DT NN VBZ , VBZ , CC NNS IN `` JJ '' NN .</POS>
+		<Lemma>the mix work fine in my bread machine , and the bread look , feel , and taste like `` real '' bread .</Lemma>
+	</Sentence>
+</Document>

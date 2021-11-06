@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Pros : Price LED Backlight Great whitepoint and blackpoint , great contrast at both high and low ends .</Tokens>
+		<POS>NNS : NN VBD NNP NNP NN CC NN , JJ NN IN DT JJ CC JJ NNS .</POS>
+		<Lemma>pro : price lead Backlight Great whitepoint and blackpoint , great contrast at both high and low end .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Decent gamma out of the box .</Tokens>
+		<POS>JJ NN IN IN DT NN .</POS>
+		<Lemma>decent gamma out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Quick response time .</Tokens>
+		<POS>RB NN NN .</POS>
+		<Lemma>quick response time .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Came with DVI cable .</Tokens>
+		<POS>VBN IN NNP NN .</POS>
+		<Lemma>come with DVI cable .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Very long power cord .</Tokens>
+		<POS>RB JJ NN NN .</POS>
+		<Lemma>very long power cord .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Decent horizontal viewing angle No dead or stuck or bright or dim pixels .</Tokens>
+		<POS>JJ JJ NN NN DT JJ CC JJ CC JJ CC JJ NNS .</POS>
+		<Lemma>decent horizontal viewing angle no dead or stuck or bright or dim pixel .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Cons : Trash vertical viewing angle -LRB- But what can you expect at this price -RRB- The kicker : The right half of my monitor was visibly more blue than the left half .</Tokens>
+		<POS>NNS : NN JJ VBG NN -LRB- CC WP MD PRP VB IN DT NN -RRB- DT NN : DT JJ NN IN PRP$ NN VBD RB RBR JJ IN DT JJ NN .</POS>
+		<Lemma>con : trash vertical view angle -lrb- but what can you expect at this price -rrb- the kicker : the right half of my monitor be visibly more blue than the left half .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It seems like the red and green channels are significantly more dim on the right half of my monitor .</Tokens>
+		<POS>PRP VBZ IN DT JJ CC JJ NNS VBP RB RBR JJ IN DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>it seem like the red and green channel be significantly more dim on the right half of my monitor .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>At first I noticed something was off , but I could n't quite place it .</Tokens>
+		<POS>IN JJ PRP VBD NN VBD RB , CC PRP MD RB RB VB PRP .</POS>
+		<Lemma>at first I notice something be off , but I could not quite place it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>After a day or so of using my monitor I realized , while staring at a blank white screen , that the left half of the monitor was blue .</Tokens>
+		<POS>IN DT NN CC RB IN VBG PRP$ NN PRP VBD , IN VBG IN DT JJ JJ NN , IN DT JJ NN IN DT NN VBD JJ .</POS>
+		<Lemma>after a day or so of use my monitor I realize , while stare at a blank white screen , that the left half of the monitor be blue .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>At first I thought this was a viewing angle problem .</Tokens>
+		<POS>IN JJ PRP VBD DT VBD DT VBG NN NN .</POS>
+		<Lemma>at first I think this be a view angle problem .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Looking straight at my monitor -LRB- and moving my head side to side , always keeping parallel with the screen -RRB- the pixels become visibly more blue starting at the 1\/3 mark .</Tokens>
+		<POS>VBG RB IN PRP$ NN -LRB- CC VBG PRP$ NN NN TO NN , RB VBG NN IN DT NN -RRB- DT NNS VBP RB RBR JJ VBG IN DT CD NN .</POS>
+		<Lemma>look straight at my monitor -lrb- and move my head side to side , always keep parallel with the screen -rrb- the pixel become visibly more blue start at the 1\/3 mark .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>No settings on the monitor would fix this .</Tokens>
+		<POS>DT NNS IN DT NN MD VB DT .</POS>
+		<Lemma>no setting on the monitor would fix this .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>If I look at the monitor at a 45 degree angle from the left side , the entire screen has a more uniform color .</Tokens>
+		<POS>IN PRP VBP IN DT NN IN DT CD NN NN IN DT JJ NN , DT JJ NN VBZ DT RBR JJ NN .</POS>
+		<Lemma>if I look at the monitor at a 45 degree angle from the left side , the entire screen have a more uniform color .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Anything short of this has no effect .</Tokens>
+		<POS>NN JJ IN DT VBZ DT NN .</POS>
+		<Lemma>anything short of this have no effect .</Lemma>
+	</Sentence>
+</Document>

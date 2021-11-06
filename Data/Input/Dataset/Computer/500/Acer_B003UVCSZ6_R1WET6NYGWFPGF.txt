@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is our second Acer LCD monitor .</Tokens>
+		<POS>DT VBZ PRP$ JJ NNP NNS VBP .</POS>
+		<Lemma>this be we second Acer lcd monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Both are absolutely great items .</Tokens>
+		<POS>DT VBP RB JJ NNS .</POS>
+		<Lemma>both be absolutely great item .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Seems as though when Acer started out they seemed a bit on the po-dank side of the computer industry .</Tokens>
+		<POS>VBZ IN RB WRB NNP VBD IN PRP VBD DT NN IN DT JJ NN IN DT NN NN .</POS>
+		<Lemma>seem as though when Acer start out they seem a bit on the po-dank side of the computer industry .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No more !</Tokens>
+		<POS>DT RBR .</POS>
+		<Lemma>no more !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>All the latest Acer stuff is top notch !</Tokens>
+		<POS>PDT DT JJS NNP NN VBZ JJ NN .</POS>
+		<Lemma>all the latest Acer stuff be top notch !</Lemma>
+	</Sentence>
+</Document>

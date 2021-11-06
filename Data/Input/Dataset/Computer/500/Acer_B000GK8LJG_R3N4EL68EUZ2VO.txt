@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this LCD monitor for my adult son , to replace a CRT .</Tokens>
+		<POS>PRP VBD DT NNS VBP IN PRP$ JJ NN , TO VB DT NNP .</POS>
+		<Lemma>I buy this lcd monitor for my adult son , to replace a CRT .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>He is very happy with the performance of the display , resolution , color , etc. .</Tokens>
+		<POS>PRP VBZ RB JJ IN DT NN IN DT NN , NN , NN , FW .</POS>
+		<Lemma>he be very happy with the performance of the display , resolution , color , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A friend took a look at it and quickly bought one for himself because the performance\/price is a great value .</Tokens>
+		<POS>DT NN VBD DT NN IN PRP CC RB VBD CD IN PRP IN DT NN VBZ DT JJ NN .</POS>
+		<Lemma>a friend take a look at it and quickly buy one for himself because the performance\/price be a great value .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We ca n't comment yet on longevity , since we 're only a few months into its service life .</Tokens>
+		<POS>PRP MD RB VB RB IN NN , IN PRP VBP RB DT JJ NNS IN PRP$ NN NN .</POS>
+		<Lemma>we can not comment yet on longevity , since we be only a few month into its service life .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>But so far , so good .</Tokens>
+		<POS>CC RB RB , RB JJ .</POS>
+		<Lemma>but so far , so good .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If there are no issues a year from now , my 4 stars would go to 5 .</Tokens>
+		<POS>IN EX VBP DT NNS DT NN IN RB , PRP$ CD NNS MD VB TO CD .</POS>
+		<Lemma>if there be no issue a year from now , my 4 star would go to 5 .</Lemma>
+	</Sentence>
+</Document>

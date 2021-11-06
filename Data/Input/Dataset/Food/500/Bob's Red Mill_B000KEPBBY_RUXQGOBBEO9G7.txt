@@ -1,0 +1,107 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>To begin , let me say that Bob 's Red Mill makes quality products and this soup mix is no exception .</Tokens>
+		<POS>TO VB , VB PRP VB IN NNP POS NNP NNP VBZ NN NNS CC DT NN NN VBZ DT NN .</POS>
+		<Lemma>to begin , let I say that Bob 's Red Mill make quality product and this soup mix be no exception .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The ingredients are all natural and organic and this is unquestionably healthy food .</Tokens>
+		<POS>DT NNS VBP DT JJ CC JJ CC DT VBZ RB JJ NN .</POS>
+		<Lemma>the ingredient be all natural and organic and this be unquestionably healthy food .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I 've ordered a number of Bob 's products and I think Bob 's Red Mill is the kind of company that we should feel good about supporting .</Tokens>
+		<POS>PRP VBP VBN DT NN IN NNP POS NNS CC PRP VBP NNP POS NNP NNP VBZ DT NN IN NN IN PRP MD VB JJ IN VBG .</POS>
+		<Lemma>I have order a number of Bob 's product and I think Bob 's Red Mill be the kind of company that we should feel good about support .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , not only is this not vegetable soup , but in my view , it really is n't even soup .</Tokens>
+		<POS>RB , RB RB VBZ DT RB NN NN , CC IN PRP$ NN , PRP RB VBZ RB RB NN .</POS>
+		<Lemma>however , not only be this not vegetable soup , but in my view , it really be not even soup .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is a combination of lentils , split peas , barley and pasta alphabet letters made from some form of ground tomato & spinach powder or the like .</Tokens>
+		<POS>PRP VBZ DT NN IN NNS , VBD NNS , NN CC NN NN NNS VBN IN DT NN IN NN NN CC NN NN CC DT JJ .</POS>
+		<Lemma>it be a combination of lentil , split pea , barley and pasta alphabet letter make from some form of ground tomato & spinach powder or the like .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>But these alphabet letters do n't taste like vegetables .</Tokens>
+		<POS>CC DT NN NNS VBP RB VB IN NNS .</POS>
+		<Lemma>but these alphabet letter do not taste like vegetable .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>So , this is basically a mostly legume-based soup starter rather than a vegetable soup mix .</Tokens>
+		<POS>RB , DT VBZ RB DT RB JJ NN JJ RB IN DT NN NN NN .</POS>
+		<Lemma>so , this be basically a mostly legume-based soup starter rather than a vegetable soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you cook this `` soup '' as directed , it will have essentially no flavor other than the very bland taste of the legumes that are present .</Tokens>
+		<POS>IN PRP VBP DT `` NN '' IN VBN , PRP MD VB RB DT NN JJ IN DT RB JJ NN IN DT NNS WDT VBP JJ .</POS>
+		<Lemma>if you cook this `` soup '' as direct , it will have essentially no flavor other than the very bland taste of the legume that be present .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There is no seasoning whatsoever , no visible vegetables , and it does not taste like vegetable soup .</Tokens>
+		<POS>EX VBZ DT NN RB , DT JJ NNS , CC PRP VBZ RB VB IN NN NN .</POS>
+		<Lemma>there be no seasoning whatsoever , no visible vegetable , and it do not taste like vegetable soup .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Now others have noted that you can add your own spices , seasonings , vegetables and meat and that 's true .</Tokens>
+		<POS>RB NNS VBP VBN IN PRP MD VB PRP$ JJ NNS , NNS , NNS CC NN CC DT VBZ JJ .</POS>
+		<Lemma>now other have note that you can add you own spice , seasoning , vegetable and meat and that be true .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>And once you do this , you might indeed have a very good soup , depending of course upon your cooking skills , or lack thereof .</Tokens>
+		<POS>CC RB PRP VBP DT , PRP MD RB VB DT RB JJ NN , VBG IN NN IN PRP$ NN NNS , CC NN RB .</POS>
+		<Lemma>and once you do this , you might indeed have a very good soup , depend of course upon you cooking skill , or lack thereof .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>But if you 're not a good cook , and\/or are unwilling to add your own seasonings and ingredients , then you will likely not have a good soup .</Tokens>
+		<POS>CC IN PRP VBP RB DT JJ NN , CC VBP JJ TO VB PRP$ JJ NNS CC NNS , RB PRP MD RB RB VB DT JJ NN .</POS>
+		<Lemma>but if you be not a good cook , and\/or be unwilling to add you own seasoning and ingredient , then you will likely not have a good soup .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Conversely , with most other brands I 've tried , if you purchase soup mix and cook it , then you will indeed have soup .</Tokens>
+		<POS>RB , IN JJS JJ NNS PRP VBP VBN , IN PRP VBP NN NN CC VB PRP , RB PRP MD RB VB NN .</POS>
+		<Lemma>conversely , with most other brand I have try , if you purchase soup mix and cook it , then you will indeed have soup .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>With this `` soup '' mix , if you purchase it and cook it , you wo n't have what I consider to be soup .</Tokens>
+		<POS>IN DT `` NN '' NN , IN PRP VBP PRP CC VB PRP , PRP MD RB VB WP PRP VBP TO VB NN .</POS>
+		<Lemma>with this `` soup '' mix , if you purchase it and cook it , you will not have what I consider to be soup .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>If you are planning on serving this `` soup '' to guests and you simply throw it in a pot and cook as per the directions , the end result will likely not be very good .</Tokens>
+		<POS>IN PRP VBP VBG IN VBG DT `` NN '' TO NNS CC PRP RB VB PRP IN DT NN CC NN IN IN DT NNS , DT NN NN MD RB RB VB RB JJ .</POS>
+		<Lemma>if you be plan on serve this `` soup '' to guest and you simply throw it in a pot and cook as per the direction , the end result will likely not be very good .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>The bottom line is that this is a good soup base .</Tokens>
+		<POS>DT JJ NN VBZ IN DT VBZ DT JJ NN NN .</POS>
+		<Lemma>the bottom line be that this be a good soup base .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>But I do n't think it should be called soup and calling it vegetable soup is even more of a stretch , because there are no visible vegetables or vegetable flavor .</Tokens>
+		<POS>CC PRP VBP RB VB PRP MD VB VBN NN CC VBG PRP NN NN VBZ RB JJR IN DT NN , IN EX VBP DT JJ NNS CC NN NN .</POS>
+		<Lemma>but I do not think it should be call soup and call it vegetable soup be even more of a stretch , because there be no visible vegetable or vegetable flavor .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>5 stars for the ingredients which are organic , fresh and very healthy .</Tokens>
+		<POS>CD NNS IN DT NNS WDT VBP JJ , JJ CC RB JJ .</POS>
+		<Lemma>5 star for the ingredient which be organic , fresh and very healthy .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>But 1 star because most people would be unhappy with this `` soup '' , if cooked as directed .</Tokens>
+		<POS>CC CD NN IN JJS NNS MD VB JJ IN DT `` NN '' , IN VBN IN VBN .</POS>
+		<Lemma>but 1 star because most people would be unhappy with this `` soup '' , if cook as direct .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>So we 'll average the 2 and give it a 3 star rating .</Tokens>
+		<POS>IN PRP MD VB DT CD CC VB PRP DT CD NN NN .</POS>
+		<Lemma>so we 'll average the 2 and give it a 3 star rating .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I ca n't tell you it 's not worth buying , but if you purchase this , it 's important to understand exactly what you are getting .</Tokens>
+		<POS>PRP MD RB VB PRP PRP VBZ RB JJ NN , CC IN PRP VBP DT , PRP VBZ JJ TO VB RB WP PRP VBP VBG .</POS>
+		<Lemma>I can not tell you it be not worth buying , but if you purchase this , it be important to understand exactly what you be get .</Lemma>
+	</Sentence>
+</Document>

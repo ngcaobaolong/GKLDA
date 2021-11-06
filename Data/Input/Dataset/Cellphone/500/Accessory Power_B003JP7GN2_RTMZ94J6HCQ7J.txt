@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have one of those new Droid Smarphones that needs to be charged almost daily .</Tokens>
+		<POS>PRP VBP CD IN DT JJ NNP NNPS WDT VBZ TO VB VBN RB RB .</POS>
+		<Lemma>I have one of those new Droid Smarphones that need to be charge almost daily .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I do n't mind it so much , because I am almost always near a source to charge it .</Tokens>
+		<POS>PRP VBP RB VB PRP RB RB , IN PRP VBP RB RB IN DT NN TO VB PRP .</POS>
+		<Lemma>I do not mind it so much , because I be almost always near a source to charge it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I wanted to have this charger to keep in the kitchen .</Tokens>
+		<POS>PRP VBD TO VB DT NN TO VB IN DT NN .</POS>
+		<Lemma>I want to have this charger to keep in the kitchen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It works great , and charges my phone quickly .</Tokens>
+		<POS>PRP VBZ JJ , CC NNS PRP$ NN RB .</POS>
+		<Lemma>it work great , and charge my phone quickly .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have no complaints .</Tokens>
+		<POS>PRP VBP DT NNS .</POS>
+		<Lemma>I have no complaint .</Lemma>
+	</Sentence>
+</Document>

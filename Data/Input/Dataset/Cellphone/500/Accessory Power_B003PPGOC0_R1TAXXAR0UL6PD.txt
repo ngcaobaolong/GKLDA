@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>during the first 2 weeks , it worked perfect , the sound quality of the call is acceptable .</Tokens>
+		<POS>IN DT JJ CD NNS , PRP VBD JJ , DT JJ NN IN DT NN VBZ JJ .</POS>
+		<Lemma>during the first 2 week , it work perfect , the sound quality of the call be acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But it 's ok since it work through radio signal , so I didnot expect % 100 sound quality .</Tokens>
+		<POS>CC PRP VBZ JJ IN PRP VB IN NN NN , IN PRP VBP VB NN CD JJ NN .</POS>
+		<Lemma>but it be ok since it work through radio signal , so I didnot expect % 100 sound quality .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And now , I turn it to almost all weak-radio signal -LRB- or use it automatically-find tool -RRB- , and the sound is terrible .</Tokens>
+		<POS>CC RB , PRP VBP PRP TO RB DT JJ NN -LRB- CC VB PRP JJ NN -RRB- , CC DT NN VBZ JJ .</POS>
+		<Lemma>and now , I turn it to almost all weak-radio signal -lrb- or use it automatically-find tool -rrb- , and the sound be terrible .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I could not use it anymore , i had to plug it into my AUX .</Tokens>
+		<POS>PRP MD RB VB PRP RB , FW VBD TO VB PRP IN PRP$ NNP .</POS>
+		<Lemma>I could not use it anymore , i have to plug it into my AUX .</Lemma>
+	</Sentence>
+</Document>

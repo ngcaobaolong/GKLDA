@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got one of these a couple weeks ago - it 's very nice .</Tokens>
+		<POS>PRP VBD CD IN DT DT NN NNS IN : PRP VBZ RB JJ .</POS>
+		<Lemma>I get one of these a couple week ago - it be very nice .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It works great with my HTC Incredible -LRB- android -RRB- phone .</Tokens>
+		<POS>PRP VBZ JJ IN PRP$ NNP JJ -LRB- NN -RRB- NN .</POS>
+		<Lemma>it work great with my HTC incredible -lrb- android -rrb- phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It will power\/charge it from a wall outlet , car outlet , or batteries .</Tokens>
+		<POS>PRP MD VB PRP IN DT NN NN , NN NN , CC NNS .</POS>
+		<Lemma>it will power\/charge it from a wall outlet , car outlet , or battery .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very portable too - this is the charger I use when I travel .</Tokens>
+		<POS>RB JJ RB : DT VBZ DT NN PRP VBP WRB PRP VBP .</POS>
+		<Lemma>very portable too - this be the charger I use when I travel .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It came with other adapters too - probably for an iPhone ; I 'm not sure .</Tokens>
+		<POS>PRP VBD IN JJ NNS RB : RB IN DT NNP : PRP VBP RB JJ .</POS>
+		<Lemma>it come with other adapter too - probably for a iPhone ; I be not sure .</Lemma>
+	</Sentence>
+</Document>

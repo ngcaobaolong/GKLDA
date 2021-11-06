@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>it does n't matter how cheap this cable is , it 's not worth it because it does not work .</Tokens>
+		<POS>PRP VBZ RB VB WRB JJ DT NN VBZ , PRP VBZ RB JJ PRP IN PRP VBZ RB VB .</POS>
+		<Lemma>it do not matter how cheap this cable be , it be not worth it because it do not work .</Lemma>
+	</Sentence>
+</Document>

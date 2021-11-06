@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this product due to the good ratings and its overall versatility .</Tokens>
+		<POS>VBN DT NN JJ TO DT JJ NNS CC PRP$ JJ NN .</POS>
+		<Lemma>buy this product due to the good rating and its overall versatility .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Waited one month before writing review figuring something is going to come up that I do n't like , or it would burn out and die on me due to the price being so cheap compared to others .</Tokens>
+		<POS>VBD CD NN IN VBG NN VBG NN VBZ VBG TO VB RP IN PRP VBP RB VB , CC PRP MD VB RP CC VB IN PRP JJ TO DT NN VBG RB JJ VBN TO NNS .</POS>
+		<Lemma>wait one month before write review figure something be go to come up that I do not like , or it would burn out and die on I due to the price be so cheap compare to other .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>To my delight , the product was everything it claimed to be .</Tokens>
+		<POS>TO PRP$ NN , DT NN VBD NN PRP VBD TO VB .</POS>
+		<Lemma>to my delight , the product be everything it claim to be .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I just keep it in my glove compartment of my car now and use it as the car charger for my I-phone , my passengers ' phones , as well as for my daughter 's devices .</Tokens>
+		<POS>PRP RB VBP PRP IN PRP$ NN NN IN PRP$ NN RB CC VB PRP IN DT NN NN IN PRP$ NN , PRP$ NNS POS NNS , RB RB IN IN PRP$ NN POS NNS .</POS>
+		<Lemma>I just keep it in my glove compartment of my car now and use it as the car charger for my i-phone , my passenger ' phone , as well as for my daughter 's device .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I also like the fact that if I go to a destination , it is an all-in-one charger for the car , the hotel and those all-day soccer tournament fields with no outlet in sight .</Tokens>
+		<POS>PRP RB VBP DT NN IN IN PRP VBP TO DT NN , PRP VBZ DT JJ NN IN DT NN , DT NN CC DT JJ NN NN NNS IN DT NN IN NN .</POS>
+		<Lemma>I also like the fact that if I go to a destination , it be a all-in-one charger for the car , the hotel and those all-day soccer tournament field with no outlet in sight .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Due to the myriad of uses , including space for the batteries , it is larger than other chargers -LRB- therefore easier to find and not lose -RRB- .</Tokens>
+		<POS>JJ TO DT JJ IN NNS , VBG NN IN DT NNS , PRP VBZ JJR IN JJ NNS -LRB- RB JJR TO VB CC RB VB -RRB- .</POS>
+		<Lemma>due to the myriad of use , include space for the battery , it be larger than other charger -lrb- therefore easier to find and not lose -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I previously constantly lost or forgot my chargers and my phone was always dead .</Tokens>
+		<POS>PRP RB RB VBN CC VBN PRP$ NNS CC PRP$ NN VBD RB JJ .</POS>
+		<Lemma>I previously constantly lose or forget my charger and my phone be always dead .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Since I bought this charger , my phone is always charged .</Tokens>
+		<POS>IN PRP VBD DT NN , PRP$ NN VBZ RB VBN .</POS>
+		<Lemma>since I buy this charger , my phone be always charge .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My daughter can play games on my phone between games or use her devices for hours no matter where we are or what we are doing , and my phone never dies .</Tokens>
+		<POS>PRP$ NN MD VB NNS IN PRP$ NN IN NNS CC VB PRP$ NNS IN NNS DT NN WRB PRP VBP CC WP PRP VBP VBG , CC PRP$ NN RB VBZ .</POS>
+		<Lemma>my daughter can play game on my phone between game or use she device for hour no matter where we be or what we be do , and my phone never die .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I love it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I love it .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've used drinks , bars , gels , and gummies on rides .</Tokens>
+		<POS>PRP VBP VBN NNS , NNS , NNS , CC NNS IN NNS .</POS>
+		<Lemma>I have use drink , bar , gel , and gummy on ride .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This product has been great for adding variety to my routine .</Tokens>
+		<POS>DT NN VBZ VBN JJ IN VBG NN TO PRP$ NN .</POS>
+		<Lemma>this product have be great for add variety to my routine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>They 've replace the bars for me as they 're lighter and easier on my stomach .</Tokens>
+		<POS>PRP VBP VB DT NNS IN PRP IN PRP VBP JJR CC JJR IN PRP$ NN .</POS>
+		<Lemma>they have replace the bar for I as they be lighter and easier on my stomach .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They work great for me on the bike , but I 'm not sure I 'd try them on the run .</Tokens>
+		<POS>PRP VBP JJ IN PRP IN DT NN , CC PRP VBP RB JJ PRP MD VB PRP IN DT NN .</POS>
+		<Lemma>they work great for I on the bike , but I be not sure I would try they on the run .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>My stomach 's not usually game for solids when running .</Tokens>
+		<POS>PRP$ NN POS RB RB NN IN NNS WRB VBG .</POS>
+		<Lemma>my stomach 's not usually game for solid when run .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Give them a try -- they 're easy to buy as singles at running and biking stores if you 're not sure about committing to a box !</Tokens>
+		<POS>VB PRP DT NN : PRP VBP JJ TO VB IN NNS IN VBG CC NN NNS IN PRP VBP RB JJ IN VBG TO DT NN .</POS>
+		<Lemma>give they a try -- they be easy to buy as singles at run and biking store if you be not sure about commit to a box !</Lemma>
+	</Sentence>
+</Document>

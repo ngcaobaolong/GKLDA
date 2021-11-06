@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've sent this gift box to my nephew who loves this chocolate very much .</Tokens>
+		<POS>PRP VBP VBN DT NN NN TO PRP$ NN WP VBZ DT NN RB RB .</POS>
+		<Lemma>I have send this gift box to my nephew who love this chocolate very much .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It came in a very good condition and he was very happy with it .</Tokens>
+		<POS>PRP VBD IN DT RB JJ NN CC PRP VBD RB JJ IN PRP .</POS>
+		<Lemma>it come in a very good condition and he be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It came earlier than expected and I would recommend this to everyone who would be interested in giving it someone or who would buy it for themselves .</Tokens>
+		<POS>PRP VBD JJR IN VBN CC PRP MD VB DT TO NN WP MD VB JJ IN VBG PRP NN CC WP MD VB PRP IN PRP .</POS>
+		<Lemma>it come earlier than expect and I would recommend this to everyone who would be interested in give it someone or who would buy it for themselves .</Lemma>
+	</Sentence>
+</Document>

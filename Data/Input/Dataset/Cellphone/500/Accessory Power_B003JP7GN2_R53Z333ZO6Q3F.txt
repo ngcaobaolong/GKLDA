@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is the second one I have purchased -LRB- I lost the last one -RRB- .</Tokens>
+		<POS>DT VBZ DT JJ CD PRP VBP VBN -LRB- PRP VBD DT JJ CD -RRB- .</POS>
+		<Lemma>this be the second one I have purchase -lrb- I lose the last one -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The product works perfectly , in the car , home , and with AA batteries .</Tokens>
+		<POS>DT NN VBZ RB , IN DT NN , NN , CC IN NN NNS .</POS>
+		<Lemma>the product work perfectly , in the car , home , and with aa battery .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>100 % Satisfied !!!!</Tokens>
+		<POS>CD NN JJ NN</POS>
+		<Lemma>100 % satisfied !!!!</Lemma>
+	</Sentence>
+</Document>

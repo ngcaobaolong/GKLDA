@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product worked fine with my HTC Thunderbolt .</Tokens>
+		<POS>DT NN VBD JJ IN PRP$ NNP NNP .</POS>
+		<Lemma>this product work fine with my HTC Thunderbolt .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is unclear to me what would be gained from buying a more expensive charger .</Tokens>
+		<POS>PRP VBZ JJ TO PRP WP MD VB VBN IN VBG DT RBR JJ NN .</POS>
+		<Lemma>it be unclear to I what would be gain from buy a more expensive charger .</Lemma>
+	</Sentence>
+</Document>

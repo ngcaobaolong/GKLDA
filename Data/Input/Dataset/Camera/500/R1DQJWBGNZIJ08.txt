@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is working well for my Hyundai 2003 Tiburon .</Tokens>
+		<POS>DT NN VBZ VBG RB IN PRP$ NNP CD NNP .</POS>
+		<Lemma>this product be work well for my Hyundai 2003 Tiburon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Unfortunately , it does not work on our 2001 Ford Mustang .</Tokens>
+		<POS>RB , PRP VBZ RB VB IN PRP$ CD NNP NNP .</POS>
+		<Lemma>unfortunately , it do not work on we 2001 Ford Mustang .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I had read a lot of reports about this type of model typically does not work on Ford models ... I wish it did work on our Ford , but I was prepared for the reality it may not .</Tokens>
+		<POS>PRP VBD VBN DT NN IN NNS IN DT NN IN NN RB VBZ RB VB IN NNP NNS : PRP VBP PRP VBD VB IN PRP$ NNP , CC PRP VBD VBN IN DT NN PRP MD RB .</POS>
+		<Lemma>I have read a lot of report about this type of model typically do not work on Ford model ... I wish it do work on we Ford , but I be prepare for the reality it may not .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Be cautious if you 're looking for this product to meet your needs on a Ford vehicle .</Tokens>
+		<POS>VB JJ IN PRP VBP VBG IN DT NN TO VB PRP$ NNS IN DT NNP NN .</POS>
+		<Lemma>be cautious if you be look for this product to meet you need on a Ford vehicle .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>If you have a Hyundai then it works just fine for me .</Tokens>
+		<POS>IN PRP VBP DT NNP RB PRP VBZ RB JJ IN PRP .</POS>
+		<Lemma>if you have a Hyundai then it work just fine for I .</Lemma>
+	</Sentence>
+</Document>

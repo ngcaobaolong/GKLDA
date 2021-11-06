@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I tend to like my lentils a little firmer than these come out .</Tokens>
+		<POS>PRP VBP TO VB PRP$ NNS DT JJ JJR IN DT VBN RP .</POS>
+		<Lemma>I tend to like my lentil a little firmer than these come out .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They taste incredible though , and I would mix them with other grains or used in a soup .</Tokens>
+		<POS>PRP VBP JJ IN , CC PRP MD VB PRP IN JJ NNS CC VBN IN DT NN .</POS>
+		<Lemma>they taste incredible though , and I would mix they with other grain or use in a soup .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Clem</Tokens>
+		<POS>NNP</POS>
+		<Lemma>Clem</Lemma>
+	</Sentence>
+</Document>

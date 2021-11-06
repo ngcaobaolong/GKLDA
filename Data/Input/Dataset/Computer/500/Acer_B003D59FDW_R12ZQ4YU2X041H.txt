@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I needed a new monitor for my laptop and decided on Acer because I have bought monitor 's from them in the past , and my laptop itself is an Acer .</Tokens>
+		<POS>PRP VBD DT JJ NN IN PRP$ NN CC VBD IN NNP IN PRP VBP VBN NN POS IN PRP IN DT NN , CC PRP$ NN PRP VBZ DT NNP .</POS>
+		<Lemma>I need a new monitor for my laptop and decide on Acer because I have buy monitor 's from they in the past , and my laptop itself be a Acer .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>So far I have been very pleased with this brand .</Tokens>
+		<POS>RB RB PRP VBP VBN RB JJ IN DT NN .</POS>
+		<Lemma>so far I have be very pleased with this brand .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Picture size is incredible on this monitor , wide screen has a lot more view-ability .</Tokens>
+		<POS>NNP NN VBZ JJ IN DT NN , JJ NN VBZ DT NN JJR NN .</POS>
+		<Lemma>Picture size be incredible on this monitor , wide screen have a lot more view-ability .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I can vouch for this because my parents use a standard 19 '' Acer screen and this monitor we can see a lot more clearly .</Tokens>
+		<POS>PRP MD VB IN DT IN PRP$ NNS VBP DT JJ CD '' NNP NN CC DT NN PRP MD VB DT NN RBR RB .</POS>
+		<Lemma>I can vouch for this because my parent use a standard 19 '' Acer screen and this monitor we can see a lot more clearly .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I do n't know about HD features or not , but I 've been pleased with the viewing of streamed videos from Netflix , and You-tube .</Tokens>
+		<POS>PRP VBP RB VB IN NN NNS CC RB , CC PRP VBP VBN VBN IN DT NN IN VBN NNS IN NNP , CC NN .</POS>
+		<Lemma>I do not know about hd feature or not , but I have be please with the viewing of stream video from Netflix , and you-tube .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I 've also used it to watch movies I own on DVD and have n't had a problem with it .</Tokens>
+		<POS>PRP VBP RB VBN PRP TO VB NNS PRP VBP IN NN CC VBP RB VBD DT NN IN PRP .</POS>
+		<Lemma>I have also use it to watch movie I own on dvd and have not have a problem with it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you are looking for a decent replacement monitor then I highly recommend this product .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN NN RB PRP RB VB DT NN .</POS>
+		<Lemma>if you be look for a decent replacement monitor then I highly recommend this product .</Lemma>
+	</Sentence>
+</Document>

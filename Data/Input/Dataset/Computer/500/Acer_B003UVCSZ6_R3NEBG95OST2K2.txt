@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When my daughter 's monitor died , I gave her my old 17 '' lcd monitor , which meant I needed a new one .</Tokens>
+		<POS>WRB PRP$ NN POS NN VBD , PRP VBD PRP$ PRP$ JJ CD '' VBD NN , WDT VBD PRP VBD DT JJ CD .</POS>
+		<Lemma>when my daughter 's monitor die , I give she my old 17 '' lcd monitor , which mean I need a new one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This led monitor is very crisp , and the white is very white .</Tokens>
+		<POS>DT VBD NN VBZ RB JJ , CC DT JJ VBZ RB JJ .</POS>
+		<Lemma>this lead monitor be very crisp , and the white be very white .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In a way , I 'm glad her monitor died .</Tokens>
+		<POS>IN DT NN , PRP VBP JJ PRP$ NN VBD .</POS>
+		<Lemma>in a way , I be glad she monitor die .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I got a great upgrade !</Tokens>
+		<POS>PRP VBD DT JJ NN .</POS>
+		<Lemma>I get a great upgrade !</Lemma>
+	</Sentence>
+</Document>

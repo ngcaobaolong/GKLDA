@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor for my two boy 's computer this past Christmas , based on a couple of reviews -- but mainly based on the price .</Tokens>
+		<POS>PRP VBD DT NN IN PRP$ CD NN POS NN DT JJ NNP , VBN IN DT NN IN NNS : CC RB VBN IN DT NN .</POS>
+		<Lemma>I buy this monitor for my two boy 's computer this past Christmas , base on a couple of review -- but mainly base on the price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Mostly I swear by Samsung flat panels and the Acer name is hardly the one I think of for top-drawer components ... But the monitor beat all of my expectations .</Tokens>
+		<POS>RB PRP VBP IN NNP JJ NNS CC DT NNP NN VBZ RB DT CD PRP VBP IN IN JJ NNS : CC DT NN VB DT IN PRP$ NNS .</POS>
+		<Lemma>mostly I swear by Samsung flat panel and the Acer name be hardly the one I think of for top-drawer component ... but the monitor beat all of my expectation .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It features both impressive top resolution and good brightness\/clarity .</Tokens>
+		<POS>PRP VBZ DT JJ JJ NN CC JJ NN .</POS>
+		<Lemma>it feature both impressive top resolution and good brightness\/clarity .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The cheap features are mostly the lack of extra utilities and adjustment in the base .</Tokens>
+		<POS>DT JJ NNS VBP RB DT NN IN JJ NNS CC NN IN DT NN .</POS>
+		<Lemma>the cheap feature be mostly the lack of extra utility and adjustment in the base .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It does n't swivel or tilt or do height adjustment .</Tokens>
+		<POS>PRP VBZ RB VB CC VB CC VB NN NN .</POS>
+		<Lemma>it do not swivel or tilt or do height adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Other than that , though , it 's been a rock solid monitor .</Tokens>
+		<POS>JJ IN DT , RB , PRP VBZ VBN DT NN JJ NN .</POS>
+		<Lemma>other than that , though , it be be a rock solid monitor .</Lemma>
+	</Sentence>
+</Document>

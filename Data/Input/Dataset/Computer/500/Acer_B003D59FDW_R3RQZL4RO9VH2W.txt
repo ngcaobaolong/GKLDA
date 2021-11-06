@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I like this monitor for the price it is a decent monitor and I would recommend it .</Tokens>
+		<POS>PRP VBP DT NN IN DT NN PRP VBZ DT JJ NN CC PRP MD VB PRP .</POS>
+		<Lemma>I like this monitor for the price it be a decent monitor and I would recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is a nice size I like the wide screen this is my first wide screen I have ever owned or used and I am very happy with it .</Tokens>
+		<POS>PRP VBZ DT JJ NN PRP VBP DT JJ NN DT VBZ PRP$ JJ JJ NN PRP VBP RB VBN CC VBN CC PRP VBP RB JJ IN PRP .</POS>
+		<Lemma>it be a nice size I like the wide screen this be my first wide screen I have ever own or use and I be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The color is good and videos play really nice .</Tokens>
+		<POS>DT NN VBZ JJ CC NNS VBP RB JJ .</POS>
+		<Lemma>the color be good and video play really nice .</Lemma>
+	</Sentence>
+</Document>

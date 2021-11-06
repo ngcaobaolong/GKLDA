@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this monitor as an addition to my existing desktop monitor .</Tokens>
+		<POS>PRP VBD DT NN IN DT NN TO PRP$ VBG NN NN .</POS>
+		<Lemma>I buy this monitor as a addition to my exist desktop monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The images are vivid and crisp , the text and fonts are very clear .</Tokens>
+		<POS>DT NNS VBP JJ CC JJ , DT NN CC NNS VBP RB JJ .</POS>
+		<Lemma>the image be vivid and crisp , the text and font be very clear .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Absolutely love it and cant beat the price !</Tokens>
+		<POS>RB VBP PRP CC JJ NN DT NN .</POS>
+		<Lemma>absolutely love it and cant beat the price !</Lemma>
+	</Sentence>
+</Document>

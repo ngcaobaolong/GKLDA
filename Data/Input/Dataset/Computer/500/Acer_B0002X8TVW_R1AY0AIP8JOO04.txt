@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>No dead pixels , nice vibrant colors -LRB- after some tweaking -RRB- , no complaints .</Tokens>
+		<POS>DT JJ NNS , JJ JJ NNS -LRB- IN DT NN -RRB- , DT NNS .</POS>
+		<Lemma>no dead pixel , nice vibrant color -lrb- after some tweaking -rrb- , no complaint .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's connected to an iBook 12 ' laptop which supports only up to 1024x768 , and though Acer recommends using the monitor at 1280x960 for best results , I 'm happy with the image it gives .</Tokens>
+		<POS>PRP VBZ VBN TO DT NNP CD '' NN WDT VBZ RB RB TO CD , CC IN NNP VBZ VBG DT NN IN CD IN JJS NNS , PRP VBP JJ IN DT NN PRP VBZ .</POS>
+		<Lemma>it be connect to a iBook 12 ' laptop which support only up to 1024x768 , and though Acer recommend use the monitor at 1280x960 for best result , I be happy with the image it give .</Lemma>
+	</Sentence>
+</Document>

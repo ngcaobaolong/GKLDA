@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Reasonably priced and packaged .</Tokens>
+		<POS>RB VBN CC VBN .</POS>
+		<Lemma>reasonably price and package .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This seems to be the same dry soup mix sold in a # 10 elsewhere , but somewhat cheaper .</Tokens>
+		<POS>DT VBZ TO VB DT JJ JJ NN NN VBN IN DT # CD RB , CC RB JJR .</POS>
+		<Lemma>this seem to be the same dry soup mix sell in a # 10 elsewhere , but somewhat cheaper .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And , the best is , it easily makes an excellent soup .</Tokens>
+		<POS>CC , DT JJS VBZ , PRP RB VBZ DT JJ NN .</POS>
+		<Lemma>and , the best be , it easily make a excellent soup .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Add some spices , some meat and\/or bullion , and let it cook !</Tokens>
+		<POS>VB DT NNS , DT NN CC NN , CC VB PRP VB .</POS>
+		<Lemma>add some spice , some meat and\/or bullion , and let it cook !</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Be warned , though .</Tokens>
+		<POS>VB VBN , IN .</POS>
+		<Lemma>be warn , though .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>If you follow the recipe on the package , you are going to end up with more of a veggie side dish that a soup .</Tokens>
+		<POS>IN PRP VBP DT NN IN DT NN , PRP VBP VBG TO VB RP IN JJR IN DT JJ NN NN IN DT NN .</POS>
+		<Lemma>if you follow the recipe on the package , you be go to end up with more of a veggie side dish that a soup .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It cooks up pretty thick .</Tokens>
+		<POS>PRP NNS IN RB JJ .</POS>
+		<Lemma>it cook up pretty thick .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Quick and easy , your stomach will thank you !</Tokens>
+		<POS>RB CC RB , PRP$ NN MD VB PRP .</POS>
+		<Lemma>quick and easy , you stomach will thank you !</Lemma>
+	</Sentence>
+</Document>

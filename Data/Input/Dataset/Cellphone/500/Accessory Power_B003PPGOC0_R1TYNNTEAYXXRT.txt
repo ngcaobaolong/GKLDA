@@ -1,0 +1,222 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The variables : Car : Honda Civic EX 2007 4dr Sedan Phone : iPhone 4S Primary mode of use : Line-out port on the device + Car Aux input -LRB- connected using an audio jack cable -RRB- Pros\/Neutral comments - Pairs very easily with the phone .</Tokens>
+		<POS>DT NNS : NN : NNP NNP NNP CD NNP NNP NNP : NNP NN JJ NN IN NN : NN NN IN DT NN CC NN NN NN -LRB- VBN VBG DT JJ NN NN -RRB- JJ NNS : NNP RB RB IN DT NN .</POS>
+		<Lemma>the variable : car : Honda Civic EX 2007 4dr Sedan Phone : iPhone 4 primary mode of use : line-out port on the device + car aux input -lrb- connect use a audio jack cable -rrb- pros\/neutral comment - Pairs very easily with the phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>As soon as I start the car , the device sends an audible beep through the car speakers within about 10-15 seconds to let me know that it has paired with the my iPhone .</Tokens>
+		<POS>RB RB IN PRP VBP DT NN , DT NN VBZ DT JJ NN IN DT NN NNS IN IN CD NNS TO VB PRP VB IN PRP VBZ VBN IN DT PRP$ NNP .</POS>
+		<Lemma>as soon as I start the car , the device send a audible beep through the car speaker within about 10-15 seconds to let I know that it have pair with the my iPhone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>- Call quality : If you 're using the line out port , call quality is great .</Tokens>
+		<POS>: VB NN : IN PRP VBP VBG DT NN IN NN , VB NN VBZ JJ .</POS>
+		<Lemma>- call quality : if you be use the line out port , call quality be great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I 've called several people , some of whom I told that I was using a hands-free device , and they said that they could hear me just fine .</Tokens>
+		<POS>PRP VBP VBN JJ NNS , DT IN WP PRP VBD IN PRP VBD VBG DT JJ NN , CC PRP VBD IN PRP MD VB PRP RB NN .</POS>
+		<Lemma>I have call several people , some of whom I tell that I be use a hands-free device , and they say that they could hear I just fine .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Some , I did n't , and they never asked me to repeat what I said , so I assume they could hear me OK .</Tokens>
+		<POS>DT , PRP VBD RB , CC PRP RB VBD PRP TO VB WP PRP VBD , IN PRP VBP PRP MD VB PRP UH .</POS>
+		<Lemma>some , I do not , and they never ask I to repeat what I say , so I assume they could hear I ok .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I have to raise my voice a little , but its only very little , so I 'm OK with that .</Tokens>
+		<POS>PRP VBP TO VB PRP$ NN DT JJ , CC PRP$ RB RB JJ , IN PRP VBP JJ IN DT .</POS>
+		<Lemma>I have to raise my voice a little , but its only very little , so I be ok with that .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I am very satisfied with this aspect of the device .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN IN DT NN .</POS>
+		<Lemma>I be very satisfied with this aspect of the device .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>- The line-out performance is very good .</Tokens>
+		<POS>: DT JJ NN VBZ RB JJ .</POS>
+		<Lemma>- the line-out performance be very good .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>- The play , forward , rewind buttons work very well .</Tokens>
+		<POS>: DT NN , RB , JJ NNS VBP RB RB .</POS>
+		<Lemma>- the play , forward , rewind button work very well .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>One minor thing I noticed is that after the phone pairs -LRB- indicated by an audible beep -RRB- , pressing the play button immediately would not play the songs .</Tokens>
+		<POS>CD JJ NN PRP VBD VBZ IN IN DT NN NNS -LRB- VBN IN DT JJ NN -RRB- , VBG DT NN NN RB MD RB VB DT NNS .</POS>
+		<Lemma>one minor thing I notice be that after the phone pair -lrb- indicate by a audible beep -rrb- , press the play button immediately would not play the song .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I would have to wait a few seconds -LRB- -LRB- 5 -RRB- before pressing the play button -LRB- but after the pairing beep -RRB- , and then the songs played .</Tokens>
+		<POS>PRP MD VB TO VB DT JJ NNS -LRB- -LRB- CD -RRB- IN VBG DT NN NN -LRB- CC IN DT NN NN -RRB- , CC RB DT NNS VBD .</POS>
+		<Lemma>I would have to wait a few seconds -lrb- -lrb- 5 -rrb- before press the play button -lrb- but after the pairing beep -rrb- , and then the song play .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Before I turn off the car , I push the play button again , so the song is paused -LRB- and my iPhone stops playing the music -RRB- , then switch off the car .</Tokens>
+		<POS>IN PRP VBP RP DT NN , PRP VBP DT NN NN RB , IN DT NN VBZ VBN -LRB- CC PRP$ NNP VBZ VBG DT NN -RRB- , RB VB RP DT NN .</POS>
+		<Lemma>before I turn off the car , I push the play button again , so the song be pause -lrb- and my iPhone stop play the music -rrb- , then switch off the car .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>That way , the next time I get into the car , the same song continues when I press the play button .</Tokens>
+		<POS>DT NN , DT JJ NN PRP VBP IN DT NN , DT JJ NN VBZ WRB PRP VBP DT NN NN .</POS>
+		<Lemma>that way , the next time I get into the car , the same song continue when I press the play button .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>- Contrary to some other reviewers who have stated that they hear a high pitch whirring noise -LRB- proportional to the engine speed -RRB- when they try to charge their phones using the USB port on the device while the car engine is ON , I had no issues like that .</Tokens>
+		<POS>: JJ TO DT JJ NNS WP VBP VBN IN PRP VBP DT JJ NN VBG NN -LRB- JJ TO DT NN NN -RRB- WRB PRP VBP TO VB PRP$ NNS VBG DT JJ NN IN DT NN IN DT NN NN VBZ NNP , PRP VBD DT NNS IN DT .</POS>
+		<Lemma>- contrary to some other reviewer who have state that they hear a high pitch whir noise -lrb- proportional to the engine speed -rrb- when they try to charge they phone use the usb port on the device while the car engine be ON , I have no issue like that .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>Even when the music was loud enough , I did not hear any interference or whirring noise .</Tokens>
+		<POS>RB WRB DT NN VBD JJ RB , PRP VBD RB VB DT NN CC VBG NN .</POS>
+		<Lemma>even when the music be loud enough , I do not hear any interference or whir noise .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>It possible that the other reviewers either got a bad piece , or the problem is with their cars .</Tokens>
+		<POS>PRP JJ IN DT JJ NNS CC VBD DT JJ NN , CC DT NN VBZ IN PRP$ NNS .</POS>
+		<Lemma>it possible that the other reviewer either get a bad piece , or the problem be with they car .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>-LRB- I also checked out the comments on a review by a Mr. Wessel , where some commenters mentioned things like installing noise filters in the car , but thankfully I did n't have to do all that -RRB- - In general , the default volume level -LRB- set at 20 -RRB- works fine for me .</Tokens>
+		<POS>-LRB- PRP RB VBD RP DT NNS IN DT NN IN DT NNP NNP , WRB DT NNS VBD NNS IN VBG NN NNS IN DT NN , CC RB PRP VBD RB VB TO VB DT IN -RRB- : IN JJ , DT NN NN NN -LRB- NN IN CD -RRB- VBZ NN IN PRP .</POS>
+		<Lemma>-lrb- I also check out the comment on a review by a Mr. Wessel , where some commenter mention thing like install noise filter in the car , but thankfully I do not have to do all that -rrb- - in general , the default volume level -lrb- set at 20 -rrb- work fine for I .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>I do have further volume control from the steering wheel , so I generally do n't mess with the device volume .</Tokens>
+		<POS>PRP VBP VB JJ NN NN IN DT VBG NN , IN PRP RB VBP RB NN IN DT NN NN .</POS>
+		<Lemma>I do have further volume control from the steer wheel , so I generally do not mess with the device volume .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>- The lights that light up to show the play\/next song etc buttons and the phone buttons , are satisfactory .</Tokens>
+		<POS>: DT NNS WDT VBP RP TO VB DT NN NN FW NNS CC DT NN NNS , VBP JJ .</POS>
+		<Lemma>- the light that light up to show the play\/next song etc button and the phone button , be satisfactory .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>They would be even better if they made them a little dimmer , -LRB- I would say about 20 % dimmer -RRB- , but its OK , not a deal breaker , and I do n't have a problem with it .</Tokens>
+		<POS>PRP MD VB RB RBR IN PRP VBD PRP DT JJ JJR , -LRB- PRP MD VB IN CD NN JJR -RRB- , CC PRP$ UH , RB DT NN NN , CC PRP VBP RB VB DT NN IN PRP .</POS>
+		<Lemma>they would be even better if they make they a little dimmer , -lrb- I would say about 20 % dimmer -rrb- , but its ok , not a deal breaker , and I do not have a problem with it .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>- I have n't tried using Siri on it , -LRB- but thats mainly because I 'm close to exceeding my data plan -RRB- , but I pressed and held the ` make a call ' button , and it said `` Siri not available , please connect to the internet '' .</Tokens>
+		<POS>: PRP VBP RB VBN VBG NNP IN PRP , -LRB- CC VBZ RB IN PRP VBP JJ TO VBG PRP$ NNS NN -RRB- , CC PRP VBD CC VBD DT `` VB DT NN '' NN , CC PRP VBD `` NNP RB JJ , VB VB TO DT NN '' .</POS>
+		<Lemma>- I have not try use Siri on it , -lrb- but that mainly because I be close to exceed my datum plan -rrb- , but I press and hold the ` make a call ' button , and it say `` Siri not available , please connect to the internet '' .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>So , I 'm pretty sure that Siri will work OK , which is an added bonus .</Tokens>
+		<POS>RB , PRP VBP RB JJ IN NNP MD VB UH , WDT VBZ DT VBN NN .</POS>
+		<Lemma>so , I be pretty sure that Siri will work ok , which be a add bonus .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>- I do n't have a paid GPS app on my iPhone , but I tried an app called `` Waze '' , and it worked great , just as if I had a nav system in my car -LRB- mainly because the directions were playing out of the speakers -RRB- .</Tokens>
+		<POS>: PRP VBP RB VB DT VBN NN NN IN PRP$ NNP , CC PRP VBD DT NN VBN `` NNP '' , CC PRP VBD JJ , RB IN IN PRP VBD DT NN NN IN PRP$ NN -LRB- RB IN DT NNS VBD VBG IN IN DT NNS -RRB- .</POS>
+		<Lemma>- I do not have a pay gp app on my iPhone , but I try a app call `` Waze '' , and it work great , just as if I have a nav system in my car -lrb- mainly because the direction be play out of the speaker -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>I tried doing this while I was playing songs , and the songs would temporarily turn softer when the GPS lady spoke .</Tokens>
+		<POS>PRP VBD VBG DT IN PRP VBD VBG NNS , CC DT NNS MD RB VB JJR WRB DT NNP NN VBD .</POS>
+		<Lemma>I try do this while I be play song , and the song would temporarily turn softer when the GPS lady speak .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Cool .</Tokens>
+		<POS>JJ .</POS>
+		<Lemma>cool .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Cons - The performance over FM was not good .</Tokens>
+		<POS>NNS : DT NN IN NNP VBD RB JJ .</POS>
+		<Lemma>con - the performance over FM be not good .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>I did not try searching different stations , but the fidelity of the sound in general was not that great -LRB- e.g the high frequencies were really horrible -RRB- , and so I figured that this was a problem with the device 's FM performance .</Tokens>
+		<POS>PRP VBD RB VB VBG JJ NNS , CC DT NN IN DT NN IN NN VBD RB IN JJ -LRB- JJ DT JJ NNS VBD RB JJ -RRB- , CC RB PRP VBD IN DT VBD DT NN IN DT NN POS NNP NN .</POS>
+		<Lemma>I do not try search different station , but the fidelity of the sound in general be not that great -lrb- e.g the high frequency be really horrible -rrb- , and so I figure that this be a problem with the device 's FM performance .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>Also , the volume level was audibly lower than if I used the line-out port .</Tokens>
+		<POS>RB , DT NN NN VBD RB JJR IN IN PRP VBD DT NN NN .</POS>
+		<Lemma>also , the volume level be audibly lower than if I use the line-out port .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>As much as I hate adding a cable so that I could use the line-out port , I must say that the performance is way better that way .</Tokens>
+		<POS>RB RB IN PRP VBP VBG DT NN IN IN PRP MD VB DT NN NN , PRP MD VB IN DT NN VBZ RB RBR DT NN .</POS>
+		<Lemma>as much as I hate add a cable so that I could use the line-out port , I must say that the performance be way better that way .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>In my car , the the cig lighter port and the aux-in port are right next to each other , and I was able to simply use a 1 ft audio jack cable to bridge that distance .</Tokens>
+		<POS>IN PRP$ NN , DT DT NN JJR NN CC DT JJ NN VBP JJ JJ TO DT JJ , CC PRP VBD JJ TO RB VB DT CD NN NN NN NN TO VB DT NN .</POS>
+		<Lemma>in my car , the the cig lighter port and the aux-in port be right next to each other , and I be able to simply use a 1 ft audio jack cable to bridge that distance .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>- I would have liked the `` stalk '' a little sturdier .</Tokens>
+		<POS>: PRP MD VB VBN DT `` NN '' DT JJ JJR .</POS>
+		<Lemma>- I would have like the `` stalk '' a little sturdier .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>In my car , the cigarette lighter port is fairly close to the steering wheel , so I bump the device some times when putting in the keys or taking them out .</Tokens>
+		<POS>IN PRP$ NN , DT NN JJR NN VBZ RB JJ TO DT VBG NN , IN PRP VBP DT NN DT NNS WRB VBG IN DT NNS CC VBG PRP RP .</POS>
+		<Lemma>in my car , the cigarette lighter port be fairly close to the steer wheel , so I bump the device some time when put in the key or take they out .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>On a couple of occasions , this caused the device to power off .</Tokens>
+		<POS>IN DT NN IN NNS , DT VBD DT NN TO NN RP .</POS>
+		<Lemma>on a couple of occasion , this cause the device to power off .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>I believe this is due to the connection at the charger port being a little loose , I do n't think the device is faulty .</Tokens>
+		<POS>PRP VBP DT VBZ JJ TO DT NN IN DT NN NN VBG DT JJ JJ , PRP VBP RB VB DT NN VBZ JJ .</POS>
+		<Lemma>I believe this be due to the connection at the charger port be a little loose , I do not think the device be faulty .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>- Every once in a while , the song skips a little .</Tokens>
+		<POS>: DT RB IN DT NN , DT NN VBZ DT JJ .</POS>
+		<Lemma>- every once in a while , the song skip a little .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>This is not a big deal , but I 'll have to monitor this to see if it get worse .</Tokens>
+		<POS>DT VBZ RB DT JJ NN , CC PRP MD VB TO VB DT TO VB IN PRP VB JJR .</POS>
+		<Lemma>this be not a big deal , but I 'll have to monitor this to see if it get worse .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>I 'm not sure , but this may be a problem with the bluetooth chip , because I 'm using the line out cable , and I dont suspect that the problem comes from the part of the ` circuit ' .</Tokens>
+		<POS>PRP VBP RB JJ , CC DT MD VB DT NN IN DT JJ NN , IN PRP VBP VBG DT NN IN NN , CC PRP VBP JJ IN DT NN VBZ IN DT NN IN DT `` NN '' .</POS>
+		<Lemma>I be not sure , but this may be a problem with the bluetooth chip , because I be use the line out cable , and I dont suspect that the problem come from the part of the ` circuit ' .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>- I 'm using a Mountek CD-slot mount to mount my iPhone -LRB- <a href="http://www.amazon.com/gp/product/B004E5W3D4/ref=cm_cr_asin_lnk/186-6247935-0229407"> Mountek CD Slot Mount MT5000-C , Universal Hands Free Car Mount for Cell Phones , Satellite Radios & GPS Devices </a> -RRB- , and in my car , this blocks the clock on my dashboard .</Tokens>
+		<POS>: PRP VBP VBG DT NNP JJ VBP TO VB PRP$ NNP -LRB- NNP NNP NNP NNP NNP NN , NNP NNP NNP NNP NNP IN NN NNS , NNP NNP CC NNP NNPS NN -RRB- , CC IN PRP$ NN , DT VBZ DT NN IN PRP$ NN .</POS>
+		<Lemma>- I be use a Mountek cd-slot mount to mount my iPhone -lrb- <a href="http://www.amazon.com/gp/product/B004E5W3D4/ref=cm_cr_asin_lnk/186-6247935-0229407"> Mountek CD Slot Mount mt5000-c , Universal Hands Free Car Mount for cell phone , Satellite Radios & GPS Devices </a> -rrb- , and in my car , this block the clock on my dashboard .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>It would be cool if the display on the device would display the time , instead of the frequency all the time -LRB- as some reviewers have mentioned , I really dont need to know what frequency its been set to ALL the time -RRB- .</Tokens>
+		<POS>PRP MD VB JJ IN DT NN IN DT NN MD VB DT NN , RB IN DT NN PDT DT NN -LRB- IN DT NNS VBP VBN , PRP RB JJ NN TO VB WP NN PRP$ VBN VBN TO NN DT NN -RRB- .</POS>
+		<Lemma>it would be cool if the display on the device would display the time , instead of the frequency all the time -lrb- as some reviewer have mention , I really dont need to know what frequency its be set to all the time -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>- Also , I would have liked if the default function of the dial would have been to adjust volume , not frequency .</Tokens>
+		<POS>: RB , PRP MD VB VBN IN DT NN NN IN DT NN MD VB VBN TO VB NN , RB NN .</POS>
+		<Lemma>- also , I would have like if the default function of the dial would have be to adjust volume , not frequency .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>This also seems like an oft-mentioned quirk , and perhaps the manufacturer should address this -LRB- should be a simple software-category fix -RRB- Summary : All in all , I am very happy with the device , because it lets me play music seamlessly , receive and make calls without discomfort to the speaker or the listener , and be used with my iPhone as the GPS , as a `` poor-man 's NAV system '' .</Tokens>
+		<POS>DT RB VBZ IN DT JJ NN , CC RB DT NN MD VB DT -LRB- MD VB DT JJ JJ NN -RRB- NN : DT IN DT , PRP VBP RB JJ IN DT NN , IN PRP VBZ PRP VB NN RB , VB CC VB NNS IN NN TO DT NN CC DT NN , CC VB VBN IN PRP$ NNP IN DT NNP , IN DT `` NN POS NN NN '' .</POS>
+		<Lemma>this also seem like a oft-mentioned quirk , and perhaps the manufacturer should address this -lrb- should be a simple software-category fix -rrb- summary : all in all , I be very happy with the device , because it let I play music seamlessly , receive and make call without discomfort to the speaker or the listener , and be use with my iPhone as the GPS , as a `` poor-man 's nav system '' .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>I would have liked to give it 4.5 stars , but you ca n't do that on Amazon , so I err on the lower side , because I do n't know its durability .</Tokens>
+		<POS>PRP MD VB VBN TO VB PRP CD NNS , CC PRP MD RB VB DT IN NNP , IN PRP VBP IN DT JJR NN , IN PRP VBP RB VB PRP$ NN .</POS>
+		<Lemma>I would have like to give it 4.5 star , but you can not do that on Amazon , so I err on the lower side , because I do not know its durability .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>If this thing is still going strong a couple of years down the line , I 'll upgrade this review to 5 stars .</Tokens>
+		<POS>IN DT NN VBZ RB VBG JJ DT NN IN NNS IN DT NN , PRP MD VB DT NN TO CD NNS .</POS>
+		<Lemma>if this thing be still go strong a couple of year down the line , I 'll upgrade this review to 5 star .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>p.s. I 've submitted a couple of photos .</Tokens>
+		<POS>NN PRP VBP VBN DT NN IN NNS .</POS>
+		<Lemma>p.s. I have submit a couple of photo .</Lemma>
+	</Sentence>
+</Document>

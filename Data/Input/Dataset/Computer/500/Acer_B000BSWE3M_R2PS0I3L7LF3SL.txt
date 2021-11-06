@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this monitor as a second addon to my Dual-monitor setup .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN TO PRP$ JJ NN .</POS>
+		<Lemma>I get this monitor as a second addon to my dual-monitor setup .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The picture is very clear and bright .</Tokens>
+		<POS>DT NN VBZ RB JJ CC JJ .</POS>
+		<Lemma>the picture be very clear and bright .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The auto-adjust function is also very useful .</Tokens>
+		<POS>DT JJ NN VBZ RB RB JJ .</POS>
+		<Lemma>the auto-adjust function be also very useful .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>250 with $ 50 rebate makes it a great deal .</Tokens>
+		<POS>CD IN $ CD NN VBZ PRP DT JJ NN .</POS>
+		<Lemma>250 with $ 50 rebate make it a great deal .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I received in a beat-up amazon box , but ACER box covered with bubbles were safe and dent-free .</Tokens>
+		<POS>PRP VBD IN DT JJ NN NN , CC NNP NN VBN IN NNS VBD JJ CC JJ .</POS>
+		<Lemma>I receive in a beat-up amazon box , but ACER box cover with bubble be safe and dent-free .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Setup was very simple , no driver or software to install on WinXP SP2 .</Tokens>
+		<POS>NN VBD RB JJ , DT NN CC NN TO VB IN NN NN .</POS>
+		<Lemma>setup be very simple , no driver or software to install on winxp sp2 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Box contains , CD -LRB- with manual and quick-start PDF -RRB- , quick-start guide , power cable , analog cable , and the monitor .</Tokens>
+		<POS>NNP VBZ , NNP -LRB- IN NN CC JJ NN -RRB- , JJ NN , NN NN , NN NN , CC DT NN .</POS>
+		<Lemma>Box contain , CD -lrb- with manual and quick-start pdf -rrb- , quick-start guide , power cable , analog cable , and the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Great monitor !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great monitor !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Thinking about replacing my 17 '' CRT with another one of this to make a perfect dual-monitor system if I can get the rebate to work again .</Tokens>
+		<POS>VBG IN VBG PRP$ CD '' NN IN DT CD IN DT TO VB DT JJ JJ NN IN PRP MD VB DT NN TO VB RB .</POS>
+		<Lemma>think about replace my 17 '' crt with another one of this to make a perfect dual-monitor system if I can get the rebate to work again .</Lemma>
+	</Sentence>
+</Document>

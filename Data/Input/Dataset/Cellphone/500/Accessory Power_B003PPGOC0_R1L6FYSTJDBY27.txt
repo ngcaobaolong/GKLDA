@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had more than my share of bluetooth gixmos and finally I have found one that actually does what it says it will and it performs flawlessly .</Tokens>
+		<POS>PRP VBP VBN RBR IN PRP$ NN IN NN NNS CC RB PRP VBP VBN CD WDT RB VBZ WP PRP VBZ PRP MD CC PRP VBZ RB .</POS>
+		<Lemma>I have have more than my share of bluetooth gixmo and finally I have find one that actually do what it say it will and it perform flawlessly .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>All functions work extremely well and easily too .</Tokens>
+		<POS>DT NNS VBP RB RB CC RB RB .</POS>
+		<Lemma>all function work extremely well and easily too .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Calls are clear on both ends of the call ; now that is a first .</Tokens>
+		<POS>NNS VBP JJ IN DT NNS IN DT NN : RB DT VBZ DT RB .</POS>
+		<Lemma>call be clear on both end of the call ; now that be a first .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Some of the callers have said it sounds better than when I call from home , really ?</Tokens>
+		<POS>DT IN DT NNS VBP VBN PRP VBZ JJR IN WRB PRP VBP IN NN , RB .</POS>
+		<Lemma>some of the caller have say it sound better than when I call from home , really ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The product seems smaller in size than it appears in the photograph , just a heads up .</Tokens>
+		<POS>DT NN VBZ JJR IN NN IN PRP VBZ IN DT NN , RB DT NNS RP .</POS>
+		<Lemma>the product seem smaller in size than it appear in the photograph , just a head up .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>You certainly get alot of performance from such a small gizmo .</Tokens>
+		<POS>PRP RB VBP NNS IN NN IN JJ DT JJ NN .</POS>
+		<Lemma>you certainly get alot of performance from such a small gizmo .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Obviously , I highly suggest you get this puppy , it works and works well too .</Tokens>
+		<POS>RB , PRP RB VBP PRP VB DT NN , PRP VBZ CC VBZ RB RB .</POS>
+		<Lemma>obviously , I highly suggest you get this puppy , it work and work well too .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Since I have not had this item very long I will update this review if , for some reason , something goes radically bad .</Tokens>
+		<POS>IN PRP VBP RB VBN DT NN RB RB PRP MD VB DT NN IN , IN DT NN , NN VBZ RB JJ .</POS>
+		<Lemma>since I have not have this item very long I will update this review if , for some reason , something go radically bad .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Just wanted to mention something concerning music clarity : Music from my iPhone 4 sounds just ok through the direct bluetooth service , but when I connected the mini-plug to the line-out of the unit and plugged it directly into my head unit the music sounded as good as it does through my high-end home stereo , maybe even better .</Tokens>
+		<POS>RB VBD TO VB NN VBG NN NN : NN IN PRP$ NNP CD VBZ RB VBN IN DT JJ NN NN , CC WRB PRP VBD DT NN TO DT NN IN DT NN CC VBD PRP RB IN PRP$ NN NN DT NN VBD RB JJ IN PRP VBZ IN PRP$ JJ NN NN , RB RB RBR .</POS>
+		<Lemma>just want to mention something concern music clarity : music from my iPhone 4 sound just ok through the direct bluetooth service , but when I connect the mini-plug to the line-out of the unit and plug it directly into my head unit the music sound as good as it do through my high-end home stereo , maybe even better .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Needless to say I was blown away .</Tokens>
+		<POS>JJ TO VB PRP VBD VBN RB .</POS>
+		<Lemma>needless to say I be blow away .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Enjoy The Tunes ...</Tokens>
+		<POS>VB DT NNS :</POS>
+		<Lemma>enjoy the tune ...</Lemma>
+	</Sentence>
+</Document>

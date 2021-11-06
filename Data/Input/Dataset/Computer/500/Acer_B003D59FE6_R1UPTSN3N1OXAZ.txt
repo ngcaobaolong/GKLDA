@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is okay , but when you turn it on , it shows the Acer logo and then the Energy Star logo for about 4 seconds each , then you get a couple of seconds of black screen before finally getting to your desktop .</Tokens>
+		<POS>DT NN VBZ JJ , CC WRB PRP VBP PRP IN , PRP VBZ DT NNP NN CC RB DT NNP NNP NN IN RB CD NNS DT , RB PRP VBP DT NN IN NNS IN JJ NN IN RB VBG TO PRP$ NN .</POS>
+		<Lemma>this monitor be okay , but when you turn it on , it show the Acer logo and then the Energy Star logo for about 4 seconds each , then you get a couple of seconds of black screen before finally get to you desktop .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'd never seen this in a monitor before .</Tokens>
+		<POS>PRP MD RB VBN DT IN DT NN IN .</POS>
+		<Lemma>I would never see this in a monitor before .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Acer support confirmed that it could n't be eliminated .</Tokens>
+		<POS>NNP NN VBD IN PRP MD RB VB VBN .</POS>
+		<Lemma>Acer support confirm that it could not be eliminate .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I decided that aside from the fact that Acer is apparently willing to waste my time , it would eventually drive me nuts , so I 'm returning it .</Tokens>
+		<POS>PRP VBD IN RB IN DT NN IN NNP VBZ RB JJ TO VB PRP$ NN , PRP MD RB VB PRP NNS , IN PRP VBP VBG PRP .</POS>
+		<Lemma>I decide that aside from the fact that Acer be apparently willing to waste my time , it would eventually drive I nut , so I be return it .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The OSD is also not very good , but I could have lived with that .</Tokens>
+		<POS>DT NNP VBZ RB RB RB JJ , CC PRP MD VB VBN IN DT .</POS>
+		<Lemma>the OSD be also not very good , but I could have live with that .</Lemma>
+	</Sentence>
+</Document>

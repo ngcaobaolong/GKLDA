@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We use these monitors in the office .</Tokens>
+		<POS>PRP VBP DT NNS IN DT NN .</POS>
+		<Lemma>we use these monitor in the office .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Well , other people do - I use a Dell 20 '' LCD .</Tokens>
+		<POS>RB , JJ NNS VBP : PRP VBP DT NNP CD '' NNS .</POS>
+		<Lemma>well , other people do - I use a Dell 20 '' lcd .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>First gripe : I set up a lot of these puppies , and the video cable does n't always fit into the socket on the underside of the monitor .</Tokens>
+		<POS>JJ NN : PRP VBD RP DT NN IN DT NNS , CC DT NN NN VBZ RB RB VB IN DT NN IN DT NN IN DT NN .</POS>
+		<Lemma>first gripe : I set up a lot of these puppy , and the video cable do not always fit into the socket on the underside of the monitor .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's because of the way the port lines up -LRB- or does n't -RRB- with the plastic of the case .</Tokens>
+		<POS>PRP VBZ IN IN DT NN DT NN NNS RB -LRB- CC VBZ RB -RRB- IN DT NN IN DT NN .</POS>
+		<Lemma>it be because of the way the port line up -lrb- or do not -rrb- with the plastic of the case .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>To get the cables in , I had to nick bits of the plastic casing on the end of the cable -LRB- and these are the cables that ship in the box with the monitors ! -RRB-</Tokens>
+		<POS>TO VB DT NNS IN , PRP VBD TO VB NNS IN DT JJ NN IN DT NN IN DT NN -LRB- CC DT VBP DT NNS WDT VBP IN DT NN IN DT NNS . -RRB-</POS>
+		<Lemma>to get the cable in , I have to nick bit of the plastic casing on the end of the cable -lrb- and these be the cable that ship in the box with the monitor ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Second gripe : In the 6 or so months since we purchased our batch of 30-40 of these monitors , 2 have already been returned for repair or replacement .</Tokens>
+		<POS>JJ NN : IN DT CD CC RB NNS IN PRP VBD PRP$ NN IN CD IN DT NNS , CD VBP RB VBN VBN IN NN CC NN .</POS>
+		<Lemma>second gripe : in the 6 or so month since we purchase we batch of 30-40 of these monitor , 2 have already be return for repair or replacement .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>That 's at least a 5 % failure rate .</Tokens>
+		<POS>DT VBZ IN JJS DT CD NN NN NN .</POS>
+		<Lemma>that be at least a 5 % failure rate .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Not good .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>not good .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Third gripe : These monitors can suffer from the LCD equivalent of screen burn - `` image persistence '' if you like .</Tokens>
+		<POS>JJ NN : DT NNS MD VB IN DT NNS NN IN NN VBP : `` NN NN '' IN PRP VBP .</POS>
+		<Lemma>third gripe : these monitor can suffer from the lcd equivalent of screen burn - `` image persistence '' if you like .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>If you leave an image on the screen long enough , a ghost of that image will persist into the LCD even after you switch the monitor off and on again .</Tokens>
+		<POS>IN PRP VBP DT NN IN DT NN RB RB , DT NN IN DT NN MD VB IN DT NNS RB IN PRP VBP DT NN RB CC RB RB .</POS>
+		<Lemma>if you leave a image on the screen long enough , a ghost of that image will persist into the lcd even after you switch the monitor off and on again .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The image \* will \* go away if you either leave the monitor off for a while or leave a white area of a window under that part of the screen - but it takes time .</Tokens>
+		<POS>DT NN SYM MD SYM VB RB IN PRP DT VBP DT NN RP IN DT NN CC VB DT JJ NN IN DT NN IN DT NN IN DT NN : CC PRP VBZ NN .</POS>
+		<Lemma>the image \* will \* go away if you either leave the monitor off for a while or leave a white area of a window under that part of the screen - but it take time .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I 'm happy with my Dell .</Tokens>
+		<POS>PRP VBP JJ IN PRP$ NNP .</POS>
+		<Lemma>I be happy with my Dell .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I would n't touch one of these Acers !</Tokens>
+		<POS>PRP MD RB VB CD IN DT NNS .</POS>
+		<Lemma>I would not touch one of these acer !</Lemma>
+	</Sentence>
+</Document>

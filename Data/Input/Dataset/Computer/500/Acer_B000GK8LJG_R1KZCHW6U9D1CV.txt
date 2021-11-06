@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The monitor arrived well packaged and in perfect condition .</Tokens>
+		<POS>DT NN VBD RB VBN CC IN JJ NN .</POS>
+		<Lemma>the monitor arrive well package and in perfect condition .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It was easy to set up , although I would have preferred a more comprehensive instruction manual .</Tokens>
+		<POS>PRP VBD JJ TO VB RP , IN PRP MD VB VBN DT RBR JJ NN NN .</POS>
+		<Lemma>it be easy to set up , although I would have prefer a more comprehensive instruction manual .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I have been using the monitor for approximately 3 months and have been extremely satisfied with it .</Tokens>
+		<POS>PRP VBP VBN VBG DT NN IN RB CD NNS CC VBP VBN RB VBN IN PRP .</POS>
+		<Lemma>I have be use the monitor for approximately 3 month and have be extremely satisfy with it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The color is great , it 's easy to adjust the settings .</Tokens>
+		<POS>DT NN VBZ JJ , PRP VBZ JJ TO VB DT NNS .</POS>
+		<Lemma>the color be great , it be easy to adjust the setting .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The widescreen took a little getting used to , but I am enjoying it very much .</Tokens>
+		<POS>DT NN VBD DT JJ VBG VBN TO , CC PRP VBP VBG PRP RB RB .</POS>
+		<Lemma>the widescreen take a little get use to , but I be enjoy it very much .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The graphics are clear and sharp .</Tokens>
+		<POS>DT NNS VBP JJ CC JJ .</POS>
+		<Lemma>the graphic be clear and sharp .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>No dead pixels or distortion .</Tokens>
+		<POS>DT JJ NNS CC NN .</POS>
+		<Lemma>no dead pixel or distortion .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I would recommend this monitor to my friends and family .</Tokens>
+		<POS>PRP MD VB DT NN TO PRP$ NNS CC NN .</POS>
+		<Lemma>I would recommend this monitor to my friend and family .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this from Amazon it is a neat little compact piece and it all folds up great little item i would buy another one keep it up Amazon</Tokens>
+		<POS>PRP VBD DT IN NNP PRP VBZ DT JJ JJ JJ NN CC PRP DT VBZ RP JJ JJ NN FW MD VB DT CD VBP PRP RP NNP</POS>
+		<Lemma>I buy this from Amazon it be a neat little compact piece and it all fold up great little item i would buy another one keep it up Amazon</Lemma>
+	</Sentence>
+</Document>

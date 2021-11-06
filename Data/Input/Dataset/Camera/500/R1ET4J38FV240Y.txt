@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Works awesome .</Tokens>
+		<POS>NNP JJ .</POS>
+		<Lemma>Works awesome .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Easy panorama , 1080 hd recording , super slow mo. .</Tokens>
+		<POS>NNP NN , CD NN NN , JJ JJ NN .</POS>
+		<Lemma>Easy panorama , 1080 hd recording , super slow mo. .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>This camera rocks .</Tokens>
+		<POS>DT NN NNS .</POS>
+		<Lemma>this camera rock .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Waterproof opens up a whole new world of pictures and videos .</Tokens>
+		<POS>JJ VBZ RP DT JJ JJ NN IN NNS CC NNS .</POS>
+		<Lemma>waterproof open up a whole new world of picture and video .</Lemma>
+	</Sentence>
+</Document>

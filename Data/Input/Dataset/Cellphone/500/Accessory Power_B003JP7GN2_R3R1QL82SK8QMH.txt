@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It is a good product , very useful and affordable !</Tokens>
+		<POS>PRP VBZ DT JJ NN , RB JJ CC JJ .</POS>
+		<Lemma>it be a good product , very useful and affordable !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>TRANS4M Universal AC Wall \/ DC Car Dual USB Travel Charger for Samsung , Motorola , HTC , iPod , iPhone Smartphones \/ Nook , Kindle eReaders and More !</Tokens>
+		<POS>NN NNP NN NNP : NNP NNP JJ JJ NN NN IN NNP , NNP , NNP , NNP , NNP NNPS : NNP , NNP NNPS CC JJR .</POS>
+		<Lemma>trans4m Universal ac Wall \/ DC Car dual usb travel charger for Samsung , Motorola , HTC , iPod , iPhone Smartphones \/ Nook , Kindle eReaders and more !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>\*\* Includes Micro-USB Charge Cable \*\* TRANS4M Universal AC Wall \/ DC Car Dual USB Travel Charger for Samsung , Motorola , HTC , iPod , iPhone Smartphones \/ Nook , Kindle eReaders and More !</Tokens>
+		<POS>SYM VBZ NNP NNP NNP SYM CD NNP NN NNP : NNP NNP JJ JJ NN NN IN NNP , NNP , NNP , NNP , NNP NNPS : NNP , NNP NNPS CC JJR .</POS>
+		<Lemma>\*\* include Micro-USB Charge Cable \*\* trans4m Universal ac Wall \/ DC Car dual usb travel charger for Samsung , Motorola , HTC , iPod , iPhone Smartphones \/ Nook , Kindle eReaders and more !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>\*\* Includes Micro-USB Charge Cable \*\*</Tokens>
+		<POS>SYM VBZ NNP NNP NNP SYM</POS>
+		<Lemma>\*\* include Micro-USB Charge Cable \*\*</Lemma>
+	</Sentence>
+</Document>

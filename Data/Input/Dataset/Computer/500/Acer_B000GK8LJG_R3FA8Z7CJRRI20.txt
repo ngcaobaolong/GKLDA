@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is an awesome monitor for an affordable price .</Tokens>
+		<POS>DT VBZ DT JJ NN IN DT JJ NN .</POS>
+		<Lemma>this be a awesome monitor for a affordable price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It takes up very little space compared to a conventional monitor & the picture is amazing .</Tokens>
+		<POS>PRP VBZ RP RB JJ NN VBN TO DT JJ NN CC DT NN VBZ JJ .</POS>
+		<Lemma>it take up very little space compare to a conventional monitor & the picture be amazing .</Lemma>
+	</Sentence>
+</Document>

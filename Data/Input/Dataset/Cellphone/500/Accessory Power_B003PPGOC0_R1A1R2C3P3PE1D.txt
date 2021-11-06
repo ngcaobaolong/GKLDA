@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Got this for my 22 yr old daughter for Christmas .</Tokens>
+		<POS>NNP DT IN PRP$ CD NN JJ NN IN NNP .</POS>
+		<Lemma>Got this for my 22 yr old daughter for Christmas .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>She had an FM Transmitter that was about 4 years old , but it would not charge her iphone 3GS .</Tokens>
+		<POS>PRP VBD DT NNP NNP WDT VBD RB CD NNS JJ , CC PRP MD RB VB PRP$ NN NN .</POS>
+		<Lemma>she have a FM Transmitter that be about 4 year old , but it would not charge she iphone 3g .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Ordered this one and she loves it .</Tokens>
+		<POS>VBN DT CD CC PRP VBZ PRP .</POS>
+		<Lemma>order this one and she love it .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>She said it is easy to use , plays music clearly and works wonderful with her iphone .</Tokens>
+		<POS>PRP VBD PRP VBZ JJ TO VB , VBZ NN RB CC VBZ JJ IN PRP$ NN .</POS>
+		<Lemma>she say it be easy to use , play music clearly and work wonderful with she iphone .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Ordered through Amazon , but sold by Accessory Genie .</Tokens>
+		<POS>VBN IN NNP , CC VBN IN NNP NNP .</POS>
+		<Lemma>order through Amazon , but sell by Accessory Genie .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The product is good , the shipping was fast , and it was packaged well to protect it .</Tokens>
+		<POS>DT NN VBZ JJ , DT NN VBD RB , CC PRP VBD VBN RB TO VB PRP .</POS>
+		<Lemma>the product be good , the shipping be fast , and it be package well to protect it .</Lemma>
+	</Sentence>
+</Document>

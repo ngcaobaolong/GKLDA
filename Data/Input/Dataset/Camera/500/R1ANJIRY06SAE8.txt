@@ -1,0 +1,82 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I had my IP cam up and running right after I installed the software .</Tokens>
+		<POS>PRP VBD PRP$ NNP NN RB CC VBG RB IN PRP VBD DT NN .</POS>
+		<Lemma>I have my IP cam up and run right after I install the software .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had everything set up with Password and users within an hour .</Tokens>
+		<POS>PRP VBD NN VBN RP IN NN CC NNS IN DT NN .</POS>
+		<Lemma>I have everything set up with password and user within a hour .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The next day I picked up my free domain name from DynDns and I with a little tweeking of my router I had it running and viewing from work the next day .</Tokens>
+		<POS>DT JJ NN CD VBD RP PRP$ JJ NN NN IN NNPS CC PRP IN DT JJ NN IN PRP$ NN PRP VBD PRP VBG CC VBG IN NN DT JJ NN .</POS>
+		<Lemma>the next day i pick up my free domain name from DynDns and I with a little tweeking of my router I have it run and view from work the next day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The package arrived in great shape and the install went smooth .</Tokens>
+		<POS>DT NN VBD IN JJ NN CC DT VB VBD NN .</POS>
+		<Lemma>the package arrive in great shape and the install go smooth .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only problem that I am working on is the audio .</Tokens>
+		<POS>DT JJ NN IN PRP VBP VBG IN VBZ DT NN .</POS>
+		<Lemma>the only problem that I be work on be the audio .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I can here it from my home PC but not at work .</Tokens>
+		<POS>PRP MD RB PRP IN PRP$ NN NN CC RB IN NN .</POS>
+		<Lemma>I can here it from my home pc but not at work .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I can not talk to it at all .</Tokens>
+		<POS>PRP MD RB VB TO PRP IN DT .</POS>
+		<Lemma>I can not talk to it at all .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I am using this outside and not indoors .</Tokens>
+		<POS>PRP VBP VBG DT JJ CC RB RB .</POS>
+		<Lemma>I be use this outside and not indoors .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have a three foot overhang on my workshop and it is under that .</Tokens>
+		<POS>PRP VBP DT CD NN NN IN PRP$ NN CC PRP VBZ IN DT .</POS>
+		<Lemma>I have a three foot overhang on my workshop and it be under that .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Great IR for about 20 feet or so and the motion sensor works great .</Tokens>
+		<POS>NNP NNP IN RB CD NNS CC RB CC DT NN NN VBZ JJ .</POS>
+		<Lemma>Great IR for about 20 foot or so and the motion sensor work great .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The sound quality is very good also .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ RB .</POS>
+		<Lemma>the sound quality be very good also .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I heard my grandsons talking about 30 feet away .</Tokens>
+		<POS>PRP VBD PRP$ NNS VBG IN CD NNS RB .</POS>
+		<Lemma>I hear my grandson talk about 30 foot away .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The colors do not match , the blacks look purple ... Other then that I will buy again from this company .</Tokens>
+		<POS>DT NNS VBP RB VB , DT NNS VBP JJ : JJ RB IN PRP MD VB RB IN DT NN .</POS>
+		<Lemma>the color do not match , the black look purple ... other then that I will buy again from this company .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>It has been recording the critters outside at night and now I know what is in the yard .</Tokens>
+		<POS>PRP VBZ VBN VBG DT NNS IN IN NN CC RB PRP VBP WP VBZ IN DT NN .</POS>
+		<Lemma>it have be record the critter outside at night and now I know what be in the yard .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I just wih it had a zoom .</Tokens>
+		<POS>PRP RB VBP PRP VBD DT NN .</POS>
+		<Lemma>I just wih it have a zoom .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Ken</Tokens>
+		<POS>NNP</POS>
+		<Lemma>Ken</Lemma>
+	</Sentence>
+</Document>

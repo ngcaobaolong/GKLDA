@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Was hoping for a darker , richer roast .</Tokens>
+		<POS>VBD VBG IN DT JJR , JJR NN .</POS>
+		<Lemma>be hope for a darker , richer roast .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Ground it fine , coarse , brewed it with 3 kinds of water and still could n't get it strong enough .</Tokens>
+		<POS>NN PRP JJ , JJ , VBD PRP IN CD NNS IN NN CC RB MD RB VB PRP JJ RB .</POS>
+		<Lemma>ground it fine , coarse , brew it with 3 kind of water and still could not get it strong enough .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very smooth and drinkable -LRB- hence the 3 stars -RRB- ; just not the dark coffee I 'm looking for .</Tokens>
+		<POS>RB JJ CC JJ -LRB- RB DT CD NNS -RRB- : RB RB DT JJ NN PRP VBP VBG IN .</POS>
+		<Lemma>very smooth and drinkable -lrb- hence the 3 star -rrb- ; just not the dark coffee I be look for .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>My bag did weigh in at a full 32 oz -LRB- 32.5 with the package . -RRB-</Tokens>
+		<POS>PRP$ NN VBD VB IN IN DT JJ CD NN -LRB- CD IN DT NN . -RRB-</POS>
+		<Lemma>my bag do weigh in at a full 32 oz -lrb- 32.5 with the package . -rrb-</Lemma>
+	</Sentence>
+</Document>

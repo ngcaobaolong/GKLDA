@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Easy to use , great quality video !</Tokens>
+		<POS>NNP TO VB , JJ NN NN .</POS>
+		<Lemma>Easy to use , great quality video !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Simple to download video to computer .</Tokens>
+		<POS>JJ TO VB NN TO NN .</POS>
+		<Lemma>simple to download video to computer .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The Flip is even better than we expected .</Tokens>
+		<POS>DT NN VBZ RB JJR IN PRP VBD .</POS>
+		<Lemma>the flip be even better than we expect .</Lemma>
+	</Sentence>
+</Document>

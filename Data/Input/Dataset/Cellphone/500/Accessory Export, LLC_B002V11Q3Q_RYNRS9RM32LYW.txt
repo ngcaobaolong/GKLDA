@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I thought this would connect my phone to the computer and charge it ; however , it does not charge the phone .</Tokens>
+		<POS>PRP VBD DT MD VB PRP$ NN TO DT NN CC VB PRP : RB , PRP VBZ RB VB DT NN .</POS>
+		<Lemma>I think this would connect my phone to the computer and charge it ; however , it do not charge the phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Total waist of money .</Tokens>
+		<POS>JJ NN IN NN .</POS>
+		<Lemma>total waist of money .</Lemma>
+	</Sentence>
+</Document>

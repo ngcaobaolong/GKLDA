@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The Acer AL 1912 19 '' LCD Flat Panel Monitor offers a wonderfull panoramic view of your window programs .</Tokens>
+		<POS>DT NNP NNP CD CD '' NNS NNP NNP NNP VBZ DT NN JJ NN IN PRP$ NN NNS .</POS>
+		<Lemma>the Acer AL 1912 19 '' lcd Flat Panel Monitor offer a wonderfull panoramic view of you window program .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am satisfied with the quality of the product and I found the price to be very reasonable .</Tokens>
+		<POS>PRP VBP VBN IN DT NN IN DT NN CC PRP VBD DT NN TO VB RB JJ .</POS>
+		<Lemma>I be satisfy with the quality of the product and I find the price to be very reasonable .</Lemma>
+	</Sentence>
+</Document>

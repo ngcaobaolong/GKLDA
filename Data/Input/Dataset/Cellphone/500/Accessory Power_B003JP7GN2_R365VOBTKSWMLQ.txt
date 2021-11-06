@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great product !</Tokens>
+		<POS>JJ NN .</POS>
+		<Lemma>great product !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Exactly what we needed for long car trips .</Tokens>
+		<POS>RB WP PRP VBD IN JJ NN NNS .</POS>
+		<Lemma>exactly what we need for long car trip .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very versatile and easily fits in our console .</Tokens>
+		<POS>RB JJ CC RB VBZ IN PRP$ NN .</POS>
+		<Lemma>very versatile and easily fit in we console .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Replaced two frayed adapter cords with this single unit .</Tokens>
+		<POS>VBN CD VBN NN NNS IN DT JJ NN .</POS>
+		<Lemma>replace two fray adapter cord with this single unit .</Lemma>
+	</Sentence>
+</Document>

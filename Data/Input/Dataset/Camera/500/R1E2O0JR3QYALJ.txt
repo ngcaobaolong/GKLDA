@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought this for the huge telephoto and other electronic features .</Tokens>
+		<POS>VBN DT IN DT JJ NN CC JJ JJ NNS .</POS>
+		<Lemma>buy this for the huge telephoto and other electronic feature .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However they built in so much electronics that it now responds like a Commodore 64 computer ... slow !</Tokens>
+		<POS>RB PRP VBD IN RB JJ NNS IN PRP RB VBZ IN DT NNP CD NN : JJ .</POS>
+		<Lemma>however they build in so much electronics that it now respond like a Commodore 64 computer ... slow !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>After taking a picture you have to wait a long time -LRB- in my opinion -RRB- before you can take another .</Tokens>
+		<POS>IN VBG DT NN PRP VBP TO VB DT JJ NN -LRB- IN PRP$ NN -RRB- IN PRP MD VB DT .</POS>
+		<Lemma>after take a picture you have to wait a long time -lrb- in my opinion -rrb- before you can take another .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Also the telephoto is not as responsive as I would like .</Tokens>
+		<POS>RB DT NN VBZ RB IN JJ IN PRP MD VB .</POS>
+		<Lemma>also the telephoto be not as responsive as I would like .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Hard to fine tune .</Tokens>
+		<POS>JJ TO JJ NN .</POS>
+		<Lemma>hard to fine tune .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The pictures are good quality but these days that is almost a given .</Tokens>
+		<POS>DT NNS VBP JJ NN CC DT NNS WDT VBZ RB DT VBN .</POS>
+		<Lemma>the picture be good quality but these day that be almost a give .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I would have only given this a 2 star but I see it is on sale and for the price is OK .</Tokens>
+		<POS>PRP MD VB RB VBN DT DT CD NN CC PRP VBP PRP VBZ IN NN CC IN DT NN VBZ JJ .</POS>
+		<Lemma>I would have only give this a 2 star but I see it be on sale and for the price be ok .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have 7 cameras , previously did photography as a business-now just a hobby but I 'll probably go back to the Nikon and shelf the Kodak .</Tokens>
+		<POS>PRP VBP CD NNS , RB VBD NN IN DT NN RB DT NN CC PRP MD RB VB RB TO DT NNP CC NN DT NNP .</POS>
+		<Lemma>I have 7 camera , previously do photography as a business-now just a hobby but I 'll probably go back to the Nikon and shelf the Kodak .</Lemma>
+	</Sentence>
+</Document>

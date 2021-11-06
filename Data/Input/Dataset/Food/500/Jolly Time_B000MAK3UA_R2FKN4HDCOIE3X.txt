@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is a great snack , love the built in portion control .</Tokens>
+		<POS>DT VBZ DT JJ NN , VBP DT VBN IN NN NN .</POS>
+		<Lemma>this be a great snack , love the build in portion control .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Be careful when cooking though , it 's easy to burn !</Tokens>
+		<POS>VB JJ WRB NN RB , PRP VBZ JJ TO VB .</POS>
+		<Lemma>be careful when cooking though , it be easy to burn !</Lemma>
+	</Sentence>
+</Document>

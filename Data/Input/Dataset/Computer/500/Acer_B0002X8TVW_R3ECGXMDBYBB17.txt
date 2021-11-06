@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I thought this monitor would be too good to be true for the price .</Tokens>
+		<POS>PRP VBD DT NN MD VB RB JJ TO VB JJ IN DT NN .</POS>
+		<Lemma>I think this monitor would be too good to be true for the price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It is fast , clear and I have not touched a control since getting it out of the box .</Tokens>
+		<POS>PRP VBZ RB , JJ CC PRP VBP RB VBN DT NN IN VBG PRP IN IN DT NN .</POS>
+		<Lemma>it be fast , clear and I have not touch a control since get it out of the box .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It has been a joy to play video games on .</Tokens>
+		<POS>PRP VBZ VBN DT NN TO VB NN NNS IN .</POS>
+		<Lemma>it have be a joy to play video game on .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Its footprint is tiny and I really enjoy the increased desk space .</Tokens>
+		<POS>PRP$ NN VBZ JJ CC PRP RB VBP DT VBN NN NN .</POS>
+		<Lemma>its footprint be tiny and I really enjoy the increase desk space .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The screen geometry seems perfect .</Tokens>
+		<POS>DT NN NN VBZ JJ .</POS>
+		<Lemma>the screen geometry seem perfect .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I am using 1280 by 1024 resolution and have no problem seeing anything and I have `` over 40 '' eye sight .</Tokens>
+		<POS>PRP VBP VBG CD IN CD NN CC VBP DT NN VBG NN CC PRP VBP `` IN CD '' NN NN .</POS>
+		<Lemma>I be use 1280 by 1024 resolution and have no problem see anything and I have `` over 40 '' eye sight .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I had to clean it and just used a dry cotton towel and it removed the dust in one pass .</Tokens>
+		<POS>PRP VBD TO VB PRP CC RB VBD DT JJ NN NN CC PRP VBD DT NN IN CD NN .</POS>
+		<Lemma>I have to clean it and just use a dry cotton towel and it remove the dust in one pass .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It then looked perfect again .</Tokens>
+		<POS>PRP RB VBD JJ RB .</POS>
+		<Lemma>it then look perfect again .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It looks like it was made for my Dell CPU .</Tokens>
+		<POS>PRP VBZ IN PRP VBD VBN IN PRP$ NNP NNP .</POS>
+		<Lemma>it look like it be make for my Dell CPU .</Lemma>
+	</Sentence>
+</Document>

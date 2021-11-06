@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really enjoy this product .</Tokens>
+		<POS>PRP RB VB DT NN .</POS>
+		<Lemma>I really enjoy this product .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I was looking for portability and good battery life and this product delivers both .</Tokens>
+		<POS>PRP VBD VBG IN NN CC JJ NN NN CC DT NN VBZ CC .</POS>
+		<Lemma>I be look for portability and good battery life and this product deliver both .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I felt the system was slow so I purchased a 4gb ram from crucell and replaced the standard 2gb that came with the system .</Tokens>
+		<POS>PRP VBD DT NN VBD JJ IN PRP VBD DT JJ NN IN NN CC VBD DT JJ NN WDT VBD IN DT NN .</POS>
+		<Lemma>I feel the system be slow so I purchase a 4gb ram from crucell and replace the standard 2gb that come with the system .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I seem to be getting 5 to 6 hours on the battery which is sufficient for my needs .</Tokens>
+		<POS>PRP VBP TO VB VBG CD TO CD NNS IN DT NN WDT VBZ JJ IN PRP$ NNS .</POS>
+		<Lemma>I seem to be get 5 to 6 hour on the battery which be sufficient for my need .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Since I 've only had the computer for a few weeks I 'll report later on my further experience with the system <a href="http://www.amazon.com/gp/product/B001KB21KA/ref=cm_cr_asin_lnk/192-0570718-7655811"> Crucial Technology CT51264BC1067 4 GB 204-pin SODIMM DDR3 PC3-8500 CL = 7 Unbuffered NON-ECC DDR3-1066 1.5 V 512Meg x 64 Memory </a></Tokens>
+		<POS>IN PRP VBP RB VBD DT NN IN DT JJ NNS PRP MD VB RB IN PRP$ JJ NN IN DT NN NN NNP NNP NN CD NN JJ NN NN CD NN JJ CD JJ NN NN CD NN NN CC CD NN NN</POS>
+		<Lemma>since I have only have the computer for a few week I 'll report later on my further experience with the system <a href="http://www.amazon.com/gp/product/b001kb21ka/ref=cm_cr_asin_lnk/192-0570718-7655811"> Crucial Technology ct51264bc1067 4 gb 204-pin sodimm ddr3 pc3-8500 cl = 7 unbuffered non-ecc ddr3-1066 1.5 v 512meg x 64 memory </a></Lemma>
+	</Sentence>
+</Document>

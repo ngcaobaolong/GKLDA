@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I tried this soup mix for the first time and it was absolutely delicious .</Tokens>
+		<POS>PRP VBD DT NN NN IN DT JJ NN CC PRP VBD RB JJ .</POS>
+		<Lemma>I try this soup mix for the first time and it be absolutely delicious .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I prepared Bob 's Red Mill Veggie Soup Mix using the recipe on the package plus I added fish eyeballs to it .</Tokens>
+		<POS>PRP VBD NNP POS NNP NNP NNP NNP NNP VBG DT NN IN DT NN CC PRP VBD NN NNS TO PRP .</POS>
+		<Lemma>I prepare Bob 's Red Mill Veggie Soup Mix use the recipe on the package plus I add fish eyeball to it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The soup was very tasty , with a variety of beans , Green Split Peas , Yellow Split Peas , Barley , lentils and Vegetable Pasta and lots of fiber .</Tokens>
+		<POS>DT NN VBD RB JJ , IN DT NN IN NNS , NNP NNP NNP , NNP NNP NNP , NNP , NNS CC NNP NNP CC NNS IN NN .</POS>
+		<Lemma>the soup be very tasty , with a variety of bean , Green Split Peas , Yellow Split Peas , Barley , lentil and Vegetable Pasta and lot of fiber .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I thought that the -LRB- 4 pack , 28 ounces per package -RRB- was an economical purchase , in this category of product packaging soup mixes .</Tokens>
+		<POS>PRP VBD IN DT -LRB- CD NN , CD NNS IN NN -RRB- VBD DT JJ NN , IN DT NN IN NN NN NN VBZ .</POS>
+		<Lemma>I think that the -lrb- 4 pack , 28 ounce per package -rrb- be a economical purchase , in this category of product packaging soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It was even better the second day , as it gets watery .</Tokens>
+		<POS>PRP VBD RB JJR DT JJ NN , IN PRP VBZ JJ .</POS>
+		<Lemma>it be even better the second day , as it get watery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I rub my hands thru the soft beans .</Tokens>
+		<POS>PRP VBP PRP$ NNS VBP DT JJ NNS .</POS>
+		<Lemma>I rub my hand thru the soft bean .</Lemma>
+	</Sentence>
+</Document>

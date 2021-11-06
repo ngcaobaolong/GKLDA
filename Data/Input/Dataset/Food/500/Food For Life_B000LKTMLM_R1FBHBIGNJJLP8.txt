@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>As most write on Ezekiel , you need to develop a palette for unprocessed foods to enjoy it .</Tokens>
+		<POS>IN JJS VB IN NNP , PRP VBP TO VB DT NN IN JJ NNS TO VB PRP .</POS>
+		<Lemma>as most write on Ezekiel , you need to develop a palette for unprocessed food to enjoy it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I would describe this cereal as tasting like Grapenuts but the granules are smaller so does n't hurt your teeth .</Tokens>
+		<POS>PRP MD VB DT NN IN NN IN NNS CC DT NNS VBP JJR RB VBZ RB VB PRP$ NNS .</POS>
+		<Lemma>I would describe this cereal as tasting like grapenut but the granule be smaller so do not hurt you tooth .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I usually eat with vanilla almond milk , a little Stevia sweetener and a sliced banana for breakfast , or I sprinkle over yogurt .</Tokens>
+		<POS>PRP RB VBP IN NN NN NN , DT JJ NNP NN CC DT JJ NN IN NN , CC PRP VBP IN NN .</POS>
+		<Lemma>I usually eat with vanilla almond milk , a little Stevia sweetener and a sliced banana for breakfast , or I sprinkle over yogurt .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Often I add a tablespoon of organic oat bran to either .</Tokens>
+		<POS>RB PRP VBP DT NN IN JJ NN NN TO CC .</POS>
+		<Lemma>often I add a tablespoon of organic oat bran to either .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Highly recommend .</Tokens>
+		<POS>RB VB .</POS>
+		<Lemma>highly recommend .</Lemma>
+	</Sentence>
+</Document>

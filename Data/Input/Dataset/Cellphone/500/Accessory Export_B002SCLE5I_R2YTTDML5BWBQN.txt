@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Installed the product as instructed but did n't do anything with my phone ... Still loses bars ... Buy at your own risk .</Tokens>
+		<POS>VBN DT NN IN VBN CC VBD RB VB NN IN PRP$ NN : RB VBZ NNS : VB IN PRP$ JJ NN .</POS>
+		<Lemma>install the product as instruct but do not do anything with my phone ... still lose bar ... buy at you own risk .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Really had wished this had worked as described but sadly this was n't the case</Tokens>
+		<POS>RB VBD VBN DT VBD VBN IN VBN CC RB DT VBD RB DT NN</POS>
+		<Lemma>really have wish this have work as describe but sadly this be not the case</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very pleased with the Acer Monitor .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NNP NNP .</POS>
+		<Lemma>I be very pleased with the Acer Monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Price was excellent , size and weight so much lighter as compared to older monitors .</Tokens>
+		<POS>NN VBD JJ , NN CC NN RB JJ JJR IN VBN TO JJR NNS .</POS>
+		<Lemma>price be excellent , size and weight so much lighter as compare to older monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I should have replaced my old one sooner .</Tokens>
+		<POS>PRP MD VB VBN PRP$ JJ CD RBR .</POS>
+		<Lemma>I should have replace my old one sooner .</Lemma>
+	</Sentence>
+</Document>

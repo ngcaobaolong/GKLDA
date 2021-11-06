@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It was worth a try but this did not work at all on my LG420 .</Tokens>
+		<POS>PRP VBD IN DT NN CC DT VBD RB VB IN DT IN PRP$ NN .</POS>
+		<Lemma>it be worth a try but this do not work at all on my lg420 .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I believe these came out several years ago when cell phones had different designs and these may have worked then .</Tokens>
+		<POS>PRP VBP DT VBD RP JJ NNS IN WRB NN NNS VBD JJ NNS CC DT MD VB VBN RB .</POS>
+		<Lemma>I believe these come out several year ago when cell phone have different design and these may have work then .</Lemma>
+	</Sentence>
+</Document>

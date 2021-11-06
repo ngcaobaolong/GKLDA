@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>`` yesterday was the first use , the first impression was wooooooooooooow amazing ' I could n't take bic in daylight , but indoors to be honest it 's like other digital cam with high resolution body .</Tokens>
+		<POS>`` NN VBD DT JJ NN , DT JJ NN VBD JJ JJ '' PRP MD RB VB NN IN NN , CC RB TO VB JJ PRP VBZ IN JJ JJ NN IN JJ NN CC NN .</POS>
+		<Lemma>`` yesterday be the first use , the first impression be wooooooooooooow amazing ' I could not take bic in daylight , but indoors to be honest it be like other digital cam with high resolution body .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'll wait see how much it can go far outdoors ''</Tokens>
+		<POS>PRP MD VB CC VB WRB JJ PRP MD VB RB RB ''</POS>
+		<Lemma>I 'll wait see how much it can go far outdoors ''</Lemma>
+	</Sentence>
+</Document>

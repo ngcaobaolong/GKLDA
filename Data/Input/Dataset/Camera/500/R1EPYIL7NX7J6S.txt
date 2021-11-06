@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera as a low-budget helmet camera to document my commute to my jobs and school .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN NN TO VB PRP$ NN TO PRP$ NNS CC NN .</POS>
+		<Lemma>I buy this camera as a low-budget helmet camera to document my commute to my job and school .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's also occasionally a dashcam The resulting video is very crisp , and compares to my friend 's much more expensive GoPro .</Tokens>
+		<POS>PRP VBZ RB RB DT NN DT VBG NN VBZ RB JJ , CC VBZ TO PRP$ NN POS RB RBR JJ NN .</POS>
+		<Lemma>it be also occasionally a dashcam the result video be very crisp , and compare to my friend 's much more expensive gopro .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's really holding up to the abuse I 'm throwing at it , and the blue\/black color blends in very well to my helmet and dash cover .</Tokens>
+		<POS>PRP VBZ RB VBG RP TO DT NN PRP VBP VBG IN PRP , CC DT NN NN VBZ IN RB RB TO PRP$ NN CC NN NN .</POS>
+		<Lemma>it be really hold up to the abuse I be throw at it , and the blue\/black color blend in very well to my helmet and dash cover .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I actually bought two of these , but one was stolen , but I liked it so much that I bought another .</Tokens>
+		<POS>PRP RB VBD CD IN DT , CC CD VBD VBN , CC PRP VBD PRP RB RB IN PRP VBD DT .</POS>
+		<Lemma>I actually buy two of these , but one be steal , but I like it so much that I buy another .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Stuff it 's survived without making a fuss about : - Being partially submerged in water .</Tokens>
+		<POS>NN PRP VBZ VBN IN VBG DT NN IN : : VBG RB VBN IN NN .</POS>
+		<Lemma>stuff it be survive without make a fuss about : - be partially submerge in water .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>- Falling from the height of about 5 ' 4 '' -LRB- helmet mount fell off -RRB- .</Tokens>
+		<POS>: VBG IN DT NN IN IN CD '' CD '' -LRB- NN VBP VBD RP -RRB- .</POS>
+		<Lemma>- fall from the height of about 5 ' 4 '' -lrb- helmet mount fall off -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>- Being shaken around on some gravel .</Tokens>
+		<POS>: VBG VBN IN IN DT NN .</POS>
+		<Lemma>- be shake around on some gravel .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>- Falling off a bike at the speed of 25mph .</Tokens>
+		<POS>: VBG RP DT NN IN DT NN IN NN .</POS>
+		<Lemma>- fall off a bike at the speed of 25mph .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>- Children .</Tokens>
+		<POS>: NNP .</POS>
+		<Lemma>- Children .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>- Dogs .</Tokens>
+		<POS>: NNS .</POS>
+		<Lemma>- dog .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The USB transfer is n't that great , but that does n't matter to me since I can just shove the SD card into the handy SD slot my laptop 's got .</Tokens>
+		<POS>DT JJ NN VBZ RB IN JJ , CC DT VBZ RB VB TO PRP IN PRP MD RB VB DT NN NN IN DT JJ NN NN PRP$ NN POS VBD .</POS>
+		<Lemma>the usb transfer be not that great , but that do not matter to I since I can just shove the sd card into the handy sd slot my laptop 's get .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The camera 's held up to everything I 've thrown at it , and the video quality is great for the cost .</Tokens>
+		<POS>DT NN POS VBN RP TO NN PRP VBP VBN IN PRP , CC DT JJ NN VBZ JJ IN DT NN .</POS>
+		<Lemma>the camera 's hold up to everything I have throw at it , and the video quality be great for the cost .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>If you 're looking for an inexpensive HD cam , go with this .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN NN , VB IN DT .</POS>
+		<Lemma>if you be look for a inexpensive hd cam , go with this .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have had the camera for about 3 months now .</Tokens>
+		<POS>PRP VBP VBD DT NN IN IN CD NNS RB .</POS>
+		<Lemma>I have have the camera for about 3 month now .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I use it for video only .</Tokens>
+		<POS>PRP VBP PRP IN NN RB .</POS>
+		<Lemma>I use it for video only .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Once you hack it the video footage you get from the camera is simply stunning .</Tokens>
+		<POS>RB PRP VBP PRP DT NN NN PRP VBP IN DT NN VBZ RB JJ .</POS>
+		<Lemma>once you hack it the video footage you get from the camera be simply stunning .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend this camera to anyone looking to shoot video .</Tokens>
+		<POS>PRP MD VB DT NN TO NN VBG TO VB NN .</POS>
+		<Lemma>I would recommend this camera to anyone look to shoot video .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Crossbowfilms.net</Tokens>
+		<POS>NN</POS>
+		<Lemma>crossbowfilms.net</Lemma>
+	</Sentence>
+</Document>

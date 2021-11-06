@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This item I will say I think overall does work and do what it tells .</Tokens>
+		<POS>DT NN PRP MD VB PRP VBP JJ VBZ VB CC VB WP PRP VBZ .</POS>
+		<Lemma>this item I will say I think overall do work and do what it tell .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It only promises to give you an added bar of signal and that it will do .</Tokens>
+		<POS>PRP RB VBZ TO VB PRP DT VBN NN IN NN CC IN PRP MD VB .</POS>
+		<Lemma>it only promise to give you a add bar of signal and that it will do .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Others say they hear me better since I put it in but I hear no difference on my side .</Tokens>
+		<POS>NNS VBP PRP VB PRP JJR IN PRP VBP PRP IN CC PRP VBP DT NN IN PRP$ NN .</POS>
+		<Lemma>other say they hear I better since I put it in but I hear no difference on my side .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Where I had 2 bars I know have 2 - 3 depends on the day .</Tokens>
+		<POS>WRB PRP VBD CD NNS PRP VBP VBP LS : CD VBZ IN DT NN .</POS>
+		<Lemma>where I have 2 bar I know have 2 - 3 depend on the day .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So I give it a 4 star because it does do as told just not as I had hoped .</Tokens>
+		<POS>IN PRP VBP PRP DT CD NN IN PRP VBZ VB IN VBN RB RB IN PRP VBD VBN .</POS>
+		<Lemma>so I give it a 4 star because it do do as tell just not as I have hope .</Lemma>
+	</Sentence>
+</Document>

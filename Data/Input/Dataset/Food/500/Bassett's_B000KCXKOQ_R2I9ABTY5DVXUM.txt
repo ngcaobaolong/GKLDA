@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Much fun for friends from England and Dr. Who fans .</Tokens>
+		<POS>JJ NN IN NNS IN NNP CC NNP WP NNS .</POS>
+		<Lemma>much fun for friend from England and Dr. who fan .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This just as we expected it to be and it was well received .</Tokens>
+		<POS>DT RB IN PRP VBD PRP TO VB CC PRP VBD RB VBN .</POS>
+		<Lemma>this just as we expect it to be and it be well receive .</Lemma>
+	</Sentence>
+</Document>

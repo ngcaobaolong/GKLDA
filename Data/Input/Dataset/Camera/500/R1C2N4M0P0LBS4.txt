@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought it in Aug 2011 as a dustproof camera , but when I actually used it snorkeling last week , it started acting up 15 minutes into the water ... now the LCD screen has spots in it ... I am going to return it to PANASONIC CANADA and see what they say ... the BETTER repair it under warranty or I 'll NEVER buy a PANASONIC product again ...</Tokens>
+		<POS>VBN PRP IN NNP CD IN DT JJ NN , CC WRB PRP RB VBD PRP NN JJ NN , PRP VBD VBG RP CD NNS IN DT NN : RB DT NNS NN VBZ NNS IN PRP : PRP VBP VBG TO VB PRP TO NNP NNP CC VB WP PRP VBP : DT NNP NN PRP IN NN CC PRP MD RB VB DT NNP NN RB :</POS>
+		<Lemma>buy it in Aug 2011 as a dustproof camera , but when I actually use it snorkeling last week , it start act up 15 minute into the water ... now the lcd screen have spot in it ... I be go to return it to PANASONIC CANADA and see what they say ... the BETTER repair it under warranty or I 'll never buy a PANASONIC product again ...</Lemma>
+	</Sentence>
+</Document>

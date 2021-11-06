@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Excellent the camera you sent me .</Tokens>
+		<POS>JJ DT NN PRP VBD PRP .</POS>
+		<Lemma>excellent the camera you send I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am too happy with this camera , because its pictures are very good and the video is excellent .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN , IN PRP$ NNS VBP RB JJ CC DT NN VBZ JJ .</POS>
+		<Lemma>I be too happy with this camera , because its picture be very good and the video be excellent .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Really , I made a very good purchising buying the camera XS30IS .</Tokens>
+		<POS>RB , PRP VBD DT RB JJ NN VBG DT NN NN .</POS>
+		<Lemma>really , I make a very good purchising buy the camera xs30i .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Thank you and my respects to you .</Tokens>
+		<POS>VB PRP CC PRP$ NNS TO PRP .</POS>
+		<Lemma>thank you and my respects to you .</Lemma>
+	</Sentence>
+</Document>

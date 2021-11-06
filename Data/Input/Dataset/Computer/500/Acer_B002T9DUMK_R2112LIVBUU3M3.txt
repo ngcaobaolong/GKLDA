@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have several of these monitors , and they are great .</Tokens>
+		<POS>PRP VBP JJ IN DT NNS , CC PRP VBP JJ .</POS>
+		<Lemma>I have several of these monitor , and they be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I love the small frame surrounding the Acer S243HL , and the stand\/foot that do n't need too much desk space .</Tokens>
+		<POS>PRP VBP DT JJ NN VBG DT NNP NNP , CC DT NN WDT VBP RB VB RB JJ NN NN .</POS>
+		<Lemma>I love the small frame surround the Acer S243HL , and the stand\/foot that do not need too much desk space .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Easy to reach connectors , stable and reliable .</Tokens>
+		<POS>NNP TO VB NNS , JJ CC JJ .</POS>
+		<Lemma>Easy to reach connector , stable and reliable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Swift hazzle-free delivery - always on time , from both Amazon and Universal Mania Inc. .</Tokens>
+		<POS>NNP JJ NN : RB IN NN , IN DT NNP CC NNP NNP NNP .</POS>
+		<Lemma>Swift hazzle-free delivery - always on time , from both Amazon and Universal Mania Inc. .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>These are pretty good .</Tokens>
+		<POS>DT VBP RB JJ .</POS>
+		<Lemma>these be pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I do not find this brand easily , but after trying these I realized these are just like the `` german '' or Dutch `` stroopwafels '' or syrup wafels .</Tokens>
+		<POS>PRP VBP RB VB DT NN RB , CC IN VBG DT PRP VBD DT VBP RB IN DT `` JJ '' CC JJ `` NNS '' CC NN NNS .</POS>
+		<Lemma>I do not find this brand easily , but after try these I realize these be just like the `` german '' or dutch `` stroopwafel '' or syrup wafel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>In Europe people put these over a cup of coffee or tea to soften them up and eat them every day .</Tokens>
+		<POS>IN NNP NNS VBD DT IN DT NN IN NN CC NN TO VB PRP RP CC VB PRP DT NN .</POS>
+		<Lemma>in Europe people put these over a cup of coffee or tea to soften they up and eat they every day .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>You can find these in european stores for a lot less than the honey stinger brand .</Tokens>
+		<POS>PRP MD VB DT IN JJ NNS IN DT NN JJR IN DT NN NN NN .</POS>
+		<Lemma>you can find these in european store for a lot less than the honey stinger brand .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The only thing is the european wafels and north american ones I buy -LRB- a store brand from canada -RRB- they come in a box of 8 and not individual packages - but then again I am paying $ 4 for a box of 8 or $ 3 on sale .</Tokens>
+		<POS>DT JJ NN VBZ DT JJ NNS CC RB JJ NNS PRP VBP -LRB- DT NN NN IN NN -RRB- PRP VBP IN DT NN IN CD CC RB JJ NNS : CC RB RB PRP VBP VBG $ CD IN DT NN IN CD CC $ CD IN NN .</POS>
+		<Lemma>the only thing be the european wafel and north american one I buy -lrb- a store brand from canada -rrb- they come in a box of 8 and not individual package - but then again I be pay $ 4 for a box of 8 or $ 3 on sale .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I just put them in a ziplok bag or else something easy to pack and eat from !</Tokens>
+		<POS>PRP RB VBD PRP IN DT NN NN CC RB NN JJ TO VB CC VB IN .</POS>
+		<Lemma>I just put they in a ziplok bag or else something easy to pack and eat from !</Lemma>
+	</Sentence>
+</Document>

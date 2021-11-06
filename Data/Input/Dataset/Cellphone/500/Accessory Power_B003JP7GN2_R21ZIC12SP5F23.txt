@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>good product so far .</Tokens>
+		<POS>JJ NN RB RB .</POS>
+		<Lemma>good product so far .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I keep it in my car for whenever I go home .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NN IN WRB PRP VBP RB .</POS>
+		<Lemma>I keep it in my car for whenever I go home .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Have n't needed to use the battery -LRB- AA or 9V -RRB- function yet .</Tokens>
+		<POS>VBP RB VBN TO VB DT NN -LRB- NN CC NN -RRB- NN RB .</POS>
+		<Lemma>have not need to use the battery -lrb- aa or 9v -rrb- function yet .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>But will hopefully be happy to have it during the Zombie Apocalypse when I want to listen to music .</Tokens>
+		<POS>CC MD RB VB JJ TO VB PRP IN DT NNP NNP WRB PRP VBP TO VB TO NN .</POS>
+		<Lemma>but will hopefully be happy to have it during the Zombie Apocalypse when I want to listen to music .</Lemma>
+	</Sentence>
+</Document>

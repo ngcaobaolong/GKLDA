@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My wife and I always loved popcorn , but we are officially popcorn junkies now , thanks to the Whirley-Pop and good , cheap kernels bought in bulk -LRB- like <a href="http://www.amazon.com/gp/product/B0052XN0EI/ref=cm_cr_asin_lnk/179-9987530-4873715"> Great Northern Premium Yellow Gourmet Popcorn 12.5 Pounds </a> -RRB- .</Tokens>
+		<POS>PRP$ NN CC PRP RB VBD NN , CC PRP VBP RB NN NNS RB , NNS TO DT NNP CC JJ , JJ NNS VBN IN NN -LRB- IN NN NNP NNP NNP NNP NNP NNP CD NNP NN -RRB- .</POS>
+		<Lemma>my wife and I always love popcorn , but we be officially popcorn junkie now , thanks to the Whirley-Pop and good , cheap kernel buy in bulk -lrb- like <a href="http://www.amazon.com/gp/product/b0052xn0ei/ref=cm_cr_asin_lnk/179-9987530-4873715"> Great Northern Premium Yellow Gourmet Popcorn 12.5 Pounds </a> -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>We make popcorn about 2-3 times per week -LRB- when watching <a href="http://www.amazon.com/gp/product/B001XRLWPQ/ref=cm_cr_asin_lnk/179-9987530-4873715"> Castle : The Complete First Season </a> or <a href="http://www.amazon.com/gp/product/B000P0I4P8/ref=cm_cr_asin_lnk/179-9987530-4873715"> Psych : The Complete First Season </a> -RRB- , and we 've found the best way to make it like movie theater popcorn without spending a fortune on coconut oil -LRB- like <a href="http://www.amazon.com/gp/product/B002YLI9E2/ref=cm_cr_asin_lnk/179-9987530-4873715"> Paragon Coconut Popcorn Popping Oil -LRB- Gallon -RRB- </a> -RRB- .</Tokens>
+		<POS>PRP VBP NN IN CD NNS IN NN -LRB- WRB VBG JJ NN : DT JJ JJ NN NN CC NN NN : DT JJ JJ NN NN -RRB- , CC PRP VBP VBN DT JJS NN TO VB PRP IN NN NN NN IN VBG DT NN IN NN NN -LRB- IN NN NNP NNP NNP NNP NNP -LRB- NNP -RRB- NN -RRB- .</POS>
+		<Lemma>we make popcorn about 2-3 time per week -lrb- when watch <a href="http://www.amazon.com/gp/product/b001xrlwpq/ref=cm_cr_asin_lnk/179-9987530-4873715"> castle : the complete first season </a> or <a href="http://www.amazon.com/gp/product/b000p0i4p8/ref=cm_cr_asin_lnk/179-9987530-4873715"> psych : the complete first season </a> -rrb- , and we have find the best way to make it like movie theater popcorn without spend a fortune on coconut oil -lrb- like <a href="http://www.amazon.com/gp/product/b002yli9e2/ref=cm_cr_asin_lnk/179-9987530-4873715"> Paragon Coconut Popcorn Popping Oil -lrb- Gallon -rrb- </a> -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>For 1\/2 cup of unpopped kernels , use 1 tsp of salt , 1\/2 Tblsp of corn oil and 2 or 3 Tblsp of margarine , cut into ~ 1\/2 Tblsp chunks for quicker melting -LRB- we prefer Imperial margarine - to us , it tastes the most like real butter -RRB- .</Tokens>
+		<POS>IN CD NN IN JJ NNS , NN CD NN IN NN , CD NN IN NN NN CC CD CC CD NN IN NN , VBD IN CD CD NNP NNS IN JJR NN -LRB- PRP VBP NNP NN : TO PRP , PRP VBZ DT RBS JJ JJ NN -RRB- .</POS>
+		<Lemma>for 1\/2 cup of unpopped kernel , use 1 tsp of salt , 1\/2 tblsp of corn oil and 2 or 3 tblsp of margarine , cut into ~ 1\/2 Tblsp chunk for quicker melting -lrb- we prefer Imperial margarine - to we , it taste the most like real butter -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Put the oil and margarine in at the same time , but leave the top open while you crank the handle -LRB- this is to let most of the water from the margarine evaporate and escape , and avoids condensation dripping back down and cooling off the oil\/margarine mix once the popcorn is added -RRB- .</Tokens>
+		<POS>VB DT NN CC NN IN IN DT JJ NN , CC VBP DT JJ JJ IN PRP VBP DT VB -LRB- DT VBZ TO VB JJS IN DT NN IN DT NN VB CC VB , CC VBZ NN VBG RB RB CC VBG RP DT NN NN IN DT NN VBZ VBN -RRB- .</POS>
+		<Lemma>put the oil and margarine in at the same time , but leave the top open while you crank the handle -lrb- this be to let most of the water from the margarine evaporate and escape , and avoid condensation drip back down and cool off the oil\/margarine mix once the popcorn be add -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Once the margarine is melted and a fair amount of water vapor has escaped -LRB- about 30 seconds after the margarine has completely melted -RRB- , dump the popcorn and salt into the Whirley-Pop and close the top .</Tokens>
+		<POS>RB DT NN VBZ VBN CC DT JJ NN IN NN NN VBZ VBN -LRB- IN CD NNS IN DT NN VBZ RB VBN -RRB- , VB DT NN CC NN IN DT NNP CC VB DT NN .</POS>
+		<Lemma>once the margarine be melt and a fair amount of water vapor have escape -lrb- about 30 seconds after the margarine have completely melt -rrb- , dump the popcorn and salt into the Whirley-Pop and close the top .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Pop as usual .</Tokens>
+		<POS>NN IN JJ .</POS>
+		<Lemma>pop as usual .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>-LRB- Note : 1 whole tsp of salt may seem excessive , but about half will remain on the bottom and sides of the popper when finished . -RRB-</Tokens>
+		<POS>-LRB- NN : CD JJ NN IN NN MD VB JJ , CC IN NN MD VB IN DT NN CC NNS IN DT NN WRB VBN . -RRB-</POS>
+		<Lemma>-lrb- note : 1 whole tsp of salt may seem excessive , but about half will remain on the bottom and side of the popper when finish . -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Just make sure you keep these kernals sealed up tight -LRB- with maybe a drop of water , to keep it from drying out -RRB- to keep them fresh .</Tokens>
+		<POS>RB VB JJ PRP VBP DT NNS VBN RB JJ -LRB- IN RB DT NN IN NN , TO VB PRP IN VBG RP -RRB- TO VB PRP JJ .</POS>
+		<Lemma>just make sure you keep these kernal seal up tight -lrb- with maybe a drop of water , to keep it from dry out -rrb- to keep they fresh .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I hope you find this method helpful .</Tokens>
+		<POS>PRP VBP PRP VB DT NN JJ .</POS>
+		<Lemma>I hope you find this method helpful .</Lemma>
+	</Sentence>
+</Document>

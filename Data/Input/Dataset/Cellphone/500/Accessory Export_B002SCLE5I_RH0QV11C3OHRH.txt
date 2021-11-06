@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I rank this little gem right along-side the pet rock .</Tokens>
+		<POS>PRP VBP DT JJ NN NN IN DT NN NN .</POS>
+		<Lemma>I rank this little gem right along-side the pet rock .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>In my experience , it serves no real purpose .</Tokens>
+		<POS>IN PRP$ NN , PRP VBZ DT JJ NN .</POS>
+		<Lemma>in my experience , it serve no real purpose .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>C'mon .</Tokens>
+		<POS>VB .</POS>
+		<Lemma>c'mon .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>it 's a sticker with squiggly gold lines printed on it , for heaven 's sake !</Tokens>
+		<POS>PRP VBZ DT NN IN RB JJ NNS VBN IN PRP , IN NN POS NN .</POS>
+		<Lemma>it be a sticker with squiggly gold line print on it , for heaven 's sake !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>THEY DO MAKE GREAT GAG GIFTS - which is EXACTLY what I did with my 10-pack .</Tokens>
+		<POS>NNP NNP VB JJ NN NNS : WDT VBZ NNP WP PRP VBD IN PRP$ JJ .</POS>
+		<Lemma>THEY DO make great gag gift - which be EXACTLY what I do with my 10-pack .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Enjoy !</Tokens>
+		<POS>VB .</POS>
+		<Lemma>enjoy !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>: - -RRB-</Tokens>
+		<POS>: : -RRB-</POS>
+		<Lemma>: - -rrb-</Lemma>
+	</Sentence>
+</Document>

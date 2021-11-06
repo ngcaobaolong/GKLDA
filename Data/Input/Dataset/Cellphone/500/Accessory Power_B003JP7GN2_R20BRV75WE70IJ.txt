@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very pleased with the speed with which I received the Trans4M .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NN IN WDT PRP VBD DT NN .</POS>
+		<Lemma>I be very pleased with the speed with which I receive the trans4m .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I received it in time for a West Coast to East Coast day of flying .</Tokens>
+		<POS>PRP VBD PRP IN NN IN DT NNP NNP TO NNP NNP NN IN VBG .</POS>
+		<Lemma>I receive it in time for a West Coast to East Coast day of fly .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>With my iPod and iPhone having limited battery life , it was a real pleasure to have the Trans4M kick in and keep my Apple products powered long after their own battery charge was out .</Tokens>
+		<POS>IN PRP$ NN CC NNP VBG VBN NN NN , PRP VBD DT JJ NN TO VB DT NN NN IN CC VB PRP$ NNP NNS VBD RB IN PRP$ JJ NN NN VBD RB .</POS>
+		<Lemma>with my ipod and iPhone have limit battery life , it be a real pleasure to have the trans4m kick in and keep my Apple product power long after they own battery charge be out .</Lemma>
+	</Sentence>
+</Document>

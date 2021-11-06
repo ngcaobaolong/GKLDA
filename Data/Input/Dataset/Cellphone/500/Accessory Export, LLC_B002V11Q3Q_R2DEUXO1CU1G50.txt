@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This cable is really thin and the plug does n't fit securely in the motorolla droid phone .</Tokens>
+		<POS>DT NN VBZ RB JJ CC DT NN VBZ RB VB RB IN DT NN NN NN .</POS>
+		<Lemma>this cable be really thin and the plug do not fit securely in the motorollum droid phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought 3 cables -LRB- home , car , work -RRB- , and tried it on my phone , and two friend 's phones , but it 's loose on all of them .</Tokens>
+		<POS>PRP VBD CD NNS -LRB- NN , NN , NN -RRB- , CC VBD PRP IN PRP$ NN , CC CD NN POS NNS , CC PRP VBZ JJ IN DT IN PRP .</POS>
+		<Lemma>I buy 3 cable -lrb- home , car , work -rrb- , and try it on my phone , and two friend 's phone , but it be loose on all of they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Worse yet , it connects , then disconnects , and connects again , and disconnects .</Tokens>
+		<POS>JJR RB , PRP VBZ , RB VBZ , CC VBZ RB , CC NNS .</POS>
+		<Lemma>worse yet , it connect , then disconnect , and connect again , and disconnect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>On off on off on off on off until your battery is dead .</Tokens>
+		<POS>IN RB IN RB IN RB IN RB IN PRP$ NN VBZ JJ .</POS>
+		<Lemma>on off on off on off on off until you battery be dead .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>On the RARE occasion it works , if you do n't touch it at all it slowly charges and syncs , but I have n't figured out how to make it work reliably at all .</Tokens>
+		<POS>IN DT NN NN PRP VBZ , IN PRP VBP RB VB PRP IN DT PRP RB VBZ CC VBZ , CC PRP VBP RB VBN RP WRB TO VB PRP VB RB IN DT .</POS>
+		<Lemma>on the rare occasion it work , if you do not touch it at all it slowly charge and sync , but I have not figure out how to make it work reliably at all .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>JUNK !</Tokens>
+		<POS>NN .</POS>
+		<Lemma>junk !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>JUNK !</Tokens>
+		<POS>NN .</POS>
+		<Lemma>junk !</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>JUNK !</Tokens>
+		<POS>NN .</POS>
+		<Lemma>junk !</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>JUNK !</Tokens>
+		<POS>NN .</POS>
+		<Lemma>junk !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It has a great taste -- I 'm pretty addicted .</Tokens>
+		<POS>PRP VBZ DT JJ NN : PRP VBP RB VBN .</POS>
+		<Lemma>it have a great taste -- I be pretty addict .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Low sugar content , which is why I first bought it .</Tokens>
+		<POS>JJ NN NN , WDT VBZ WRB PRP RB VBD PRP .</POS>
+		<Lemma>low sugar content , which be why I first buy it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's like a far superior version of Grapenuts -- fresher and more wholesome .</Tokens>
+		<POS>PRP VBZ IN DT RB JJ NN IN NNP : JJR CC JJR JJ .</POS>
+		<Lemma>it be like a far superior version of Grapenuts -- fresher and more wholesome .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>A lower price would be nice , but otherwise there 's nothing I would change about this cereal .</Tokens>
+		<POS>DT JJR NN MD VB JJ , CC RB EX VBZ NN PRP MD VB IN DT NN .</POS>
+		<Lemma>a lower price would be nice , but otherwise there be nothing I would change about this cereal .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I buy it by the case .</Tokens>
+		<POS>PRP VBP PRP IN DT NN .</POS>
+		<Lemma>I buy it by the case .</Lemma>
+	</Sentence>
+</Document>

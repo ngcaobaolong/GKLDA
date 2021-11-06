@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product works very well .</Tokens>
+		<POS>DT NN VBZ RB RB .</POS>
+		<Lemma>this product work very well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The only issue I found with it is when you use the charge USB cable at the same time there is a loud noise while driving .</Tokens>
+		<POS>DT JJ NN PRP VBD IN PRP VBZ WRB PRP VBP DT NN JJ NN IN DT JJ NN EX VBZ DT JJ NN IN VBG .</POS>
+		<Lemma>the only issue I find with it be when you use the charge usb cable at the same time there be a loud noise while drive .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>A work around it to use an external charge cable -LRB- direct to lighter plug -RRB- .</Tokens>
+		<POS>DT NN IN PRP TO VB DT JJ NN NN -LRB- JJ TO JJR NN -RRB- .</POS>
+		<Lemma>a work around it to use a external charge cable -lrb- direct to lighter plug -rrb- .</Lemma>
+	</Sentence>
+</Document>

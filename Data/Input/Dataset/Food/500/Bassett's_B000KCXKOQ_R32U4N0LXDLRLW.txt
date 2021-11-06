@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My daughter had these while studying in London .</Tokens>
+		<POS>PRP$ NN VBD DT IN VBG IN NNP .</POS>
+		<Lemma>my daughter have these while study in London .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Treated her for Xmas & she said they were exactly the ones she had had while there .</Tokens>
+		<POS>VBN PRP$ IN NNP CC PRP VBD PRP VBD RB DT NNS PRP VBD VBN IN RB .</POS>
+		<Lemma>treat she for Xmas & she say they be exactly the one she have have while there .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very flavorful & fresh .</Tokens>
+		<POS>RB JJ CC JJ .</POS>
+		<Lemma>very flavorful & fresh .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The co. did a great job packing & arrived very quickly .</Tokens>
+		<POS>DT NN VBD DT JJ NN NN CC VBD RB RB .</POS>
+		<Lemma>the co. do a great job packing & arrive very quickly .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Thank you again .</Tokens>
+		<POS>VB PRP RB .</POS>
+		<Lemma>thank you again .</Lemma>
+	</Sentence>
+</Document>

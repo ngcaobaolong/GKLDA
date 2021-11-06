@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This monitor is the best monitor that i ever seen from an LED .</Tokens>
+		<POS>DT NN VBZ DT JJS NN WDT FW RB VBN IN DT NN .</POS>
+		<Lemma>this monitor be the best monitor that i ever see from a led .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Quality is perfect so i recommend it for gaming people .</Tokens>
+		<POS>NNP VBZ JJ IN FW VB PRP IN CD NNS .</POS>
+		<Lemma>Quality be perfect so i recommend it for gaming people .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Picture quality is incredible and very sharp .</Tokens>
+		<POS>NNP NN VBZ JJ CC RB JJ .</POS>
+		<Lemma>Picture quality be incredible and very sharp .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>colors look great and clean .</Tokens>
+		<POS>NNS VBP JJ CC JJ .</POS>
+		<Lemma>color look great and clean .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>JUST GET IT</Tokens>
+		<POS>RB VB PRP</POS>
+		<Lemma>just get it</Lemma>
+	</Sentence>
+</Document>

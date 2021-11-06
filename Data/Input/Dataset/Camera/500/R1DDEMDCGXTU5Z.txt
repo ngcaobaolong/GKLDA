@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this camera and only had it for one year and all of the sudden I heard this big `` POW '' and a bright red light came on and I could n't get the pictures to show anymore nor would it allow me to turn it on or off so I took the battery out to see what would happen and it went totally dead .</Tokens>
+		<POS>PRP VBD DT NN CC RB VBD PRP IN CD NN CC DT IN DT JJ PRP VBD DT JJ `` NN '' CC DT JJ JJ NN VBD IN CC PRP MD RB VB DT NNS TO VB RB CC MD PRP VB PRP TO VB PRP IN CC IN RB PRP VBD DT NN IN TO VB WP MD VB CC PRP VBD RB JJ .</POS>
+		<Lemma>I buy this camera and only have it for one year and all of the sudden I hear this big `` pow '' and a bright red light come on and I could not get the picture to show anymore nor would it allow I to turn it on or off so I take the battery out to see what would happen and it go totally dead .</Lemma>
+	</Sentence>
+</Document>

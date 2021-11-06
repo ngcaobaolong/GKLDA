@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Very good quality with a 1080p output .</Tokens>
+		<POS>RB JJ NN IN DT JJ NN .</POS>
+		<Lemma>very good quality with a 1080p output .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Lacks a HDMI but compensates with HDCP .</Tokens>
+		<POS>VBZ DT NN CC VBZ IN NN .</POS>
+		<Lemma>lack a hdmus but compensate with hdcp .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Lacks speakers , but is as slim as a macbook .</Tokens>
+		<POS>VBZ NNS , CC VBZ IN JJ IN DT NN .</POS>
+		<Lemma>lack speaker , but be as slim as a macbook .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>very good refresh rate and screen clarity .</Tokens>
+		<POS>RB JJ NN NN CC NN NN .</POS>
+		<Lemma>very good refresh rate and screen clarity .</Lemma>
+	</Sentence>
+</Document>

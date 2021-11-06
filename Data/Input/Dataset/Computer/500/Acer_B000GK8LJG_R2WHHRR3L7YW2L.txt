@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So far so good .</Tokens>
+		<POS>RB RB RB JJ .</POS>
+		<Lemma>so far so good .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am looking forward to get another for a dual monitor configuration</Tokens>
+		<POS>PRP VBP VBG RB TO VB DT IN DT JJ NN NN</POS>
+		<Lemma>I be look forward to get another for a dual monitor configuration</Lemma>
+	</Sentence>
+</Document>

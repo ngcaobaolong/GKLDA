@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This does everything it advertises to do .</Tokens>
+		<POS>DT VBZ NN PRP VBZ TO VB .</POS>
+		<Lemma>this do everything it advertise to do .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 've been using it for a month now and am very happy with it .</Tokens>
+		<POS>PRP VBP VBN VBG PRP IN DT NN RB CC VBP RB JJ IN PRP .</POS>
+		<Lemma>I have be use it for a month now and be very happy with it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I use it with my iPhone 4S and love being able to play any of my 600 songs on the radio .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NNP NN CC NN VBG JJ TO VB DT IN PRP$ CD NNS IN DT NN .</POS>
+		<Lemma>I use it with my iPhone 4 and love be able to play any of my 600 song on the radio .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would have given it 5 stars but for the sometimes background hiss I get with the fm transmitter -LRB- I believe all will do this because of the low power allowance by the FCC -RRB- .</Tokens>
+		<POS>PRP MD VB VBN PRP CD NNS CC IN DT RB NN VBP PRP VB IN DT NN NN -LRB- PRP VBP DT MD VB DT IN IN DT JJ NN NN IN DT NNP -RRB- .</POS>
+		<Lemma>I would have give it 5 star but for the sometimes background hiss I get with the fm transmitter -lrb- I believe all will do this because of the low power allowance by the FCC -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is hardly noticeable though and I would highly recommend this product to anyone that does not have an aux jack to plug in directly .</Tokens>
+		<POS>PRP VBZ RB JJ IN CC PRP MD RB VB DT NN TO NN WDT VBZ RB VB DT NN NN TO VB IN RB .</POS>
+		<Lemma>it be hardly noticeable though and I would highly recommend this product to anyone that do not have a aux jack to plug in directly .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It is very easy to set up and use and love the bluetooth with phone and charging capability .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB RP CC VB CC VB DT NN IN NN CC VBG NN .</POS>
+		<Lemma>it be very easy to set up and use and love the bluetooth with phone and charge capability .</Lemma>
+	</Sentence>
+</Document>

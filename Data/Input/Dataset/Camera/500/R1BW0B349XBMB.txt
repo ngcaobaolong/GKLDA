@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>We recently purchased the sony cybershot -LRB- September -RRB- and have had nothing but problems .</Tokens>
+		<POS>PRP RB VBD DT NN NN -LRB- NNP -RRB- CC VBP VBN NN CC NNS .</POS>
+		<Lemma>we recently purchase the sony cybershot -lrb- September -rrb- and have have nothing but problem .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Within two months of getting it the camera starting randomly turning off on its own when we were using it .</Tokens>
+		<POS>IN CD NNS IN VBG PRP DT NN VBG RB VBG RP IN PRP$ JJ WRB PRP VBD VBG PRP .</POS>
+		<Lemma>within two month of get it the camera start randomly turn off on its own when we be use it .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We had to get it serviced and then a month later the pictures were turning out white when we used the camera .</Tokens>
+		<POS>PRP VBD TO VB PRP VBN CC RB DT NN RB DT NNS VBD VBG RP JJ WRB PRP VBD DT NN .</POS>
+		<Lemma>we have to get it service and then a month later the picture be turn out white when we use the camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>We have had the camera for six months and have only been able to use it for one month out of those six .</Tokens>
+		<POS>PRP VBP VBD DT NN IN CD NNS CC VBP RB VBN JJ TO VB PRP IN CD NN IN IN DT CD .</POS>
+		<Lemma>we have have the camera for six month and have only be able to use it for one month out of those six .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I regret EVER buying this camera .</Tokens>
+		<POS>PRP VBP RB VBG DT NN .</POS>
+		<Lemma>I regret ever buy this camera .</Lemma>
+	</Sentence>
+</Document>

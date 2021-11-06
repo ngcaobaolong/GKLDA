@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Tasted like it was very old .</Tokens>
+		<POS>VBN IN PRP VBD RB JJ .</POS>
+		<Lemma>taste like it be very old .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>When I get home I will check to see if there was a `` use by date '' .</Tokens>
+		<POS>WRB PRP VBP NN PRP MD VB TO VB IN EX VBD DT `` NN IN NN '' .</POS>
+		<Lemma>when I get home I will check to see if there be a `` use by date '' .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I will return since it was a 12.5 pound bag ... or I may use as bird seed etc. .</Tokens>
+		<POS>PRP MD VB IN PRP VBD DT CD NN NN : CC PRP MD VB IN NN NN NN .</POS>
+		<Lemma>I will return since it be a 12.5 pound bag ... or I may use as bird seed etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>When I came back online to write this review , I see the message to signup when this product becomes available again .</Tokens>
+		<POS>WRB PRP VBD RB JJ TO VB DT NN , PRP VBP DT NN TO NN WRB DT NN VBZ JJ RB .</POS>
+		<Lemma>when I come back online to write this review , I see the message to signup when this product become available again .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This suggest that yes I got the last bag and it was very old .</Tokens>
+		<POS>DT VBP IN RB PRP VBD DT JJ NN CC PRP VBD RB JJ .</POS>
+		<Lemma>this suggest that yes I get the last bag and it be very old .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>UPDATE the next day ... The popcorn bag had an `` use by date '' MAY 2012 That is four months from now .</Tokens>
+		<POS>VB DT JJ NN : DT NN NN VBD DT `` NN IN NN '' NNP CD DT VBZ CD NNS IN RB .</POS>
+		<Lemma>update the next day ... the popcorn bag have a `` use by date '' MAY 2012 that be four month from now .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I 'm not sure , but I read somewhere -LRB- could be wrong here -RRB- that the window on popcorn kernels is 3 years from date of packaged .</Tokens>
+		<POS>PRP VBP RB JJ , CC PRP VBP RB -LRB- MD VB JJ RB -RRB- IN DT NN IN NN NNS VBZ CD NNS IN NN IN VBN .</POS>
+		<Lemma>I be not sure , but I read somewhere -lrb- could be wrong here -rrb- that the window on popcorn kernel be 3 year from date of package .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Feel free to correct this if you know this is incorrect .</Tokens>
+		<POS>NNP JJ TO VB DT IN PRP VBP DT VBZ JJ .</POS>
+		<Lemma>Feel free to correct this if you know this be incorrect .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Amazon will refund and emailed shipping label for return .</Tokens>
+		<POS>NNP MD VB CC VBD NN NN IN NN .</POS>
+		<Lemma>Amazon will refund and email shipping label for return .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>-LRB- Thanks Amazon -RRB-</Tokens>
+		<POS>-LRB- NNS NNP -RRB-</POS>
+		<Lemma>-lrb- thanks Amazon -rrb-</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>What 's not to like ?</Tokens>
+		<POS>WP VBZ RB TO VB .</POS>
+		<Lemma>what be not to like ?</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Delicious smokehouse almonds in the perfect size package .</Tokens>
+		<POS>NNP NN NNS IN DT JJ NN NN .</POS>
+		<Lemma>Delicious smokehouse almond in the perfect size package .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I keep them in my locker at the gym for a post workout snack .</Tokens>
+		<POS>PRP VBP PRP IN PRP$ NN IN DT NN IN DT NN NN NN .</POS>
+		<Lemma>I keep they in my locker at the gym for a post workout snack .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>They are very smokey-don ' t leave an open package in your car , like I did ... It made my car smell like cigarettes .</Tokens>
+		<POS>PRP VBP RB JJ '' NN VBP DT JJ NN IN PRP$ NN , IN PRP VBD : PRP VBD PRP$ NN NN IN NNS .</POS>
+		<Lemma>they be very smokey-don ' t leave a open package in you car , like I do ... it make my car smell like cigarette .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>However , this is unlikely to happen as it is hard to only eat part of the package as they are so good .</Tokens>
+		<POS>RB , DT VBZ JJ TO VB IN PRP VBZ JJ TO RB VB NN IN DT NN IN PRP VBP RB JJ .</POS>
+		<Lemma>however , this be unlikely to happen as it be hard to only eat part of the package as they be so good .</Lemma>
+	</Sentence>
+</Document>

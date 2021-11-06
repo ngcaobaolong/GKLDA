@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great monitor at a great price .</Tokens>
+		<POS>JJ NN IN DT JJ NN .</POS>
+		<Lemma>great monitor at a great price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great size and great quality for the price .</Tokens>
+		<POS>JJ NN CC JJ NN IN DT NN .</POS>
+		<Lemma>great size and great quality for the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Ca n't be beat .</Tokens>
+		<POS>NN RB VB VBN .</POS>
+		<Lemma>ca not be beat .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I Love it .</Tokens>
+		<POS>PRP NN PRP .</POS>
+		<Lemma>I love it .</Lemma>
+	</Sentence>
+</Document>

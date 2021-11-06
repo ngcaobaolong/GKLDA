@@ -1,0 +1,47 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you already have bluetooth in your car you do n't need this .</Tokens>
+		<POS>IN PRP RB VBP NN IN PRP$ NN PRP VBP RB VB DT .</POS>
+		<Lemma>if you already have bluetooth in you car you do not need this .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If you have a line-in on your car stereo you do n't need this .</Tokens>
+		<POS>IN PRP VBP DT NN IN PRP$ NN NN PRP VBP RB VB DT .</POS>
+		<Lemma>if you have a line-in on you car stereo you do not need this .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But otherwise , this little dude is a gem .</Tokens>
+		<POS>CC RB , DT JJ NN VBZ DT NN .</POS>
+		<Lemma>but otherwise , this little dude be a gem .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I am a big Pandora fan .</Tokens>
+		<POS>PRP VBP DT JJ NNP NN .</POS>
+		<Lemma>I be a big Pandora fan .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I have it playing on my smart phone , and now with this device I can listen to Pandora in my car .</Tokens>
+		<POS>PRP VBP PRP VBG IN PRP$ JJ NN , CC RB IN DT NN PRP MD VB TO NNP IN PRP$ NN .</POS>
+		<Lemma>I have it play on my smart phone , and now with this device I can listen to Pandora in my car .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I bluetooth to the device from my phone , it FM 's into my radio .</Tokens>
+		<POS>PRP VBP TO DT NN IN PRP$ NN , PRP NNP POS IN PRP$ NN .</POS>
+		<Lemma>I bluetooth to the device from my phone , it FM 's into my radio .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>And even with those two steps the sound is great .</Tokens>
+		<POS>CC RB IN DT CD NNS DT NN VBZ JJ .</POS>
+		<Lemma>and even with those two step the sound be great .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>It has a line-in for your mp3 player and a USB port for charging this -LRB- and other -RRB- devices .</Tokens>
+		<POS>PRP VBZ DT NN IN PRP$ NN NN CC DT JJ NN IN VBG DT -LRB- CC JJ -RRB- NNS .</POS>
+		<Lemma>it have a line-in for you mp3 player and a usb port for charge this -lrb- and other -rrb- device .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I could not be happier with this purchase .</Tokens>
+		<POS>PRP MD RB VB JJR IN DT NN .</POS>
+		<Lemma>I could not be happier with this purchase .</Lemma>
+	</Sentence>
+</Document>

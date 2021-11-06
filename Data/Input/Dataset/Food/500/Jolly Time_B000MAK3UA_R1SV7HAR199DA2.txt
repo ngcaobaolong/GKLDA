@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Oddly enough , the kids were happy to see this thrown in their bag of goodies .</Tokens>
+		<POS>RB RB , DT NNS VBD JJ TO VB DT VBN IN PRP$ NN IN NNS .</POS>
+		<Lemma>oddly enough , the kid be happy to see this throw in they bag of goody .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I always preferred reeses but , what can I say ... kids today .</Tokens>
+		<POS>PRP RB VBD NNS CC , WP MD PRP VB : NNS NN .</POS>
+		<Lemma>I always prefer reese but , what can I say ... kid today .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,292 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just purchased this camera .</Tokens>
+		<POS>PRP RB VBD DT NN .</POS>
+		<Lemma>I just purchase this camera .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It did not arrive yet .</Tokens>
+		<POS>PRP VBD RB VB RB .</POS>
+		<Lemma>it do not arrive yet .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Therefore , I will update this with a proper review later .</Tokens>
+		<POS>RB , PRP MD VB DT IN DT JJ NN RB .</POS>
+		<Lemma>therefore , I will update this with a proper review later .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>However , I would like to point out one thing .</Tokens>
+		<POS>RB , PRP MD VB TO VB RP CD NN .</POS>
+		<Lemma>however , I would like to point out one thing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>After much research , this camera has everything one may ever want in a small pocket camera , BUT ... unlike its predecessor Zx3 , this camera has a non-removable Internal Li-Ion battery .</Tokens>
+		<POS>IN JJ NN , DT NN VBZ NN CD MD RB VB IN DT JJ NN NN , NNP : IN PRP$ NN NN , DT NN VBZ DT JJ JJ NN NN .</POS>
+		<Lemma>after much research , this camera have everything one may ever want in a small pocket camera , BUT ... unlike its predecessor zx3 , this camera have a non-removable internal li-ion battery .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Therefore , you will not be able to swap out batteries in the field when one dies .</Tokens>
+		<POS>RB , PRP MD RB VB JJ TO VB RP NNS IN DT NN WRB CD VBZ .</POS>
+		<Lemma>therefore , you will not be able to swap out battery in the field when one die .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Do not buy `` Kodak Li-Ion Rechargeable Battery\/KLIC 7004 $ 17.52 '' that Amazon is pushing under `` Frequently bought together '' section .</Tokens>
+		<POS>VBP RB VB `` NNP NNP JJ NN CD $ CD '' IN NNP VBZ VBG IN `` RB VBN RB '' NN .</POS>
+		<Lemma>do not buy `` Kodak Li-Ion rechargeable battery\/klic 7004 $ 17.52 '' that Amazon be push under `` frequently buy together '' section .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>You will end up with a battery that you can not use .</Tokens>
+		<POS>PRP MD VB RP IN DT NN IN PRP MD RB VB .</POS>
+		<Lemma>you will end up with a battery that you can not use .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It is meant for Zx3 model .</Tokens>
+		<POS>PRP VBZ VBN IN NN NN .</POS>
+		<Lemma>it be mean for zx3 model .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I would give this camera 5 stars before I even had a chance to play with it , if not for the damn battery !</Tokens>
+		<POS>PRP MD VB DT NN CD NNS IN PRP RB VBD DT NN TO VB IN PRP , IN RB IN DT NN NN .</POS>
+		<Lemma>I would give this camera 5 star before I even have a chance to play with it , if not for the damn battery !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Otherwise , it has everything that Zx3 has that is a great camera still : - Waterproof up to 10 ft - Full 1080p HD - Image stabilization - Smart face tracking technology - Expandable SD\/SDHC card slot -LRB- up to 32 GB -RRB- - slow motion playback - comes with all the cables and software you need - It can shoot at 720p at 60 fps New features : - Shockproof and dustproof - Share button functionality -LRB- like on Cisco Flip -RRB- - macro mode - four options from the effects of capture : - sepia , Black white , vivid , and 1970s style One other important feature in my eyes is .</Tokens>
+		<POS>RB , PRP VBZ NN IN NN VBZ DT VBZ DT JJ NN RB : : JJ RP TO CD NN : JJ JJ NN : NN NN : NNP NN NN NN : JJ NN NN NN -LRB- RB TO CD NN -RRB- : JJ NN NN : VBZ IN DT DT NNS CC NN PRP VBP : PRP MD VB IN CD IN CD NNS JJ NNS : : JJ CC JJ : NN NN NN -LRB- IN IN NNP NNP -RRB- : NN NN : CD NNS IN DT NNS IN NN : : NN , NNP CC JJ , JJ , CC CD NN CD JJ JJ NN IN PRP$ NNS VBZ .</POS>
+		<Lemma>otherwise , it have everything that zx3 have that be a great camera still : - waterproof up to 10 ft - full 1080p hd - image stabilization - Smart face tracking technology - expandable sd\/sdhc card slot -lrb- up to 32 gb -rrb- - slow motion playback - come with all the cable and software you need - it can shoot at 720p at 60 fp new feature : - shockproof and dustproof - share button functionality -lrb- like on Cisco Flip -rrb- - macro mode - four option from the effect of capture : - sepia , Black white , vivid , and 1970s style one other important feature in my eye be .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>MP4 format instead of .</Tokens>
+		<POS>NN NN RB IN .</POS>
+		<Lemma>mp4 format instead of .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>MOV .</Tokens>
+		<POS>NN .</POS>
+		<Lemma>mov .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>MP4 format is an industry standard , therefore many more editing software options .</Tokens>
+		<POS>NN NN VBZ DT NN NN , RB JJ JJR NN NN NNS .</POS>
+		<Lemma>mp4 format be a industry standard , therefore many more editing software option .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>With MOV you are very limited !</Tokens>
+		<POS>IN NN PRP VBP RB JJ .</POS>
+		<Lemma>with mov you be very limited !</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>More to come after I receive and test my camera against my Cisco FlipUltra -LRB- Gen 3 -RRB- - - - - - - - U P D A T E - - - - - - - - - - - - ANOTHER STAR REMOVED , AND YOU WILL NOT LIKE WHAT I HAVE TO SAY .</Tokens>
+		<POS>JJR TO VB IN PRP VBP CC VBP PRP$ NN IN PRP$ NNP NNP -LRB- NN CD -RRB- : : : : : : : NNP NN NN NN NN NN : : : : : : : : : : : : NNP NN VBD , CC PRP MD RB VB WDT PRP VBP TO NNP .</POS>
+		<Lemma>more to come after I receive and test my camera against my Cisco FlipUltra -lrb- gen 3 -rrb- - - - - - - - U p d a t e - - - - - - - - - - - - ANOTHER star remove , and you will not like what I have to SAY .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>I was even thinking to remove two stars .</Tokens>
+		<POS>PRP VBD RB VBG TO VB CD NNS .</POS>
+		<Lemma>I be even think to remove two star .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>That is how disappointed I am .</Tokens>
+		<POS>DT VBZ WRB JJ PRP VBP .</POS>
+		<Lemma>that be how disappointed I be .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>So , I received my camera .</Tokens>
+		<POS>RB , PRP VBD PRP$ NN .</POS>
+		<Lemma>so , I receive my camera .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>The casing is very nice rugged .</Tokens>
+		<POS>DT NN VBZ RB JJ CC JJ .</POS>
+		<Lemma>the casing be very nice rugged .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Feels great in my hand .</Tokens>
+		<POS>VBZ JJ IN PRP$ NN .</POS>
+		<Lemma>feel great in my hand .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>Great shape and size .</Tokens>
+		<POS>JJ NN CC NN .</POS>
+		<Lemma>great shape and size .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>The setup menu is pretty easy to navigate .</Tokens>
+		<POS>DT NN NN VBZ RB JJ TO VB .</POS>
+		<Lemma>the setup menu be pretty easy to navigate .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>On camera editing is ok .</Tokens>
+		<POS>IN NN NN VBZ NN .</POS>
+		<Lemma>on camera editing be ok .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>It lets you trim your videos right on camera .</Tokens>
+		<POS>PRP VBZ PRP VB PRP$ NNS RB IN NN .</POS>
+		<Lemma>it let you trim you video right on camera .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>That is where all good things stop .</Tokens>
+		<POS>DT VBZ WRB DT JJ NNS VBP .</POS>
+		<Lemma>that be where all good thing stop .</Lemma>
+	</Sentence>
+	<Sentence id="26">
+		<Tokens>Video quality is not good .</Tokens>
+		<POS>NNP NN VBZ RB JJ .</POS>
+		<Lemma>Video quality be not good .</Lemma>
+	</Sentence>
+	<Sentence id="27">
+		<Tokens>I tested it against the Flip UltraHD , and Flip wins hands down .</Tokens>
+		<POS>PRP VBD PRP IN DT NN NN , CC NNP VBZ NNS RB .</POS>
+		<Lemma>I test it against the flip ultrahd , and Flip win hand down .</Lemma>
+	</Sentence>
+	<Sentence id="28">
+		<Tokens>Colors are horrible on the Zx5 .</Tokens>
+		<POS>NNS VBP JJ IN DT NN .</POS>
+		<Lemma>color be horrible on the zx5 .</Lemma>
+	</Sentence>
+	<Sentence id="29">
+		<Tokens>Flip 's colors are more true to life .</Tokens>
+		<POS>NN POS NNS VBP RBR JJ TO NN .</POS>
+		<Lemma>flip 's color be more true to life .</Lemma>
+	</Sentence>
+	<Sentence id="30">
+		<Tokens>Focus is one of the biggest problems .</Tokens>
+		<POS>NN VBZ CD IN DT JJS NNS .</POS>
+		<Lemma>focus be one of the biggest problem .</Lemma>
+	</Sentence>
+	<Sentence id="31">
+		<Tokens>It just does not focus well .</Tokens>
+		<POS>PRP RB VBZ RB VB RB .</POS>
+		<Lemma>it just do not focus well .</Lemma>
+	</Sentence>
+	<Sentence id="32">
+		<Tokens>When I use zoom , while it zooms it is all out of whack .</Tokens>
+		<POS>WRB PRP VBP NN , IN PRP VBZ PRP VBZ DT IN IN VB .</POS>
+		<Lemma>when I use zoom , while it zoom it be all out of whack .</Lemma>
+	</Sentence>
+	<Sentence id="33">
+		<Tokens>And , then it takes about 5 seconds to focus once zoomed in .</Tokens>
+		<POS>CC , RB PRP VBZ RB CD NNS TO VB RB VBN IN .</POS>
+		<Lemma>and , then it take about 5 seconds to focus once zoom in .</Lemma>
+	</Sentence>
+	<Sentence id="34">
+		<Tokens>Focus is even worst in the low light .</Tokens>
+		<POS>NN VBZ RB JJS IN DT JJ NN .</POS>
+		<Lemma>focus be even worst in the low light .</Lemma>
+	</Sentence>
+	<Sentence id="35">
+		<Tokens>By low light I mean , in the well lit room , but not in the sunny outside .</Tokens>
+		<POS>IN JJ NN PRP VBP , IN DT NN VBD NN , CC RB IN DT JJ NN .</POS>
+		<Lemma>by low light I mean , in the well light room , but not in the sunny outside .</Lemma>
+	</Sentence>
+	<Sentence id="36">
+		<Tokens>I could only get it to focus in the day light , and not moving the camera at all .</Tokens>
+		<POS>PRP MD RB VB PRP TO VB IN DT NN NN , CC RB VBG DT NN IN DT .</POS>
+		<Lemma>I could only get it to focus in the day light , and not move the camera at all .</Lemma>
+	</Sentence>
+	<Sentence id="37">
+		<Tokens>Colors are also bad in the low light .</Tokens>
+		<POS>NNS VBP RB JJ IN DT JJ NN .</POS>
+		<Lemma>color be also bad in the low light .</Lemma>
+	</Sentence>
+	<Sentence id="38">
+		<Tokens>Zx5 does not handle light shift well either .</Tokens>
+		<POS>NN VBZ RB VB JJ NN RB RB .</POS>
+		<Lemma>zx5 do not handle light shift well either .</Lemma>
+	</Sentence>
+	<Sentence id="39">
+		<Tokens>Stabilization does not seem to exist .</Tokens>
+		<POS>NN VBZ RB VB TO VB .</POS>
+		<Lemma>stabilization do not seem to exist .</Lemma>
+	</Sentence>
+	<Sentence id="40">
+		<Tokens>I tried to keep the camera as steady as possible , but it was still very jumpy .</Tokens>
+		<POS>PRP VBD TO VB DT NN IN JJ IN JJ , CC PRP VBD RB RB JJ .</POS>
+		<Lemma>I try to keep the camera as steady as possible , but it be still very jumpy .</Lemma>
+	</Sentence>
+	<Sentence id="41">
+		<Tokens>Further , I called my friend who has over 40 years of experience in the industry and asked him for his opinion .</Tokens>
+		<POS>RB , PRP VBD PRP$ NN WP VBZ IN CD NNS IN NN IN DT NN CC VBD PRP IN PRP$ NN .</POS>
+		<Lemma>further , I call my friend who have over 40 year of experience in the industry and ask he for he opinion .</Lemma>
+	</Sentence>
+	<Sentence id="42">
+		<Tokens>He happened to have a guy -LRB- his best friend -RRB- sitting in his living room who knows even more about it than he does .</Tokens>
+		<POS>PRP VBD TO VB DT NN -LRB- PRP$ JJS NN -RRB- VBG IN PRP$ VBG NN WP VBZ RB RBR IN PRP IN PRP VBZ .</POS>
+		<Lemma>he happen to have a guy -lrb- he best friend -rrb- sit in he live room who know even more about it than he do .</Lemma>
+	</Sentence>
+	<Sentence id="43">
+		<Tokens>The ` guy ' worked for Arcosft , Canon Video , and other respected companies as the `` brain '' behind the development .</Tokens>
+		<POS>DT `` NN '' VBD IN NNP , NNP NNP , CC JJ JJ NNS IN DT `` NN '' IN DT NN .</POS>
+		<Lemma>the ` guy ' work for Arcosft , Canon Video , and other respected company as the `` brain '' behind the development .</Lemma>
+	</Sentence>
+	<Sentence id="44">
+		<Tokens>So , I jumped in my car and drove over to my friend 's house with both cameras : Zx5 and Flip UltraHD .</Tokens>
+		<POS>RB , PRP VBD IN PRP$ NN CC VBD IN TO PRP$ NN POS NN IN CC NNS : NN CC NN NN .</POS>
+		<Lemma>so , I jump in my car and drive over to my friend 's house with both camera : zx5 and flip ultrahd .</Lemma>
+	</Sentence>
+	<Sentence id="45">
+		<Tokens>We tested the cameras side by side in several different environments .</Tokens>
+		<POS>PRP VBD DT NNS NN IN NN IN JJ JJ NNS .</POS>
+		<Lemma>we test the camera side by side in several different environment .</Lemma>
+	</Sentence>
+	<Sentence id="46">
+		<Tokens>We tried it in several editing software , and both of them concluded that Zx5 is just substandard .</Tokens>
+		<POS>PRP VBD PRP IN JJ NN NN , CC DT IN PRP VBD IN NN VBZ RB VBN .</POS>
+		<Lemma>we try it in several editing software , and both of they conclude that zx5 be just substandard .</Lemma>
+	</Sentence>
+	<Sentence id="47">
+		<Tokens>Over all , UltraHD is just a much better camera than Zx5 .</Tokens>
+		<POS>IN DT , NN VBZ RB DT RB JJR NN IN NN .</POS>
+		<Lemma>over all , ultrahd be just a much better camera than zx5 .</Lemma>
+	</Sentence>
+	<Sentence id="48">
+		<Tokens>The difference was just that stark !</Tokens>
+		<POS>DT NN VBD RB DT JJ .</POS>
+		<Lemma>the difference be just that stark !</Lemma>
+	</Sentence>
+	<Sentence id="49">
+		<Tokens>Conclusion : Cisco Flip UltraHD produces way better quality video that Kodak PlaySport Zx5 .</Tokens>
+		<POS>NN : NNP NNP NNP VBZ RB JJR NN NN WDT NNP NNP NN .</POS>
+		<Lemma>conclusion : Cisco Flip UltraHD produce way better quality video that Kodak PlaySport zx5 .</Lemma>
+	</Sentence>
+	<Sentence id="50">
+		<Tokens>It just does !</Tokens>
+		<POS>PRP RB VBZ .</POS>
+		<Lemma>it just do !</Lemma>
+	</Sentence>
+	<Sentence id="51">
+		<Tokens>I really wanted to like the PlaySport Zx5 .</Tokens>
+		<POS>PRP RB VBD TO VB DT NNP NN .</POS>
+		<Lemma>I really want to like the PlaySport zx5 .</Lemma>
+	</Sentence>
+	<Sentence id="52">
+		<Tokens>I really did .</Tokens>
+		<POS>PRP RB VBD .</POS>
+		<Lemma>I really do .</Lemma>
+	</Sentence>
+	<Sentence id="53">
+		<Tokens>It is packed with so many great features .</Tokens>
+		<POS>PRP VBZ VBN IN RB JJ JJ NNS .</POS>
+		<Lemma>it be pack with so many great feature .</Lemma>
+	</Sentence>
+	<Sentence id="54">
+		<Tokens>Waterproof , shockproof , different resolution settings , video features , etc. .</Tokens>
+		<POS>JJ , JJ , JJ NN NNS , NN NNS , FW .</POS>
+		<Lemma>waterproof , shockproof , different resolution setting , video feature , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="55">
+		<Tokens>However , the most important things that it is intended for - VIDEO - is just not acceptable .</Tokens>
+		<POS>RB , DT RBS JJ NNS IN PRP VBZ VBN IN : NN : VBZ RB RB JJ .</POS>
+		<Lemma>however , the most important thing that it be intend for - video - be just not acceptable .</Lemma>
+	</Sentence>
+	<Sentence id="56">
+		<Tokens>Unfortunately , this camera is going back !</Tokens>
+		<POS>RB , DT NN VBZ VBG RB .</POS>
+		<Lemma>unfortunately , this camera be go back !</Lemma>
+	</Sentence>
+	<Sentence id="57">
+		<Tokens>And , the Flip UltraHD stays .</Tokens>
+		<POS>CC , DT NN NN NNS .</POS>
+		<Lemma>and , the flip ultrahd stay .</Lemma>
+	</Sentence>
+</Document>

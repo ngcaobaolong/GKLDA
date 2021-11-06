@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Ordered several of these monitors for our office .</Tokens>
+		<POS>VBN JJ IN DT NNS IN PRP$ NN .</POS>
+		<Lemma>order several of these monitor for we office .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They have very nice quality at a reasonable price .</Tokens>
+		<POS>PRP VBP RB JJ NN IN DT JJ NN .</POS>
+		<Lemma>they have very nice quality at a reasonable price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We received promptly !</Tokens>
+		<POS>PRP VBD RB .</POS>
+		<Lemma>we receive promptly !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Would recommend .</Tokens>
+		<POS>MD VB .</POS>
+		<Lemma>would recommend .</Lemma>
+	</Sentence>
+</Document>

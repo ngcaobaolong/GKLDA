@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I first tried to charge my Droid Eris with some rechargeable eneloop batteries .</Tokens>
+		<POS>PRP RB VBD TO VB PRP$ NNP NNP IN DT JJ NN NNS .</POS>
+		<Lemma>I first try to charge my Droid Eris with some rechargeable eneloop battery .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does not like them I guess since the charge light would come on my phone for about a second and then turn off .</Tokens>
+		<POS>PRP VBZ RB VB PRP PRP VBP IN DT NN NN MD VB IN PRP$ NN IN IN DT JJ CC RB VB RP .</POS>
+		<Lemma>it do not like they I guess since the charge light would come on my phone for about a second and then turn off .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I then tried some regular non re-chargeables and that seemed work for a minute or so more but then it would stop charging .</Tokens>
+		<POS>PRP RB VBD DT JJ JJ NNS CC IN VBD NN IN DT NN CC RB RBR CC RB PRP MD VB VBG .</POS>
+		<Lemma>I then try some regular non re-chargeable and that seem work for a minute or so more but then it would stop charge .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The batteries and the unit got quite hot and that might be why it stopped charging ?</Tokens>
+		<POS>DT NNS CC DT NN VBD RB JJ CC IN MD VB WRB PRP VBD VBG .</POS>
+		<Lemma>the battery and the unit get quite hot and that might be why it stop charge ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Other than that it seems to work fine .</Tokens>
+		<POS>JJ IN IN PRP VBZ TO VB NN .</POS>
+		<Lemma>other than that it seem to work fine .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I did n't buy this solely for using batteries to charge things but I am kind of bummed that my re-chargeable do n't work with it .</Tokens>
+		<POS>PRP VBD RB VB DT RB IN VBG NNS TO VB NNS CC PRP VBP NN IN JJ IN PRP$ JJ VBP RB VB IN PRP .</POS>
+		<Lemma>I do not buy this solely for use battery to charge thing but I be kind of bummed that my re-chargeable do not work with it .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The door for the batteries seems quite cheap as well .</Tokens>
+		<POS>DT NN IN DT NNS VBZ RB JJ RB RB .</POS>
+		<Lemma>the door for the battery seem quite cheap as well .</Lemma>
+	</Sentence>
+</Document>

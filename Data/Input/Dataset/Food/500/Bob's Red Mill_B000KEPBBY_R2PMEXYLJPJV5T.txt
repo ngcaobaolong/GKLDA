@@ -1,0 +1,72 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This was my first time trying this product , as well as any product from Bob 's Red Mill .</Tokens>
+		<POS>DT VBD PRP$ JJ NN VBG DT NN , RB RB IN DT NN IN NNP POS NNP NNP .</POS>
+		<Lemma>this be my first time try this product , as well as any product from Bob 's Red Mill .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>After reading the reviews and information on the company , I decided to purchase this soup mix , along with the Muesli .</Tokens>
+		<POS>IN VBG DT NNS CC NN IN DT NN , PRP VBD TO VB DT NN NN , IN IN DT NNP .</POS>
+		<Lemma>after read the review and information on the company , I decide to purchase this soup mix , along with the Muesli .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Package arrived in excellent condition and 2 days earlier than expected .</Tokens>
+		<POS>NN VBD IN JJ NN CC CD NNS JJR IN VBN .</POS>
+		<Lemma>package arrive in excellent condition and 2 day earlier than expect .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I poured 1 1\/2 cups of the mix into 6 cups of salted water .</Tokens>
+		<POS>PRP VBD CD NNS IN DT NN IN CD NNS IN JJ NN .</POS>
+		<Lemma>I pour 1 1\/2 cup of the mix into 6 cup of salted water .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Added garlic salt , parsley , and pepper .</Tokens>
+		<POS>VBN JJ NN , NN , CC NN .</POS>
+		<Lemma>add garlic salt , parsley , and pepper .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Let simmer for little over an hour , while adding water when needed for a thinner sauce .</Tokens>
+		<POS>VB NN IN JJ IN DT NN , IN VBG NN WRB VBN IN DT JJR NN .</POS>
+		<Lemma>let simmer for little over a hour , while add water when need for a thinner sauce .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The soup had excellent flavor , with all the ingredients having the perfect contribution .</Tokens>
+		<POS>DT NN VBD JJ NN , IN PDT DT NNS VBG DT JJ NN .</POS>
+		<Lemma>the soup have excellent flavor , with all the ingredient have the perfect contribution .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I finished 1 mug of the soup and was satisfied .</Tokens>
+		<POS>PRP VBD CD NN IN DT NN CC VBD VBN .</POS>
+		<Lemma>I finish 1 mug of the soup and be satisfy .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>There is about 6-10 mugs of soup left , which goes straight into the fridge .</Tokens>
+		<POS>EX VBZ IN CD NNS IN NN VBD , WDT VBZ RB IN DT NN .</POS>
+		<Lemma>there be about 6-10 mug of soup leave , which go straight into the fridge .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The 1 1\/2 cups of mix I used was about 1\/5 of the bag , which is only 1 of 4 that come in the well designed box .</Tokens>
+		<POS>DT CD NNS IN NN PRP VBD VBD IN CD IN DT NN , WDT VBZ RB CD IN CD WDT VBP IN DT RB VBN NN .</POS>
+		<Lemma>the 1 1\/2 cup of mix I use be about 1\/5 of the bag , which be only 1 of 4 that come in the well design box .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The company 's values , along with the product itself , including nutrition , taste , and cost , add up to an amazing product , in my opinion .</Tokens>
+		<POS>DT NN POS NNS , IN IN DT NN PRP , VBG NN , NN , CC NN , VB RP TO DT JJ NN , IN PRP$ NN .</POS>
+		<Lemma>the company 's value , along with the product itself , include nutrition , taste , and cost , add up to a amazing product , in my opinion .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I have stored 2 bags in glass storage containers , as the dry storage life far surpasses the time the mix will spend uncooked .</Tokens>
+		<POS>PRP VBP VBN CD NNS IN NN NN NNS , IN DT JJ NN NN RB VBZ DT NN DT NN MD VB JJ .</POS>
+		<Lemma>I have store 2 bag in glass storage container , as the dry storage life far surpass the time the mix will spend uncooked .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>This is another bonus .</Tokens>
+		<POS>DT VBZ DT NN .</POS>
+		<Lemma>this be another bonus .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>A thank you to all the reviewers of this product , Amazon for carrying the product , and to the founder himself , along with the employees , for bringing this healthy , positive product into my life .</Tokens>
+		<POS>DT VB PRP TO PDT DT NNS IN DT NN , NNP IN VBG DT NN , CC TO DT NN PRP , IN IN DT NNS , IN VBG DT JJ , JJ NN IN PRP$ NN .</POS>
+		<Lemma>a thank you to all the reviewer of this product , Amazon for carry the product , and to the founder himself , along with the employee , for bring this healthy , positive product into my life .</Lemma>
+	</Sentence>
+</Document>

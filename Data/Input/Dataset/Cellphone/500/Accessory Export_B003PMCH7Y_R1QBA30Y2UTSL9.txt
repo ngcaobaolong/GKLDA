@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this item for MyTouch Slide -LRB- T-Mobile -RRB- and I have to say this is better than the charger came with the phone .</Tokens>
+		<POS>PRP VBD DT NN IN NNP NNP -LRB- NNP -RRB- CC PRP VBP TO VB DT VBZ JJR IN DT NN VBD IN DT NN .</POS>
+		<Lemma>I purchase this item for MyTouch Slide -lrb- T-Mobile -rrb- and I have to say this be better than the charger come with the phone .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It snaps and will not get lose that I have been having a problem with the original charger .</Tokens>
+		<POS>PRP VBZ CC MD RB VB VB IN PRP VBP VBN VBG DT NN IN DT JJ NN .</POS>
+		<Lemma>it snap and will not get lose that I have be have a problem with the original charger .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Very happy about the quality and especially the price .</Tokens>
+		<POS>RB JJ IN DT NN CC RB DT NN .</POS>
+		<Lemma>very happy about the quality and especially the price .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Strongly recommend this to everyone .</Tokens>
+		<POS>RB VB DT TO NN .</POS>
+		<Lemma>strongly recommend this to everyone .</Lemma>
+	</Sentence>
+</Document>

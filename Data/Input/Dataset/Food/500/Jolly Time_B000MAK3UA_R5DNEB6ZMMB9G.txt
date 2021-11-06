@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>-LRB- -LRB- ASIN : B000MAK3UA Jolly Time Healthy Pop Butter Flavor Microwave Popcorn , 100 Calorie Mini Bags , 10-Count Boxes -LRB- Pack of 6 -RRB- -RRB- This popcorn is so light , not too salty , tastes great , and the mini bags are just right for snacking .</Tokens>
+		<POS>-LRB- -LRB- NNP : NN JJ NN JJ NN NN NN NNP NNP , CD NN NNP NNP , NNP NNPS -LRB- NN IN CD -RRB- -RRB- DT NN VBZ RB JJ , RB RB JJ , NNS JJ , CC DT NNS NNS VBP RB RB IN VBG .</POS>
+		<Lemma>-lrb- -lrb- ASIN : b000mak3ua jolly time healthy pop butter flavor Microwave Popcorn , 100 calorie Mini Bags , 10-Count Boxes -lrb- pack of 6 -rrb- -rrb- this popcorn be so light , not too salty , taste great , and the minus bag be just right for snack .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My favorite snack .</Tokens>
+		<POS>PRP$ JJ NN .</POS>
+		<Lemma>my favorite snack .</Lemma>
+	</Sentence>
+</Document>

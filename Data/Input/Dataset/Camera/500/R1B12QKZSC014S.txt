@@ -1,0 +1,102 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Long and short of it : PRO : this could be a great camera , but ... CON : no viewfinder Unfortunately , I thought I was ordering one with an optical viewfinder , but found that it does n't have one .</Tokens>
+		<POS>NNP CC JJ IN PRP : FW : DT MD VB DT JJ NN , CC : NNP : DT NN RB , PRP VBD PRP VBD VBG CD IN DT JJ NN , CC VBD IN PRP VBZ RB VB CD .</POS>
+		<Lemma>Long and short of it : pro : this could be a great camera , but ... CON : no viewfinder unfortunately , I think I be order one with a optical viewfinder , but find that it do not have one .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>You must use the LCD screen .</Tokens>
+		<POS>PRP MD VB DT NNS NN .</POS>
+		<Lemma>you must use the lcd screen .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It 's very hard to take a sharp picture with the camera held in front of you rather than having it anchored against your head as you would when using a viewfinder .</Tokens>
+		<POS>PRP VBZ RB JJ TO VB DT JJ NN IN DT NN VBN IN NN IN PRP RB IN VBG PRP VBD IN PRP$ NN IN PRP MD WRB VBG DT NN .</POS>
+		<Lemma>it be very hard to take a sharp picture with the camera hold in front of you rather than have it anchor against you head as you would when use a viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It 's impossible to get a good zoomed shot like that since any shakes are magnified .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT JJ VBN NN IN DT IN DT VBZ VBP VBN .</POS>
+		<Lemma>it be impossible to get a good zoom shot like that since any shake be magnify .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Having to use the screen also eats battery life .</Tokens>
+		<POS>VBG TO VB DT NN RB VBZ NN NN .</POS>
+		<Lemma>have to use the screen also eat battery life .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>To its credit , I tried it out in the late afternoon with the sun behind me -LRB- shining directly on the screen -RRB- and was still able to see well enough to see what I was shooting , so that is n't a problem .</Tokens>
+		<POS>TO PRP$ NN , PRP VBD PRP RP IN DT JJ NN IN DT NN IN PRP -LRB- VBG RB IN DT NN -RRB- CC VBD RB JJ TO VB RB JJ TO VB WP PRP VBD VBG , RB IN VBZ RB DT NN .</POS>
+		<Lemma>to its credit , I try it out in the late afternoon with the sun behind I -lrb- shine directly on the screen -rrb- and be still able to see well enough to see what I be shoot , so that be not a problem .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It does have stabilization assistance , which works well , but not perfectly .</Tokens>
+		<POS>PRP VBZ VB NN NN , WDT VBZ RB , CC RB RB .</POS>
+		<Lemma>it do have stabilization assistance , which work well , but not perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Again , when zooming , even the stabilization ca n't save the picture .</Tokens>
+		<POS>RB , WRB VBG , RB DT NN MD RB VB DT NN .</POS>
+		<Lemma>again , when zoom , even the stabilization can not save the picture .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I did try it sitting on a stable surface and the picture was very good .</Tokens>
+		<POS>PRP VBD VB PRP VBG IN DT JJ NN CC DT NN VBD RB JJ .</POS>
+		<Lemma>I do try it sit on a stable surface and the picture be very good .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Also , the macro is pretty amazing and the other added functions are impressive .</Tokens>
+		<POS>RB , DT NN VBZ RB JJ CC DT JJ VBN NNS VBP JJ .</POS>
+		<Lemma>also , the macro be pretty amazing and the other add function be impressive .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I especially like the option of having it `` clean up '' faces , giving them an airbrushed look to smooth out blemishes and wrinkles .</Tokens>
+		<POS>PRP RB IN DT NN IN VBG PRP `` JJ RP '' VBZ , VBG PRP DT JJ NN TO VB RP NNS CC NNS .</POS>
+		<Lemma>I especially like the option of have it `` clean up '' face , give they a airbrushed look to smooth out blemish and wrinkle .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Since I only used it long enough to decide whether I 'd be satisfied with the quality of pictures being taken without a viewfinder , I ca n't comment on all the features -LRB- I returned it the next day -RRB- .</Tokens>
+		<POS>IN PRP RB VBD PRP RB RB TO VB IN PRP MD VB VBN IN DT NN IN NNS VBG VBN IN DT NN , PRP MD RB VB IN PDT DT NNS -LRB- PRP VBD PRP DT JJ NN -RRB- .</POS>
+		<Lemma>since I only use it long enough to decide whether I would be satisfy with the quality of picture be take without a viewfinder , I can not comment on all the feature -lrb- I return it the next day -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>The lack of a viewfinder is my only complaint with this camera , but it 's enough to knock the rating down -LRB- all the features in the world wo n't matter if you 're not able to take sharp pictures -RRB- .</Tokens>
+		<POS>DT NN IN DT NN VBZ PRP$ JJ NN IN DT NN , CC PRP VBZ JJ TO VB DT NN RB -LRB- PDT DT NNS IN DT NN MD RB VB IN PRP VBP RB JJ TO VB JJ NNS -RRB- .</POS>
+		<Lemma>the lack of a viewfinder be my only complaint with this camera , but it be enough to knock the rating down -lrb- all the feature in the world will not matter if you be not able to take sharp picture -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Too bad because it seemed very promising .</Tokens>
+		<POS>RB JJ IN PRP VBD RB JJ .</POS>
+		<Lemma>too bad because it seem very promising .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>In summary , if you are using a tripod -LRB- or if you have the steadiness of a robot -RRB- this is a great point and shoot and likely worth the money .</Tokens>
+		<POS>IN NN , IN PRP VBP VBG DT NN -LRB- CC IN PRP VBP DT NN IN DT NN -RRB- DT VBZ DT JJ NN CC NN CC JJ IN DT NN .</POS>
+		<Lemma>in summary , if you be use a tripod -lrb- or if you have the steadiness of a robot -rrb- this be a great point and shoot and likely worth the money .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>If you 're planning to hold it while shooting , get one with a viewfinder .</Tokens>
+		<POS>IN PRP VBP VBG TO VB PRP IN NN , VB CD IN DT NN .</POS>
+		<Lemma>if you be plan to hold it while shooting , get one with a viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>There are still a few being made with viewfinders .</Tokens>
+		<POS>EX VBP RB DT JJ VBG VBN IN NNS .</POS>
+		<Lemma>there be still a few be make with viewfinder .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>If you want to stick with Fuji , the Fuji FinePix S4000 is one of them -LRB- and it 's available here on Amazon -RRB- .</Tokens>
+		<POS>IN PRP VBP TO VB IN NNP , DT NNP NNP NNP VBZ CD IN PRP -LRB- CC PRP VBZ JJ RB IN NNP -RRB- .</POS>
+		<Lemma>if you want to stick with Fuji , the Fuji FinePix S4000 be one of they -lrb- and it be available here on Amazon -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Note to any manufacturers reading this : Why do n't you have viewfinders anymore ?</Tokens>
+		<POS>VB TO DT NNS VBG DT : WRB VBP RB PRP VBP NNS RB .</POS>
+		<Lemma>note to any manufacturer read this : why do not you have viewfinder anymore ?</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I do n't know ANYONE that prefers a camera without one !</Tokens>
+		<POS>PRP VBP RB VB NN IN VBZ DT NN IN CD .</POS>
+		<Lemma>I do not know anyone that prefer a camera without one !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>No doubt hands down this is a winner .</Tokens>
+		<POS>DT NN NNS IN DT VBZ DT NN .</POS>
+		<Lemma>no doubt hand down this be a winner .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Perfect pics easy use nice and compact .</Tokens>
+		<POS>NNP NNS JJ NN JJ CC JJ .</POS>
+		<Lemma>Perfect pic easy use nice and compact .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The fault is the bigger viewing window .</Tokens>
+		<POS>DT NN VBZ DT JJR NN NN .</POS>
+		<Lemma>the fault be the bigger viewing window .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Although it may be nice you must be careful not to put your finger prints on it when using the camera .</Tokens>
+		<POS>IN PRP MD VB JJ PRP MD VB JJ RB TO VB PRP$ NN NNS IN PRP WRB VBG DT NN .</POS>
+		<Lemma>although it may be nice you must be careful not to put you finger print on it when use the camera .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I would buy this again</Tokens>
+		<POS>PRP MD VB DT RB</POS>
+		<Lemma>I would buy this again</Lemma>
+	</Sentence>
+</Document>

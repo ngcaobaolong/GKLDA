@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I just set up my new Acer S201HL .</Tokens>
+		<POS>PRP RB VBD RP PRP$ JJ NNP NN .</POS>
+		<Lemma>I just set up my new Acer s201hl .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The display is clear and bright and I ca n't see a single problem pixel .</Tokens>
+		<POS>DT NN VBZ JJ CC JJ CC PRP MD RB VB DT JJ NN NN .</POS>
+		<Lemma>the display be clear and bright and I can not see a single problem pixel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The only issue was distorted text and images , but this was easily and thoroughly remedied by doing the following on my Windows XP system : 1 .</Tokens>
+		<POS>DT JJ NN VBD JJ NN CC NNS , CC DT VBD RB CC RB VBN IN VBG DT VBG IN PRP$ NNP NN NN : CD .</POS>
+		<Lemma>the only issue be distorted text and image , but this be easily and thoroughly remedy by do the follow on my Windows xp system : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Right click on a blank area of the desktop .</Tokens>
+		<POS>RB VB IN DT JJ NN IN DT NN .</POS>
+		<Lemma>right click on a blank area of the desktop .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Select `` Properties '' from the context menu .</Tokens>
+		<POS>NNP `` NNP '' IN DT NN NN .</POS>
+		<Lemma>Select `` Properties '' from the context menu .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Select `` Settings '' .</Tokens>
+		<POS>NNP `` NNS '' .</POS>
+		<Lemma>Select `` setting '' .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Move the `` Screen Resolution '' slider to the right until it gets to 1600 by 900 pixels .</Tokens>
+		<POS>VB DT `` NNP NNP '' NN TO DT NN IN PRP VBZ TO CD IN CD NNS .</POS>
+		<Lemma>move the `` Screen Resolution '' slider to the right until it get to 1600 by 900 pixel .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>5 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>5 .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Click `` Apply '' .</Tokens>
+		<POS>VB `` VB '' .</POS>
+		<Lemma>click `` apply '' .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>6 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>6 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>When the '' ... Retain settings ? ''</Tokens>
+		<POS>WRB DT '' : VB NNS . ''</POS>
+		<Lemma>when the '' ... retain setting ? ''</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>window appears , click `` Yes '' .</Tokens>
+		<POS>NN VBZ , VB `` UH '' .</POS>
+		<Lemma>window appear , click `` yes '' .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>7 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>7 .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Click `` OK '' to close the `` Properties '' window .</Tokens>
+		<POS>VB `` JJ '' TO VB DT `` NNP '' NN .</POS>
+		<Lemma>click `` ok '' to close the `` Properties '' window .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>You should now be looking a beautiful , crisp , undistorted desktop .</Tokens>
+		<POS>PRP MD RB VB VBG DT JJ , JJ , JJ NN .</POS>
+		<Lemma>you should now be look a beautiful , crisp , undistorted desktop .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>8 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>8 .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>Enjoy !</Tokens>
+		<POS>VB .</POS>
+		<Lemma>enjoy !</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I have n't noticed any backlighting problem , but I 've read elsewhere that this and other issues , such as color correction , can be resolved by using the monitor menu to make the necessary adjustments .</Tokens>
+		<POS>PRP VBP RB VBN DT NN NN , CC PRP VBP VBN RB IN DT CC JJ NNS , JJ IN NN NN , MD VB VBN IN VBG DT NN NN TO VB DT JJ NNS .</POS>
+		<Lemma>I have not notice any backlighting problem , but I have read elsewhere that this and other issue , such as color correction , can be resolve by use the monitor menu to make the necessary adjustment .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>By the way , this monitor tilts up to 5 degrees forward and 15 degrees back - not much variation , but it 's perfect for me at 15 degrees back .</Tokens>
+		<POS>IN DT NN , DT NN VBZ RP TO CD NNS RB CC CD NNS RB : RB JJ NN , CC PRP VBZ JJ IN PRP IN CD NNS RB .</POS>
+		<Lemma>by the way , this monitor tilt up to 5 degree forward and 15 degree back - not much variation , but it be perfect for I at 15 degree back .</Lemma>
+	</Sentence>
+</Document>

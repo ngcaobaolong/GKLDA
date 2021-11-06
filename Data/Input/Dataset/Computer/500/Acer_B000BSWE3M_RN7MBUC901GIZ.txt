@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Good quality at a great price .</Tokens>
+		<POS>JJ NN IN DT JJ NN .</POS>
+		<Lemma>good quality at a great price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Have had it for over a year and no complaints !</Tokens>
+		<POS>NNP VBD PRP IN IN DT NN CC DT NNS .</POS>
+		<Lemma>Have have it for over a year and no complaint !</Lemma>
+	</Sentence>
+</Document>

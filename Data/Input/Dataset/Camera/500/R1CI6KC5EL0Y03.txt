@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought this to replace a 4MP camera , and the difference in picture quality is immediately evident .</Tokens>
+		<POS>PRP VBD DT TO VB DT NN NN , CC DT NN IN NN NN VBZ RB JJ .</POS>
+		<Lemma>I buy this to replace a 4mp camera , and the difference in picture quality be immediately evident .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This camera takes really nice pictures !</Tokens>
+		<POS>DT NN VBZ RB JJ NNS .</POS>
+		<Lemma>this camera take really nice picture !</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>On the `` easy '' setting , it 's a very simple , very reliable point-and-shoot camera .</Tokens>
+		<POS>IN DT `` JJ '' NN , PRP VBZ DT RB JJ , RB JJ NN NN .</POS>
+		<Lemma>on the `` easy '' setting , it be a very simple , very reliable point-and-shoot camera .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The two drawbacks of this camera are the slow flash and the battery life .</Tokens>
+		<POS>DT CD NNS IN DT NN VBP DT JJ NN CC DT NN NN .</POS>
+		<Lemma>the two drawback of this camera be the slow flash and the battery life .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The flash needs to `` charge , '' which sometimes takes as long as 5-6 seconds .</Tokens>
+		<POS>DT NN VBZ TO `` VB , '' WDT RB VBZ RB JJ IN CD NNS .</POS>
+		<Lemma>the flash need to `` charge , '' which sometimes take as long as 5-6 seconds .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Try catching your kids playing with a 5 second delay -- pretty difficult !</Tokens>
+		<POS>VB VBG PRP$ NNS VBG IN DT CD JJ NN : RB JJ .</POS>
+		<Lemma>try catch you kid play with a 5 second delay -- pretty difficult !</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Also , it EATS batteries .</Tokens>
+		<POS>RB , PRP VBZ NNS .</POS>
+		<Lemma>also , it eat battery .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I have n't had a pair of AAs last longer than two sessions of about 20 pictures each and maybe a 1 minute video .</Tokens>
+		<POS>PRP VBP RB VBD DT NN IN NNP RB JJR IN CD NNS IN RB CD NNS DT CC RB DT CD NN NN .</POS>
+		<Lemma>I have not have a pair of AAs last longer than two session of about 20 picture each and maybe a 1 minute video .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I have n't tried rechargeable batteries yet , but at this rate , they 're probably worth it .</Tokens>
+		<POS>PRP VBP RB VBN JJ NNS RB , CC IN DT NN , PRP VBP RB IN PRP .</POS>
+		<Lemma>I have not try rechargeable battery yet , but at this rate , they be probably worth it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I like the camera , and I can live with the drawbacks .</Tokens>
+		<POS>PRP VBP DT NN , CC PRP MD VB IN DT NNS .</POS>
+		<Lemma>I like the camera , and I can live with the drawback .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Just be aware -- especially for the delayed pictures in low light .</Tokens>
+		<POS>RB VB JJ : RB IN DT VBN NNS IN JJ NN .</POS>
+		<Lemma>just be aware -- especially for the delay picture in low light .</Lemma>
+	</Sentence>
+</Document>

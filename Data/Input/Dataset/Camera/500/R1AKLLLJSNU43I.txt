@@ -1,0 +1,57 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Wow , although the design was cool when I saw this unit at 2011 CES and then on sale during black Friday , I have now realized this is piece of junk .</Tokens>
+		<POS>UH , IN DT NN VBD JJ WRB PRP VBD DT NN IN CD NNS CC RB IN NN IN JJ NNP , PRP VBP RB VBN DT VBZ NN IN NN .</POS>
+		<Lemma>wow , although the design be cool when I see this unit at 2011 ce and then on sale during black Friday , I have now realize this be piece of junk .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I should of known when the Casio booth reps would not show this camera to the public , only the press in small controlled blips .</Tokens>
+		<POS>PRP MD IN VBN WRB DT NNP NN NNS MD RB VB DT NN TO DT NN , RB DT NN IN JJ JJ NNS .</POS>
+		<Lemma>I should of know when the Casio booth rep would not show this camera to the public , only the press in small controlled blip .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Some screaming issues here : No flash ?</Tokens>
+		<POS>DT VBG NNS RB : DT NN .</POS>
+		<Lemma>some scream issue here : no flash ?</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>No optical zoom ?</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>no optical zoom ?</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>No removable battery ?</Tokens>
+		<POS>DT JJ NN .</POS>
+		<Lemma>no removable battery ?</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Proprietary USB connection ?</Tokens>
+		<POS>JJ JJ NN .</POS>
+		<Lemma>proprietary usb connection ?</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>-LRB- the manual even has a section to show you how to insert their connector because it was so badly designed that you might put it in the wrong way -RRB- Can not take a pictures with one hand .</Tokens>
+		<POS>-LRB- DT NN RB VBZ DT NN TO VB PRP WRB TO VB PRP$ NN IN PRP VBD RB RB VBN IN PRP MD VB PRP IN DT JJ NN -RRB- MD RB VB DT NNS IN CD NN .</POS>
+		<Lemma>-lrb- the manual even have a section to show you how to insert they connector because it be so badly design that you might put it in the wrong way -rrb- can not take a picture with one hand .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>wow , who is being put in charge of design in these companies ?</Tokens>
+		<POS>NN , WP VBZ VBG VBN IN NN IN NN IN DT NNS .</POS>
+		<Lemma>wow , who be be put in charge of design in these company ?</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I 've had the camera for 2 minutes and I 'm taking it back right now .</Tokens>
+		<POS>PRP VBP VBD DT NN IN CD NNS CC PRP VBP VBG PRP RB RB RB .</POS>
+		<Lemma>I have have the camera for 2 minute and I be take it back right now .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>2 stars for the interesting design , but usability is horrid !</Tokens>
+		<POS>CD NNS IN DT JJ NN , CC NN VBZ JJ .</POS>
+		<Lemma>2 star for the interesting design , but usability be horrid !</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>F.</Tokens>
+		<POS>NNP</POS>
+		<Lemma>F.</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 'm used to 14 '' laptop monitors and dislike the huge ones which seem to have come into vogue .</Tokens>
+		<POS>PRP VBP VBN TO CD '' NN NNS CC VBP DT JJ NNS WDT VBP TO VB VBN IN NN .</POS>
+		<Lemma>I be use to 14 '' laptop monitor and dislike the huge one which seem to have come into vogue .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They 're harder for me to concentrate on , visually annoying , and clunky , in my opinion , especially the widescreen ones .</Tokens>
+		<POS>PRP VBP RBR IN PRP TO VB IN , RB JJ , CC JJ , IN PRP$ NN , RB DT JJ NNS .</POS>
+		<Lemma>they be harder for I to concentrate on , visually annoying , and clunky , in my opinion , especially the widescreen one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Unless they 're far away , they actually give me headaches watching film clips in full-screen .</Tokens>
+		<POS>IN PRP VBP RB RB , PRP RB VBP PRP NNS VBG NN NNS IN NN .</POS>
+		<Lemma>unless they be far away , they actually give I headache watch film clip in full-screen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This monitor is none of those things .</Tokens>
+		<POS>DT NN VBZ NN IN DT NNS .</POS>
+		<Lemma>this monitor be none of those thing .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is the perfect size for residing a couple feet away from my face .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN VBG DT JJ NNS RB IN PRP$ NN .</POS>
+		<Lemma>it be the perfect size for reside a couple foot away from my face .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The pixels are clear and bright and colorful .</Tokens>
+		<POS>DT NNS VBP JJ CC JJ CC JJ .</POS>
+		<Lemma>the pixel be clear and bright and colorful .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It is comfortably full-screen .</Tokens>
+		<POS>PRP VBZ RB JJ .</POS>
+		<Lemma>it be comfortably full-screen .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I had n't expected the monitor to tilt downward slightly , which was a little awkward having been used to a laptop screen -- but it was something I got used to , and it 's fine now .</Tokens>
+		<POS>PRP VBD RB VBN DT NN TO VB JJ RB , WDT VBD DT JJ JJ VBG VBN VBN TO DT NN NN : CC PRP VBD NN PRP VBD VBN TO , CC PRP VBZ JJ RB .</POS>
+		<Lemma>I have not expect the monitor to tilt downward slightly , which be a little awkward have be use to a laptop screen -- but it be something I get use to , and it be fine now .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The settings are all pretty self-explanatory .</Tokens>
+		<POS>DT NNS VBP DT RB JJ .</POS>
+		<Lemma>the setting be all pretty self-explanatory .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>The monitor was perfect plug-and-play .</Tokens>
+		<POS>DT NN VBD JJ NN .</POS>
+		<Lemma>the monitor be perfect plug-and-play .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>It even shuts itself off to save electricity when I get distracted with something else , and more importantly , it lets me tweak the settings for that shut off .</Tokens>
+		<POS>PRP RB VBZ PRP RP TO VB NN WRB PRP VBP VBN IN NN RB , CC RBR RB , PRP VBZ PRP VB DT NNS IN DT VBN RP .</POS>
+		<Lemma>it even shut itself off to save electricity when I get distract with something else , and more importantly , it let I tweak the setting for that shut off .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Not a single dead pixel .</Tokens>
+		<POS>RB DT JJ JJ NN .</POS>
+		<Lemma>not a single dead pixel .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>It 's bright , and clear , and comfortably small , just perfect for my workspace , and perfect for me .</Tokens>
+		<POS>PRP VBZ JJ , CC JJ , CC RB JJ , RB JJ IN PRP$ NN , CC JJ IN PRP .</POS>
+		<Lemma>it be bright , and clear , and comfortably small , just perfect for my workspace , and perfect for I .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>A cable is a cable .</Tokens>
+		<POS>DT NN VBZ DT NN .</POS>
+		<Lemma>a cable be a cable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's not like you need special wire for a 2 foot data cable .</Tokens>
+		<POS>PRP VBZ RB IN PRP VBP JJ NN IN DT CD NN NNS NN .</POS>
+		<Lemma>it be not like you need special wire for a 2 foot datum cable .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Why pay $ 20 from Verizon when you can get the same quality cable for a couple of dollars .</Tokens>
+		<POS>WRB VBP $ CD IN NNP WRB PRP MD VB DT JJ NN NN IN DT NN IN NNS .</POS>
+		<Lemma>why pay $ 20 from Verizon when you can get the same quality cable for a couple of dollar .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Cable arrived quickly and worked perfectly .</Tokens>
+		<POS>NNP VBD RB CC VBD RB .</POS>
+		<Lemma>Cable arrive quickly and work perfectly .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I know where to go next time I need a specialty cable .</Tokens>
+		<POS>PRP VBP WRB TO VB JJ NN PRP VBP DT NN NN .</POS>
+		<Lemma>I know where to go next time I need a specialty cable .</Lemma>
+	</Sentence>
+</Document>

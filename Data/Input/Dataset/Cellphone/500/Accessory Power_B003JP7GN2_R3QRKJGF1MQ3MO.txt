@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It is exactly like it says .</Tokens>
+		<POS>PRP VBZ RB IN PRP VBZ .</POS>
+		<Lemma>it be exactly like it say .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Everything works .</Tokens>
+		<POS>NNP VBZ .</POS>
+		<Lemma>Everything work .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just a note on the battery functions , do n't expect the batteries to be able to charge your phone , it most likely will only provide power to it and once you disconnect it the battery will be at the same level , assuming you have a power hungry smart phone like me .</Tokens>
+		<POS>RB DT NN IN DT NN NNS , VBP RB VB DT NNS TO VB JJ TO VB PRP$ NN , PRP RBS RB MD RB VB NN TO PRP CC RB PRP VB PRP DT NN MD VB IN DT JJ NN , VBG PRP VBP DT NN JJ JJ NN IN PRP .</POS>
+		<Lemma>just a note on the battery function , do not expect the battery to be able to charge you phone , it most likely will only provide power to it and once you disconnect it the battery will be at the same level , assume you have a power hungry smart phone like I .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This battery thing is a sad point , but not the maker or sellers fault .</Tokens>
+		<POS>DT NN NN VBZ DT JJ NN , CC RB DT NN CC NNS NN .</POS>
+		<Lemma>this battery thing be a sad point , but not the maker or seller fault .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The other sad thing is it does n't seem to like to stay tightly in the car jack , about once a day , sometimes twice , sometimes not at all , I have to gently push on it so it reconnects , it does n't fall out of the jack or anything it comes out just enough to disconnect the power .</Tokens>
+		<POS>DT JJ JJ NN VBZ PRP VBZ RB VB TO VB TO VB RB IN DT NN NN , RB RB DT NN , RB RB , RB RB IN DT , PRP VBP TO RB VB IN PRP IN PRP VBZ , PRP VBZ RB VB IN IN DT NN CC NN PRP VBZ RP RB RB TO VB DT NN .</POS>
+		<Lemma>the other sad thing be it do not seem to like to stay tightly in the car jack , about once a day , sometimes twice , sometimes not at all , I have to gently push on it so it reconnect , it do not fall out of the jack or anything it come out just enough to disconnect the power .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>I absolutely love it and would recommend it to anyone looking to buy any kind of usb charger , it may be slightly bulky but it is so versatile and works great .</Tokens>
+		<POS>PRP RB VBP PRP CC MD VB PRP TO NN VBG TO VB DT NN IN NN NN , PRP MD VB RB JJ CC PRP VBZ RB JJ CC VBZ JJ .</POS>
+		<Lemma>I absolutely love it and would recommend it to anyone look to buy any kind of usb charger , it may be slightly bulky but it be so versatile and work great .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>The only test left is to see how long it lasts .</Tokens>
+		<POS>DT JJ NN NN VBZ TO VB WRB JJ PRP VBZ .</POS>
+		<Lemma>the only test left be to see how long it last .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Oh and one last thing , the cord it comes with is plenty long .</Tokens>
+		<POS>UH CC CD JJ NN , DT NN PRP VBZ IN VBZ RB RB .</POS>
+		<Lemma>oh and one last thing , the cord it come with be plenty long .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>I was worried about it being a short cord so I bought an additional cord .</Tokens>
+		<POS>PRP VBD VBN IN PRP VBG DT JJ NN IN PRP VBD DT JJ NN .</POS>
+		<Lemma>I be worry about it be a short cord so I buy a additional cord .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I am unsure of the length but it is as long as or longer than your average car charger .</Tokens>
+		<POS>PRP VBP JJ IN DT NN CC PRP VBZ RB JJ IN CC JJR IN PRP$ JJ NN NN .</POS>
+		<Lemma>I be unsure of the length but it be as long as or longer than you average car charger .</Lemma>
+	</Sentence>
+</Document>

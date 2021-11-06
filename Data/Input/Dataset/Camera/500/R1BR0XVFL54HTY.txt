@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera has such clarity in the pics it takes .</Tokens>
+		<POS>DT NN VBZ JJ NN IN DT NNS PRP VBZ .</POS>
+		<Lemma>this camera have such clarity in the pic it take .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought it for my husband who is electronic challenged , he has had no problems figuring it out .</Tokens>
+		<POS>PRP VBD PRP IN PRP$ NN WP VBZ JJ VBN , PRP VBZ VBN DT NNS VBG PRP RP .</POS>
+		<Lemma>I buy it for my husband who be electronic challenge , he have have no problem figure it out .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I will be buying me one asap .</Tokens>
+		<POS>PRP MD VB VBG PRP CD NN .</POS>
+		<Lemma>I will be buy I one asap .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have Severe Celiac Disease in it 's ADVANCED stage .</Tokens>
+		<POS>PRP VBP JJ JJ NN IN PRP VBZ JJ NN .</POS>
+		<Lemma>I have severe celiac disease in it be advanced stage .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This product has BUCKWHEAT in it !!!</Tokens>
+		<POS>DT NN VBZ NNP IN PRP IN</POS>
+		<Lemma>this product have BUCKWHEAT in it !!!</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If I ate this product I would be hospitalized for days , or even weeks !!</Tokens>
+		<POS>IN PRP VBD DT NN PRP MD VB VBN IN NNS , CC RB NNS IN</POS>
+		<Lemma>if I eat this product I would be hospitalize for day , or even week !!</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>BUCKWHEAT IS NOT GLUTEN FREE !!</Tokens>
+		<POS>NNP VBZ NNP NNP NNP IN</POS>
+		<Lemma>BUCKWHEAT be NOT GLUTEN FREE !!</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>ANY PRODUCT CONTAINING ANY TYPE OF WHEAT , WHOLE GRAINS , BUCKWHEAT , OATS OR SEMOLINA ARE ALL DANGEROUS FOR CELIAC PATIENTS !!!!</Tokens>
+		<POS>NNP NNP NNP NNP NN IN NN , JJ NNS , NNP , NNP NN NNP VBP NN JJ IN JJ NNS VBP</POS>
+		<Lemma>ANY PRODUCT CONTAINING ANY type of wheat , whole grain , BUCKWHEAT , OATS or SEMOLINA be all dangerous for celiac patient !!!!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>THEY ALL CONTAIN GLUTEN !!!!</Tokens>
+		<POS>NNP NN NNP NNP IN</POS>
+		<Lemma>THEY all CONTAIN GLUTEN !!!!</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>YOU MUST LEARN MORE ABOUT CELIAC DISEASE BEFORE YOU BUY THIS PRODUCT OR OTHER `` GLUTEN FREE '' PRODUCTS .</Tokens>
+		<POS>PRP VBP VBP JJR IN JJ NN IN PRP VBP NNS NN NN NN `` NNP NNP '' NNP .</POS>
+		<Lemma>you must learn more about celiac disease before you buy this product or other `` GLUTEN FREE '' PRODUCTS .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I DO USE THE BOB 'S RED MILLS GLUTEN FREE HOMEMADE WONDERFUL BREAD MIX AND IT IS WONDERFUL !!!</Tokens>
+		<POS>PRP VBP NN DT NN POS NNP NNP NNP NNP NNP NNP NNP NN CC PRP VBZ NNP CD</POS>
+		<Lemma>I do use the bob 's RED MILLS GLUTEN FREE HOMEMADE WONDERFUL BREAD mix and it be WONDERFUL !!!</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>CELIAC DISEASE , IF NOT TREATED WITH A PROPER DIET , WILL DEVELOP INTO INTESTINAL CANCER .</Tokens>
+		<POS>JJ NN , IN NN VBD IN DT JJ NNP , MD VB IN JJ NNP .</POS>
+		<Lemma>celiac disease , if not treat with a proper DIET , will develop into intestinal CANCER .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>THERE IS NOT A MEDICINE OR CURE FOR CELIAC DISEASE !!</Tokens>
+		<POS>NNP VBZ NNP NNP NNP NN VB IN JJ NN IN</POS>
+		<Lemma>THERE be NOT A MEDICINE or cure for celiac disease !!</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>IT IS ONLY TREATABLE BY EATING GLUTEN FREE !!</Tokens>
+		<POS>PRP VBZ NNP NNP NNP NNP NNP NNP IN</POS>
+		<Lemma>it be ONLY TREATABLE BY EATING GLUTEN FREE !!</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>I BEG YOU TO READ , STUDY AND LEARN MORE ABOUT CELIAC DISEASE BEFORE YOU PURCHASE SOME `` SO CALLED GLUTEN FREE PRODUCTS '' !!!!!</Tokens>
+		<POS>PRP VBP PRP TO NNP , NN CC VBP JJR IN JJ NN IN PRP VBP NNP `` NNP VBN NNP NNP NNP '' IN</POS>
+		<Lemma>I beg you to READ , study and learn more about celiac disease before you purchase SOME `` SO call GLUTEN FREE PRODUCTS '' !!!!!</Lemma>
+	</Sentence>
+</Document>

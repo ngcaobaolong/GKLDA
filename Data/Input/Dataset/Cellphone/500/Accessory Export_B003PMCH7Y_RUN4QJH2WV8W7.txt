@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is exactly what you would expect , great charger , low price .</Tokens>
+		<POS>DT VBZ RB WP PRP MD VB , JJ NN , JJ NN .</POS>
+		<Lemma>this be exactly what you would expect , great charger , low price .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>No reason to buy anything different .</Tokens>
+		<POS>DT NN TO VB NN JJ .</POS>
+		<Lemma>no reason to buy anything different .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I initially wanted to purchase a retractable charger , but the coil on this one is pretty compact .</Tokens>
+		<POS>PRP RB VBD TO VB DT JJ NN , CC DT NN IN DT CD VBZ RB JJ .</POS>
+		<Lemma>I initially want to purchase a retractable charger , but the coil on this one be pretty compact .</Lemma>
+	</Sentence>
+</Document>

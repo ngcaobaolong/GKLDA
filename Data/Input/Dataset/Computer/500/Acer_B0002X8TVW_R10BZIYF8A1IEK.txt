@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used this monitor for 2 years and now it shows a mixture of various colors and de-focused text .</Tokens>
+		<POS>PRP VBD DT NN IN CD NNS CC RB PRP VBZ DT NN IN JJ NNS CC JJ NN .</POS>
+		<Lemma>I use this monitor for 2 year and now it show a mixture of various color and de-focused text .</Lemma>
+	</Sentence>
+</Document>

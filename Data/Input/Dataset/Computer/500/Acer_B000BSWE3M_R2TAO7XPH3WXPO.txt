@@ -1,0 +1,62 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Acer AL1912s to replace the aging CRT that I 've been using as a second monitor for my Apple PowerBook laptop .</Tokens>
+		<POS>PRP VBD DT NNP NNPS TO VB DT NN NNP IN PRP VBP VBN VBG IN DT JJ NN IN PRP$ NNP NNP NN .</POS>
+		<Lemma>I buy the Acer AL1912s to replace the aging CRT that I have be use as a second monitor for my Apple PowerBook laptop .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I had found that my Powerbook screen was much easier on my eyes than the CRT , and expected the same from an external LCD .</Tokens>
+		<POS>PRP VBD VBN IN PRP$ NNP NN VBD RB JJR IN PRP$ NNS IN DT NNP , CC VBD DT JJ IN DT JJ NNS .</POS>
+		<Lemma>I have find that my Powerbook screen be much easier on my eye than the CRT , and expect the same from a external lcd .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Boy , did I learn a lesson .</Tokens>
+		<POS>NN , VBD PRP VBP DT NN .</POS>
+		<Lemma>boy , do I learn a lesson .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Running at its native 1280 X 1024 resolution at either 60 or 75 Mhz , the image waved left and right ; this was most noticeable when reading text , and seemed to be worst after the Powerbook was woken from sleep .</Tokens>
+		<POS>VBG IN PRP$ JJ CD NN CD NN IN CC CD CC CD NN , DT NN VBD RB CC RB : DT VBD RBS JJ WRB VBG NN , CC VBD TO VB JJS IN DT NNP VBD VBN IN NN .</POS>
+		<Lemma>run at its native 1280 x 1024 resolution at either 60 or 75 mhz , the image wave left and right ; this be most noticeable when read text , and seem to be worst after the Powerbook be wake from sleep .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I found the monitor a pain -- literally , as in I felt a stabbing pain behind my eye , especially when I turned my attention to the Powerbook but still had the Acer visible in the corner of my eye .</Tokens>
+		<POS>PRP VBD DT NN DT NN : RB , IN IN PRP VBD DT VBG NN IN PRP$ NN , RB WRB PRP VBD PRP$ NN TO DT NNP CC RB VBD DT NNP JJ IN DT NN IN PRP$ NN .</POS>
+		<Lemma>I find the monitor a pain -- literally , as in I feel a stab pain behind my eye , especially when I turn my attention to the Powerbook but still have the Acer visible in the corner of my eye .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The waving and pain went away when I shifted the monitor to a lower resolution , but then of course the image lost sharpness because there was no longer a 1-to-1 correspondence between physical LCD pixels and my Powerbook 's output pixels .</Tokens>
+		<POS>DT VBG CC NN VBD RB WRB PRP VBD DT NN TO DT JJR NN , CC RB IN NN DT NN VBD NN IN EX VBD RB RB DT JJ NN IN JJ NNS NNS CC PRP$ NNP POS NN NNS .</POS>
+		<Lemma>the wave and pain go away when I shift the monitor to a lower resolution , but then of course the image lose sharpness because there be no longer a 1-to-1 correspondence between physical lcd pixel and my Powerbook 's output pixel .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I do n't know whether this was a defect with the specific Acer LCD shipped to me , and it may have mattered that I was using this analog-only monitor with the Powerbook 's digital DVI video output and conversion cable .</Tokens>
+		<POS>PRP VBP RB VB IN DT VBD DT NN IN DT JJ NNP NNS VBN TO PRP , CC PRP MD VB VBN IN PRP VBD VBG DT JJ NN IN DT NNP POS JJ NNP NN NN CC NN NN .</POS>
+		<Lemma>I do not know whether this be a defect with the specific Acer lcd ship to I , and it may have matter that I be use this analog-only monitor with the Powerbook 's digital DVI video output and conversion cable .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Still , I would have thought Acer could build a monitor with electronics smart enough to stifle the problems I saw .</Tokens>
+		<POS>RB , PRP MD VB VBN NNP MD VB DT NN IN NNS JJ RB TO VB DT NNS PRP VBD .</POS>
+		<Lemma>still , I would have think Acer could build a monitor with electronics smart enough to stifle the problem I see .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>An LCD does n't have a cathode ray whipping back and forth across the screen , so why should it be constantly -LRB- and badly -RRB- redrawing images that are n't changing ?</Tokens>
+		<POS>DT NNS VBZ RB VB DT NN NN JJ RB CC RB IN DT NN , RB WRB MD PRP VB RB -LRB- CC RB -RRB- VBG NNS WDT VBP RB VBG .</POS>
+		<Lemma>a lcd do not have a cathode ray whipping back and forth across the screen , so why should it be constantly -lrb- and badly -rrb- redraw image that be not change ?</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I bided my time until I could buy an LCD elsewhere with DVI input and the same $ 200 price point .</Tokens>
+		<POS>PRP VBD PRP$ NN IN PRP MD VB DT NNS RB IN NNP NN CC DT JJ $ CD NN NN .</POS>
+		<Lemma>I bide my time until I could buy a lcd elsewhere with DVI input and the same $ 200 price point .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>My new LCD gives me a rock-steady , razor-sharp , and physically painless image at its full 1280 X 1024 native resolution .</Tokens>
+		<POS>PRP$ JJ NNS VBZ PRP DT JJ , JJ , CC RB JJ NN IN PRP$ JJ CD NN CD JJ NN .</POS>
+		<Lemma>my new lcd give I a rock-steady , razor-sharp , and physically painless image at its full 1280 x 1024 native resolution .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>Much better .</Tokens>
+		<POS>RB JJR .</POS>
+		<Lemma>much better .</Lemma>
+	</Sentence>
+</Document>

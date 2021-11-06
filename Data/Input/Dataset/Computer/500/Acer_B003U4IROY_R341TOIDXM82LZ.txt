@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>MY WIFE WILL START WORKING FROM HOME , SO I BOUGHT TWO OF THESE MONITORS AND SET THIS UP AS A DUAL MONITOR SYSTEM , WORKS GREAT !!!</Tokens>
+		<POS>NNP NNP MD NNP NNP NNP NNP , NNP PRP VBD CD IN NNP NNPS CC NNP VBZ RP JJ DT JJ NN NN , VBZ JJ IN</POS>
+		<Lemma>MY WIFE will START WORKING FROM HOME , SO I buy two of THESE MONITORS and SET this up as a dual monitor system , work great !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>VERY PLEASED WITH THE NEW MONTIORS .</Tokens>
+		<POS>RB JJ IN DT JJ NN .</POS>
+		<Lemma>very pleased with the new montior .</Lemma>
+	</Sentence>
+</Document>

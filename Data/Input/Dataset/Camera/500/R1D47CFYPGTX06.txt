@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Small , beautiful .</Tokens>
+		<POS>JJ , JJ .</POS>
+		<Lemma>small , beautiful .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like the pictures quality it makes .</Tokens>
+		<POS>PRP VBP DT NNS NN PRP VBZ .</POS>
+		<Lemma>I like the picture quality it make .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Night pictures are very well too .</Tokens>
+		<POS>NNP NNS VBP RB RB RB .</POS>
+		<Lemma>Night picture be very well too .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Without the flash I mean .</Tokens>
+		<POS>IN DT NN PRP VBP .</POS>
+		<Lemma>without the flash I mean .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I need to learn a little bit how to use it -LRB- diaphragm and etc. -RRB- but till now I am very satisfied .</Tokens>
+		<POS>PRP VBP TO VB DT JJ NN WRB TO VB PRP -LRB- NN CC NN -RRB- CC IN RB PRP VBP RB JJ .</POS>
+		<Lemma>I need to learn a little bit how to use it -lrb- diaphragm and etc. -rrb- but till now I be very satisfied .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The red back is awesome : -RRB-</Tokens>
+		<POS>DT JJ NN VBZ JJ : -RRB-</POS>
+		<Lemma>the red back be awesome : -rrb-</Lemma>
+	</Sentence>
+</Document>

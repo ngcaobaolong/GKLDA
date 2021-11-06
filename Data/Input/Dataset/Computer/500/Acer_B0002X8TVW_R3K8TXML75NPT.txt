@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>It replaced a 20 in tube monitor .</Tokens>
+		<POS>PRP VBD DT CD IN NN NN .</POS>
+		<Lemma>it replace a 20 in tube monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>The new Acer takes up a quarer of the space and works great .</Tokens>
+		<POS>DT JJ NNP VBZ RP DT NN IN DT NN CC VBZ JJ .</POS>
+		<Lemma>the new Acer take up a quarer of the space and work great .</Lemma>
+	</Sentence>
+</Document>

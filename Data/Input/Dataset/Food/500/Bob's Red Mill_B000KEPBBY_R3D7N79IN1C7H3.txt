@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This soup is extremely hearty and filling -LRB- with or without added ingredients -RRB- , contains a fair amount of iron , and is extremely simple to prepare .</Tokens>
+		<POS>DT NN VBZ RB JJ CC NN -LRB- IN CC IN VBN NNS -RRB- , VBZ DT JJ NN IN NN , CC VBZ RB JJ TO VB .</POS>
+		<Lemma>this soup be extremely hearty and filling -lrb- with or without add ingredient -rrb- , contain a fair amount of iron , and be extremely simple to prepare .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's also very budget-friendly - you 'll be shocked at how far you can stretch a single bag .</Tokens>
+		<POS>PRP VBZ RB RB JJ : PRP MD VB VBN IN WRB RB PRP MD VB DT JJ NN .</POS>
+		<Lemma>it be also very budget-friendly - you 'll be shock at how far you can stretch a single bag .</Lemma>
+	</Sentence>
+</Document>

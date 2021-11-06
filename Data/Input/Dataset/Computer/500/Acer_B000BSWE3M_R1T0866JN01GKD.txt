@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Acer AL1912s 19 '' LCD Monitor is very good for the price , but one drawback is that if you do n't place monitor on a steady surface the monitor tends to wobble which can be annoying but we remedied that with just placing something to the side of monitor and tower to brace it and it is stable .</Tokens>
+		<POS>NNP NNP CD '' NNS NNP VBZ RB JJ IN DT NN , CC CD NN VBZ IN IN PRP VBP RB VB NN IN DT JJ NN DT NN VBZ TO VB WDT MD VB JJ CC PRP VBD IN IN RB VBG NN TO DT NN IN NN CC NN TO VB PRP CC PRP VBZ JJ .</POS>
+		<Lemma>Acer AL1912s 19 '' lcd Monitor be very good for the price , but one drawback be that if you do not place monitor on a steady surface the monitor tend to wobble which can be annoying but we remedy that with just place something to the side of monitor and tower to brace it and it be stable .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Monitor seems a little fuzzy at certain angles though which I believe is due to the antiglare and higher resolution than some monitors .</Tokens>
+		<POS>NNP VBZ DT JJ JJ IN JJ NNS IN WDT PRP VBP VBZ JJ TO DT NN CC JJR NN IN DT NNS .</POS>
+		<Lemma>Monitor seem a little fuzzy at certain angle though which I believe be due to the antiglare and higher resolution than some monitor .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We did own a couple of Acer monitors earlier and have been extremely happy with the service from them both ; both have outlived there normal life expectancy even though they were both CRT monitors and this new Acer is LCD , if you are in the market for a good monitor for a small price then this is the one to have .</Tokens>
+		<POS>PRP VBD VB DT NN IN NNP NNS JJR CC VBP VBN RB JJ IN DT NN IN PRP DT : DT VBP VBN EX JJ NN NN RB IN PRP VBD DT NNP NNS CC DT JJ NNP VBZ NNS , IN PRP VBP IN DT NN IN DT JJ NN IN DT JJ NN RB DT VBZ DT CD TO VB .</POS>
+		<Lemma>we do own a couple of Acer monitor earlier and have be extremely happy with the service from they both ; both have outlive there normal life expectancy even though they be both CRT monitor and this new Acer be lcd , if you be in the market for a good monitor for a small price then this be the one to have .</Lemma>
+	</Sentence>
+</Document>

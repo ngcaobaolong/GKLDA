@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased this item on a special deal of the day from amazon .</Tokens>
+		<POS>PRP VBD DT NN IN DT JJ NN IN DT NN IN NN .</POS>
+		<Lemma>I purchase this item on a special deal of the day from amazon .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Overall a good product for the price .</Tokens>
+		<POS>RB DT JJ NN IN DT NN .</POS>
+		<Lemma>overall a good product for the price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is very light and compact so it is easy to carry around .</Tokens>
+		<POS>PRP VBZ RB JJ CC JJ IN PRP VBZ JJ TO VB RP .</POS>
+		<Lemma>it be very light and compact so it be easy to carry around .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I still havent used all the features but it is very user friendly .</Tokens>
+		<POS>PRP RB VBP VBN DT DT NNS CC PRP VBZ RB NN JJ .</POS>
+		<Lemma>I still havent use all the feature but it be very user friendly .</Lemma>
+	</Sentence>
+</Document>

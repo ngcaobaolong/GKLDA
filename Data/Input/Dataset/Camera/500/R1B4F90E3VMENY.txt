@@ -1,0 +1,122 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was very excited to give this guy a shot .</Tokens>
+		<POS>PRP VBD RB VBN TO VB DT NN DT NN .</POS>
+		<Lemma>I be very excite to give this guy a shot .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It 's very attractive , feels well constructed , and Sony is usually very trustworthy .</Tokens>
+		<POS>PRP VBZ RB JJ , VBZ RB VBN , CC NNP VBZ RB RB JJ .</POS>
+		<Lemma>it be very attractive , feel well construct , and Sony be usually very trustworthy .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But this is not a good product .</Tokens>
+		<POS>CC DT VBZ RB DT JJ NN .</POS>
+		<Lemma>but this be not a good product .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The good news is that the camcorder feature , which might be the thing you consider most important , is decent .</Tokens>
+		<POS>DT JJ NN VBZ IN DT NN NN , WDT MD VB DT NN PRP VBP RBS JJ , VBZ JJ .</POS>
+		<Lemma>the good news be that the camcorder feature , which might be the thing you consider most important , be decent .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>The sound quality is n't great , but it 's fine .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ , CC PRP VBZ JJ .</POS>
+		<Lemma>the sound quality be not great , but it be fine .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>The videos are certainly YouTube\/blog quality .</Tokens>
+		<POS>DT NNS VBP RB JJ NN .</POS>
+		<Lemma>the video be certainly youtube\/blog quality .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If that 's all you 're looking for , you can probably do better , but maybe not at this price point .</Tokens>
+		<POS>IN DT VBZ DT PRP VBP VBG IN , PRP MD RB VB JJR , CC RB RB IN DT NN NN .</POS>
+		<Lemma>if that be all you be look for , you can probably do better , but maybe not at this price point .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Also good : outdoor photo quality .</Tokens>
+		<POS>RB JJ : JJ JJ NN .</POS>
+		<Lemma>also good : outdoor photo quality .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>My still photos taken outside -LRB- on a sunny day , FYI -RRB- came out great .</Tokens>
+		<POS>PRP$ RB NNS VBN JJ -LRB- IN DT JJ NN , NN -RRB- VBD RP JJ .</POS>
+		<Lemma>my still photo take outside -lrb- on a sunny day , fyus -rrb- come out great .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>Now , the bad news .</Tokens>
+		<POS>RB , DT JJ NN .</POS>
+		<Lemma>now , the bad news .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>The indoor photo quality is terrible .</Tokens>
+		<POS>DT JJ NN NN VBZ JJ .</POS>
+		<Lemma>the indoor photo quality be terrible .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>The pictures are grainy , the colors are washed out and bleed , you can see pixels everywhere .</Tokens>
+		<POS>DT NNS VBP JJ , DT NNS VBP VBN RP CC VB , PRP MD VB NNS RB .</POS>
+		<Lemma>the picture be grainy , the color be wash out and bleed , you can see pixel everywhere .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>Just terrible .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>just terrible .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>My phone takes art-quality photos by comparison .</Tokens>
+		<POS>PRP$ NN VBZ JJ NNS IN NN .</POS>
+		<Lemma>my phone take art-quality photo by comparison .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>If you ever want to use this to take a picture inside a building -LRB- like your house -RRB- , just forget about it .</Tokens>
+		<POS>IN PRP RB VBP TO VB DT TO VB DT NN IN DT NN -LRB- IN PRP$ NN -RRB- , RB VB IN PRP .</POS>
+		<Lemma>if you ever want to use this to take a picture inside a building -lrb- like you house -rrb- , just forget about it .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>Truly terrible photos .</Tokens>
+		<POS>RB JJ NNS .</POS>
+		<Lemma>truly terrible photo .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>On top of that , the software has all kinds of problems interacting with Windows Vista and Windows 7 .</Tokens>
+		<POS>IN NN IN DT , DT NN VBZ DT NNS IN NNS VBG IN NNP NNP CC NNP CD .</POS>
+		<Lemma>on top of that , the software have all kind of problem interact with Windows Vista and Windows 7 .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>If you do n't choose `` Run as administrator '' when you install it , it will install halfway , then ask if you want an update , and when you say yes it will tell you that you do n't have permission .</Tokens>
+		<POS>IN PRP VBP RB VB `` NNP IN NN '' WRB PRP VBP PRP , PRP MD VB RB , RB VB IN PRP VBP DT VBP , CC WRB PRP VBP UH PRP MD VB PRP IN PRP VBP RB VB NN .</POS>
+		<Lemma>if you do not choose `` Run as administrator '' when you install it , it will install halfway , then ask if you want a update , and when you say yes it will tell you that you do not have permission .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>At this point , the installer stops working and can not be fixed until you restart your computer and start all over .</Tokens>
+		<POS>IN DT NN , DT NN VBZ VBG CC MD RB VB VBN IN PRP VBP PRP$ NN CC VB DT IN .</POS>
+		<Lemma>at this point , the installer stop work and can not be fix until you restart you computer and start all over .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>It 's amazing that a company like Sony could put out such an awful piece of software .</Tokens>
+		<POS>PRP VBZ JJ IN DT NN IN NNP MD VB RP PDT DT JJ NN IN NN .</POS>
+		<Lemma>it be amazing that a company like Sony could put out such a awful piece of software .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I 'm sure there are people for whom this product fills some kind of need .</Tokens>
+		<POS>PRP VBP JJ EX VBP NNS IN WP DT NN VBZ DT NN IN NN .</POS>
+		<Lemma>I be sure there be people for whom this product fill some kind of need .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>I ca n't imagine who they are .</Tokens>
+		<POS>PRP MD RB VB WP PRP VBP .</POS>
+		<Lemma>I can not imagine who they be .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>It 's just not a good product .</Tokens>
+		<POS>PRP VBZ RB RB DT JJ NN .</POS>
+		<Lemma>it be just not a good product .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>And it 's not worth the headaches .</Tokens>
+		<POS>CC PRP VBZ RB JJ DT NNS .</POS>
+		<Lemma>and it be not worth the headache .</Lemma>
+	</Sentence>
+</Document>

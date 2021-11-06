@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought the Acer monitor about 6 weeks ago and it has been performing very well .</Tokens>
+		<POS>PRP VBD DT NNP NN IN CD NNS RB CC PRP VBZ VBN VBG RB RB .</POS>
+		<Lemma>I buy the Acer monitor about 6 week ago and it have be perform very well .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I needed to make adjustments to the color and brightness settings initially but once that was done it has been fine .</Tokens>
+		<POS>PRP VBD TO VB NNS TO DT NN CC NN NNS RB CC RB DT VBD VBN PRP VBZ VBN JJ .</POS>
+		<Lemma>I need to make adjustment to the color and brightness setting initially but once that be do it have be fine .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I do n't exactly love the Acer logo coming up each time I turn it on together with the energy efficient symbol , both of which just waste my time .</Tokens>
+		<POS>PRP VBP RB RB VB DT NNP NN VBG RP DT NN PRP VBP PRP IN RB IN DT NN JJ NN , DT IN WDT RB VB PRP$ NN .</POS>
+		<Lemma>I do not exactly love the Acer logo come up each time I turn it on together with the energy efficient symbol , both of which just waste my time .</Lemma>
+	</Sentence>
+</Document>

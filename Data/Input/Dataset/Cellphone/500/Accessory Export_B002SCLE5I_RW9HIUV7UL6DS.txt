@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>after reading all the review , I was hoping this was going to solve my problem , but nooooo !</Tokens>
+		<POS>IN VBG PDT DT NN , PRP VBD VBG DT VBD VBG TO VB PRP$ NN , CC RB .</POS>
+		<Lemma>after read all the review , I be hope this be go to solve my problem , but nooooo !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I read the instruction and follow it to the T. And still the same result , no extra bar .</Tokens>
+		<POS>PRP VBP DT NN CC VB PRP TO DT NNP CC RB DT JJ NN , DT JJ NN .</POS>
+		<Lemma>I read the instruction and follow it to the T. and still the same result , no extra bar .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>what did I expect for less than $ 3.00 a miracle .</Tokens>
+		<POS>WP VBD PRP VBP IN JJR IN $ CD DT NN .</POS>
+		<Lemma>what do I expect for less than $ 3.00 a miracle .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>all it was a sticker you put on your phone which nobody see anyway and expect it to work .</Tokens>
+		<POS>DT PRP VBD DT NN PRP VBP IN PRP$ NN WDT NN VBP RB CC VB PRP TO VB .</POS>
+		<Lemma>all it be a sticker you put on you phone which nobody see anyway and expect it to work .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Yeah Right !!!</Tokens>
+		<POS>UH RB CD</POS>
+		<Lemma>yeah right !!!</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>its all in your mind if you believe it works .</Tokens>
+		<POS>PRP$ DT IN PRP$ NN IN PRP VBP PRP VBZ .</POS>
+		<Lemma>its all in you mind if you believe it work .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>If you can pass up a cup of coffee at starbucks for a day take a chance and try it for yourself and see if it works or you just got sucker .</Tokens>
+		<POS>IN PRP MD VB RP DT NN IN NN IN NNS IN DT NN VB DT NN CC VB PRP IN PRP CC VB IN PRP VBZ CC PRP RB VBD NN .</POS>
+		<Lemma>if you can pass up a cup of coffee at starbuck for a day take a chance and try it for yourself and see if it work or you just get sucker .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I was putting snack packs together as gifts .</Tokens>
+		<POS>PRP VBD VBG NN NNS RB IN NNS .</POS>
+		<Lemma>I be put snack pack together as gift .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>These were the right size and price .</Tokens>
+		<POS>DT VBD DT JJ NN CC NN .</POS>
+		<Lemma>these be the right size and price .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I think they turned out nicely .</Tokens>
+		<POS>PRP VBP PRP VBD RP RB .</POS>
+		<Lemma>I think they turn out nicely .</Lemma>
+	</Sentence>
+</Document>

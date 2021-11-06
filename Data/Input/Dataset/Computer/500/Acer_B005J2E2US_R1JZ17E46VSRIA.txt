@@ -1,0 +1,132 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I 've used Macs all my life .</Tokens>
+		<POS>PRP VBP VBN NNPS DT PRP$ NN .</POS>
+		<Lemma>I have use Macs all my life .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>However , I 've lost a lot of faith in their laptop line , since every Mac I 've owned since they made the switch to OSX has died shortly after end of warranty .</Tokens>
+		<POS>RB , PRP VBP VBN DT NN IN NN IN PRP$ NN NN , IN DT NN PRP VBP VBN IN PRP VBD DT NN TO NNP VBZ VBN RB IN NN IN NN .</POS>
+		<Lemma>however , I have lose a lot of faith in they laptop line , since every mac I have own since they make the switch to OSX have die shortly after end of warranty .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>And watch out if you do n't buy Apple 's extended warranty , since some expensive problem seems to always rear its head conveniently after the 1-year included warranty expires !</Tokens>
+		<POS>CC VB RP IN PRP VBP RB VB NNP POS JJ NN , IN DT JJ NN VBZ TO RB JJ PRP$ NN RB IN DT JJ VBN NN VBZ .</POS>
+		<Lemma>and watch out if you do not buy Apple 's extended warranty , since some expensive problem seem to always rear its head conveniently after the 1-year include warranty expire !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>With this decline in quality , I just could n't justify shelling out $ 1200 for a MacBook Air & extended warranty .</Tokens>
+		<POS>IN DT NN IN NN , PRP RB MD RB VB VBG IN $ CD IN DT NNP NNP CC VBN NN .</POS>
+		<Lemma>with this decline in quality , I just could not justify shell out $ 1200 for a MacBook Air & extend warranty .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>So , I pocketed $ 900 in savings and bought the Acer Aspire One .</Tokens>
+		<POS>RB , PRP VBD $ CD IN NNS CC VBD DT NNP NNP CD .</POS>
+		<Lemma>so , I pocket $ 900 in savings and buy the Acer Aspire one .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Out of the box , this netbook was a breeze to set-up and get online .</Tokens>
+		<POS>IN IN DT NN , DT NN VBD DT NN TO NN CC VB JJ .</POS>
+		<Lemma>out of the box , this netbook be a breeze to set-up and get online .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>It plays Youtube without a hitch , and no extra plug-ins were needed .</Tokens>
+		<POS>PRP VBZ NNP IN DT NN , CC DT JJ NNS VBD VBN .</POS>
+		<Lemma>it play Youtube without a hitch , and no extra plug-in be need .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I fired up Skype and video-chat worked great ; the only limitation was my internet 's speed .</Tokens>
+		<POS>PRP VBD RP NNP CC JJ VBD JJ : DT JJ NN VBD PRP$ NN POS NN .</POS>
+		<Lemma>I fire up Skype and video-chat work great ; the only limitation be my internet 's speed .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>The netbook 's camera did `` reset '' twice during the call , which caused a temporary loss in quality .</Tokens>
+		<POS>DT NN POS NN VBD `` VB '' RB IN DT NN , WDT VBD DT JJ NN IN NN .</POS>
+		<Lemma>the netbook 's camera do `` reset '' twice during the call , which cause a temporary loss in quality .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>A quick operating system note : Windows 7 has that `` gummy '' Apple feeling to it , so I was n't too scared about the switch .</Tokens>
+		<POS>DT JJ NN NN NN : NNP CD VBZ IN `` NN '' NNP VBG TO PRP , IN PRP VBD RB RB JJ IN DT NN .</POS>
+		<Lemma>a quick operating system note : Windows 7 have that `` gummy '' Apple feel to it , so I be not too scared about the switch .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>I 'm getting used to Windows ' propensity for random pop-up notifications , but I 'm sure I can keep those to a minimum once I fine-tune the bloatware that came with this laptop .</Tokens>
+		<POS>PRP VBP VBG VBN TO NNP POS NN IN JJ JJ NNS , CC PRP VBP JJ PRP MD VB DT TO DT NN RB PRP VBP DT NN WDT VBD IN DT NN .</POS>
+		<Lemma>I be get use to Windows ' propensity for random pop-up notification , but I be sure I can keep those to a minimum once I fine-tune the bloatware that come with this laptop .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>EDIT : After using the netbook for a couple weeks , I 'm ready to give a more thorough review of things I do not like .</Tokens>
+		<POS>NNP : IN VBG DT NN IN DT NN NNS , PRP VBP JJ TO VB DT RBR JJ NN IN NNS PRP VBP RB VB .</POS>
+		<Lemma>EDIT : after use the netbook for a couple week , I be ready to give a more thorough review of thing I do not like .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>I 'm leaving my first impression review below for comparison .</Tokens>
+		<POS>PRP VBP VBG PRP$ JJ NN NN IN IN NN .</POS>
+		<Lemma>I be leave my first impression review below for comparison .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>After some usage , here 's what I do n't like : - There 's only one speaker on the left-hand side & it does n't get very loud at all - There 's some bit of hardware so close to the microphone that my voice in videochat\/Skype turns `` robotic '' when I plug in the netbook to charge ... my videochat partner had a hard time not laughing at me and asked me to say robotic sounding things .</Tokens>
+		<POS>IN DT NN , RB POS WP PRP VBP RB VB : : EX VBZ RB CD NN IN DT JJ NN CC PRP VBZ RB VB RB JJ IN DT : EX VBZ DT NN IN NN RB RB TO DT NN WDT PRP$ NN IN NN VBZ `` JJ '' WRB PRP VBP IN DT NN TO VB : PRP$ NN NN VBD DT JJ NN RB VBG IN PRP CC VBD PRP TO VB JJ VBG NNS .</POS>
+		<Lemma>after some usage , here 's what I do not like : - there be only one speaker on the left-hand side & it do not get very loud at all - there be some bit of hardware so close to the microphone that my voice in videochat\/skype turn `` robotic '' when I plug in the netbook to charge ... my videochat partner have a hard time not laugh at I and ask I to say robotic sound thing .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>So be prepared with a fully charged battery if you want to voice chat with people .</Tokens>
+		<POS>RB VB VBN IN DT RB VBN NN IN PRP VBP TO VB NN IN NNS .</POS>
+		<Lemma>so be prepare with a fully charge battery if you want to voice chat with people .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>- Netflix seems to play alright for about a minute , and then freezes up really terribly .</Tokens>
+		<POS>: NNP VBZ TO VB JJ IN IN DT NN , CC RB VBZ RP RB RB .</POS>
+		<Lemma>- Netflix seem to play alright for about a minute , and then freeze up really terribly .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>Per the advice of a response comment to this post , I switched from HQ play to normal -LRB- there 's a little HQ button at the bottom of the Netflix movie window -RRB- and it streamed fine after that .</Tokens>
+		<POS>IN DT NN IN DT NN NN TO DT NN , PRP VBD IN NNS VBP TO JJ -LRB- EX VBZ DT JJ NN NN IN DT NN IN DT NNP NN NN -RRB- CC PRP VBD NN IN DT .</POS>
+		<Lemma>per the advice of a response comment to this post , I switch from hq play to normal -lrb- there be a little hq button at the bottom of the Netflix movie window -rrb- and it stream fine after that .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>Original review : First impression is that this zippy little netbook was a great choice for breaking away from the Apple line .</Tokens>
+		<POS>JJ NN : NNP NN VBZ IN DT JJ JJ NN VBD DT JJ NN IN VBG RB IN DT NNP NN .</POS>
+		<Lemma>original review : First impression be that this zippy little netbook be a great choice for break away from the Apple line .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>All I really need is something that will play movies and surf the internet , and the Acer Aspire One seems to handle those duties just fine .</Tokens>
+		<POS>DT PRP RB VBP VBZ NN WDT MD VB NNS CC NN DT NN , CC DT NNP NNP CD VBZ TO VB DT NNS RB JJ .</POS>
+		<Lemma>all I really need be something that will play movie and surf the internet , and the Acer Aspire one seem to handle those duty just fine .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I might eventually upgrade to 4GB RAM because it 's just so cheap , but honestly I see no reason to do so thus far .</Tokens>
+		<POS>PRP MD RB VB TO NN NNP IN PRP VBZ RB RB JJ , CC RB PRP VBP DT NN TO VB RB RB RB .</POS>
+		<Lemma>I might eventually upgrade to 4gb RAM because it be just so cheap , but honestly I see no reason to do so thus far .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>I 'm knocking off a star because of all the unwanted bundled software -LRB- take a hike , McAfee ! -RRB-</Tokens>
+		<POS>PRP VBP VBG RP DT NN IN IN PDT DT JJ VBN NN -LRB- VB DT NN , NNP . -RRB-</POS>
+		<Lemma>I be knock off a star because of all the unwanted bundle software -lrb- take a hike , McAfee ! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>, the camera resetting twice during my Skype call , and the laptop 's cover is a magnet for fingerprint smudges .</Tokens>
+		<POS>, DT NN VBG RB IN PRP$ NNP NN , CC DT NN POS NN VBZ DT NN IN NN NNS .</POS>
+		<Lemma>, the camera reset twice during my Skype call , and the laptop 's cover be a magnet for fingerprint smudge .</Lemma>
+	</Sentence>
+	<Sentence id="22">
+		<Tokens>Those are the only cons I can find .</Tokens>
+		<POS>DT VBP DT JJ NNS PRP MD VB .</POS>
+		<Lemma>those be the only con I can find .</Lemma>
+	</Sentence>
+	<Sentence id="23">
+		<Tokens>As a casual internet junky , I 'm more than satisfied .</Tokens>
+		<POS>IN DT JJ NN NN , PRP VBP JJR IN JJ .</POS>
+		<Lemma>as a casual internet junky , I be more than satisfied .</Lemma>
+	</Sentence>
+	<Sentence id="24">
+		<Tokens>Maybe I 'll take some of that $ 900 in savings and buy some Apple stock .</Tokens>
+		<POS>RB PRP MD VB DT IN DT $ CD IN NNS CC VB DT NNP NN .</POS>
+		<Lemma>maybe I 'll take some of that $ 900 in savings and buy some Apple stock .</Lemma>
+	</Sentence>
+	<Sentence id="25">
+		<Tokens>Seems like a better investment to me !</Tokens>
+		<POS>VBZ IN DT JJR NN TO PRP .</POS>
+		<Lemma>seem like a better investment to I !</Lemma>
+	</Sentence>
+</Document>

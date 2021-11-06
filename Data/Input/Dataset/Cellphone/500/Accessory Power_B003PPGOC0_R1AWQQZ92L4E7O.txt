@@ -1,0 +1,42 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I currently own the motorola T505 , and used the motorola Roadster ... believe me , they both got nothing on the Gogroove !</Tokens>
+		<POS>PRP RB VBP DT NN NN , CC VBD DT NNP NNP : VB PRP , PRP DT VBD NN IN DT NNP .</POS>
+		<Lemma>I currently own the motorolum t505 , and use the motorola Roadster ... believe I , they both get nothing on the Gogroove !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I have an iPhone 4 , and pairing was flawless .</Tokens>
+		<POS>PRP VBP DT NNP CD , CC NN VBD JJ .</POS>
+		<Lemma>I have a iPhone 4 , and pairing be flawless .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I then attempted to play music off Pandora , and the quality was unbelievable , and also off the iPod .</Tokens>
+		<POS>PRP RB VBD TO VB NN IN NNP , CC DT NN VBD JJ , CC RB IN DT NN .</POS>
+		<Lemma>I then attempt to play music off Pandora , and the quality be unbelievable , and also off the ipod .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Then , I made an outgoing call ... the receiver had a no clue I was using a handsfree device .</Tokens>
+		<POS>RB , PRP VBD DT JJ NN : DT NN VBD DT DT NN PRP VBD VBG DT NN NN .</POS>
+		<Lemma>then , I make a outgoing call ... the receiver have a no clue I be use a handsfree device .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I then asked if he can hear me very well , and he said VERY WELL !</Tokens>
+		<POS>PRP RB VBD IN PRP MD VB PRP RB RB , CC PRP VBD RB RB .</POS>
+		<Lemma>I then ask if he can hear I very well , and he say very well !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Also , u ca n't hear any background noises .</Tokens>
+		<POS>RB , NN MD RB VB DT NN NNS .</POS>
+		<Lemma>also , u can not hear any background noise .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I have to agree that this product is by far the BEST product for the price .</Tokens>
+		<POS>PRP VBP TO VB IN DT NN VBZ IN RB DT NNP NN IN DT NN .</POS>
+		<Lemma>I have to agree that this product be by far the BEST product for the price .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>Highly recommended !!</Tokens>
+		<POS>RB VBN IN</POS>
+		<Lemma>highly recommend !!</Lemma>
+	</Sentence>
+</Document>

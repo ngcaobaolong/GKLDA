@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I love this monitor .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this monitor .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great color display , sharp picture , and just the right size for my desk .</Tokens>
+		<POS>JJ NN NN , JJ NN , CC RB DT JJ NN IN PRP$ NN .</POS>
+		<Lemma>great color display , sharp picture , and just the right size for my desk .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Fits perfectly in the corner of my small desk !!</Tokens>
+		<POS>VBZ RB IN DT NN IN PRP$ JJ NN IN</POS>
+		<Lemma>fit perfectly in the corner of my small desk !!</Lemma>
+	</Sentence>
+</Document>

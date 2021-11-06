@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I purchased two of these and the connection on both seemed like I needed to use a bit more pressure the first time and it does n't seat as well as the original but it works fine - both charge and connect just fine .</Tokens>
+		<POS>PRP VBD CD IN DT CC DT NN IN DT VBD IN PRP VBD TO VB DT NN RBR VB DT JJ NN CC PRP VBZ RB NN RB RB IN DT JJ CC PRP VBZ NN : CC NN CC VB RB JJ .</POS>
+		<Lemma>I purchase two of these and the connection on both seem like I need to use a bit more pressure the first time and it do not seat as well as the original but it work fine - both charge and connect just fine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I am not sure why the other reviewers are having problems .</Tokens>
+		<POS>PRP VBP RB JJ WRB DT JJ NNS VBP VBG NNS .</POS>
+		<Lemma>I be not sure why the other reviewer be have problem .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Certainly hard to beat the price .</Tokens>
+		<POS>RB JJ TO VB DT NN .</POS>
+		<Lemma>certainly hard to beat the price .</Lemma>
+	</Sentence>
+</Document>

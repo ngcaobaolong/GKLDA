@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Got this for my wife for her B-Day and she loves it .</Tokens>
+		<POS>NNP DT IN PRP$ NN IN PRP$ NN CC PRP VBZ PRP .</POS>
+		<Lemma>Got this for my wife for she b-day and she love it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Works like it said it would , great for android phones .</Tokens>
+		<POS>NNP IN PRP VBD PRP MD , JJ IN NN NNS .</POS>
+		<Lemma>Works like it say it would , great for android phone .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I like that it auto links to the bluetooth when you get in the car .</Tokens>
+		<POS>PRP VBP IN PRP NN NNS TO DT NN WRB PRP VBP IN DT NN .</POS>
+		<Lemma>I like that it auto link to the bluetooth when you get in the car .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>very neat .</Tokens>
+		<POS>RB JJ .</POS>
+		<Lemma>very neat .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This product is great !</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this product be great !</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My husband used it and gets great reception .</Tokens>
+		<POS>PRP$ NN VBD PRP CC VBZ JJ NN .</POS>
+		<Lemma>my husband use it and get great reception .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Our area has a low reception .</Tokens>
+		<POS>PRP$ NN VBZ DT JJ NN .</POS>
+		<Lemma>we area have a low reception .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>we just bought more for our family members .</Tokens>
+		<POS>PRP RB VBD RBR IN PRP$ NN NNS .</POS>
+		<Lemma>we just buy more for we family member .</Lemma>
+	</Sentence>
+</Document>

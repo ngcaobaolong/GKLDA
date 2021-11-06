@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>So far I love everything about this camera , it auto adjusts to dark light , it takes great underwater pictures , the panorama is a really cool feature , I have no complaints at all !!!</Tokens>
+		<POS>RB RB PRP VBP NN IN DT NN , PRP NN VBZ TO JJ NN , PRP VBZ JJ JJ NNS , DT NN VBZ DT RB JJ NN , PRP VBP DT NNS IN DT CD</POS>
+		<Lemma>so far I love everything about this camera , it auto adjust to dark light , it take great underwater picture , the panorama be a really cool feature , I have no complaint at all !!!</Lemma>
+	</Sentence>
+</Document>

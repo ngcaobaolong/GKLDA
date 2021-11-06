@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>so i bought this for my smart phone -LRB- android -RRB- thinking it would work even a little bit but its worth less its just a sticker that makes ur phone sticky and doesnt improve signal strength at all .</Tokens>
+		<POS>RB FW VBD DT IN PRP$ JJ NN -LRB- NN -RRB- VBG PRP MD VB RB DT JJ NN CC PRP$ JJ JJR PRP$ RB DT NN WDT VBZ NN NN JJ CC JJ VB NN NN IN DT .</POS>
+		<Lemma>so i buy this for my smart phone -lrb- android -rrb- think it would work even a little bit but its worth less its just a sticker that make ur phone sticky and doesnt improve signal strength at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>DONT WASTE ur MONEY !!!!!</Tokens>
+		<POS>NNP NNP NN NN CD</POS>
+		<Lemma>DONT WASTE ur money !!!!!</Lemma>
+	</Sentence>
+</Document>

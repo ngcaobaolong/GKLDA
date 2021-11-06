@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I bought 3 of these to use as raffle prizes at school .</Tokens>
+		<POS>PRP VBD CD IN DT TO VB IN NN NNS IN NN .</POS>
+		<Lemma>I buy 3 of these to use as raffle prize at school .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>2 were fine , 1 would n't charge at all .</Tokens>
+		<POS>CD VBD JJ , CD MD RB VB IN DT .</POS>
+		<Lemma>2 be fine , 1 would not charge at all .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Not a great prize for the kid who won it .</Tokens>
+		<POS>RB DT JJ NN IN DT NN WP VBD PRP .</POS>
+		<Lemma>not a great prize for the kid who win it .</Lemma>
+	</Sentence>
+</Document>

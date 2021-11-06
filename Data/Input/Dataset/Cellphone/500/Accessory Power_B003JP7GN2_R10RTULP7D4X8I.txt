@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This device works well for charging and is very portable and versatile .</Tokens>
+		<POS>DT NN VBZ RB IN VBG CC VBZ RB JJ CC JJ .</POS>
+		<Lemma>this device work well for charge and be very portable and versatile .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>My wife and I love them .</Tokens>
+		<POS>PRP$ NN CC PRP VBP PRP .</POS>
+		<Lemma>my wife and I love they .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>It is a full amp -LRB- 1000ma -RRB- and it is pretty darn fast but I would really LOVE it if it were 2 amps !</Tokens>
+		<POS>PRP VBZ DT JJ NN -LRB- NN -RRB- CC PRP VBZ RB JJ JJ CC PRP MD RB VB PRP IN PRP VBD CD NNS .</POS>
+		<Lemma>it be a full amp -lrb- 1000ma -rrb- and it be pretty darn fast but I would really love it if it be 2 amp !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>-LRB- 2000ma -RRB- .</Tokens>
+		<POS>-LRB- NN -RRB- .</POS>
+		<Lemma>-lrb- 2000ma -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I am also a bit concerned about the build quality .</Tokens>
+		<POS>PRP VBP RB DT NN JJ IN DT VBP NN .</POS>
+		<Lemma>I be also a bit concerned about the build quality .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>So far so good but I worry a bit about the plastic cover and hinge mechanism for teh auto lighter plug .</Tokens>
+		<POS>RB RB RB JJ CC PRP VBP DT NN IN DT NN NN CC NN NN IN JJ NN JJR NN .</POS>
+		<Lemma>so far so good but I worry a bit about the plastic cover and hinge mechanism for teh auto lighter plug .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Again , works great so far .</Tokens>
+		<POS>RB , VBZ JJ RB RB .</POS>
+		<Lemma>again , work great so far .</Lemma>
+	</Sentence>
+</Document>

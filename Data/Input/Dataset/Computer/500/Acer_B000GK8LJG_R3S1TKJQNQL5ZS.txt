@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am very happy with the Acer 19-inch flat screen monitor which I received for Christmas .</Tokens>
+		<POS>PRP VBP RB JJ IN DT NNP JJ JJ NN NN WDT PRP VBD IN NNP .</POS>
+		<Lemma>I be very happy with the Acer 19-inch flat screen monitor which I receive for Christmas .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Things are much more distinct , and I do n't have to strain my eyes and squint when I am trying to read something on the screen -LRB- like I had to do with my clunky old monitor -RRB- .</Tokens>
+		<POS>NNS VBP RB RBR JJ , CC PRP VBP RB VB TO VB PRP$ NNS CC VB WRB PRP VBP VBG TO VB NN IN DT NN -LRB- IN PRP VBD TO VB IN PRP$ JJ JJ NN -RRB- .</POS>
+		<Lemma>thing be much more distinct , and I do not have to strain my eye and squint when I be try to read something on the screen -lrb- like I have to do with my clunky old monitor -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>AND ... there is now much more room on the top of my desk for me to spread out my work when I am online or pursuing any of my many and varied journalistic endeavors .</Tokens>
+		<POS>CC : EX VBZ RB RB JJR NN IN DT NN IN PRP$ NN IN PRP TO VB RP PRP$ NN WRB PRP VBP NN CC VBG DT IN PRP$ JJ CC VBD JJ NNS .</POS>
+		<Lemma>and ... there be now much more room on the top of my desk for I to spread out my work when I be online or pursue any of my many and vary journalistic endeavor .</Lemma>
+	</Sentence>
+</Document>

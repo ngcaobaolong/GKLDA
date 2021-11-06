@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Smart mode allows the camera has good shots and acceptable quality for photos , in addition to this varierdad has more advanced features that are of little use from my point of view but are of great use to certain times .</Tokens>
+		<POS>NNP NN VBZ DT NN VBZ JJ NNS CC JJ NN IN NNS , IN NN TO DT NN VBZ JJR JJ NNS WDT VBP IN JJ NN IN PRP$ NN IN NN CC VBP IN JJ NN TO JJ NNS .</POS>
+		<Lemma>Smart mode allow the camera have good shot and acceptable quality for photo , in addition to this varierdad have more advanced feature that be of little use from my point of view but be of great use to certain time .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It seems a great price for the number of features with the camera .</Tokens>
+		<POS>PRP VBZ DT JJ NN IN DT NN IN NNS IN DT NN .</POS>
+		<Lemma>it seem a great price for the number of feature with the camera .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>against The HD videos are not a very good image quality ... Your sharing settings</Tokens>
+		<POS>IN DT NN NNS VBP RB DT RB JJ NN NN : PRP$ NN NNS</POS>
+		<Lemma>against the hd video be not a very good image quality ... you sharing setting</Lemma>
+	</Sentence>
+</Document>

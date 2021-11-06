@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Does not work in high rated bread machine .</Tokens>
+		<POS>VBZ RB VB IN JJ VBN NN NN .</POS>
+		<Lemma>do not work in high rate bread machine .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Dogs wanted canned food on top to eat it .</Tokens>
+		<POS>NNS VBD VBN NN IN JJ TO VB PRP .</POS>
+		<Lemma>dog want can food on top to eat it .</Lemma>
+	</Sentence>
+</Document>

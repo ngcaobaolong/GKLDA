@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>At the beginning I was excited for this product but it does n't work at all .</Tokens>
+		<POS>IN DT NN PRP VBD VBN IN DT NN CC PRP VBZ RB VB IN DT .</POS>
+		<Lemma>at the beginning I be excite for this product but it do not work at all .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>do n't waste your money on these stickers .</Tokens>
+		<POS>VBP RB VB PRP$ NN IN DT NNS .</POS>
+		<Lemma>do not waste you money on these sticker .</Lemma>
+	</Sentence>
+</Document>

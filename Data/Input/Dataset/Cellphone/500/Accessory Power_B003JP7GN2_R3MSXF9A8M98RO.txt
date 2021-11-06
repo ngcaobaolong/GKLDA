@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Bought it for the emergency kit , but have n't used it yet .</Tokens>
+		<POS>VBN PRP IN DT NN NN , CC VBP RB VBN PRP RB .</POS>
+		<Lemma>buy it for the emergency kit , but have not use it yet .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Looks like it will work well for multiple devices .</Tokens>
+		<POS>VBZ IN PRP MD VB RB IN JJ NNS .</POS>
+		<Lemma>look like it will work well for multiple device .</Lemma>
+	</Sentence>
+</Document>

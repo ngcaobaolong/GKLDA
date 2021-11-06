@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is great for taking quick shots of pictures and\/or video , especially with one hand .</Tokens>
+		<POS>DT VBZ JJ IN VBG JJ NNS IN NNS CC NN , RB IN CD NN .</POS>
+		<Lemma>this be great for take quick shot of picture and\/or video , especially with one hand .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Quality of pictures\/video is pretty good .</Tokens>
+		<POS>NNP IN NN VBZ RB JJ .</POS>
+		<Lemma>Quality of pictures\/video be pretty good .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Actually I love this device !</Tokens>
+		<POS>RB PRP VBP DT NN .</POS>
+		<Lemma>actually I love this device !</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The only drawback is it makes a loud click when taking pictures .</Tokens>
+		<POS>DT JJ NN VBZ PRP VBZ DT JJ VBP WRB VBG NNS .</POS>
+		<Lemma>the only drawback be it make a loud click when take picture .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This did n't seem like a big deal at first but became extremely bothersome .</Tokens>
+		<POS>DT VBD RB VB IN DT JJ NN IN JJ CC VBD RB JJ .</POS>
+		<Lemma>this do not seem like a big deal at first but become extremely bothersome .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Everyone looks after they hear the click and that 's too much attention for me and the camera .</Tokens>
+		<POS>NN VBZ IN PRP VBP DT VB CC DT VBZ RB JJ NN IN PRP CC DT NN .</POS>
+		<Lemma>everyone look after they hear the click and that be too much attention for I and the camera .</Lemma>
+	</Sentence>
+</Document>

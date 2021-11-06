@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When it works its fine but I have gone through two monitors now both with defective switches .</Tokens>
+		<POS>WRB PRP VBZ PRP$ NN CC PRP VBP VBN IN CD NNS RB DT IN JJ NNS .</POS>
+		<Lemma>when it work its fine but I have go through two monitor now both with defective switch .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Acer says they will replace it if I ship it back but that costs $ 50.00 .</Tokens>
+		<POS>NNP VBZ PRP MD VB PRP IN PRP VBP PRP RB CC DT VBZ $ CD .</POS>
+		<Lemma>Acer say they will replace it if I ship it back but that cost $ 50.00 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I now have a Samsung which is great .</Tokens>
+		<POS>PRP RB VBP DT NNP WDT VBZ JJ .</POS>
+		<Lemma>I now have a Samsung which be great .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,77 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I got this product yesterday ... !!!</Tokens>
+		<POS>PRP VBD DT NN NN : CD</POS>
+		<Lemma>I get this product yesterday ... !!!</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This netbook is very light but still powerful .</Tokens>
+		<POS>DT NN VBZ RB JJ CC RB JJ .</POS>
+		<Lemma>this netbook be very light but still powerful .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Screen brightness is really good .</Tokens>
+		<POS>NN NN VBZ RB JJ .</POS>
+		<Lemma>screen brightness be really good .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Sound is also nice as compared to its size .</Tokens>
+		<POS>NN VBZ RB JJ IN VBN TO PRP$ NN .</POS>
+		<Lemma>sound be also nice as compare to its size .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>This netbook is closer to the notebook powers but still very cheap .</Tokens>
+		<POS>DT NN VBZ JJR TO DT NN NNS CC RB RB JJ .</POS>
+		<Lemma>this netbook be closer to the notebook power but still very cheap .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>!!!</Tokens>
+		<POS>IN</POS>
+		<Lemma>!!!</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>I was planning to buy a kindle fire on amazon but just got this little thing packed with 320 GB HD , Win 7 Home Premium , webcam , office starter etc etc. .</Tokens>
+		<POS>PRP VBD VBG TO VB DT NN NN IN NN CC RB VBD DT JJ NN VBN IN CD NN NN , VB CD NNP NNP , NN , NN JJ FW FW .</POS>
+		<Lemma>I be plan to buy a kindle fire on amazon but just get this little thing pack with 320 gb hd , win 7 Home Premium , webcam , office starter etc etc. .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Then I decided to invest few more bucks and went for this netbook .</Tokens>
+		<POS>RB PRP VBD TO VB JJ RBR NNS CC VBD IN DT NN .</POS>
+		<Lemma>then I decide to invest few more buck and go for this netbook .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>I do n't know why people buy expensive gadgets like ipad2 3G ... very satisfied and I think I made very good decision .</Tokens>
+		<POS>PRP VBP RB VB WRB NNS VBP JJ NNS IN NN NN : RB JJ CC PRP VBP PRP VBN RB JJ NN .</POS>
+		<Lemma>I do not know why people buy expensive gadget like ipad2 3g ... very satisfied and I think I make very good decision .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Pros : Competitive Cost Win 7 Home premium HDMI port -LRB- I could watch the Amazon instant videos on my HDTV and its delivering great .</Tokens>
+		<POS>NNS : JJ NN NN CD NNP NN NNP NN -LRB- PRP MD VB DT NNP NN NNS IN PRP$ NN CC PRP$ VBG JJ .</POS>
+		<Lemma>pro : competitive cost win 7 Home premium HDMI port -lrb- I could watch the Amazon instant video on my hdtv and its deliver great .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>.</Tokens>
+		<POS>.</POS>
+		<Lemma>.</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>!!! -RRB-</Tokens>
+		<POS>NN -RRB-</POS>
+		<Lemma>!!! -rrb-</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>Office Starter Web Cam is also fairly good Light in weight and elegant Cons : I wo n't say anything bad as you are just paying 280 for this net book .</Tokens>
+		<POS>NNP NNP NN NNP VBZ RB RB JJ NN IN NN CC JJ NNS : PRP MD RB VB NN JJ IN PRP VBP RB VBG CD IN DT JJ NN .</POS>
+		<Lemma>Office Starter web Cam be also fairly good light in weight and elegant con : I will not say anything bad as you be just pay 280 for this net book .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>I would imagine the cost will go upto 200 bucks one day and then it will be unbeatable deal .</Tokens>
+		<POS>PRP MD VB DT NN MD VB NN CD NNS CD NN CC RB PRP MD VB JJ NN .</POS>
+		<Lemma>I would imagine the cost will go upto 200 buck one day and then it will be unbeatable deal .</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After I received my order I installed this product like it says in the instructions .</Tokens>
+		<POS>IN PRP VBD PRP$ NN PRP VBD DT NN IN PRP VBZ IN DT NNS .</POS>
+		<Lemma>after I receive my order I install this product like it say in the instruction .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I 'm getting a extra bar with my boost mobile phone and at & t phone is getting full service now .</Tokens>
+		<POS>PRP VBP VBG DT JJ NN IN PRP$ NN JJ NN CC IN CC NN NN VBZ VBG JJ NN RB .</POS>
+		<Lemma>I be get a extra bar with my boost mobile phone and at & t phone be get full service now .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Product does work .</Tokens>
+		<POS>NN VBZ VB .</POS>
+		<Lemma>product do work .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend this product for anyone who wants another bar of service .</Tokens>
+		<POS>PRP MD VB DT NN IN NN WP VBZ DT NN IN NN .</POS>
+		<Lemma>I would recommend this product for anyone who want another bar of service .</Lemma>
+	</Sentence>
+</Document>

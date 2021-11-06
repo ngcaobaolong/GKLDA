@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I am not an expert at monitor technology .</Tokens>
+		<POS>PRP VBP RB DT NN IN NN NN .</POS>
+		<Lemma>I be not a expert at monitor technology .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I know this was not the most expensive offering so I did not expect it to be the most clear and concise picture I have ever viewed .</Tokens>
+		<POS>PRP VBP DT VBD RB DT RBS JJ NN IN PRP VBD RB VB PRP TO VB DT RBS JJ CC JJ NN PRP VBP RB VBN .</POS>
+		<Lemma>I know this be not the most expensive offering so I do not expect it to be the most clear and concise picture I have ever view .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Still , it is very clear and I am quite pleased having moved up from a 17 '' CRT screen .</Tokens>
+		<POS>RB , PRP VBZ RB JJ CC PRP VBP RB JJ VBG VBN RB IN DT CD '' NNP NN .</POS>
+		<Lemma>still , it be very clear and I be quite pleased have move up from a 17 '' CRT screen .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>I would recommend this product .</Tokens>
+		<POS>PRP MD VB DT NN .</POS>
+		<Lemma>I would recommend this product .</Lemma>
+	</Sentence>
+</Document>

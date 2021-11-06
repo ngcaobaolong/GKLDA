@@ -1,0 +1,112 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>My daughter and her husband have been using the Flip for the past month to take videos of their new daughter .</Tokens>
+		<POS>PRP$ NN CC PRP$ NN VBP VBN VBG DT NN IN DT JJ NN TO VB NNS IN PRP$ JJ NN .</POS>
+		<Lemma>my daughter and she husband have be use the flip for the past month to take video of they new daughter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I bought it at Costco , which has a 90 day return policy , after reading various negative reviews .</Tokens>
+		<POS>PRP VBD PRP IN NNP , WDT VBZ DT CD NN NN NN , IN VBG JJ JJ NNS .</POS>
+		<Lemma>I buy it at Costco , which have a 90 day return policy , after read various negative review .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>But this camera will not be going back because it works great .</Tokens>
+		<POS>CC DT NN MD RB VB VBG RB IN PRP VBZ JJ .</POS>
+		<Lemma>but this camera will not be go back because it work great .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Here is what makes it so handy : 1 .</Tokens>
+		<POS>RB VBZ WP VBZ PRP RB JJ : CD .</POS>
+		<Lemma>here be what make it so handy : 1 .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>It is highly portable ; it easily fits in a shirt pocket or purse .</Tokens>
+		<POS>PRP VBZ RB JJ : PRP RB VBZ IN DT NN NN CC NN .</POS>
+		<Lemma>it be highly portable ; it easily fit in a shirt pocket or purse .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>That means you can always easily have it with you to capture those special moments .</Tokens>
+		<POS>DT VBZ PRP MD RB RB VB PRP IN PRP TO VB DT JJ NNS .</POS>
+		<Lemma>that mean you can always easily have it with you to capture those special moment .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>2 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>2 .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>There is no complex manual to read and learn .</Tokens>
+		<POS>EX VBZ DT NN NN TO VB CC VB .</POS>
+		<Lemma>there be no complex manual to read and learn .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>In fact the camera is so simple and intuitive that you can use it without reading even the simple instructions that come with it .</Tokens>
+		<POS>IN NN DT NN VBZ RB JJ CC JJ IN PRP MD VB PRP IN VBG RB DT JJ NNS WDT VBP IN PRP .</POS>
+		<Lemma>in fact the camera be so simple and intuitive that you can use it without read even the simple instruction that come with it .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>3 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>3 .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>Picture quality is very high .</Tokens>
+		<POS>NNP NN VBZ RB JJ .</POS>
+		<Lemma>Picture quality be very high .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>My daughter has posted various videos on You Tube to share with family members and they look great .</Tokens>
+		<POS>PRP$ NN VBZ VBN JJ NNS IN PRP NNP TO VB IN NN NNS CC PRP VBP JJ .</POS>
+		<Lemma>my daughter have post various video on you Tube to share with family member and they look great .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>4 .</Tokens>
+		<POS>LS .</POS>
+		<Lemma>4 .</Lemma>
+	</Sentence>
+	<Sentence id="13">
+		<Tokens>The automatic white balance and image stabilization features work great .</Tokens>
+		<POS>DT JJ JJ NN CC NN NN VBZ NN JJ .</POS>
+		<Lemma>the automatic white balance and image stabilization feature work great .</Lemma>
+	</Sentence>
+	<Sentence id="14">
+		<Tokens>The videos are not `` shaky '' , and even indoors in low light and artificial light conditions -LRB- fluorescent , incandescent -RRB- the colors look true and are not grainy .</Tokens>
+		<POS>DT NNS VBP RB `` JJ '' , CC RB RB IN JJ NN CC JJ JJ NNS -LRB- JJ , JJ -RRB- DT NNS VBP JJ CC VBP RB JJ .</POS>
+		<Lemma>the video be not `` shaky '' , and even indoors in low light and artificial light condition -lrb- fluorescent , incandescent -rrb- the color look true and be not grainy .</Lemma>
+	</Sentence>
+	<Sentence id="15">
+		<Tokens>5 .</Tokens>
+		<POS>CD .</POS>
+		<Lemma>5 .</Lemma>
+	</Sentence>
+	<Sentence id="16">
+		<Tokens>If you own a Mac , just plug the Flip in after you are done shooting and the videos will automatically upload to iPhoto .</Tokens>
+		<POS>IN PRP VBP DT NNP , RB VB DT NN IN IN PRP VBP VBN NN CC DT NNS MD RB NN TO NNP .</POS>
+		<Lemma>if you own a Mac , just plug the flip in after you be do shooting and the video will automatically upload to iPhoto .</Lemma>
+	</Sentence>
+	<Sentence id="17">
+		<Tokens>No software required .</Tokens>
+		<POS>DT NN VBN .</POS>
+		<Lemma>no software require .</Lemma>
+	</Sentence>
+	<Sentence id="18">
+		<Tokens>Although there are video cameras with more features , for new parents who already have their hands full doing lots of different things , the Flip is a nice simple camera that is great for capturing all the special moments of a new family member .</Tokens>
+		<POS>IN EX VBP JJ NNS IN JJR NNS , IN JJ NNS WP RB VBP PRP$ NNS JJ VBG NNS IN JJ NNS , DT NN VBZ DT JJ JJ NN WDT VBZ JJ IN VBG PDT DT JJ NNS IN DT JJ NN NN .</POS>
+		<Lemma>although there be video camera with more feature , for new parent who already have they hand full do lot of different thing , the flip be a nice simple camera that be great for capture all the special moment of a new family member .</Lemma>
+	</Sentence>
+	<Sentence id="19">
+		<Tokens>I recommend it .</Tokens>
+		<POS>PRP VBP PRP .</POS>
+		<Lemma>I recommend it .</Lemma>
+	</Sentence>
+	<Sentence id="20">
+		<Tokens>Update April 5 , 2012 : Once everyone in the family bought the iPhone 4S , we stopped using this video camera .</Tokens>
+		<POS>NNP NNP CD , CD : RB NN IN DT NN VBD DT NNP NN , PRP VBD VBG DT NN NN .</POS>
+		<Lemma>Update April 5 , 2012 : once everyone in the family buy the iPhone 4 , we stop use this video camera .</Lemma>
+	</Sentence>
+	<Sentence id="21">
+		<Tokens>The videos on the iPhone are just as good .</Tokens>
+		<POS>DT NNS IN DT NNP VBP RB RB JJ .</POS>
+		<Lemma>the video on the iPhone be just as good .</Lemma>
+	</Sentence>
+</Document>

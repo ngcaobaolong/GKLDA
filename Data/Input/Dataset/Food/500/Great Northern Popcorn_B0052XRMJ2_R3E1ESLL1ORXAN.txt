@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This is undoubtedly the best popping corn I have come across .</Tokens>
+		<POS>DT VBZ RB DT JJS VBG NN PRP VBP VBN RP .</POS>
+		<Lemma>this be undoubtedly the best pop corn I have come across .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I like the large size , fluffy texture , and yellow tint of the popped kernels .</Tokens>
+		<POS>PRP VBP DT JJ NN , JJ NN , CC JJ NN IN DT VBN NNS .</POS>
+		<Lemma>I like the large size , fluffy texture , and yellow tint of the pop kernel .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>There are relatively few ` duds ' left in the bottom of the pot after each batch .</Tokens>
+		<POS>EX VBP RB JJ `` NNS POS VBN IN DT NN IN DT NN IN DT NN .</POS>
+		<Lemma>there be relatively few ` dud ' leave in the bottom of the pot after each batch .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>It is nice to have a source for an organically grown popping corn , too .</Tokens>
+		<POS>PRP VBZ JJ TO VB DT NN IN DT RB VBN VBG NN , RB .</POS>
+		<Lemma>it be nice to have a source for a organically grow pop corn , too .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Keep it coming !</Tokens>
+		<POS>VB PRP VBG .</POS>
+		<Lemma>keep it come !</Lemma>
+	</Sentence>
+</Document>

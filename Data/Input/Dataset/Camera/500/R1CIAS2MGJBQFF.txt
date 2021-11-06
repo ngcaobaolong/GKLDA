@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens> I only took this video with a bowl of water when i got it .</Tokens>
+		<POS>NN NN NN : : CD NNS VBP PRP RB VBD DT NN IN DT NN IN NN WRB FW VBD PRP .</POS>
+		<Lemma> I only take this video with a bowl of water when i get it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>If i can remember ill update this with some underwater video in the bay where i live .</Tokens>
+		<POS>IN FW MD VB JJ VBP DT IN DT JJ NN IN DT NN WRB FW VB .</POS>
+		<Lemma>if i can remember ill update this with some underwater video in the bay where i live .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The video quality seems pretty nice for 30 bucks and i submerged it for about 10 minutes prior to the video creation to be sure it could handle more than 10-15 seconds underwater .</Tokens>
+		<POS>DT JJ NN VBZ RB JJ IN CD NNS CC FW VBN PRP IN IN CD NNS RB TO DT NN NN TO VB JJ PRP MD VB JJR IN CD NNS JJ .</POS>
+		<Lemma>the video quality seem pretty nice for 30 buck and i submerge it for about 10 minute prior to the video creation to be sure it could handle more than 10-15 seconds underwater .</Lemma>
+	</Sentence>
+</Document>

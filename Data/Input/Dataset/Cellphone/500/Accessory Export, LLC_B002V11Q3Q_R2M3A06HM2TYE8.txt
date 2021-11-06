@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>The usb cable has LG written on the cord .</Tokens>
+		<POS>DT NN NN VBZ NNP VBN IN DT NN .</POS>
+		<Lemma>the usb cable have LG write on the cord .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>But it works great especially for a few bucks and no shipping .</Tokens>
+		<POS>CC PRP VBZ JJ RB IN DT JJ NNS CC DT NN .</POS>
+		<Lemma>but it work great especially for a few buck and no shipping .</Lemma>
+	</Sentence>
+</Document>

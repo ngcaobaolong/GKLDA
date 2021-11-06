@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I used the new camera for about a week until the lense got stuck open , rendering the camera useless .</Tokens>
+		<POS>PRP VBD DT JJ NN IN IN DT NN IN DT NN VBD VBN JJ , VBG DT NN JJ .</POS>
+		<Lemma>I use the new camera for about a week until the lense get stick open , render the camera useless .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I will be returning it .</Tokens>
+		<POS>PRP MD VB VBG PRP .</POS>
+		<Lemma>I will be return it .</Lemma>
+	</Sentence>
+</Document>

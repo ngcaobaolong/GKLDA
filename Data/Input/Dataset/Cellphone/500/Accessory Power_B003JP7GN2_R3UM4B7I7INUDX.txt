@@ -1,0 +1,32 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Months ago , I purchased one of these for my aged mother -LRB- who routinely finds herself with an uncharged phone and no charger in her car -RRB- .</Tokens>
+		<POS>NNS RB , PRP VBD CD IN DT IN PRP$ JJ NN -LRB- WP RB VBZ PRP IN DT JJ NN CC DT NN IN PRP$ NN -RRB- .</POS>
+		<Lemma>month ago , I purchase one of these for my aged mother -lrb- who routinely find herself with a uncharged phone and no charger in she car -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I tested it before I gave it to her , and it has worked for her since .</Tokens>
+		<POS>PRP VBD PRP IN PRP VBD PRP TO PRP , CC PRP VBZ VBN IN PRP$ IN .</POS>
+		<Lemma>I test it before I give it to she , and it have work for she since .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Just recently , I ordered another one for my own use , and keep it -LRB- along with the DC Charger and a 9v battery -RRB- in a wee case in my vehicle .</Tokens>
+		<POS>RB RB , PRP VBD DT CD IN PRP$ JJ NN , CC VB PRP -LRB- IN IN DT NN NN CC DT NN NN -RRB- IN DT NN NN IN PRP$ NN .</POS>
+		<Lemma>just recently , I order another one for my own use , and keep it -lrb- along with the dc charger and a 9v battery -rrb- in a wee case in my vehicle .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>As with the previous unit , I tested the new one with both the AC Charger and a 9v battery .</Tokens>
+		<POS>IN IN DT JJ NN , PRP VBD DT JJ CD IN CC DT NN NN CC DT NN NN .</POS>
+		<Lemma>as with the previous unit , I test the new one with both the ac charger and a 9v battery .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>All worked okay .</Tokens>
+		<POS>DT VBD JJ .</POS>
+		<Lemma>all work okay .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>One star off for the fact that the door on the second unit does n't seem to want to stay closed ... but other than that , I 'm satisfied .</Tokens>
+		<POS>CD NN IN IN DT NN IN DT NN IN DT JJ NN VBZ RB VB TO VB TO VB JJ : CC JJ IN DT , PRP VBP JJ .</POS>
+		<Lemma>one star off for the fact that the door on the second unit do not seem to want to stay closed ... but other than that , I be satisfied .</Lemma>
+	</Sentence>
+</Document>

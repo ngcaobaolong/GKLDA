@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I get tired of only consuming gels on long runs and these honey stingers are a delicious alternative that deliver about the same amount of energy -LRB- even without the caffeine -RRB- while also being easy on the stomach .</Tokens>
+		<POS>PRP VBP VBN IN RB VBG NNS IN JJ NNS CC DT NN NNS VBP DT JJ NN WDT VBP IN DT JJ NN IN NN -LRB- RB IN DT NN -RRB- IN RB VBG JJ IN DT NN .</POS>
+		<Lemma>I get tire of only consume gel on long run and these honey stinger be a delicious alternative that deliver about the same amount of energy -lrb- even without the caffeine -rrb- while also be easy on the stomach .</Lemma>
+	</Sentence>
+</Document>

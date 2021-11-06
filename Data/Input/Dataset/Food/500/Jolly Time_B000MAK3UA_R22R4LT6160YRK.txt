@@ -1,0 +1,27 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have tried various `` lite '' popcorns .</Tokens>
+		<POS>PRP VBP VBN JJ `` NN '' NNS .</POS>
+		<Lemma>I have try various `` lite '' popcorn .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This Jolly Time 100 calorie is the best one .</Tokens>
+		<POS>DT JJ NNP CD NN VBZ DT JJS CD .</POS>
+		<Lemma>this jolly Time 100 calorie be the best one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Great flavor , and the convenient small pack , helps me monitor my calories .</Tokens>
+		<POS>JJ NN , CC DT JJ JJ NN , VBZ PRP VB PRP$ NNS .</POS>
+		<Lemma>great flavor , and the convenient small pack , help I monitor my calorie .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>The vendor was terrific .</Tokens>
+		<POS>DT NN VBD JJ .</POS>
+		<Lemma>the vendor be terrific .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>I received my order promptly !</Tokens>
+		<POS>PRP VBD PRP$ NN RB .</POS>
+		<Lemma>I receive my order promptly !</Lemma>
+	</Sentence>
+</Document>

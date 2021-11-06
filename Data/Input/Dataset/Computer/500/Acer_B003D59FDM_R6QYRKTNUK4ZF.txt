@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I really ca n't rate this monitor , and had to return it , because I could n't even hook it up to my MAC , since it did n't have a DVI connection .</Tokens>
+		<POS>PRP RB MD RB VB DT NN , CC VBD TO VB PRP , IN PRP MD RB RB NN PRP RP TO PRP$ NNP , IN PRP VBD RB VB DT NNP NN .</POS>
+		<Lemma>I really can not rate this monitor , and have to return it , because I could not even hook it up to my MAC , since it do not have a DVI connection .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I did n't see anywhere it stated that in the Amazon advertising , even though it mentioned in the user guide that a DVI connection was `` optional '' , but no mention in the info from Amazon how you could accomplish that .</Tokens>
+		<POS>PRP VBD RB VB RB PRP VBD IN IN DT NNP NN , RB IN PRP VBD IN DT NN NN IN DT NNP NN VBD `` JJ '' , CC DT NN IN DT NN IN NNP WRB PRP MD VB DT .</POS>
+		<Lemma>I do not see anywhere it state that in the Amazon advertising , even though it mention in the user guide that a DVI connection be `` optional '' , but no mention in the info from Amazon how you could accomplish that .</Lemma>
+	</Sentence>
+</Document>

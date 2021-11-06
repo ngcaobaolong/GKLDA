@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Fits nicely on the small desk we use in our computer room .</Tokens>
+		<POS>VBZ RB IN DT JJ NN PRP VBP IN PRP$ NN NN .</POS>
+		<Lemma>fit nicely on the small desk we use in we computer room .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>It does not distort ; video and pictures look great .</Tokens>
+		<POS>PRP VBZ RB VB : NN CC NNS VBP JJ .</POS>
+		<Lemma>it do not distort ; video and picture look great .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>We like Acer products and this one does n't disappoint .</Tokens>
+		<POS>PRP VBP NNP NNS CC DT CD VBZ RB VB .</POS>
+		<Lemma>we like Acer product and this one do not disappoint .</Lemma>
+	</Sentence>
+</Document>

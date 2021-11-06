@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I get this camera a day ago and the pictures are great , has a lot of options , the camera looks great the touchscreen is nice and easy to use , this shipping was really fast , if you are looking for a good camera but do n't have much money this is for you , I recommend this product ,</Tokens>
+		<POS>PRP VBP DT NN DT NN RB CC DT NNS VBP JJ , VBZ DT NN IN NNS , DT NN VBZ JJ DT NN VBZ JJ CC JJ TO VB , DT NN VBD RB RB , IN PRP VBP VBG IN DT JJ NN CC VBP RB VB JJ NN DT VBZ IN PRP , PRP VBP DT NN ,</POS>
+		<Lemma>I get this camera a day ago and the picture be great , have a lot of option , the camera look great the touchscreen be nice and easy to use , this shipping be really fast , if you be look for a good camera but do not have much money this be for you , I recommend this product ,</Lemma>
+	</Sentence>
+</Document>

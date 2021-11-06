@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Amazaon shipped this item quickly , it arrived as promised and was quickly consumed by a college student in his dorm room .</Tokens>
+		<POS>NNP VBD DT NN RB , PRP VBD IN VBN CC VBD RB VBN IN DT NN NN IN PRP$ NN NN .</POS>
+		<Lemma>Amazaon ship this item quickly , it arrive as promise and be quickly consume by a college student in he dorm room .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>What else can be said ... ?</Tokens>
+		<POS>WP RB MD VB VBD : .</POS>
+		<Lemma>what else can be say ... ?</Lemma>
+	</Sentence>
+</Document>

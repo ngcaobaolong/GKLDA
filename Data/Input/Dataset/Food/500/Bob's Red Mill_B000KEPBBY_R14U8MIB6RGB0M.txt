@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great flavored soup that you do n't have to start from scratch .</Tokens>
+		<POS>JJ JJ NN IN PRP VBP RB VB TO VB IN NN .</POS>
+		<Lemma>great flavored soup that you do not have to start from scratch .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Very healthy choice .</Tokens>
+		<POS>RB JJ NN .</POS>
+		<Lemma>very healthy choice .</Lemma>
+	</Sentence>
+</Document>

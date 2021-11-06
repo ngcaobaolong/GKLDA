@@ -1,0 +1,17 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I brought this one as a second Camcorder i have a JVC camcorder and my wife uses it .</Tokens>
+		<POS>PRP VBD DT CD IN DT JJ NN FW VBP DT NNP NN CC PRP$ NN VBZ PRP .</POS>
+		<Lemma>I bring this one as a second camcorder i have a JVC camcorder and my wife use it .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I got it since it was cheap and from Sony but the performance is not as expected especially at Low Light conditions the image is too grainy and not clear .</Tokens>
+		<POS>PRP VBD PRP IN PRP VBD JJ CC IN NNP CC DT NN VBZ RB IN VBN RB IN JJ JJ NNS DT NN VBZ RB JJ CC RB JJ .</POS>
+		<Lemma>I get it since it be cheap and from Sony but the performance be not as expect especially at low light condition the image be too grainy and not clear .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>If you are looking for a decent camera i do not suggest this one .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ NN FW VBP RB VB DT CD .</POS>
+		<Lemma>if you be look for a decent camera i do not suggest this one .</Lemma>
+	</Sentence>
+</Document>

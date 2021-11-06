@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you desire sharpness , then this is not the monitor for you , I ended up returning it after two days , frankly I was dissapointed but do n't be `` penny wise pound foolish '' as the saying goes .</Tokens>
+		<POS>IN PRP VBP NN , RB DT VBZ RB DT NN IN PRP , PRP VBD RP VBG PRP IN CD NNS , RB PRP VBD JJ CC VBP RB VB `` NN JJ NN JJ '' IN DT VBG VBZ .</POS>
+		<Lemma>if you desire sharpness , then this be not the monitor for you , I end up return it after two day , frankly I be dissapointed but do not be `` penny wise pound foolish '' as the say go .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Spend a bit more money and get one that will provide a more define picture !</Tokens>
+		<POS>VB DT NN JJR NN CC VB CD WDT MD VB DT RBR VB NN .</POS>
+		<Lemma>spend a bit more money and get one that will provide a more define picture !</Lemma>
+	</Sentence>
+</Document>

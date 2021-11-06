@@ -1,0 +1,22 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I do n't know what all the others are talking about .</Tokens>
+		<POS>PRP VBP RB VB WP PDT DT NNS VBP VBG RB .</POS>
+		<Lemma>I do not know what all the other be talk about .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Its not stiff at all and it charges and syncs perfectly and its longer than the one that came with my Moto Droid .</Tokens>
+		<POS>PRP$ RB JJ IN DT CC PRP VBZ CC VBZ RB CC PRP$ JJR IN DT CD WDT VBD IN PRP$ NNP NNP .</POS>
+		<Lemma>its not stiff at all and it charge and sync perfectly and its longer than the one that come with my Moto Droid .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>I love this cable .</Tokens>
+		<POS>PRP VBP DT NN .</POS>
+		<Lemma>I love this cable .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Best $ 3 i ever spent .</Tokens>
+		<POS>JJS $ CD FW RB VBN .</POS>
+		<Lemma>best $ 3 i ever spend .</Lemma>
+	</Sentence>
+</Document>

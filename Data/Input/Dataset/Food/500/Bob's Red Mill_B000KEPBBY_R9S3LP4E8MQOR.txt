@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I LOVE LOVE LOVE this soup mix .</Tokens>
+		<POS>PRP VBP NN NN DT NN NN .</POS>
+		<Lemma>I love love love this soup mix .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>I just made another batch of soup using this soup mix , tomatoes and chicken , just for added flavor ... It makes a very rich , healthy , hearty and delicious soup .</Tokens>
+		<POS>PRP RB VBD DT NN IN NN VBG DT NN NN , NNS CC NN , RB IN VBN NN : PRP VBZ DT RB JJ , JJ , JJ CC JJ NN .</POS>
+		<Lemma>I just make another batch of soup use this soup mix , tomato and chicken , just for add flavor ... it make a very rich , healthy , hearty and delicious soup .</Lemma>
+	</Sentence>
+</Document>

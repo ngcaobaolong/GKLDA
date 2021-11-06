@@ -1,0 +1,7 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>When I first opened the bag it was almost too rich\/dark ... After a few days it mellowed out slightly and is one of the best beans I 've used with my Brevelle Espresso machine .</Tokens>
+		<POS>WRB PRP RB VBD DT NN PRP VBD RB RB JJ : IN DT JJ NNS PRP VBD RP RB CC VBZ CD IN DT JJS NNS PRP VBP VBN IN PRP$ NNP NNP NN .</POS>
+		<Lemma>when I first open the bag it be almost too rich\/dark ... after a few day it mellow out slightly and be one of the best bean I have use with my Brevelle Espresso machine .</Lemma>
+	</Sentence>
+</Document>

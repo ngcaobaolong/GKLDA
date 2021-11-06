@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>Great charger for any possible cell phone or iPod and usable in any circumstance .</Tokens>
+		<POS>JJ NN IN DT JJ NN NN CC NN CC JJ IN DT NN .</POS>
+		<Lemma>great charger for any possible cell phone or ipod and usable in any circumstance .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Great for travellers who want to minimized the tangle of wires of multiple chargers when you go on trips .</Tokens>
+		<POS>NNP IN NNS WP VBP TO VBN DT NN IN NNS IN JJ NNS WRB PRP VBP IN NNS .</POS>
+		<Lemma>Great for traveller who want to minimize the tangle of wire of multiple charger when you go on trip .</Lemma>
+	</Sentence>
+</Document>

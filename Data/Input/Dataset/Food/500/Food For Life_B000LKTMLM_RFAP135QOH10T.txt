@@ -1,0 +1,52 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>If you are looking for a healthy , complete cereal , this is for you .</Tokens>
+		<POS>IN PRP VBP VBG IN DT JJ , JJ NN , DT VBZ IN PRP .</POS>
+		<Lemma>if you be look for a healthy , complete cereal , this be for you .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>Most boxes of cereal can be eaten in a few helpings , but even though this comes in a relatively small box , it 's pretty full -LRB- 16 oz is more than most big general mills boxes -RRB- and should last you far more meals than your average cereal because it 's filling and nutrient dense .</Tokens>
+		<POS>JJS NNS IN NN MD VB VBN IN DT JJ NNS , CC RB IN DT VBZ IN DT RB JJ NN , PRP VBZ RB JJ -LRB- CD NN VBZ JJR IN JJS JJ JJ NNS NNS -RRB- CC MD VB PRP RB RBR NNS IN PRP$ JJ NN IN PRP VBZ VBG CC NN JJ .</POS>
+		<Lemma>most box of cereal can be eat in a few helping , but even though this come in a relatively small box , it be pretty full -lrb- 16 oz be more than most big general mill box -rrb- and should last you far more meal than you average cereal because it be fill and nutrient dense .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>As far as the cereal goes , do not be fooled by the calorie count per half cup - there is zero sugar and every calorie you eat is nutrient dense and healthy .</Tokens>
+		<POS>IN RB IN DT NN VBZ , VBP RB VB VBN IN DT NN NN IN NN NN : EX VBZ CD NN CC DT NN PRP VBP VBZ JJ JJ CC JJ .</POS>
+		<Lemma>as far as the cereal go , do not be fool by the calorie count per half cup - there be zero sugar and every calorie you eat be nutrient dense and healthy .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>This is perfect with milk and some fruit -LRB- e.g. , banana , blueberries -RRB- .</Tokens>
+		<POS>DT VBZ JJ IN NN CC DT NN -LRB- FW , NN , NNS -RRB- .</POS>
+		<Lemma>this be perfect with milk and some fruit -lrb- e.g. , banana , blueberry -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>You can also eat it plain with milk but it 's not as sweet , although it does not taste bad in my opinion .</Tokens>
+		<POS>PRP MD RB VB PRP JJ IN NN CC PRP VBZ RB IN JJ , IN PRP VBZ RB VB JJ IN PRP$ NN .</POS>
+		<Lemma>you can also eat it plain with milk but it be not as sweet , although it do not taste bad in my opinion .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>It goes well in Yogurt as well .</Tokens>
+		<POS>PRP VBZ RB IN NNP RB RB .</POS>
+		<Lemma>it go well in Yogurt as well .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>Another great thing about this cereal is that it 's completely natural , there 's not any added vitamins .</Tokens>
+		<POS>DT JJ NN IN DT NN VBZ IN PRP VBZ RB JJ , EX VBZ RB DT VBN NNS .</POS>
+		<Lemma>another great thing about this cereal be that it be completely natural , there be not any add vitamin .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>If you do n't understand what this means , for example , cereals like Total are basically cereal + vitamins added .</Tokens>
+		<POS>IN PRP VBP RB VB WP DT VBZ , IN NN , NNS IN NNP VBP RB NN CC NNS VBD .</POS>
+		<Lemma>if you do not understand what this mean , for example , cereal like Total be basically cereal + vitamin add .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>It 's like adding multivitamin to the cereal , the vitamins and minerals are not natural .</Tokens>
+		<POS>PRP VBZ IN VBG NN TO DT NN , DT NNS CC NNS VBP RB JJ .</POS>
+		<Lemma>it be like add multivitamin to the cereal , the vitamin and mineral be not natural .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>This cereal is completely whole .</Tokens>
+		<POS>DT NN VBZ RB JJ .</POS>
+		<Lemma>this cereal be completely whole .</Lemma>
+	</Sentence>
+</Document>

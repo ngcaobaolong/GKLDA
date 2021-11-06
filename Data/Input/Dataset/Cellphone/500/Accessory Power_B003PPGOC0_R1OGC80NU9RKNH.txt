@@ -1,0 +1,37 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>I have been waiting awhile to purchase the right FM Transmitter .</Tokens>
+		<POS>PRP VBP VBN VBG RB TO VB DT JJ NN NN .</POS>
+		<Lemma>I have be wait awhile to purchase the right fm transmitter .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>This is the one .</Tokens>
+		<POS>DT VBZ DT CD .</POS>
+		<Lemma>this be the one .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>Works seamlessly every time I get in the car -LRB- with my phone in my pocket -RRB- .</Tokens>
+		<POS>NNP RB DT NN PRP VBP IN DT NN -LRB- IN PRP$ NN IN PRP$ NN -RRB- .</POS>
+		<Lemma>Works seamlessly every time I get in the car -lrb- with my phone in my pocket -rrb- .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Very clear sound for a transmitter and the bluetooth connection is solid even for phone calls .</Tokens>
+		<POS>RB JJ NN IN DT NN CC DT NN NN VBZ JJ RB IN NN NNS .</POS>
+		<Lemma>very clear sound for a transmitter and the bluetooth connection be solid even for phone call .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>Great product , looks nice , and well thought out !</Tokens>
+		<POS>JJ NN , VBZ JJ , CC RB VBN RP .</POS>
+		<Lemma>great product , look nice , and well think out !</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Bravo .</Tokens>
+		<POS>NNP .</POS>
+		<Lemma>Bravo .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>My music is back in my car !</Tokens>
+		<POS>PRP$ NN VBZ RB IN PRP$ NN .</POS>
+		<Lemma>my music be back in my car !</Lemma>
+	</Sentence>
+</Document>

@@ -1,0 +1,67 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>This camera is great .</Tokens>
+		<POS>DT NN VBZ JJ .</POS>
+		<Lemma>this camera be great .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>i did alot of comparison to the kodak Playful vs the Kodak playful original and its brothers the sport z3 and z5 .</Tokens>
+		<POS>LS VBD NN IN NN TO DT NN NNP CC DT NNP JJ JJ CC PRP$ NNS DT NN NN CC NN .</POS>
+		<Lemma>i do alot of comparison to the kodak Playful vs the Kodak playful original and its brother the sport z3 and z5 .</Lemma>
+	</Sentence>
+	<Sentence id="2">
+		<Tokens>The kodak playful ze2 -LRB- the product I 'm reviewing -RRB- is excellent for theme parks , water parks , etc. .</Tokens>
+		<POS>DT NN JJ NN -LRB- DT NN PRP VBP VBG -RRB- VBZ JJ IN NN NNS , NN NNS , FW .</POS>
+		<Lemma>the kodak playful ze2 -lrb- the product I be review -rrb- be excellent for theme park , water park , etc. .</Lemma>
+	</Sentence>
+	<Sentence id="3">
+		<Tokens>Good on the go camera because i do n't want to have to worry about dropping my regular camera or phone while this can take a 5ft drop and 10ft of waterproof .</Tokens>
+		<POS>JJ IN DT NN NN IN FW VBP RB VB TO VB TO VB RB VBG PRP$ JJ NN CC NN IN DT MD VB DT JJ NN CC NN IN JJ .</POS>
+		<Lemma>good on the go camera because i do not want to have to worry about drop my regular camera or phone while this can take a 5ft drop and 10ft of waterproof .</Lemma>
+	</Sentence>
+	<Sentence id="4">
+		<Tokens>the original playful is not waterproof or drop proof .</Tokens>
+		<POS>DT JJ JJ VBZ RB JJ CC NN NN .</POS>
+		<Lemma>the original playful be not waterproof or drop proof .</Lemma>
+	</Sentence>
+	<Sentence id="5">
+		<Tokens>Now as far as video quality , this shoots 720 when the orignal playful shoots 1080 .</Tokens>
+		<POS>RB IN RB IN JJ NN , DT VBZ CD WRB DT JJ JJ NNS CD .</POS>
+		<Lemma>now as far as video quality , this shoot 720 when the orignal playful shoot 1080 .</Lemma>
+	</Sentence>
+	<Sentence id="6">
+		<Tokens>I hooked them both up to my tv and see no difference .</Tokens>
+		<POS>PRP VBD PRP DT RP TO PRP$ NN CC VB DT NN .</POS>
+		<Lemma>I hook they both up to my tv and see no difference .</Lemma>
+	</Sentence>
+	<Sentence id="7">
+		<Tokens>As far as the sports they have a much brighter picture and smooth video as to where the playfulls are choppy if you move them too fast .</Tokens>
+		<POS>IN RB IN DT NNS PRP VBP DT JJ JJR NN CC VB NN IN TO WRB DT NNS VBP JJ IN PRP VBP PRP RB RB .</POS>
+		<Lemma>as far as the sport they have a much brighter picture and smooth video as to where the playfull be choppy if you move they too fast .</Lemma>
+	</Sentence>
+	<Sentence id="8">
+		<Tokens>Overall this camera is awesome and I have no complaints .</Tokens>
+		<POS>RB DT NN VBZ JJ CC PRP VBP DT NNS .</POS>
+		<Lemma>overall this camera be awesome and I have no complaint .</Lemma>
+	</Sentence>
+	<Sentence id="9">
+		<Tokens>love the hdmi and sd card slot .</Tokens>
+		<POS>NN DT NN CC NN NN NN .</POS>
+		<Lemma>love the hdmus and sd card slot .</Lemma>
+	</Sentence>
+	<Sentence id="10">
+		<Tokens>camera is lightweight and small .</Tokens>
+		<POS>NN VBZ JJ CC JJ .</POS>
+		<Lemma>camera be lightweight and small .</Lemma>
+	</Sentence>
+	<Sentence id="11">
+		<Tokens>not as thin as i thought but still good .</Tokens>
+		<POS>RB IN JJ IN FW NN CC RB JJ .</POS>
+		<Lemma>not as thin as i thought but still good .</Lemma>
+	</Sentence>
+	<Sentence id="12">
+		<Tokens>battery life is excellent , about 10 hrs .</Tokens>
+		<POS>NN NN VBZ JJ , IN CD NNS .</POS>
+		<Lemma>battery life be excellent , about 10 hr .</Lemma>
+	</Sentence>
+</Document>

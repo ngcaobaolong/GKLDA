@@ -1,0 +1,12 @@
+<Document>
+	<Sentence id="0">
+		<Tokens>After trying them , I am not sure if I imagined them to help , or if my hopefulness got the better of me .</Tokens>
+		<POS>IN VBG PRP , PRP VBP RB JJ IN PRP VBD PRP TO VB , CC IN PRP$ NN VBD DT JJR IN PRP .</POS>
+		<Lemma>after try they , I be not sure if I imagine they to help , or if my hopefulness get the better of I .</Lemma>
+	</Sentence>
+	<Sentence id="1">
+		<Tokens>They might boost your bars slightly in certain conditions , but definately not anything to write home about .</Tokens>
+		<POS>PRP MD VB PRP$ NNS RB IN JJ NNS , CC RB RB NN TO VB NN IN .</POS>
+		<Lemma>they might boost you bar slightly in certain condition , but definately not anything to write home about .</Lemma>
+	</Sentence>
+</Document>
