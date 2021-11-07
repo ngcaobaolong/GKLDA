@@ -1,7 +1,7 @@
 modelName=LDA
 domain=Camera
-D=8958
-V=1230
+D=5271
+V=1024
 T=15
 nBurnin=200
 nIterations=2000

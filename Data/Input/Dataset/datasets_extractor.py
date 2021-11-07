@@ -40,7 +40,7 @@ for domain in domain_folder:
                     vocab = num_child[2].text.lower().replace(".","").replace(",","").replace("-","").replace("%","").replace("\/","").split(" ")
                     for i in range(len(vocab)):
                         # Chỉ lấy các từ phù hợp với tiêu chuẩn đặt ra
-                        if lemma[i] in verb_adj and vocab[i] not in domain_name and vocab[i] not in english_stop and vocab[i] != "" and not vocab[i].isnumeric():
+                        if lemma[i] in verb_adj and vocab[i] not in domain_name and vocab[i] not in english_stop and vocab[i] != " " and vocab[i] != "" and not vocab[i].isnumeric():
                             vocab_line.append(vocab[i])
                             global_list.append(vocab[i])   
                     if (len(vocab_line)>0):
